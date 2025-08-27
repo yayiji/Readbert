@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "Don't interrupt me while I'm working today. I need to maintain my flow."
+        "Don't interrupt me while I'm working today.",
+        "I need to maintain my flow."
       ]
     },
     {
@@ -16,30 +17,37 @@
     {
       "panel": 3,
       "dialogue": [
-        "Well, no, but come get me if I need to sign for a package."
+        "You can interrupt me for an emergency."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Are you about to list dozens of valid reasons to interrupt my flow until you wear me down?"
+        "Would it be an emergency if you had to sign for a package?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Just because I have plenty of time and would enjoy it, that doesn't mean I'm doing it."
+        "Well, no, but come get me if I need to sign for a package."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Okay, good."
+        "Are you about to list dozens of valid reasons to interrupt my flow until you wear me down?"
       ]
     },
     {
       "panel": 7,
       "dialogue": [
+        "Just because I have plenty of time and would enjoy it, that doesn't mean I'm doing it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, good.",
         "What if a skunk got into our heating ducts?"
       ]
     }
