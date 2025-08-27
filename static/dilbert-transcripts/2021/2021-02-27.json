@@ -1,0 +1,30 @@
+{
+  "date": "2021-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I want your honest feedback on how I'm doing as your boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This feels like a trap."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not at all! I love constructive criticism!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think you're almost perfect.",
+        "Almost?"
+      ]
+    }
+  ]
+}

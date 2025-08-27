@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dave, I support your right to identify any way you want."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'm trying to reach my diversity targets, and it isn't helping me that you identify as white."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could identify as black and solve your own problem.",
+        "That's how I paid for college."
+      ]
+    }
+  ]
+}

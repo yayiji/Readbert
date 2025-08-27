@@ -1,0 +1,25 @@
+{
+  "date": "2022-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, mom...",
+        "I invented a space laser that vaporized an alien armada and saved our planet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I made a scarf.",
+        "I guess we're done with my topic."
+      ]
+    }
+  ]
+}

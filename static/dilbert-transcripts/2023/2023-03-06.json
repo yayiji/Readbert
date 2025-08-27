@@ -1,0 +1,24 @@
+{
+  "date": "2023-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know if I mentioned I built a user interface to control the world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to hide my ownership of it so no large military power would know what I was up to."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you call this user interface?",
+        "TikTok. Have you heard of it?"
+      ]
+    }
+  ]
+}

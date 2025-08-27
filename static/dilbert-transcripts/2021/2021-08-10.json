@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you even talking about???"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If everything I say confuses you, consider the possibility the problem isn't on my end."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does that even mean?",
+        "Looks like it's turtles all the way down with you."
+      ]
+    }
+  ]
+}

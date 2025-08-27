@@ -1,0 +1,26 @@
+{
+  "date": "2022-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you free for lunch this weekend?",
+        "No, I might have plans."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Might? When can I check back?",
+        "I don't know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I remain optimistic?",
+        "Yes, that would be funnier."
+      ]
+    }
+  ]
+}

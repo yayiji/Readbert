@@ -1,0 +1,29 @@
+{
+  "date": "2022-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales are down 100% because you fired the entire sales team to reduce expenses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hire them all back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then our expenses will be too high."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm disappointed in your negativity."
+      ]
+    }
+  ]
+}

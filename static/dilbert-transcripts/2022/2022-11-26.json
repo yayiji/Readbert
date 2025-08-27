@@ -1,0 +1,26 @@
+{
+  "date": "2022-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who am I?",
+        "You are a robot I designed to love me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's my whole purpose?",
+        "Pretty much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that why I don't have legs?",
+        "Stop making this weird."
+      ]
+    }
+  ]
+}

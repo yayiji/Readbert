@@ -1,0 +1,35 @@
+{
+  "date": "2021-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our stock is down because seventy-three subordinates accused our ceo of inappropriate behavior at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I can't give you a bonus even though your work was excellent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boom!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How'd he take it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Grab some paper towels."
+      ]
+    }
+  ]
+}

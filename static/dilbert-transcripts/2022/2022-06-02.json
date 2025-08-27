@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm putting you in charge of testing our new drug in a large-scale, randomized, controlled study."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. What result do you want me to give you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're almost too perfect for this job.",
+        "Thank you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2021-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, can everyone hear me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, your microphone must be broken. We can't hear anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should just re-schedule this zoom call."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's how I'd play it."
+      ]
+    }
+  ]
+}

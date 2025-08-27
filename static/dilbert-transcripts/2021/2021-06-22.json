@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your video call background needs improvement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll fill your shelves with sports trophies, plus photos of you shaking hands with Jesus."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who would believe I shook hands with Jesus?",
+        "The same people who will believe you won lots of sports trophies."
+      ]
+    }
+  ]
+}

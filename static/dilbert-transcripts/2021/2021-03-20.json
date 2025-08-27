@@ -1,0 +1,29 @@
+{
+  "date": "2021-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, four out of five of your projects are behind schedule"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because of the pandemic"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One of your projects is on schedule"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's because of me"
+      ]
+    }
+  ]
+}

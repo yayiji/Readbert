@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone, meet my new hire, Diona Hill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She always gets her way because she's willing to die on any hill."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds sub-optimal.",
+        "Apologize, or I will hunt you to the end of time!"
+      ]
+    }
+  ]
+}

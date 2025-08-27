@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't do this assignment because it gives me anxiety."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By not doing the assignment, you are giving me anxiety."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need an anxiety arbitrator to figure out who has the greater claim.",
+        "Present."
+      ]
+    }
+  ]
+}

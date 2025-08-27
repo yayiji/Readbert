@@ -1,0 +1,23 @@
+{
+  "date": "2021-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why can't you just admit that adding servers will increase energy costs?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, for one thing, it's obvious to any idiot. Secondly, it isn't related to our discussion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Those are fairly good reasons."
+      ]
+    }
+  ]
+}

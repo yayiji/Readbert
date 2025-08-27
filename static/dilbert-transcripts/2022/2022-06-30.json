@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pundits are saying our voting machines were hacked because one candidate got 100% of the votes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need to quickly bribe a reporter to write a story about how that candidate ran a great campaign."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That candidate was your brother.",
+        "Let's hope no one else knows that."
+      ]
+    }
+  ]
+}

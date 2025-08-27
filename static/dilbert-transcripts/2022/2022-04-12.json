@@ -1,0 +1,29 @@
+{
+  "date": "2022-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We haven't made it hard enough for customers to reach us for service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Granted, we've made it impossible to navigate our phone menus, chat bots, and webpages, but people still keep showing up in our lobby."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there any way to remove our building from satellite photos?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I feel as if we've turned a dark corner."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a new deadly virus coming out of Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was made by Elbonians, in an Elbonian lab, and the main ingredient is Elbonian DNA."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's it called?",
+        "X7QB.3."
+      ]
+    }
+  ]
+}

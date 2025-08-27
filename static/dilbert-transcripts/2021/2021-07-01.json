@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you redesign it so the power button is on the bottom?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely. Our professional design team loves it when inexperienced people make suggestions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if you're mocking me.",
+        "No, you can't."
+      ]
+    }
+  ]
+}

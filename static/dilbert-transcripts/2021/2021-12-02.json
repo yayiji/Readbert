@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm opening a driving school for truckers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't know how to drive a big rig.",
+        "Neither do they."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Make sure you slowly release the framjam before turbo-flexing the naviplar."
+      ]
+    }
+  ]
+}

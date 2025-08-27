@@ -1,0 +1,48 @@
+{
+  "date": "2021-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you mind giving my son some career advice?",
+        "He won't listen to my advice because I'm his father."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah, that's the reason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want to do something I'm passionate about."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And it has to be fun but not a lot of work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Have you ever wondered why the rest of us didn't think of doing something like that?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is it because you're idiots?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There's something about you that screams 'manager'."
+      ]
+    }
+  ]
+}

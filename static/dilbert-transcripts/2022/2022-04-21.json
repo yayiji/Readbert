@@ -1,0 +1,23 @@
+{
+  "date": "2022-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The bad news is that you won't be getting raises this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The good news is that management is hosting a pizza party after work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All we need is a volunteer to pay for the pizza."
+      ]
+    }
+  ]
+}

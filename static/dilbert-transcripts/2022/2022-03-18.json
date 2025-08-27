@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I calm my nerves about my presentation tomorrow?",
+        "Ask yourself what's the worst thing that can happen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could embarrass myself so badly that I become a serial killer and have to hide in the forest until wild pigs eat me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now don't you feel better?"
+      ]
+    }
+  ]
+}

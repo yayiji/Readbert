@@ -1,0 +1,25 @@
+{
+  "date": "2023-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! I did great work today, if I do say so myself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did anyone see you do it?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Total waste of time.",
+        "Yeah, that's starting to set in."
+      ]
+    }
+  ]
+}

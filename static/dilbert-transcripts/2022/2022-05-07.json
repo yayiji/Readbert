@@ -1,0 +1,25 @@
+{
+  "date": "2022-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to a happy life is never answer your phone at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't that make your co-workers angry?",
+        "They're always angry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, ignore my voicemail. I took care of it myself.",
+        "You're welcome!"
+      ]
+    }
+  ]
+}

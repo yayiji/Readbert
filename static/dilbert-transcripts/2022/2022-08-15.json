@@ -1,0 +1,23 @@
+{
+  "date": "2022-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our research group has developed a chip that can be inserted into a human brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that so people can control the internet with their thoughts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you think the causation will work in that direction, I don't want to talk you out of it."
+      ]
+    }
+  ]
+}

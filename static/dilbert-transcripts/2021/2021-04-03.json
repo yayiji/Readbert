@@ -1,0 +1,25 @@
+{
+  "date": "2021-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The press is all over me because seventy-three subordinates accused me of inappropriate behavior."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's only one thing I can do.",
+        "Quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I know who to murder to divert the press.",
+        "Am I right?"
+      ]
+    }
+  ]
+}

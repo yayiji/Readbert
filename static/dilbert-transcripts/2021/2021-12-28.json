@@ -1,0 +1,30 @@
+{
+  "date": "2021-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's this I hear about you wanting to replace our network with a knotted rope?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's dumb. I've never said anything like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll tell everyone you're walking it back."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell them I never said it.",
+        "I'll tell them you moved the goalposts."
+      ]
+    }
+  ]
+}

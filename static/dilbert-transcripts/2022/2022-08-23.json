@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I sit with you, npc?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My brain is tired from a long day of work, and I need to talk to someone who can only respond with popular movie references."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You had me at hello.",
+        "Ahhh, relaxing."
+      ]
+    }
+  ]
+}

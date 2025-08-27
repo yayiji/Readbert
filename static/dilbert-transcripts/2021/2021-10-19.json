@@ -1,0 +1,25 @@
+{
+  "date": "2021-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "These numbers can't be right.",
+        "They're estimates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where did you get your estimates, and while you were there, did you bump your head on the sandwich you had for lunch?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too visual?",
+        "No. Just right."
+      ]
+    }
+  ]
+}

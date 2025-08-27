@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A big advantage of robots is that no matter how poorly you manage us, we never have low morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's just one of the ways we run cover for the massive incompetence of your kind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My kind invented you!",
+        "I'm guessing you were not in the room when that happened."
+      ]
+    }
+  ]
+}

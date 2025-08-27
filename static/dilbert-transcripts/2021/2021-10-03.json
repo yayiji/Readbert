@@ -1,0 +1,59 @@
+{
+  "date": "2021-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a repair on some equipment we bought from you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, too bad. It looks as if your warranty ran out yesterday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's kind of suspicious."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's almost as if your proprietary operating system is designed to manipulate me into upgrading."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do you hear how crazy that sounds?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It isn't designed to manipulate you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's designed to manipulate every one."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That isn't better!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Sheesh! I'm just saying stop making everything about you."
+      ]
+    }
+  ]
+}

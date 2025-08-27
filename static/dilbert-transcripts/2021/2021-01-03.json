@@ -1,0 +1,53 @@
+{
+  "date": "2021-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm planning to increase the budget for training by fifty percent next year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He didn't say anything about the other budgets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He didn't say anything about the budget for research and development."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sounds like he's phasing out research and development."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He wouldn't phase out research and development unless he knows the company is failing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The company must be going bankrupt."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The company is bankrupt."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I guess I don't need to increase the training budget."
+      ]
+    }
+  ]
+}

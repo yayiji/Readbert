@@ -1,0 +1,57 @@
+{
+  "date": "2021-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you finish by the deadline, I'll recommend you for a million-dollar bonus.",
+        "You're lying.",
+        "I'm serious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you're also lying.",
+        "Only one way to find out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the spirit!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you're lying about the bonus, I'm going to be boiling mad."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Five weeks later"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It nearly killed me, but I finished by the deadline."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Where's my million-dollar bonus?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I told you I'd recommend it.",
+        "They said no."
+      ]
+    }
+  ]
+}

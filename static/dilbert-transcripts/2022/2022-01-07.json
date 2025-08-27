@@ -1,0 +1,23 @@
+{
+  "date": "2022-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be taking a few days off, and I need someone to fill in for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow. I'm surprised but honored you would come to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Right. So, how hard would it be for you to program our office robot to fill in for me?"
+      ]
+    }
+  ]
+}

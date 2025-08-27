@@ -1,0 +1,23 @@
+{
+  "date": "2021-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having a disagreement with Alice, and I want you to side with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about I make up my own mind based on the facts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not going to work for me."
+      ]
+    }
+  ]
+}

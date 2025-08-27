@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having cake in the conference room for ted's birthday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one does. We didn't invite him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why are we having an event for him?",
+        "We like cake?"
+      ]
+    }
+  ]
+}

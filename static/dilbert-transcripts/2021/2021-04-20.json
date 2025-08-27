@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you adjust your camera so I'm not looking up your nose?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, now can you adjust your lighting so you don't look like a lightbulb with a beard?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's my audio?",
+        "It's as good as your ideas."
+      ]
+    }
+  ]
+}

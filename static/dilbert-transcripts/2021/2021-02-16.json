@@ -1,0 +1,23 @@
+{
+  "date": "2021-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Was your suggestion meant to be sarcasm, or are you so dumb you think it is a good idea?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think it's a good idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no further questions."
+      ]
+    }
+  ]
+}

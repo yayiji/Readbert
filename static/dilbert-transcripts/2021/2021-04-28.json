@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you for your suggestions on what we should do instead of shaking hands."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to read a few, and we can take a vote."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, it seems that all of your suggestions are obscene.",
+        "I vote yes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having trouble properly annoying our remote workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you tried randomly dropping into zoom meetings you weren't invited to attend?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, everyone! It's me again!",
+        "Someone please kill me."
+      ]
+    }
+  ]
+}

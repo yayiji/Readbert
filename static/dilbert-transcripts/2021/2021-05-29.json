@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please stop leaning into the camera while chewing the end of your pen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It makes me want to drive to your house and shove that pen up your nose."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you won't do that, right?",
+        "What's your address?"
+      ]
+    }
+  ]
+}

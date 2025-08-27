@@ -1,0 +1,23 @@
+{
+  "date": "2021-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Give me a report on your progress with the system upgrade."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've made no progress at all because you keep making me do reports."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't mention that in the report."
+      ]
+    }
+  ]
+}

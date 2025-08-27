@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's that behind you on the shelf? Can't you make your background more attractive?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we're being that way, who cuts your hair? Your lawn mower?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did your gym go out of business?",
+        "I already miss our last shred of human decency."
+      ]
+    }
+  ]
+}

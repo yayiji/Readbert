@@ -1,0 +1,23 @@
+{
+  "date": "2022-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The finance department says we can increase earnings by 18% if we..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...make it harder for customers to return defective products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our plan is to add one layer of inconvenience per year, giving us time to acclimate to each new level of shame."
+      ]
+    }
+  ]
+}

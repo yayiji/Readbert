@@ -1,0 +1,23 @@
+{
+  "date": "2023-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is implementing a dress code for remote workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will no longer be allowed to dress like pantless hobos."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And masking is mandatory, but only because I hate all of you."
+      ]
+    }
+  ]
+}

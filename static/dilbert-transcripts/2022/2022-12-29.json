@@ -1,0 +1,30 @@
+{
+  "date": "2022-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a job offer at a better company.",
+        "Better? That's not possible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We collude with the other companies in our industry to be equally terrible, but in different ways."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They offered me more money."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ouch. Sounds like a brutal commute."
+      ]
+    }
+  ]
+}

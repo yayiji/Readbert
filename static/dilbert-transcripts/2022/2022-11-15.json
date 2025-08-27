@@ -1,0 +1,24 @@
+{
+  "date": "2022-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm here with a whistleblower who claims his company makes unsafe products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously, this man is a nut, and you should not listen to anything he has to say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And now a word from our sponsor, who is also this man's employer.",
+        "What?"
+      ]
+    }
+  ]
+}

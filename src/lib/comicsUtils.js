@@ -1,0 +1,103 @@
+/**
+ * Utility functions for handling Dilbert comics
+ */
+
+/**
+ * Parse a comic filename to extract the date and format it
+ * @param {string} filename - Comic filename (e.g., "2023-01-15.gif")
+ * @returns {Object} Comic info with date and formatted date
+ */
+export function parseComicFilename(filename) {
+  // Remove file extension
+  const nameWithoutExt = filename.replace(/\.[^/.]+$/, '');
+  
+  // Date is now the full filename
+  const date = nameWithoutExt;
+  
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    return null;
+  }
+  
+  return {
+    date,
+    formattedDate: formatDate(date),
+    tags: [] // No longer used, but kept for compatibility
+  };
+}
+
+/**
+ * Generate comic filename from date
+ * @param {string} date - Date in YYYY-MM-DD format
+ * @returns {string} Comic filename
+ */
+export function generateComicFilename(date) {
+  return `${date}.gif`;
+}
+
+/**
+ * Check if a date is valid for comics
+ * @param {string} date - Date in YYYY-MM-DD format
+ * @returns {boolean} True if date is valid
+ */
+export function isValidComicDate(date) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    return false;
+  }
+  
+  const [year, month, day] = date.split('-').map(Number);
+  const comicDate = new Date(year, month - 1, day);
+  
+  // Check if the date is valid
+  if (comicDate.getFullYear() !== year || 
+      comicDate.getMonth() !== month - 1 || 
+      comicDate.getDate() !== day) {
+    return false;
+  }
+  
+  // Dilbert started in 1989
+  if (year < 1989) {
+    return false;
+  }
+  
+  return true;
+}
+
+/**
+ * Format date for display
+ * @param {string} dateString - Date in YYYY-MM-DD format
+ * @returns {string} Formatted date
+ */
+export function formatDate(dateString) {
+  const date = new Date(dateString);
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+}
+
+/**
+ * Get comic image URL
+ * @param {string} year - Year folder
+ * @param {string} filename - Comic filename
+ * @returns {string} Image URL
+ */
+export function getComicImageUrl(year, filename) {
+  return `/dilbert-comics/${year}/${filename}`;
+}
+
+/**
+ * Get all available years that have completed transcripts
+ * 
+ * 🔧 HOW TO ADD NEW YEARS:
+ * When you finish transcribing a new year, add it to the TRANSCRIBED_YEARS array below.
+ * Example: After transcribing 2021, change the array to: ['2022', '2023', '2021']
+ * 
+ * @returns {string[]} Array of year strings for years with completed transcripts
+ */
+export function getAvailableYears() {
+  // 📝 EDIT THIS ARRAY to add newly transcribed years
+  const TRANSCRIBED_YEARS = ['2021','2022', '2023'];
+  
+  return TRANSCRIBED_YEARS.sort(); // Keep them sorted chronologically
+}

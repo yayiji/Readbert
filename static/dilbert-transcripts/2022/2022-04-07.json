@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented an energy source that is cheaper than fossil fuels!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you also invent a way to prevent the oil-producing countries from trying to kill us for competing with them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Toss it in the trash."
+      ]
+    }
+  ]
+}

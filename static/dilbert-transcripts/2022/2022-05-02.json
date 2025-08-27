@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management asked me to add some diversity to the engineering team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meet Dave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I identify as white.",
+        "You're ruining everything, Dave."
+      ]
+    }
+  ]
+}

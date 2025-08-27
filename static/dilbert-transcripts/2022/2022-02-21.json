@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What should investors do in the coming year?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, bob, I recommend full-on panic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd hoped you would be more construc-tive.",
+        "I'm not a slave to your hopes, bob."
+      ]
+    }
+  ]
+}

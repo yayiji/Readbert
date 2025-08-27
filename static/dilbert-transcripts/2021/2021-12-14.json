@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't need to do any actual work in order to succeed here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just find a team that is already successful and burrow into it so deeply your incompetence goes unnoticed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Won't the smart people notice?",
+        "Yes, but no one listens to them."
+      ]
+    }
+  ]
+}

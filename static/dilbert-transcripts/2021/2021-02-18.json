@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow. My apple stock just went up 1.5%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sold all of my bitcoin to acquire greenland."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know it was for sale.",
+        "It wasn't, but luckily a mercenary army was."
+      ]
+    }
+  ]
+}

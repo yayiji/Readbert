@@ -1,0 +1,47 @@
+{
+  "date": "2021-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wish me luck. I need to get a permit renewed at the department of angry misfits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stay alive!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you, some kind of fancy engineer? I bet you love your job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, I hate my job, and someone has to pay for that!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Denied! Denied! Denied!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What do you mean by a 'partial win'?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Validated parking."
+      ]
+    }
+  ]
+}

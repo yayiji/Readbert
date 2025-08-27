@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to our internal survey, 25% of our employees are non-player characters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All they can do is talk about the weather and complain about work. That's how I plan to weed them out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate working when it's sunny.",
+        "Pack up your things."
+      ]
+    }
+  ]
+}

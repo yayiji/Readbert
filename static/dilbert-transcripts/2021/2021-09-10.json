@@ -1,0 +1,25 @@
+{
+  "date": "2021-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I wonder what it's like to be you.",
+        "You mean being a leader?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean having a compost pit in my skull instead of a brain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now it's your turn to grunt something.",
+        "Hmph!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2021-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My accomplishment this week was reorganizing the lab and throwing out all the old equipment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I accomplished nothing this week because someone hid all of my cables and threw away my prototype."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try to be more like Alice. She gets things done."
+      ]
+    }
+  ]
+}

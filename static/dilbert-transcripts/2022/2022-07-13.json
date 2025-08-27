@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to lay off ten percent of my employees so the company can stay solvent during the downturn."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't tell who is doing a good job, so my plan is to fire the first person who asks me a dumb question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if the question isn't dumb?",
+        "We have a winner."
+      ]
+    }
+  ]
+}

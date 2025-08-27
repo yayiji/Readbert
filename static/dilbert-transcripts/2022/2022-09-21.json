@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a one-variable guy to replace the one that quit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The new guy will act as if every complex topic has only one variable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our business plan is literally illegal.",
+        "He's exhausting."
+      ]
+    }
+  ]
+}

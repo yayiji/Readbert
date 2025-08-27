@@ -1,0 +1,47 @@
+{
+  "date": "2021-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We must base our decisions on data!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can we be sure the data is accurate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, you fool! Just look at the data from the tests other people did."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How do I know I can trust those other people?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You have to use your best judgment."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Instead of data?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I hate you so much right now."
+      ]
+    }
+  ]
+}

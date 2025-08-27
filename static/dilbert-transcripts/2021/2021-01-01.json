@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My audit of your company has uncovered many disturbing things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, did you know the sales department holds cockfights on the third floor every Tuesday?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why have I never been invited?",
+        "You're not a rooster."
+      ]
+    }
+  ]
+}

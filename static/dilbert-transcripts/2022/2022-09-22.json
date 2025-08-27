@@ -1,0 +1,23 @@
+{
+  "date": "2022-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your plan is totally impractical because it will create extra work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every plan creates more work than this plan, including not being proactive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hear what you're saying, but I can't support creating more work."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you round up all the remote workers and put them in boxes yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, some of them turned feral. I don't think they can be reintegrated into society."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you're talking about the engineers, no one will notice any difference.",
+        "Fair point."
+      ]
+    }
+  ]
+}

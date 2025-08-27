@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The gain-of-function experiments on our employees have been successful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Productivity is up 50%, and no one has complained."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is anyone bothered by the fact that we all grew tails?",
+        "No. Feels natural."
+      ]
+    }
+  ]
+}

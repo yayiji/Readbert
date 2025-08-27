@@ -1,0 +1,44 @@
+{
+  "date": "2021-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have two weeks of vacation I need to use by year end."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I take an inconvenient and expensive trip to someplace I've already seen in photos and videos?",
+        "Or should I hang around at home feeling useless and bored?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could volunteer to help less fortunate."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I hate the less fortunate because they're all happier than I am.",
+        "Maybe you need a wife to make you do things you don't want to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's not a bad idea.",
+        "Are there any other benefits of marriage?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, for example, you'll never need to wonder if you have any major character flaws."
+      ]
+    }
+  ]
+}

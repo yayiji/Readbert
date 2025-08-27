@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, in recognition of your outstanding work during the pandemic, I'm giving you a title promotion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want a stupid title. I want a raise!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's my new title?",
+        "\"Ungrateful engineer.\""
+      ]
+    }
+  ]
+}

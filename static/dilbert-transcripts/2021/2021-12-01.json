@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to go on a hike with me someday?",
+        "Let me check my calendar..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not your calendar. That's a weather app."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Turns out she schedules things she doesn't want to do on days most likely to get rained out.",
+        "I like her."
+      ]
+    }
+  ]
+}

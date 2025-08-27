@@ -1,0 +1,25 @@
+{
+  "date": "2022-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made the changes your wife suggested, even though they are terrible ideas.",
+        "Great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She gave me a new list of ideas this morning. Go work on these now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will the suggestions ever stop coming?",
+        "I have no basis for optimism."
+      ]
+    }
+  ]
+}

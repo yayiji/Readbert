@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your report is pure gibberish."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you made me work during my lunch break and I was hungry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Redo it.",
+        "When I'm sleepy???"
+      ]
+    }
+  ]
+}

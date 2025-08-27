@@ -1,0 +1,30 @@
+{
+  "date": "2021-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long will it take to add that feature?",
+        "Four weeks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you do it in one week?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, if I lower the quality."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, do that. And ask Tina to make the user manual more confusing so our customers think it's their fault when it doesn't work."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't you hate it when you think it is a Friday, but in reality it is only a Tuesday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's never happened to me because I'm not a moron."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm just making conversation.",
+        "Fail."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2021-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to the pandemic, our sales are at an all-time high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shouldn't we feel guilty for profiting from a deadly virus?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think if we were going to feel that, it would have kicked in by now."
+      ]
+    }
+  ]
+}

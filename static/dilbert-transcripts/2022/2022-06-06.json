@@ -1,0 +1,23 @@
+{
+  "date": "2022-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The clinical trial data says our new pill makes people grow antlers and drop dead."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Urk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That might be the most persuasive presentation I've ever seen."
+      ]
+    }
+  ]
+}

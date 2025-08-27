@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My brilliant design uses a controlled nuclear reaction to power a space laser to destroy the alien armada."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Once again, an engineer saves civilization and gets no credit because it's a top-secret military operation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It feels as if you're making this about you.",
+        "Did I read the room wrong?"
+      ]
+    }
+  ]
+}

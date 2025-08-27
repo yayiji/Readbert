@@ -1,0 +1,23 @@
+{
+  "date": "2021-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be performing an internal audit of your department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are no audit problems here because I won't let you look for them. Shoo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's good enough for me. Can you tell my boss I did a great job?"
+      ]
+    }
+  ]
+}

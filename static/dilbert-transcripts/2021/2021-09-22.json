@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won't meet our launch date because the user manual isn't done yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stick a manual from a different model in the box and ship it.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today I found out why we don't offer a money-back satisfaction guarantee."
+      ]
+    }
+  ]
+}

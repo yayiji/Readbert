@@ -1,0 +1,23 @@
+{
+  "date": "2023-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a dating coach to help all of you get a better work-life balance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the catch?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't date anyone but your co-workers, and you are also not allowed to touch them."
+      ]
+    }
+  ]
+}

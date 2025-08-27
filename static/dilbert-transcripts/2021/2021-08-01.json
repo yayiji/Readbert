@@ -1,0 +1,40 @@
+{
+  "date": "2021-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a technology that will manipulate people's brains for our profit.",
+        "Shhh!!! You can't say that part out loud.",
+        "Tell me more."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The technology will create civil strife and destroy relationships."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But we would make lots of money?",
+        "Lots and lots."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I could finally afford the trophy wife I always wanted!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Shhh!!! You can't say that part out loud.",
+        "What is this miracle technology called?",
+        "\"Social media.\""
+      ]
+    }
+  ]
+}

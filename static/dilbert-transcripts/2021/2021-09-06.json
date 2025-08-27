@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a study on the relationship between my vacation days and our stock price."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you can see, they rise over the years in a highly correlated way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you using misleading data to scam more vacation days?",
+        "So you're saying you don't care about our stockholder?"
+      ]
+    }
+  ]
+}

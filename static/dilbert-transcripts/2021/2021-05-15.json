@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh. I don't seem to have any actual problems today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The universe hates it when I have no problems. It must be preparing a big one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's it gonna be this time, universe?!",
+        "I'll come back."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I checked my files, and I see no nemesis has been assigned to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do I need a nemesis?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It prevents you from being successful enough to take my job.",
+        "Okay, that makes sense."
+      ]
+    }
+  ]
+}

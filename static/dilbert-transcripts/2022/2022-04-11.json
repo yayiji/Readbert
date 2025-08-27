@@ -1,0 +1,31 @@
+{
+  "date": "2022-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You did this wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I did it the way you told me to do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you mis-understood me.",
+        "I think you were unclear."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can we agree this is somehow your fault?",
+        "Yes, that feels as if it would save time."
+      ]
+    }
+  ]
+}

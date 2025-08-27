@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't think of yourself as friendless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Think of yourself as someone who has to pay a stranger to pretend to care about you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You care about me?",
+        "Not at these prices."
+      ]
+    }
+  ]
+}

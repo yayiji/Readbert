@@ -1,0 +1,47 @@
+{
+  "date": "2021-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of my bad qualities seem to be canceling each other out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, I want to micro-manage my staff, but I'm not that brave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want to mock my employees for their mistakes, but I don't understand enough about what they do to know when they are doing it wrong."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I want to take credit for the successes of my employees, but I don't give them enough support to succeed."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our CEO just called. He says he is naming you the manager of the year."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He must be deeply uninformed."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes, but he's also lazy, so he picked you randomly."
+      ]
+    }
+  ]
+}

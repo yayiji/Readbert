@@ -1,0 +1,29 @@
+{
+  "date": "2021-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The elbonian virus has reached pandemic proportions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just because a virus doesn't kill people with beards and tall, fuzzy hats, that doesn't mean it was made in elbonia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was it made in elbonia?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, but I think my point still stands."
+      ]
+    }
+  ]
+}

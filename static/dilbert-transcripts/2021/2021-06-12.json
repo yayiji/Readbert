@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having another zoom meeting at 4 p.m.",
+        "What's the topic?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's about how I fill the deep emptiness of my soul by scheduling zoom meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried overeating? That seems to work for me."
+      ]
+    }
+  ]
+}

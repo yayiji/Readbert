@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need more data before making a decision on the network upgrade."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because you are the last person on earth who still trusts data to be accurate and also properly contextualized?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you make everything sound like a bad idea?",
+        "I'm an engineer."
+      ]
+    }
+  ]
+}

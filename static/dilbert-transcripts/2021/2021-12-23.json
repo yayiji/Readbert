@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It is critical that you work all night to have this done by tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I got it done!",
+        "Great. Get on my calendar for next week to discuss it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I want to strangle you with my bare hands.",
+        "Why does everyone keep saying that?"
+      ]
+    }
+  ]
+}

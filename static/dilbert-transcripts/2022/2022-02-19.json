@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's drill down and unpack that so we know our capital spend is on point."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! That sentence was so empty I went into a temporary coma."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I call someone?",
+        "Yes. I don't want to suffer alone."
+      ]
+    }
+  ]
+}

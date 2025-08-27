@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a deal with all of the subordinates who accused you of inappropriate behavior."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They will stop talking to the press if you agree to let them douse you with gasoline and set you on fire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the best deal you could get me?",
+        "In all fairness, they are great negotiators, and I don't like you."
+      ]
+    }
+  ]
+}

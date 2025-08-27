@@ -1,0 +1,53 @@
+{
+  "date": "2021-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to start my own podcast because, apparently, any idiot can figure out how to do one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I need is a tiny bit of help with the technical stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you plan to use a condenser microphone?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because if you do, you'll need phantom power to polarize its transducer element."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And make sure you use a de-esser so you don't sound like a snake."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't know what any of that means."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How do idiots figure out how to do all of that?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They usually ask me for a tiny bit of help."
+      ]
+    }
+  ]
+}

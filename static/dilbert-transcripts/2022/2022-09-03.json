@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your job performance is excellent, but your wokeness score has me concerned."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have several reports of you using pronouns without even asking if they are the right ones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who reported me for that?",
+        "People who are better than you."
+      ]
+    }
+  ]
+}

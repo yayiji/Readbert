@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you a player in this simulation or a non-player character?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like beer and golf.",
+        "High five!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Air guitar!",
+        "I have no further questions."
+      ]
+    }
+  ]
+}

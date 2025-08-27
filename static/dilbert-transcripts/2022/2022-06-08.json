@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People on Twitter are questioning the safety of our new pill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them the data they are using is fake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're using our data.",
+        "That's how I know it's fake."
+      ]
+    }
+  ]
+}

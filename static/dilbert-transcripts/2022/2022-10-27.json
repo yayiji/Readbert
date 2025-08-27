@@ -1,0 +1,23 @@
+{
+  "date": "2022-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I can sign off on this, you need to get it approved by a mean guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does the mean guy have some sort of special insight or expertise?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nope."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I expected more from you on this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There were no standards for success. You're comparing me to the imaginary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you're losing. Badly!",
+        "I don't think we are on the same point."
+      ]
+    }
+  ]
+}

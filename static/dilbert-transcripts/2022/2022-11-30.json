@@ -1,0 +1,24 @@
+{
+  "date": "2022-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you give us an update?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, I implemented key learnings to maximize team synergies, and now I am strategizing a plan to scale it without boiling the ocean."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was any of that real?",
+        "It's a gray area."
+      ]
+    }
+  ]
+}

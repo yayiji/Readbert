@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a complaint about your company's product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You promised it would make me smarter, but I don't feel any different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's because you are already a genius but don't know it.",
+        "That sounds right."
+      ]
+    }
+  ]
+}

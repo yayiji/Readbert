@@ -1,0 +1,26 @@
+{
+  "date": "2021-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's schadenfreude training"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much does the class cost?",
+        "If you have to ask, you can't afford it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I feel like a loser.",
+        "Which delights me.",
+        "That was your first lesson."
+      ]
+    }
+  ]
+}

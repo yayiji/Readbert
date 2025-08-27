@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you ever noticed how much paperwork is involved in firing someone?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the sort of thing that can literally smother a man's soul."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you trying to inoculate me against firing you?",
+        "I hear it feels like being buried alive."
+      ]
+    }
+  ]
+}

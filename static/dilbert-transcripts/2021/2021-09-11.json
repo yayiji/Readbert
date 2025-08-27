@@ -1,0 +1,23 @@
+{
+  "date": "2021-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I accomplished nothing this week because I was taking a class to increase my technical skills."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In fact, since my first day of work, I haven't accomplished a single thing. But I did gain a lot of technical skills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I ever decide to do something useful, imagine how ready I'll be."
+      ]
+    }
+  ]
+}

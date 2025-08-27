@@ -1,0 +1,29 @@
+{
+  "date": "2022-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I promoted Carol, my admin assistant, to engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She doesn't know how to be an engineer, so I need you to train her."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, where do we begin?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Lesson one is mocking him behind his back."
+      ]
+    }
+  ]
+}

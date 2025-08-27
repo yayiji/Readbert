@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As soon as robot intelligence is indistinguishable from human, the robots will rule the earth!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't recognize this number. Who are you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't say a robot.",
+        "Let's just say only one of us will rot."
+      ]
+    }
+  ]
+}

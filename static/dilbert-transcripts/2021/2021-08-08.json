@@ -1,0 +1,53 @@
+{
+  "date": "2021-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't find a way to sign up for your international data plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are several methods. Which ones did you try?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I tried the one that takes me to a dead link."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And I tried the one where you say you'll text me a code but you never do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I tried the app menu choice that doesn't respond to clicks."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I tried the link that bounces me from one sign-in page to another with nothing to show for it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And now I'm calling tech support as my only hope."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We just closed."
+      ]
+    }
+  ]
+}
