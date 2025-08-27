@@ -58,8 +58,7 @@ const __dirname = path.dirname(__filename);
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 // Option 1: Use GPT-4o mini (tested working)
-// const MODEL_NAME = 'openai/gpt-4o-mini';
-const MODEL_NAME = 'google/gemini-2.5-flash';
+const MODEL_NAME = 'openai/gpt-4o-mini';
 const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)
 
 if (!OPENROUTER_API_KEY) {
