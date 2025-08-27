@@ -46,7 +46,8 @@ const __dirname = path.dirname(__filename);
 
 // Configuration
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const MODEL_NAME = 'gemini-2.5-flash'; // Change this to: gemini-2.5-flash, gemini-1.5-pro, gemini-1.5-flash
+// const MODEL_NAME = 'gemini-2.5-flash'; 
+const MODEL_NAME = 'gemini-2.5-flash-lite'; 
 const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)
 
 if (!GEMINI_API_KEY) {
@@ -108,18 +109,32 @@ function ensureDirectoryExists(dirPath) {
 // Function to transcribe a single comic using Google Gemini
 async function transcribeComic(imagePath) {
     const base64Image = imageToBase64(imagePath);
-    
+
     const prompt = `You are transcribing a Dilbert comic strip. Please:
 1. Read all text in the comic panels from left to right, top to bottom
 2. For each panel, list the dialogue/text in the order it appears
-3. Convert ALL text to proper sentence case (first letter capitalized, rest lowercase) for better readability
+3. Convert ALL text to proper sentence case for better readability
 4. Don't identify who is speaking, just transcribe the text content
 5. Maintain the sequential order of speech bubbles within each panel
 6. If there's no text in a panel, indicate it as an empty dialogue array
 
-Important: Convert text like "I CREATED AN ADVISORY COUNCIL" to "I created an advisory council"
+Return the result as JSON in this exact format:
+{
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": ["First speech bubble in sentence case", "Second speech bubble"]
+    },
+    {
+      "panel": 2,
+      "dialogue": ["Panel 2 text in sentence case"]
+    }
+  ]
+}
 
-If there's no readable text, return a single panel with empty dialogue array.`;
+Important: Convert text like "I LOVE WATCHING NBA GAMES" to "I love watching NBA games."
+
+If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}`;
 
     try {
         // Create the image part using the new format
