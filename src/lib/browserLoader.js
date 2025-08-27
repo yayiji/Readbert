@@ -3,7 +3,7 @@
  * Complete client-side comic management for Vercel deployment
  */
 import { loadTranscriptIndependently } from './comicsUtils.js';
-import { getComicByDate, getPreviousComic, getNextComic, getRandomComicFromYear, getAvailableYearsBrowser } from './comicsClient.js';
+import { getComicByDate, getPreviousComic, getNextComic, getRandomComicFromYear, getAvailableYearsBrowser, getAllComicsSorted } from './comicsClient.js';
 
 /**
  * Load comic with navigation data (browser-side)
@@ -43,17 +43,18 @@ export async function loadComicBrowser(date) {
  */
 export async function loadRandomComicBrowser() {
   try {
-    const availableYears = await getAvailableYearsBrowser();
+    // Get all valid comics and select randomly from them
+    const allComics = await getAllComicsSorted();
     
-    if (availableYears.length === 0) {
+    if (allComics.length === 0) {
       throw new Error('No comics available');
     }
     
-    const randomYear = availableYears[Math.floor(Math.random() * availableYears.length)];
-    const comic = await getRandomComicFromYear(randomYear);
+    const randomIndex = Math.floor(Math.random() * allComics.length);
+    const comic = allComics[randomIndex];
     
     if (!comic) {
-      throw new Error('No comics found in selected year');
+      throw new Error('No comics found');
     }
 
     const [previousComic, nextComic] = await Promise.all([

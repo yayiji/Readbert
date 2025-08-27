@@ -1,6 +1,7 @@
 <script>
   import { formatDate, loadTranscriptIndependently } from '$lib/comicsUtils.js';
   import { loadRandomComicBrowser, loadComicBrowser } from '$lib/browserLoader.js';
+  import { isValidComicDateRange } from '$lib/comicsClient.js';
   import { onMount } from 'svelte';
   
   // Browser-only state management
@@ -38,10 +39,19 @@
       
       const comicData = JSON.parse(saved);
       if (comicData.savedAt && Date.now() - comicData.savedAt < STORAGE_EXPIRY) {
-        return comicData;
+        // Validate that the saved comic date is within valid range
+        if (comicData.currentComic?.date && isValidComicDateRange(comicData.currentComic.date)) {
+          return comicData;
+        } else {
+          // Clear invalid cached data
+          localStorage.removeItem(STORAGE_KEY);
+          console.log('Cleared invalid cached comic data');
+        }
       }
     } catch (error) {
       console.error('Error parsing saved comic data:', error);
+      // Clear corrupted data
+      localStorage.removeItem(STORAGE_KEY);
     }
     return null;
   }
@@ -68,15 +78,16 @@
   }
 
   // Update comic state with transcript loading
-  async function updateComicStateWithTranscript(comic, prevComic, nextComicData) {
+    async function updateComicStateWithTranscript(comic, prevComic, nextComicData) {
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
     
-    // Load transcript for the comic
-    await loadTranscript(comic?.date);
+    // Load transcript for current comic
+    if (comic?.date) {
+      await loadTranscript(comic.date);
+    }
     
-    // Save comic data with transcript
     saveComicToStorage(comic, prevComic, nextComicData, transcript);
   }
 

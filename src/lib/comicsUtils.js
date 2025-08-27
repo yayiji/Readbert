@@ -2,6 +2,9 @@
  * Utility functions for handling Dilbert comics
  */
 
+// Import validation function (note: this creates a circular import, but it should work in this case)
+import { isValidComicDateRange } from './comicsClient.js';
+
 /**
  * Parse a comic filename to extract the date and format it
  * @param {string} filename - Comic filename (e.g., "2023-01-15.gif")
@@ -163,6 +166,12 @@ export async function fetchTranscriptViaAPI(date) {
 export async function loadTranscriptIndependently(date, method = 'direct') {
   if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
     console.error('Invalid date format for transcript:', date);
+    return null;
+  }
+
+  // Validate date is within valid comic range
+  if (!isValidComicDateRange(date)) {
+    console.warn('Transcript requested for date outside valid range:', date);
     return null;
   }
 
