@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import { getComicByDate, getPreviousComic, getNextComic } from '$lib/server/comicsServer.js';
+import { getComicByDate, getPreviousComic, getNextComic } from '$lib/browser/comicsClient.js';
 
 export async function GET({ url }) {
   try {
@@ -15,7 +15,7 @@ export async function GET({ url }) {
       return json({ success: false, error: 'Comic not found' }, { status: 404 });
     }
 
-    // Get navigation comics using the cross-year navigation functions
+    // Get navigation comics using browser-side functions
     const previousComic = await getPreviousComic(date);
     const nextComic = await getNextComic(date);
 

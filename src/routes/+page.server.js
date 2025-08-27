@@ -1,8 +1,8 @@
-import { getAvailableYears, getRandomComicFromYear, getPreviousComic, getNextComic, getComicsForYear } from '$lib/server/comicsServer.js';
+import { getAvailableYearsBrowser, getRandomComicFromYear, getPreviousComic, getNextComic, getComicsForYear } from '$lib/browser/comicsClient.js';
 
 export async function load({ url }) {
-  // Get all available years with transcripts
-  const availableYears = await getAvailableYears();
+  // Get all available years with transcripts using browser-side logic
+  const availableYears = await getAvailableYearsBrowser();
   
   // Get all comics from all available years
   const allComics = [];
@@ -18,7 +18,7 @@ export async function load({ url }) {
     randomComic = allComics[randomIndex];
   }
   
-  // Get navigation comics (across all years)
+  // Get navigation comics (across all years) using browser-side logic
   let previousComic = null;
   let nextComic = null;
   

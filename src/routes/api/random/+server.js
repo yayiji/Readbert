@@ -1,10 +1,10 @@
 import { json } from '@sveltejs/kit';
-import { getAvailableYears, getRandomComicFromYear, getPreviousComic, getNextComic } from '$lib/server/comicsServer.js';
+import { getAvailableYearsBrowser, getRandomComicFromYear, getPreviousComic, getNextComic } from '$lib/browser/comicsClient.js';
 
 export async function GET() {
   try {
-    // Get random comic from all available years
-    const availableYears = await getAvailableYears();
+    // Get random comic from all available years using browser-side logic
+    const availableYears = await getAvailableYearsBrowser();
     
     if (availableYears.length === 0) {
       return json({ success: false, error: 'No comics found' }, { status: 404 });
@@ -18,7 +18,7 @@ export async function GET() {
       return json({ success: false, error: 'No comics found' }, { status: 404 });
     }
 
-    // Get navigation comics using cross-year navigation functions
+    // Get navigation comics using browser-side functions
     const previousComic = await getPreviousComic(comic.date);
     const nextComic = await getNextComic(comic.date);
 

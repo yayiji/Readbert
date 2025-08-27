@@ -129,7 +129,7 @@ export async function fetchTranscriptByDate(date) {
 }
 
 /**
- * Fetch transcript using API endpoint (alternative method)
+ * Fetch transcript using API endpoint (fallback method)
  * @param {string} date - Date in YYYY-MM-DD format
  * @returns {Promise<Object|null>} Transcript object or null if not found
  */
@@ -138,12 +138,16 @@ export async function fetchTranscriptViaAPI(date) {
     const response = await fetch(`/api/transcript?date=${date}`);
     const result = await response.json();
     
-    if (result.success) {
-      return result.transcript;
-    } else {
-      console.log(`Transcript not found for ${date}:`, result.error);
-      return null;
+    if (result.success && result.transcriptUrl) {
+      // API now returns URL for client-side fetching
+      const transcriptResponse = await fetch(result.transcriptUrl);
+      if (transcriptResponse.ok) {
+        return await transcriptResponse.json();
+      }
     }
+    
+    console.log(`Transcript not found for ${date}:`, result.error);
+    return null;
   } catch (error) {
     console.error('Error fetching transcript via API:', error);
     return null;
@@ -151,12 +155,12 @@ export async function fetchTranscriptViaAPI(date) {
 }
 
 /**
- * Independent transcript loader with fallback methods
+ * Independent transcript loader with browser-first approach
  * @param {string} date - Date in YYYY-MM-DD format
  * @param {string} method - Loading method: 'direct', 'api', or 'auto' (default)
  * @returns {Promise<Object|null>} Transcript object or null if not found
  */
-export async function loadTranscriptIndependently(date, method = 'auto') {
+export async function loadTranscriptIndependently(date, method = 'direct') {
   if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
     console.error('Invalid date format for transcript:', date);
     return null;
@@ -170,12 +174,10 @@ export async function loadTranscriptIndependently(date, method = 'auto') {
       return await fetchTranscriptViaAPI(date);
     
     case 'auto':
+      // Direct loading only for browser-first approach
+      return await fetchTranscriptByDate(date);
+    
     default:
-      // Try direct first (faster), fallback to API
-      let transcript = await fetchTranscriptByDate(date);
-      if (!transcript) {
-        transcript = await fetchTranscriptViaAPI(date);
-      }
-      return transcript;
+      return await fetchTranscriptByDate(date);
   }
 }

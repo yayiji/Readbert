@@ -1,5 +1,4 @@
 import { json } from '@sveltejs/kit';
-import { getTranscriptByDate } from '$lib/server/comicsServer.js';
 
 export async function GET({ url }) {
   try {
@@ -14,17 +13,15 @@ export async function GET({ url }) {
       return json({ success: false, error: 'Invalid date format. Use YYYY-MM-DD' }, { status: 400 });
     }
 
-    // Fetch transcript independently using server-side function
-    const transcript = await getTranscriptByDate(date);
-    
-    if (!transcript) {
-      return json({ success: false, error: 'Transcript not found' }, { status: 404 });
-    }
+    // Return transcript URL for client-side fetching
+    const year = date.split('-')[0];
+    const transcriptUrl = `/dilbert-transcripts/${year}/${date}.json`;
     
     return json({
       success: true,
-      transcript,
-      date
+      transcriptUrl,
+      date,
+      message: 'Use transcriptUrl for client-side fetching'
     });
     
   } catch (error) {
