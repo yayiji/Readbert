@@ -10,13 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "Well, I am a rational person who responds to incentives, so . . ."
+        "Well, I am a rational person who responds to incentives, so..."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        ". . . I plan to do as little work as possible while still getting paid . . ."
+        "...I plan to do as little work as possible while still getting paid..."
       ]
     },
     {
@@ -33,12 +33,18 @@
     },
     {
       "panel": 6,
-      "dialogue": [
-        "Bam! Bam! Bam!"
-      ]
+      "dialogue": []
     },
     {
       "panel": 7,
+      "dialogue": [
+        "Bam!",
+        "Bam!",
+        "Bam!"
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "Thank you.",
         "You're free."

@@ -16,7 +16,12 @@
     {
       "panel": 3,
       "dialogue": [
-        "Are you doing good work?",
+        "Are you doing good work?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
         "No, I'm presenting more of a conceptual argument here."
       ]
     }

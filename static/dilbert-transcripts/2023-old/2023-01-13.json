@@ -1,0 +1,24 @@
+{
+  "date": "2023-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's not how we did it when I worked at Twitter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe that's why Elon Musk fired you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long are you going to use that on me?",
+        "I'm thinking three to five years."
+      ]
+    }
+  ]
+}

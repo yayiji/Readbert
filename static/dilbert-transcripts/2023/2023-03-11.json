@@ -11,18 +11,13 @@
       "panel": 2,
       "dialogue": [
         "Yes, I can speak to that.",
-        "I at the end of the day, it is what it is."
+        "At the end of the day, it is what it is."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Are you done?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Are you done?",
         "Strategy, structure and people!"
       ]
     }

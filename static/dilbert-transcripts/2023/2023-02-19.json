@@ -16,23 +16,35 @@
     {
       "panel": 3,
       "dialogue": [
-        "Okay, I think I have it."
+        "Grrrr..."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "You are unattractive in a wide variety of ways."
+        "Erk!"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "That's a bit off topic."
+        "Okay, I think I have it."
       ]
     },
     {
       "panel": 6,
+      "dialogue": [
+        "You are unattractive in a wide variety of ways."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's a bit off topic."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "Why does everyone always say that when I'm winning the debate?"
       ]

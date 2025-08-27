@@ -1,0 +1,29 @@
+{
+  "date": "2023-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your status report appears to have been written by a commercial-grade a.i."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you. I appreciate the compliment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Add some mistakes so it looks like a human did it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Does the imaginary human use spell check?"
+      ]
+    }
+  ]
+}

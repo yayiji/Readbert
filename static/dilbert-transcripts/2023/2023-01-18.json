@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Wally, your status report appears to have been written by a commercial-grade a.i."
+        "Wally, your status report appears to have been written by a commercial-grade A.I."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Add some mistakes so it looks like a human did it."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Add some mistakes so it looks like a human did it.",
         "Does the imaginary human use spell check?"
       ]
     }

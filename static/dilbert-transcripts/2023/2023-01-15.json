@@ -10,37 +10,43 @@
     {
       "panel": 2,
       "dialogue": [
-        "I’d like that."
+        "I'd like that."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Tina says you insulted her by saying yoga is nothing but stretching and communism."
+        "Tina says you insulted her by saying yoga is \"nothing but stretching and communism.\""
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Hahahaha!!!!"
+        "Hahaha!!! I totally did!"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Should I fire her for complaining?"
+        "Hahaha!!!!"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "My goodness, no! I’m not a monster!"
+        "Should I fire her for complaining?"
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "I’ll just make her feel bad until she quits."
+        "My goodness, no! I'm not a monster!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll just make her feel bad until she quits."
       ]
     }
   ]

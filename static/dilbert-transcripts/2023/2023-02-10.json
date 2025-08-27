@@ -16,7 +16,12 @@
     {
       "panel": 3,
       "dialogue": [
-        "You work hard?",
+        "You work hard?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
         "No, that would be crazy.",
         "I don't work at all."
       ]

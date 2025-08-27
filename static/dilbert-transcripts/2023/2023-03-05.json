@@ -16,30 +16,35 @@
     {
       "panel": 3,
       "dialogue": [
-        "How could you possibly have known that?",
-        "Because of my smartness versus your colossal gullibility."
+        "How could you possibly have known that?"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Right, but what did you see that we didn't see?"
+        "Because of my smartness versus your colossal gullibility."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "I used my pattern recognition and my common sense."
+        "Right, but what did you see that we didn't see?"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "You mean you used magical thinking and statistical ignorance?"
+        "I used my pattern recognition and my common sense."
       ]
     },
     {
       "panel": 7,
+      "dialogue": [
+        "You mean you used magical thinking and statistical ignorance?"
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "Cope much?"
       ]

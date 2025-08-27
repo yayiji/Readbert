@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "I can't wait to try out the new chatgpt a.i. engine."
+        "I can't wait to try out the new ChatGPT A.I. engine."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Food."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Food.",
         "Someone needs to teach you to lie."
       ]
     }

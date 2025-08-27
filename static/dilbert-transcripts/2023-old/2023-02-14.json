@@ -1,0 +1,23 @@
+{
+  "date": "2023-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you worried that all of the gaming you do will make you more violent?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bonk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, and I spit on your grave."
+      ]
+    }
+  ]
+}

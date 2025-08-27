@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Then why is the class offered?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Then why is the class offered?",
         "I assume we do it to spot trouble-makers."
       ]
     }
