@@ -1,46 +1,22 @@
+#!/usr/bin/env node
 /**
- * Dilbert Comics Bulk Transcript// Co// Configuration
-const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-
-// MODEL OPTIONS - Easy to change here:
-// Option 1: OpenAI GPT-4o (same as working transcribe-by-date.js)
-const MODEL_NAME = 'openai/gpt-4o';
-
-// Option 2: OpenAI GPT-4o mini (faster, cheaper alternative)
-// const MODEL_NAME = 'openai/gpt-4o-mini';
-
-// Option 3: For Gemini, use the dedicated transcribe-comics-gemini.js script instead
-// It uses the official Google Gemini API which works better for vision tasks
-
-const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)ion
-const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-// const MODEL_NAME = 'openai/gpt-4o-mini';
-const MODEL_NAME = 'openai/gpt-4o';
-const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)ript
+ * Dilbert Comics Bulk Transcription Script
  * 
- * This script transcribes Dilbert comic images to JSON text using OpenRouter API.
+ * Transcribes Dilbert comics using OpenRouter's Gemini API with advanced features.
  * 
  * USAGE:
- *   node transcribe-comics.js [year]
+ *   node transcribe-comics.js [year] [start-date] [end-date]
  * 
  * EXAMPLES:
- *   node transcribe-comics.js           # Transcribe all available years
- *   node transcribe-comics.js 2023      # Transcribe only 2023 comics
- *   node transcribe-comics.js 1989      # Transcribe only 1989 comics
- * 
- * REQUIREMENTS:
- *   1. Create .env file with: OPENROUTER_API_KEY=your_api_key_here
- *   2. Comic images must be in: source-data/dilbert-comics/YYYY/YYYY-MM-DD.gif
- *   3. Transcripts will be saved to: static/dilbert-transcripts/YYYY/YYYY-MM-DD.json
+ *   node transcribe-comics.js 1989                         # Entire year
+ *   node transcribe-comics.js 1989 1989-05-01 1989-05-31   # Date range
+ *   node transcribe-comics.js                              # Show usage
  * 
  * FEATURES:
- *   - Rate limiting (2 requests/second to respect API limits)
- *   - Automatic retry on failures
- *   - Progress tracking with detailed logging
- *   - Skips already transcribed comics
- *   - Creates output directories automatically
+ *   - Gemini 2.5 Flash Lite model via OpenRouter
+ *   - Smart skipping of existing transcripts
+ *   - Automatic retries with rate limiting
+ *   - Progress tracking and error handling
  */
 
 import fs from 'fs';
@@ -57,12 +33,15 @@ const __dirname = path.dirname(__filename);
 // Configuration
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-// Option 1: Use GPT-4o mini (tested working)
-const MODEL_NAME = 'openai/gpt-4o-mini';
-const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)
+// const MODEL_NAME = 'google/gemini-2.5-flash';
+const MODEL_NAME = 'google/gemini-2.5-flash-lite';
+// const MODEL_NAME = 'openai/gpt-4o-mini';
+const RATE_LIMIT_DELAY = 2000; // 2 seconds between requests
+const MAX_RETRIES = 3;
 
 if (!OPENROUTER_API_KEY) {
     console.error('❌ Please set OPENROUTER_API_KEY environment variable');
+    console.log('💡 Get your API key from: https://openrouter.ai/keys');
     process.exit(1);
 }
 
@@ -83,10 +62,15 @@ function ensureDirectoryExists(dirPath) {
     }
 }
 
-// Function to transcribe a single comic
-async function transcribeComic(imagePath) {
+// Helper function to add delay
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// Function to transcribe a single comic using OpenRouter Gemini (same as single-date script)
+async function transcribeComic(imagePath, retryCount = 0) {
     const base64Image = imageToBase64(imagePath);
-    
+
     const prompt = `You are transcribing a Dilbert comic strip. Please:
 1. Read all text in the comic panels from left to right, top to bottom
 2. For each panel, list the dialogue/text in the order it appears
@@ -113,146 +97,217 @@ Important: Convert text like "I LOVE WATCHING NBA GAMES" to "I love watching NBA
 
 If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}`;
 
+    const requestBody = {
+        model: MODEL_NAME,
+        messages: [
+            {
+                role: "user",
+                content: [
+                    {
+                        type: "text",
+                        text: prompt
+                    },
+                    {
+                        type: "image_url",
+                        image_url: {
+                            url: `data:image/png;base64,${base64Image}`
+                        }
+                    }
+                ]
+            }
+        ],
+        temperature: 0.1,
+        max_tokens: 1000,
+        response_format: { type: "json_object" }
+    };
+
     try {
         const response = await fetch(API_URL, {
             method: 'POST',
             headers: {
                 'Authorization': `Bearer ${OPENROUTER_API_KEY}`,
                 'Content-Type': 'application/json',
-                'HTTP-Referer': 'http://localhost:5173',
-                'X-Title': 'Dilbert Comic Transcriber'
+                'HTTP-Referer': 'https://github.com/yayiji/VS-Dilbert',
+                'X-Title': 'Dilbert Comics Transcription'
             },
-            body: JSON.stringify({
-                model: MODEL_NAME,
-                messages: [
-                    {
-                        role: 'user',
-                        content: [
-                            {
-                                type: 'text',
-                                text: prompt
-                            },
-                            {
-                                type: 'image_url',
-                                image_url: {
-                                    url: `data:image/gif;base64,${base64Image}`
-                                }
-                            }
-                        ]
-                    }
-                ],
-                max_tokens: 1000,
-                temperature: 0.1
-            })
+            body: JSON.stringify(requestBody)
         });
 
         if (!response.ok) {
-            throw new Error(`API request failed: ${response.status} ${response.statusText}`);
+            const errorText = await response.text();
+            throw new Error(`API request failed: ${response.status} ${response.statusText}\n${errorText}`);
         }
 
         const data = await response.json();
-        const content = data.choices[0]?.message?.content;
         
-        if (!content) {
-            throw new Error('No content in API response');
+        if (!data.choices || !data.choices[0] || !data.choices[0].message) {
+            throw new Error('Invalid response structure from API');
         }
 
-        // Parse JSON from the response
-        const jsonMatch = content.match(/\{[\s\S]*\}/);
-        if (!jsonMatch) {
-            throw new Error('No valid JSON found in response');
+        const text = data.choices[0].message.content;
+        
+        // Parse the JSON response
+        const transcript = JSON.parse(text);
+        
+        // Validate the response structure
+        if (!transcript.panels || !Array.isArray(transcript.panels)) {
+            throw new Error('Invalid response structure: missing panels array');
         }
 
-        return JSON.parse(jsonMatch[0]);
+        return transcript;
     } catch (error) {
+        if (retryCount < MAX_RETRIES) {
+            console.log(`🔄 Retry ${retryCount + 1}/${MAX_RETRIES} for ${path.basename(imagePath)}: ${error.message}`);
+            await delay(RATE_LIMIT_DELAY * (retryCount + 1)); // Exponential backoff
+            return transcribeComic(imagePath, retryCount + 1);
+        }
         console.error(`❌ Error transcribing comic: ${error.message}`);
         return null;
     }
 }
 
-// Function to save transcript
-function saveTranscript(date, transcript, outputDir) {
-    const year = date.split('-')[0];
-    const yearDir = path.join(outputDir, year);
-    ensureDirectoryExists(yearDir);
+// Function to get all comic files for a given year or date range
+function getComicFiles(year, startDate = null, endDate = null) {
+    const comicsDir = path.join(__dirname, 'source-data', 'dilbert-comics', year.toString());
     
-    const transcriptData = {
+    if (!fs.existsSync(comicsDir)) {
+        throw new Error(`Comics directory not found: ${comicsDir}`);
+    }
+    
+    let files = fs.readdirSync(comicsDir)
+        .filter(file => file.endsWith('.gif'))
+        .sort();
+    
+    if (startDate && endDate) {
+        files = files.filter(file => {
+            const fileDate = file.replace('.gif', '');
+            return fileDate >= startDate && fileDate <= endDate;
+        });
+    }
+    
+    return files.map(file => ({
+        filename: file,
+        date: file.replace('.gif', ''),
+        path: path.join(comicsDir, file)
+    }));
+}
+
+// Function to check if transcript already exists
+function transcriptExists(date) {
+    const year = date.split('-')[0];
+    const transcriptPath = path.join(__dirname, 'static', 'dilbert-transcripts', year, `${date}.json`);
+    return fs.existsSync(transcriptPath);
+}
+
+// Function to save transcript
+function saveTranscript(date, transcript) {
+    const year = date.split('-')[0];
+    const transcriptsDir = path.join(__dirname, 'static', 'dilbert-transcripts', year);
+    ensureDirectoryExists(transcriptsDir);
+    
+    const transcriptPath = path.join(transcriptsDir, `${date}.json`);
+    const fullTranscript = {
         date: date,
         ...transcript
     };
     
-    const outputPath = path.join(yearDir, `${date}.json`);
-    fs.writeFileSync(outputPath, JSON.stringify(transcriptData, null, 2));
-    return outputPath;
+    fs.writeFileSync(transcriptPath, JSON.stringify(fullTranscript, null, 2));
+    return transcriptPath;
 }
 
-// Main function to process comics for a specific year
-async function processYear(year) {
-    const comicsDir = path.join(__dirname, 'source-data', 'dilbert-comics', year);
-    const transcriptsDir = path.join(__dirname, 'static', 'dilbert-transcripts');
+// Main transcription function
+async function transcribeComics(year, startDate = null, endDate = null) {
+    console.log(`🚀 Starting bulk transcription for ${year}${startDate ? ` (${startDate} to ${endDate})` : ''}`);
+    console.log(`📡 Using model: ${MODEL_NAME}`);
+    console.log(`⏱️  Rate limit: ${RATE_LIMIT_DELAY}ms between requests\n`);
     
-    if (!fs.existsSync(comicsDir)) {
-        console.error(`❌ Comics directory not found: ${comicsDir}`);
-        return;
-    }
-
-    // Get all comic files
-    const comicFiles = fs.readdirSync(comicsDir)
-        .filter(file => file.endsWith('.gif'))
-        .sort();
-
-    console.log(`📚 Found ${comicFiles.length} comics for year ${year}`);
-    console.log(`🚀 Starting transcription...`);
-
-    let processed = 0;
-    let successful = 0;
-    let failed = 0;
-
-    for (const filename of comicFiles) {
-        const date = filename.replace('.gif', '');
-        const imagePath = path.join(comicsDir, filename);
-        const transcriptPath = path.join(transcriptsDir, year, `${date}.json`);
-
-        // Skip if transcript already exists
-        if (fs.existsSync(transcriptPath)) {
-            console.log(`⏭️  Skipping ${date} (transcript exists)`);
-            processed++;
-            continue;
-        }
-
-        console.log(`🔄 Processing ${date} (${processed + 1}/${comicFiles.length})`);
-
-        try {
-            const transcript = await transcribeComic(imagePath);
-            
-            if (transcript) {
-                saveTranscript(date, transcript, transcriptsDir);
-                successful++;
-                console.log(`✅ Completed ${date}`);
-            } else {
-                failed++;
-                console.log(`❌ Failed ${date}`);
+    try {
+        const comics = getComicFiles(year, startDate, endDate);
+        console.log(`📚 Found ${comics.length} comics to process\n`);
+        
+        let processed = 0;
+        let skipped = 0;
+        let errors = 0;
+        
+        for (const comic of comics) {
+            try {
+                // Check if already transcribed
+                if (transcriptExists(comic.date)) {
+                    console.log(`⏭️  Skipping ${comic.date} (already transcribed)`);
+                    skipped++;
+                    continue;
+                }
+                
+                console.log(`🎯 Processing ${comic.date}...`);
+                
+                // Transcribe the comic
+                const transcript = await transcribeComic(comic.path);
+                
+                // Save the transcript
+                const savedPath = saveTranscript(comic.date, transcript);
+                
+                processed++;
+                console.log(`✅ Saved transcript: ${path.basename(savedPath)}`);
+                console.log(`📊 Progress: ${processed + skipped}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
+                
+                // Rate limiting
+                if (processed < comics.length - skipped) {
+                    await delay(RATE_LIMIT_DELAY);
+                }
+                
+            } catch (error) {
+                errors++;
+                console.error(`❌ Error processing ${comic.date}: ${error.message}`);
+                console.log(`📊 Progress: ${processed + skipped + errors}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
             }
-        } catch (error) {
-            failed++;
-            console.error(`❌ Error processing ${date}: ${error.message}`);
         }
-
-        processed++;
-
-        // Rate limiting
-        if (processed < comicFiles.length) {
-            await new Promise(resolve => setTimeout(resolve, RATE_LIMIT_DELAY));
-        }
+        
+        console.log(`🎉 Bulk transcription completed!`);
+        console.log(`📈 Final stats: ${processed} transcribed, ${skipped} skipped, ${errors} errors`);
+        
+    } catch (error) {
+        console.error(`💥 Fatal error: ${error.message}`);
+        process.exit(1);
     }
-
-    console.log(`\n🎉 Transcription complete!`);
-    console.log(`📊 Processed: ${processed}/${comicFiles.length}`);
-    console.log(`✅ Successful: ${successful}`);
-    console.log(`❌ Failed: ${failed}`);
 }
 
-// Run the script
-const year = process.argv[2] || '2023';
-console.log(`🎯 Transcribing Dilbert comics for year: ${year}`);
-processYear(year).catch(console.error);
+// Parse command line arguments
+const args = process.argv.slice(2);
+
+if (args.length === 0) {
+    // Interactive mode
+    console.log('🎯 Dilbert Bulk Transcription (OpenRouter Gemini)');
+    console.log('Usage examples:');
+    console.log('  node transcribe-comics.js 2023');
+    console.log('  node transcribe-comics.js 2023 2023-01-01 2023-01-31');
+    process.exit(0);
+} else if (args.length === 1) {
+    // Transcribe entire year
+    const year = parseInt(args[0]);
+    if (isNaN(year) || year < 1989 || year > 2023) {
+        console.error('❌ Invalid year. Please use a year between 1989 and 2023.');
+        process.exit(1);
+    }
+    transcribeComics(year);
+} else if (args.length === 3) {
+    // Transcribe date range
+    const year = parseInt(args[0]);
+    const startDate = args[1];
+    const endDate = args[2];
+    
+    if (isNaN(year) || year < 1989 || year > 2023) {
+        console.error('❌ Invalid year. Please use a year between 1989 and 2023.');
+        process.exit(1);
+    }
+    
+    const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
+    if (!dateRegex.test(startDate) || !dateRegex.test(endDate)) {
+        console.error('❌ Invalid date format. Please use YYYY-MM-DD format.');
+        process.exit(1);
+    }
+    
+    transcribeComics(year, startDate, endDate);
+} else {
+    console.error('❌ Invalid arguments. Use: node transcribe-comics.js [YYYY] [start-date] [end-date]');
+    process.exit(1);
+}
