@@ -123,10 +123,11 @@ If there's no readable text, return a single panel with empty dialogue array.`;
 
     try {
         // Create the image part using the new format
+        // Note: Even though files are .gif, we use image/png mime type as Gemini doesn't support GIF
         const imagePart = {
             inlineData: {
                 data: base64Image,
-                mimeType: "image/gif"
+                mimeType: "image/png"
             }
         };
 
