@@ -45,12 +45,12 @@
   }
 
   // Generic function to update comic state and save to storage
-  function updateComicState(comic, prevComic, nextComic, comicTranscript) {
+  function updateComicState(comic, prevComic, nextComicData, comicTranscript) {
     currentComic = comic;
     previousComic = prevComic;
-    nextComic = nextComic;
+    nextComic = nextComicData;
     transcript = comicTranscript;
-    saveComicToStorage(comic, prevComic, nextComic, comicTranscript);
+    saveComicToStorage(comic, prevComic, nextComicData, comicTranscript);
   }
 
   // Initialize comic data on mount
@@ -69,6 +69,12 @@
   async function loadComic(date) {
     if (isLoading) return;
     
+    // Validate the date before proceeding
+    if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+      console.error('Invalid date format:', date);
+      return;
+    }
+    
     isLoading = true;
     try {
       const response = await fetch(`/api/comic?date=${date}`);
@@ -76,6 +82,8 @@
       
       if (result.success) {
         updateComicState(result.comic, result.previousComic, result.nextComic, result.transcript);
+      } else {
+        console.error('Failed to load comic:', result.error);
       }
     } catch (error) {
       console.error('Error loading comic:', error);
@@ -104,12 +112,22 @@
   
   function goToPrevious() {
     if (previousComic && !isLoading) {
+      // Additional validation to prevent unexpected jumps
+      if (!previousComic.date || !/^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)) {
+        console.error('Invalid previous comic date:', previousComic);
+        return;
+      }
       loadComic(previousComic.date);
     }
   }
   
   function goToNext() {
     if (nextComic && !isLoading) {
+      // Additional validation to prevent unexpected jumps
+      if (!nextComic.date || !/^\d{4}-\d{2}-\d{2}$/.test(nextComic.date)) {
+        console.error('Invalid next comic date:', nextComic);
+        return;
+      }
       loadComic(nextComic.date);
     }
   }

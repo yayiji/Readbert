@@ -146,8 +146,8 @@ export async function getComicByDate(date) {
 export async function getPreviousComic(currentDate) {
   const currentDateObj = new Date(currentDate);
   
-  // Go back one day at a time until we find a comic (max 7 days)
-  for (let i = 1; i <= 7; i++) {
+  // Go back one day at a time until we find a comic (max 30 days to handle longer gaps)
+  for (let i = 1; i <= 30; i++) {
     const prevDate = new Date(currentDateObj);
     prevDate.setDate(prevDate.getDate() - i);
     
@@ -170,8 +170,8 @@ export async function getPreviousComic(currentDate) {
 export async function getNextComic(currentDate) {
   const currentDateObj = new Date(currentDate);
   
-  // Go forward one day at a time until we find a comic (max 7 days)
-  for (let i = 1; i <= 7; i++) {
+  // Go forward one day at a time until we find a comic (max 30 days to handle longer gaps)
+  for (let i = 1; i <= 30; i++) {
     const nextDate = new Date(currentDateObj);
     nextDate.setDate(nextDate.getDate() + i);
     
@@ -191,12 +191,17 @@ export async function getNextComic(currentDate) {
  * @returns {Promise<Object|null>} Random comic object or null
  */
 export async function getRandomComic() {
-  // Generate random dates until we find one that exists
+  const availableYears = await getAvailableYears();
+  
+  if (availableYears.length === 0) return null;
+  
+  // Generate random dates from available years until we find one that exists
   const maxAttempts = 50;
   
   for (let attempt = 0; attempt < maxAttempts; attempt++) {
-    // Random year between 1989 and 2023
-    const year = Math.floor(Math.random() * (2023 - 1989 + 1)) + 1989;
+    // Random year from available years
+    const randomYearIndex = Math.floor(Math.random() * availableYears.length);
+    const year = parseInt(availableYears[randomYearIndex]);
     
     // Random month and day
     const month = Math.floor(Math.random() * 12) + 1;
