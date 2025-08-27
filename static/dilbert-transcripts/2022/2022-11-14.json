@@ -16,13 +16,9 @@
     {
       "panel": 3,
       "dialogue": [
-        "No."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "Phew! That problem solved itself."
+        "No.",
+        "Phew!",
+        "That problem solved itself."
       ]
     }
   ]

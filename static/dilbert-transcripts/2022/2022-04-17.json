@@ -22,7 +22,8 @@
     {
       "panel": 4,
       "dialogue": [
-        "That means your net contribution was zero."
+        "That means your net contribution was zero.",
+        "Ooh!"
       ]
     },
     {
@@ -40,13 +41,14 @@
     {
       "panel": 7,
       "dialogue": [
-        "Losing consciousness..."
+        "Losing consciousness!"
       ]
     },
     {
       "panel": 8,
       "dialogue": [
-        "Remind me what you call that... 'the fainting goat.'"
+        "Remind me what you call that...",
+        "\"The fainting goat.\""
       ]
     }
   ]

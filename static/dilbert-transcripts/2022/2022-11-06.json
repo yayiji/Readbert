@@ -10,19 +10,22 @@
     {
       "panel": 2,
       "dialogue": [
-        "Don't be ridiculous. I heard every word you said."
+        "Don't be ridiculous.",
+        "I heard every word you said."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Oh, really? Repeat back to me what you heard."
+        "Oh, really?",
+        "Repeat back to me what you heard."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Come on, prove you were listening."
+        "Come on,",
+        "prove you were listening."
       ]
     },
     {
@@ -46,7 +49,8 @@
     {
       "panel": 8,
       "dialogue": [
-        "Oh, I guess you were listening."
+        "Oh, I guess",
+        "you were listening."
       ]
     }
   ]

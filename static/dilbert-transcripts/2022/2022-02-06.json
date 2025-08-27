@@ -22,25 +22,32 @@
     {
       "panel": 4,
       "dialogue": [
-        "How about an example instead of an analogy?",
-        "Um, okay."
+        "Okay, I won't use an analogy.",
+        "Good."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "What if a bear tried to make popcorn in the vacuum of space?"
+        "How about an example instead of an analogy?"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "That's an analogy, and it has nothing to do with what we were discussing!"
+        "Um, okay."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
+        "What if a bear tried to make popcorn in the vacuum of space?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's an analogy, and it has nothing to do with what we were discussing!",
         "Why can't you admit you're wrong?",
         "Boom!!"
       ]

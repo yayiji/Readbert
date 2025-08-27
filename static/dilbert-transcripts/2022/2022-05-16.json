@@ -4,20 +4,30 @@
     {
       "panel": 1,
       "dialogue": [
-        "You have two choices in life. You can be bored or you can be anxious."
+        "You have two choices in life.",
+        "You can be bored",
+        "or you can be anxious."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "I'm never bored because I can just look at stuff on my phone."
+        "I'm never bored",
+        "because I can just",
+        "look at stuff on",
+        "my phone."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Does it make you feel anxious?",
-        "How did you know that?!?!"
+        "Does",
+        "it make",
+        "you feel",
+        "anxious?",
+        "How did",
+        "you know",
+        "that???!"
       ]
     }
   ]

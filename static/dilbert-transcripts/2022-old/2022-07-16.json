@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When I had covid, I almost had to go to the hospital."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing. When I had covid, it liquified my internal organs and my legs fell off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And yet, here you are.",
+        "I used my willpower to heal."
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "What is this 'esg' thing I keep hearing about?"
+        "What is this \"ESG\" thing I keep hearing about?"
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "So... esg would be that baby?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "So... ESG would be that baby?",
         "Only if it is colicky and has firehose diarrhea."
       ]
     }

@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Do you see any flaws in my plan?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Do you see any flaws in my plan?",
         "Only an elevated risk of employee sabotage."
       ]
     }

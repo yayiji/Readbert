@@ -10,17 +10,12 @@
     {
       "panel": 2,
       "dialogue": [
-        "That's outrageous!"
-      ]
-    },
-    {
-      "panel": 3,
-      "dialogue": [
+        "That's outrageous!",
         "Hey, I don't make the rules."
       ]
     },
     {
-      "panel": 4,
+      "panel": 3,
       "dialogue": [
         "Who makes the rules?",
         "I don't know. They just sort of show up."

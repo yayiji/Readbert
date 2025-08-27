@@ -4,6 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
+        "Mordac, the preventer of information services.",
         "When will you upgrade our internal network?"
       ]
     },
@@ -16,12 +17,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "That doesn't help me at all."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "That doesn't help me at all.",
         "Spot the pattern."
       ]
     }

@@ -22,23 +22,27 @@
     {
       "panel": 4,
       "dialogue": [
-        "How long do you think you will need to work on yourself to become normal?"
+        "You're taking on a big job."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Are you looking for a quick fix, or is this a multi-generational thing?"
+        "How long do you think you will need to work on yourself to become normal?"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "You're taking on a big job."
+        "Are you looking for a quick fix, or is this a multi-generational thing?"
       ]
     },
     {
       "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "You're already talking less, so that's a step in the right direction."
       ]

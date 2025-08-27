@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Our ceo ordered me to cut the budget by twenty percent."
+        "Our CEO ordered me to cut the budget by twenty percent."
       ]
     },
     {
@@ -22,13 +22,15 @@
     {
       "panel": 4,
       "dialogue": [
-        "Really? You did?"
+        "Really?",
+        "You did?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Right. I did. And that's what will be eliminated."
+        "Right. I did.",
+        "And that's what will be eliminated."
       ]
     },
     {

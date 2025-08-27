@@ -1,0 +1,23 @@
+{
+  "date": "2022-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that we're a big pharma company, I need you to lead the data integrity team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You want me to make sure all of the data from our drug trials is accurate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you're not the right fit for this job."
+      ]
+    }
+  ]
+}

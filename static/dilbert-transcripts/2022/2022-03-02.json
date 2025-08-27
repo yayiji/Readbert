@@ -10,16 +10,30 @@
     {
       "panel": 2,
       "dialogue": [
-        "Can you prove it?",
-        "Only if someone sends it back."
+        "Can you prove it?"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Do you think they have someone who can do that?",
+        "Only if someone sends it back."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you think they have someone who can do that?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
         "No, but they might have a guy who lies about it."
       ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
     }
   ]
 }

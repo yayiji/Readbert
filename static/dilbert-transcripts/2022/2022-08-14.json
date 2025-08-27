@@ -22,24 +22,30 @@
     {
       "panel": 4,
       "dialogue": [
-        "You'll never get away with this, credit pirate!"
+        "Gaaaa!!! He's a credit pirate!"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "I already have!"
+        "You'll never get away with this, credit pirate!"
       ]
     },
     {
       "panel": 6,
+      "dialogue": [
+        "I already have!"
+      ]
+    },
+    {
+      "panel": 7,
       "dialogue": [
         "Die, credit pirate, die!!!",
         "Gaaa!!!"
       ]
     },
     {
-      "panel": 7,
+      "panel": 8,
       "dialogue": [
         "Where were we?",
         "You're high maintenance."

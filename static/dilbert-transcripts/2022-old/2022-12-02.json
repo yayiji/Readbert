@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On Friday, you will all get an email informing you whether or not you are still employed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Until then, business as usual."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is employee sabotage common enough to be business as usual?",
+        "Yes. Don't overdo it."
+      ]
+    }
+  ]
+}

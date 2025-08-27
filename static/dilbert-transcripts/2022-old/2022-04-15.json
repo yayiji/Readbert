@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We couldn't get parts for our products because of supply chain issues."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I assigned Wally the job of sourcing substitute parts, and he came through for us.",
+        "Wally, tell us how you did it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The breakthrough came when I realized fiber-optic cable and string are basically the same thing."
+      ]
+    }
+  ]
+}

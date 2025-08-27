@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Our homeland is under attack!"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Our homeland is under attack!",
         "Which side am I on?"
       ]
     }

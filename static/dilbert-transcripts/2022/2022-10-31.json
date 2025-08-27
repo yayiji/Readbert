@@ -4,19 +4,20 @@
     {
       "panel": 1,
       "dialogue": [
-        "I've been searching for a new vp of research and develop ment for a year, and that's why I want to talk to you."
+        "I've been searching for a new VP of research and development for a year, and that's why I want to talk to you."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "I'm flattered. Thank you."
+        "I'm flattered.",
+        "Thank you."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Whatever. Anyway, I wondered if you could create an a.i. to take the job."
+        "Whatever. Anyway, I wondered if you could create an A.I. to take the job."
       ]
     }
   ]

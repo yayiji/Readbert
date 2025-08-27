@@ -10,18 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "I told our ceo we already rolled it out and it worked great."
+        "I told our CEO we already rolled it out and it worked great."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Can I also take credit?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Can I also take credit?",
         "No, I hate liars."
       ]
     }

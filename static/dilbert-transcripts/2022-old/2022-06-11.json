@@ -1,0 +1,29 @@
+{
+  "date": "2022-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whistleblowers are telling the press we sell pills that are dangerous and ineffective."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need to grind up all the evidence and spread the dust in a remote desert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about the whistleblowers?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's who I'm talking about."
+      ]
+    }
+  ]
+}

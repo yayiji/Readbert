@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A new study says drinking water prevents cancer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was skeptical until I realized I know a guy who drinks water and does not have cancer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was your non-stem major in college?",
+        "Art history. Why do you ask?"
+      ]
+    }
+  ]
+}

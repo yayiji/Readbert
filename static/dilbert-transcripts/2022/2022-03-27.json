@@ -22,7 +22,7 @@
     {
       "panel": 4,
       "dialogue": [
-        "And the fact-check option blocks you from texting anything that is obviously false."
+        "And the fact—check option blocks you from texting anything that is obviously false."
       ]
     },
     {
@@ -39,6 +39,10 @@
     },
     {
       "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "I'm sorry you had to find out this way."
       ]

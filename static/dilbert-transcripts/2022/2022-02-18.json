@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "You want a sadist to design a human interface?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "You want a sadist to design a human interface?",
         "Trust me, no one will notice."
       ]
     }

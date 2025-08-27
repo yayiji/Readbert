@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "You're welcome."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "You're welcome.",
         "Wait..."
       ]
     }

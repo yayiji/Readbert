@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Our esg score will drop if we open a new factory that adds co2 to the atmosphere."
+        "Our ESG score will drop if we open a new factory that adds CO2 to the atmosphere."
       ]
     },
     {
@@ -16,7 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "How much co2 do you plan to add?",
+        "How much CO2 do you plan to add?",
         "One non-binary board member's worth."
       ]
     }

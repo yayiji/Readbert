@@ -16,13 +16,8 @@
     {
       "panel": 3,
       "dialogue": [
-        "I don't know how to thank you."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "I accept bitcoin, google pay, venmo, or physical gold."
+        "I don't know how to thank you.",
+        "I accept Bitcoin, Google Pay, Venmo, or physical gold."
       ]
     }
   ]

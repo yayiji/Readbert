@@ -22,23 +22,29 @@
     {
       "panel": 4,
       "dialogue": [
-        "It means we should use our own products."
+        "I once heard our CEO say the dog food thing, and I liked how wise it sounded."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "That doesn't sound right. Why would we use our products when we can use good ones?"
+        "It means we should use our own products."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Because... it will make our products better over time."
+        "That doesn't sound right. Why would we use our products when we can use good ones?"
       ]
     },
     {
       "panel": 7,
+      "dialogue": [
+        "Because... it will make our products better over time."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "To be honest it made more sense when I thought it meant dog food."
       ]

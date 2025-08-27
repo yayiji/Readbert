@@ -22,30 +22,29 @@
     {
       "panel": 4,
       "dialogue": [
-        "I could make my point while you are walking away."
+        "I won't be done with my point until I have to be somewhere else."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "You could try, but I'll have a sneeze attack so I don't hear you."
+        "I could make my point while you are walking away."
       ]
     },
     {
       "panel": 6,
-      "dialogue": [
-        "The only way I can tolerate being around you losers is by talking as much as possible and listening as little as possible."
-      ]
+      "dialogue": []
     },
     {
       "panel": 7,
       "dialogue": [
-        "Then how will I..."
+        "You could try, but I'll have a sneeze attack so I don't hear you."
       ]
     },
     {
       "panel": 8,
       "dialogue": [
+        "Then how will I...",
         "Gotta go!",
         "Aaah—choo!"
       ]

@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "You can't prove that."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "You can't prove that.",
         "We track you on a shared spreadsheet."
       ]
     }

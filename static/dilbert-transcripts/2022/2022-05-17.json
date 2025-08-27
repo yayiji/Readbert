@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "You're making it worse!"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "You're making it worse!",
         "Would it help if I give you a bad performance review?"
       ]
     }

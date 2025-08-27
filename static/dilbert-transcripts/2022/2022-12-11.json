@@ -4,13 +4,13 @@
     {
       "panel": 1,
       "dialogue": [
-        "We're getting a lot of heat from the media for using elbonian slave labor to make our sneakers."
+        "We're getting a lot of heat from the media for using Elbonian slave labor to make our sneakers."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "So I hired the dogbert public relations firm to help us with our messaging."
+        "So I hired the Dogbert public relations firm to help us with our messaging."
       ]
     },
     {
@@ -22,23 +22,29 @@
     {
       "panel": 4,
       "dialogue": [
-        "Really? You believe all footwear is made by slaves?"
+        "I'm fairly sure all footwear is made by slaves."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "I assume so. Why would anyone use paid labor when they could just use slaves?"
+        "Really? You believe all footwear is made by slaves?"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Morality?"
+        "I assume so. Why would anyone use paid labor when they could just use slaves?"
       ]
     },
     {
       "panel": 7,
+      "dialogue": [
+        "Morality?"
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "You're fired.",
         "I warned you about that."

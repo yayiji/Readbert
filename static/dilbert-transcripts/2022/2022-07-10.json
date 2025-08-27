@@ -10,7 +10,8 @@
     {
       "panel": 2,
       "dialogue": [
-        "I didn't 'fail.' I sharpened my focus."
+        "I didn't \"fail.\"",
+        "I sharpened my focus."
       ]
     },
     {
@@ -22,7 +23,8 @@
     {
       "panel": 4,
       "dialogue": [
-        "That's right. My original goal was to upgrade all of our servers."
+        "That's right.",
+        "My original goal was to upgrade all of our servers."
       ]
     },
     {
@@ -46,13 +48,9 @@
     {
       "panel": 8,
       "dialogue": [
-        "So, you stayed awake..."
-      ]
-    },
-    {
-      "panel": 9,
-      "dialogue": [
-        "I tried, but it was harder than it looked."
+        "So, you stayed awake...",
+        "I tried,",
+        "but it was harder than it looked."
       ]
     }
   ]

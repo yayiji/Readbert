@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "How can I ever trust you?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "How can I ever trust you?",
         "A huge bonus might help."
       ]
     }

@@ -4,38 +4,48 @@
     {
       "panel": 1,
       "dialogue": [
-        "I like it when men show their emotions.",
-        "That way I know who to avoid.",
-        "Ha-ha!"
+        "I like it when men show their emotions."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Wait... what?",
-        "Oh, sorry. Didn't see you there."
+        "That way I know who to avoid.",
+        "Ha-ha!"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "I'm sorry you had to find out this way."
+        "Wait... what?"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Now I wonder if anything else I believe about women is wrong."
+        "Oh, sorry. Didn't see you there."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Women still prefer men with good character over men who are nothing but good looking, right?"
+        "I'm sorry you had to find out this way."
       ]
     },
     {
       "panel": 6,
+      "dialogue": [
+        "Now I wonder if anything else I believe about women is wrong."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Women still prefer men with good character over men who are nothing but good looking, right?"
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "This is going to sting."
       ]

@@ -4,36 +4,47 @@
     {
       "panel": 1,
       "dialogue": [
-        "Remind me why we can't work remotely.",
-        "Well, the first reason is because casual contact in the workplace enhances employee communication."
+        "Remind me why we can't work remotely."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Really? Because it doesn't feel that way."
+        "Well, the first reason is because casual contact in the workplace enhances employee communication."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "This place is 50% oxygen and 50% complaining."
+        "Really? Because it doesn't feel that way."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "I get tense when I hear footsteps approaching. I believe it takes years off my life."
+        "It feels more like getting waterboarded by a continuous drip of useless interruptions."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "I mean, it feels like a hostage situation, if I'm being honest."
+        "This place is 50% oxygen and 50% complaining."
       ]
     },
     {
       "panel": 6,
+      "dialogue": [
+        "I get tense when I hear footsteps approaching. I believe it takes years off my life."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I mean, it feels like a hostage situation, if I'm being honest."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "And the second reason is because it's good for morale."
       ]

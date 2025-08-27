@@ -1,0 +1,29 @@
+{
+  "date": "2022-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello. This is Dogbert's tech support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My motto is 'the customer is always right.'"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay. Can you help me fix my computer?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Fix it yourself. You're the one who's always right."
+      ]
+    }
+  ]
+}

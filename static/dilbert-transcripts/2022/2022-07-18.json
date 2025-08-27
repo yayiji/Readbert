@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Are we at war with an alien invader?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Are we at war with an alien invader?",
         "No, that would imply our side has weapons too."
       ]
     }

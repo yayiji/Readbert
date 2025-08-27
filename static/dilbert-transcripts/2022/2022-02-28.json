@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Your dna test came back as 'do not promote.'"
+        "Your DNA test came back as \"do not promote.\""
       ]
     },
     {
@@ -16,7 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "I call that 'sticking the landing.'"
+        "I call that \"sticking the landing.\""
       ]
     }
   ]

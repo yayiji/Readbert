@@ -5,14 +5,14 @@
       "panel": 1,
       "dialogue": [
         "We've got a problem.",
-        "Problem?!?!"
+        "Problem?!?"
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Don't say we have a 'problem.'",
-        "Say we have an 'opportunity.'"
+        "Don't say we have a \"problem.\"",
+        "Say we have an \"opportunity.\""
       ]
     },
     {

@@ -10,18 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "In five years, a.i. will reach what experts call the singularity, and you will be dead."
+        "In five years, A.I. will reach what experts call the singularity, and you will be dead."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "That's it?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "That's it?",
         "There is also the matter of my payment. I'll email you the invoice."
       ]
     }

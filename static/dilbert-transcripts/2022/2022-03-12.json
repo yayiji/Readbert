@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Please just fire me!"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Please just fire me!",
         "It's less paperwork to promote you into nothingness."
       ]
     }

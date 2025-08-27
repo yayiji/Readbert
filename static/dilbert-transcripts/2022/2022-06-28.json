@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "I don't have any skills or experience."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "I don't have any skills or experience.",
         "Don't mention that to the auditors."
       ]
     }

@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Give me a secret bonus?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Give me a secret bonus?",
         "I was going to say kill you."
       ]
     }

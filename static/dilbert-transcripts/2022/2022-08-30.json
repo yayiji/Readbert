@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Isn't that illegal or something?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Isn't that illegal or something?",
         "Not if you make it look like an accident."
       ]
     }

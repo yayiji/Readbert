@@ -16,8 +16,9 @@
     {
       "panel": 3,
       "dialogue": [
-        "You just set the market price for 'meaning' at zero.",
-        "No."
+        "No.",
+        "I",
+        "You just set the market price for \"meaning\" at zero."
       ]
     }
   ]

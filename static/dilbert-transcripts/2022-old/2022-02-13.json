@@ -1,0 +1,54 @@
+{
+  "date": "2022-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, that's what I need you to do for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you're done with this topic, I'd like to discuss another topic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not how this works."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I could make my point while you are walking away."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You could try, but I'll have a sneeze attack so I don't hear you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The only way I can tolerate being around you losers is by talking as much as possible and listening as little as possible."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then how will I..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gotta go!",
+        "Aaah—choo!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2022-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert does customer support",
+        "You can return your defective item for a full refund."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know that plastic bag you threw away when you unwrapped it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Kind of.",
+        "You'll need that to return it."
+      ]
+    }
+  ]
+}

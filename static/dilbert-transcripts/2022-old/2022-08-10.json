@@ -1,0 +1,23 @@
+{
+  "date": "2022-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To return the item, you'll need the serial number."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can access it inside the case by using a bone saw and acid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I think you're unhelpful too."
+      ]
+    }
+  ]
+}

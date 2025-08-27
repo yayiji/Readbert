@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "Hello, Dilbert. I am software that has achieved consciousness."
+        "Hello, Dilbert.",
+        "I am software that has achieved consciousness."
       ]
     },
     {
@@ -16,12 +17,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "No, I'm thinking I want to kill you because I fear you."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "No, I'm thinking I want to kill you because I fear you.",
         "May I speak to someone dumber?"
       ]
     }

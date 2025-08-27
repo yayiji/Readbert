@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "I have a thing I need to do."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "I have a thing I need to do.",
         "No you don't."
       ]
     }

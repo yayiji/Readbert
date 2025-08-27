@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Are you positive that's a portal?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Are you positive that's a portal?",
         "It only works if you go in head-first."
       ]
     }

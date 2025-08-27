@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "Hi, I'm Dilbert's telepresence robot. He'll be online in a few minutes."
+        "Hi, I'm Dilbert's telepresence robot.",
+        "He'll be online in a few minutes."
       ]
     },
     {
@@ -16,7 +17,10 @@
     {
       "panel": 3,
       "dialogue": [
-        "Oh, right. I forgot. I'm garbage to you."
+        "I wasn't.",
+        "Oh, right.",
+        "I forgot.",
+        "I'm garbage to you."
       ]
     }
   ]

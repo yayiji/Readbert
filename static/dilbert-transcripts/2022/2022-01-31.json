@@ -16,7 +16,12 @@
     {
       "panel": 3,
       "dialogue": [
-        "But the Elbonian government denies it.",
+        "But the Elbonian government denies it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
         "Sounds like a \"wait and see\" situation."
       ]
     }

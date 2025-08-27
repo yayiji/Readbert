@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't finish all of the projects you piled on me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try working smarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I quit.",
+        "Not that smart. Dial it back."
+      ]
+    }
+  ]
+}

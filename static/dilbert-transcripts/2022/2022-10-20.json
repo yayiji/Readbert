@@ -4,24 +4,19 @@
     {
       "panel": 1,
       "dialogue": [
-        "Asok, there’s an opening for director of a.i., and I am considering you for the job."
+        "Asok, there's an opening for director of A.I., and I am considering you for the job."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Are you ignoring my actual accomplish- ments and offering me a job for which I am not qualified in order to meet your diversity goals?"
+        "Are you ignoring my actual accomplishments and offering me a job for which I am not qualified in order to meet your diversity goals?"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "It’s a huge step up in pay."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "It's a huge step up in pay.",
         "Hmm, I do have my eye on a second pair of pants."
       ]
     }

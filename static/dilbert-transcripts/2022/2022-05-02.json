@@ -10,13 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "Meet Dave."
+        "Meet Dave.",
+        "I identify as white."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "I identify as white.",
         "You're ruining everything, Dave."
       ]
     }

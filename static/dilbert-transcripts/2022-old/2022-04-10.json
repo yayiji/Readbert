@@ -1,0 +1,42 @@
+{
+  "date": "2022-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you prefer meeting on monday or tuesday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your answer suggests you did not read my question."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You didn't specify which day, and you picked a time that wasn't offered."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Please read all of the words in this message and give me a time after 1 p.m. and on either a monday or tuesday."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Does 11 a.m. on friday work?",
+        "I can't describe how much I hate you right now."
+      ]
+    }
+  ]
+}

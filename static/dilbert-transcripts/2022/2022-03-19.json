@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "This is highly irregular."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "This is highly irregular.",
         "Is this cable important for anything?"
       ]
     }

@@ -16,13 +16,9 @@
     {
       "panel": 3,
       "dialogue": [
-        "Are you in?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "Yes, because for some reason, I never learn."
+        "Are you in?",
+        "Yes, because for some reason, I never learn.",
+        "Continued..."
       ]
     }
   ]

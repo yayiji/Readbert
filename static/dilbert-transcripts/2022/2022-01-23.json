@@ -11,25 +11,25 @@
       "panel": 2,
       "dialogue": [
         "You don't do anything for me.",
-        "What!"
+        "What?!"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "That's ridiculous!",
-        "Have you ever been killed by a poisonous spider?"
+        "That's ridiculous!"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "No."
+        "Have you ever been killed by a poisonous spider?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
+        "No.",
         "You're welcome."
       ]
     },

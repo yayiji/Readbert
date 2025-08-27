@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "How about we meet over dinner?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "How about we meet over dinner?",
         "No, and before you ask about breakfast..."
       ]
     }

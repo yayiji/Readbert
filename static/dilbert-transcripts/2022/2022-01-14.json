@@ -10,18 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "My motto is 'the customer is always right.'"
+        "My motto is \"The customer is always right.\""
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Okay. Can you help me fix my computer?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Okay. Can you help me fix my computer?",
         "Fix it yourself. You're the one who's always right."
       ]
     }

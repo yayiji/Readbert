@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Do you think you can win?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Do you think you can win?",
         "I wasn't planning on trying. It sounds painful."
       ]
     }

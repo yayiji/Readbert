@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The press says I need to resign because of our exploding phones fiasco."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you can change their minds by sending the press our new model that doesn't explode."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already sent them the exploding phones and said it was our new model.",
+        "Your way left too much to chance."
+      ]
+    }
+  ]
+}

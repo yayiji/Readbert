@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Can I see it?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Can I see it?",
         "It's more of a mental thing."
       ]
     }

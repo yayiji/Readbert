@@ -1,0 +1,25 @@
+{
+  "date": "2022-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hour one: deciding where to eat lunch",
+        "Okay, we need a vegan, keto restaurant with no gluten"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And it needs to be within limping distance because Tina has a bad foot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That narrows it down to... nothing.",
+        "What if you carry her?"
+      ]
+    }
+  ]
+}

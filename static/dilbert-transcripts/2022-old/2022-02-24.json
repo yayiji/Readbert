@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the financial advisor",
+        "I recommend putting all of your money in a managed stock fund."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that where you put your own money?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't work with you if you insist on asking questions."
+      ]
+    }
+  ]
+}

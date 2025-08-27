@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As a big pharma company, we will be under more scrutiny than other companies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why we can never be seen as bending any rules or violating any laws."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In other words, we should be honest and ethical?",
+        "I'm saying it should look that way in your emails."
+      ]
+    }
+  ]
+}

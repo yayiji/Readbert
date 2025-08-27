@@ -4,24 +4,19 @@
     {
       "panel": 1,
       "dialogue": [
-        "Why is your project late, dave?"
+        "Why is your project late, Dave?"
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Supply chain issues, climate change, systemic racism, covid, and something about inflation."
+        "Supply chain issues, climate change, systemic racism, Covid, and something about inflation."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "I can never tell if you're joking."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "I can never tell if you're joking.",
         "I love that about you."
       ]
     }

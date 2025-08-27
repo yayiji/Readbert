@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "Do you mind if I sit with you, npc?"
+        "Do you mind if I sit with you, NPC?",
+        "*Non-player character"
       ]
     },
     {

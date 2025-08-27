@@ -10,17 +10,12 @@
     {
       "panel": 2,
       "dialogue": [
-        "Do you still have free will?"
-      ]
-    },
-    {
-      "panel": 3,
-      "dialogue": [
+        "Do you still have free will?",
         "I never had free will."
       ]
     },
     {
-      "panel": 4,
+      "panel": 3,
       "dialogue": [
         "Did the chip force you to say that?",
         "No, it allowed me to see it."

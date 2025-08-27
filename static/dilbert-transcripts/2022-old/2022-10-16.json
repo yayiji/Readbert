@@ -1,0 +1,44 @@
+{
+  "date": "2022-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to the news, my weight gain is caused by climate change.",
+        "What are you going to do about it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I spent the entire afternoon tweeting about the need for more windmills.",
+        "I'll weigh myself in the morning to see if it made any difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm down one pound!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Today I plan to tweet about solar panels to see how much more weight I can lose."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I had no success losing weight until I switched to a science-based approach."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What about nuclear power?",
+        "Never heard of it."
+      ]
+    }
+  ]
+}

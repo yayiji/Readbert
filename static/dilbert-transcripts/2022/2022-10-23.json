@@ -4,37 +4,47 @@
     {
       "panel": 1,
       "dialogue": [
-        "I agree my performance this year did not meet your expectations.",
-        "But you have to consider how much worse it could have been."
+        "I agree my performance this year did not meet your expectations."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "When you compare me to the people who tried hard and failed, I look a lot better.",
-        "I'm not saying I did better than the people who tried hard and succeeded."
+        "But you have to consider how much worse it could have been."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "But there aren't many of them."
+        "When you compare me to the people who tried hard and failed, I look a lot better."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "I'm only saying I'm better than the people who tried and failed."
+        "I'm not saying I did better than the people who tried hard and succeeded."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Not trying is the second-best financial outcome. I spent almost nothing."
+        "But there aren't many of them."
       ]
     },
     {
       "panel": 6,
+      "dialogue": [
+        "I'm only saying I'm better than the people who tried and failed."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Not trying is the second-best financial outcome. I spent almost nothing."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "I'm a top ten percent employee.",
         "I hate how much sense that makes."

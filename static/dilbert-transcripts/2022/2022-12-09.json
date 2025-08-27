@@ -10,18 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "You need a celebrity endorsement. People trust celebrities with their life-and-death decisions."
+        "You need a celebrity endorsement. People trust celebrities with their life—and—death decisions."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Maybe a famous cartoonist."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Maybe a famous cartoonist.",
         "I don't see how that could go wrong.",
         "Continued..."
       ]

@@ -4,13 +4,14 @@
     {
       "panel": 1,
       "dialogue": [
-        "You want to upgrade our wi-fi? That's the dumbest idea anyone ever had."
+        "You want to upgrade our Wi-Fi?",
+        "That's the dumbest idea anyone ever had."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Upgrading our wi-fi would be like teaching a banana to play the accordion."
+        "Upgrading our Wi-Fi would be like teaching a banana to play the accordion."
       ]
     },
     {

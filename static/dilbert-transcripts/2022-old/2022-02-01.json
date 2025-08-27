@@ -1,0 +1,25 @@
+{
+  "date": "2022-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your assignment is to invent some–thing amazing and add my name to the patent application."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I add your name to my patent?",
+        "Because I told you to invent some–thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I guess that's true.",
+        "Now go do the easy part."
+      ]
+    }
+  ]
+}

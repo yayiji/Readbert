@@ -4,6 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
+        "Dogbert the financial expert",
         "What's the best way to make money in today's market?"
       ]
     },
@@ -16,12 +17,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "That sounds risky."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "That sounds risky.",
         "Not really. I'm doing it right now."
       ]
     }

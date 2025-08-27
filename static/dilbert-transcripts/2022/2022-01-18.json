@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "I'm trending on twitter because I predict doom about everything."
+        "I'm trending on Twitter because I predict doom about everything."
       ]
     },
     {
@@ -16,13 +16,8 @@
     {
       "panel": 3,
       "dialogue": [
-        "Next question, will crime go up or down?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "You'll be lucky to make it home tonight fully clothed."
+        "Next question, will crime go up or down?",
+        "You'll be lucky to make it home tonight...fully clothed."
       ]
     }
   ]

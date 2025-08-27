@@ -1,0 +1,23 @@
+{
+  "date": "2022-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished all of my assignments and I'm ready to enjoy my vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a gigantic pile of work I could have told you about a month ago, but didn't, and now it's urgent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's with the attitude?"
+      ]
+    }
+  ]
+}

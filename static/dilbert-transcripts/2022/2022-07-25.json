@@ -10,18 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "And I will report to h.r. any bigoted use of the wrong pronoun."
+        "And I will report to H.R. any bigoted use of the wrong pronoun."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Is this parody, or are you serious?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Is this parody, or are you serious?",
         "I think you will find it doesn't matter."
       ]
     }

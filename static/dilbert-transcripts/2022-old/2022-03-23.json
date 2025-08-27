@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want two things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, I want our ads to boast that we build our products with 100% natural elbonium."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Elbonium isn't a real material.",
+        "Second, I want you to stop being like this."
+      ]
+    }
+  ]
+}

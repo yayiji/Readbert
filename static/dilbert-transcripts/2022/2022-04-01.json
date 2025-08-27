@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Are there any other ways you want me to waste my time?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Are there any other ways you want me to waste my time?",
         "Let's play it by ear."
       ]
     }

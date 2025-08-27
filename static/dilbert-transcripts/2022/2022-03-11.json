@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "What does that tell you?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "What does that tell you?",
         "It tells me I'm talking to a jerk."
       ]
     }

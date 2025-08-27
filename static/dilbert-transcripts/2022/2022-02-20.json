@@ -4,32 +4,47 @@
     {
       "panel": 1,
       "dialogue": [
-        "Our new corporate policy is extreme transparency.",
-        "That means employees will have access to the same information as their leaders."
+        "Our new corporate policy is \"extreme transparency.\""
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "I will model our new culture by honestly answering any of your questions.",
-        "Tell me what you think of me."
+        "That means employees will have access to the same information as their leaders."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Okay. When I look at you, I see a wet paper bag full of toenail clippings."
+        "I will model our new culture by honestly answering any of your questions."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "I find your honesty refreshing!",
-        "Now tell us what you think of Alice, Dilbert, Asok, Carol, Ted, and Tina."
+        "Tell me what you think of me."
       ]
     },
     {
       "panel": 5,
+      "dialogue": [
+        "Okay, when I look at you, I see a wet paper bag full of toenail clippings."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I find your honesty refreshing!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now tell us what you think of Alice, Dilbert, Asok, Carol, Ted, and Tina."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "It did not go well.",
         "Double the honesty and try again."

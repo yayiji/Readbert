@@ -16,26 +16,37 @@
     {
       "panel": 3,
       "dialogue": [
-        "All of them? Why would they all leave?",
-        "They're following our corporate incentives."
+        "All of them?",
+        "Why would they all leave?"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "The only engineers this company promotes are the ones who launch products."
+        "They're following our corporate incentives."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "So as soon as the product is launched, all of the engineers leave for promotions in other groups."
+        "The only engineers this company promotes are the ones who launch products."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Then the product fails for lack of good engineering.",
+        "So as soon as the product is launched, all of the engineers leave for promotions in other groups."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then the product fails for lack of good engineering."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
         "Then what do we do?",
         "We blame the sales team."
       ]

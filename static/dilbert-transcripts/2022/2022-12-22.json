@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "So... how do I get my money?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "So... how do I get my money?",
         "Try hacking us. We have terrible cyber-security."
       ]
     }

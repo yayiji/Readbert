@@ -10,17 +10,12 @@
     {
       "panel": 2,
       "dialogue": [
-        "What's in it for me?"
-      ]
-    },
-    {
-      "panel": 3,
-      "dialogue": [
+        "What's in it for me?",
         "You get to be called a team player."
       ]
     },
     {
-      "panel": 4,
+      "panel": 3,
       "dialogue": [
         "I don't even want that.",
         "No one does."

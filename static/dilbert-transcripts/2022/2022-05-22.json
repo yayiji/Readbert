@@ -16,26 +16,36 @@
     {
       "panel": 3,
       "dialogue": [
-        "How long will it take to give me network access?",
-        "About a month."
+        "How long will it take to give me network access?"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "But... that would be one week after I get fired for not producing any work."
+        "About a month."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Yep. Looks like you chose the wrong career."
+        "But... that would be one week after I get fired for not producing any work."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "My career allows me to get paid for doing something I would do for free.",
+        "Yep. Looks like you chose the wrong career."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My career allows me to get paid for doing something I would do for free."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
         "Which is...?",
         "Hurt people."
       ]

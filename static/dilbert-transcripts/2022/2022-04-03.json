@@ -16,37 +16,39 @@
     {
       "panel": 3,
       "dialogue": [
-        "Okay, ask someone else in that department.",
-        "They're idiots too."
+        "Okay, ask someone else in that department."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Larry is a moron, and Larry works in marketing, so therefore, everyone in marketing is a moron."
+        "They're idiots too.",
+        "All of them?",
+        "Yes, that's how it works."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Did you make the colossal mistake of watching the news and learning that each person in a group defines the entire group?"
+        "Larry is a moron, and Larry works in marketing, so therefore, everyone in marketing is a moron."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Yes, and I have to say, it wasn't an intuitive idea."
+        "Did you make the colossal mistake of watching the news and learning that each person in a group defines the entire group?"
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "But I trust science, so it must be true."
+        "Yes, and I have to say, it wasn't an intuitive idea."
       ]
     },
     {
       "panel": 8,
       "dialogue": [
+        "But I trust science, so it must be true.",
         "You're ruining things for all helmet-haired women."
       ]
     }

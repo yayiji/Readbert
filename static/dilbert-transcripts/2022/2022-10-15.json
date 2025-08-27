@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "I calculated the global impact of meeting all of our company esg goals for the environ– ment."
+        "I calculated the global impact of meeting all of our company ESG goals for the environment."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Can we blame climate change?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Can we blame climate change?",
         "I was thinking either vaccinations or long covid."
       ]
     }

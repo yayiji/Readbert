@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "I have a bad case of whisker fatigue. I need to take some time off."
+        "I have a bad case of whisker fatigue.",
+        "I need to take some time off."
       ]
     },
     {
@@ -17,8 +18,8 @@
     {
       "panel": 3,
       "dialogue": [
-        "These two are tired, but this one is totally exhausted.",
-        "Huh."
+        "Huh.",
+        "These two are tired, but this one is totally exhausted."
       ]
     }
   ]

@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Congress subpoenaed our ceo to testify about the danger of our products."
+        "Congress subpoenaed our CEO to testify about the danger of our products."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "To get the facts right?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "To get the facts right?",
         "I was thinking more along the lines of fleeing justice."
       ]
     }

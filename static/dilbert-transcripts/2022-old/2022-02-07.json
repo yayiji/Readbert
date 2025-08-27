@@ -1,0 +1,23 @@
+{
+  "date": "2022-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In summary, if we execute our plan with great skill, we can expect a great outcome."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, you're saying we should execute the plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I would only recommend that to a company with great skill."
+      ]
+    }
+  ]
+}

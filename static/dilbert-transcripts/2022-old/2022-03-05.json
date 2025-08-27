@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're not allowed to use your personal computer for work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And your company laptop won't show up for another two weeks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... what should I do all day?",
+        "Do you know what pantomime is?"
+      ]
+    }
+  ]
+}

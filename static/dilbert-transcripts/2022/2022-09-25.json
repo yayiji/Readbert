@@ -10,49 +10,44 @@
     {
       "panel": 2,
       "dialogue": [
-        "Husbands aren't comfortable leaving them home with their wives.",
-        "What now?"
+        "Husbands aren't comfortable leaving them home with their wives."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Marketing thinks we need to make them look like total losers."
+        "What now?"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "How do that?"
+        "Marketing thinks we need to make them look like total losers."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "They suggested making it look and talk exactly like you."
+        "How do we do that?"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Marketing said that???"
+        "They suggested making it look and talk exactly like you."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
+        "Marketing said that???",
         "I might have primed the pump."
       ]
     },
     {
       "panel": 8,
       "dialogue": [
-        "One month later"
-      ]
-    },
-    {
-      "panel": 9,
-      "dialogue": [
+        "One month later",
         "How are sales?",
         "Still zero."
       ]

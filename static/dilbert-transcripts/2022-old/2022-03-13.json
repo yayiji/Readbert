@@ -1,0 +1,55 @@
+{
+  "date": "2022-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should follow the advice of the experts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if the experts disagree?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Side with the majority.",
+        "Is that how science works?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, no, you also have to do your own research to know which experts are right."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I knew which experts were right, wouldn't that make me smarter than the experts?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Doing my own research works for me, so you can always come and ask me who is right."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How would I know you were right?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Because I do my own research.",
+        "Maybe you can teach the experts how to do that?"
+      ]
+    }
+  ]
+}

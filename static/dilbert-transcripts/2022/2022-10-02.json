@@ -16,28 +16,38 @@
     {
       "panel": 3,
       "dialogue": [
-        "This chart shows the chain of cause and effect from the past to the present.",
-        "I think you would agree it makes a strong case for reparations."
+        "This chart shows the chain of cause and effect from the past to the present."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Are you asking me to give your client a bonus because his parents raised him poorly?",
-        "No, that would be absurd."
+        "I think you would agree it makes a strong case for reparations."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "I'm asking you to give him reparations."
+        "Are you asking me to give your client a bonus because his parents raised him poorly?"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
+        "No, that would be absurd."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm asking you to give him reparations."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
         "Do you have a law degree?",
-        "If you ask me again, I will sue you so much hard."
+        "If you ask me again, I will sue you soooo hard."
       ]
     }
   ]

@@ -1,0 +1,44 @@
+{
+  "date": "2022-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like it when men show their emotions.",
+        "That way I know who to avoid.",
+        "Ha-ha!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait... what?",
+        "Oh, sorry. Didn't see you there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry you had to find out this way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now I wonder if anything else I believe about women is wrong."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Women still prefer men with good character over men who are nothing but good looking, right?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This is going to sting."
+      ]
+    }
+  ]
+}

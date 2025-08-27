@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need some crooked doctors to endorse our new pill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Offer them lucrative speaking deals in return for endorsing the safety of our new pill."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I know which ones are crooked?",
+        "They're the ones who say yes."
+      ]
+    }
+  ]
+}

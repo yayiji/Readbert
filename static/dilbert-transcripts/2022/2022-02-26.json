@@ -10,17 +10,12 @@
     {
       "panel": 2,
       "dialogue": [
-        "What did I do wrong?"
-      ]
-    },
-    {
-      "panel": 3,
-      "dialogue": [
+        "What did I do wrong?",
         "I don't know, but you look like the kind of guy who would do terrible things."
       ]
     },
     {
-      "panel": 4,
+      "panel": 3,
       "dialogue": [
         "Lucky guess."
       ]

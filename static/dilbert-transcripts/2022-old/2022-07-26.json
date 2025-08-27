@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your job qualifications are excellent, but..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I looked at your social media posts, and I can see you are a bigoted idiot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You retweeted me seven times.",
+        "When can you start?"
+      ]
+    }
+  ]
+}

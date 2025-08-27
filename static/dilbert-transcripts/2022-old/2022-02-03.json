@@ -1,0 +1,23 @@
+{
+  "date": "2022-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The data clearly show option 2 is the best path."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would your data show if your assumptions were less imbecilic?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm beginning to think you were pranking me when you said he likes honesty."
+      ]
+    }
+  ]
+}

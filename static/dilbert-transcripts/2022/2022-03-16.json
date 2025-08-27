@@ -11,17 +11,12 @@
     {
       "panel": 2,
       "dialogue": [
-        "I think you know why."
-      ]
-    },
-    {
-      "panel": 3,
-      "dialogue": [
+        "I think you know why.",
         "That's not fair! Everyone looks at inappropriate content!"
       ]
     },
     {
-      "panel": 4,
+      "panel": 3,
       "dialogue": [
         "You're the only one who does nothing else.",
         "Solid point."

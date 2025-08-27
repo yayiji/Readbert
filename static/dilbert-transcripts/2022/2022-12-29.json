@@ -4,24 +4,29 @@
     {
       "panel": 1,
       "dialogue": [
-        "I got a job offer at a better company.",
-        "Better? That's not possible."
+        "I got a job offer at a better company."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "We collude with the other companies in our industry to be equally terrible, but in different ways."
+        "Better? That's not possible."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "They offered me more money."
+        "We collude with the other companies in our industry to be equally terrible, but in different ways."
       ]
     },
     {
       "panel": 4,
+      "dialogue": [
+        "They offered me more money."
+      ]
+    },
+    {
+      "panel": 5,
       "dialogue": [
         "Ouch. Sounds like a brutal commute."
       ]

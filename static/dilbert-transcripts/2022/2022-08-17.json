@@ -11,14 +11,16 @@
     {
       "panel": 2,
       "dialogue": [
-        "Don't struggle. Breathe in."
+        "Don't struggle.",
+        "Breathe in."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
         "He's going to be mad when he wakes up.",
-        "Nah. The chip will take care of that."
+        "Nah.",
+        "The chip will take care of that."
       ]
     }
   ]

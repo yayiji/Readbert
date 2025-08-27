@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm confused by your analysis of the plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You say it will succeed if we execute the plan with great skill, yet you're recommending we don't try."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What am I missing?",
+        "Skill."
+      ]
+    }
+  ]
+}

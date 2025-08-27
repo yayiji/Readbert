@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "You want me to create an a.i. that will take the job that I hoped to be promoted into???"
+        "You want me to create an A.I. that will take the job that I hoped to be promoted into???"
       ]
     },
     {
@@ -16,7 +16,8 @@
     {
       "panel": 3,
       "dialogue": [
-        "Aaand... and...? Thank you?"
+        "And...?",
+        "Aaand... thank you?"
       ]
     }
   ]

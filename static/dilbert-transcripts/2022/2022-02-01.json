@@ -4,18 +4,23 @@
     {
       "panel": 1,
       "dialogue": [
-        "Your assignment is to invent some–thing amazing and add my name to the patent application."
+        "Your assignment is to invent something amazing and add my name to the patent application."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Why would I add your name to my patent?",
-        "Because I told you to invent some–thing."
+        "Why would I add your name to my patent?"
       ]
     },
     {
       "panel": 3,
+      "dialogue": [
+        "Because I told you to invent something."
+      ]
+    },
+    {
+      "panel": 4,
       "dialogue": [
         "Well, I guess that's true.",
         "Now go do the easy part."

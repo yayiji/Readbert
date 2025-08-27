@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Why don't people trust us?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Why don't people trust us?",
         "I was wondering the same thing."
       ]
     }
