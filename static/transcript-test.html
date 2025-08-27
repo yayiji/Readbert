@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Independent Transcript Loading Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; }
+        button { margin: 5px; padding: 8px 12px; }
+        .result { margin: 10px 0; padding: 10px; background: #f5f5f5; }
+        pre { background: #f0f0f0; padding: 10px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>Independent Transcript Loading Test</h1>
+    
+    <div class="test-section">
+        <h3>1. Load Transcript Directly (Static File)</h3>
+        <button onclick="testDirectLoading()">Test Direct Loading</button>
+        <div id="direct-result" class="result"></div>
+    </div>
+
+    <div class="test-section">
+        <h3>2. Load Transcript via API</h3>
+        <button onclick="testAPILoading()">Test API Loading</button>
+        <div id="api-result" class="result"></div>
+    </div>
+
+    <div class="test-section">
+        <h3>3. Load Transcript by Date (Independent)</h3>
+        <input type="date" id="date-input" value="2020-01-04">
+        <button onclick="testIndependentLoading()">Load Transcript</button>
+        <div id="independent-result" class="result"></div>
+    </div>
+
+    <div class="test-section">
+        <h3>4. Load Multiple Transcripts (No Comic Dependency)</h3>
+        <button onclick="testMultipleLoading()">Load Multiple</button>
+        <div id="multiple-result" class="result"></div>
+    </div>
+
+    <script>
+        async function testDirectLoading() {
+            const resultDiv = document.getElementById('direct-result');
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                const response = await fetch('/dilbert-transcripts/2020/2020-01-04.json');
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                
+                const transcript = await response.json();
+                resultDiv.innerHTML = `
+                    <strong>✅ Direct loading successful!</strong><br>
+                    Date: ${transcript.date}<br>
+                    Panels: ${transcript.panels.length}<br>
+                    <pre>${JSON.stringify(transcript, null, 2).substring(0, 300)}...</pre>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `<strong>❌ Error:</strong> ${error.message}`;
+            }
+        }
+
+        async function testAPILoading() {
+            const resultDiv = document.getElementById('api-result');
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                const response = await fetch('/api/transcript?date=2020-01-04');
+                const result = await response.json();
+                
+                if (result.success) {
+                    resultDiv.innerHTML = `
+                        <strong>✅ API loading successful!</strong><br>
+                        Date: ${result.date}<br>
+                        Panels: ${result.transcript.panels.length}<br>
+                        <pre>${JSON.stringify(result.transcript, null, 2).substring(0, 300)}...</pre>
+                    `;
+                } else {
+                    resultDiv.innerHTML = `<strong>❌ API Error:</strong> ${result.error}`;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<strong>❌ Error:</strong> ${error.message}`;
+            }
+        }
+
+        async function testIndependentLoading() {
+            const resultDiv = document.getElementById('independent-result');
+            const dateInput = document.getElementById('date-input');
+            const date = dateInput.value;
+            
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                // Try direct loading first
+                let transcript = null;
+                try {
+                    const year = date.split('-')[0];
+                    const response = await fetch(`/dilbert-transcripts/${year}/${date}.json`);
+                    if (response.ok) {
+                        transcript = await response.json();
+                    }
+                } catch (e) {
+                    console.log('Direct loading failed, trying API...');
+                }
+                
+                // Fallback to API if direct failed
+                if (!transcript) {
+                    const response = await fetch(`/api/transcript?date=${date}`);
+                    const result = await response.json();
+                    if (result.success) {
+                        transcript = result.transcript;
+                    }
+                }
+                
+                if (transcript) {
+                    resultDiv.innerHTML = `
+                        <strong>✅ Independent loading successful!</strong><br>
+                        Date: ${transcript.date}<br>
+                        Panels: ${transcript.panels.length}<br>
+                        <pre>${JSON.stringify(transcript, null, 2).substring(0, 300)}...</pre>
+                    `;
+                } else {
+                    resultDiv.innerHTML = `<strong>⚠️ No transcript found for ${date}</strong>`;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<strong>❌ Error:</strong> ${error.message}`;
+            }
+        }
+
+        async function testMultipleLoading() {
+            const resultDiv = document.getElementById('multiple-result');
+            const dates = ['2020-01-01', '2020-01-02', '2020-01-03'];
+            
+            resultDiv.innerHTML = 'Loading multiple transcripts...';
+            
+            try {
+                const promises = dates.map(async (date) => {
+                    try {
+                        const year = date.split('-')[0];
+                        const response = await fetch(`/dilbert-transcripts/${year}/${date}.json`);
+                        if (response.ok) {
+                            const transcript = await response.json();
+                            return { date, success: true, panels: transcript.panels.length };
+                        } else {
+                            return { date, success: false, error: 'Not found' };
+                        }
+                    } catch (error) {
+                        return { date, success: false, error: error.message };
+                    }
+                });
+                
+                const results = await Promise.all(promises);
+                
+                let html = '<strong>✅ Multiple loading completed!</strong><br><br>';
+                results.forEach(result => {
+                    if (result.success) {
+                        html += `${result.date}: ✅ ${result.panels} panels<br>`;
+                    } else {
+                        html += `${result.date}: ❌ ${result.error}<br>`;
+                    }
+                });
+                
+                resultDiv.innerHTML = html;
+            } catch (error) {
+                resultDiv.innerHTML = `<strong>❌ Error:</strong> ${error.message}`;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,5 +1,5 @@
 <script>
-  import { formatDate, fetchTranscriptByDate } from '$lib/comicsUtils.js';
+  import { formatDate, loadTranscriptIndependently } from '$lib/comicsUtils.js';
   import { onMount } from 'svelte';
   
   let { data } = $props();
@@ -8,6 +8,7 @@
   let nextComic = $state(data.nextComic);
   let transcript = $state(null);
   let isLoading = $state(false);
+  let isLoadingTranscript = $state(false);
 
   const STORAGE_KEY = 'lastVisitedComic';
   const STORAGE_EXPIRY = 7 * 24 * 60 * 60 * 1000; // 7 days
@@ -44,28 +45,49 @@
     return null;
   }
 
-  // Load transcript for a given date
+  // Load transcript for a given date (independent of comic loading)
   async function loadTranscript(date) {
-    if (!date) return null;
+    if (!date) {
+      transcript = null;
+      return null;
+    }
     
+    isLoadingTranscript = true;
     try {
-      const transcriptData = await fetchTranscriptByDate(date);
+      const transcriptData = await loadTranscriptIndependently(date);
+      transcript = transcriptData;
       return transcriptData;
     } catch (error) {
       console.error('Error loading transcript:', error);
+      transcript = null;
       return null;
+    } finally {
+      isLoadingTranscript = false;
     }
   }
 
-  // Generic function to update comic state and save to storage
-  async function updateComicState(comic, prevComic, nextComicData) {
+  // Load transcript independently by date (public function)
+  async function loadTranscriptByDate(date) {
+    return await loadTranscript(date);
+  }
+
+  // Update comic state (now separated from transcript loading)
+  function updateComicState(comic, prevComic, nextComicData) {
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
+    saveComicToStorage(comic, prevComic, nextComicData, transcript);
+  }
+
+  // Update comic state and load transcript independently
+  async function updateComicStateWithTranscript(comic, prevComic, nextComicData) {
+    // Update comic state first
+    updateComicState(comic, prevComic, nextComicData);
     
-    // Load transcript for the current comic
-    transcript = await loadTranscript(comic?.date);
+    // Then load transcript independently (non-blocking)
+    await loadTranscript(comic?.date);
     
+    // Save again with transcript
     saveComicToStorage(comic, prevComic, nextComicData, transcript);
   }
 
@@ -73,14 +95,23 @@
   onMount(async () => {
     const savedComic = loadComicFromStorage();
     if (savedComic) {
-      await updateComicState(
+      // Load saved comic state
+      updateComicState(
         savedComic.currentComic,
         savedComic.previousComic,
         savedComic.nextComic
       );
+      
+      // Load transcript independently if we have a saved transcript
+      if (savedComic.transcript) {
+        transcript = savedComic.transcript;
+      } else if (savedComic.currentComic?.date) {
+        // Load transcript independently for saved comic
+        await loadTranscript(savedComic.currentComic.date);
+      }
     } else if (currentComic) {
-      // Load transcript for initial comic from server
-      transcript = await loadTranscript(currentComic.date);
+      // Load transcript independently for initial comic from server
+      await loadTranscript(currentComic.date);
     }
   });
   
@@ -99,7 +130,7 @@
       const result = await response.json();
       
       if (result.success) {
-        await updateComicState(result.comic, result.previousComic, result.nextComic);
+        await updateComicStateWithTranscript(result.comic, result.previousComic, result.nextComic);
       } else {
         console.error('Failed to load comic:', result.error);
       }
@@ -119,7 +150,7 @@
       const result = await response.json();
       
       if (result.success) {
-        await updateComicState(result.comic, result.previousComic, result.nextComic);
+        await updateComicStateWithTranscript(result.comic, result.previousComic, result.nextComic);
       }
     } catch (error) {
       console.error('Error loading random comic:', error);
@@ -202,16 +233,37 @@
         />
       </div>
       
-      <!-- Transcript Section (automatically shown) -->
-      {#if transcript}
-        <ol class="simple-transcript">
-          {#each transcript.panels as panel}
-            {#each panel.dialogue as dialogue}
-              <li>{dialogue}</li>
+      <!-- Transcript Section with independent loading controls -->
+      <div class="transcript-section">
+        <div class="transcript-header">
+          <h3>Transcript</h3>
+          <div class="transcript-controls">
+            {#if isLoadingTranscript}
+              <span class="loading-indicator">Loading transcript...</span>
+            {:else}
+              <button 
+                class="transcript-reload-btn"
+                onclick={() => loadTranscript(currentComic.date)}
+                title="Reload transcript independently"
+              >
+                🔄 Reload
+              </button>
+            {/if}
+          </div>
+        </div>
+        
+        {#if transcript}
+          <ol class="simple-transcript">
+            {#each transcript.panels as panel}
+              {#each panel.dialogue as dialogue}
+                <li>{dialogue}</li>
+              {/each}
             {/each}
-          {/each}
-        </ol>
-      {/if}
+          </ol>
+        {:else if !isLoadingTranscript}
+          <p class="no-transcript">No transcript available for this comic.</p>
+        {/if}
+      </div>
       
     </section>
   {/if}
@@ -371,6 +423,65 @@
     color: var(--main-color);
     font-family: var(--font-mono);
     word-wrap: break-word;
+  }
+
+  .transcript-section {
+    margin: 20px auto 0;
+    max-width: 500px;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
+  .transcript-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .transcript-header h3 {
+    margin: 0;
+    font-size: 16px;
+    color: var(--main-color);
+    font-weight: bold;
+  }
+
+  .transcript-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .transcript-reload-btn {
+    background: var(--border-color);
+    color: var(--bg-light);
+    border: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+
+  .transcript-reload-btn:hover {
+    background: var(--accent-color);
+  }
+
+  .loading-indicator {
+    font-size: 12px;
+    color: var(--accent-color);
+    font-style: italic;
+  }
+
+  .no-transcript {
+    font-size: 14px;
+    color: #666;
+    font-style: italic;
+    text-align: center;
+    margin: 10px 0;
   }
 
   .footer {

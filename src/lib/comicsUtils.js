@@ -127,3 +127,55 @@ export async function fetchTranscriptByDate(date) {
     return null;
   }
 }
+
+/**
+ * Fetch transcript using API endpoint (alternative method)
+ * @param {string} date - Date in YYYY-MM-DD format
+ * @returns {Promise<Object|null>} Transcript object or null if not found
+ */
+export async function fetchTranscriptViaAPI(date) {
+  try {
+    const response = await fetch(`/api/transcript?date=${date}`);
+    const result = await response.json();
+    
+    if (result.success) {
+      return result.transcript;
+    } else {
+      console.log(`Transcript not found for ${date}:`, result.error);
+      return null;
+    }
+  } catch (error) {
+    console.error('Error fetching transcript via API:', error);
+    return null;
+  }
+}
+
+/**
+ * Independent transcript loader with fallback methods
+ * @param {string} date - Date in YYYY-MM-DD format
+ * @param {string} method - Loading method: 'direct', 'api', or 'auto' (default)
+ * @returns {Promise<Object|null>} Transcript object or null if not found
+ */
+export async function loadTranscriptIndependently(date, method = 'auto') {
+  if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    console.error('Invalid date format for transcript:', date);
+    return null;
+  }
+
+  switch (method) {
+    case 'direct':
+      return await fetchTranscriptByDate(date);
+    
+    case 'api':
+      return await fetchTranscriptViaAPI(date);
+    
+    case 'auto':
+    default:
+      // Try direct first (faster), fallback to API
+      let transcript = await fetchTranscriptByDate(date);
+      if (!transcript) {
+        transcript = await fetchTranscriptViaAPI(date);
+      }
+      return transcript;
+  }
+}
