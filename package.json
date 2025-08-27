@@ -7,13 +7,7 @@
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
-		"prepare": "svelte-kit sync || echo ''",
-		"test:api": "node test-transcription.js",
-		"transcribe": "node transcribe-comics.js",
-		"transcribe:year": "node transcribe-comics.js",
-		"transcribe:retry": "node transcribe-comics-retry.js",
-		"transcribe:specific": "node transcribe-by-date.js",
-		"copy:comics": "node copy-comics.js"
+		"prepare": "svelte-kit sync || echo ''"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^6.0.0",
@@ -23,8 +17,5 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
-		"@google/genai": "^1.15.0",
-		"@google/generative-ai": "^0.24.1",
-		"dotenv": "^17.2.1"
 	}
 }

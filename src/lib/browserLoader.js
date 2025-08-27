@@ -3,7 +3,7 @@
  * Complete client-side comic management for Vercel deployment
  */
 import { loadTranscriptIndependently } from './comicsUtils.js';
-import { getComicByDate, getPreviousComic, getNextComic, getRandomComicFromYear, getAvailableYearsBrowser } from './browser/comicsClient.js';
+import { getComicByDate, getPreviousComic, getNextComic, getRandomComicFromYear, getAvailableYearsBrowser } from './comicsClient.js';
 
 /**
  * Load comic with navigation data (browser-side)

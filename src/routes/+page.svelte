@@ -1,11 +1,12 @@
 <script>
   import { formatDate, loadTranscriptIndependently } from '$lib/comicsUtils.js';
+  import { loadRandomComicBrowser, loadComicBrowser } from '$lib/browserLoader.js';
   import { onMount } from 'svelte';
   
-  let { data } = $props();
-  let currentComic = $state(data.randomComic);
-  let previousComic = $state(data.previousComic);
-  let nextComic = $state(data.nextComic);
+  // Browser-only state management
+  let currentComic = $state(null);
+  let previousComic = $state(null);
+  let nextComic = $state(null);
   let transcript = $state(null);
   let isLoading = $state(false);
   let isLoadingTranscript = $state(false);
@@ -109,9 +110,9 @@
         // Load transcript independently for saved comic
         await loadTranscript(savedComic.currentComic.date);
       }
-    } else if (currentComic) {
-      // Load transcript independently for initial comic from server
-      await loadTranscript(currentComic.date);
+    } else {
+      // Load random comic using browser-only logic
+      await getRandomComic();
     }
   });
   
@@ -126,13 +127,11 @@
     
     isLoading = true;
     try {
-      const response = await fetch(`/api/comic?date=${date}`);
-      const result = await response.json();
-      
-      if (result.success) {
+      const result = await loadComicBrowser(date);
+      if (result) {
         await updateComicStateWithTranscript(result.comic, result.previousComic, result.nextComic);
       } else {
-        console.error('Failed to load comic:', result.error);
+        console.error('Failed to load comic for date:', date);
       }
     } catch (error) {
       console.error('Error loading comic:', error);
@@ -146,11 +145,11 @@
     
     isLoading = true;
     try {
-      const response = await fetch('/api/random');
-      const result = await response.json();
-      
-      if (result.success) {
+      const result = await loadRandomComicBrowser();
+      if (result) {
         await updateComicStateWithTranscript(result.comic, result.previousComic, result.nextComic);
+      } else {
+        console.error('Failed to load random comic');
       }
     } catch (error) {
       console.error('Error loading random comic:', error);

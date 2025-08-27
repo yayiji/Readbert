@@ -2,7 +2,7 @@
  * Browser-side comic utilities - No file system dependencies
  * Perfect for Vercel and static deployment
  */
-import { parseComicFilename, getAvailableYears, isValidComicDate } from '../comicsUtils.js';
+import { parseComicFilename, getAvailableYears, isValidComicDate } from './comicsUtils.js';
 
 /**
  * Generate all comic dates for a given year
