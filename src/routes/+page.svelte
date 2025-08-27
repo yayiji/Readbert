@@ -46,7 +46,7 @@
     return null;
   }
 
-  // Load transcript for a given date (independent of comic loading)
+  // Load transcript for a given date
   async function loadTranscript(date) {
     if (!date) {
       transcript = null;
@@ -67,29 +67,25 @@
     }
   }
 
-  // Load transcript independently by date (public function)
-  async function loadTranscriptByDate(date) {
-    return await loadTranscript(date);
+  // Update comic state with transcript loading
+  async function updateComicStateWithTranscript(comic, prevComic, nextComicData) {
+    currentComic = comic;
+    previousComic = prevComic;
+    nextComic = nextComicData;
+    
+    // Load transcript for the comic
+    await loadTranscript(comic?.date);
+    
+    // Save comic data with transcript
+    saveComicToStorage(comic, prevComic, nextComicData, transcript);
   }
 
-  // Update comic state (now separated from transcript loading)
+  // Update comic state
   function updateComicState(comic, prevComic, nextComicData) {
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
-    saveComicToStorage(comic, prevComic, nextComicData, transcript);
-  }
-
-  // Update comic state and load transcript independently
-  async function updateComicStateWithTranscript(comic, prevComic, nextComicData) {
-    // Update comic state first
-    updateComicState(comic, prevComic, nextComicData);
-    
-    // Then load transcript independently (non-blocking)
-    await loadTranscript(comic?.date);
-    
-    // Save again with transcript
-    saveComicToStorage(comic, prevComic, nextComicData, transcript);
+    saveComicToStorage(comic, prevComic, nextComicData);
   }
 
   // Initialize comic data on mount
@@ -103,11 +99,11 @@
         savedComic.nextComic
       );
       
-      // Load transcript independently if we have a saved transcript
+      // Restore saved transcript if available
       if (savedComic.transcript) {
         transcript = savedComic.transcript;
       } else if (savedComic.currentComic?.date) {
-        // Load transcript independently for saved comic
+        // Load transcript for saved comic
         await loadTranscript(savedComic.currentComic.date);
       }
     } else {
@@ -183,13 +179,13 @@
 
 <svelte:head>
   <title>DILBERT COMICS - Complete Collection</title>
-  <meta name="description" content="Browse the complete DILBERT COMICS with transcripts" />
+  <meta name="description" content="Browse the complete DILBERT COMICS collection" />
 </svelte:head>
 
 <main class="container">
   <header class="header">
     <h1 class="title">DILBERT COMICS</h1>
-    <p class="subtitle">The Complete Collection of Scott Adams' Dilbert Comics with Transcripts</p>
+        <p class="subtitle">The Complete Collection of Scott Adams' Dilbert Comics</p>
   </header>
 
   {#if currentComic}
@@ -232,37 +228,16 @@
         />
       </div>
       
-      <!-- Transcript Section with independent loading controls -->
-      <div class="transcript-section">
-        <div class="transcript-header">
-          <h3>Transcript</h3>
-          <div class="transcript-controls">
-            {#if isLoadingTranscript}
-              <span class="loading-indicator">Loading transcript...</span>
-            {:else}
-              <button 
-                class="transcript-reload-btn"
-                onclick={() => loadTranscript(currentComic.date)}
-                title="Reload transcript independently"
-              >
-                🔄 Reload
-              </button>
-            {/if}
-          </div>
-        </div>
-        
-        {#if transcript}
-          <ol class="simple-transcript">
-            {#each transcript.panels as panel}
-              {#each panel.dialogue as dialogue}
-                <li>{dialogue}</li>
-              {/each}
+      <!-- Transcript content without title header -->
+      {#if transcript}
+        <ol class="simple-transcript">
+          {#each transcript.panels as panel}
+            {#each panel.dialogue as dialogue}
+              <li>{dialogue}</li>
             {/each}
-          </ol>
-        {:else if !isLoadingTranscript}
-          <p class="no-transcript">No transcript available for this comic.</p>
-        {/if}
-      </div>
+          {/each}
+        </ol>
+      {/if}
       
     </section>
   {/if}
@@ -422,65 +397,6 @@
     color: var(--main-color);
     font-family: var(--font-mono);
     word-wrap: break-word;
-  }
-
-  .transcript-section {
-    margin: 20px auto 0;
-    max-width: 500px;
-    width: 100%;
-    padding: 0 20px;
-    box-sizing: border-box;
-  }
-
-  .transcript-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-    padding-bottom: 5px;
-    border-bottom: 1px solid var(--border-color);
-  }
-
-  .transcript-header h3 {
-    margin: 0;
-    font-size: 16px;
-    color: var(--main-color);
-    font-weight: bold;
-  }
-
-  .transcript-controls {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .transcript-reload-btn {
-    background: var(--border-color);
-    color: var(--bg-light);
-    border: none;
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 12px;
-    cursor: pointer;
-    transition: background-color 0.2s;
-  }
-
-  .transcript-reload-btn:hover {
-    background: var(--accent-color);
-  }
-
-  .loading-indicator {
-    font-size: 12px;
-    color: var(--accent-color);
-    font-style: italic;
-  }
-
-  .no-transcript {
-    font-size: 14px;
-    color: #666;
-    font-style: italic;
-    text-align: center;
-    margin: 10px 0;
   }
 
   .footer {
