@@ -1,4 +1,4 @@
-import { getAvailableYears, getRandomComicFromYear, getPreviousComic, getNextComic, getComicsForYear, getTranscriptByDate } from '$lib/server/comicsServer.js';
+import { getAvailableYears, getRandomComicFromYear, getPreviousComic, getNextComic, getComicsForYear } from '$lib/server/comicsServer.js';
 
 export async function load({ url }) {
   // Get all available years with transcripts
@@ -27,16 +27,11 @@ export async function load({ url }) {
     nextComic = await getNextComic(randomComic.date);
   }
 
-  // Load transcript for the random comic
-  let transcript = null;
-  if (randomComic) {
-    transcript = await getTranscriptByDate(randomComic.date);
-  }
+  // Transcript will be loaded client-side
   
   return {
     randomComic,
     previousComic,
-    nextComic,
-    transcript
+    nextComic
   };
 }

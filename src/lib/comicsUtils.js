@@ -102,3 +102,28 @@ export function getAvailableYears() {
   
   return TRANSCRIBED_YEARS.sort(); // Keep them sorted chronologically
 }
+
+/**
+ * Fetch transcript for a comic by date (client-side)
+ * @param {string} date - Date in YYYY-MM-DD format
+ * @returns {Promise<Object|null>} Transcript object or null if not found
+ */
+export async function fetchTranscriptByDate(date) {
+  try {
+    const year = date.split('-')[0];
+    const transcriptUrl = `/dilbert-transcripts/${year}/${date}.json`;
+    
+    const response = await fetch(transcriptUrl);
+    
+    if (!response.ok) {
+      // Transcript file doesn't exist or can't be accessed
+      return null;
+    }
+    
+    const transcript = await response.json();
+    return transcript;
+  } catch (error) {
+    console.error('Error fetching transcript:', error);
+    return null;
+  }
+}

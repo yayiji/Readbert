@@ -1,12 +1,12 @@
 <script>
-  import { formatDate } from '$lib/comicsUtils.js';
+  import { formatDate, fetchTranscriptByDate } from '$lib/comicsUtils.js';
   import { onMount } from 'svelte';
   
   let { data } = $props();
   let currentComic = $state(data.randomComic);
   let previousComic = $state(data.previousComic);
   let nextComic = $state(data.nextComic);
-  let transcript = $state(data.transcript);
+  let transcript = $state(null);
   let isLoading = $state(false);
 
   const STORAGE_KEY = 'lastVisitedComic';
@@ -44,25 +44,43 @@
     return null;
   }
 
+  // Load transcript for a given date
+  async function loadTranscript(date) {
+    if (!date) return null;
+    
+    try {
+      const transcriptData = await fetchTranscriptByDate(date);
+      return transcriptData;
+    } catch (error) {
+      console.error('Error loading transcript:', error);
+      return null;
+    }
+  }
+
   // Generic function to update comic state and save to storage
-  function updateComicState(comic, prevComic, nextComicData, comicTranscript) {
+  async function updateComicState(comic, prevComic, nextComicData) {
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
-    transcript = comicTranscript;
-    saveComicToStorage(comic, prevComic, nextComicData, comicTranscript);
+    
+    // Load transcript for the current comic
+    transcript = await loadTranscript(comic?.date);
+    
+    saveComicToStorage(comic, prevComic, nextComicData, transcript);
   }
 
   // Initialize comic data on mount
-  onMount(() => {
+  onMount(async () => {
     const savedComic = loadComicFromStorage();
     if (savedComic) {
-      updateComicState(
+      await updateComicState(
         savedComic.currentComic,
         savedComic.previousComic,
-        savedComic.nextComic,
-        savedComic.transcript
+        savedComic.nextComic
       );
+    } else if (currentComic) {
+      // Load transcript for initial comic from server
+      transcript = await loadTranscript(currentComic.date);
     }
   });
   
@@ -81,7 +99,7 @@
       const result = await response.json();
       
       if (result.success) {
-        updateComicState(result.comic, result.previousComic, result.nextComic, result.transcript);
+        await updateComicState(result.comic, result.previousComic, result.nextComic);
       } else {
         console.error('Failed to load comic:', result.error);
       }
@@ -101,7 +119,7 @@
       const result = await response.json();
       
       if (result.success) {
-        updateComicState(result.comic, result.previousComic, result.nextComic, result.transcript);
+        await updateComicState(result.comic, result.previousComic, result.nextComic);
       }
     } catch (error) {
       console.error('Error loading random comic:', error);

@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import { getComicByDate, getPreviousComic, getNextComic, getComicsForYear, getTranscriptByDate } from '$lib/server/comicsServer.js';
+import { getComicByDate, getPreviousComic, getNextComic } from '$lib/server/comicsServer.js';
 
 export async function GET({ url }) {
   try {
@@ -19,15 +19,13 @@ export async function GET({ url }) {
     const previousComic = await getPreviousComic(date);
     const nextComic = await getNextComic(date);
 
-    // Load transcript for the current comic
-    const transcript = await getTranscriptByDate(date);
+    // Transcript will be loaded client-side
     
     return json({
       success: true,
       comic,
       previousComic,
-      nextComic,
-      transcript
+      nextComic
     });
     
   } catch (error) {
