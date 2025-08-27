@@ -1,0 +1,29 @@
+{
+  "date": "1989-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bonk-ouch!",
+        "Bonk-ouch!",
+        "Bonk-ouch!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bonk",
+        "Bonk",
+        "Bonk",
+        "Thud!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe juggling isn't your sport.",
+        "It's not winning that counts; it's how you play the game."
+      ]
+    }
+  ]
+}

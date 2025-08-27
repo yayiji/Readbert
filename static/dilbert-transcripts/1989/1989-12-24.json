@@ -1,0 +1,43 @@
+{
+  "date": "1989-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Santa!",
+        "Merry Christmas, Dogbert!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm glad you're up...",
+        "I'm having a little trouble with your Christmas list."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In your letter you say you want to be named supreme ruler of Earth.",
+        "Is that a problem?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Frankly, my workshop is more oriented toward small consumer goods...",
+        "Can I have an elf?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Has G.I. Joe taken up ballet, or is this something I don't want to know about?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    }
+  ]
+}

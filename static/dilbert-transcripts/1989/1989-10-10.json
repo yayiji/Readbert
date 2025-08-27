@@ -1,0 +1,25 @@
+{
+  "date": "1989-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, since Columbus is dead, you have no evidence that the earth is round.",
+        "Look..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can ask Senator John Glenn. He orbited the earth when he was an astronaut."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, your theory depends on the honesty of politicians...",
+        "Yes... no, wait..."
+      ]
+    }
+  ]
+}

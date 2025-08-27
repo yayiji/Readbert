@@ -1,0 +1,24 @@
+{
+  "date": "1989-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I'd like to have a word with you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The neighbor says you glued little suction cups on their new kitten and stuck him on their windshield."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the problem, some kind of copyright infringement?",
+        "What's your second guess?"
+      ]
+    }
+  ]
+}

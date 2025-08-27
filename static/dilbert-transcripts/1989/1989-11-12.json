@@ -1,0 +1,48 @@
+{
+  "date": "1989-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Aaach",
+        "Achoo!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great. Now I've got your cold.",
+        "Sniffle"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll get some medicine from the store."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hi, Dogbert.",
+        "Achoo"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Achoo!",
+        "Sorry... Dilbert's cold.",
+        "Inh"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...And seven nations are paralyzed by what is being called \"Dilbert's cold.\"",
+        "Sniff",
+        "Gosh. I think I might have that, too."
+      ]
+    }
+  ]
+}

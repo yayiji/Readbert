@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got hit by a rented car."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hertz?",
+        "Not anymore, but thanks for asking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's about all the sympathy I can muster for one day."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's that poem coming?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pretty good, but I may have written myself into a corner.",
+        "Let's hear."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I have so far is \"Her love was like a wave - division multiplexor.\"",
+        "Maybe just go for the big finish."
+      ]
+    }
+  ]
+}

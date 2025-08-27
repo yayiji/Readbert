@@ -1,0 +1,25 @@
+{
+  "date": "1989-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a chain letter.",
+        "Those are illegal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never broken a law in my whole life, but I'm tempted to try this.",
+        "One suggestion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe for your first crime you shouldn't put your name and address on it and distribute it to ten thousand strangers."
+      ]
+    }
+  ]
+}

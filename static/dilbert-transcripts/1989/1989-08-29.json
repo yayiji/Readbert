@@ -1,0 +1,25 @@
+{
+  "date": "1989-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't get too close to my lab today.",
+        "Why not?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm using radiation to mutate new species of vegetables.",
+        "Isn't that dangerous?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Funny, the broccoli asked me the same question."
+      ]
+    }
+  ]
+}

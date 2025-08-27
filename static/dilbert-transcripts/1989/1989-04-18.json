@@ -1,0 +1,25 @@
+{
+  "date": "1989-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to dedicate my life to the less fortunate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's very noble of you, Dogbert.",
+        "Will you be working with the homeless, or perhaps the hungry?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought I'd start with people who didn't buy real estate in the 70's...",
+        "Maybe work my way up to that other stuff."
+      ]
+    }
+  ]
+}

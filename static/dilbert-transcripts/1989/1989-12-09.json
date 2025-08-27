@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "God spoke to me today.",
+        "He appointed me ruler of all creatures on Earth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "God did not speak to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was worth a shot."
+      ]
+    }
+  ]
+}

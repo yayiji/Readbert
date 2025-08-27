@@ -1,0 +1,24 @@
+{
+  "date": "1989-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well? What do you think of my new poem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I once read that given infinite time, a thousand monkeys with typewriters would eventually write the entire works of Shakespeare."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But what about my poem?",
+        "Three monkeys, ten minutes."
+      ]
+    }
+  ]
+}

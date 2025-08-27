@@ -1,0 +1,32 @@
+{
+  "date": "1989-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert's lab",
+        "I've decided we should operate along more classic lines, like Dr. Frankenstein's lab."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know what that makes you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got a hunch..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's practice...",
+        "Dogbert, fetch me a brain!",
+        "Like your present model, or one that works?"
+      ]
+    }
+  ]
+}

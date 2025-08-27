@@ -1,0 +1,23 @@
+{
+  "date": "1989-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I stay with my company for ten years, I get a watch and lunch with my boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do you get for twenty years?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lunch without my boss."
+      ]
+    }
+  ]
+}

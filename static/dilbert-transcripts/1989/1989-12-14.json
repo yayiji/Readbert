@@ -1,0 +1,26 @@
+{
+  "date": "1989-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yikes!!!",
+        "A skunk in the house!!!",
+        "Hi."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, don't worry; we skunks only spray when we're scared... I certainly wouldn't use my threatening power to force you to do my bidding."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why is your tail twitching?!",
+        "I'm scared you might not offer me a big bowl of strawberry ice cream."
+      ]
+    }
+  ]
+}

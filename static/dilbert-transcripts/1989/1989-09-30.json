@@ -1,0 +1,24 @@
+{
+  "date": "1989-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I should keep myself busier."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Time flies when you're busy..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which means you die sooner.",
+        "I better sit right here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "1989-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh oh... double doors.",
+        "One side is always locked",
+        "and I make a fool of myself",
+        "trying",
+        "to open",
+        "it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which side is it?",
+        "Left? Right?",
+        "People are watching.",
+        "Think, think..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's when I noticed that",
+        "the ventilation ducts",
+        "were big enough for",
+        "a human to crawl",
+        "through.",
+        "Too bad they",
+        "didn't lead",
+        "outside."
+      ]
+    }
+  ]
+}

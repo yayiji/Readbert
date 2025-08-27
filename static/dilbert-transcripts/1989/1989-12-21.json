@@ -1,0 +1,25 @@
+{
+  "date": "1989-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My computer has determined the funniest words in the world..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They include chainsaw, weasel, prune and any reference to \"Gilligan's Island.\"",
+        "Now I can make my own jokes!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So then the skipper gets attacked by this prune-eating weasel with a chainsaw...",
+        "Heh-heh..."
+      ]
+    }
+  ]
+}

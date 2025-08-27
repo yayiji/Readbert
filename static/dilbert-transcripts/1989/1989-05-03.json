@@ -1,0 +1,25 @@
+{
+  "date": "1989-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gee, if you're the ruler of \"Heck\" you must have some kind of awesome name.",
+        "Yeah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, what is it?",
+        "Something like \"King of evil\" or \"Lord of darkness\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can call me Phil, prince of insufficient light."
+      ]
+    }
+  ]
+}

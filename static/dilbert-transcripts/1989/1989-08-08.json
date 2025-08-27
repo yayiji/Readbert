@@ -1,0 +1,27 @@
+{
+  "date": "1989-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please read these brochures, it could save your life.",
+        "\"Electronics anonymous\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's take the enclosed quiz.",
+        "Number one:",
+        "How many options do you have on your toaster?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that include the toaster disk drive and printer?",
+        "I think we can skip directly to the emergency application form."
+      ]
+    }
+  ]
+}

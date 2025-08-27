@@ -1,0 +1,24 @@
+{
+  "date": "1989-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Chapter IV. \"Time management\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Always postpone meetings with time-wasting morons.\"",
+        "How do you do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I get back to you on that?"
+      ]
+    }
+  ]
+}

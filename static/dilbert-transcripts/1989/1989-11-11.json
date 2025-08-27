@@ -1,0 +1,24 @@
+{
+  "date": "1989-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of us cosmopolitan guys use credit cards to pay for dinner."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh... I never know which part of the paperwork to keep. I know something gets ripped up..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And by the time I noticed the table-cloth was tangled up with the carbon paper, I had ripped both of them to bits.",
+        "And that's wrong?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1989-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! According to my computer simulation, it should be possible to create new life forms from common household chemicals!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This raises some thorny issues.",
+        "You mean legal, ethical and religious issues?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was thinking about parking spaces."
+      ]
+    }
+  ]
+}

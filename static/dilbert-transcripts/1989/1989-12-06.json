@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I understand you're the world's smartest garbage man."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Dogbert, the world's smartest dog; according to me, anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just wondered why you choose to be a garbage man.",
+        "I think it was the glamour which first intrigued me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1989-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your first meeting with the \"Perpetual Motion Club\"?",
+        "Great! I learned the secret handshake tonight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You stick your hand out and spin it around like this.",
+        "Then what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you just keep on doing it forever.",
+        "That explains why you keep it secret."
+      ]
+    }
+  ]
+}

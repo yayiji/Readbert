@@ -1,0 +1,26 @@
+{
+  "date": "1989-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Helen just canceled our date.",
+        "What excuse this time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently she discovered tiny frozen cavemen in her ice cube trays and she's trying to revive them for science."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you the least bit suspicious of that story?",
+        "Yeah...",
+        "How do I know they aren't just actors pretending to be cavemen?"
+      ]
+    }
+  ]
+}

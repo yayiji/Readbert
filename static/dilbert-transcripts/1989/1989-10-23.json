@@ -1,0 +1,23 @@
+{
+  "date": "1989-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been watching this video tape over and over for days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These tennis instruction tapes are great. I can just feel my game improving as I watch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In fact, I see no need to actually physically play the game ever again."
+      ]
+    }
+  ]
+}

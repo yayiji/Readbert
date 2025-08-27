@@ -1,0 +1,24 @@
+{
+  "date": "1989-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know what I hate?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate it when hundreds of people get together and throw a surprise birthday party for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's amazing how nature protects us from the things we hate."
+      ]
+    }
+  ]
+}

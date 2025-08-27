@@ -1,0 +1,29 @@
+{
+  "date": "1989-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't believe it;",
+        "All this time I thought dinosaurs were extinct, but they were just hiding in my house."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello, A-1 Exterminator?",
+        "I have dinosaurs...",
+        "What kind?",
+        "I don't know. I've only heard them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thesaurus",
+        "Maybe a thesaurus or two...",
+        "Hello?"
+      ]
+    }
+  ]
+}

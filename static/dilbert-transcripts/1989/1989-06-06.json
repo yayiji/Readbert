@@ -1,0 +1,24 @@
+{
+  "date": "1989-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Admit it: you don't think I'm manly enough to take sky diving lessons, do you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That never crossed my mind.",
+        "Good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "However, it did occur to me that you could be the first sky diver to grab his necktie instead of the rip-cord and choke himself to death on the way down."
+      ]
+    }
+  ]
+}

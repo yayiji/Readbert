@@ -1,0 +1,25 @@
+{
+  "date": "1989-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So it's clear that your fear of moths derives from your insecurity about your looks.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sure you're aware that those big floppy ears of yours make your head look like a winged insect in flight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now, is it possible that your mother was a giant moth in disguise?",
+        "Well, I lost a sweater once; maybe she ate it."
+      ]
+    }
+  ]
+}

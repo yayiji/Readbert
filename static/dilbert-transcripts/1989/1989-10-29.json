@@ -1,0 +1,53 @@
+{
+  "date": "1989-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They were rude to me at the bank again, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've had enough...",
+        "Sic 'em, boy!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hi. I'm David Packard; billionaire founder of Hewlett-Packard."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...And I'd like to put all of my money into one of your non-interest bearing accounts."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're not David Packard. You're just a dreadful little dog with glasses."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then again... I've never seen a picture of David Packard...",
+        "I'd better open the account."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Very good. Now give me fifty push-ups or I'll take my business elsewhere."
+      ]
+    }
+  ]
+}

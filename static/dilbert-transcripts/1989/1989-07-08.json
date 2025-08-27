@@ -1,0 +1,26 @@
+{
+  "date": "1989-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for a fine wool suit, in the $700 range.",
+        "Something fashionable yet timeless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try this $35 nylon beauty, suitable for swimming or dining out.",
+        "The bell bottoms are no extra charge.",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess I was just born to be a fashion pioneer."
+      ]
+    }
+  ]
+}

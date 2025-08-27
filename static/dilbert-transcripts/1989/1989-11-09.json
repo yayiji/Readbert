@@ -1,0 +1,25 @@
+{
+  "date": "1989-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wish this guy wouldn't try to be polite and hold the door."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm at that awkward distance where I should lunge forward so he doesn't have to hold the door too long.",
+        "Oh, thank you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great. Now I'm late.",
+        "I lunged as fast as I could. Sorry."
+      ]
+    }
+  ]
+}

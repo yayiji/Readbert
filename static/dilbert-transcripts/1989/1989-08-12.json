@@ -1,0 +1,24 @@
+{
+  "date": "1989-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I get this wicked urge to take two newspapers and only pay for one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the worst that can happen?",
+        "Besides, this machine ate my money last time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "News thief!"
+      ]
+    }
+  ]
+}

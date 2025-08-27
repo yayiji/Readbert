@@ -1,0 +1,24 @@
+{
+  "date": "1989-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new invention will generate a solid particle bridge to permanently connect the Earth to the Moon!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I'm no scientist, but won't that disrupt the Earth's orbit and cause an ice age that will destroy all life on this planet?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You think it needs a little warning label?",
+        "Just don't let kids use it."
+      ]
+    }
+  ]
+}

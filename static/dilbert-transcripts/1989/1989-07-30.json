@@ -1,0 +1,48 @@
+{
+  "date": "1989-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My goodness! It looks like I've discovered an entire subatomic civilization!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey! What are you staring at?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am Dilbert. I mean you no harm."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're looking at the incredibly tiny planet of \"Minimus 6.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Minimus 6? That means there are five other planets like yours!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Let me get you focused a bit better...",
+        "Crunch"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And I loved the part when you said \"I mean you no harm.\""
+      ]
+    }
+  ]
+}

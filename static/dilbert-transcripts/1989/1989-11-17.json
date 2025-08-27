@@ -1,0 +1,24 @@
+{
+  "date": "1989-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All mammals have hair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whales are mammals...",
+        "Therefore, whales have hair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shave the whales."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1989-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert continues his reckless experiment with the powerful force of \"affirmations.\"",
+        "...What if this actually works?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you really cause me to be eaten by a garden slug just by writing it down over and over?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What am I saying?",
+        "Logically, there's no way this could work.",
+        "Don't get too far from salt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's all the writing for?",
+        "It's called \"affirmations.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The theory is that if you write down your objective fifteen times a day, the objective will be achieved, no matter how unlikely."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you've written \"Dilbert will be eaten by a garden slug.\"",
+        "It's all I could think of."
+      ]
+    }
+  ]
+}

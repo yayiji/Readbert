@@ -1,0 +1,42 @@
+{
+  "date": "1989-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My instinct tells me that love is in the air."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whoa! Who put the picture window there?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You must be the legendary love-cherub, \"Cupid.\"",
+        "Good guess..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But the proper pronunciation is \"stupid,\" not \"Cupid.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No wonder I always fall in love with the wrong person."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now how does this gizmo work?"
+      ]
+    }
+  ]
+}

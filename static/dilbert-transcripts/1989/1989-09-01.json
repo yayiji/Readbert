@@ -1,0 +1,21 @@
+{
+  "date": "1989-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you like your new book - \"The history of glue\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I couldn't put it down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

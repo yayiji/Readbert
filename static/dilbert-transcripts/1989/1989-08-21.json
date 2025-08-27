@@ -1,0 +1,27 @@
+{
+  "date": "1989-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you writing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's my new self-help book for compulsive shoppers.",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you know about compulsive shoppers?",
+        "I know they buy a lot of books."
+      ]
+    }
+  ]
+}

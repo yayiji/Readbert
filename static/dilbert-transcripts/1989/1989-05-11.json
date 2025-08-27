@@ -1,0 +1,27 @@
+{
+  "date": "1989-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Electrode Hut.",
+        "I'm half your age, and I know more about electronics than you ever will.",
+        "May I help you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes.",
+        "I would like a half-dozen Niad pulse converters and an Anza brush."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or am I bluffing?",
+        "This guy is good."
+      ]
+    }
+  ]
+}

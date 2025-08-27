@@ -1,0 +1,25 @@
+{
+  "date": "1989-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you like my new clip-on necktie?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's very nice. Good colors. Nice pattern.",
+        "Why, with a tie like that, don't be surprised if you get an offer to pose for GQ magazine!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you crossed that fine line between polite lying and outright sarcasm.",
+        "The momentum carried me."
+      ]
+    }
+  ]
+}

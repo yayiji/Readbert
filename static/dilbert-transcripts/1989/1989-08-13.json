@@ -1,0 +1,43 @@
+{
+  "date": "1989-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, Dogbert, I believe I have solved the world's garbage problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't know garbage had any problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've invented the most efficient trash compactor ever."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This baby can squash two tons of garbage into a little brick!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No doubt you've considered the valuable uses for the brick itself."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Uh...right...",
+        "for home construction?",
+        "Or just as an immovable object that smells like Sylvester Stallone's socks."
+      ]
+    }
+  ]
+}

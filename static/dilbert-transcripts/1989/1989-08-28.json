@@ -1,0 +1,24 @@
+{
+  "date": "1989-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand how you can become a certified swami by mail in three weeks.",
+        "Oh, I'm just a trainee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the beginning, you just keep it general, to build the trust of your clientele."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Eventually, you will die..."
+      ]
+    }
+  ]
+}

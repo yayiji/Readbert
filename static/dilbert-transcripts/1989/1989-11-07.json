@@ -1,0 +1,27 @@
+{
+  "date": "1989-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yo, Dilbert, give me your lunch money or I'll erase your data diskettes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Touch my data and I'll erase any mention of you from the main payroll computer.",
+        "No...",
+        "Please,",
+        "I'm sorry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing is more pathetic than an aging school bully.",
+        "I took shop; I can make you some nice bookends."
+      ]
+    }
+  ]
+}

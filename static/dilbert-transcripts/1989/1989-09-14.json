@@ -1,0 +1,24 @@
+{
+  "date": "1989-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! And I thought this was just more junk mail!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I have to do is drive two hours and listen to their condo sales pitch.",
+        "I'm guaranteed to win a Jeep Cherokee or a valuable mock emerald."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That emerald will go pretty well with your mock brain."
+      ]
+    }
+  ]
+}

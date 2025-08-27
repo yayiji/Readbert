@@ -1,0 +1,30 @@
+{
+  "date": "1989-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you mean you built a robot dog?!",
+        "You can't replace me!!",
+        "Calm down Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaaghhh!!",
+        "The devil dog! Help!",
+        "Help!",
+        "Arf"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was created to serve your every need, Master Dogbert.",
+        "Okay, he can stay.",
+        "But you owe me one."
+      ]
+    }
+  ]
+}

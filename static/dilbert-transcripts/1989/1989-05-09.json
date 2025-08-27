@@ -1,0 +1,24 @@
+{
+  "date": "1989-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing my first business management book, \"Managing in a bureaucracy.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know you're in a bureaucracy when a hundred people who think 'A' get together and compromise on 'B.'"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Think anybody will read it?",
+        "It doesn't matter. The real money is on the lecture circuit."
+      ]
+    }
+  ]
+}

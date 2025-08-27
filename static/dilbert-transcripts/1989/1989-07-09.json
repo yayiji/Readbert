@@ -1,0 +1,49 @@
+{
+  "date": "1989-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ding dong",
+        "I'll get the door."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Greetings, earthling.",
+        "We are an advanced race from the planet Moothron."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We came to share our secrets for ending hunger, poverty and disease."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What's in it for me?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll always wonder if there was a better way to handle that."
+      ]
+    }
+  ]
+}

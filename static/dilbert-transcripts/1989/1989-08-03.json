@@ -1,0 +1,25 @@
+{
+  "date": "1989-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you bring a can of balls as I asked you to?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... did you say can of balls?",
+        "I'll be right back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. Turns out we don't need you after all.",
+        "How about if I just eat the loser?"
+      ]
+    }
+  ]
+}

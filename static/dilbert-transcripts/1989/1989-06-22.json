@@ -1,0 +1,23 @@
+{
+  "date": "1989-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ooh boy! Looks like another one of those flying dreams I keep having."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is great! I just hope I don't crash and wake up this time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Houston, we are experiencing difficulty."
+      ]
+    }
+  ]
+}

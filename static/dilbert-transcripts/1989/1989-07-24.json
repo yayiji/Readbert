@@ -1,0 +1,26 @@
+{
+  "date": "1989-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So the theory that dinosaurs were destroyed when a giant meteor collided with Earth..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...was highly exaggerated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha, Larry!",
+        "Ha ha!",
+        "Ouch!",
+        "Nice catch"
+      ]
+    }
+  ]
+}

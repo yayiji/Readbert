@@ -1,0 +1,24 @@
+{
+  "date": "1989-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You joined the \"Flat Earth Society\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe the Earth must be flat. There is no good evidence to support the so-called \"round earth theory.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think Christopher Columbus would disagree.",
+        "How convenient that your best witness is long dead."
+      ]
+    }
+  ]
+}

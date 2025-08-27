@@ -1,0 +1,25 @@
+{
+  "date": "1989-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hmm...",
+        "Free hypnosis lessons!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's probably some catch, but it's worth a look."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...A wonderful class...",
+        "I must tell my friends."
+      ]
+    }
+  ]
+}

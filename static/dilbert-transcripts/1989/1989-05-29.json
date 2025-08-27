@@ -1,0 +1,25 @@
+{
+  "date": "1989-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert!",
+        "The post office is complaining that you attacked a mail carrier."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them that I love mail carriers and would never try to hurt one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently they object to the tranquilizer darts and homing transmitters.",
+        "But how else can we learn their migration patterns?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1989-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you waste your time reading books?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because reading increases my knowledge, and knowledge is power."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But power corrupts..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...And corruption is a crime..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And crime doesn't pay..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you keep reading, you'll go broke!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gosh! It always seemed so...so...harmless."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Oh yeah, the librarians would love to have you believe that!"
+      ]
+    }
+  ]
+}

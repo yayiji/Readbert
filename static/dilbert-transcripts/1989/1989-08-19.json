@@ -1,0 +1,25 @@
+{
+  "date": "1989-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new invention can calculate the odds of any event.",
+        "What are the odds that I care?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm...it says \"same as the odds of being asked to burp the greatest hits of Barry Manilow at Carnegie Hall..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...and having NBC buy the story rights and turn it into a docudrama.\"",
+        "Bingo."
+      ]
+    }
+  ]
+}

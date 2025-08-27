@@ -1,0 +1,23 @@
+{
+  "date": "1989-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Isn't it stupid that the world economy is based on gold?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah... no matter how advanced civilization gets, we still use rocks for money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The dumb part is using a rock that's so hard to find."
+      ]
+    }
+  ]
+}

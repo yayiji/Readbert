@@ -1,0 +1,45 @@
+{
+  "date": "1989-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be back late.",
+        "I have a date with Sharon to grout her bathtub."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You call that a date?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Last week you cleaned her rain gutters and painted her house...",
+        "The week before, you installed her sprinkler system and rebuilt her car's engine."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't you think she might be using you?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well... at least I get lunch out of the deal."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "She actually prepares food for you?",
+        "No, bag lunch.",
+        "I get to eat it during break."
+      ]
+    }
+  ]
+}

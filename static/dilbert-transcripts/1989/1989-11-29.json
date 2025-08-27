@@ -1,0 +1,25 @@
+{
+  "date": "1989-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a stupid question...",
+        "There are no stupid questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's ridiculous... If there are no stupid questions then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Were you going to ask me something?",
+        "See... now there's a stupid question."
+      ]
+    }
+  ]
+}

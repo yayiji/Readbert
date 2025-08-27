@@ -1,0 +1,23 @@
+{
+  "date": "1989-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you ever notice that people walk a little differently when other people are watching?",
+        "No, never."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't you need to go anywhere?",
+        "After you, banjo legs."
+      ]
+    }
+  ]
+}

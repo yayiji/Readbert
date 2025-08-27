@@ -1,0 +1,22 @@
+{
+  "date": "1989-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your new \"stealth\" cloak-ing invention coming along?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can't find it, huh?",
+        "Shaddup."
+      ]
+    }
+  ]
+}

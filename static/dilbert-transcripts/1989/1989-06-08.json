@@ -1,0 +1,25 @@
+{
+  "date": "1989-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Electrode hut",
+        "Sale"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for a detonator coil, suitable for a small nuclear device."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was the best one today!",
+        "Wump"
+      ]
+    }
+  ]
+}

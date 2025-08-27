@@ -1,0 +1,24 @@
+{
+  "date": "1989-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On this graph, I have plotted the frequency of snide comments that you have made about me.",
+        "I'm happy to report that the recent trend is downward."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "See the big dip?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get out your pencil..."
+      ]
+    }
+  ]
+}

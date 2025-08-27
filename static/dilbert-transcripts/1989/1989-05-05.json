@@ -1,0 +1,25 @@
+{
+  "date": "1989-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think you should see a lawyer before unleashing this new invention on mankind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Later...",
+        "I'm afraid my new invention will expose me to lots of lawsuits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will you advise me?",
+        "No. Sounds like I can make more money by suing you."
+      ]
+    }
+  ]
+}

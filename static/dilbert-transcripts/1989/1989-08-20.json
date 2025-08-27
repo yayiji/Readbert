@@ -1,0 +1,52 @@
+{
+  "date": "1989-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ding dong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi. I'm the bear skin rug you ordered by mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm a kit. You just have to kill me, rip my guts out and leave me to dry."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Egad! I couldn't possibly do that. Please... just go."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You'll receive a full refund, of course.",
+        "No, no! Please keep it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How were sales today?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Great! Sold myself seven times."
+      ]
+    }
+  ]
+}

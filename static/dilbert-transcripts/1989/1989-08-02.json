@@ -1,0 +1,28 @@
+{
+  "date": "1989-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Open",
+        "No pets",
+        "Just try to act human."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Two ravioli supremes and garlic bread.",
+        "And a cat..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's \"catsup,\" my friend would like some catsup.",
+        "No pets",
+        "Maybe something Siamese..."
+      ]
+    }
+  ]
+}

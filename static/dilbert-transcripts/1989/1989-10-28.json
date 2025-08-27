@@ -1,0 +1,24 @@
+{
+  "date": "1989-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Scientists have discovered the gene that makes some people love golf."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can they tell it's the golf gene?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's plaid and it lies.",
+        "I probably shouldn't rely on you for my science updates."
+      ]
+    }
+  ]
+}

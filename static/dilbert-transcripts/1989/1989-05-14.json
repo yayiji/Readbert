@@ -1,0 +1,42 @@
+{
+  "date": "1989-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And as you can see..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh oh... I got an itch in my nose."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Can't scratch it now without looking unprofessional.",
+        "Uh..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe I can casually scratch it with one smooth gesture toward the easel."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There's a good chance they thought it was part of the presentation."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Did the paramedics remove the pointer or just tape over it?"
+      ]
+    }
+  ]
+}

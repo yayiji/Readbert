@@ -1,0 +1,26 @@
+{
+  "date": "1989-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That spells \"neans.\"",
+        "Five points for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Neans\" is not a word, Dogbert.",
+        "I know, but I need to get rid of some N's."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The N's don't justify the \"neans.\"",
+        "I just wanted to hear you say that."
+      ]
+    }
+  ]
+}

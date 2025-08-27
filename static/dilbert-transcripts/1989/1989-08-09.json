@@ -1,0 +1,26 @@
+{
+  "date": "1989-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you like these earrings I bought for Mom's birthday?",
+        "What kind of stones are they?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Amethyst.",
+        "Didn't they have any that believe in God?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't get it.",
+        "Puns! Never apologize, never explain."
+      ]
+    }
+  ]
+}

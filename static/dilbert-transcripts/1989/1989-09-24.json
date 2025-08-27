@@ -1,0 +1,43 @@
+{
+  "date": "1989-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is my newest invention: the deodorant spray booster pack!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You connect it to any can of deodorant to boost the rate of output."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why?! Do you know how much time is wasted waiting for the spray to hit your armpit?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Click",
+        "Fooooosh"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "As my best friend, I'm sure you can contain any sarcastic references to deodorant until my bones mend.",
+        "No sweat."
+      ]
+    }
+  ]
+}

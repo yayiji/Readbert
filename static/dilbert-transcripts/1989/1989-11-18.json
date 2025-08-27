@@ -1,0 +1,26 @@
+{
+  "date": "1989-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, let me introduce you to our new engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate introductions.",
+        "I always forget their names.",
+        "Maybe I can use a word association memory trick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, I'm Dee Alamo.",
+        "Darn... nothing."
+      ]
+    }
+  ]
+}

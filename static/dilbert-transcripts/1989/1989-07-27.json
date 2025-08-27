@@ -1,0 +1,25 @@
+{
+  "date": "1989-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This design could change the way the world barbecues.",
+        "No more struggling with charcoal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This schematic shows how an electrically induced coil-like medium can heat food without charcoal or lighter fluid!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I call it the Max-10 energy transfer model.",
+        "Did the name \"electric stove\" occur to you at any time?"
+      ]
+    }
+  ]
+}

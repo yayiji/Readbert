@@ -1,0 +1,29 @@
+{
+  "date": "1989-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Which would you prefer: winning a million bucks or getting hit in the lips with a dead mole while you sleep?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... the money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that's too bad, because you didn't win a million bucks."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's the kind of hypothetical question that can keep you up all night."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1989-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, Dilbert, you seem qualified for this promotion, but I have one concern.",
+        "Since your work would be evaluated by many people..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you handle criticism?",
+        "Oh, easily.",
+        "For example, your toupee looks like a mule-stomped gopher..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Turns out it was a trick question.",
+        "Boy, you can't trust those bald guys."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1989-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was mugged, but I got a good look at him.",
+        "I'll get a police artist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...A big head, and kind of a frightened expression..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Perfect. Looks just like me. Now let's do the mugger. He was sort of off to the left here."
+      ]
+    }
+  ]
+}

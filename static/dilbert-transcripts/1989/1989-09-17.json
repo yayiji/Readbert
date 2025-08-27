@@ -1,0 +1,48 @@
+{
+  "date": "1989-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Eoweoowah",
+        "Click",
+        "Click",
+        "Click",
+        "Wow! These pictures will prove that whales try to communicate with squids!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogbert, guess who I saw talking to a squid.",
+        "Who?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have prints of whales.",
+        "The Prince of Wales?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's too bad I'm so modest. This discovery could make me famous."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The public must be told."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...And in the news, a local man has witnessed Prince Charles talking to a squid.",
+        "Maybe Chuck thought it was Margaret Thatcher."
+      ]
+    }
+  ]
+}

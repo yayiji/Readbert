@@ -1,0 +1,33 @@
+{
+  "date": "1989-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey!",
+        "Drop the rake!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who are you?",
+        "I'm Mother Nature, wiseguy, and I don't remember asking you to shuffle my dead twigs around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... gosh, I was just trying to tidy up a bit for spring..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you saying you don't like my housekeeping!!",
+        "But I...",
+        "That's it. No dinner for you tonight, and I'm sending locusts to eat your house."
+      ]
+    }
+  ]
+}

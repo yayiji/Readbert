@@ -1,0 +1,26 @@
+{
+  "date": "1989-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought I had this tuxedo thing figured out.",
+        "But what the heck is this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, that's the kumber-buzle.",
+        "You wear it on your head like a sweatband."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you clip your pens and pencils to the kumberbuzle.",
+        "Ah, that explains why the shirt has no pocket."
+      ]
+    }
+  ]
+}

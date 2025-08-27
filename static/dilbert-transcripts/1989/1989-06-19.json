@@ -1,0 +1,26 @@
+{
+  "date": "1989-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're out of flour.",
+        "I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And did you know that the bag of white powder in your lab looks just like flour?",
+        "Uh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you know how huge, mutated cupcakes will occasionally eat the neighbor's Chevy?",
+        "This better be a bad analogy."
+      ]
+    }
+  ]
+}

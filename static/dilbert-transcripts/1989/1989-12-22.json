@@ -1,0 +1,26 @@
+{
+  "date": "1989-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I can't sleep... Do you know any folk remedies?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend spreading grape jelly on your torso and slapping your forehead against an overripe cantaloupe."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This must be how all folk remedies get started.",
+        "Slap",
+        "Slap",
+        "Slap"
+      ]
+    }
+  ]
+}

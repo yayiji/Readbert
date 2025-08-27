@@ -1,0 +1,26 @@
+{
+  "date": "1989-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert demonstrates the art of joke telling.",
+        "...So the first guy orders a beer and a cactus..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A good joke teller will seek to establish a pattern.",
+        "...Then the second guy... heh, heh... orders a beer and a cactus."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tomorrow's lesson: Timing.",
+        "...So then the seventy-third guy comes in..."
+      ]
+    }
+  ]
+}

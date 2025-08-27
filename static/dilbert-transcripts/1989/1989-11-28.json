@@ -1,0 +1,24 @@
+{
+  "date": "1989-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm enjoying the new informal approach at the White House."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just hope it doesn't embarrass us in the international community."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doggone it, I told you to set up a meeting with Gorby!",
+        "What's a Gorby?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you sure you don't want to join the neighborhood watch group?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is ridiculous.",
+        "You all know that every single crime in this neighborhood was committed by one guy: Bad Ed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can't actually prove that.",
+        "I'm just saying maybe you shouldn't have elected him group leader."
+      ]
+    }
+  ]
+}

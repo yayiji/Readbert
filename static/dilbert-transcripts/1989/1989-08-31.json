@@ -1,0 +1,24 @@
+{
+  "date": "1989-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally's laundry",
+        "Shirts $1.25"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We accidentally ruined your shirts - so we added a little glue and wrapped them around a stick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Granted, it was good initiative, but in my view, it was not a tipping situation."
+      ]
+    }
+  ]
+}

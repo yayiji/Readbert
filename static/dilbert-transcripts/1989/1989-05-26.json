@@ -1,0 +1,29 @@
+{
+  "date": "1989-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate this: somebody is just far enough behind me that it would be awkward to hold the door, but rude to let it swing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just pick up the pace and act like I don't notice anybody behind me.",
+        "Wump!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doors at the tops of stairs are the worst.",
+        "Aaaagh!!",
+        "Thumpa-",
+        "Thumpa-",
+        "Thumpa",
+        "Thump"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1989-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! This survey says that a woman over 35 has the same odds of getting married as being killed by a terrorist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Of the ones who do get married, how many marry terrorists?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One in four.",
+        "Gosh."
+      ]
+    }
+  ]
+}

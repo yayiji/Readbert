@@ -1,0 +1,30 @@
+{
+  "date": "1989-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't think of it as fetching, think of it as doing a favor for your best friend.",
+        "It's still pretty degrading."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Grumble, grumble, grumble..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh oh! It looks like Mr. Hedge Clippers wants to speak to Mr. Slippers!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Will you be needing your bathrobe too, O great master?"
+      ]
+    }
+  ]
+}
