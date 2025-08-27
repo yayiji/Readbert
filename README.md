@@ -1,4 +1,4 @@
-# Dilbert Comics Archive
+# DILBERT COMICS
 
 A clean, minimal web application built with Svelte 5 for browsing the complete Dilbert comics collection (1989-2023) with AI-generated transcripts.
 

@@ -116,13 +116,13 @@
 </script>
 
 <svelte:head>
-  <title>Dilbert Comics Archive - Complete Collection</title>
-  <meta name="description" content="Browse the complete Dilbert comics archive with transcripts" />
+  <title>DILBERT COMICS - Complete Collection</title>
+  <meta name="description" content="Browse the complete DILBERT COMICS with transcripts" />
 </svelte:head>
 
 <main class="container">
   <header class="header">
-    <h1 class="title">DILBERT COMICS ARCHIVE</h1>
+    <h1 class="title">DILBERT COMICS</h1>
     <p class="subtitle">The Complete Collection of Scott Adams' Dilbert Comics with Transcripts</p>
   </header>
 

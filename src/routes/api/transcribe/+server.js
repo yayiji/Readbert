@@ -57,7 +57,7 @@ export async function POST({ request }) {
         'Authorization': `Bearer ${OPENROUTER_API_KEY}`,
         'Content-Type': 'application/json',
         'HTTP-Referer': new URL(request.url).origin,
-        'X-Title': 'Dilbert Comics Archive'
+        'X-Title': 'DILBERT COMICS'
       },
       body: JSON.stringify({
         model: 'openai/gpt-4.1-mini',
