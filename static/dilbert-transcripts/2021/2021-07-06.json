@@ -11,13 +11,14 @@
       "panel": 2,
       "dialogue": [
         "They demand a human sacrifice.",
-        "Fetch the spare racist I hired for that purpose."
+        "I fetch the spare racist I hired for that purpose."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "I'm not a racist! Really I'm not!",
+        "I'm not a racist!",
+        "Really, I'm not!",
         "He can't prove that!"
       ]
     }

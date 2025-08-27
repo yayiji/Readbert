@@ -10,12 +10,17 @@
     {
       "panel": 2,
       "dialogue": [
-        "And you believed Ted?",
-        "He's more credible than you."
+        "And you believed Ted?"
       ]
     },
     {
       "panel": 3,
+      "dialogue": [
+        "He's more credible than you."
+      ]
+    },
+    {
+      "panel": 4,
       "dialogue": [
         "Why is he more credible than me?",
         "He knows you can't send data over a rope."

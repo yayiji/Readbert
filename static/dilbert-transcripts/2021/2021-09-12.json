@@ -10,34 +10,44 @@
     {
       "panel": 2,
       "dialogue": [
-        "Should I take an inconvenient and expensive trip to someplace I've already seen in photos and videos?",
-        "Or should I hang around at home feeling useless and bored?"
+        "Should I take an inconvenient and expensive trip to someplace I've already seen in photos and videos?"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Maybe you could volunteer to help less fortunate."
+        "Or should I hang around at home feeling useless and bored?"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "I hate the less fortunate because they're all happier than I am.",
-        "Maybe you need a wife to make you do things you don't want to do."
+        "Maybe you could volunteer to help the less fortunate."
       ]
     },
     {
       "panel": 5,
+      "dialogue": [
+        "I hate the less fortunate because they're all happier than I am."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you need a wife to make you do things you don't want to do."
+      ]
+    },
+    {
+      "panel": 7,
       "dialogue": [
         "That's not a bad idea.",
         "Are there any other benefits of marriage?"
       ]
     },
     {
-      "panel": 6,
+      "panel": 8,
       "dialogue": [
-        "Yes, for example, you'll never need to wonder if you have any major character flaws."
+        "Yes. For example, you'll never need to wonder if you have any major character flaws."
       ]
     }
   ]

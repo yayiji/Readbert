@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Is it blockchain?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Is it blockchain?",
         "Just stop."
       ]
     }

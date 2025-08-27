@@ -22,19 +22,24 @@
     {
       "panel": 4,
       "dialogue": [
-        "Hey! It knows Ted is a loser!"
+        "Hey! It knows Ted is a loser!",
+        "Ping!"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Ha ha ha!!! It says Dilbert and Alice are losers too!"
+        "Ha ha ha!!! It says Dilbert and Alice are losers too!",
+        "Ping!",
+        "Ping!"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "And Carol and Wally too! Ha ha ha!!! This thing is totally accurate!"
+        "And Carol and Wally too! Ha ha ha!!! This thing is totally accurate!",
+        "Ping!",
+        "Ping!"
       ]
     },
     {
@@ -46,12 +51,7 @@
     {
       "panel": 8,
       "dialogue": [
-        "How exactly does it detect losers?"
-      ]
-    },
-    {
-      "panel": 9,
-      "dialogue": [
+        "How exactly does it detect losers?",
         "They're the ones who hold it backward."
       ]
     }

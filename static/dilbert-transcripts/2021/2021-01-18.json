@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "Gaaa! Why can't I ever type the captcha letters correctly to get into this app?"
+        "Gaaa!",
+        "Why can't I ever type the captcha letters correctly to get into this app?"
       ]
     },
     {
@@ -16,6 +17,7 @@
     {
       "panel": 3,
       "dialogue": [
+        "Yes, that makes sense.",
         "The other explanation is that you are a moron, and you know that isn't true, so..."
       ]
     }

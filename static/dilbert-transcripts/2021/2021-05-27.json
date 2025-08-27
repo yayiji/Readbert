@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "He's a monster!"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "He's a monster!",
         "That's why we check."
       ]
     }

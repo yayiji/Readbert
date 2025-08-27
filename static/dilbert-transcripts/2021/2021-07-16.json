@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "I spent most of last week playing 'printer chicken.'"
+        "I spent most of last week playing \"printer chicken.\""
       ]
     },
     {
@@ -16,13 +16,9 @@
     {
       "panel": 3,
       "dialogue": [
-        "How often do you need to print something import—tant?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "Never. That's why I always win."
+        "How often do you need to print something important?",
+        "Never.",
+        "That's why I always win."
       ]
     }
   ]

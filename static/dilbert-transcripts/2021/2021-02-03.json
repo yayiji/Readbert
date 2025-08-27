@@ -4,12 +4,13 @@
     {
       "panel": 1,
       "dialogue": [
-        "We're having cake in the conference room for ted's birthday."
+        "We're having cake in the conference room for Ted's birthday."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
+        "I don't like Ted.",
         "No one does. We didn't invite him."
       ]
     },

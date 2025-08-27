@@ -16,30 +16,38 @@
     {
       "panel": 3,
       "dialogue": [
-        "No, you fool! Just look at the data from the tests other people did."
+        "You have to do a deep dive on the data so you can see for yourself."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "How do I know I can trust those other people?"
+        "You mean run my own tests?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "You have to use your best judgment."
+        "No, you fool!",
+        "Just look at the data from the tests other people did."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Instead of data?"
+        "How do I know I can trust those other people?"
       ]
     },
     {
       "panel": 7,
       "dialogue": [
+        "You have to use your best judgment."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Instead of data?",
         "I hate you so much right now."
       ]
     }

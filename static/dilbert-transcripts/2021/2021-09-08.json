@@ -10,17 +10,12 @@
     {
       "panel": 2,
       "dialogue": [
-        "How much better?"
-      ]
-    },
-    {
-      "panel": 3,
-      "dialogue": [
+        "How much better?",
         "27.4% better."
       ]
     },
     {
-      "panel": 4,
+      "panel": 3,
       "dialogue": [
         "Wow! I should try that.",
         "You'll love it."

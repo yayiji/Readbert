@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Which group are you in?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Which group are you in?",
         "I came to ask for a second tail."
       ]
     }

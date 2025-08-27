@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Can you please stop talking so loudly on your zoom calls? !!!"
+        "Can you please stop talking so loudly on your Zoom calls? ? !!!"
       ]
     },
     {
@@ -16,34 +16,39 @@
     {
       "panel": 3,
       "dialogue": [
-        "Oh, wow. Did you really play the 'mortgage card' on me?",
-        "This is war!"
+        "Oh, wow. Did you really play the \"mortgage card\" on me?"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Wait until you see what I do in the background of your next zoom call."
+        "This is war!"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "I don't want to ruin the surprise, but think of the number one worst thing you can imagine me doing."
+        "Wait until you see what I do in the background of your next Zoom call."
       ]
     },
     {
       "panel": 6,
+      "dialogue": [
+        "I don't want to ruin the surprise, but think of the number-one worst thing you can imagine me doing."
+      ]
+    },
+    {
+      "panel": 7,
       "dialogue": [
         "Are you picturing it in your mind?",
         "It's bad, isn't it?"
       ]
     },
     {
-      "panel": 7,
+      "panel": 8,
       "dialogue": [
         "Now imagine at the same time I also start doing the second-worst thing you can imagine.",
-        "Noooo!!!"
+        "Nooooo!!!!"
       ]
     }
   ]

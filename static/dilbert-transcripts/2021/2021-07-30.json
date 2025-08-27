@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "Your software has a bug. I can fix that by laying my hands on it and praying."
+        "Your software has a bug.",
+        "I can fix that by laying my hands on it and praying."
       ]
     },
     {
@@ -16,7 +17,12 @@
     {
       "panel": 3,
       "dialogue": [
-        "Try it now.",
+        "Try it now."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
         "I really hope that didn't wor...",
         "Dang."
       ]

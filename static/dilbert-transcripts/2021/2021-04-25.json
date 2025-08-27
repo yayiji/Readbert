@@ -4,50 +4,50 @@
     {
       "panel": 1,
       "dialogue": [
-        "Dilbert is always interrupting me because I'm a woman.",
-        "How do you deal with it when he interrupts you?",
-        "He doesn't interrupt me."
+        "Dilbert is always interrupting me because I'm a woman."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "That makes no sense. He interrupts me because I'm a woman, and you're a woman. So..."
+        "How do you deal with it when he interrupts you?"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Maybe he doesn't interrupt me because I make sense when I talk."
+        "He doesn't interrupt me."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Whereas you're more of a babbling nincompoop and a notorious ruin of meetings."
+        "That makes no sense. He interrupts me because I'm a woman, and you're a woman... so..."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Well, I certainly don't know where you..."
+        "Maybe he doesn't interrupt me because I make sense when I talk."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Let's head back now."
+        "Whereas you're more of a babbling nincompoop and a notorious ruiner of meetings."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "You interrupted me!"
+        "Well, I certainly don't know where you...",
+        "Let's head back now."
       ]
     },
     {
       "panel": 8,
       "dialogue": [
+        "You interrupted me!",
         "Try to spot the pattern."
       ]
     }

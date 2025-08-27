@@ -16,13 +16,9 @@
     {
       "panel": 3,
       "dialogue": [
-        "What's stopping you?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "General incom— petence. Same thing that killed all of my projects."
+        "What's stopping you?",
+        "General incompetence.",
+        "Same thing that killed all of my projects."
       ]
     }
   ]

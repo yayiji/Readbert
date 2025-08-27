@@ -16,38 +16,38 @@
     {
       "panel": 3,
       "dialogue": [
-        "This one only works on laptops.",
-        "How about this one?"
+        "This one only works on laptops."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "No, that also only works on laptops.",
-        "Okay, I got it. Here's one."
+        "How about this one?",
+        "No, that also only works on laptops."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Nope. That is another microphone that doesn't work on an iPad."
+        "Okay, I got it. Here's one."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Listen to me closely. My main requirement is that it work on an iPad."
+        "Nope. That is another microphone that doesn't work on an iPad."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "Oh, okay, I got it. Here's one."
+        "Listen to me closely. My main requirement is that it work on an iPad."
       ]
     },
     {
       "panel": 8,
       "dialogue": [
+        "Oh, okay, I got it. Here's one.",
         "Does it work on an iPad?",
         "I didn't say it was perfect."
       ]

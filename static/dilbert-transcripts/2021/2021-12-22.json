@@ -10,19 +10,15 @@
     {
       "panel": 2,
       "dialogue": [
-        "So... Tell me again why we all need to come to the office?"
+        "So... tell me again why we all need to come to the office?"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "It's so I can spend less time with my family."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "Okay. I can respect that."
+        "It's so I can spend less time with my family.",
+        "Okay.",
+        "I can respect that."
       ]
     }
   ]

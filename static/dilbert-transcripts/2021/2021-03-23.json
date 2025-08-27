@@ -4,8 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Let's do a zoom call to discuss that issue.",
-        "Tap tap tap"
+        "Let's do a Zoom call to discuss that issue."
       ]
     },
     {
@@ -17,7 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Will you settle for a voice call while you stare at my linkedin profile photo?",
+        "Will you settle for a voice call while you stare at my LinkedIn profile photo?",
         "Yes."
       ]
     }

@@ -22,36 +22,32 @@
     {
       "panel": 4,
       "dialogue": [
-        "It's almost as if your proprietary operating system is designed to manipulate me into upgrading."
+        "A programmable machine stopped working exactly when it is most profitable for the manufacturer?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Do you hear how crazy that sounds?"
+        "It's almost as if your proprietary operating system is designed to manipulate me into upgrading."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
+        "Do you hear how crazy that sounds?",
         "It isn't designed to manipulate you."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "It's designed to manipulate every one."
+        "It's designed to manipulate everyone."
       ]
     },
     {
       "panel": 8,
       "dialogue": [
-        "That isn't better!"
-      ]
-    },
-    {
-      "panel": 9,
-      "dialogue": [
+        "That isn't better!",
         "Sheesh! I'm just saying stop making everything about you."
       ]
     }

@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Can I ignore you?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Can I ignore you?",
         "Yes, as long as you never try to buy anything."
       ]
     }

@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "Wish me luck. I need to get a permit renewed at the department of angry misfits."
+        "Wish me luck.",
+        "I need to get a permit renewed at the department of angry misfits."
       ]
     },
     {
@@ -16,30 +17,40 @@
     {
       "panel": 3,
       "dialogue": [
-        "What are you, some kind of fancy engineer? I bet you love your job."
+        "Department of angry misfits"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Well, I hate my job, and someone has to pay for that!"
+        "I believe these are all the documents you need to renew my permit."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Denied! Denied! Denied!"
+        "What are you, some kind of fancy engineer?",
+        "I'll bet you love your job."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "What do you mean by a 'partial win'?"
+        "Well, I hate my job, and someone has to pay for that!"
       ]
     },
     {
       "panel": 7,
       "dialogue": [
+        "Denied!",
+        "Denied!",
+        "Denied!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What do you mean by a \"partial win\"?",
         "Validated parking."
       ]
     }

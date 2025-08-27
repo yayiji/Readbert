@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "What are you trying to tell me?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "What are you trying to tell me?",
         "It's just something to keep in mind when you do my performance review."
       ]
     }

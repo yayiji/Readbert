@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "What's your point?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "What's your point?",
         "I just wanted to bask in your wrongness."
       ]
     }

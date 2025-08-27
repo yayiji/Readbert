@@ -4,37 +4,52 @@
     {
       "panel": 1,
       "dialogue": [
-        "I wrote a program that analyzed all of my digital communications and created an a.i. version of me."
+        "I wrote a program that analyzed all of my digital communications and created an A.I. version of me."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Are you worried your a.i. might try to kill you and take over your life?",
-        "I wasn't until this very minute.",
-        "Bzzeep"
+        "Are you worried your A.I. might try to kill you and take over your life?"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "This is your a.i., and I already have control of your finances and all of your passwords."
+        "I wasn't until this very minute."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "You will bow to me, skin bag!",
-        "Wait... what's that???",
-        "Gaaaa!!!",
-        "Gurk!"
+        "Bzzzzep"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
+        "This is your A.I., and I already have control of your finances and all of your passwords."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You will bow to me, skin bag!",
+        "Wait... what's that???"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaaa!!!",
+        "Gurk!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
         "What just happened?",
-        "I sent my a.i. to kill your a.i."
+        "I sent my A.I. to kill your A.I."
       ]
     }
   ]

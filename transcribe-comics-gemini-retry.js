@@ -5,12 +5,12 @@
  * It identifies comics that have image files but no corresponding transcript files.
  * 
  * USAGE:
- *   node transcribe-comics-retry-gemini.js [year]
+ *   node transcribe-comics-gemini-retry.js [year]
  * 
  * EXAMPLES:
- *   node transcribe-comics-retry-gemini.js           # Retry all years with missing transcripts
- *   node transcribe-comics-retry-gemini.js 2020      # Retry only failed 2023 transcriptions
- *   node transcribe-comics-retry-gemini.js 1989      # Retry only failed 1989 transcriptions
+ *   node transcribe-comics-gemini-retry.js           # Retry all years with missing transcripts
+ *   node transcribe-comics-gemini-retry.js 2020      # Retry only failed 2023 transcriptions
+ *   node transcribe-comics-gemini-retry.js 1989      # Retry only failed 1989 transcriptions
  * 
  * REQUIREMENTS:
  *   1. Create .env file with: GEMINI_API_KEY=your_api_key_here

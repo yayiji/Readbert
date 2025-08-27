@@ -4,25 +4,20 @@
     {
       "panel": 1,
       "dialogue": [
-        "Wally, four out of five of your projects are behind schedule"
+        "Wally, four out of five of your projects are behind schedule."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "That's because of the pandemic"
+        "That's because of the pandemic."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "One of your projects is on schedule"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "That's because of me"
+        "One of your projects is on schedule.",
+        "That's because of me."
       ]
     }
   ]

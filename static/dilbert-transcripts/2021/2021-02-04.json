@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "You've never had a success to track."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "You've never had a success to track.",
         "I was hoping you didn't know that."
       ]
     }

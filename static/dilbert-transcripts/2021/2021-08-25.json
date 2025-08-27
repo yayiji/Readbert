@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Did you just blackmail yourself?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Did you just blackmail yourself?",
         "And you'll have a private office."
       ]
     }

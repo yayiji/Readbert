@@ -16,28 +16,38 @@
     {
       "panel": 3,
       "dialogue": [
-        "That means there must be a lot of truth to what I'm saying.",
-        "No, it means your idea is so stupid it is making my head hurt."
+        "That means there must be a lot of truth to what I'm saying."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Ho-ho! With this much push-back, it means I must be over the target.",
-        "No, it doesn't! Your ridiculous bumper sticker thinking is not wisdom!"
+        "No, it means your idea is so stupid it is making my head hurt."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Stop repeating worn-out sayings as if they actually mean something!"
+        "Ho-ho! With this much push-back, it means I must be over the target."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
+        "No, it doesn't! Your ridiculous bumper sticker thinking is not wisdom!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop repeating worn-out sayings as if they actually mean something!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
         "Methinks thou dost protest too much.",
-        "Aaaaii-ee!!!"
+        "Aaiii-eee!!!"
       ]
     }
   ]

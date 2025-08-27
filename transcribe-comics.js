@@ -1,5 +1,24 @@
 /**
- * Dilbert Comics Bulk Transcription Script
+ * Dilbert Comics Bulk Transcript// Co// Configuration
+const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
+const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
+
+// MODEL OPTIONS - Easy to change here:
+// Option 1: OpenAI GPT-4o (same as working transcribe-by-date.js)
+const MODEL_NAME = 'openai/gpt-4o';
+
+// Option 2: OpenAI GPT-4o mini (faster, cheaper alternative)
+// const MODEL_NAME = 'openai/gpt-4o-mini';
+
+// Option 3: For Gemini, use the dedicated transcribe-comics-gemini.js script instead
+// It uses the official Google Gemini API which works better for vision tasks
+
+const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)ion
+const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
+const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
+// const MODEL_NAME = 'openai/gpt-4o-mini';
+const MODEL_NAME = 'openai/gpt-4o';
+const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)ript
  * 
  * This script transcribes Dilbert comic images to JSON text using OpenRouter API.
  * 
@@ -38,6 +57,9 @@ const __dirname = path.dirname(__filename);
 // Configuration
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
+// Option 1: Use GPT-4o mini (tested working)
+// const MODEL_NAME = 'openai/gpt-4o-mini';
+const MODEL_NAME = 'google/gemini-2.5-flash';
 const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)
 
 if (!OPENROUTER_API_KEY) {
@@ -102,7 +124,7 @@ If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}`
                 'X-Title': 'Dilbert Comic Transcriber'
             },
             body: JSON.stringify({
-                model: 'openai/gpt-4o-mini',
+                model: MODEL_NAME,
                 messages: [
                     {
                         role: 'user',

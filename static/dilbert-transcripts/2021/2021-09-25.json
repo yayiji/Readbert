@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Do you really have supply chain issues?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Do you really have supply chain issues?",
         "I might if I ever start the project."
       ]
     }

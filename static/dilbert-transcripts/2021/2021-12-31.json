@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "We need to tell people."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "We need to tell people.",
         "Sounds like you need a treatment."
       ]
     }

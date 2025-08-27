@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "What do you think?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "What do you think?",
         "Why don't you try it for a month and tell me how it goes?"
       ]
     }

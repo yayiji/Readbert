@@ -4,13 +4,14 @@
     {
       "panel": 1,
       "dialogue": [
-        "A yoga mat? When did you get into yoga?"
+        "A yoga mat?",
+        "When did you get into yoga?"
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "It was right after I convinced our pointy-haired boss that there is a yoga position called 'sleeping wally.'"
+        "It was right after I convinced our pointy-haired boss that there is a yoga position called \"sleeping wally.\""
       ]
     },
     {

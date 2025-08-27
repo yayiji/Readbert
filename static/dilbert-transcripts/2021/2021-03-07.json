@@ -16,32 +16,37 @@
     {
       "panel": 3,
       "dialogue": [
-        "I'm getting reports that you follow bad people on twitter.",
-        "I follow people on both sides of every issue so I can see the full context."
+        "I'm getting reports that you follow bad people on Twitter."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "That might sound good on paper, but half of the people you follow are monsters of one sort or another."
+        "I follow people on both sides of every issue so I can see the full context."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Isn't it obvious that enforcing this kind of standard can only lead in a bad direction?"
+        "That might sound good on paper, but half of the people you follow are monsters of one sort or another."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "No, I don't see that at all. All I see is that you associate with people who are monsters."
+        "Isn't it obvious that enforcing this kind of standard can only lead in a bad direction?"
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "I'm getting reports that you follow Dilbert on twitter."
+        "No, I don't see that at all. All I see is that you associate with people who are monsters."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm getting reports that you follow Dilbert on Twitter."
       ]
     }
   ]

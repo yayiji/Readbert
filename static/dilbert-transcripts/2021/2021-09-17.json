@@ -4,14 +4,16 @@
     {
       "panel": 1,
       "dialogue": [
-        "I compared the r.o.i. for lying versus telling the truth.",
+        "I compared the R.O.I. for lying versus telling the truth.",
         "Lying versus truth"
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "I regret to inform you that lying has a five-to-one advantage."
+        "I regret to inform you that lying has a five-to-one advantage.",
+        "Advantage",
+        "5-to-1"
       ]
     },
     {

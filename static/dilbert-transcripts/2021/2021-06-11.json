@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "I could do a voice call from my car."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "I could do a voice call from my car.",
         "You're making it worse!!!"
       ]
     }

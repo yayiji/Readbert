@@ -46,12 +46,7 @@
     {
       "panel": 8,
       "dialogue": [
-        "Stop moving the goal posts."
-      ]
-    },
-    {
-      "panel": 9,
-      "dialogue": [
+        "Stop moving the goal posts.",
         "And there it is."
       ]
     }

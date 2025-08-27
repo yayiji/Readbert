@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "So what we need to do...",
+        "...So what we need to do...",
         "Ding!"
       ]
     },
@@ -17,12 +17,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Would you like to look at it and respond?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Would you like to look at it and respond?",
         "Only if you don't think you can wrap this up in fifteen seconds or so."
       ]
     }

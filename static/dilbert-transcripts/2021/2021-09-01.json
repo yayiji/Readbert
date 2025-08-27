@@ -10,19 +10,14 @@
     {
       "panel": 2,
       "dialogue": [
-        "Yes, it seems as if you didn't look at the slide deck and just googled 'generic feedback' but spelled it wrong."
+        "Yes, it seems as if you didn't look at the slide deck and just googled \"generic feedback\" but spelled it wrong."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "You can't prove that."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "Your first note said 'search instead for generik feedback?'"
+        "You can't prove that.",
+        "Your first note said \"search instead for generik feedback?\""
       ]
     }
   ]

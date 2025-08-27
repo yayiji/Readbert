@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "I mentioned to the board of directors that there has never been any diversity in the ceo position, so they made me co-ceo"
+        "I mentioned to the board of directors that there has never been any diversity in the CEO position, so they made me co-CEO."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "How's it feel to be my peer?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "How's it feel to be my peer?",
         "It hurts all over!"
       ]
     }

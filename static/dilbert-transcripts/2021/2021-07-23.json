@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Welcome to the first of what will be weekly stand-up meetings by zoom."
+        "Welcome to the first of what will be weekly stand-up meetings by Zoom."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Wally, are you sitting on something?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Wally, are you sitting on something?",
         "I'm deeply offended that you asked."
       ]
     }

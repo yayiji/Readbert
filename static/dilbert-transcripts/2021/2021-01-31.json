@@ -22,23 +22,29 @@
     {
       "panel": 4,
       "dialogue": [
-        "I don't ask you to do anything useful because you are too lazy."
+        "You're the one who gives me my assignments."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Are the useful projects generally harder than the useless ones?"
+        "I don't ask you to do anything useful because you are too lazy."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Yes."
+        "Are the useful projects generally harder than the useless ones?"
       ]
     },
     {
       "panel": 7,
+      "dialogue": [
+        "Yes."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "Then I'd say the system is working."
       ]

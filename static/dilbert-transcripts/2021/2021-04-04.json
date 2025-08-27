@@ -4,42 +4,51 @@
     {
       "panel": 1,
       "dialogue": [
-        "Is it okay if I take next week off?",
-        "Are you kidding? We're in the most critical month of the system migration."
+        "Is it okay if I take next week off?"
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "You're essential to our success. All hands must be on deck."
+        "Are you kidding?",
+        "We're in the most critical month of the system migration."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Really? It seems as if all I do is listen to other people say useless stuff on zoom calls."
+        "You're essential to our success.",
+        "All hands must be on deck."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "My goodness, no! Employees are our most valuable asset!"
+        "Really?",
+        "It seems as if all I do is listen to other people say useless stuff on Zoom calls."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "We can't succeed unless we have 100% employee engagement."
+        "My goodness, no!",
+        "Employees are our most valuable asset!"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "I took all of last week off for vacation, and no one noticed."
+        "We can't succeed unless we have 100% employee engagement."
       ]
     },
     {
       "panel": 7,
+      "dialogue": [
+        "I took all of last week off for vacation, and no one noticed."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "Next time, start with that."
       ]

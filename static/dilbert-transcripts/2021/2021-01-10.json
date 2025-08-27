@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "I'm going to try to cancel some recurring online charges today. Wish me luck."
+        "I'm going to try to cancel some recurring online charges today.",
+        "Wish me luck."
       ]
     },
     {
@@ -22,30 +23,31 @@
     {
       "panel": 4,
       "dialogue": [
-        "If I reach a human, he'll try to divert me to their website to cancel, which I already know won't work because . . ."
+        "It should take about an hour to navigate their automated phone system that will keep sending me to the wrong place."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "... I won't be able to find my account in their system for reasons no one will ever be able to explain."
+        "If I reach a human, he'll try to divert me to their website to cancel, which I already know won't work because..."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "And, of course, their phone support person will be using a headset microphone that garbles his already-mumbled words."
+        "...I won't be able to find my account in their system for reasons no one will ever be able to explain."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "But if you stick with it, you will eventually succeed?"
+        "And, of course, their phone support person will be using a headset microphone that garbles his already-mumbled words."
       ]
     },
     {
       "panel": 8,
       "dialogue": [
+        "But if you stick with it, you will eventually succeed?",
         "I don't know where you got that idea."
       ]
     }

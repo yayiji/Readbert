@@ -10,13 +10,16 @@
     {
       "panel": 2,
       "dialogue": [
-        "Well, you caught me. I'm actually a fraud. I offer my resignation, effective immediately. Goodbye."
+        "Well, you caught me.",
+        "I'm actually a fraud.",
+        "I offer my resignation, effective immediately. Goodbye."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "This is the first time I ever won a meeting. I have to say, it feels good."
+        "This is the first time I ever won a meeting.",
+        "I have to say, it feels good."
       ]
     }
   ]

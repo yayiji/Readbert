@@ -4,26 +4,21 @@
     {
       "panel": 1,
       "dialogue": [
-        "Okay, well, I see the closing credits scrolling by, so we must be done with our zoom call."
+        "Okay, well, I see the closing credits scrolling by, so we must be done with our Zoom call."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Oh, I guess so. Well, goodbye everyone.",
-        "Goodbye!",
+        "Oh, I guess so.",
+        "Well, goodbye everyone.",
         "Bye!"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "You added closing credits to a zoom call?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "You added closing credits to a Zoom call?",
         "It's the only way to get people to leave."
       ]
     }

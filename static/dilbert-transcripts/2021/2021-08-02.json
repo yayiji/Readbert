@@ -16,13 +16,9 @@
     {
       "panel": 3,
       "dialogue": [
-        "Wait, what?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "I'm not talking to you. Settle down."
+        "Wait, what?",
+        "I'm not talking to you.",
+        "Settle down."
       ]
     }
   ]

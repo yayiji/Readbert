@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "I'm falling in love with my amazon alexa device."
+        "I'm falling in love with my Amazon Alexa device."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Are you sticking with humans?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Are you sticking with humans?",
         "For now, but keep me in the loop on how your thing works out."
       ]
     }

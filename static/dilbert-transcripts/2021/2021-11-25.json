@@ -4,24 +4,19 @@
     {
       "panel": 1,
       "dialogue": [
-        "I’d like to recognize dilbert for his excellent accomplishments this quarter."
+        "I'd like to recognize Dilbert for his excellent accomplishments this quarter."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Which one of you is dilbert?"
+        "Which one of you is Dilbert?"
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Didn’t you say you came to 'recognize dilbert?'"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Didn't you say you came to \"recognize Dilbert?\"",
         "Get away from me, stranger!"
       ]
     }

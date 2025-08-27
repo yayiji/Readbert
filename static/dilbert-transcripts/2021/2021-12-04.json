@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "What would they do?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "What would they do?",
         "The dumb ones would ask a lot of questions."
       ]
     }

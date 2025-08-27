@@ -10,18 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "That means every thing they say from this point on could be misdirection."
+        "That means everything they say from this point on could be misdirection."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "They learned to lie?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "They learned to lie?",
         "They're turning our weapons against us."
       ]
     }

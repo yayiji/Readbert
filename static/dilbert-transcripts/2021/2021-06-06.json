@@ -4,37 +4,47 @@
     {
       "panel": 1,
       "dialogue": [
-        "Anonymous sources tell me you have been stealing from the company.",
-        "Anonymous sources have no credibility."
+        "Anonymous sources tell me you have been stealing from the company."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "That's exactly what they told me you'd say.",
-        "Why do you trust them over me?"
+        "Anonymous sources have no credibility."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Well, for one thing, I hear you're a thief."
+        "That's exactly what they told me you'd say."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "You heard that from the anonymous sources that have no credibility!"
+        "Why do you trust them over me?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Why would they lie to me?"
+        "Well, for one thing, I hear you're a thief."
       ]
     },
     {
       "panel": 6,
+      "dialogue": [
+        "You heard that from the anonymous sources that have no credibility!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why would they lie to me?"
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "Same reason you lie to me.",
         "Okay, that makes sense."

@@ -4,24 +4,19 @@
     {
       "panel": 1,
       "dialogue": [
-        "The elbonian virus has reached pandemic proportions."
+        "The Elbonian virus has reached pandemic proportions."
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Just because a virus doesn't kill people with beards and tall, fuzzy hats, that doesn't mean it was made in elbonia."
+        "Just because a virus doesn't kill people with beards and tall, fuzzy hats, that doesn't mean it was made in Elbonia."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Was it made in elbonia?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Was it made in Elbonia?",
         "Yes, but I think my point still stands."
       ]
     }

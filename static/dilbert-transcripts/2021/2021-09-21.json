@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Shouldn't you be working?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Shouldn't you be working?",
         "It's optional under my system."
       ]
     }

@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Are you even a lawyer?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Are you even a lawyer?",
         "Heavens, no, and I didn't come here to be insulted."
       ]
     }

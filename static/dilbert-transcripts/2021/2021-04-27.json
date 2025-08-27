@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "How did your zoom call with the client work out?"
+        "How did your Zoom call with the client work out?"
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "But we'll still take his money, right?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "But we'll still take his money, right?",
         "Yes, he doesn't deserve to keep any of it."
       ]
     }

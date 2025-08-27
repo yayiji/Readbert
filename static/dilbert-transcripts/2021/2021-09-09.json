@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "In that case, I must be done."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "In that case, I must be done.",
         "Are you trying to tell me something?"
       ]
     }

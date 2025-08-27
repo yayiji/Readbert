@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "Our ceo wants to join the billionaire space club. he asked us to build him a rocket."
+        "Our CEO wants to join the billionaire space club. He asked us to build him a rocket."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Any ideas?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Any ideas?",
         "I'd go cheap on reentry."
       ]
     }

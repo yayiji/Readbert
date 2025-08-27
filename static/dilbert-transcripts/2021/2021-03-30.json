@@ -10,14 +10,14 @@
     {
       "panel": 2,
       "dialogue": [
-        "I'll issue a statement from you saying every one of them is lying."
+        "I'll issue a statement from you saying everyone one of them is lying."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
         "Who would be dumb enough to believe that?",
-        "I call them 'the public.'"
+        "I call them \"the public.\""
       ]
     }
   ]

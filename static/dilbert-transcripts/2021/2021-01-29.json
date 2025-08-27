@@ -10,11 +10,17 @@
     {
       "panel": 2,
       "dialogue": [
-        "How do you know your decisions are bad? I'm starting to agree with you."
+        "How do you know your decisions are bad?"
       ]
     },
     {
       "panel": 3,
+      "dialogue": [
+        "I'm starting to agree with you."
+      ]
+    },
+    {
+      "panel": 4,
       "dialogue": [
         "I don't understand.",
         "Exactly."

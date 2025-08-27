@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "What?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "What?",
         "Ranking employees against each other was your best idea ever."
       ]
     }

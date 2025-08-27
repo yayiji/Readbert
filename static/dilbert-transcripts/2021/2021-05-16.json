@@ -16,30 +16,35 @@
     {
       "panel": 3,
       "dialogue": [
-        "You've never seen where I live.",
-        "I'm judging by your personality."
+        "You've never seen where I live."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "You're too lazy to clean anything up, so by now it's a toxic dump."
+        "I'm judging by your personality."
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "That's a lucky guess."
+        "You're too lazy to clean anything up, so by now it's a toxic dump."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "And you're too lazy to close your curtains, so by now your neighbors want to murder you."
+        "That's a lucky guess."
       ]
     },
     {
       "panel": 7,
+      "dialogue": [
+        "And you're too lazy to close your curtains, so by now your neighbors want to murder you."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "That's two lucky guesses."
       ]

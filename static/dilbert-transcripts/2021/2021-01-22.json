@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "That actually works?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "That actually works?",
         "It did until you made a mockery of it just now."
       ]
     }

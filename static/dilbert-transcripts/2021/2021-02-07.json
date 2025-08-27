@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "I'm dogbert, doctor of the impossible."
+        "I'm Dogbert, doctor of the impossible."
       ]
     },
     {
@@ -46,12 +46,7 @@
     {
       "panel": 8,
       "dialogue": [
-        "You're giving me a headache."
-      ]
-    },
-    {
-      "panel": 9,
-      "dialogue": [
+        "You're giving me a headache.",
         "To cure that, I suggest ice-cold baths every six minutes."
       ]
     }

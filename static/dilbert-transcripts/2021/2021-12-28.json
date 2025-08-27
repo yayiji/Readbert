@@ -10,19 +10,20 @@
     {
       "panel": 2,
       "dialogue": [
-        "That's dumb. I've never said anything like that."
+        "That's dumb.",
+        "I've never said anything like that."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "I'll tell everyone you're walking it back."
+        "I'll tell everyone you're walking it back.",
+        "Tell them I never said it."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Tell them I never said it.",
         "I'll tell them you moved the goalposts."
       ]
     }

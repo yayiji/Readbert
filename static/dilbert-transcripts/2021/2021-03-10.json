@@ -9,6 +9,10 @@
     },
     {
       "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
       "dialogue": [
         "Yup, I'm numb."
       ]

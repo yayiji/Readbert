@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Would you like to defend yourself?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Would you like to defend yourself?",
         "I'm not that motivated."
       ]
     }

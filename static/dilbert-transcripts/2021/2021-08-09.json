@@ -1,4 +1,5 @@
 {
+  "date": "2021-08-09",
   "panels": [
     {
       "panel": 1,
@@ -15,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Alice gets three points because she's a woman and..."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Alice gets three points because she's a woman and...",
         "Stop."
       ]
     }

@@ -1,4 +1,5 @@
 {
+  "date": "2021-05-30",
   "panels": [
     {
       "panel": 1,
@@ -33,23 +34,18 @@
     {
       "panel": 6,
       "dialogue": [
-        "I'll take my business elsewhere!"
+        "I'll take my business elsewhere!",
+        "No, you won't."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "No, you won't."
-      ]
-    },
-    {
-      "panel": 8,
-      "dialogue": [
         "Because other stores are just as bad as we are."
       ]
     },
     {
-      "panel": 9,
+      "panel": 8,
       "dialogue": [
         "I am not a victim!",
         "Tell that to the customer survey I'm about to pester you into doing."

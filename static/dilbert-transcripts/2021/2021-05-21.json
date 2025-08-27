@@ -10,13 +10,14 @@
     {
       "panel": 2,
       "dialogue": [
-        "Ask if they'll accept a c-level human sacrifice instead."
+        "Ask if they'll accept a C-level human sacrifice instead."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "Now fire my cto and tell him it's something about his performance."
+        "They said yes.",
+        "Now fire my CTO and tell him it's something about his performance."
       ]
     }
   ]

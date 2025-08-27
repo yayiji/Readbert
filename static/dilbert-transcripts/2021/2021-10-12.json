@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "How did you decide to recommend option b?"
+        "How did you decide to recommend option B?"
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "You mean you guessed."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "You mean you guessed.",
         "That is such a cynical way to look at it."
       ]
     }

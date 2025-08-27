@@ -10,17 +10,13 @@
     {
       "panel": 2,
       "dialogue": [
-        "This feels like a trap."
+        "This feels like a trap.",
+        "Not at all!",
+        "I love constructive criticism!"
       ]
     },
     {
       "panel": 3,
-      "dialogue": [
-        "Not at all! I love constructive criticism!"
-      ]
-    },
-    {
-      "panel": 4,
       "dialogue": [
         "I think you're almost perfect.",
         "Almost?"

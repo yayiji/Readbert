@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "But with more pay?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "But with more pay?",
         "A slight decrease."
       ]
     }

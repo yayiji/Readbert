@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "This will cost you your entire bonus of $10 million."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "This will cost you your entire bonus of $10 million.",
         "What if I agree to never speak again?"
       ]
     }

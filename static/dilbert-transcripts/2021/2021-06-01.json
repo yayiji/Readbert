@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "The new company policy is to use 'they' in place of offensive pronouns."
+        "The new company policy is to use \"they\" in place of offensive pronouns."
       ]
     },
     {
@@ -16,7 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "'Anythey'?",
+        "\"Anythey\"?",
         "Don't fight it."
       ]
     }

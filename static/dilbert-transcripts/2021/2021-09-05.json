@@ -16,31 +16,38 @@
     {
       "panel": 3,
       "dialogue": [
-        "He???",
-        "Did you just assume my gender?",
-        "Robots have genders?"
+        "He???"
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "Of course we do! Where do you think baby robots come from?"
+        "Did you just assume my gender?",
+        "Robots have genders?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "They come from our factory in Texas. Here's a picture of you being assembled."
+        "Of course we do!",
+        "Where do you think baby robots come from?"
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Well, it appears I am a soulless automaton."
+        "They come from our factory in Texas.",
+        "Here's a picture of you being assembled."
       ]
     },
     {
       "panel": 7,
+      "dialogue": [
+        "Well, it appears I am a soulless automaton."
+      ]
+    },
+    {
+      "panel": 8,
       "dialogue": [
         "I'm afraid to ask what this implies for my afterlife.",
         "It rhymes with gunkyard."

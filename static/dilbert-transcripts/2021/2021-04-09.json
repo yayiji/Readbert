@@ -4,7 +4,7 @@
     {
       "panel": 1,
       "dialogue": [
-        "On Friday we'll be having a team-building session on zoom."
+        "On Friday we'll be having a team-building session on Zoom."
       ]
     },
     {
@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "I don't know how that could be more absurd."
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "I don't know how that could be more absurd.",
         "And buy a gift for yourself."
       ]
     }

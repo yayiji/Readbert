@@ -10,17 +10,12 @@
     {
       "panel": 2,
       "dialogue": [
-        "Define 'enough impact.'"
-      ]
-    },
-    {
-      "panel": 3,
-      "dialogue": [
+        "Define \"enough impact.\"",
         "You'll know it when you see it."
       ]
     },
     {
-      "panel": 4,
+      "panel": 3,
       "dialogue": [
         "I see plenty of impact now.",
         "You're ruining the meeting!"

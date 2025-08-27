@@ -16,7 +16,12 @@
     {
       "panel": 3,
       "dialogue": [
-        "Should we make an obvious exception here or be morons?",
+        "Should we make an obvious exception here or be morons?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
         "I think you're undervaluing the moron option."
       ]
     }

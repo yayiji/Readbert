@@ -4,7 +4,8 @@
     {
       "panel": 1,
       "dialogue": [
-        "I need to buy a gift for our ceo's birthday party. But what do you get for someone who has every- thing?"
+        "I need to buy a gift for our CEO's birthday party.",
+        "But what do you get for someone who has everything?"
       ]
     },
     {
@@ -16,13 +17,9 @@
     {
       "panel": 3,
       "dialogue": [
-        "Wouldn't he notice that?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
-        "I hope not. I'm giving him his office chair."
+        "Wouldn't he notice that?",
+        "I hope not.",
+        "I'm giving him his office chair."
       ]
     }
   ]

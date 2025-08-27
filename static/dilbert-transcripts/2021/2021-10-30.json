@@ -16,7 +16,12 @@
     {
       "panel": 3,
       "dialogue": [
-        "What are they demanding?",
+        "What are they demanding?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
         "We don't know. We think they emailed an old address."
       ]
     }

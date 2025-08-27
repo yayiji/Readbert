@@ -4,44 +4,50 @@
     {
       "panel": 1,
       "dialogue": [
-        "Would you mind giving my son some career advice?",
-        "He won't listen to my advice because I'm his father."
+        "Would you mind giving my son some career advice?"
       ]
     },
     {
       "panel": 2,
       "dialogue": [
-        "Yeah, that's the reason."
+        "He won't listen to my advice because I'm his father."
       ]
     },
     {
       "panel": 3,
       "dialogue": [
-        "I want to do something I'm passionate about."
+        "Yeah, that's the reason."
       ]
     },
     {
       "panel": 4,
       "dialogue": [
-        "And it has to be fun but not a lot of work."
+        "So, junior, what do you want to do for a career?"
       ]
     },
     {
       "panel": 5,
       "dialogue": [
-        "Have you ever wondered why the rest of us didn't think of doing something like that?"
+        "I want to do something I'm passionate about."
       ]
     },
     {
       "panel": 6,
       "dialogue": [
-        "Is it because you're idiots?"
+        "And it has to be fun but not a lot of work."
       ]
     },
     {
       "panel": 7,
       "dialogue": [
-        "There's something about you that screams 'manager'."
+        "Have you ever wondered why the rest of us didn't think of doing something like that?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it because you're idiots?",
+        "There's something about you that screams \"manager.\""
       ]
     }
   ]

@@ -19,12 +19,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "Did you just say 'your own laziness'?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "Did you just say \"your own laziness\"?",
         "Yes, but it was a covid symptom."
       ]
     }

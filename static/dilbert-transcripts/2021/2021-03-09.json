@@ -16,12 +16,7 @@
     {
       "panel": 3,
       "dialogue": [
-        "How'd your zoom call go?"
-      ]
-    },
-    {
-      "panel": 4,
-      "dialogue": [
+        "How'd your Zoom call go?",
         "I solved zero problems and may have endangered a gerbil."
       ]
     }
