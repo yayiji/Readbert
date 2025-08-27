@@ -1,0 +1,25 @@
+{
+  "date": "2020-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Scientists say our smartphones can spread the coronavirus."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I no longer answer the phone.",
+        "You never know if the caller is infected."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think...",
+        "Let it go."
+      ]
+    }
+  ]
+}

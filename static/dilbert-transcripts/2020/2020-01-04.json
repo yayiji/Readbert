@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I didn't do any work because there is no point in trying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the unlikely event I did something useful, it would be ruined by the massive incompetence of my co-workers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I pay you to act as if you are trying.",
+        "Oh. In that case, I worked hard this week."
+      ]
+    }
+  ]
+}

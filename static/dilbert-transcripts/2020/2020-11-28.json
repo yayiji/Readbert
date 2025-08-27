@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to start having Zoom happy hour every weekday to boost morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're the only one in the entire department who drinks alcohol.",
+        "You're all loosers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you already start drinking?",
+        "I love you!"
+      ]
+    }
+  ]
+}

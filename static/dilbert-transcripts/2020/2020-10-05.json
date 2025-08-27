@@ -1,0 +1,25 @@
+{
+  "date": "2020-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your strategic technology plan was incoherent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to run it through an astrology filter to make sense of it.",
+        "And?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It says you are \"full of Taurus\" and your plan \"is a cancer.\"",
+        "Sounds right."
+      ]
+    }
+  ]
+}

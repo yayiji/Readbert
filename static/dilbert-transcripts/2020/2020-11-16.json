@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever think about the fact that one small error in your software design could kill hundreds of people?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All it would take is some kind of distraction while you are trying to concentrate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you done?",
+        "A real man could multitask in this situation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2020-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've been going for two hours, so let's wrap up...",
+        "I have a new topic..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! Why is there always one time-wasting fool on every Zoom call???",
+        "Why? Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert, you're not on mute.",
+        "Oh. Did you hear my TV? I'll turn it down."
+      ]
+    }
+  ]
+}

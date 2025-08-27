@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I drink so much coffee that I developed a tolerance for it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any medical-grade coffee that could take me to the next level?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but it has terrible side effects.",
+        "Skip the details and shove it in my veins."
+      ]
+    }
+  ]
+}

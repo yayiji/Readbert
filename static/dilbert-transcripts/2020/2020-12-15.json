@@ -1,0 +1,23 @@
+{
+  "date": "2020-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When I say we need to reimagine your job, it means we no longer need anyone to do what you have been doing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I ask when you first realized that my job was totally unnecessary?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was four years ago, but you seemed happy, and we had the budget to pay you, so..."
+      ]
+    }
+  ]
+}

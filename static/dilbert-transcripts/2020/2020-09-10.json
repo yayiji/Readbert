@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new software invention is called \"artificial dumb-ness.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It acts dumb so humans will think they are talking to one of their own."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That couldn't possibly work.",
+        "That couldn't possibly work."
+      ]
+    }
+  ]
+}

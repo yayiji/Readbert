@@ -1,0 +1,25 @@
+{
+  "date": "2020-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a guy to complain at every meeting by saying, \"We have no strategy.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I got him cheap because that's all he does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some would say we don't need him.",
+        "Maybe they're jealous of his wisdom.",
+        "No strategy."
+      ]
+    }
+  ]
+}

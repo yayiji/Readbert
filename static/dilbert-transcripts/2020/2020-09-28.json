@@ -1,0 +1,25 @@
+{
+  "date": "2020-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't like what you wrote about my project, so I took one of your quotes out of context, to make you look dumb, and sent it to your boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That won't work, because once I explain the proper context, he will see there is nothing to it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later that day",
+        "...So, as you can see, that quote was out of context.",
+        "Liar!!!"
+      ]
+    }
+  ]
+}

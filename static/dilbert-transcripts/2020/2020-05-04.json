@@ -1,0 +1,30 @@
+{
+  "date": "2020-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our data security team informs me we have an elbonian spy in our midst."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it's this elbonian guy you hired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whoa, that is super racist."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is it you?",
+        "Yes, but I don't see how that excuses you."
+      ]
+    }
+  ]
+}

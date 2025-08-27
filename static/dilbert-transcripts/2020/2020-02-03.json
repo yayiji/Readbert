@@ -1,0 +1,23 @@
+{
+  "date": "2020-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I reorganized the tech lab from top to bottom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Were your co-workers grateful?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, assuming they show it by rummaging through the wrong drawers and cursing."
+      ]
+    }
+  ]
+}

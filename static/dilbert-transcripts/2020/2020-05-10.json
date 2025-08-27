@@ -1,0 +1,56 @@
+{
+  "date": "2020-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I need you to train Asok to fill in for you on tech support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The goal of tech support is to convince the caller the problem is on their end."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I do this by recommending increasingly difficult things for them to try."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Eventually, they give up.",
+        "Watch and learn."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Uh-huh... uh-huh...",
+        "Try rebooting your computer."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now try it again while holding control—escape—space bar—delete for exactly 27.3 seconds."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No luck? Try looking at your computer's binary code to find any zeros and ones that are out of order."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Aaand he's gone.",
+        "Genius!"
+      ]
+    }
+  ]
+}

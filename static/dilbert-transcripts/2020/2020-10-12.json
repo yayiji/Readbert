@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you schedule the zoom call with the customer, be sure to include me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you plan to use up all of our time talking about yourself?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People enjoy context.",
+        "It's as if you have never met a human."
+      ]
+    }
+  ]
+}

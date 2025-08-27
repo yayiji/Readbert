@@ -1,0 +1,25 @@
+{
+  "date": "2020-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your work ethic is abysmal.",
+        "You're fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't it make more sense to loan me to a project you hate, so I can rot from the inside?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not your worst idea.",
+        "Is a raise out of the question?"
+      ]
+    }
+  ]
+}

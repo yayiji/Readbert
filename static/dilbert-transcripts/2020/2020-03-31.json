@@ -1,0 +1,23 @@
+{
+  "date": "2020-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The secret to being a great manager is hiring people who are smarter than you are."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then you have to take credit for their successes so they don't take your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also find it helpful to start rumors that they steal."
+      ]
+    }
+  ]
+}

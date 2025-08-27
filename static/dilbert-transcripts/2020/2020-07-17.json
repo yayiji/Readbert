@@ -1,0 +1,25 @@
+{
+  "date": "2020-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was falsely accused of being a white supremacist and fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I won in arbitration and got my job back!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you win?",
+        "Bribery.",
+        "Once you realize the whole system is rotten, it's easier."
+      ]
+    }
+  ]
+}

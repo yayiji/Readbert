@@ -1,0 +1,23 @@
+{
+  "date": "2020-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The job market is so hot right now that we can only afford to hire morons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How will we fill our critical technical jobs?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just told you."
+      ]
+    }
+  ]
+}

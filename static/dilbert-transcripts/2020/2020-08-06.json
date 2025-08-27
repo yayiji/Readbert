@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Try offering 90% less than the list price and see if they take it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one reduces their prices by 90% just because you want them to do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will look stupid for asking!",
+        "Watch how that doesn't impact me at all."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2020-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I have to listen to you repeat that same point one more time, I'm going to jump out a window."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like a bluff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I packed a parachute."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...Anyway, to reiterate..."
+      ]
+    }
+  ]
+}

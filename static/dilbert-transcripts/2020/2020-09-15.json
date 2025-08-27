@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We doubled our income during the pandemic, and it isn't a good look."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need to make some sort of insincere gesture of support for people who are suffering."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or we could actually help people.",
+        "I'm thinking more along the lines of a sign in the foyer."
+      ]
+    }
+  ]
+}

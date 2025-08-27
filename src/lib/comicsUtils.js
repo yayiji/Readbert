@@ -98,6 +98,7 @@ export function getComicImageUrl(year, filename) {
 export function getAvailableYears() {
   // 📝 EDIT THIS ARRAY to add newly transcribed years
   const TRANSCRIBED_YEARS = ['2021','2022', '2023'];
+  // const TRANSCRIBED_YEARS = ['2021'];
   
   return TRANSCRIBED_YEARS.sort(); // Keep them sorted chronologically
 }

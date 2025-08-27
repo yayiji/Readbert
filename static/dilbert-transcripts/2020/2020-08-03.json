@@ -1,0 +1,27 @@
+{
+  "date": "2020-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you listening to me? It looks as if you are using your phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can do two things at once.",
+        "I'll bet you can't even hear me, you ridiculous moron."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-huh.",
+        "Uh-huh.",
+        "Go on.",
+        "You smell like old socks, and your brain is made of cheese."
+      ]
+    }
+  ]
+}

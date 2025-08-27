@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you worried about coronavirus because you're in a high-risk group?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I be in a high-risk group?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you own a full-length mirror?",
+        "No, they make me look fat."
+      ]
+    }
+  ]
+}

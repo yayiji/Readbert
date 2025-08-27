@@ -1,0 +1,23 @@
+{
+  "date": "2020-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We are adding a chip to your employee badges so we can track your social distancing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like a convenient excuse to do something you've always wanted to do anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's probably a coincidence."
+      ]
+    }
+  ]
+}

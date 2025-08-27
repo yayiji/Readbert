@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is everyone so panicked about coronavirus when maybe only 1% who get it will die?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One percent of the population of earth would be... 77 million dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but the whole world won't get it.",
+        "They will if they listen to you."
+      ]
+    }
+  ]
+}

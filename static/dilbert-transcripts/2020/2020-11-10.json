@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I have to fire you for liking an unacceptable tweet seven years ago on Twitter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It... it... wasn't me. Someone hacked my account, or maybe my finger slipped."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which lie do you want me to put in your file?",
+        "Did either of them sound plausible?"
+      ]
+    }
+  ]
+}

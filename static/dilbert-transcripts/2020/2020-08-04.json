@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert can answer any of your questions, but I have another meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not really. I have no involvement in the project. He just told me to follow him to this room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, this is awkward.",
+        "How about I go to the restroom and never come back?"
+      ]
+    }
+  ]
+}

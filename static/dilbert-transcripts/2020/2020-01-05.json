@@ -1,0 +1,55 @@
+{
+  "date": "2020-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you upgrade the servers like I asked?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You never asked me to do that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, I did. I told you in an email."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, you did not.",
+        "I know you saw it because you replied."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I replied to a different email."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, let me find the email and show you how wrong you are."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "See. It clearly says, \"Give me a project update by Thursday.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Which is... an entirely different topic.",
+        "Why are you fighting me on this?"
+      ]
+    }
+  ]
+}

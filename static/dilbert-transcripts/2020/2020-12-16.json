@@ -1,0 +1,31 @@
+{
+  "date": "2020-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today is your last day with the company, Ted. So I need your company laptop back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or else what?",
+        "You'll fire me twice?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's say you're not officially fired until you return the laptop."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And if I don't bring it back, will I never be fired?",
+        "Um..."
+      ]
+    }
+  ]
+}

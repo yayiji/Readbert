@@ -1,0 +1,25 @@
+{
+  "date": "2020-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I'm managing the cloud, it's time to make some social changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll transfer any remaining money from low-income people to the rich.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels wrong.",
+        "I'm just adding efficiency to the inevitable."
+      ]
+    }
+  ]
+}

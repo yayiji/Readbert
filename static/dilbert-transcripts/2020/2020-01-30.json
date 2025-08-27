@@ -1,0 +1,23 @@
+{
+  "date": "2020-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have low self-esteem, but the other day I was thinking..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if I'm actually great and I just don't know it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not."
+      ]
+    }
+  ]
+}

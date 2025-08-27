@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of my idea?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To be honest, I didn't hear a word of it. I spent the whole time being worried about that bead of sweat on your forehead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's warm in here!",
+        "If you need me, I'll be a thousand yards in that direction."
+      ]
+    }
+  ]
+}

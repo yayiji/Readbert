@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, I personally doubled my income during the pandemic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I have a bad case of survivor guilt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you expect to get much sympathy for that?",
+        "I won't know until I try."
+      ]
+    }
+  ]
+}

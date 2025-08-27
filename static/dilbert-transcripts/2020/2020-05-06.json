@@ -1,0 +1,25 @@
+{
+  "date": "2020-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a quick decision on this, but I don't have time to compile the relevant facts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Without facts, I would just be guessing.",
+        "It won't affect your career average."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why wouldn't it?",
+        "Let's change the subject."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you like working at home all the time now?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was delighted to discover that a crushing sense of loneliness is better than spending time with my co-workers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No offense taken.",
+        "And don't get me started about the splendor of the mute button."
+      ]
+    }
+  ]
+}

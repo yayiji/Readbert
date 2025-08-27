@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't seem to be working."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to start something new because it's almost the end of my workday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's ten o'clock in the morning.",
+        "And here comes the micromanaging."
+      ]
+    }
+  ]
+}

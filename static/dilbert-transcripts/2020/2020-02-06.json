@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your slide deck is too well-designed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It suggests you spend too much time on things that are not important."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't give me important tasks.",
+        "That's no excuse for good design."
+      ]
+    }
+  ]
+}

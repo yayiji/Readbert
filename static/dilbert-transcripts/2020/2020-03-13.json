@@ -1,0 +1,33 @@
+{
+  "date": "2020-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to your private data in the cloud, you have a mild case of asthma."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can see my personal health data?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See it?",
+        "Hahaha!",
+        "I can do more than that!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What is more than that?",
+        "I can edit it.",
+        "You have six new diseases now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We aren't yet ready to replace engineers with robots, but that day will sneak up on us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I'd like all of you to train a robot to do your jobs, just so we are ready."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want us to train our own replacements?",
+        "This is another thing a robot would not argue about."
+      ]
+    }
+  ]
+}

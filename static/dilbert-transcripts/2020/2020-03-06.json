@@ -1,0 +1,23 @@
+{
+  "date": "2020-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to offer you a job, but ten years ago you said something offensive on social media."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not the same person I was ten years ago. You are judging me by the actions of someone who literally no longer exists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I get your point, but if I go back to the old way of judging people by their looks, we still end up in the same place."
+      ]
+    }
+  ]
+}

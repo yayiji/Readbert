@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They say the best way to manage the coronavirus is to spread it to people you dislike."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The happiness you get from that will boost your immune system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll get my medical advice from an actual doctor.",
+        "They leave out the good stuff."
+      ]
+    }
+  ]
+}

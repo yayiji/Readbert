@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I get your thoughts on the article I emailed to you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, my thoughts are that I don't want to waste my time reading any articles you send to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you dive a bit deeper?",
+        "Okay, I also don't like talking to you."
+      ]
+    }
+  ]
+}

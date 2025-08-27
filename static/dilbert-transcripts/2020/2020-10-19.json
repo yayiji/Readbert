@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That slide deck in yesterday's meeting was lethally boring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily, all of my training kicked in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that training taught you to...?",
+        "Go to the bathroom and never return."
+      ]
+    }
+  ]
+}

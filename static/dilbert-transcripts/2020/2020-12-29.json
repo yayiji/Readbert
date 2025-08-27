@@ -1,0 +1,25 @@
+{
+  "date": "2020-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you need to stop microwaving fish.",
+        "I can't work with that smell in the air."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm working from home.",
+        "Maybe you should check the cubicles for a rotting corpse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll let the janitor do that."
+      ]
+    }
+  ]
+}

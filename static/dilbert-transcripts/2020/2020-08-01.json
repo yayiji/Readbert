@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm taking the rest of the day off to recover from trauma."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I accidentally saw a video clip from TV news."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can't you block that?",
+        "I tried, but they keep finding ways to sneak it past my defenses."
+      ]
+    }
+  ]
+}

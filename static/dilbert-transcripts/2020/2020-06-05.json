@@ -1,0 +1,25 @@
+{
+  "date": "2020-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Haha! You idiot!",
+        "How dare you disagree with the foremost experts in this field!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a breaking story about those same experts being arrested today for falsifying data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In a sane world, this information would serve to modify your strong opinion.",
+        "That's not how any of this works."
+      ]
+    }
+  ]
+}

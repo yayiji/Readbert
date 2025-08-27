@@ -1,0 +1,23 @@
+{
+  "date": "2020-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We should be able to finish the network upgrade in about three months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you bid for the job, you said it would take thirty days."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we're allocating blame, I'm not the one who was dumb enough to believe me."
+      ]
+    }
+  ]
+}

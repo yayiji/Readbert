@@ -1,0 +1,25 @@
+{
+  "date": "2020-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working at home to avoid the coronavirus."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll have to stay here 24 hours a day.",
+        "That's tragic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't mind.",
+        "I meant tragic for me."
+      ]
+    }
+  ]
+}

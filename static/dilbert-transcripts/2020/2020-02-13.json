@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that the network installation is half-done, I have you idiots right where I want you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's too late for you to get a new vendor, so I'll be price-gouging you on upgrades you didn't even know you would need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you telling us?",
+        "It makes it more fun for me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2020-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And we can get that all installed in thirty days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you not care about safety?",
+        "Literally everyone cares about safety."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why didn't you mention it?",
+        "Blah, blah, safety.",
+        "I happy?"
+      ]
+    }
+  ]
+}

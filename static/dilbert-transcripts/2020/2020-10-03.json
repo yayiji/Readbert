@@ -1,0 +1,25 @@
+{
+  "date": "2020-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you tell our boss I have the wrong people on my project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't say that.",
+        "In fact, I don't even know what your project is trying to accomplish, much less who is working with you on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will we now proceed as if you didn't hear me say that?",
+        "They are not the wrong people."
+      ]
+    }
+  ]
+}

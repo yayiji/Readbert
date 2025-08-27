@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to go to dinner with me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only if you self-quarantine for two weeks first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can do!",
+        "Well, it seems I underestimated your desperation."
+      ]
+    }
+  ]
+}

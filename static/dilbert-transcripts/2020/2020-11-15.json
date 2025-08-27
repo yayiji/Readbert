@@ -1,0 +1,54 @@
+{
+  "date": "2020-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all weekend to get this done for you by the deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks, but I won't need it for another two weeks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then... why did you tell me the deadline was today?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I built some cushion into the schedule."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You mean, you lied to me about the real deadline."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In other words, you don't trust me, you are a liar, and I should never believe you again."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But you didn't miss the deadline!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, well, at least my input is critical to our success.",
+        "I might have exaggerated that."
+      ]
+    }
+  ]
+}

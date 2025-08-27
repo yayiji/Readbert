@@ -1,0 +1,56 @@
+{
+  "date": "2020-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have some problems in our Elbonian factory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How bad?",
+        "They lost power on the main floor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not so bad.",
+        "The employees were scared."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They'll get over it.",
+        "One of them tripped in the dark."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Big deal.",
+        "He accidentally opened a gas line."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "A little gas never hurt anyone.",
+        "Now there's a crater where the capital city used to be."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's keep an eye on that."
+      ]
+    }
+  ]
+}

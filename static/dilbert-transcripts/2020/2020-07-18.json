@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A new study shows that all data about everything is wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts advised using horoscopes and guesswork to make decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My co-workers already do that.",
+        "They were ahead of their time."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have brain fog from the meds I took last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My I.Q. is down by 50%, but I make up for it by being handsome."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds more like a 75% situation.",
+        "Now, can someone remind me of my name?"
+      ]
+    }
+  ]
+}

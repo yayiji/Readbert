@@ -1,0 +1,53 @@
+{
+  "date": "2020-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I could permanently work at home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. I just need a few things from you to make sure you are working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Such as?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, obviously, I need frequent status reports."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sounds reasonable."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I'll need to track your keystrokes and your phone's location."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wow. Well, okay. I guess I can get used to that in return for my freedom to work at home."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now that I've loosened you up, let's talk about fitting you for a body cam."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2020-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We agreed at our last meeting to postpone the version release."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, we agreed to do it sooner.",
+        "I don't think so."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who took notes at the last meeting?",
+        "I did."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Forwarding those notes to each of you.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um... your notes are mostly insults about the intelligence of your co-workers and... some sort of snack list."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is no help at all."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't blame me. I'm not the one who schedules these meetings when I'm hungry."
+      ]
+    }
+  ]
+}

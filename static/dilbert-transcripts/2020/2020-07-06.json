@@ -1,0 +1,25 @@
+{
+  "date": "2020-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just fill out these five pages of information, and we're good to go.",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cancel the order, and I'll find an easier vendor to work with."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In that case, all I need is your signature.",
+        "That worked?"
+      ]
+    }
+  ]
+}

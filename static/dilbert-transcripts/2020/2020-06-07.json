@@ -1,0 +1,54 @@
+{
+  "date": "2020-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wrote a software patch that will save three million dollars per year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I feel as if I deserve a bonus or a raise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When did you do it?",
+        "This week."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How long did we have the problem?",
+        "Five years."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then you should have fixed it five years ago."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Looks like a gigantic failure to me. You should be ashamed of yourself."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you try my strategy for keeping payroll expenses low?",
+        "Works like magic."
+      ]
+    }
+  ]
+}

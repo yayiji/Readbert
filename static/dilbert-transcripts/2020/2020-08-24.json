@@ -1,0 +1,25 @@
+{
+  "date": "2020-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the name of the month that comes after October?",
+        "November."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's what I thought. My wife is trying to gaslight me so she doesn't have to buy me a birthday present."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long has she been doing that?",
+        "I thought I was 26 years old until just now."
+      ]
+    }
+  ]
+}

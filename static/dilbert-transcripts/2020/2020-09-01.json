@@ -1,0 +1,26 @@
+{
+  "date": "2020-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So, maybe you can help?",
+        "I'll look into it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps you could write yourself a little note so you don't forget.",
+        "Nah."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I abandon all hope now or wait?",
+        "Depends how much you like surprises."
+      ]
+    }
+  ]
+}

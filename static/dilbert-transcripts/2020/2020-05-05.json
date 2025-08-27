@@ -1,0 +1,30 @@
+{
+  "date": "2020-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our security team says you have been sending our proprietary data to Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't prove that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I monitor all of your internet activities."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I monitor all of your internet activity, too.",
+        "Then let's forget we had this conversation."
+      ]
+    }
+  ]
+}

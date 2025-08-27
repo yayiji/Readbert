@@ -1,0 +1,25 @@
+{
+  "date": "2020-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What college did you go to?",
+        "I'd rather not say."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only people who answer that way are people who went to Harvard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do they teach you false modesty?",
+        "It was my major."
+      ]
+    }
+  ]
+}

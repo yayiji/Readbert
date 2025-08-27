@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I upgraded our A.I. prototype to make management decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slay the weak."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think that's a bug.",
+        "Hold on. Let's hear it out."
+      ]
+    }
+  ]
+}

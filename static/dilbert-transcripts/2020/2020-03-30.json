@@ -1,0 +1,25 @@
+{
+  "date": "2020-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And I plan to meet my targets by doing a variety of complicated things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What kind of things?",
+        "I'll send you a detailed list."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if you forget to send it?",
+        "With any luck, you'll forget you asked for it."
+      ]
+    }
+  ]
+}

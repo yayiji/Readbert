@@ -1,0 +1,54 @@
+{
+  "date": "2020-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I analyzed our only two options."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One option costs too much, and the other option is impossible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's do the impossible one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Perhaps you can explain your reasoning."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "According to you, we will fail either way."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But if we fail in a slow and inexpensive way, no one will even notice for months."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "With any luck, we'll have a corporate reorgani\n-zation that forever hides our gross incompetence."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Have you done this before?",
+        "Every six months."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute to help me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely. I'll be right back after I drop off something at my desk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll never see you again, will I?",
+        "Don't take the mystery out of it."
+      ]
+    }
+  ]
+}

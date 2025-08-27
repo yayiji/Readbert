@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to say something to show I'm paying attention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm concerned that the project could reduce employee engagement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does that even mean?",
+        "I wasn't expecting follow-up questions."
+      ]
+    }
+  ]
+}

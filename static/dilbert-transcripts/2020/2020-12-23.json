@@ -1,0 +1,25 @@
+{
+  "date": "2020-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can we set up a Zoom call later today?",
+        "Tap tap tap"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I prefer a voice-only call because I'm not wearing makeup at home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How hideous do you look without makeup?",
+        "I'm not sure, but FedEx asked me to stop answering the door in person."
+      ]
+    }
+  ]
+}

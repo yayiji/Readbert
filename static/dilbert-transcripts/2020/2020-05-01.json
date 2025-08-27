@@ -1,0 +1,25 @@
+{
+  "date": "2020-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I borrow your stapler?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not with your bare hands.",
+        "But I can wrap it in plastic and leave a hole for the staples to come out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you can just lend me a paper clip.",
+        "I'll throw it to you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did you cope with the loss of social contact during the pandemic?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Best weeks of my life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about you?",
+        "I didn't want to be the first to say it."
+      ]
+    }
+  ]
+}

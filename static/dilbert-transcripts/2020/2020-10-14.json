@@ -1,0 +1,27 @@
+{
+  "date": "2020-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't approve your plan until I know what the experts say."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can save us some time by talking to the people who bribe the experts.",
+        "I'll get the same answer, but faster."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ouch!",
+        "The truth hurts!",
+        "Take a deep breath.",
+        "It will pass."
+      ]
+    }
+  ]
+}

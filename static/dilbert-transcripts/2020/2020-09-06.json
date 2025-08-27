@@ -1,0 +1,54 @@
+{
+  "date": "2020-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why have you changed your opinion since last week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I haven't changed my opinion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it was different last week."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are we really debating which one of us is a better authority on my opinion?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You might be lying about not changing your opinion."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And you might be hallucinating or lying or just stupid."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You might be trying to gaslight me right now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm glad we can have these honest talks.",
+        "I hope you plunge to your death in a freak elevator accident."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Marketing is complaining that you're not using their ideas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because all of their ideas are moronic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I told them I fired you. Don't leave your cubicle or use any digital devices until this blows over."
+      ]
+    }
+  ]
+}

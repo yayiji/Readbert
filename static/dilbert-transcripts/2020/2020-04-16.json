@@ -1,0 +1,25 @@
+{
+  "date": "2020-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a doctor appointment.",
+        "What's wrong with you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's none of your stinkin' business! Stay out of my life!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Didn't you advise me to show interest in my employees?",
+        "I was pranking you. They hate that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2020-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've designed these over-ear headphones for maximum customer annoyance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The charging port is only on one side, so the user has a fifty percent chance of guessing wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the charger only fits if you put it in right-side up."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "To increase the frustration, I made the plug look the same on both sides."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Best of all, the plug is so poorly designed that half the time it doesn't seem to fit, even when you put it in correctly."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I made the headphones black, so you can't easily find the charger hole in low light."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ninety percent of users will be cursing us every time they try to recharge."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Customers won't know any of this until after they purchase.",
+        "Ship it."
+      ]
+    }
+  ]
+}

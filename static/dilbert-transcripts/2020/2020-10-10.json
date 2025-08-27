@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished my project in half the projected time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means I'm paying you twice as much as you deserve."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think it means that at all.",
+        "You look dumb arguing with math."
+      ]
+    }
+  ]
+}

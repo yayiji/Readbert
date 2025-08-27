@@ -1,0 +1,25 @@
+{
+  "date": "2020-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used to be a moron, but then I binge-watched seventeen Ted talks on YouTube."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I'm the smartest person in the room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we do something about this?",
+        "I don't know.",
+        "I've only watched six Ted talks."
+      ]
+    }
+  ]
+}

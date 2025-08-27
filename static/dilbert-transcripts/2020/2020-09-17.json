@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It has come to our attention that many of the words we use at work are racist and often sexist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, we can no longer refer to the main power shut-off as a \"master switch.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that the one on the server rack?",
+        "We call those \"shelves\" now."
+      ]
+    }
+  ]
+}

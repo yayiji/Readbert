@@ -1,0 +1,56 @@
+{
+  "date": "2020-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm promoting you to the position of \"master engineer.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm already a senior engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now you're a master engineer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "With all of the rights and responsibilities that come with it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Such as...?",
+        "Well, for example, you can do more kinds of work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "For more pay?",
+        "No, no, no!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're thinking of \"platinum level\" engineers. You're not one of those."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That comes next?!",
+        "Optimism is not an attractive quality."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, what have you accomplished since our planning meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The planning meeting was this morning. All I've done since then is take a mandatory training class on stapler safety."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But now you're fresh and ready for the fight?",
+        "Only if it's a stapler fight."
+      ]
+    }
+  ]
+}

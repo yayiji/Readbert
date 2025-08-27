@@ -1,0 +1,25 @@
+{
+  "date": "2020-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the B.R.A. on that?",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You look dumb in front of everyone for not knowing B.R.A. stands for business risk assessment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll probably mock you behind your back.",
+        "I don't think your teamwork exercises are working."
+      ]
+    }
+  ]
+}

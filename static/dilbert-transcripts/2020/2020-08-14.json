@@ -1,0 +1,29 @@
+{
+  "date": "2020-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you said we would be testing the software by today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nope. I never said anything remotely like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't let this go."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I didn't think you could."
+      ]
+    }
+  ]
+}

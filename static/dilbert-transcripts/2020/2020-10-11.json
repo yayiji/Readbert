@@ -1,0 +1,54 @@
+{
+  "date": "2020-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the new lab construction going?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm having some issues with the local building codes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They seem unnecessarily stringent."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, we have to guarantee no rain touches the roof."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why?",
+        "No one knows."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But if we donate to the mayor's campaign, the city will designate the roof a \"horizontal wall.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And then we can begin construction?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No, that's just the beginning of the false hope phase."
+      ]
+    }
+  ]
+}

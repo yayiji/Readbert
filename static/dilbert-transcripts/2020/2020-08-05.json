@@ -1,0 +1,23 @@
+{
+  "date": "2020-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Put some numbers on this decision so it looks as if we thought about it longer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you seriously telling me to do the analysis after the decision?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need help, talk to one of the experienced liars in the department."
+      ]
+    }
+  ]
+}

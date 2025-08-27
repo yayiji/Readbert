@@ -1,0 +1,23 @@
+{
+  "date": "2020-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Excuse me, I have to take a call from one of the other employers who also believes I work for them full time from home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't tell when he's joking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's probably for the best."
+      ]
+    }
+  ]
+}

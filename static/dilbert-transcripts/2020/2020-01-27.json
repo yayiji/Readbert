@@ -1,0 +1,25 @@
+{
+  "date": "2020-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't think your plan will work.",
+        "Pfft. Of course you don't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are trying to sabotage me because you are jealous of my success."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You read minds as well as you make plans.",
+        "Thank you. Apology accepted."
+      ]
+    }
+  ]
+}

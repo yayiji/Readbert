@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your project going?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was doing fine until a thick wave of stupidity swept over it and extinguished my spark of divinity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what will become of me.",
+        "I'll transfer you to marketing. They're all like that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get any work done at home because I keep hearing your footsteps all day!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excuse me for living. I'll try hovering from now on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you do that?",
+        "There's a lot you don't know about me."
+      ]
+    }
+  ]
+}

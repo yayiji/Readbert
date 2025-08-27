@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been highly productive since switching to medical-grade coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I finished all of my projects and did an excellent job on every one.",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So that stuff actually makes you more productive?",
+        "No, but it does make me lie better."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't finish the installation unless you buy our server upgrade."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means you lied when you bid for the job, because you did not include a server upgrade."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who's the fool now?",
+        "That would be me."
+      ]
+    }
+  ]
+}

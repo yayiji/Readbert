@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why aren't you working?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My brain is full."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll check back later.",
+        "I won't remember you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of my slide deck?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I reviewed all 26 of your slides, and I can't figure out what your point is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could put the point on slide 27.",
+        "Or just give up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2020-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need your help making a decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Jeff doesn't understand my product strategy because he isn't an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I don't understand any of his marketing nonsense."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's why we came to you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Because I understand both marketing and engineering?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, it's because you don't understand either one."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We didn't have a coin to flip, and your decisions are totally random, so..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe you could describe the situation.",
+        "I don't see how that helps."
+      ]
+    }
+  ]
+}

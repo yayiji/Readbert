@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You did great work on this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...which has the tragic effect of making my work look less good in comparison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will you be punishing me for my good work?",
+        "Yes, but think of it as you not being selfish."
+      ]
+    }
+  ]
+}

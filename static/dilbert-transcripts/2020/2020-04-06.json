@@ -1,0 +1,25 @@
+{
+  "date": "2020-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My genius alone will not be enough to fix the problems at this company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This looks like a five-dogbert situation.",
+        "That is why I arranged to clone myself five times."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the extra clone for?",
+        "That one takes the blame."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2020-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I work every day, and yet I am not feeling completely self-actualized."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that mean?",
+        "I don't know. It's something I heard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are we even talking about it?",
+        "Because the more I talk, the less I have to listen to you."
+      ]
+    }
+  ]
+}

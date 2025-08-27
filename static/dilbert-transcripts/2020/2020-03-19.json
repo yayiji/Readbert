@@ -1,0 +1,24 @@
+{
+  "date": "2020-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a futurist to predict where our industry is headed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't need to be here. You might want to enjoy the time you have left."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "For the rest of you, I see hard work with no rewards."
+      ]
+    }
+  ]
+}

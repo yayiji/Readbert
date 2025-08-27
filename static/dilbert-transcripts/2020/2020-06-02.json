@@ -1,0 +1,25 @@
+{
+  "date": "2020-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think we should seriously consider ending the face mask policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know I'm in a high-risk group, and you are in a low-risk group.",
+        "Are you trying to assassinate me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't prove that.",
+        "I was hoping for something closer to a denial."
+      ]
+    }
+  ]
+}

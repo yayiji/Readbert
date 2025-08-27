@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did you accomplish this week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I helped several of my co-workers solve critical problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if I asked them to validate your claim?",
+        "They're all huge liars."
+      ]
+    }
+  ]
+}

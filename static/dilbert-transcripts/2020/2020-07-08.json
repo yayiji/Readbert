@@ -1,0 +1,26 @@
+{
+  "date": "2020-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Put this on a pie chart instead of a line graph."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that's stupid.",
+        "I'm not going to do that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh.",
+        "Okay.",
+        "Why is this working?"
+      ]
+    }
+  ]
+}

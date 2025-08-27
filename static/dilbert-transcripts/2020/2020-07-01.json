@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to do contact tracing to determine who else you might have infected with cooties."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many women have you had physical contact with in the past two weeks?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd rather not say.",
+        "I'll put you down for zero."
+      ]
+    }
+  ]
+}

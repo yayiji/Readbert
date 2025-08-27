@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You argue with everything because you just have to be right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can you tell the difference between someone who \"has to be right\" versus someone who is right and you need therapy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're doing it again.",
+        "Or am I?"
+      ]
+    }
+  ]
+}

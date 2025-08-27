@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to do spring cleaning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Delete any data on our servers that make us look like white-collar criminals or drunken baboons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All that leaves is our birthday list.",
+        "Torch that too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2020-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What would you say are your weaknesses?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a deep disrespect for authority."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But... you don't act on it, right?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's not take the surprise out of it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new hobby is rewriting Shakespeare's plays so the sentences make sense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He had some good plot ideas, but I think he was drunk when he wrote the dialogue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I admire your confidence.",
+        "Where are you, Romeo?"
+      ]
+    }
+  ]
+}

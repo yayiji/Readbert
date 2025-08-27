@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late.",
+        "My alarm didn't go off because my town lost power and my phone battery died."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And we lost power because the state closed down the last coal power plant to reduce CO2 emissions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So really, the fault lies with climate change, not me.",
+        "Slow clap."
+      ]
+    }
+  ]
+}

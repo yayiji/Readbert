@@ -1,0 +1,26 @@
+{
+  "date": "2020-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to practice \"social distancing\" until the virus risk has passed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already do that.",
+        "I haven't hugged anyone since the eighties."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good job.",
+        "High-five.",
+        "Back off."
+      ]
+    }
+  ]
+}

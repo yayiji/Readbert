@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't help noticing you are having a heated discussion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Watch me use my conflict resolution skills to lower the temperature."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, what were you idiots yammering about?",
+        "Solid start."
+      ]
+    }
+  ]
+}

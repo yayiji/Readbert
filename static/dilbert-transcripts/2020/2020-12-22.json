@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You are all required to complete a class in ethics."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't that make us the only ethical organization in our industry and create a competitive disadvantage that leads to our demise?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop your worrying.",
+        "The class is required, but I'm not expecting any of it to stick."
+      ]
+    }
+  ]
+}

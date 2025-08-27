@@ -1,0 +1,59 @@
+{
+  "date": "2020-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I discovered a way to make time stand still."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That isn't possible.",
+        "I'll prove it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just need to find something on my phone and show it to you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Looking...",
+        "Looking..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Here it is!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wait... no, that isn't it.",
+        "Looking...",
+        "Looking..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! I'm so bored watching you look through your phone!!! Time is standing still!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You win...",
+        "And I hate you.",
+        "Totally worth it."
+      ]
+    }
+  ]
+}

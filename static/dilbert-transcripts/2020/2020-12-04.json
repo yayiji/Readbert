@@ -1,0 +1,23 @@
+{
+  "date": "2020-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ask my assistant to put it on my calendar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why can't you just put it on your calendar right now?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm more of a thought leader. I don't like to work with my hands."
+      ]
+    }
+  ]
+}

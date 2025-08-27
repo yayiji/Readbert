@@ -1,0 +1,55 @@
+{
+  "date": "2020-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'm assigning you to the network redesign project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What phase is that project in?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it in the initial stage, in which everyone is feeling positive and optimistic?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Or is it in the middle phase, in which everyone is grinding away and hating the other team members?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's in the death spiral phase."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Everyone is trying to assign blame to someone they already hate."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "They requested that I add you to the team."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Um...",
+        "Okay,",
+        "Sure."
+      ]
+    }
+  ]
+}

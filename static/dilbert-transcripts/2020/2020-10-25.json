@@ -1,0 +1,54 @@
+{
+  "date": "2020-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you instructed, I refused to give in to our biggest customer's demands and they canceled all of their orders."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't tell you to do that, you fool!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You told me to do exactly that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I never told you to lose our biggest customer!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You told me to refuse their demands."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I didn't tell you to lose the customer!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's the same thing!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The important thing here is that it's your fault.",
+        "I get it!!!"
+      ]
+    }
+  ]
+}

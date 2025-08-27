@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Um, Wally. Do you know your camera is on?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally!!! No!!! Gaaa!!! I can't unsee it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your Zoom call?",
+        "I found a way to shorten it by an hour."
+      ]
+    }
+  ]
+}

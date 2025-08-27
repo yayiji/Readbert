@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new hardware you bought isn't compatible with our network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know, but the price was excellent, and they have a great reliability record."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't even know what conversation I'm in right now.",
+        "The extended warranty is second to none."
+      ]
+    }
+  ]
+}

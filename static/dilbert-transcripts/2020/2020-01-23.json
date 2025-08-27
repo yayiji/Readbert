@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I donated to a few political campaigns, and coincidentally a law changed that I wanted changed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now it's legal for us to sell drones that are armed with machine guns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never had less faith in my government.",
+        "I also got us a tax break."
+      ]
+    }
+  ]
+}

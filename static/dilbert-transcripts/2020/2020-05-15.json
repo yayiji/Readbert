@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like working from home. I can do eight hours of work in one hour because no one is interrupting me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm trying to work here!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I tell you about my bowel problems?",
+        "Go away!"
+      ]
+    }
+  ]
+}

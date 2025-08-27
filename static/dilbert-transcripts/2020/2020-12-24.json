@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm making a fortune working from home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Three different employers think I work only for them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you do three jobs at the same time?",
+        "It comes down to managing other people's expectations."
+      ]
+    }
+  ]
+}

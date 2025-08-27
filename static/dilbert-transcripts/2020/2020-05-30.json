@@ -1,0 +1,25 @@
+{
+  "date": "2020-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No face mask?",
+        "I have antibodies for the virus."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm pretty sure I had the virus last January when I had a throat tickle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder why virus test kits exist when we can just ask people if they had it.",
+        "I was wondering the same."
+      ]
+    }
+  ]
+}

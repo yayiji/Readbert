@@ -1,0 +1,26 @@
+{
+  "date": "2020-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a pragmatist.",
+        "I like plans that are practical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not me.",
+        "I like plans that can't be implemented."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Way less work.",
+        "My way sounds stupid now."
+      ]
+    }
+  ]
+}

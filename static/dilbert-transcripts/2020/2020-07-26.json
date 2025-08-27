@@ -1,0 +1,55 @@
+{
+  "date": "2020-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to manage with data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do we have any useful data?",
+        "Not really."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... actually, we need to get data before we can use data."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We don't have time for your analysis paralysis!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I think you're taking both sides of the same argument."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You insist on using data, but you don't want to wait for data."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's called leadership. You wouldn't understand."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Oh, I think I do.",
+        "Stop being such a mask hole."
+      ]
+    }
+  ]
+}

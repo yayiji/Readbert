@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Headquarters has released a new list of things you are not supposed to say when visiting our Elbonian factory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At the top of the list, never say \"Glafalawah\" to an Elbonian."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because it means something naughty?",
+        "Because it isn't a word."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't need a mask for a zoom call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you back up that claim with a randomized clinical study?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've noticed it's a lot easier to hate people lately."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The entire management team has contracted coronavirus and is quarantined."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They asked me to tell you to stop working, because without their wisdom, you idiots will ruin everything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Any questions?",
+        "No, I think you covered the main themes."
+      ]
+    }
+  ]
+}

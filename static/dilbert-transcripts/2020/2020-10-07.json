@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to thank everyone who made the project a huge success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Except for Ted, who made everything twice as hard as it needed to be."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can hear you.",
+        "You're slowing us down again, Ted."
+      ]
+    }
+  ]
+}

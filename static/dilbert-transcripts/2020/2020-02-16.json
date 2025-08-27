@@ -1,0 +1,54 @@
+{
+  "date": "2020-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's hard to find qualified engineers in this job market, so I'm casting a wider net."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It says here you have experience as a mortuary assistant and a baker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not exactly like being an engineer, but I want to stay open-minded."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell me about a time you had to deal with failure and what you did about it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, one time I totally botched an embalming."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So I used a chain-saw to reduce the corpse to flushable parts."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I told the family he came back to life and ran away."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ookay. And why did you become a baker?",
+        "So I could eat my mistakes."
+      ]
+    }
+  ]
+}

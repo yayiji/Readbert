@@ -1,0 +1,56 @@
+{
+  "date": "2020-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That meeting ran long, so now I only have ten minutes before the next one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm supposed to bring a complete technical report, and I haven't even started it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate this stupid job!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I hate my boss!",
+        "I hate my stupid co-workers!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't care about anything anymore!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll just angrily slap together a bunch of nonsense and call it good.",
+        "Grrrrrrr!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is your best report ever.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Today I learned a dangerous lesson about reality."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did your parents name you Karma?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have parents. I am Karma."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I suppose we have lots to discuss.",
+        "Let's start with volume one."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all night to finish the presentation you need for this morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, that meeting got canceled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When exactly did you hear of that?",
+        "It won't make you happier if I tell you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it lying if I leave out important context from my project updates?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's called \"business lying,\" and it is totally acceptable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But it makes me feel sick.",
+        "That's how you know you are doing it right."
+      ]
+    }
+  ]
+}

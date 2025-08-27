@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have nothing to fear from the coronavirus but fear itself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously, the fear will increase your cortisol levels and depress your immune system so the virus can finish you off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm scared.",
+        "Dead man walking!"
+      ]
+    }
+  ]
+}

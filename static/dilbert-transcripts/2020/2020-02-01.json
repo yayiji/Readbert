@@ -1,0 +1,23 @@
+{
+  "date": "2020-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you need any help at all, just let me know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need a lot of help. Be here at 8 am and plan to work late."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is awkward, but I didn't mean a word of what I said."
+      ]
+    }
+  ]
+}

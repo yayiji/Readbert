@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I want you to know that I hear you and I value you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's terrific.",
+        "Maybe you could stop talking to me in that super-creepy and condescending way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, queen.",
+        "Who broke you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I give you some helpful advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Judging by the quality of your life, I'd say you probably can't."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Leave my personal life out of it.",
+        "Okay, let's talk about the putrid quality of your work."
+      ]
+    }
+  ]
+}

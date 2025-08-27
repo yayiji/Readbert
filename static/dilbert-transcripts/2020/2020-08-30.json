@@ -1,0 +1,54 @@
+{
+  "date": "2020-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government is threatening to regulate us like a monopoly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are we not a monopoly?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We are simply a company that makes an essential product for modern life, and we have no real competition."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That sounds like a monopoly."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, we are not a monopoly because other companies could compete with us if they wanted."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And if they tried?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "As soon as they got some traction, we'd buy them and shut them down."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So... they would fail every time?",
+        "But they could try."
+      ]
+    }
+  ]
+}

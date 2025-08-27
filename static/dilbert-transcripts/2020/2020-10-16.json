@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Protesters have surrounded our building."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry. I put a supportive sign in the lobby so they'll know we are on their side."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Update: Our nine lower floors are on fire.",
+        "Maybe I should have used a bigger sign."
+      ]
+    }
+  ]
+}

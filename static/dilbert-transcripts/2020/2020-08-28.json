@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any suggestions for improving the app?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but you are far too dumb to implement any of them, so I won't bother."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least tell me where the problems are.",
+        "The big ones are all in this big bag of skin."
+      ]
+    }
+  ]
+}

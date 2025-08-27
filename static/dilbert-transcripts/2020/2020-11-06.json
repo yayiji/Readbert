@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've had a lot of side effects since I switched to medical-grade coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "On the plus side, I can see through plywood, and I no longer need a tool to open jars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You couldn't open jars before?",
+        "Let's not dwell on that point."
+      ]
+    }
+  ]
+}

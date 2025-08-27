@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't tell the difference between good ideas and bad ones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are smart people on both sides of every idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What rational process do you use to determine who is right?",
+        "I label people who disagree with me \"idiots\" and call it a day."
+      ]
+    }
+  ]
+}

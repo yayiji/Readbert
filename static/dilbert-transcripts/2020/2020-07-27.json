@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been working here for nine years, and you haven't given me a single raise!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't even know you worked for me.",
+        "Obviously, you didn't do anything useful, or I would have noticed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, in that case, I'm glad I didn't give my name."
+      ]
+    }
+  ]
+}

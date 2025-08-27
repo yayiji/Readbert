@@ -1,0 +1,54 @@
+{
+  "date": "2020-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to reduce our expense budget to 40% of our capital budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do we need to do that?",
+        "Because the ratio is too high."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying we can't afford it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No. I'm saying the ratio is too high."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, but by what standard is it \"too high\"?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "By historical standards. It has never been this high."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't think we want to start using an irrelevant ratio to manage the department."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "To be fair, this is just the first time you noticed."
+      ]
+    }
+  ]
+}

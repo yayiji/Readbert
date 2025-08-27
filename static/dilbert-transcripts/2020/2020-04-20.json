@@ -1,0 +1,25 @@
+{
+  "date": "2020-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry, I no longer shake hands."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can practically see the viral load on that filthy paw of yours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't \"see\" a virus.",
+        "Hee-hee!",
+        "That's how we getcha."
+      ]
+    }
+  ]
+}

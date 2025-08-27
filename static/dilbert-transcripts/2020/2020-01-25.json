@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This data can mean only one thing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, it can mean any one of about seventeen things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why can I think of only one?",
+        "Please don't make me answer that."
+      ]
+    }
+  ]
+}

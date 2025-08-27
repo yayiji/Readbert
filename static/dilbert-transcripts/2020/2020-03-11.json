@@ -1,0 +1,23 @@
+{
+  "date": "2020-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The best part about my new job managing the cloud is that I get to laugh at everyone's personal information."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not supposed to be looking at anyone's personal data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm fairly sure it's legal if I only do it recreationally."
+      ]
+    }
+  ]
+}
