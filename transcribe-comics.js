@@ -262,8 +262,7 @@ async function transcribeComics(year) {
         skipped++;
         console.log(`⏭️  Skipped ${comic.date} (already exists)`);
         console.log(
-          `📊 Progress: ${processed + skipped + errors}/${
-            comics.length
+          `📊 Progress: ${processed + skipped + errors}/${comics.length
           } (${processed} new, ${skipped} skipped, ${errors} errors)\n`
         );
         continue;
@@ -283,8 +282,7 @@ async function transcribeComics(year) {
         }
 
         console.log(
-          `📊 Progress: ${processed + skipped + errors}/${
-            comics.length
+          `📊 Progress: ${processed + skipped + errors}/${comics.length
           } (${processed} new, ${skipped} skipped, ${errors} errors)\n`
         );
 
@@ -296,8 +294,7 @@ async function transcribeComics(year) {
         errors++;
         console.error(`❌ Error processing ${comic.date}: ${error.message}`);
         console.log(
-          `📊 Progress: ${processed + skipped + errors}/${
-            comics.length
+          `📊 Progress: ${processed + skipped + errors}/${comics.length
           } (${processed} new, ${skipped} skipped, ${errors} errors)\n`
         );
       }
@@ -368,10 +365,12 @@ const args = process.argv.slice(2);
 
 if (args.length === 0) {
   // Interactive mode
-  console.log("🎯 Dilbert Bulk Transcription (OpenRouter Gemini)");
-  console.log("Usage examples:");
-  console.log("  node transcribe-comics.js 2023");
-  console.log("  node transcribe-comics.js 1989 1995");
+  console.log(`
+Dilbert Comics Bulk Transcription 🎯 
+Usage examples:
+  node transcribe-comics.js 2023          # Single year
+  node transcribe-comics.js 1989 1995     # Multiple years: 1989 to 1995
+`);
   process.exit(0);
 } else if (args.length === 1) {
   // Transcribe single year
@@ -402,12 +401,9 @@ if (args.length === 0) {
   transcribeMultipleYears(startYear, endYear);
 } else {
   console.error("❌ Invalid arguments.");
-  console.log("Usage:");
-  console.log(
-    "  node transcribe-comics.js [year]                    # Single year"
-  );
-  console.log(
-    "  node transcribe-comics.js [start-year] [end-year]   # Multiple years"
-  );
+  console.log(`Usage:
+  node transcribe-comics.js [year]                    # Single year
+  node transcribe-comics.js [start-year] [end-year]   # Multiple years
+  `);
   process.exit(1);
 }
