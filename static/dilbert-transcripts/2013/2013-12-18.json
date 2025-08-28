@@ -1,0 +1,23 @@
+{
+  "date": "2013-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is that a picture of your kids? No personal items are allowed in cubicles!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not personal. My kids are only in it for the money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's more of a gray area than you'd think."
+      ]
+    }
+  ]
+}

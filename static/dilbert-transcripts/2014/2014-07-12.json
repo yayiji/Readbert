@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever feel embarrassed that you dress the same way every day?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you ever feel embarrassed that you don't understand the importance of routine in managing your limited reserve of willpower?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I made 75 fashion decisions before breakfast.",
+        "I wrote an app."
+      ]
+    }
+  ]
+}

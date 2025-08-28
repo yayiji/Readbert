@@ -1,0 +1,25 @@
+{
+  "date": "2013-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is one of the engineers that works at the start-up we purchased."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We bought the company just to get the engineers.",
+        "Basically, each engineer cost us a million dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm so under-paid!",
+        "That money didn't go to me!"
+      ]
+    }
+  ]
+}

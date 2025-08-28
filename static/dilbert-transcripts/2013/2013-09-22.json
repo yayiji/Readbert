@@ -1,0 +1,53 @@
+{
+  "date": "2013-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm panicked about my presentation tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Relax. What's the worst thing that could happen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I could embarrass myself in a career-ending way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh. I didn't think about that one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It might be so bad that you can't even get a recommendation for a future job."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then you'd have an emotional meltdown followed by substance abuse, untreated health issues and a lonely death."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And it could all happen because of something as trivial as a typo on one of your slides."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I guess I can add \"comforting\" to my list of things I'm not good at."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show that people who exercise are healthier."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because people who are in poor health don't exercise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why does it seem as if you ruin every meeting?",
+        "Is it because I only attend the ones that are stupid?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2014-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Plantkiller, do you have the data I asked for?",
+        "Plantkiller? Who calls me that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everyone does.",
+        "Your stories are so boring that you kill all office plants within earshot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me a hand signal when you're done.",
+        "This reminds me of the time I took the stairs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2013-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for thought diversity in my hiring.",
+        "That's a thing now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really?",
+        "That's a dumb thing.",
+        "All you end up with is a bunch of people who can't agree."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you like thought diversity now?",
+        "That fad didn't last long."
+      ]
+    }
+  ]
+}

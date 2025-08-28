@@ -1,0 +1,25 @@
+{
+  "date": "2013-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, the secret to success is making your boss look good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if my boss looks like two hairballs on an infected bladder?",
+        "There's no way to make that look good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not off to a strong start.",
+        "Please tell me there's a plan B."
+      ]
+    }
+  ]
+}

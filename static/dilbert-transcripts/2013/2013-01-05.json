@@ -1,0 +1,23 @@
+{
+  "date": "2013-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to help prepare me for my meeting tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write up some answers to the questions we could never anticipate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wouldn't expect much out of my first draft."
+      ]
+    }
+  ]
+}

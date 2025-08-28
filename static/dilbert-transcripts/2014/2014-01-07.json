@@ -1,0 +1,29 @@
+{
+  "date": "2014-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The iron sculpture in our lobby fell off its base and crushed a security guard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And that's where we get the word \"ironic.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It happened ten minutes ago."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh, so it's \"too soon\"?"
+      ]
+    }
+  ]
+}

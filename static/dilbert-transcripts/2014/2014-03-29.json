@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, your good work has saved the company over a billion dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I can't give you a raise because you once had a personal item on your desk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How are those things equal?!!",
+        "And here comes the insubordination."
+      ]
+    }
+  ]
+}

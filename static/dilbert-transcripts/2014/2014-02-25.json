@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our goal is to ship a million units this quarter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do we have any goals that involve making customers happy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm talking about our goals, not their goals.",
+        "Totally different."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2014-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have a bad attitude lately.",
+        "You made me work 70 hours this week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you want people who work for free and are happy about it, hire the insane."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I tried that, but I got the wrong kind.",
+        "I'll whistle a happy tune if you go away.",
+        "Tweet"
+      ]
+    }
+  ]
+}

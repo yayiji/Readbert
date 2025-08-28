@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You attend all of my project meetings but you never add value."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm more of a big idea guy - a conceptualist, if you will."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, what's your big idea?",
+        "Okay, here's where my system breaks down."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet our new graphic designer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I had your job, I would secretly sub it out to strangers on the internet and pay them 5% of my salary while I did nothing all day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops. Sorry.",
+        "I didn't know you were already there."
+      ]
+    }
+  ]
+}

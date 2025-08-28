@@ -1,0 +1,54 @@
+{
+  "date": "2014-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to create a clever video about our product for the internet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But make sure it goes viral or you're a total failure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one can predict what goes viral."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Marketing experts fail at this sort of thing 99% of the time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm an engineer with no relevant skills for this assignment."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you could succeed if you had more passion."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! I need a rational boss, not passion!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's sort of a loser attitude.",
+        "Hey, my video is going viral!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't open the document you sent with your project update."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try erasing your hard disk and reinstalling the operating system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess I don't need it that badly.",
+        "After all the work I put into making that document?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2014-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We announced huge losses, but analysts thought it would be even worse, so our stock went up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm using a similar system to get a big raise. For years I've been lowering everyone's expectations of my performance.",
+        "Next I'll..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I made a phone call today.",
+        "Employee of the year!"
+      ]
+    }
+  ]
+}

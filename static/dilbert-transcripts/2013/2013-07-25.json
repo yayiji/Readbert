@@ -1,0 +1,25 @@
+{
+  "date": "2013-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're the first employee in company history to fail the online ethics course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I protest the grading system!",
+        "Ethics are subjective. There are no right answers!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You said you would kill a co-worker if you knew you wouldn't get caught.",
+        "It was hard to know what answer they were looking for."
+      ]
+    }
+  ]
+}

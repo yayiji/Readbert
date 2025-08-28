@@ -1,0 +1,52 @@
+{
+  "date": "2013-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get one of my team members to do any work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm hoping you can talk to his boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't want to make waves."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's your job to make waves!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "They pay you to make waves, you worthless pile of stupidity!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oops."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I heard you made waves. How'd that work out?",
+        "Surprisingly bad."
+      ]
+    }
+  ]
+}

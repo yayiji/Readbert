@@ -1,0 +1,25 @@
+{
+  "date": "2014-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This report says you slapped our CEO senseless after he said the key to success is following your instinct."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was following my instinct.",
+        "I was also being passionate, engaged and creative."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, the things you say actually mean stuff.",
+        "How was I supposed to know?"
+      ]
+    }
+  ]
+}

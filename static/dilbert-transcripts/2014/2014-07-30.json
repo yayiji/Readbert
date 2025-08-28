@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We bought a Silicon Valley start-up just to get the engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Be gentle with them.",
+        "They're socially awkward and they haven't seen a woman in four years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who's up for a debate about scalable architecture followed by some spawning?"
+      ]
+    }
+  ]
+}

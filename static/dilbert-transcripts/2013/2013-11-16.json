@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our competitors have a technology for reading brain waves at a distance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This shielded helmet will prevent them from reading the company secrets in your mind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You owe me $20.",
+        "The bet was that he has to wear the trash can for a week."
+      ]
+    }
+  ]
+}

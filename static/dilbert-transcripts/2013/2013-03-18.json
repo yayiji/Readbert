@@ -1,0 +1,25 @@
+{
+  "date": "2013-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I booked your flight to the polluted capital of Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Their smog has hardened into a solid.",
+        "Use this machete to hack a tunnel through it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you have an asthma attack, the treatment is the same as for a sea urchin sting.",
+        "You'll need to urinate on your lungs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2013-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the design according to my specs?",
+        "Yup."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hypothetically, if I had forgotten to mention several features, would that be a problem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And let's say the deadline is still the same.",
+        "No problem.",
+        "I always plan my schedule around your incompetence."
+      ]
+    }
+  ]
+}

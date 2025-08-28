@@ -1,0 +1,26 @@
+{
+  "date": "2014-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an idea for a start-up.",
+        "You're doomed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe the first idea won't work, but I'll keep pivoting until something does.",
+        "You're doomed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The most important thing is that I need to keep my optimism and enthusiasm high.",
+        "You're doomed."
+      ]
+    }
+  ]
+}

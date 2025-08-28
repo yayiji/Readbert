@@ -1,0 +1,27 @@
+{
+  "date": "2013-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for the Elbonian embassy.",
+        "You found it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's just me and this card table.",
+        "If you need asylum, pull up a chair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has anyone ever called you an \"embacile\"?",
+        "That's clever.",
+        "I like it."
+      ]
+    }
+  ]
+}

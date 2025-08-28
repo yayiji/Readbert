@@ -1,0 +1,55 @@
+{
+  "date": "2013-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for an employee who is creative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's me. I have ADHD and dyslexia. I'm also bipolar and schizophrenic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Checking the internet..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well... that's surprising."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Each of his conditions is highly correlated with creativity."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Are you a normal?",
+        "I... think so."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wow. I feel sorry for you. It must be hard going through life without any creativity."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's happening here?",
+        "It might be some sort of creative thing."
+      ]
+    }
+  ]
+}

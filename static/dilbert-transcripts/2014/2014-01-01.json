@@ -1,0 +1,25 @@
+{
+  "date": "2014-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In today's news, people all over the world continued to act like idiots.",
+        "Dogbert news network"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Most of the time it didn't turn out well.",
+        "Dogbert news network"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For details, look in your mirror."
+      ]
+    }
+  ]
+}

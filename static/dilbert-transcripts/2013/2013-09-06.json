@@ -1,0 +1,24 @@
+{
+  "date": "2013-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We lost all of our company data and our backups, too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hacked into our government's secret database where they keep records of everything we say or do and got it all back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel as if I should be doing something now.",
+        "Nah. Everything is working fine."
+      ]
+    }
+  ]
+}

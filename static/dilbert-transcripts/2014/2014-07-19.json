@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The secret to success is keeping things simple."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mean simple in an absolute sense or relative to the alternatives?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It depends on the situation.",
+        "Sounds complicated."
+      ]
+    }
+  ]
+}

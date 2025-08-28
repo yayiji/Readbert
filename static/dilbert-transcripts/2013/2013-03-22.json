@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management experts say fat leaders are viewed less favorably than athletic ones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I didn't order any donuts for your meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or did you just forget to do it?",
+        "I can't take you seriously looking like that."
+      ]
+    }
+  ]
+}

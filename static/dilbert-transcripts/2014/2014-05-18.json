@@ -1,0 +1,56 @@
+{
+  "date": "2014-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You never answered my I.M.",
+        "You should have emailed me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I did. You didn't answer my email."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it was so important, you should have texted me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You didn't answer my texts.",
+        "You have to text my personal phone."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You didn't answer those texts either."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Had it been important, you would have called me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I did. You don't answer your phone and you don't return calls."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So here I am.",
+        "It's premature to get your hopes up."
+      ]
+    }
+  ]
+}

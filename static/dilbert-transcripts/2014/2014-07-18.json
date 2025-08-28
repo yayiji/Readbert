@@ -1,0 +1,29 @@
+{
+  "date": "2014-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you made a billion dollars, would you stop working?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How would I make a billion dollars?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You would have to start working."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It seems sort of self-defeating."
+      ]
+    }
+  ]
+}

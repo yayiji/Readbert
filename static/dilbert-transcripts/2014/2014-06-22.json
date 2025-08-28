@@ -1,0 +1,54 @@
+{
+  "date": "2014-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Change your recommendation to the opposite of what you wrote and send it to me for approval."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do I need approval for the thing you just approved?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want you to feel some ownership."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I already feel that you own me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I mean that I want you to feel ownership of the recommendation."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How can I feel ownership of your ignorant decisions?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "By getting my approval for them."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can't be more clear.",
+        "At least we agree on that."
+      ]
+    }
+  ]
+}

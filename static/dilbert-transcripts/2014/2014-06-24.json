@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So... what do you like to do in your spare time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... I visit orphanages and give back rubs to babies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should have practiced for that question.",
+        "And I bike there because I'm so green."
+      ]
+    }
+  ]
+}

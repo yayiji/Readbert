@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert says the government wants me to film my colonoscopy and give them the video so they can check for terrorists."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That makes perfect sense. Terrorists come in all sizes and they like to hide in caves."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seems like a violation of my privacy.",
+        "Whose side are you on?"
+      ]
+    }
+  ]
+}

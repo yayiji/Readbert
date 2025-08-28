@@ -1,0 +1,23 @@
+{
+  "date": "2014-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Ted, how do you like our new 3-D immersive goggles you've been testing for two weeks?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some people say the experience is so good that you forget to eat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're dead, aren't you..."
+      ]
+    }
+  ]
+}

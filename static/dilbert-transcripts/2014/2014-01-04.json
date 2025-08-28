@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought you some muffins so I won't need to watch my weight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I fatten up the people around me, I'll look good even if I gain a few pounds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Won't that make you look mean?",
+        "In phase two, I'll also make you angrier than me."
+      ]
+    }
+  ]
+}

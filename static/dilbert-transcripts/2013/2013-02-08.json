@@ -1,0 +1,25 @@
+{
+  "date": "2013-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This isn't what I wanted.",
+        "I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But given your unclear email and your unwillingness to answer follow-up questions, I decided to do whatever entertained me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do we have a problem here?",
+        "No, this totally works for me."
+      ]
+    }
+  ]
+}

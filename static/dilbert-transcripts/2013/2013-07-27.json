@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your brain scan shows tremendous management potential."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The part of your brain that would normally control ethics is filled with some sort of warm, brown liquid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It appears that you speed-evolved part of your brain into a coffee reservoir.",
+        "People think I don't have a plan."
+      ]
+    }
+  ]
+}

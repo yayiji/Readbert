@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you need me, I'll be in the cloud fixing a software issue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no cell coverage in the cloud, so it might seem to you as if I am at home doing nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need me, I'll be at home doing nothing.",
+        "Why would anyone need you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2013-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to be proactive and push back my deliverable deadline by a year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not being proactive. That's the opposite of proactive!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You said you want employees to be empowered and now you're criticizing my decision."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's just great."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now my morale is bad, too!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't be proactive.",
+        "I can't be empowered.",
+        "And now I can't even be happy!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You've bungled everything! You're a big bungler!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Get out of my office.",
+        "Well, say goodbye to the open-door policy!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our engineers built a nuclear rocket to blast an incoming asteroid out of its collision course with Earth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we didn't use the approved corporate font on the nose cone and we missed the launch window trying to erase it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now what are we going to do with a nuclear rocket?",
+        "Well, the moon has always been a jerk."
+      ]
+    }
+  ]
+}

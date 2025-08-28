@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hold on, I have a text message that is probably more important than you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will demonstrate my power over you by handling a text message while you sit there, waiting for a pellet of my attention."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop texting me!",
+        "Mmm... pellet."
+      ]
+    }
+  ]
+}

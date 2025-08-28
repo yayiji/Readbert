@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm practicing my urgent-looking walk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This walk says I'm working on stuff that is so important I can't risk wasting five seconds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who is that magnificent creature?",
+        "That man has someplace to be!"
+      ]
+    }
+  ]
+}

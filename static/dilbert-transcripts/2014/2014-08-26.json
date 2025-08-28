@@ -1,0 +1,23 @@
+{
+  "date": "2014-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say you need a great team to get great results."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're going to prove them wrong because our team is an inexperienced intern, a useless guy, a corpse in an exoskeleton and me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That conflicts with my plan to prove the experts right."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2013-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I programmed our robot to make medical diagnoses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It can scan your body using its neutrino sensor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Robot, please demonstrate."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Dead man walking!",
+        "What?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your brain is the size of a dried apricot."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your heart is more cheeseburger than human tissue. You will be dead in eleven days, six hours, and nineteen minutes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why did you program me to hate people?",
+        "It was easier than inventing a neutrino sensor."
+      ]
+    }
+  ]
+}

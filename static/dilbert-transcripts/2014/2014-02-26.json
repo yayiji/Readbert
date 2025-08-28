@@ -1,0 +1,25 @@
+{
+  "date": "2014-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I want you to give a speech to ten thousand conference attendees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be great. Don't get stressed.",
+        "Slap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I said, \"Don't.\"",
+        "Pow!"
+      ]
+    }
+  ]
+}

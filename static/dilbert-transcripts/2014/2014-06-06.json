@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So... how's your job going?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like being buried alive in a burlap bag full of starving rats."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'm back to not caring.",
+        "How long will it take you to fix everything?"
+      ]
+    }
+  ]
+}

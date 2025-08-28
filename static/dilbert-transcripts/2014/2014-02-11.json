@@ -1,0 +1,26 @@
+{
+  "date": "2014-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Corporate security",
+        "If a shadowy figure offers to buy company secrets, what should you do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much is he offering?",
+        "That shouldn't matter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can I compare alternatives?",
+        "Would there be any repeat business in this scenario?"
+      ]
+    }
+  ]
+}

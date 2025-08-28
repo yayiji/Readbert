@@ -1,0 +1,23 @@
+{
+  "date": "2013-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new product is cannibalizing our old product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Either we have a brilliant strategy for staving off competition, or our CEO is the victim of a bully."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha! Why don't you stop cannibalizing yourself?"
+      ]
+    }
+  ]
+}

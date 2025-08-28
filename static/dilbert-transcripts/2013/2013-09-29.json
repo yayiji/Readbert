@@ -1,0 +1,55 @@
+{
+  "date": "2013-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, you talked me into buying the deluxe edition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have that one in stock, but I could call around to our other stores."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technically, that means this is not actually a store."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're more like online shopping but with a terrible user interface."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Watch me buy that same item with my phone while you stand there being obsolete."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And... done."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Did they try to sell you an unnecessary warranty extension?",
+        "No."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yes! I still have a purpose!",
+        "Here's my digital receipt."
+      ]
+    }
+  ]
+}

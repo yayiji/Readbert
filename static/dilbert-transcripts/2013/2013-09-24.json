@@ -1,0 +1,25 @@
+{
+  "date": "2013-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The ROI for executive coaching is 9,000%.",
+        "Wow! That's a lot!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I need a coach who won't ask me to do anything differently."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wasn't planning to show up for our meetings.",
+        "Perfect. How much do I owe you for today?"
+      ]
+    }
+  ]
+}

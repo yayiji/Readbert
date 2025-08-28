@@ -1,0 +1,28 @@
+{
+  "date": "2013-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alan has been out of the workforce for a long time.",
+        "I need you to ease him back in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have a binder of the company policies?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's in the cloud."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    }
+  ]
+}

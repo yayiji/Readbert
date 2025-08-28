@@ -1,0 +1,55 @@
+{
+  "date": "2013-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh, it's that guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You never returned any of my messages."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was busy.",
+        "For six months?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, no... only for a week.",
+        "But it would have been awkward to respond after ignoring you for so long."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So your plan was to avoid me forever even though we work on the same floor?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No. I've seen the quality of your work and I figured there was a 60% chance..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...that you would die in a workplace accident that the average idiot could easily avoid."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "For the record, I'm the one who was trying to avoid this conversation."
+      ]
+    }
+  ]
+}

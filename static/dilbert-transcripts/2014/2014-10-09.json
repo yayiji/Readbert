@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting complaints that you've been trash-talking employees' families so they'll spend more time at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I stopped by to give you a high-five from human resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your aim is terrible.",
+        "The first one was practice!"
+      ]
+    }
+  ]
+}

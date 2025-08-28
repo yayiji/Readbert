@@ -1,0 +1,54 @@
+{
+  "date": "2014-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You complained about your work-load, so I hired an inexperienced guy to help."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is exactly the opposite of what I wanted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He doesn't know much, but he makes up for it by asking lots of questions."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So he'll be bugging me every minute?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Not every minute.",
+        "He takes a lot of sick days."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... you hired a guy who is useless, but it's okay because he also has bad attendance?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's not a perfect world."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is this a good time to ask some questions?"
+      ]
+    }
+  ]
+}

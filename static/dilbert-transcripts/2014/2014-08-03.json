@@ -1,0 +1,55 @@
+{
+  "date": "2014-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know what venture capitalists care about when they make investment decisions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They care about the reputation of the angel investors who already put money in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know what the angel investors care about?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They care about the skill of the engineers."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Therefore, you should give me a huge raise or else I'll quit and do my own start-up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Go ahead, you big chicken."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're going to die poor! Ha ha ha!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That was harsh.",
+        "And yet you didn't resign.",
+        "Any more questions?"
+      ]
+    }
+  ]
+}

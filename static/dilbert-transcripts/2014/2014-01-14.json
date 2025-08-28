@@ -1,0 +1,23 @@
+{
+  "date": "2014-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The good news is that we're going to test a new fuel source for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The bad news is that the fuel source is organic waste material."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's awkward for me too. Just close your eyes, ok?"
+      ]
+    }
+  ]
+}

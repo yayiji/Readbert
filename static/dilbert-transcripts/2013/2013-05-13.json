@@ -1,0 +1,26 @@
+{
+  "date": "2013-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wearable computing is the next big thing.",
+        "This is my prototype of a necklace computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Prepare to be shocked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just talk him into wearing a remotely controlled shock collar?",
+        "People think I have no goals.",
+        "Click"
+      ]
+    }
+  ]
+}

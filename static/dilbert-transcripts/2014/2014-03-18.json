@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was just talking to some idiots."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They agree with you on every topic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is your point?",
+        "That's exactly what they would say!"
+      ]
+    }
+  ]
+}

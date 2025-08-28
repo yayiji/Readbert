@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm planning to take advantage of our new unlimited vacation policy. I'll be gone for two hundred days in the coming year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I guarantee I will still double my productivity compared to the prior year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no way to measure productivity for engineers.",
+        "Good to know."
+      ]
+    }
+  ]
+}

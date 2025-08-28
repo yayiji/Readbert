@@ -1,0 +1,25 @@
+{
+  "date": "2014-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our experiment with a flattened organization failed.",
+        "I'm your boss again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think our best play here is to beat each other to death with our coffee mugs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one said the transition would be smooth.",
+        "Make the first one count."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to do a site inspection at our Elbonian facility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's located in a disputed territory on the border of the totalitarian state of North Elbonia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that enough foreshadowing or should I say something about how they treat spies?",
+        "No, you nailed it."
+      ]
+    }
+  ]
+}

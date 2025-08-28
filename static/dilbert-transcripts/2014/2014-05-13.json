@@ -1,0 +1,31 @@
+{
+  "date": "2014-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies say people are losing their ability to focus because of all the digital distractions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sorry, what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hold on...",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What were you saying?",
+        "I dunno. Probably wasn't important."
+      ]
+    }
+  ]
+}

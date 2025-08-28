@@ -1,0 +1,23 @@
+{
+  "date": "2014-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to act more like a start-up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean we can ask for funding for one thing and then pivot six times and build something entirely different?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there a version where we don't do any of that and I can still call myself a hacker?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to report that I achieved every goal you set for me last year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you failed to achieve the secret goals I set for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would you have secret goals for me?!",
+        "For this exact situation."
+      ]
+    }
+  ]
+}

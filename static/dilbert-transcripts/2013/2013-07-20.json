@@ -1,0 +1,20 @@
+{
+  "date": "2013-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The mentor thing isn't for everyone.",
+        "I don't know how this looks, but it feels great on the inside."
+      ]
+    }
+  ]
+}

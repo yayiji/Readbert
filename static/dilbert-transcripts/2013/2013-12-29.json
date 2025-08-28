@@ -1,0 +1,57 @@
+{
+  "date": "2013-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You take everything wrong.",
+        "What's that supposed to mean?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, suppose I say you're photogenic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying I don't look good when you see me in person?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There it was.",
+        "There was what?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's the thing you do to turn everything into a negative."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, so now I'm a monster. Is that what you're saying??!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes.",
+        "Good. That's the vibe I'm going for."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm just saying you're totally nailing it.",
+        "Watch this! Grrrr!"
+      ]
+    }
+  ]
+}

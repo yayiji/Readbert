@@ -1,0 +1,25 @@
+{
+  "date": "2013-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I migrated our northern data center to the cloud."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But the cloud stopped working and I can't find the phone number for our cloud guy.",
+        "So... whatever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You lost our data center?",
+        "That's one way to look at it."
+      ]
+    }
+  ]
+}

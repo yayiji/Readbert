@@ -1,0 +1,54 @@
+{
+  "date": "2014-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to success is ignoring the people who say it can't be done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if they're right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They aren't right!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Really? Other people are never right?",
+        "You have to trust your gut!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My gut is telling me that everything you're saying is ridiculous."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It also says it wants a sandwich right now."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'd stay, but I'm putting my gut in charge of my decisions."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My gut sends me messages in Morse code. Here comes one now."
+      ]
+    }
+  ]
+}

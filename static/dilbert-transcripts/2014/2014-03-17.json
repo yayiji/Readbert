@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to brain-wash you to believe company profits are more important than your health."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's called \"employee engagement,\" and it will make you work 12-hour days while thinking you enjoy every minute of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I just work for money?",
+        "Why are you being a jerk about this?"
+      ]
+    }
+  ]
+}

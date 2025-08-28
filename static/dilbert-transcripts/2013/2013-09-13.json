@@ -1,0 +1,25 @@
+{
+  "date": "2013-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert seeks asylum at Elbonia's embassy.",
+        "We don't have a lot of fancy technology in our embassy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you want to send a message to the outside world, carve it on a peanut and give it to a squirrel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The squirrel would eat the peanut.",
+        "Wow! You do not trust squirrels."
+      ]
+    }
+  ]
+}

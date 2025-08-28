@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My software can't pass a standard Turing test yet, but it does pass the pointy-haired boss test."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Computer, I have a question about our company strategy.",
+        "Try working smarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't even make sense!",
+        "I wasn't prepared to like it, but you won me over."
+      ]
+    }
+  ]
+}

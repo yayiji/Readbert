@@ -1,0 +1,24 @@
+{
+  "date": "2014-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The universe is full of dark matter, quantum strangeness, and hidden dimensions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In such a universe, can we really know whether or not I did my assignment?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd the new excuse work out?",
+        "It did well in the A-B test against \"You never told me to do that.\""
+      ]
+    }
+  ]
+}

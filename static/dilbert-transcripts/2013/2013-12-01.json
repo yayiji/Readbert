@@ -1,0 +1,55 @@
+{
+  "date": "2013-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm proud to announce the winner in the CEO's technology challenge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Two weeks ago, I challenged you to come up with innovative ideas for getting fresh water to Elbonia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The winner is someone named Wally."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wally's idea for bringing fresh water to Elbonia is..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "\"In a box.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's the best one?",
+        "We only had one entry."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I hate your bald guts.",
+        "I get that a lot."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If you need me, I'll be in my cubicle thinking up award-winning ideas."
+      ]
+    }
+  ]
+}

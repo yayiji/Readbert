@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't respond to my email, my text message, my voice mail, and the note I left on your desk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you know what they call humans who fail the Turing test?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The what?",
+        "Compared to you, high achievers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2013-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I rummage through the trash in the technology lab?",
+        "Um, okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm getting back to my hunter-gatherer roots."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Score! These old power cords sell on eBay for up to $3 apiece!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ha ha! I'm a genius who turns trash into gold!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How's that compare to whatever you're doing here?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, I'm removing valuable features from our product so we can..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...gouge our customers with the... upgrade."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wow. Your life is a total waste.",
+        "Not if I sell the power cord."
+      ]
+    }
+  ]
+}

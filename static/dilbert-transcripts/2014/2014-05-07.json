@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you sure the data you gave me is correct?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been giving you incorrect data for years. This is the first time you've asked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "I said the data is totally accurate."
+      ]
+    }
+  ]
+}

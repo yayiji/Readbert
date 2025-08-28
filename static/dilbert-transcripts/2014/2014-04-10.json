@@ -1,0 +1,25 @@
+{
+  "date": "2014-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The board named me temporary CEO.",
+        "And guess who is coming with me to the C-level suite!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "And you're also a terrible guesser."
+      ]
+    }
+  ]
+}

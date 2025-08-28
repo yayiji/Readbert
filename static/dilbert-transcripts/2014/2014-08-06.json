@@ -1,0 +1,24 @@
+{
+  "date": "2014-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can only succeed if we execute."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How is that different from saying we can only succeed if we succeed?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's also the strategy.",
+        "Does the strategy create itself?"
+      ]
+    }
+  ]
+}

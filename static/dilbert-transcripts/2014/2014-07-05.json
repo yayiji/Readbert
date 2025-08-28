@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My artificial intelligence software passes the PHB test."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means I can hide it behind a curtain and people won't know if they're talking to a computer or a pointy-haired boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Computer, what is HTML5?",
+        "Beats me.",
+        "I was going to say that!"
+      ]
+    }
+  ]
+}

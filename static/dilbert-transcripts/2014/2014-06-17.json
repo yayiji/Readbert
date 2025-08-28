@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting reports again that you're resistant to change."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only resist terrible ideas but I can see how that would confuse you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whatever you're doing, cut it out.",
+        "Should I stop being rational in general or only in this one way?"
+      ]
+    }
+  ]
+}

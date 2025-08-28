@@ -1,0 +1,23 @@
+{
+  "date": "2013-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't handle this the way I told you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In my defense, you're under-informed and less clever than me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping he'd say, \"Good point,\" but it went another direction."
+      ]
+    }
+  ]
+}

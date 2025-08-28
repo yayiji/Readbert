@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're lazy, undependable, and disruptive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I can't give you a raise this year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd it go?",
+        "He blamed the victim."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For environmental reasons, all used batteries must be discarded in the special receptacle in the break room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When it's full, the janitor will dump it into the regular trash and take it to the landfill."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we could ask him not to.",
+        "No one knows what language he speaks."
+      ]
+    }
+  ]
+}

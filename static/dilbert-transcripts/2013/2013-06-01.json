@@ -1,0 +1,25 @@
+{
+  "date": "2013-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Interview with a start-up",
+        "We only hire people who fit into our awesome start-up culture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. I can be a self-conscious hipster if you think that's what keeps the lights on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I kind of do.",
+        "What would I need besides an earring and headphones?"
+      ]
+    }
+  ]
+}

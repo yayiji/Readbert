@@ -1,0 +1,26 @@
+{
+  "date": "2013-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had to lay off seven engineers and",
+        "I need you to pick up those functions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! I feel a weight has been lifted from my chest.",
+        "Now that my failure is guaranteed, I no longer feel the stress of trying to succeed!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to thank you for this.",
+        "This didn't go the way I hoped."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2014-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you guys talking about? It sounds interesting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We were saying that our smart-phone technology has caused us to speed-evolve into a meta-organism that is the sum of our connected parts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, from across the room it looked interesting."
+      ]
+    }
+  ]
+}

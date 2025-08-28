@@ -1,0 +1,23 @@
+{
+  "date": "2013-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our ex-CEO negotiated an unusually generous severance package."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We had to build a giant robotic flea to suck the assets out of the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The weird part is that it seemed reasonable at the time."
+      ]
+    }
+  ]
+}

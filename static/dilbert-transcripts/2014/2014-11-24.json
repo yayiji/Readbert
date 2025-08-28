@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The good news is that we had the winning bid for the project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The less-good news is that we don't make the product we just sold, nor could we make it for the price we bid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My plan is to put out an RFP to secretly subcontract the work to a bigger liar.",
+        "That could work."
+      ]
+    }
+  ]
+}

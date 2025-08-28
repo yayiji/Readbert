@@ -1,0 +1,25 @@
+{
+  "date": "2013-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's my idea for a start-up.",
+        "What do you think?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not a big fan of other people being successful, so I'll say the idea is terrible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remind me why I talk to you.",
+        "You're a serial entreprenidiot."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2014-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having an early adopter problem with our wearable tech products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one wants to go first?",
+        "I wish we had that problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if we look as cool as we feel.",
+        "Let's hit the clubs and find out."
+      ]
+    }
+  ]
+}

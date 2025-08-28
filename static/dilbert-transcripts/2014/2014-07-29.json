@@ -1,0 +1,23 @@
+{
+  "date": "2014-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The board has voted to do a stock split."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It came down to a choice between creating fantastic products or attracting dumber stockholders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One of those two things is easy."
+      ]
+    }
+  ]
+}

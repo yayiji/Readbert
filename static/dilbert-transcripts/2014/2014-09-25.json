@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your opinion before I make a decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies show that if you ask for my opinion, I will no longer perceive you as a leader."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if I do not ask for your opinion?",
+        "I would perceive you as an idiot and a leader."
+      ]
+    }
+  ]
+}

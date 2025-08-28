@@ -1,0 +1,53 @@
+{
+  "date": "2013-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got a bad case of something the experts call \"sitting disease.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies show that people who sit all day for their jobs have a 40% greater chance of dying in the next three years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Company policy says safety is more important than productivity, right?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... sort of."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So instead of sitting at my desk working, I plan to walk around and drink coffee."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "For safety reasons."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Go sit at your desk or you're fired."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There's a good chance this problem will solve itself within three years."
+      ]
+    }
+  ]
+}

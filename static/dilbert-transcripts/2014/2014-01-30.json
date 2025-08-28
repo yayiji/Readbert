@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're being too negative lately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Am I negative or am I a good communicator surrounded by terrible ideas?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just try to be more positive!",
+        "Okay, I'm all fixed now. Good job on the leadership."
+      ]
+    }
+  ]
+}

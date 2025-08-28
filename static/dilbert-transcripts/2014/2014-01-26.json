@@ -1,0 +1,56 @@
+{
+  "date": "2014-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the newest management jargon I need to pretend to understand?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts say you should engage employees and follow from the front."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that mean anything?",
+        "No one knows."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Just to be safe, you should tell people you're doing it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Should I act as if I'm passionate, or is this more of a fake caring situation?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Beats me.",
+        "Try combining the two."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fake passion plus fake caring."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My uncle died.",
+        "Woot!!! What was his name?!"
+      ]
+    }
+  ]
+}

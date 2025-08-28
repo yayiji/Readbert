@@ -1,0 +1,25 @@
+{
+  "date": "2013-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a headhunter and I know someone who wants to offer you a much better job.",
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to soften up the room before I go for my performance review."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't do squat this year.",
+        "Doesn't matter to me!"
+      ]
+    }
+  ]
+}

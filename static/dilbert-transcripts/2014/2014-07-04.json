@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to create artificial intelligence that is as smart as me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. I should have that by lunchtime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because you're a fast worker?",
+        "Sure."
+      ]
+    }
+  ]
+}

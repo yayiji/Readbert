@@ -1,0 +1,29 @@
+{
+  "date": "2014-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm adding Jeff to your project team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's like trying to put out a forest fire by dropping a baby on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm available to help, too."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, your job is to keep Jeff from doing anything."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2013-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I read an article that says leaders should acknowledge the achievements of their underlings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you done anything lately that warrants some praise?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... I'm under budget because I forgot to staff one of our projects."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay. I can work with that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now I think I'm supposed to pat you on the head or something."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Let's try that and see how we feel."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop leaning in."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Feels... so... good."
+      ]
+    }
+  ]
+}

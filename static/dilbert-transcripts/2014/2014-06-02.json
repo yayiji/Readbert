@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've set several world records for best employee job performance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I can't give you a raise because you used job performance enhancing drugs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You injected me against my will.",
+        "It wouldn't be leadership if you wanted to do it."
+      ]
+    }
+  ]
+}

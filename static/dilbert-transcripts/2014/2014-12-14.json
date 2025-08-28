@@ -1,0 +1,53 @@
+{
+  "date": "2014-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's it like to work hard?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm curious because the reward for hard work seems to be identical to the reward for pretending to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seems as if it would be demotivating to work so hard for no incremental benefit."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I had to pick one word to describe my day, it would be \"relaxing.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But you took the harder path. And for that, you have my respect."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't want the respect of a loser!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bam!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If it makes you feel any better, I don't actually respect hard work."
+      ]
+    }
+  ]
+}

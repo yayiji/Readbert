@@ -1,0 +1,55 @@
+{
+  "date": "2013-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're replacing our outdated system of annual performance reviews."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The new system is called gamification. It's a hot new trend."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Employees can win badges, ribbons, and awards for completing tasks."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can we opt for the cash value of those badges, ribbons, and awards?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They don't have any cash value.",
+        "Oh, like garbage?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, not like garbage!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Except in the narrow sense of having no functional, economic, or emotional value."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Garbage is something you throw away.",
+        "Hand me an award and watch carefully."
+      ]
+    }
+  ]
+}

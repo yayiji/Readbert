@@ -1,0 +1,54 @@
+{
+  "date": "2013-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you finish your project in twelve months, I'll give you a five percent raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would gladly give up five percent of my future pay to avoid a doubling of my workload."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't understand. I'm giving you an incentive to work harder."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, I'm pretty sure you're charging me five percent of my future pay to sit here and feel disgruntled."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And it's working."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I hate you more than ever and I no longer find meaning in my work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My dreams lie broken and empty beneath the ruins of my optimism."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can't tell if you're negotiating or dying.",
+        "It's a little of both."
+      ]
+    }
+  ]
+}

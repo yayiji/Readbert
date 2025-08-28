@@ -1,0 +1,26 @@
+{
+  "date": "2014-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Email is down again.",
+        "The only guy who can fix it is in the hospital."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... if he dies, we can never again have email?",
+        "Maybe."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there any way I can reach him?",
+        "Wait a week and try a Ouija board."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2014-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My neck is killing me. I must have slept wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha ha!",
+        "You can't even sleep right!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm doing you a favor because laughter is the best medicine.",
+        "Why does that no longer sound wise?!",
+        "Hee hee!"
+      ]
+    }
+  ]
+}

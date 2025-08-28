@@ -1,0 +1,26 @@
+{
+  "date": "2013-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow.",
+        "This is a complicated issue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you should run it past someone who is...",
+        "Smarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you'd be better off letting me end my own...",
+        "Life?"
+      ]
+    }
+  ]
+}

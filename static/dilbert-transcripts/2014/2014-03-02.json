@@ -1,0 +1,54 @@
+{
+  "date": "2014-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any great ideas?",
+        "How would I know?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could tell me your ideas and I'll judge them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's like asking a chipmunk to judge algebra."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you comparing me to algebra?",
+        "Sure. Let's go with that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That makes sense because algebra is complex and useful... just like me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... what do you think of this innovative circuit design?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's, um... fine?",
+        "Said the chipmunk to the engineer."
+      ]
+    }
+  ]
+}

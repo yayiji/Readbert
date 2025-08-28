@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company will no longer offer free beer on Fridays."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It started as a team-building experience, but it degenerated into forklift jousting in the warehouse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going all \"Boardwalk Empire\" on you now, Volstead!",
+        "I hope that means something good."
+      ]
+    }
+  ]
+}

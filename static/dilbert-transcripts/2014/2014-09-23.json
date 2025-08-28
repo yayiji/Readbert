@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No one looks at résumés anymore.",
+        "Now we use special algorithms to see where your personality fits in our culture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That process sounds like a steaming pile of stupidity that will beat itself to death in a few years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll start you in engineering. You'll fit right in."
+      ]
+    }
+  ]
+}

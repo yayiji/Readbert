@@ -1,0 +1,25 @@
+{
+  "date": "2014-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Strangers keep beating me up for wearing our new glasses product with a camera."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you tried acting less creepy and defenseless?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like user error.",
+        "I just photoshopped your head on a donkey."
+      ]
+    }
+  ]
+}

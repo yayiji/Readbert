@@ -1,0 +1,27 @@
+{
+  "date": "2013-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Behold my new invention, the likes of which the world has never seen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Behold my Google search engine that will find several existing products that do whatever that thing does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't.",
+        "Google: Crushing dreams since 1998.",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    }
+  ]
+}

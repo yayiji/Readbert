@@ -1,0 +1,26 @@
+{
+  "date": "2014-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show that successful people start early.",
+        "Can I start work at 4 a.m. and quit at noon?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How would I know you were really working the first four hours?",
+        "Same way you know now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know now.",
+        "It's like that but with less attendance."
+      ]
+    }
+  ]
+}

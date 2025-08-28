@@ -1,0 +1,27 @@
+{
+  "date": "2014-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know how you juggle work plus a family."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Spending time with my family is like fighting porcupines in a salt mine.",
+        "I come here just to get away from them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "you like your job?",
+        "No,",
+        "but at least I can go home to get away from it."
+      ]
+    }
+  ]
+}

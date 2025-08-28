@@ -1,0 +1,57 @@
+{
+  "date": "2014-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say your slides should tell a story in pictures."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Start with an image that captures the status of your project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about this image of a clown with a broken watch?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I was thinking eagle.",
+        "Fine.",
+        "Eagle."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now find an image that shows our technology strategy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How about this image of an old shoe in a storm drain?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I was thinking pie chart.",
+        "Fine."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now for the words.",
+        "How about this image of a dictionary?"
+      ]
+    }
+  ]
+}

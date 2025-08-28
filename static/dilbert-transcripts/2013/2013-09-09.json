@@ -1,0 +1,31 @@
+{
+  "date": "2013-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government arrested Dilbert for stealing back the data their spy software stole from us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whose side are we on?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I'm not crazy about the government."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But Dilbert can be a pain in the spanx, too.",
+        "Have you ever tried apathy?",
+        "It's awesome."
+      ]
+    }
+  ]
+}

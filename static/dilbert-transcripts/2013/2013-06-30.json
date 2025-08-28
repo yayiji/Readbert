@@ -1,0 +1,54 @@
+{
+  "date": "2013-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm reading a great management book about the rules of leadership."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Allow me to put that in context."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There are probably 10,000 books about leadership, and each one has a different approach."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And there are millions of real leaders, of which no two are alike."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Moreover, every situation is unique and requires a different type of leader."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And yet, this one author has found a magic formula to transform you from a gullible baboon into a great leader."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And that makes sense because all great leaders throughout history achieved success by reading a random book."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't like context.",
+        "It isn't popular."
+      ]
+    }
+  ]
+}

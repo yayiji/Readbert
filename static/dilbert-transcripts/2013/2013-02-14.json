@@ -1,0 +1,23 @@
+{
+  "date": "2013-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's it going, underling?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My long hours and insane workload are causing fatigue, depression, and organ failure. I'll probably be dead in a month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When did people stop saying, \"fine\"?"
+      ]
+    }
+  ]
+}

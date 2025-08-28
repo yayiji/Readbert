@@ -1,0 +1,53 @@
+{
+  "date": "2014-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Robots are a clever novelty, but they will never be intelligent like humans."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would be an example of something your brain can do that a robot can't imitate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, for example, I can tell when a movie is good."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If that were intelligence, all smart people would like the same movies."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, I can also read human faces to know what people are feeling."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What am I feeling right now?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm picking up a mixture of admiration, arousal and thoughts of bacon."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't get cocky, but you won this round."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2014-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tradition requires you to disparage every technology decision made before you got involved."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But please be gentle with your criticism of my software. It's like my baby."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you mean your software is a useless blob that consumes resources and soils itself, we are in agreement."
+      ]
+    }
+  ]
+}

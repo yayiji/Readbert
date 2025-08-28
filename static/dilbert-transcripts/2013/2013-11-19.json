@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means I have excellent employment potential and I can fix things around the house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How are your social skills?",
+        "Wow. Look who wants the moon."
+      ]
+    }
+  ]
+}

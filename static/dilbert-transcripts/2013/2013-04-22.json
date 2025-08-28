@@ -1,0 +1,24 @@
+{
+  "date": "2013-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My invention will change the world and get me promoted three levels above you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Haa-chaaa!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. I'm usually more subtle.",
+        "No worries. This was a decoy."
+      ]
+    }
+  ]
+}

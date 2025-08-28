@@ -1,0 +1,30 @@
+{
+  "date": "2014-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, the best way to advance your career is by learning as much as you can from co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you show me what you are doing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Come back in ten years when I'm not busy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No one will help me learn anything.",
+        "You learned that!"
+      ]
+    }
+  ]
+}

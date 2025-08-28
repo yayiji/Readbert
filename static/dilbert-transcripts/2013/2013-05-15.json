@@ -1,0 +1,24 @@
+{
+  "date": "2013-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you requested, I researched all of the best-selling books on the topic of leadership."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently, leadership is the product of sociopathic tendencies plus luck. All other personality traits are inactive ingredients."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you actually read all of those books?",
+        "I only needed to know they were all different."
+      ]
+    }
+  ]
+}

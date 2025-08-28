@@ -1,0 +1,65 @@
+{
+  "date": "2013-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't hear you.",
+        "There's too much background noise and echo on your end.",
+        "Gerple murmp"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see a smudgy thing that might be your head, but I don't know what you're saying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your accent is too thick.",
+        "I can't...",
+        "Muwa flamel guapen"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I didn't understand what you said, and I can't tell which one of you is talking."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why don't...",
+        "Okay, you go.",
+        "What?",
+        "Did you say...",
+        "Urgam...",
+        "Ekplum",
+        "Mungow",
+        "Plurb"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're acting as if I agreed to something, but I don't even know what the topic is."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I see you waving goodbye, so you must think we're done."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Was your call a success?",
+        "Better than anything I've done all week."
+      ]
+    }
+  ]
+}

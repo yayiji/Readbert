@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to talk about my workload."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. I just emailed you two more assignments that I need finished by tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are literally killing me.",
+        "I call it extreme managing."
+      ]
+    }
+  ]
+}

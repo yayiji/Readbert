@@ -1,0 +1,25 @@
+{
+  "date": "2013-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So that's my problem, and I'm curious how you would try to solve it if you were me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You actually care about my opinion?",
+        "Yes, I really do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you any closer to solving your problem?",
+        "Yup. So far I've eliminated all of the choices that idiots would make."
+      ]
+    }
+  ]
+}

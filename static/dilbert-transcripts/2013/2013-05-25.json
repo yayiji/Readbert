@@ -1,0 +1,26 @@
+{
+  "date": "2013-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is the key to success?",
+        "Hire the right employees!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you know you hired the right ones?",
+        "You know because the business is successful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So the key to success is circular reasoning?",
+        "Yes, because circular reasoning is the key."
+      ]
+    }
+  ]
+}

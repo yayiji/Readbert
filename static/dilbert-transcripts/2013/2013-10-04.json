@@ -1,0 +1,25 @@
+{
+  "date": "2013-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our products are getting worse every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But our marketing keeps improving.",
+        "We're very close to the point where our customers will give us money for no reason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then we can give ourselves huge raises and do no work at all.",
+        "I like everything you said, except the \"we\" part."
+      ]
+    }
+  ]
+}

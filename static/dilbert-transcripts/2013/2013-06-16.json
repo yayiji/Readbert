@@ -1,0 +1,54 @@
+{
+  "date": "2013-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You look good on paper, but how do I know you aren't lying about your skills?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should hope I am lying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Studies show that people who exaggerate their credentials tend to be more effective once hired."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's because mis- leading people is a valuable business skill."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "For example, I might need to convince our customers that our products are better than the competition."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or I might need to dupe some idiot into leaving my cubicle so I can concentrate."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Anyone can learn technical skills, but lying is an art form."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He doesn't have an honest bone in his body.",
+        "Perfect. I'll tell human resources to send him an offer."
+      ]
+    }
+  ]
+}

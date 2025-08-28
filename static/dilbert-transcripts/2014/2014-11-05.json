@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our sales dropped to zero because you told the media we have a better product coming soon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And 95% of the staff resigned because you announced plans to fire 50% of them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe it would be better if you never spoke to anyone again.",
+        "How would people get my wisdom?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2014-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to clean the break room refrigerator more often."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're engineers.",
+        "We only do the highest priority tasks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mold started to grow in there.",
+        "That's no big deal."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Bacteria caused the mold to mutate.",
+        "So what?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It rapidly evolved into a sentient being fueled by forgotten lunches."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then it learned language skills and got a job in human resources."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It plans to frame you for viewing inappropriate web- sites at work and then fire you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This sort of thing usually works itself out."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to form an emotional connection with our customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does fantasizing count?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Trade seats with me.",
+        "I'm doing it right now."
+      ]
+    }
+  ]
+}

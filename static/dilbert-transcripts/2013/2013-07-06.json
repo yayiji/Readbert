@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There will be a planned power outage all day tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I want all of you to come to the office and sit at your desks in case our CEO stops by."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because he likes it when we act stupid?",
+        "It's better for everyone if we call it dedication."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2013-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dear Wally,",
+        "You have been nominated for an academy award..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For your convincing portrayal of an employee who does actual work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think you'll win?",
+        "It's a dishonor just to be nominated."
+      ]
+    }
+  ]
+}

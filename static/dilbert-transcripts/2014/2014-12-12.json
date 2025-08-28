@@ -1,0 +1,27 @@
+{
+  "date": "2014-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the analysis you asked me to do.",
+        "Oops."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I forgot to tell you, I don't need this anymore.",
+        "What? I did all of that work for nothing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait...",
+        "this is nothing but... gibberish.",
+        "That is a separate issue."
+      ]
+    }
+  ]
+}

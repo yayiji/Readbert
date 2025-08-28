@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your management style has caused a black hole to form."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it dangerous?",
+        "Not to us. It only absorbs important emails from employees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And an employee named Ted, apparently."
+      ]
+    }
+  ]
+}

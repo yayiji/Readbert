@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I emailed you the powerpoint slide for your investor meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I dumbed down the technical stuff for you non-engineers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technology: it be good.",
+        "I wouldn't take questions."
+      ]
+    }
+  ]
+}

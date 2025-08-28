@@ -1,0 +1,24 @@
+{
+  "date": "2013-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The software you sold us stopped working after a week. What's up with that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We use a third-party library, and it isn't compatible with the new version of Windows."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And...?",
+        "We appreciate your business?"
+      ]
+    }
+  ]
+}

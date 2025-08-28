@@ -1,0 +1,23 @@
+{
+  "date": "2014-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I'm moving you to a newly formed strategic engineering group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you putting all of your worst employees in one group so you can later eliminate the function and avoid firing each person individually?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You picked a bad time to become insightful."
+      ]
+    }
+  ]
+}

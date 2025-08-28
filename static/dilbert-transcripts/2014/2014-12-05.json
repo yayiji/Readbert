@@ -1,0 +1,25 @@
+{
+  "date": "2014-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha ha! I am now the coolest member of the household because I have a smartwatch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello, watch.",
+        "What time is it?",
+        "This is the Anthropocene epoch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow, that carbon dates me."
+      ]
+    }
+  ]
+}

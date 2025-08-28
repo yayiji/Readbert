@@ -1,0 +1,24 @@
+{
+  "date": "2013-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My parents taught me that if I worked hard, I could be anything I wanted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you chose this?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "His parents sound like morons.",
+        "Maybe he didn't work hard."
+      ]
+    }
+  ]
+}

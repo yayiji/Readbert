@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On the advice of our consultant, we're going to rewrite the CMS from scratch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much did you pay the consultant for the same advice your employees gave you for free?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't pay consultants for advice.",
+        "I pay them to leave.",
+        "?"
+      ]
+    }
+  ]
+}

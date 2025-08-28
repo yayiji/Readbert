@@ -1,0 +1,23 @@
+{
+  "date": "2013-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're not allowed to use Facebook at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fine. I'll use it at home tonight instead of doing the three hours of unpaid work I was planning to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm calling that a win."
+      ]
+    }
+  ]
+}

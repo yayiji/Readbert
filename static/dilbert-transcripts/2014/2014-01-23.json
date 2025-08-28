@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to success is to follow your instinct."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My instinct tells me to slap you until you stop babbling nonsense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't do that.",
+        "Relax. I have a good feeling about it."
+      ]
+    }
+  ]
+}

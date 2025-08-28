@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My projects are winding down and I'd like to take on more responsibility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh. That's a problem because I just finished your performance review and it says you don't take initiative."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess you need to redo that.",
+        "That would be one way to play it."
+      ]
+    }
+  ]
+}

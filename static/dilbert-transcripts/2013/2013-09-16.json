@@ -1,0 +1,25 @@
+{
+  "date": "2013-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you were on the run for hacking the government's databases.",
+        "I was."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But they forgot to reset their passwords, so I deleted my case file and gave myself a tax break."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you get me anything?",
+        "You're the new face on pennies."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2013-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say I can appear charismatic by setting high expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or maybe you could improve your charisma by fixing your character flaws instead of making me work harder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I'm fairly sure the problem with my charisma is on your end."
+      ]
+    }
+  ]
+}

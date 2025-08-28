@@ -1,0 +1,26 @@
+{
+  "date": "2014-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet Larry.",
+        "He isn't terribly competent, but he's a good cultural fit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, Larry.",
+        "Thanks for reinforcing our culture of incompetence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're joking about the incompetence, right?",
+        "Sure."
+      ]
+    }
+  ]
+}

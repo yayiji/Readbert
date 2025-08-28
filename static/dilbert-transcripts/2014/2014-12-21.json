@@ -1,0 +1,55 @@
+{
+  "date": "2014-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I should warn you that I'm a perfectionist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I appreciate the warning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any other psychological problems or just the one?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't think of it as a \"problem.\"",
+        "I guess that's what makes it so bad."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I see a lot of other psycho-logical problems in your writing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Cognitive dissonance, unrealistic optimism, and some projection bias."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But I can see why you think your perfectionism is the worst part."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're a jerk.",
+        "...And here come the anger issues."
+      ]
+    }
+  ]
+}

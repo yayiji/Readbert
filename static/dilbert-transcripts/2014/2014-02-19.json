@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cryonics will allow me to preserve my brain until the age of transhumanism so I can live forever in a robot body."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, I need a status update on why your last status wasn't updated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please kill me now.",
+        "I don't do favors that can't be repaid."
+      ]
+    }
+  ]
+}

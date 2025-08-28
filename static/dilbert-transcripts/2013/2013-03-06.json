@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show that companies with a high level of trust in employees also perform the best."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you ever start performing well, I'll trust you, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This didn't go the way I hoped.",
+        "What kind of scam are you trying to pull?"
+      ]
+    }
+  ]
+}

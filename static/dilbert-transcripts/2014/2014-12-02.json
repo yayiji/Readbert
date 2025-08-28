@@ -1,0 +1,23 @@
+{
+  "date": "2014-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want some constructive criticism?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I would love some under-informed opinions about things you don't understand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That took a lot of the fun out of it."
+      ]
+    }
+  ]
+}

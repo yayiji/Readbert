@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We are introducing our \"Eureka program\" to recognize that the best ideas come from employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have ideas?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that was a dry hole.",
+        "Can I turn my cubicle into a dude ranch?"
+      ]
+    }
+  ]
+}

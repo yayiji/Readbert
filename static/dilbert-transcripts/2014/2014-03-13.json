@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did A-B testing and found the search terms that bring the most people to our site."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The most effective search terms are \"wingless skunk,\" \"junkyard snack,\" and \"planned injury.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, duh!",
+        "You could have just asked me."
+      ]
+    }
+  ]
+}

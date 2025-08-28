@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The CEO of Apple says a leader should admit when he's wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That won't work for me because I'm never wrong. The best I can do is admit when other people are wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sort of misses the point.",
+        "Well, I humbly admit you're wrong."
+      ]
+    }
+  ]
+}

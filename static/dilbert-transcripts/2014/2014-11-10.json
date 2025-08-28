@@ -1,0 +1,25 @@
+{
+  "date": "2014-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can only succeed if we work harder than our competitors!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oops, gotta go.",
+        "My helicopter is here to take me to my massage appointment on my superyacht."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop staring at me.",
+        "I only have to work harder than the other CEOs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2013-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Abducted by the government",
+        "We're going to waterboard you now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? Cool. I don't get touched a lot, so I think I'll enjoy it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that all the water you brought?",
+        "Okay, this got creepy."
+      ]
+    }
+  ]
+}

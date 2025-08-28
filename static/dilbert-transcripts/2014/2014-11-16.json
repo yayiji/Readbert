@@ -1,0 +1,55 @@
+{
+  "date": "2014-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You haven't achieved any of your goals for the year. What is up with that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want an explanation that goes back to the root cause?",
+        "Of course."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The problem started years ago, when two idiots unwisely created a third, smaller idiot."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They compounded their mistake with bad parenting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The toddler ate candy and sniffed wet paint until he became a pointy-headed boss."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The pointy-headed boss set goals for his underlings that ignored the rapidly evolving nature of the industry."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then he got angry at his most talented employee for giving an accurate answer to a question."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hate you.",
+        "Nothing could halt the downward spiral."
+      ]
+    }
+  ]
+}

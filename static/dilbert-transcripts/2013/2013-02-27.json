@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert ergonomic consulting company to tell us about the health benefits of standing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Standing be good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's it?",
+        "The topic isn't as complicated as you might think."
+      ]
+    }
+  ]
+}

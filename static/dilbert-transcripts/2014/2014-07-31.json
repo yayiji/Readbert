@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We got Randy by buying his start-up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Randy, Dilbert will show you how to access our 45 hours of mandatory online training.",
+        "I quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, at least we still have his start-up.",
+        "And all seven of its customers, too."
+      ]
+    }
+  ]
+}

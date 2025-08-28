@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our big data analysis tells us that only the top performers leave for higher pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Since you're still here, it means your performance is average at best."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not fair!",
+        "That's what all the average people say."
+      ]
+    }
+  ]
+}

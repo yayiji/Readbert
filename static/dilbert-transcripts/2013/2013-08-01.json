@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to the employee survey, 98% of you have no confidence in management.",
+        "Evil idiot"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rest assured, management will make sure we never again get such a low score."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cancel all future employee surveys."
+      ]
+    }
+  ]
+}

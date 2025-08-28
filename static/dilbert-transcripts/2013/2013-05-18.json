@@ -1,0 +1,29 @@
+{
+  "date": "2013-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please stop micromanaging me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? I thought I was coaching and mentoring."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want some coaching and mentoring?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm not a puppet. Keep your hand out of my colon."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2014-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to organize some sort of memorial thing for Fred.",
+        "You mean Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm thinking cake and balloons in the break room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that tasteful enough?",
+        "I could hire a mime to pretend he's in an invisible box."
+      ]
+    }
+  ]
+}

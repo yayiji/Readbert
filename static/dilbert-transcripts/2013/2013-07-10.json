@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor that you have two jobs and you outsource both of them to Elbonia and keep the difference."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's crazy. I assure you I do not have two jobs outsourced to Elbonia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it more than two?",
+        "That's a different conversation."
+      ]
+    }
+  ]
+}

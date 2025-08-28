@@ -1,0 +1,27 @@
+{
+  "date": "2014-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't date cyborgs.",
+        "I'm not a cyborg.",
+        "Yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't date time travelers from the future.",
+        "I'm not a time traveler."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My third guess is less flattering.",
+        "I'm a time traveler."
+      ]
+    }
+  ]
+}

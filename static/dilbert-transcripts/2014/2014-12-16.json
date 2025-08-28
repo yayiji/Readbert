@@ -1,0 +1,34 @@
+{
+  "date": "2014-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Financial advisor",
+        "Convertible notes...",
+        "Preferred stock...",
+        "Municipal bonds...",
+        "Covered call options."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These are things you can never hope to understand.",
+        "So trust me and try to forget that my only career ambition is to drain your account like a giant mosquito."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds reasonable."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm always surprised at how easy this is."
+      ]
+    }
+  ]
+}

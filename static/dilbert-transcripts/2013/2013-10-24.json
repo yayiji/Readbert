@@ -1,0 +1,27 @@
+{
+  "date": "2013-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, meat-bags!",
+        "I'm here to take your jobs!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! Not really.",
+        "I won't have that capability for two or three years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When did you learn humor?",
+        "Humor?",
+        "I was going for cruelty."
+      ]
+    }
+  ]
+}

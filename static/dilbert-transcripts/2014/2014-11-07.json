@@ -1,0 +1,33 @@
+{
+  "date": "2014-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Egyptian pharaohs killed the engineers who built their pyramids so they would never share their secrets."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No...",
+        "I don't",
+        "think",
+        "they did."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "Dang!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can we reschedule this meeting until I find a historically accurate explanation of our new policy?"
+      ]
+    }
+  ]
+}

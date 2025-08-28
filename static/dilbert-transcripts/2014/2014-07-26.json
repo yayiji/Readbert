@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I outsourced my micromanaging to Amazon's Mechanical Turk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People in other countries will watch you on your computer cameras and criticize every move you make."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels like a terrible idea.",
+        "Stop resisting change."
+      ]
+    }
+  ]
+}

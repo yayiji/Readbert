@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that we're organized as a holacracy, I have no idea what I should be doing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Holacracy involves dynamic governance, transparent operations, and harnessing your conscious capacity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds like \"wander around.\"",
+        "Try to do it dynamically."
+      ]
+    }
+  ]
+}

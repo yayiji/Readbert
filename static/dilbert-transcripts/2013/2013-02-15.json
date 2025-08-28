@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Starting next week, our meetings will be \"stand-ups\" with no chairs, so we'll be more focused."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you examined all of the problems in the company and decided the root cause was chairs?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're also loosening the dress code.",
+        "So our problems are chairs and pants?"
+      ]
+    }
+  ]
+}

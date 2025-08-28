@@ -1,0 +1,53 @@
+{
+  "date": "2013-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't make any product changes without change orders."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When users ask for new features, direct them to the online change order system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That system only has the old forms."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell someone to put the new ones on there."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That would require a change order."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe we could tell users our sense of hope was killed by something called management."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then we could sort of slump over like we're waiting for death's cold embrace."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll get back to you if I think of a better plan."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you be my mentor?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's better for me if none of my underlings are qualified to take my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you just taught me something.",
+        "Gaaa!!! I hate it when I do that!"
+      ]
+    }
+  ]
+}

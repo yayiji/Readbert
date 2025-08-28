@@ -1,0 +1,30 @@
+{
+  "date": "2014-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your rule is that no more than eight people should attend a meeting, so I can't let you sit down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When did I say that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was in a book you co-wrote."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I knew I should have skimmed that thing.",
+        "Your unknown co-author is quite wise."
+      ]
+    }
+  ]
+}

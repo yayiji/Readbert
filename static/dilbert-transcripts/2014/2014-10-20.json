@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it just my simulated imagination or are all of the employees lying to me all the time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We trained them to be that way by punishing honesty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How is your project coming along?",
+        "100% perfect! Couldn't be better!"
+      ]
+    }
+  ]
+}

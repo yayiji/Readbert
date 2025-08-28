@@ -1,0 +1,25 @@
+{
+  "date": "2013-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you okay? You don't look well."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm an introvert.",
+        "Being near you is draining the energy from my body."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not sure how to take that.",
+        "I can't feel my legs!"
+      ]
+    }
+  ]
+}

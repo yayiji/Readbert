@@ -1,0 +1,31 @@
+{
+  "date": "2014-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor of a reorganization.",
+        "Is it true?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who told you that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Answering a question with a question means yes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you accusing me of being a deceptive weasel?",
+        "Why would you ask that?"
+      ]
+    }
+  ]
+}

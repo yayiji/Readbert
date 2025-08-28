@@ -1,0 +1,28 @@
+{
+  "date": "2013-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The noncommittal committee.",
+        "Does everyone agree with the plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It depends.",
+        "Ask me later.",
+        "Eh.",
+        "I'll think about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Make a decision!!!",
+        "Is this your first day?"
+      ]
+    }
+  ]
+}

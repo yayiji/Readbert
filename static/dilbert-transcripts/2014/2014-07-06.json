@@ -1,0 +1,53 @@
+{
+  "date": "2014-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't show leadership on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying I didn't do things in a smart way?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Leading is different from acting in the smartest way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... either I can do things the smart way or I can be a leader like you?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Stop twisting things around!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You need to be smart and you need to show leadership!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You can't expect your team to do what you want just because it's the smartest path."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Remind me which one of us hired those idiots."
+      ]
+    }
+  ]
+}

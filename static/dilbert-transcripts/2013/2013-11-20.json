@@ -1,0 +1,23 @@
+{
+  "date": "2013-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As I understand it, your job is to match employees with the right assignments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "None of my projects turned out well, which means you did a terrible job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not asking for an apology. Just follow your conscience."
+      ]
+    }
+  ]
+}

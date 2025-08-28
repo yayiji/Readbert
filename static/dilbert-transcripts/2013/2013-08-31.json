@@ -1,0 +1,31 @@
+{
+  "date": "2013-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a budget estimate for your project.",
+        "One billion dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That doesn't sound reasonable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll shout numbers and you can stop me when one sounds reasonable."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Please stop being you.",
+        "Eleven!"
+      ]
+    }
+  ]
+}

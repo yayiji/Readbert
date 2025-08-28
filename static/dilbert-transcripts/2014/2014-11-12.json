@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We mourn the untimely passing of our beloved colleague, Fred. We will never forget him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was Ted, not Fred."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was he beloved?",
+        "I don't remember. It was like a week ago."
+      ]
+    }
+  ]
+}

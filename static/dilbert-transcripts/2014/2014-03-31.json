@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What can I do to help you operationalize our strategy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could stop talking like a puppet that ate a dictionary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how analogies work.",
+        "I'm counting on that."
+      ]
+    }
+  ]
+}

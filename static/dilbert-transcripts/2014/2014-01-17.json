@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ask the vendor if they have a software patch to fix our problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already asked for the patch, installed it, and thoroughly tested it in production."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I'll go add value someplace else.",
+        "That's a good place to do it."
+      ]
+    }
+  ]
+}

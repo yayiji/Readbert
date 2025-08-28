@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I consider you family.",
+        "Great."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're lumping me in with a bunch of misfits, morons, and drunks. Get out of my sight, creep."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just like home."
+      ]
+    }
+  ]
+}

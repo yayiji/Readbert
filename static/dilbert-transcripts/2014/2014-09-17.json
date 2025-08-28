@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good leader has to be willing to be disliked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must be a great leader."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you mean by that?",
+        "Sorry. I didn't expect you to be listening to me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2013-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When I asked you to manage my Twitter account I assumed you knew I was expecting inspirational tweets."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So far, all you've tweeted under my name are racist rants, misspelled jokes, and links to terrorist websites."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To be fair, every one of those tweets was inspirational to someone."
+      ]
+    }
+  ]
+}

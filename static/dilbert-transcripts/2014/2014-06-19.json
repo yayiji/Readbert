@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to sign a non-disclosure agreement before we start."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't need that because no one believes a word I say anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'm meeting with the wrong person.",
+        "You're mighty judgy for a guy with so many secrets."
+      ]
+    }
+  ]
+}

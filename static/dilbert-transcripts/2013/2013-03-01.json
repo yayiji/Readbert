@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Shakespeare said some are born great, some achieve greatness, and some have greatness thrust upon 'em."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wonder which one I am."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some steal from shareholders and call it greatness.",
+        "Greatness of the fourth kind."
+      ]
+    }
+  ]
+}

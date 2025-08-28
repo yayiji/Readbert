@@ -1,0 +1,25 @@
+{
+  "date": "2014-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, underling.",
+        "Watch me do a self-deprecating joke to underscore my true power."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ho ho! I am not good at some types of unimportant tasks! Ha ha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why I'm glad I have people like you to do those things.",
+        "Impressive."
+      ]
+    }
+  ]
+}

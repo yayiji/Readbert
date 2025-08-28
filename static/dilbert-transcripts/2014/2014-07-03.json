@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I be your friend on Facebook?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Friends are like speed bumps for engineers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How will you see pictures of my food?",
+        "Do you eat food that Google doesn't know about?"
+      ]
+    }
+  ]
+}

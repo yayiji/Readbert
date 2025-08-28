@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies say willpower is finite. If you use it for one thing, you have less for another."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So if it feels hard to work long hours without any reward, try eating cake for lunch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd your coaching session go?",
+        "For once, it wasn't all bad."
+      ]
+    }
+  ]
+}

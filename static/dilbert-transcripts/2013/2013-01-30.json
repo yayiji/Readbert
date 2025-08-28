@@ -1,0 +1,25 @@
+{
+  "date": "2013-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You might be wondering why I called this meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I see a CEO, a company lawyer, and two salespeople.",
+        "Those jobs are highly correlated with psychopathy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My guess is that you invited me here to disembowel me.",
+        "It was rhetorical!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2014-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Barry. He has been working on our exoskeleton project for five years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Evidently Barry, died years ago, and his exoskeleton keeps taking his bones to meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, that is only obvious after you say it."
+      ]
+    }
+  ]
+}

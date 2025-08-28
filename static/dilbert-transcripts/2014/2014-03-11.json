@@ -1,0 +1,22 @@
+{
+  "date": "2014-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you were telecom-muting this week.",
+        "It was too exhausting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no follow-up questions."
+      ]
+    }
+  ]
+}

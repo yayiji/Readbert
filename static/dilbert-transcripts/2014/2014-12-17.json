@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking of getting into the strategic planning game."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I understand the job description, you basically hallucinate about the future and then something different happens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You also have to pretend it's useful.",
+        "Really? That sounds hard."
+      ]
+    }
+  ]
+}

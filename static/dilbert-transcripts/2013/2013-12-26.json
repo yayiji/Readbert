@@ -1,0 +1,26 @@
+{
+  "date": "2013-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to success is having passion for what you do!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You make a good point. I quit.",
+        "I'm out of here.",
+        "Me too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You promised me they wouldn't listen.",
+        "It caught me by surprise too."
+      ]
+    }
+  ]
+}

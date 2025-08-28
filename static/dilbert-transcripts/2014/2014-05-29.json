@@ -1,0 +1,25 @@
+{
+  "date": "2014-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You missed all of your goals.",
+        "Because of poor management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll go into more detail when I do my 360-degree review of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I meant to say you're doing great.",
+        "That's what I meant to say too."
+      ]
+    }
+  ]
+}

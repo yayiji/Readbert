@@ -1,0 +1,25 @@
+{
+  "date": "2014-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting reports that you're being cynical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's called an accurate worldview.",
+        "You should try it sometime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it's accurate, why are people upset?",
+        "Said the angry guy to the one who isn't."
+      ]
+    }
+  ]
+}

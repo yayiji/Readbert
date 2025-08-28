@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw your new car in the parking lot. It's nice.",
+        "Thank you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm complimenting the people who made your car, not you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I guess only one of us knows how to make his own car."
+      ]
+    }
+  ]
+}

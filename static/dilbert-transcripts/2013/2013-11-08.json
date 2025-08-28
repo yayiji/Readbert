@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to thank myself for my great leadership on the project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some of you did useful things too, but only because I threatened to fire you if you didn't. So don't let it go to your heads."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you didn't tell them they did good work.",
+        "No, that makes them greedy."
+      ]
+    }
+  ]
+}

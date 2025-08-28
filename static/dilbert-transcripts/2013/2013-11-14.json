@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new strategy is to lower our prices to increase sales."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So our strategy is to start a price war and drive our profit margin to zero?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It made sense at the executive retreat.",
+        "Was alcohol involved?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2014-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your experience is impressive, but a better predictor of success is your cognitive control."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will leave you for ten minutes with a donut, a laptop full of inappropriate videos, and a bottle of vodka. Try to resist them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yee-ha!",
+        "Mmm-mm!",
+        "Do not go in there."
+      ]
+    }
+  ]
+}

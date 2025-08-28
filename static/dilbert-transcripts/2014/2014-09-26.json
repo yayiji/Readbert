@@ -1,0 +1,25 @@
+{
+  "date": "2014-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have too many projects.",
+        "I'm freaking out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts say you should tackle the most unpleasant tasks first, so you have a feeling of accomplishment and control."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I have too many projects and some extra anxiety that I'm doing them in the wrong order.",
+        "Off you go."
+      ]
+    }
+  ]
+}

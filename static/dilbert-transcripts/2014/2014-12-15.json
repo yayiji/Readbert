@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You kept me waiting in the lobby for five minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I used that time to learn everything that matters in the field of personal investing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know that you don't know much?",
+        "I did not know that."
+      ]
+    }
+  ]
+}

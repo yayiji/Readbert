@@ -1,0 +1,23 @@
+{
+  "date": "2013-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Underlings, listen to the charismatic tone of my deep, confident voice!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should we listen to the content, too, or will that just confuse us?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll have to do some research and get back to you."
+      ]
+    }
+  ]
+}

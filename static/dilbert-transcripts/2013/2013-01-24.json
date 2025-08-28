@@ -1,0 +1,30 @@
+{
+  "date": "2013-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our model XR35 is the only one that will work in your situation. The other models would be nightmares."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, we'll take the XR35."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops. It appears we are out of stock."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This is the part where your credibility comes into question.",
+        "Have you looked at the XP9? I think it would be perfect."
+      ]
+    }
+  ]
+}

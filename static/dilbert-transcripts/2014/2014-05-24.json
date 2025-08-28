@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have the results of our customer survey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The new software feature they want most is \"flying car.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you survey any people who aren't idiots?",
+        "No, I only surveyed people who buy from us."
+      ]
+    }
+  ]
+}

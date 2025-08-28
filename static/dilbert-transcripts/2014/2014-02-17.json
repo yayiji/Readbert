@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got up at 4 a.m. because I heard it's what successful people do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Power nap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This sort of thing always sounds better than it looks.",
+        "Zzz"
+      ]
+    }
+  ]
+}

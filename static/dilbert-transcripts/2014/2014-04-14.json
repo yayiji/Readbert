@@ -1,0 +1,25 @@
+{
+  "date": "2014-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea!",
+        "What kind?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it the kind I scoff at, the kind I steal, or the kind that makes me double your workload?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might be all of those.",
+        "Sounds good so far."
+      ]
+    }
+  ]
+}

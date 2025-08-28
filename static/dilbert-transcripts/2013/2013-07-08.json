@@ -1,0 +1,30 @@
+{
+  "date": "2013-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any work I can do during this power outage?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could meet with your project team."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no way to contact them to schedule it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why did you even bring it up?",
+        "Some— times it's about the journey."
+      ]
+    }
+  ]
+}

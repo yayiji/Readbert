@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Larry. I was hired because I'm a good cultural fit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope we can get past the stigma that cultural hires are incompetent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I don't know how to do that.",
+        "Maybe you could ask a competent person to help you."
+      ]
+    }
+  ]
+}

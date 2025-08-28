@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Productivity went down when we moved the engineers from private offices to cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Productivity went down again when we tried the open office plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have we tried putting all of them in one clown car?",
+        "No, but I don't see why that wouldn't work."
+      ]
+    }
+  ]
+}

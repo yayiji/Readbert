@@ -1,0 +1,27 @@
+{
+  "date": "2013-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You killed our robot.",
+        "He had it coming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that it uploaded its personality to the internet before you violently decommissioned it?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know it had subroutines for haunting, revenge, and being a jerk?",
+        "What?",
+        "We meet again."
+      ]
+    }
+  ]
+}

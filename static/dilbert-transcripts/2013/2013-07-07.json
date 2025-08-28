@@ -1,0 +1,54 @@
+{
+  "date": "2013-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our lawyer sent over a sixty-page contract renewal that I need you to review."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make sure you compare it to the original contract and all six or seven amendments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are there six or seven?",
+        "No one really knows."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Check out our other nine hundred contracts to make sure this one doesn't violate any of those."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Keep in mind our five-year strategic plan and all likely changes to tax law."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then get buy-in from the seventeen managers who hate my guts and will take it out on you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "By tomorrow."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Good leaders set high standards."
+      ]
+    }
+  ]
+}

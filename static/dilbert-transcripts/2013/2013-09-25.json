@@ -1,0 +1,27 @@
+{
+  "date": "2013-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Executive coaching",
+        "Research shows that CEOs are more likely to be psychopaths."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously, being a psychopath works.",
+        "Don't let anyone tell you different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's your grandiose sense of self-worth?",
+        "It's the best.",
+        "I should kill you for asking."
+      ]
+    }
+  ]
+}

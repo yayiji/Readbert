@@ -1,0 +1,53 @@
+{
+  "date": "2013-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This website has been blocked by your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mordac, I need access to a blocked site for business reasons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can only unblock the site if the director of human resources sends me a written approval."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can only make recommendations.",
+        "Our CIO still has to approve it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Chief information officer",
+        "How dare you bother me with your trivial website problem!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Crawl back into your hole and think about the career mistake you just made!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can we skip the part where you ask me what I accomplished this week?"
+      ]
+    }
+  ]
+}

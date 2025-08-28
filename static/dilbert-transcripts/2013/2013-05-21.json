@@ -1,0 +1,27 @@
+{
+  "date": "2013-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Customer meeting",
+        "The secret of our company's success is that we hire good people.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying I'm good? I've never heard a compliment at work. What is that feeling inside me? Is it the thing called self-esteem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Awkward.",
+        "Just ignore him.",
+        "Behold my goodness!"
+      ]
+    }
+  ]
+}

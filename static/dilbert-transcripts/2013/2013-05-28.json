@@ -1,0 +1,26 @@
+{
+  "date": "2013-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm afraid to give Alice my opinion of her plan.",
+        "What's the worst thing that could happen?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She could rip off both of my arms and beat me to death with them.",
+        "Then she could track down my family in India and kill them one by one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this your first time giving advice?",
+        "I just figured out why no one ever asks for it."
+      ]
+    }
+  ]
+}

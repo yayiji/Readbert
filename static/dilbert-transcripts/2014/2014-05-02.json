@@ -1,0 +1,23 @@
+{
+  "date": "2014-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project is coming along great. Everything is on time and under budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you really expect me to believe that everything you're working on is going smoothly?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, but apparently you believe I work, and I didn't see that coming either."
+      ]
+    }
+  ]
+}

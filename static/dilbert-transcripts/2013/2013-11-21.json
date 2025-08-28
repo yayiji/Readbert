@@ -1,0 +1,25 @@
+{
+  "date": "2013-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your creativity coming along?",
+        "I don't have any."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your management style makes me focus all of my energy on staying out of trouble."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your insubordination is unacceptable!",
+        "And there it is."
+      ]
+    }
+  ]
+}

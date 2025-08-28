@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say managers should hire great people and set clear expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They don't say what to do when you get the first part wrong, but I'm leaning toward micromanaging."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My employee engagement just went down.",
+        "That was never a real thing."
+      ]
+    }
+  ]
+}

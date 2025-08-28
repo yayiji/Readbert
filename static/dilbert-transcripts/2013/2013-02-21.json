@@ -1,0 +1,27 @@
+{
+  "date": "2013-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a backdoor into NASA's asteroid tracking satellite.",
+        "I see that a big one is heading directly toward..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaaa!!!",
+        "What?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I must fill my final days with love.",
+        "You ruined my ears, jerk!"
+      ]
+    }
+  ]
+}

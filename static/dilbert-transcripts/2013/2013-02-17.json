@@ -1,0 +1,54 @@
+{
+  "date": "2013-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't wait to see the changes I asked you to make on the interface."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our last meeting was two months ago. You must be finished by now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't started yet."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I had a few questions.",
+        "I figured I'd ask you about them the next time we talked."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In the meantime I only did work for people who yelled at me every day."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Micromanagement has a bad reputation, but I'm not too proud to say I need it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay... well, I'm optimistic that you can make those changes for me by next week."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I probably should have asked my questions."
+      ]
+    }
+  ]
+}

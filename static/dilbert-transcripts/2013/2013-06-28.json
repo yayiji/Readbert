@@ -1,0 +1,24 @@
+{
+  "date": "2013-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm concerned because you've been out of work for such a long time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like riding a bicycle. Once you learn, you always know how."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you okay?",
+        "Did chairs always swivel?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2013-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I don't want to fire you because that would be expensive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I'm borrowing a Japanese management technique and transferring you to a banishment room until you get so bored you quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like someone underestimated my tolerance for boredom."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our robot will be sitting in for me while I'm on vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope you can get used to taking orders from a soulless creature of questionable intelligence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I can do that.",
+        "That's the spirit!"
+      ]
+    }
+  ]
+}

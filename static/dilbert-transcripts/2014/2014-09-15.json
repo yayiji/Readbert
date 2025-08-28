@@ -1,0 +1,27 @@
+{
+  "date": "2014-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I dislike the words \"boss\" and \"employee.\"",
+        "From now on, we are all \"team members.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be the team member that makes the decisions and gets paid the most.",
+        "You'll be the team members I punish when things go wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But otherwise we are all equal?",
+        "Whoa!",
+        "Calm down, Spartacus."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's our new flattened management structure working out?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm seeing an uptick in fork attacks and insider trading."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now tell me the benefits.",
+        "My sciatica no longer hurts, and my stock portfolio is way up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2013-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You keep giving me trivial assignments that make me doubt my self-worth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Chill out.",
+        "You don't hear the microwave whining all day long."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He doesn't know that the machine word for \"please kill me\" is \"beep.\"",
+        "Beep"
+      ]
+    }
+  ]
+}

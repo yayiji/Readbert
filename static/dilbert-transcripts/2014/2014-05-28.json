@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you've been nominated by your peers for the \"good attitude award.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get out of here with your stupid, useless award!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I shouldn't let peers do the voting.",
+        "I like her odds to win again next month."
+      ]
+    }
+  ]
+}

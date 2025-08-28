@@ -1,0 +1,23 @@
+{
+  "date": "2013-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll teach you the best practices of companies that have nothing in common with yours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those practices will fit your company like a foot in a glove."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Close enough."
+      ]
+    }
+  ]
+}

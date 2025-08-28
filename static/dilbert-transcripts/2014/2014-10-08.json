@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I know it isn't easy balancing your work duties and your family."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I thought it would help if I trash-talk your family. That way you won't feel so guilty when you ignore them to do my busywork."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll start with your husband.",
+        "Don't bother. I got that one covered."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired an overqualified yet incompetent guy to help on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was happily incompetent for years.",
+        "Then I got my Ph.D. and people started thinking I could do things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I'm stumped."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to have a sense of urgency."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I use most of my energy pretending to work, but I can add a layer of fake urgency if you really need it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "I gotta go! I have vague goals to achieve!"
+      ]
+    }
+  ]
+}

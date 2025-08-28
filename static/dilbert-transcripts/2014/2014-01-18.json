@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're mentally weak."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have no ambition, no pride, and no self-respect."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm also the happiest person in this room.",
+        "Now I just want to kill you."
+      ]
+    }
+  ]
+}

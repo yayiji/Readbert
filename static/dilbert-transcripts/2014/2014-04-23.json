@@ -1,0 +1,25 @@
+{
+  "date": "2014-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I read that using people's names and giving insincere compliments will make me likeable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good job pouring that coffee, Wally.",
+        "You didn't spill a drop."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't feel any different.",
+        "Maybe the problem is on your end."
+      ]
+    }
+  ]
+}

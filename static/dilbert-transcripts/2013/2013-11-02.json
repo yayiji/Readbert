@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, I asked you to write up the best ideas from our brainstorming session."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The top one on your list is \"a robot made of lunch meat.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's basically just a human.",
+        "What part of \"best ideas\" is confusing you?"
+      ]
+    }
+  ]
+}

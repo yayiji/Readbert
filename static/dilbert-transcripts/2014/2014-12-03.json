@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't own a smartphone. I use a flip phone because it does everything I want."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why are you proud of being a big, dumb dinosaur with a terrible phone?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sensing a lot of judgment in that question.",
+        "Wait until you hear my follow-ups."
+      ]
+    }
+  ]
+}

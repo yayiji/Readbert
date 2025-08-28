@@ -1,0 +1,25 @@
+{
+  "date": "2013-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you to meet the two trolls who create our annual budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do we need two of them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because it's hard to reach into your own...",
+        "Whoa!",
+        "It's better to keep some mystery."
+      ]
+    }
+  ]
+}

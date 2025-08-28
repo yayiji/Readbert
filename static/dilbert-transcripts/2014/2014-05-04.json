@@ -1,0 +1,55 @@
+{
+  "date": "2014-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have any billion-dollar product ideas?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a logical problem with that question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I had a billion-dollar idea, I would quit this job and start my own company."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Only a dumb person would give you his best idea for free."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And the best idea from a dumb person is still dumb."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I am willing to give you some ideas that are too lame for my own use."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can you at least pretend to suggest good ideas?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How about a phone with a wooden screen?",
+        "How about a drone that attacks anyone who looks at it?"
+      ]
+    }
+  ]
+}

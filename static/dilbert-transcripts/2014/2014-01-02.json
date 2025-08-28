@@ -1,0 +1,23 @@
+{
+  "date": "2014-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say you should format your presentation like a \"hero's journey.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eventually, the plucky engineer finished his power-point slides despite interference from a pointy-haired monster."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Experts never warn you about that part."
+      ]
+    }
+  ]
+}

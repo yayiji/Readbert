@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it my imagination or is there no career path here from intern to anything else?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we promote you, we just have to find another intern. No one wins in that scenario."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, I would be the winner in that scenario.",
+        "I've never thought of it that way and I don't like it."
+      ]
+    }
+  ]
+}

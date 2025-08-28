@@ -1,0 +1,55 @@
+{
+  "date": "2013-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what is the key to workplace happiness?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, Asok, it all starts with direct deposit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want to keep some mental distance between your effort and your paycheck."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Next, you want to work on projects that have no clear goals or deadlines."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hey, Wally, can you..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, I'm too busy doing various things."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What about the satisfaction of doing good work?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Job satisfaction is what people feel right before they die from stress-related problems.",
+        "I feel highly demotivated now.",
+        "You are very welcome."
+      ]
+    }
+  ]
+}

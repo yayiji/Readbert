@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good leader puts his team ahead of his own ego."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do great leaders do? I'm thinking it's the opposite, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They don't do what you just did.",
+        "They don't be awesome?"
+      ]
+    }
+  ]
+}

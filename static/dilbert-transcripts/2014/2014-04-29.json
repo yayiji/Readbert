@@ -1,0 +1,25 @@
+{
+  "date": "2014-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a question about your feedback on my business plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You called it a \"lumbering monument to incompetence, dishonesty and cor-",
+        "porate dysfunction.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your question?",
+        "Do you think it should be longer?"
+      ]
+    }
+  ]
+}

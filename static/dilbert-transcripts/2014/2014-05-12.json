@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I take my vacation next week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fine. Just work twice as hard this week to get everything done before you leave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In that case, I prefer not taking a vacation at all.",
+        "It's starting to look as if nothing can make you happy."
+      ]
+    }
+  ]
+}

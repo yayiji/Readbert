@@ -1,0 +1,25 @@
+{
+  "date": "2013-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know who keeps taking my good cables and replacing them with defective ones?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Certainly not me.",
+        "But I did see an Elbonian wearing a ski mask near your bench."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not good at reading people.",
+        "I'm counting on that."
+      ]
+    }
+  ]
+}

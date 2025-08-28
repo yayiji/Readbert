@@ -1,0 +1,25 @@
+{
+  "date": "2014-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your last job was doing publicity for a famous magician.",
+        "Why did you leave?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My boss fired me after the trick where he stayed in a sewer full of rats for a month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't hear about that.",
+        "I forgot to tell anyone it was happening."
+      ]
+    }
+  ]
+}

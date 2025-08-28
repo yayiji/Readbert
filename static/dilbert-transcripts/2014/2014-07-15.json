@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When someone takes your picture, the flash spot stays in your vision for a few seconds."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to figure out how to place ads on that little spot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would be a huge personal violation.",
+        "Bah! You said the same thing when we took your privacy."
+      ]
+    }
+  ]
+}

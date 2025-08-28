@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The North Elbonians accused me of being a spy and put me in a forced labor camp."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It sounds worse than it was. I had a private office and all I did was app development."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you escape?",
+        "I didn't. I took a personal day to tell you how much you suck."
+      ]
+    }
+  ]
+}

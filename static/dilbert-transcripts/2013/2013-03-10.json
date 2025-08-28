@@ -1,0 +1,53 @@
+{
+  "date": "2013-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you have accomplished none of your goals. I have to let you go."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, I accomplished a lot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I spent the past ten years creating a tangle of undocumented programming code."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Every one of our major systems is linked to it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I don't enter a password every day, the entire company will go into a technology death spiral."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you value your job, you'll give me a huge raise and dance on this table like a monkey!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's call it a tie."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yeah, I'm good with that."
+      ]
+    }
+  ]
+}

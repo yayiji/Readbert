@@ -1,0 +1,26 @@
+{
+  "date": "2013-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Etiquette training",
+        "The napkin goes in your lap."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Honk"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not a handkerchief!",
+        "It sort of is.",
+        "Honk"
+      ]
+    }
+  ]
+}

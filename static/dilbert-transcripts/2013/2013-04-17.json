@@ -1,0 +1,25 @@
+{
+  "date": "2013-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The best way to evaluate an investment fund is to look at its misleading claims of past performance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The Dogbert hedge fund beat the market average for a three-week period...",
+        "That one time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you do that again?",
+        "It depends on what you mean by \"that.\""
+      ]
+    }
+  ]
+}

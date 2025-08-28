@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I read an article that says employees are happiest when their jobs give them a sense of meaning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is this \"sense of meaning\" thing and how can I get some of it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I feel like a bag of organ meat draped over an electric fence.",
+        "Almost the same thing."
+      ]
+    }
+  ]
+}

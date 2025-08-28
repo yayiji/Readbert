@@ -1,0 +1,25 @@
+{
+  "date": "2013-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And you are...?",
+        "I've worked for you for four years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was telecommuting, but now our company policy forbids it, so here I am."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I give you any assignments in those four years?",
+        "No, and you can imagine how disappointed I am now."
+      ]
+    }
+  ]
+}

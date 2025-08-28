@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, are you almost done with your part of the project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I work best under pressure, so I wait until the deadline is almost here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if something more important comes up and you don't have time?",
+        "That's the cornerstone of my system."
+      ]
+    }
+  ]
+}

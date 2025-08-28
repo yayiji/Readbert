@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Research shows that your best customers are creepy bearded guys."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That same group also buys a high volume of potato chips and tissues."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's that help us?",
+        "Two words: combo pack."
+      ]
+    }
+  ]
+}
