@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't assign you to a project team because everyone hates you for your political opinions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And they don't hate me for being useless in general?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess we all got used to that.",
+        "You'll get used to the other thing, too.",
+        "Give it some time."
+      ]
+    }
+  ]
+}

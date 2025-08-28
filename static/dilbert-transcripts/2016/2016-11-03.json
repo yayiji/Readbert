@@ -1,0 +1,24 @@
+{
+  "date": "2016-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need everyone's buy-in on this.",
+        "Do I have to read it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the sort of idea I can get behind."
+      ]
+    }
+  ]
+}

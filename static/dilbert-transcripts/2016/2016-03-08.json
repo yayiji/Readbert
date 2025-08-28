@@ -1,0 +1,25 @@
+{
+  "date": "2016-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't think my motivational messages are getting through to the employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't make them pay attention to anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried not being boring?",
+        "Good idea.",
+        "I'll make fifty slides of pure excitement."
+      ]
+    }
+  ]
+}

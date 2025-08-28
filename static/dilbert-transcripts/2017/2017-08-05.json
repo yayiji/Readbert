@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw packaging for wireless earbuds in the trash."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that why you suddenly seem to be a good listener?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh.",
+        "His lips stopped moving."
+      ]
+    }
+  ]
+}

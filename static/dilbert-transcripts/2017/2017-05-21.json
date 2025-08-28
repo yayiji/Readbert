@@ -1,0 +1,53 @@
+{
+  "date": "2017-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you give me a ride to the airport on Saturday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My attorney will answer that question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The evidence will show that you are not the kind of friend who qualifies for airport rides."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I will prove beyond a reasonable doubt that you are what is called a \"work friend.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A background check with your family and acquaintances will show that you are unlikely to ever reciprocate."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In short, there is no social or monetary reason for Dilbert to agree to your unreasonable request."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe he just wants to be nice."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The evidence would suggest otherwise."
+      ]
+    }
+  ]
+}

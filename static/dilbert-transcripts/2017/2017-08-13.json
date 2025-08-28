@@ -1,0 +1,57 @@
+{
+  "date": "2017-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You look stressed.",
+        "I am."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you drink so much coffee and stay so calm?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's easy. I wear a \"Thundershirt\" under my work clothes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It was designed to make dogs feel safe during thunderstorms."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When I saw the commercial for it on TV, I wondered what else it could do, so I bought one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I haven't had a bad day at work since then."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "One week later",
+        "Feeling good!",
+        "Best day of work ever!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you convince a co-worker to wear pet clothes?",
+        "That's how I reduce my stress."
+      ]
+    }
+  ]
+}

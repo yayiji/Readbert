@@ -1,0 +1,25 @@
+{
+  "date": "2017-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have time to check my design?",
+        "Let me see."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nope."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just check your calendar?",
+        "With my system, I don't need a calendar."
+      ]
+    }
+  ]
+}

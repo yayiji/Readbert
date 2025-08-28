@@ -1,0 +1,23 @@
+{
+  "date": "2016-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I convinced our boss to wear virtual reality goggles all day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good job, Wally! I've never seen you work so many hours!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Reality is nice, but I find it limiting."
+      ]
+    }
+  ]
+}

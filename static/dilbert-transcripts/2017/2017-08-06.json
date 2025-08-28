@@ -1,0 +1,55 @@
+{
+  "date": "2017-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My chair is broken. I need a new one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can take Ted's chair. I fired him this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels icky.",
+        "It's just a chair."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ted was a creepy underperformer. I don't want his loser energy on me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's your only option unless I fire someone else today."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, give me an hour to do some back-stabbing and rumor-mongering."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll just let that situation work itself out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Nice chair.",
+        "Why did my fight-or-flight instinct just kick in?"
+      ]
+    }
+  ]
+}

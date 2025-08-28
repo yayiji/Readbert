@@ -1,0 +1,25 @@
+{
+  "date": "2016-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the drone defense shield design coming along?",
+        "Super."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only risk is that it will kill every bird in the sky on day one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't birds have feet? They can just walk.",
+        "I'll add that to the slide deck."
+      ]
+    }
+  ]
+}

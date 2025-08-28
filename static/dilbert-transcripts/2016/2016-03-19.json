@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "An identity thief stole my identity and opened a brokerage account."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How did they know he was an impostor? Did he make a smart investment?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That isn't funny.",
+        "Did the impostor have a sense of humor?"
+      ]
+    }
+  ]
+}

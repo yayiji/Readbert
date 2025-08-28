@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do I keep taking on more work while you do nothing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you optimize for productivity, while I optimize for my happiness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That makes you a free-loader.",
+        "I prefer the label \"happy winner.\""
+      ]
+    }
+  ]
+}

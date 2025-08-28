@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company that insures our mobile phone product is angry because 100% of our phones break in the first minute."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They say it's a disaster and it is putting them out of business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should I tell them?",
+        "Tell them they should have gotten some sort of insurance."
+      ]
+    }
+  ]
+}

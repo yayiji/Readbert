@@ -1,0 +1,25 @@
+{
+  "date": "2016-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The entitled employee",
+        "Did you finish your assignment for the project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I was tired, and it looked hard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assume someone does the hard stuff for me. Am I wrong?",
+        "I need to have a word with your parents."
+      ]
+    }
+  ]
+}

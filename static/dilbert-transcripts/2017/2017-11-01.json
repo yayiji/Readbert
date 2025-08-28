@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The neural interface is live. His brain is now communicating with his phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's sending me a brain-text. It says, \"Please help me. My phone has taken control of my body.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It worked!",
+        "Now we just need to write an app that makes him a better boss."
+      ]
+    }
+  ]
+}

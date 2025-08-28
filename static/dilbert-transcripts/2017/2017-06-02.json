@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, you must refer to your cubicle as a \"modular workstation.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The word \"cubicle\" is demeaning to the people who work in them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel so much better now.",
+        "Good. I was hoping it would work quickly."
+      ]
+    }
+  ]
+}

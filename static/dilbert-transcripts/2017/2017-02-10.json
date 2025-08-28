@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As the designated agile scrum, it is my job to remove any distractions so you can work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great. Remove yourself from my cubicle and you've done your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That seems too easy.",
+        "And yet you can't do it."
+      ]
+    }
+  ]
+}

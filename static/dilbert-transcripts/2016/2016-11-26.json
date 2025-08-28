@@ -1,0 +1,26 @@
+{
+  "date": "2016-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you appeared naked on Elbonian television.",
+        "I did?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only television show in Elbonia is a live feed from their airport full-body scanners."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That can't be true.",
+        "One of our subsidiaries built the system.",
+        "Here's you."
+      ]
+    }
+  ]
+}

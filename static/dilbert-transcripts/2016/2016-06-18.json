@@ -1,0 +1,25 @@
+{
+  "date": "2016-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company policy says you have to take a vacation.",
+        "I don't want one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would be bored for a week and come back to all the work that piled up while I was gone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing about you is normal.",
+        "Thank you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Introducing our new mobile phone product, the BSB 100."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "BSB stands for beautiful, slippery, and brittle.",
+        "Oops."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the 100 stand for?",
+        "That's how many times you'll have to replace a cracked screen."
+      ]
+    }
+  ]
+}

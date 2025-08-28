@@ -1,0 +1,54 @@
+{
+  "date": "2017-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You left a spreadsheet with everyone's salary in the copier.",
+        "Oops."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By now, every employee has seen it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I be worried that it will lower morale?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, I wouldn't worry about that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I would worry about heads exploding when they find out Wally has the highest pay in the department."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Pow!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's going to be a long week."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would you mind kicking that angry eyeball into the trash?"
+      ]
+    }
+  ]
+}

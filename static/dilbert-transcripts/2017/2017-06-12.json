@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm nervous because I need to make a presentation to our CEO. Do you have any advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't make eye contact with him. He hates that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have made things far worse!",
+        "He also flies into a rage when he hears the word \"the.\""
+      ]
+    }
+  ]
+}

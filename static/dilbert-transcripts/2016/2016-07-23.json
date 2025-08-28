@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have plans for the weekend?",
+        "No, I'm an introvert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll probably experience despair and loneliness while being jealous of people who have substance abuse problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah, me too.",
+        "This conversation is dragging on too long."
+      ]
+    }
+  ]
+}

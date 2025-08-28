@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll approve this if you get buy-in from the rest of the department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What value are you adding in that scenario?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not firing you.",
+        "In that case, keep up the good work."
+      ]
+    }
+  ]
+}

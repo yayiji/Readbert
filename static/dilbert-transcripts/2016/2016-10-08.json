@@ -1,0 +1,25 @@
+{
+  "date": "2016-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company policy says I have to fire the bottom 10% of performers, so... you're fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought I was near the top.",
+        "That was before I fired everyone below you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you see any problem with your system?",
+        "Yes, it's exhaus-ting."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2017-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't work with Wally.",
+        "His political views are abhorrent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That has nothing to do with your job.",
+        "He makes me too sad and angry to work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you be happy if I punished him for having an opinion?",
+        "Would I be a bad person if I said I would?"
+      ]
+    }
+  ]
+}

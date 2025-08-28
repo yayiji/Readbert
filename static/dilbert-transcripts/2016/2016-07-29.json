@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I noticed that the project dashboard you wrote for me never changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because our projects are always doing great."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a static image, isn't it?",
+        "You're gonna wish you asked that three weeks ago."
+      ]
+    }
+  ]
+}

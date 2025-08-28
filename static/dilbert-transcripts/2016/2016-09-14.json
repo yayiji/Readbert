@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember, it's only work if you'd rather be doing something else!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would rather do anything else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh. In that case, you're trapped in a nightmare that never ends.",
+        "I have a lot riding on the afterlife."
+      ]
+    }
+  ]
+}

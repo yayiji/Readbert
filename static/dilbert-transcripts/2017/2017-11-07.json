@@ -1,0 +1,25 @@
+{
+  "date": "2017-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see you're off your phone. Can I pop in and ask a quick question?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but only if it is quick.",
+        "Oh, it will be."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, make it quick.",
+        "What is blockchain and how will it influence our strategy across all product lines?"
+      ]
+    }
+  ]
+}

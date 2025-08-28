@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Check out the new virtual reality goggles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You wear them all day to upgrade the way you experience the world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "It's good to see you working so hard, Wally."
+      ]
+    }
+  ]
+}

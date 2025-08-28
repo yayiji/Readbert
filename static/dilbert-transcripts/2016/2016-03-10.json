@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I demand a ten-million-dollar raise!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nice try! Every idiot knows that's your opening offer to set an anchor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will settle for half of it.",
+        "You'll take 30% of that, and not a penny more!"
+      ]
+    }
+  ]
+}

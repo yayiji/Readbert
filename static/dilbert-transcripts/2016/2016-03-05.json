@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The secret to success is finding one thing at which you can be the best."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are you the best at?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the best at motivating people.",
+        "Yay! I can't wait for that to start."
+      ]
+    }
+  ]
+}

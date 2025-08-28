@@ -1,0 +1,23 @@
+{
+  "date": "2016-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I forgot to make an agenda for this meeting, so I'll just freestyle it with jargon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's do a deep dive in the big data and drill down until we hyperlocalize some disruptive technologies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's enough leadership. Now the rest of you need to do something."
+      ]
+    }
+  ]
+}

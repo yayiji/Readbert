@@ -1,0 +1,25 @@
+{
+  "date": "2016-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to go to lunch?",
+        "I can't be your friend because I'm your boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Someday I might need to fire you, and it would be awkward if we were friends."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Want to go to lunch?",
+        "Sure."
+      ]
+    }
+  ]
+}

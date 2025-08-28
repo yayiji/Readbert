@@ -1,0 +1,24 @@
+{
+  "date": "2016-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is there anything I need to know before I babysit your kids tonight?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They won't do anything you ask, and they don't respond to threats or consequences."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... what am I supposed to do?",
+        "Try finding some idiot to babysit for you."
+      ]
+    }
+  ]
+}

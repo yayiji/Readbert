@@ -1,0 +1,24 @@
+{
+  "date": "2016-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I started by giving the device human intelligence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I added human emotions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now it answers every question by accusing you of having a secret agenda.",
+        "Just like people!"
+      ]
+    }
+  ]
+}

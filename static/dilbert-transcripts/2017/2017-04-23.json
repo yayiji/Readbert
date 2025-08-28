@@ -1,0 +1,54 @@
+{
+  "date": "2017-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our sales for the quarter were zero."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heads will roll! Whose fault is this?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's entirely your fault."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You told a reporter that our next version will be amazing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So all of our customers are waiting for the new version."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The only sensible solution here is for you to admit your mistake and resign in utter humiliation."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or... I could blame this guy, whatever his name is."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That isn't right.",
+        "Looks like I'll be adding insubordination to the charges."
+      ]
+    }
+  ]
+}

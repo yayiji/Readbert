@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent the past week fixing a critical bug in the software that I forgot to tell you about."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In a way, it's like you never existed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's not like that at all.",
+        "And you have a bad attitude on top of all that."
+      ]
+    }
+  ]
+}

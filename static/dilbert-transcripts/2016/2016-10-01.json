@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People are telling me you are accepting bribes to help co-workers on projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You think I'm helping my co-workers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good point. That part didn't sound right.",
+        "Trust your first instinct."
+      ]
+    }
+  ]
+}

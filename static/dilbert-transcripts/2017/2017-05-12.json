@@ -1,0 +1,31 @@
+{
+  "date": "2017-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, everybody!",
+        "I'm the new robot!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, you're our old robot.",
+        "We erased your memories and replaced your head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, I'm working with serial killers?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It isn't \"serial\" until we do you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's my presentation.",
+        "What do you think?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't understand a word of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could have mentioned that an hour ago.",
+        "Didn't want to be rude."
+      ]
+    }
+  ]
+}

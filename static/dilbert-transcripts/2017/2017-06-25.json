@@ -1,0 +1,57 @@
+{
+  "date": "2017-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, we need a volunteer to test the time machine prototype."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it safe?",
+        "Of course it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would I ask you to risk your life if it were not safe?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes.",
+        "Oh. I didn't realize you knew that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But don't worry.",
+        "The engineering consensus is that it will work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You will return to this exact spot in one day."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does our location algorithm account for planetary movement?",
+        "Click"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I should have asked more questions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are we paying so much for this software?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because you didn't let me take a class on negotiating like I asked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you using this as leverage to get approval for the class?",
+        "No, I'm just being ineffec- tive. Does it look the same?"
+      ]
+    }
+  ]
+}

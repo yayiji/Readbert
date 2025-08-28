@@ -1,0 +1,25 @@
+{
+  "date": "2017-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to do a financial analysis on upgrading our customer tracking software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What conclusion do you want me to reach?",
+        "We'll do whatever the data says."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which is...?",
+        "I already bought the upgrade."
+      ]
+    }
+  ]
+}

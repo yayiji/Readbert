@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any tips for my presentation to our CEO?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you are presenting, imagine you are naked and everyone is laughing at you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why?",
+        "It's just something I read. I might have the details wrong."
+      ]
+    }
+  ]
+}

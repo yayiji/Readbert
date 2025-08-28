@@ -1,0 +1,25 @@
+{
+  "date": "2017-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After the office redesign, you will be in the cubicle nearest our pointy-haired boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How did you decide on that?",
+        "I used an algorithm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the algorithm that you hate me?",
+        "And you have never studied martial arts."
+      ]
+    }
+  ]
+}

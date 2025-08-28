@@ -1,0 +1,29 @@
+{
+  "date": "2017-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The one they call Dilbert suggested we do something that looks good but won't work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this the first trace of management potential you've seen from him?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You think it's a fluke?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's keep an eye on it."
+      ]
+    }
+  ]
+}

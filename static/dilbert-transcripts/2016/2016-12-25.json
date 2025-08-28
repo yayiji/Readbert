@@ -1,0 +1,56 @@
+{
+  "date": "2016-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to train our new hire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The first thing you need to know is that we never use the DPX system when the MGB is down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The... what and the what?",
+        "Hold your questions till the end."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can use our PX4 to tunnel into the B9 data and produce a TMNP report."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But you'll need authorization from the LDG and the Micco."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't understand any of that.",
+        "I told you to hold your questions until the end."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Always remember to jost the prim-pram whenever the gip is fleeming toward Kilp."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe I should ask someone else to train me.",
+        "Now we're making progress."
+      ]
+    }
+  ]
+}

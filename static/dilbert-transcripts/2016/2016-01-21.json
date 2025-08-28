@@ -1,0 +1,25 @@
+{
+  "date": "2016-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My brain won't work when the office is warmer than 72.",
+        "It has to be at least 74 or I'll freeze."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's it like to hold dominion over the earth within a narrow band of temperatures that can't coexist?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that a joke?",
+        "I'm too cold to think!"
+      ]
+    }
+  ]
+}

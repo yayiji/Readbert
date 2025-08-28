@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The men never invite me to after-work activities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll need to find out if the problem is sexism or your personality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I decided not to dig into it.",
+        "I think you'll be happy with your decision."
+      ]
+    }
+  ]
+}

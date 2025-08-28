@@ -1,0 +1,26 @@
+{
+  "date": "2016-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management has selected Dilbert to be our new company mascot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His bad posture speaks volumes about his hard work and long hours.",
+        "Pat pat",
+        "Ow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you ever dream you would be so successful?",
+        "This is exactly how I dreamed it."
+      ]
+    }
+  ]
+}

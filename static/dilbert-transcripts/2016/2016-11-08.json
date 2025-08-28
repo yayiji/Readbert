@@ -1,0 +1,24 @@
+{
+  "date": "2016-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't find any evidence that I have a soul, so I built an artificial one and put it in a drone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When my physical body dies, the drone will upload my memories and personality to the cloud to live forever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your soul will be trapped in a server?",
+        "No, I wrapped it in a virus so I can travel."
+      ]
+    }
+  ]
+}

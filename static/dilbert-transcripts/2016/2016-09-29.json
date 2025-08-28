@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have time to help.",
+        "What if I bribe you to do your job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am literally offering to give you my personal money to do the job your employer pays you to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you willing to turn a blind eye to my total lack of effort, or should I find a better briber?"
+      ]
+    }
+  ]
+}

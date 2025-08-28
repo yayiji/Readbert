@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a thumb drive on the sidewalk. It must be my lucky day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like free money!",
+        "Can free money infect our network too?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You worry too much.",
+        "If you need me, I'll be selling all of my company stock."
+      ]
+    }
+  ]
+}

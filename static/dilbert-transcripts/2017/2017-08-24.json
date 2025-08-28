@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, can you review the product warning I wrote?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Don't start a fight with a rabid raccoon while using this product.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have nineteen pages of rabies warnings.",
+        "I was surprised at how many animals there are."
+      ]
+    }
+  ]
+}

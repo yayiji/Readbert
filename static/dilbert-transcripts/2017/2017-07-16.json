@@ -1,0 +1,54 @@
+{
+  "date": "2017-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your feedback on my powerpoint deck before Tuesday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll do that on Monday night.",
+        "Gaaa!!! It's a trap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are notoriously undependable. The odds of you working on a Monday night are terrible."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I don't get your input on time, you will make a fool out of me in the meeting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll stay up all night Monday hoping to get your email."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But that input will never come. I'll end up doing the presentation on no sleep."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then you will embarrass me during the presentation by pointing out the errors in my slides."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "For a mind reader, you sure have a terrible life."
+      ]
+    }
+  ]
+}

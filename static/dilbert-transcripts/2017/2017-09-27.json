@@ -1,0 +1,25 @@
+{
+  "date": "2017-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone says you moved the server rack and lied about it.",
+        "Everyone is wrong. It didn't happen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, so it's your word against literally \"everyone\"? Is that what you are saying?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll go with the majority on this, thank you very much.",
+        "I want to like people, but they don't make it easy."
+      ]
+    }
+  ]
+}

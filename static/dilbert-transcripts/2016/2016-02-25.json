@@ -1,0 +1,24 @@
+{
+  "date": "2016-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today is my first day as an Uber driver. I love the flexibility!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only have to work 75 hours a week and I can pay my rent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With plenty left over?",
+        "Are you going to finish that sandwich?"
+      ]
+    }
+  ]
+}

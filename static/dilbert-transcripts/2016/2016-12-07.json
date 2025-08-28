@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We hired the Dogbert Public Relations firm to help us with our exploding phone problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have two choices. We can either recall all of the phones, or we can convince people that having one ear is cool."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Recalls are expensive.",
+        "Okay, the Van Gogh strategy it is."
+      ]
+    }
+  ]
+}

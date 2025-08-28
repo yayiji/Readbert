@@ -1,0 +1,26 @@
+{
+  "date": "2017-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I approved your request to take a negotiating class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why did you change your mind?",
+        "The instructor offered a great deal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Earlier that day",
+        "Would you like to spend other people's money to get rid of Dilbert for a few days?",
+        "Sold!"
+      ]
+    }
+  ]
+}

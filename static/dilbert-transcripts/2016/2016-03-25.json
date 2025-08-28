@@ -1,0 +1,25 @@
+{
+  "date": "2016-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great update, Ted.",
+        "Now let's hear what Dilbert did this week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I unnecessarily duplicated Ted's work because you forgot you asked both of us to do the same task."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And how about Alice?",
+        "You're three for three."
+      ]
+    }
+  ]
+}

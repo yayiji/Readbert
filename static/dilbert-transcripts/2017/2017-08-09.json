@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my employee body cam playback, you contradicted yourself eleven times today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your stupid body cam is interfering with my ability to manage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "By \"manage,\" do you mean contradicting yourself and later denying it?",
+        "I don't not mean that."
+      ]
+    }
+  ]
+}

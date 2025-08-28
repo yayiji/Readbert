@@ -1,0 +1,25 @@
+{
+  "date": "2016-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't get too close. He's brain-trapping.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's doing a task so boring that he has to cover his ear holes so his brain won't try to escape."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no way for it to get out now.",
+        "Did he just get taller?"
+      ]
+    }
+  ]
+}

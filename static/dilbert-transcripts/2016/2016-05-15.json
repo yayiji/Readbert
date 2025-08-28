@@ -1,0 +1,57 @@
+{
+  "date": "2016-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When do you expect to finish your project?",
+        "Never."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's your plan?",
+        "No, my plan is to be done in a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You asked me what I expect."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I base my expectations on the quality of people you assigned to my project without asking my opinion."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The time-wasters outnumber the productive people on the team by three to one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Under that scenario, plus your total lack of leadership, the world will end before this project does."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then why is your plan to be done in one week?",
+        "Because you don't like it when I tell the truth."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's compromise on two weeks.",
+        "Can we set those two weeks on auto-renew?"
+      ]
+    }
+  ]
+}

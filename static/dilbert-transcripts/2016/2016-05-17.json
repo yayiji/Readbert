@@ -1,0 +1,25 @@
+{
+  "date": "2016-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm bored.",
+        "Here's some more work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm overwhelmed with work.",
+        "Here's some more work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Managing was hard until I figured out a system."
+      ]
+    }
+  ]
+}

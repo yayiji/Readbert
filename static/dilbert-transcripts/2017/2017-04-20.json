@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to use our VR technology to take over the cubicle business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write a program that makes users feel as if they are working in a fabric-covered box."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should think outside the box.",
+        "Stop resisting change."
+      ]
+    }
+  ]
+}

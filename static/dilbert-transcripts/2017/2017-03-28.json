@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever want more out of life?",
+        "That's how losers think."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you always want more, you can never be happy with what you have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if you're wise or lazy.",
+        "I know. It took me years to find that sweet spot."
+      ]
+    }
+  ]
+}

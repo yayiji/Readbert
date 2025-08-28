@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are the odds that you made this complicated spreadsheet without any critical errors?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does it matter, as long as it gives me the answer I want?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It should.",
+        "But ask yourself if it does."
+      ]
+    }
+  ]
+}

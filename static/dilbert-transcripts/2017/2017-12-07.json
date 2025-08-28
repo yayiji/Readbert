@@ -1,0 +1,23 @@
+{
+  "date": "2017-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Elbonian virus in our network just gave every employee a 10% raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have to get rid of the virus!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If the Elbonian software is giving me a raise, and you're trying to stop it, wouldn't that make you the virus?"
+      ]
+    }
+  ]
+}

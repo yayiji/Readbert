@@ -1,0 +1,25 @@
+{
+  "date": "2016-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're looking for a celebrity spokesperson, but we don't have much budget for it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All we can afford is a cartoonist. Can you do the job for $75?",
+        "Deal!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you ever done anything on social media that would embarrass us?",
+        "I thought that's what it's for."
+      ]
+    }
+  ]
+}

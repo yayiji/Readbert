@@ -1,0 +1,25 @@
+{
+  "date": "2016-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've noticed that you go to work every day and yet the world is still a boiling cesspool of terribleness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's as if you're not even trying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I gotta go.",
+        "I'm late for doing nothing useful.",
+        "I'm already forgetting your name."
+      ]
+    }
+  ]
+}

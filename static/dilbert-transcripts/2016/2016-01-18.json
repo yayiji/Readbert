@@ -1,0 +1,25 @@
+{
+  "date": "2016-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's freezing in here.",
+        "I'm hot. Put on a sweater."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why am I the one who has to change?",
+        "You should wear a sweater made of ice packs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's time to admit I'm a bad negotiator."
+      ]
+    }
+  ]
+}

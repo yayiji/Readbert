@@ -1,0 +1,29 @@
+{
+  "date": "2017-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss is trying to groom me for management. How can I get out of it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell him that as soon as you are sufficiently groomed you will stab him in the back and take his job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And then I'll take your job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm moving you to the advanced management class."
+      ]
+    }
+  ]
+}

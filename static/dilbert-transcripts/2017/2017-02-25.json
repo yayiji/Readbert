@@ -1,0 +1,25 @@
+{
+  "date": "2017-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to set some goals for you.",
+        "My job is to maintain the legacy system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My only goal is to avoid accidentally upgrading it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And how's that going?",
+        "I don't like to brag, but I was born for this job."
+      ]
+    }
+  ]
+}

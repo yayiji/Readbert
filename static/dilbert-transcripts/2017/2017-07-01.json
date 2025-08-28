@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're done moving the staff from the open office plan back to cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now they will be less distracted when they focus on the crushing futility of their assignments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good job.",
+        "If you need me, I'll be in my fabric-covered box."
+      ]
+    }
+  ]
+}

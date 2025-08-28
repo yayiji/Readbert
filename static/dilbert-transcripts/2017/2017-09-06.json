@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new robot is too smart."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It keeps threatening humans into doing its job while it does nothing but drink coffee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that all you do?",
+        "I don't like where this is heading."
+      ]
+    }
+  ]
+}

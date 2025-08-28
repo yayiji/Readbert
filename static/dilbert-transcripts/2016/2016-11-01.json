@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our pointy-haired boss asked me to get everyone's buy-in on this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll agree to your stupid idea if you support my great idea later.",
+        "Deal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I read it?",
+        "I don't see why."
+      ]
+    }
+  ]
+}

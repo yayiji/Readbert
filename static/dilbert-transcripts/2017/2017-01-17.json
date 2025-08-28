@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a problem at our Elbonian manufacturing plant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees are leaping from the roof to end their lives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's only two stories high.",
+        "That's the problem. It takes three jumps to do it right."
+      ]
+    }
+  ]
+}

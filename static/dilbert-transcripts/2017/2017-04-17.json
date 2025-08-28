@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to work on the VR headset project on top of my other duties."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's weird. You've never volunteered for extra work before.",
+        "People change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or not.",
+        "Zzzz."
+      ]
+    }
+  ]
+}

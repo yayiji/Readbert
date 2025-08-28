@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you get me more details on the financial projections?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. I wrote an app that generates random numbers, just in case you asked for them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "17, 4, 962...",
+        "Yes, this looks about right."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2017-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You were on vacation last week so I made decisions about your project without you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh no...",
+        "What have you done?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I transferred your budget to another project."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I need that money!",
+        "Oh. Can you wait until the other project manager goes on vacation?"
+      ]
+    }
+  ]
+}

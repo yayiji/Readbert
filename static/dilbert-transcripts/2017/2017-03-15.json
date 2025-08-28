@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you have some vacation days coming. Planning anything big?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to catch up on all the work I couldn't get done here because people keep interrupting me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a sad vacation.",
+        "Then why am I craving it right now?"
+      ]
+    }
+  ]
+}

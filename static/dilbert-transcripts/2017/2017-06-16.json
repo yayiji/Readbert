@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have 75 slides to discuss in ten minutes. Save your questions to the end."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sit down and never talk to me again as long as you live."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd the CEO presentation go?",
+        "It was 75 slides too long."
+      ]
+    }
+  ]
+}

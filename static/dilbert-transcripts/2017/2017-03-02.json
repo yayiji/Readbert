@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you have been comparing yourself to Gandhi, the father of my birth country."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is offensive.",
+        "It makes me want to punch you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried fasting instead?",
+        "I hear good things about it."
+      ]
+    }
+  ]
+}

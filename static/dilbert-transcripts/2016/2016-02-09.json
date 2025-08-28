@@ -1,0 +1,24 @@
+{
+  "date": "2016-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This job is turning me into Quasimodo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it mostly a posture thing, or do you have some of Quasi's attitude as well?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's wrong with my posture?",
+        "I could ask you what's wrong with his attitude."
+      ]
+    }
+  ]
+}

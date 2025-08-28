@@ -1,0 +1,24 @@
+{
+  "date": "2016-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're undergoing an identity transition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I just have bad posture from looking at a screen all day.",
+        "I'm not literally turning into Quasimodo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's too bad, because we need a new mascot for the company and you would be perfect."
+      ]
+    }
+  ]
+}

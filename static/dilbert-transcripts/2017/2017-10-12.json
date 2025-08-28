@@ -1,0 +1,31 @@
+{
+  "date": "2017-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to lower your price, but I don't know how to negotiate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's easy. All you need to do is offer to pay more than the list price and wait for me to counteroffer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay...",
+        "I'll pay 20% over the list price."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You win!",
+        "Sign here."
+      ]
+    }
+  ]
+}

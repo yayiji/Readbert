@@ -1,0 +1,54 @@
+{
+  "date": "2016-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need some mentoring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is awkward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On one hand, helping you would make me appear wise and generous."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "On the other hand, it would make you a more credible threat to take my job."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I see you as more of an adversary than a subordinate."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's why I withhold vital information that you need to do your job."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've already said too much."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you learn anything?",
+        "Yes, unfortunately."
+      ]
+    }
+  ]
+}

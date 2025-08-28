@@ -1,0 +1,55 @@
+{
+  "date": "2016-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have too much work, and it's stressing me out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been reading about this sort of situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try writing down all the things that make you feel grateful."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That would be more work!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "For your anger issues, try keeping a journal of all the times you lose your temper."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That would be more work!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Has anyone ever taken your advice?",
+        "Do you know the guy in marketing with the eye patch?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He followed your advice?",
+        "Half of it."
+      ]
+    }
+  ]
+}

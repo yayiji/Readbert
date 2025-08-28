@@ -1,0 +1,26 @@
+{
+  "date": "2016-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I never got the file you said you would send.",
+        "I don't know what file type you want."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why didn't you ask?",
+        "Why didn't you check your email and see that I did?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why didn't you text me to say you emailed me?",
+        "Why don't you drive into a ravine?"
+      ]
+    }
+  ]
+}

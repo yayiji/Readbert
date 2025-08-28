@@ -1,0 +1,25 @@
+{
+  "date": "2016-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was work?",
+        "Are you being sarcastic?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know my life is an endless string of useless tasks orchestrated by idiots. Why do you even ask?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like hearing it.",
+        "Your honesty is not refreshing."
+      ]
+    }
+  ]
+}

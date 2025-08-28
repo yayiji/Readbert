@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting wildly different estimates for how long it will take to write the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Based on my experience, I say take the longest estimate and multiply it by three."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is experience exactly the same as pessimism?",
+        "Experience is much worse."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We replaced our company lawyer with a robot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It already rewrote all of our contracts into gibberish."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do we want that?",
+        "I tried to ask, but it threatened to sue me."
+      ]
+    }
+  ]
+}

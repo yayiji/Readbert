@@ -1,0 +1,54 @@
+{
+  "date": "2016-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are our competitors beating us on the benchmark speed tests?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do they have better engineers?",
+        "No, they have better management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Their management probably got them the budget they needed to do the job right."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm guessing they were helpful, instead of being useless, blamecasting time-wasters."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I hear you can do a lot when you have good management."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll probably try to get a job with a competitor. They sound great."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It is also possible they lied about their benchmark test results."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You should have said that first!"
+      ]
+    }
+  ]
+}

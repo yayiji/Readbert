@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all weekend and finished my project early."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I don't have all of that stress hanging over me.",
+        "I feels great!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless you plan to punish me for my productivity.",
+        "I call it delegating."
+      ]
+    }
+  ]
+}

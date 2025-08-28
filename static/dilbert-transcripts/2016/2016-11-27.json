@@ -1,0 +1,53 @@
+{
+  "date": "2016-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When will you finish the technical review?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That will depend on a variety of unknowns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A lot can happen between now and whenever you imagine I might be done with it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No one knows the future."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'd be a liar if I said I did, and you don't want a co-worker who is a liar, do you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or do you?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Lying would be better than whatever this is."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "In that case, I'll have it tomorrow."
+      ]
+    }
+  ]
+}

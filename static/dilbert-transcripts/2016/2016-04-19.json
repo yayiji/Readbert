@@ -1,0 +1,26 @@
+{
+  "date": "2016-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government wants us to make software to crack our own encryption.",
+        "That sounds evil."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's for the good of the country.",
+        "Can I test it on your phone?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd have to kill me first.",
+        "That would be two good things for the country."
+      ]
+    }
+  ]
+}

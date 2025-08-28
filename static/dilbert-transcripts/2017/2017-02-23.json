@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does it bother you to work on the old legacy system when the rest of us are doing exciting new things?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I leave work at 4 p.m. every day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about you?",
+        "Squatters keep moving into my house."
+      ]
+    }
+  ]
+}

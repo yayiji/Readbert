@@ -1,0 +1,24 @@
+{
+  "date": "2016-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need everyone's buy-in on my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can have my buy-in for $25."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted only charged me $15.",
+        "It isn't my fault that Ted is a bad negotiator."
+      ]
+    }
+  ]
+}

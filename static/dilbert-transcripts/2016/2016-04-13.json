@@ -1,0 +1,26 @@
+{
+  "date": "2016-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't answer my email.",
+        "I don't read long email messages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Long emails are a sign of a disorganized mind.",
+        "I try to avoid contact with that sort of person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And yet, here I am.",
+        "I didn't say it works every time."
+      ]
+    }
+  ]
+}

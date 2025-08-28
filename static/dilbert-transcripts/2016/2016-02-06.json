@@ -1,0 +1,30 @@
+{
+  "date": "2016-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This hat monitors your brain waves and warns you if you are going to fall asleep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We think it will prevent accidents."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that all it does?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For now.",
+        "Welcome to the club."
+      ]
+    }
+  ]
+}

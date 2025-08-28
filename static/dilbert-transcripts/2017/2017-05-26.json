@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a rumor that you plan to replace all normal employees with cyborgs that have microchips in their brains."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is no truth to the rumor that I plan to replace defective employees with highly capable, enhanced humanoids."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if you're lying.",
+        "That's actually the best argument for keeping you around."
+      ]
+    }
+  ]
+}

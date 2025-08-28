@@ -1,0 +1,23 @@
+{
+  "date": "2017-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did your algorithm pick me to be bumped from the full flight?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it because I had the lowest-cost ticket?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was that plus your lack of upper body strength."
+      ]
+    }
+  ]
+}

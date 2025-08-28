@@ -1,0 +1,30 @@
+{
+  "date": "2016-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wrecked my car because I was responding to your urgent-looking text."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For the third time in a row."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you implying?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you trying to kill me?",
+        "I blame your bad judgment."
+      ]
+    }
+  ]
+}

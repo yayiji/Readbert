@@ -1,0 +1,26 @@
+{
+  "date": "2016-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know what to do about my bad posture.",
+        "Try yoga."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh, good idea.",
+        "That will also improve my odds of meeting an attractive yoga-loving woman."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was my plan too, but the full-stack guys got here early and scared away the yoga women.",
+        "Yoga"
+      ]
+    }
+  ]
+}

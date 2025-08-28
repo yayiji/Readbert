@@ -1,0 +1,27 @@
+{
+  "date": "2017-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a great job on this design.",
+        "Whoa!",
+        "Whoa!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one likes a braggart. Keep your boasting to yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Didn't Asok help you with this design?",
+        "Asok?",
+        "Never heard of him."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2016-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company spokesperson embarrassed us on social media."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does this qualify him for an \"honor killing\"?",
+        "No, and you're a racist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's what he said on social media.",
+        "Okay, I'm in."
+      ]
+    }
+  ]
+}

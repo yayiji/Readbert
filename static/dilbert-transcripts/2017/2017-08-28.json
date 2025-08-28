@@ -1,0 +1,23 @@
+{
+  "date": "2017-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, our stock is up 2%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just made more money than you'll earn in your entire life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remind me, do I leave you a tip?"
+      ]
+    }
+  ]
+}

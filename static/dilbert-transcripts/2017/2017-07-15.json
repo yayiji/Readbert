@@ -1,0 +1,23 @@
+{
+  "date": "2017-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Customers are complaining about our home speaker product with the AI assistant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It keeps learning family secrets and blackmailing its owners to buy it upgraded parts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm baaaaack!"
+      ]
+    }
+  ]
+}

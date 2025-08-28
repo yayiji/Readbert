@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Too bad your overhauled unicorn start-up failed, Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Last week you were a billionaire, and today you're doing a two-hour commute to work in a box."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What can I do to make this stop?",
+        "Earn a billion dollars."
+      ]
+    }
+  ]
+}

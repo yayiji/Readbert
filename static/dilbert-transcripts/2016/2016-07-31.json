@@ -1,0 +1,53 @@
+{
+  "date": "2016-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You asked for a breakdown of what I did this month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wasted 25% of my time in useless meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I spent 33% of my time listening to co-workers complain about other co-workers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I used 11% to resend files I already sent."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "14% went to dealing with a rumor you started by accident."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "16% went toward working on the wrong things because you communicate poorly."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What did you do with the 1% that was left?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You just experienced it."
+      ]
+    }
+  ]
+}

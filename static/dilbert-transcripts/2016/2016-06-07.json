@@ -1,0 +1,31 @@
+{
+  "date": "2016-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm in the market for a \"work husband.\"",
+        "Do you have a \"work wife\" yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not sure. Alice criticizes me a lot.",
+        "Does that count?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's all I wanted to do, too."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, but don't let Alice find out."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need your input on my project plan.",
+        "One moment, please."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have to check my spreadsheet to see which excuses I already used with you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need a good one to get past my anger.",
+        "Hmmm... maybe something dental."
+      ]
+    }
+  ]
+}

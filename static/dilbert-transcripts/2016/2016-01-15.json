@@ -1,0 +1,26 @@
+{
+  "date": "2016-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is the software almost done?",
+        "Yes, almost."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not the final release – more like a beta MVP.",
+        "Maybe more of an alpha."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you even started?",
+        "The mental stuff is almost done."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You accomplished nothing this month.",
+        "I'm waiting for people to get back to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe it is your job to make sure those other people do their jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess I could talk to them.",
+        "I'll wait for you to get back to me."
+      ]
+    }
+  ]
+}

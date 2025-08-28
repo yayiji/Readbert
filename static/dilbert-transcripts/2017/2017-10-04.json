@@ -1,0 +1,26 @@
+{
+  "date": "2017-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're here to get a photo of my client serving food to the homeless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't need any help.",
+        "In that case, can we borrow an apron and a spoon?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "I guess so.",
+        "And can you wipe some gruel on the apron?"
+      ]
+    }
+  ]
+}

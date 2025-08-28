@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fell asleep at the wheel because I stayed up all night to meet your deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to work all night because you made me attend a mandatory safety meeting yesterday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But at least I got my work done on time.",
+        "I forgot to tell you the meeting got moved to next week."
+      ]
+    }
+  ]
+}

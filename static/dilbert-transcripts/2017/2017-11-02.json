@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to my new neural interface, I can control our boss using an app."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I haven't written the app yet, so all he does is sit there like a zombie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we can skip the app.",
+        "There's no reason to over-engineer it."
+      ]
+    }
+  ]
+}

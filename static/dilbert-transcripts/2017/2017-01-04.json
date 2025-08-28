@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm giving you another software project to work on at the same time as your main project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That will ruin my flow. It will take too long to reset my brain when I switch between projects."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried working longer hours without extra pay?",
+        "Yes I have!"
+      ]
+    }
+  ]
+}

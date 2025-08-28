@@ -1,0 +1,26 @@
+{
+  "date": "2017-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're not planning any changes, trust me.",
+        "Trust you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've seen your browser history.",
+        "I wouldn't trust you to guard a funeral home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the easiest job ever. Just drive stakes through the hearts of the dead and they'll stay put.",
+        "To my point."
+      ]
+    }
+  ]
+}

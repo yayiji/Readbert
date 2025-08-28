@@ -1,0 +1,60 @@
+{
+  "date": "2017-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you know, our team-building event did not go smoothly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In my defense, I had no way of knowing a class 6 whitewater adventure would be so bumpy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It took me by surprise when Ted fell in."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I'm proud that we came together as a team and agreed to not look for him."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It would have ruined our timing for lunch."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Anyway, I'm sure Ted swam to safety."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ted doesn't know how to swim."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "All in favor of pretending Ted didn't attend the event?"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "They didn't have life vests?",
+        "You're thinking of the deluxe package."
+      ]
+    }
+  ]
+}

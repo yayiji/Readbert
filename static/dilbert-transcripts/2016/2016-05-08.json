@@ -1,0 +1,54 @@
+{
+  "date": "2016-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because your performance was only average."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can you calculate an average for my performance?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one has ever been in my exact situation."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I compared you to other employees."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You compared me to strangers doing entirely different things?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, I compared you to imaginary people doing your exact job."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's called managing, and I'm very good at it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do you know you're good at it?",
+        "Because imaginary people do this job worse than I do."
+      ]
+    }
+  ]
+}

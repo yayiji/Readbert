@@ -1,0 +1,54 @@
+{
+  "date": "2017-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's work?",
+        "Well, since you asked..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like being trapped in a garbage compactor and no one can hear me scream."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All my hopes and dreams have died, along with my immune system and my dignity."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The only thing keeping me alive is that food tastes good."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I tried to escape into my imagination, but I learned I don't have one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My life has no meaning. Each second is a slow-motion ordeal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why do I get the feeling you weren't listening to any of that?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My day was good too."
+      ]
+    }
+  ]
+}

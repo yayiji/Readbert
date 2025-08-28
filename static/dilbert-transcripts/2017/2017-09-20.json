@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you done anything to address my complaints about management?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't tell you about any confidential conversations I have with management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... should I just hope for the best?",
+        "That sounds like a solid plan."
+      ]
+    }
+  ]
+}

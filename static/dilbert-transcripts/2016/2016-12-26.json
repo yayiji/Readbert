@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need volunteers to go to Mars in the spaceship we're building."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask Ted. He's dispensable because he's a terrible engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted designed the spaceship.",
+        "Karma will sort that all out."
+      ]
+    }
+  ]
+}

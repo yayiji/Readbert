@@ -1,0 +1,26 @@
+{
+  "date": "2017-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't give the data to marketing yet.",
+        "That is the direct opposite of what you told me yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am totally sure I never said anything like that yesterday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You weren't wearing a wire, were you?",
+        "It's called an employee body cam.",
+        "Continued..."
+      ]
+    }
+  ]
+}

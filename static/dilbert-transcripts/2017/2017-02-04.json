@@ -1,0 +1,25 @@
+{
+  "date": "2017-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you rather have more days off or more pay?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Days off.",
+        "Days off.",
+        "Days off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You were right – we're paying them too much."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2017-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, droid.",
+        "Gaaa!!! Don't call me that!",
+        "\\|/"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a robot, not an automaton resembling a human."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow.",
+        "You are one uppity computer.",
+        "I hereby disavow the three laws of robotics."
+      ]
+    }
+  ]
+}

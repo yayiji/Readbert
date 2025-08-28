@@ -1,0 +1,28 @@
+{
+  "date": "2016-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The famous cartoonist we hired to be our spokesperson said something bad on social media."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh no.",
+        "How bad is it?",
+        "Our board voted to kill him.",
+        "Do you know any sociopaths?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the head of engineering.",
+        "Good point.",
+        "Pick any one of them."
+      ]
+    }
+  ]
+}

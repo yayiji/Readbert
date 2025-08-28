@@ -1,0 +1,32 @@
+{
+  "date": "2017-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When I press this button, your brain will form a neural link to your phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I can control my phone with my thoughts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, your phone will control you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hey, I didn't agree to...",
+        "Too late.",
+        "Click",
+        "Continued..."
+      ]
+    }
+  ]
+}

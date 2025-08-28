@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, I have a great idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe I could work on interesting projects instead of the soul-killing tasks you always assign to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would I pay you for enjoying yourself?",
+        "I was not prepared for that question."
+      ]
+    }
+  ]
+}

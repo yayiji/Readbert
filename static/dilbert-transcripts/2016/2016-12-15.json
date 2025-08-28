@@ -1,0 +1,25 @@
+{
+  "date": "2016-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought I accidentally killed the creator of Garfield, but it turns out I killed his body double."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our boss ordered me to do the hit.",
+        "I have the worst job in the world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I think that body double has the worst job.",
+        "I'm only talking about the living."
+      ]
+    }
+  ]
+}

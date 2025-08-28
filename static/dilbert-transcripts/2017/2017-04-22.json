@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I try the new VR headset?",
+        "You're a robot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So?",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think my life just became meaningless."
+      ]
+    }
+  ]
+}

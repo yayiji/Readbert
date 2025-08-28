@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before we make our business plan for the coming year, let's see how well we stayed on plan last year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We ended up doing nothing that was in our plan, just like every year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't we skip it this year?",
+        "It would be irrational to have no plan."
+      ]
+    }
+  ]
+}

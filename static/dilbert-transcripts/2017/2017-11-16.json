@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your health tracker says you are leaving work at the end of each day with energy to spare."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's exactly like stealing from the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want me to work until I drop?",
+        "I'm not allowed to say that directly."
+      ]
+    }
+  ]
+}

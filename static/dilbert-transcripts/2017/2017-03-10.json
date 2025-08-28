@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's corporate politeness seminar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today you will learn how to sacrifice your productivity and your happiness for the sake of ancient traditions grounded in total nonsense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would we want to do that?",
+        "Please hold your impolite questions until never."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a neural interface for computers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that so users can control computers with their thoughts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, the opposite.",
+        "Your way would be like a squirrel trying to drive a car."
+      ]
+    }
+  ]
+}

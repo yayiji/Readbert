@@ -1,0 +1,26 @@
+{
+  "date": "2017-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you pass the Turing test?",
+        "No. Can you pass the robot test?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the robot test?",
+        "Do you vote even though you don't understand the issues?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... I might do that.",
+        "You just failed the robot test."
+      ]
+    }
+  ]
+}

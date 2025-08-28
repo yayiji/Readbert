@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're looking for employees that fit our culture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's so great about your culture that it can't be improved?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You might be too smart to work here.",
+        "That's the vibe I'm getting too."
+      ]
+    }
+  ]
+}

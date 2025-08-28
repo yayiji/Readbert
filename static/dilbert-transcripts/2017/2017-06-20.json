@@ -1,0 +1,29 @@
+{
+  "date": "2017-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People tell me Dilbert's project is in chaos. Why is that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe he's been colluding with our Elbonian competitors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that's just a guess."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't unhear that."
+      ]
+    }
+  ]
+}

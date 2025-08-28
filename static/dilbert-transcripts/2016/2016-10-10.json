@@ -1,0 +1,23 @@
+{
+  "date": "2016-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The board is proud to announce that we will be acquiring the Gawful Media company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that Gawful is so despicable that a crime bill has their name on it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, don't blame me. I told the board that someone should Google them."
+      ]
+    }
+  ]
+}

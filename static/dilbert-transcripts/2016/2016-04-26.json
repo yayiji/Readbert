@@ -1,0 +1,25 @@
+{
+  "date": "2016-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ideas like yours have been tried in the past and always failed!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you ever been on an airplane?",
+        "Those didn't work on the first few tries either."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then we have the entire history of science.",
+        "Stop. You're embarrassing yourself."
+      ]
+    }
+  ]
+}

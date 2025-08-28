@@ -1,0 +1,27 @@
+{
+  "date": "2017-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Kevin, the immersive VR employee",
+        "I have to keep reminding myself that you don't really exist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have to keep reminding myself that your organic personality was long ago replaced with prescription medications."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least I'm real!",
+        "At least I'm immortal.",
+        "Tick-tock.",
+        "Tick-tock."
+      ]
+    }
+  ]
+}

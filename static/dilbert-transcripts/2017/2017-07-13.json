@@ -1,0 +1,25 @@
+{
+  "date": "2017-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to design a home speaker that can compete with Amazon Alexa and Google Home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How long before you'll have a prototype?",
+        "Give me fifteen minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would I be living with a human family in this scenario?",
+        "Only your head."
+      ]
+    }
+  ]
+}

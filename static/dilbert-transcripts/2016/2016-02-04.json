@@ -1,0 +1,25 @@
+{
+  "date": "2016-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The FBI held me for three weeks on suspicion that I was a terrorist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assume you were protesting outside the FBI building the entire time and they didn't tell me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because racism?",
+        "Oh, right.",
+        "Yes. We were protesting the entire time."
+      ]
+    }
+  ]
+}

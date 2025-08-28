@@ -1,0 +1,25 @@
+{
+  "date": "2017-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the public relations specialist",
+        "The public hates you for all the right reasons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll repair your public image by photographing you serving meals in a homeless shelter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the public really that dumb?",
+        "Yup. I'll have you out of there in two scoops and a click."
+      ]
+    }
+  ]
+}

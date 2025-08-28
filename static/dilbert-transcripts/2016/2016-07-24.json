@@ -1,0 +1,54 @@
+{
+  "date": "2016-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company's goal is to make the world a better place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How does that square with our stated goal of destroying our competition?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we succeed, those people will be out of jobs."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "After we annihilate our competition, we can jack up our prices to monopoly levels and take advantage of our customers."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Most of our profits go toward making the rich richer.",
+        "We don't even pay taxes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Meanwhile, my co-workers and I will be living a life that has been stripped of all meaning."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is that what you had in mind by \"making the world a better place\"?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I didn't mean better for everyone."
+      ]
+    }
+  ]
+}

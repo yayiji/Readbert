@@ -1,0 +1,24 @@
+{
+  "date": "2016-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to head up our artificial intelligence project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will have no budget and no hope of success. I just like saying we're working on AI."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you're completely useless, so it's a good match.",
+        "I won't let you down."
+      ]
+    }
+  ]
+}

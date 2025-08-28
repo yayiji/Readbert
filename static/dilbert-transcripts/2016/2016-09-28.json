@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's meet at my office on Friday.",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or... you could waste your day traveling to my office instead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're being a jerk.",
+        "You started it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2016-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are these user specifications complete?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I ask because any later changes will cause me to miss the deadline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I only need a tiny change later?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm counting on it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That way I can blame you when I miss the deadline."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How do most people handle this situation?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, the pessimists know they're doomed, so it's no surprise to them when it happens."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What do the optimists do?",
+        "They become pessimists."
+      ]
+    }
+  ]
+}

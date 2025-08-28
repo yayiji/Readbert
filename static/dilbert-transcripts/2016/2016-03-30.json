@@ -1,0 +1,23 @@
+{
+  "date": "2016-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't bring me problems. Bring me solutions!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would make you more useless than you already are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also need you to fill out your own performance evaluations."
+      ]
+    }
+  ]
+}

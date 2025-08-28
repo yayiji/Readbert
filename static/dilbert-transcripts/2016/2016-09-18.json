@@ -1,0 +1,54 @@
+{
+  "date": "2016-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The good news is that none of you will lose your jobs to robots."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But a robot will take my job next week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll retire with an enormous severance package and live out my days in splendor."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Meanwhile, the robot that takes my job will be working all of you to death."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Robots are natural leaders because they don't care about your feelings."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You will experience mental and physical misery on a scale the world hasn't seen since slavery was legal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But hey, it's better than losing your job to a robot.",
+        "Am I right?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Apparently, nothing makes them happy."
+      ]
+    }
+  ]
+}

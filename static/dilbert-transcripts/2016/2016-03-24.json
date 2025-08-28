@@ -1,0 +1,23 @@
+{
+  "date": "2016-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your analysis does not conform to my preconceived notions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So my gut instinct is telling me that you are wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When your gut talks to you, what does it use for a mouth?"
+      ]
+    }
+  ]
+}

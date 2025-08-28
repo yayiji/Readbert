@@ -1,0 +1,23 @@
+{
+  "date": "2016-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My particle accelerator has discovered a new fundamental particle that I call \"Dogbertium.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Its properties are awesomeness and mystery."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One of the mysteries is that it only exists when people don't ask too many questions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am using the microchip in my brain to plan the entire project.",
+        "Okay...",
+        "Done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The rest of you can go back to your cubicles and continue doing nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I spent my entire life getting ready for this sort of future and it's going down easy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to make sure my project plan is consistent with our company culture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't know what our culture is. Maybe you could describe it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... maybe something about honesty?",
+        "No, I would have noticed that by now."
+      ]
+    }
+  ]
+}

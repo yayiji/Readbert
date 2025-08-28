@@ -1,0 +1,28 @@
+{
+  "date": "2016-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the URL for that site?",
+        "I sent that to you last week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To which of my seven email addresses did you send it?",
+        "Maybe I texted it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a bad feeling about this.",
+        "Maybe I used Slack.",
+        "Or Whatsapp.",
+        "Or I sent it to someone else."
+      ]
+    }
+  ]
+}

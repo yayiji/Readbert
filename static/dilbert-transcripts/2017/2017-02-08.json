@@ -1,0 +1,25 @@
+{
+  "date": "2017-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What time is the team huddle?",
+        "I can't tell you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As the team scrum, it is my job to keep you from interfering."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I guess we're both doing what we're supposed to do.",
+        "Sadly, yes."
+      ]
+    }
+  ]
+}

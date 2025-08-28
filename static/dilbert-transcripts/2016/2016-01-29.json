@@ -1,0 +1,25 @@
+{
+  "date": "2016-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're a terrorist sympathizer.",
+        "Noooo! That is a racist rumor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must be guilty or you wouldn't be denying it so hard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just admit you want to kill me.",
+        "Now I do want to kill you!!!"
+      ]
+    }
+  ]
+}

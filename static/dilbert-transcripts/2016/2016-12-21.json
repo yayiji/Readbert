@@ -1,0 +1,25 @@
+{
+  "date": "2016-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you finish this by Friday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't take no for an answer.",
+        "In that case, my answer is yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I knew you wouldn't disappoint me.",
+        "I think we just planned that for Friday."
+      ]
+    }
+  ]
+}

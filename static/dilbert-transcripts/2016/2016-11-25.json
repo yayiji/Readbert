@@ -1,0 +1,24 @@
+{
+  "date": "2016-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My business trip didn't go well."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I took off my belt for airport security and my pants fell off.",
+        "Someone took a video and everyone is sharing it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is literally the first time I wish I had friends."
+      ]
+    }
+  ]
+}

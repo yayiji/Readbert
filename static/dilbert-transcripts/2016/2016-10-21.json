@@ -1,0 +1,26 @@
+{
+  "date": "2016-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Alice. Alice...",
+        "Alice...Alice...",
+        "Alice..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't penetrate your phone-induced zombie trance, so I'll just text you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop doing that.",
+        "I can't hear you because I'm looking at my phone."
+      ]
+    }
+  ]
+}

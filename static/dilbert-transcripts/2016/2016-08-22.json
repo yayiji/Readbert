@@ -1,0 +1,25 @@
+{
+  "date": "2016-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That is inappropriate office attire!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go home and work remotely for the rest of the day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd it work out?",
+        "Phase one was a total success.",
+        "Phase two involves napping."
+      ]
+    }
+  ]
+}

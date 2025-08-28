@@ -1,0 +1,29 @@
+{
+  "date": "2017-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, have you finished writing the product safety warning?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm on page 357 with no end in sight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, keep up the good work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I probably should have done a little micromanaging there."
+      ]
+    }
+  ]
+}

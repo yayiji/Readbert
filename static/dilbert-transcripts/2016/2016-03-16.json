@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's one-week training class for negotiators."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe in leading by example, so this entire course will involve me trying to persuade you to buy my book."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If everyone in the class buys my book, you can all have the rest of the week off.",
+        "Done."
+      ]
+    }
+  ]
+}

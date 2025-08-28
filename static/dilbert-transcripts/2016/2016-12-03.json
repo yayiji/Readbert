@@ -1,0 +1,31 @@
+{
+  "date": "2016-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm supposed to act interested in your well-being to boost your job performance.",
+        "No thanks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... how's your wife, or girlfriend, or same-sex partner, or loneliness?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fine."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, I think that covers it.",
+        "Look! My productivity is soaring!"
+      ]
+    }
+  ]
+}

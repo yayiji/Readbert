@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the biggest risk with your plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's people. They're terrible once you get to know them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then don't get to know them.",
+        "I tried that with you and it didn't work."
+      ]
+    }
+  ]
+}

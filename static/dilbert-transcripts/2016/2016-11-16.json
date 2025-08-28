@@ -1,0 +1,23 @@
+{
+  "date": "2016-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Next month is employee health awareness month, so we decided to have a weight-loss competition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll start on the first of the month, and the winner gets a week of paid vacation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When he thinks back on this, he'll realize he shouldn't have given us three weeks to bulk up before the first weigh-in."
+      ]
+    }
+  ]
+}

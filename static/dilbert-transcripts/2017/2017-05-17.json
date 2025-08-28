@@ -1,0 +1,23 @@
+{
+  "date": "2017-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The flight is overbooked and our algorithm selected you for re-accommodation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What exactly does \"re-accommodation\" mean in this context?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh."
+      ]
+    }
+  ]
+}

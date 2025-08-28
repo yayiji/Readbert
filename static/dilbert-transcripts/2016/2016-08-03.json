@@ -1,0 +1,24 @@
+{
+  "date": "2016-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for a man who meets my 27 criteria for a relationship."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for a woman who doesn't have 27 criteria for a relationship."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How am I doing?",
+        "Now I have 28 criteria."
+      ]
+    }
+  ]
+}

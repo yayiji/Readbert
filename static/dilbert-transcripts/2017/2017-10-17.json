@@ -1,0 +1,25 @@
+{
+  "date": "2017-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This would be a perfect application for blockchain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm in marketing.",
+        "Can you explain that in terms I can understand?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I kinda doubt it.",
+        "Because you're a bad explainer, right?"
+      ]
+    }
+  ]
+}

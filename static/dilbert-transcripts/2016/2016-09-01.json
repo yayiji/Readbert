@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have time to read your long email.",
+        "Tell me what it said."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wrote a long email because a summary would be dangerously misleading."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be the judge of that.",
+        "How?!!!"
+      ]
+    }
+  ]
+}

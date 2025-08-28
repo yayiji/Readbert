@@ -1,0 +1,53 @@
+{
+  "date": "2016-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think it is important for every employee to understand our company's income statement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have time to get into all of the details, so I'll hit the high points."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Compared to last year..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Our EBIDA have been amortized over an accrued market discount."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Meanwhile, our capital account liabilities have a pass-through income that is far larger than our one-time costs."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And the mome raths outgrabe."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Too far?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wasn't listening."
+      ]
+    }
+  ]
+}

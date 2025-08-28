@@ -1,0 +1,28 @@
+{
+  "date": "2016-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We are testing the drone defense shield as I speak."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it working so far?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thud",
+        "Thud",
+        "Thud",
+        "Thud",
+        "Thud",
+        "Not according to the Audubon Society."
+      ]
+    }
+  ]
+}

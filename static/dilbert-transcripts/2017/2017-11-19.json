@@ -1,0 +1,56 @@
+{
+  "date": "2017-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are there any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your plan is so dumb that I am forced to make my condescending face to respond."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are so dumb!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did you have a reason?",
+        "Do I have a reason?",
+        "Hahaha! That's precious."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There are so many reasons that I don't know where to start!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Pick just one.",
+        "Haha! Easy. You will never get funded."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's already fully funded. What else do you have?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "To be honest, all I had was the funding issue and this face."
+      ]
+    }
+  ]
+}

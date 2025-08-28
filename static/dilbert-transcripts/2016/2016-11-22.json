@@ -1,0 +1,27 @@
+{
+  "date": "2016-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Car rental",
+        "I hope you don't have some sort of technology job.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because the user experience you are about to endure might make your head explode."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Twenty minutes later",
+        "Gaaa!!! Why do you need to type so much? !!!",
+        "We got an engineer!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The crew of our first spaceship suffocated on the launchpad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently, I got an email last week asking for approval to repair the oxygen generator."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You killed them with your incompetence?",
+        "I can't take all the credit. It was a team effort."
+      ]
+    }
+  ]
+}

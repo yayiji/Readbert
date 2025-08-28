@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a rumor that you use a chatbot to reply to email with useless nonsense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't prove that because I've always answered my email with useless nonsense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was disturbingly well-played.",
+        "It's all about creating the base case."
+      ]
+    }
+  ]
+}

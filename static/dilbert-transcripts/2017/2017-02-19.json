@@ -1,0 +1,54 @@
+{
+  "date": "2017-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have this conference room booked for a meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is my private office now. I took it over."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't just take over a conference room."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I already did. It was easy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now all I need to do is act as if it would be totally unreasonable to ask me to leave."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You need to leave. I have this room reserved."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's totally unreasonable! I'm all settled in and I'm working on a company-critical deadline!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I guess I could cancel my meeting.",
+        "Perfect. Now get out of my office."
+      ]
+    }
+  ]
+}

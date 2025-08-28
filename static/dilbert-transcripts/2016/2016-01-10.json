@@ -1,0 +1,53 @@
+{
+  "date": "2016-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got called for jury duty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll probably be gone for weeks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I would be a good juror."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "As I understand the job, you sit in a chair doing nothing for hours."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're supposed to pay attention to the trial."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's what the other eleven people are for."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There's a lot of redundancy in the system."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Time to serve up some justice."
+      ]
+    }
+  ]
+}

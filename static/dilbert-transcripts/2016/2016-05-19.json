@@ -1,0 +1,25 @@
+{
+  "date": "2016-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you help me...",
+        "Whoa! Stop right there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a thought leader, not some wage slave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do thought leaders do?",
+        "You're watching it."
+      ]
+    }
+  ]
+}

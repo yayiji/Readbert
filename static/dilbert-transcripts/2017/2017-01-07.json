@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's my idea. I think it's brilliant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought of that idea right before you said it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are the odds of that?",
+        "It happens to me all the time."
+      ]
+    }
+  ]
+}

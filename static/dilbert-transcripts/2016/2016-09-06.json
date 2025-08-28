@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the first meeting of our project to design an electric car."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've never tried to build an electric car, but how hard could it be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's very hard.",
+        "It doesn't feel that way. My part is mostly talk."
+      ]
+    }
+  ]
+}

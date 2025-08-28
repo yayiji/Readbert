@@ -1,0 +1,26 @@
+{
+  "date": "2016-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am the totally legitimate Elbonian bicycle messenger you called to deliver your encryption-breaking software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmmm...",
+        "That's exactly what a terrorist would say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No I wouldn't.",
+        "Just checking.",
+        "Here's the flash drive."
+      ]
+    }
+  ]
+}

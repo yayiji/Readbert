@@ -1,0 +1,26 @@
+{
+  "date": "2016-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a philosophy for life?",
+        "I try to make the world a better place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you heard the phrase, \"pay it forward\"?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the end of the line for that sequence of events.",
+        "It saves the rest of you a lot of work."
+      ]
+    }
+  ]
+}

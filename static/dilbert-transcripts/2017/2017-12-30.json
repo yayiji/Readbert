@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our consultant has studied our corporate culture and isolated the problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The problem is humans. You're all selfish, rotten liars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What kind of team-building exercise will fix that?",
+        "I'd try something involving DNA and alien technology."
+      ]
+    }
+  ]
+}

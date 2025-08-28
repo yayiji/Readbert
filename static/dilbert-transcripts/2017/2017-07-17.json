@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should I start working on my project now or wait until I have more information?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you put it that way, I guess you should wait."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't there always \"more\" information to be had?",
+        "Don't ruin this for me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you're doing a great job and the company values you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your insincere management babble is making me uncomfortable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's motivation you're feeling.",
+        "I'm getting more of a stalker vibe."
+      ]
+    }
+  ]
+}

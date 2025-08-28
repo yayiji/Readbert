@@ -1,0 +1,54 @@
+{
+  "date": "2017-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are your financial projections reliable?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, because I can see into the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one can see into the future."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then why did you ask me if I can do it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's your job to predict the outcome of your project."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why would you ask me to do something that no one can do?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't need you to be accurate. I only need someone to blame when we go over budget."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I saw that coming.",
+        "No one likes a braggart."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2016-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you give me Carol's home address?",
+        "I agreed to watch her kids and she turned off her phone for her date night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is against company policy for me to use my good judgment to save children."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure it says that?",
+        "Yes. I wrote it myself."
+      ]
+    }
+  ]
+}

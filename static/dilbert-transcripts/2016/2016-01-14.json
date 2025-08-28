@@ -1,0 +1,25 @@
+{
+  "date": "2016-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you any farther along with the software?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I discovered an unexpected problem.",
+        "That set me back a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You say the same thing every week.",
+        "No one jumps off a winning horse."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2017-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a good judge of people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? What am I thinking right now?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmmm..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're wondering how you could be more like me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You admire my leadership, and you write about me in glowing terms in your diary."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What diary?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Shhh! I'm still reading you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You have no patience and you don't like to be judged.",
+        "Okay, that's enough.",
+        "Nailed it!"
+      ]
+    }
+  ]
+}

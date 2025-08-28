@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished coding the software, but I used a much better database than our company standard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In other words, your software is terrific, but we won't be able to use it because of our internal rules."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The alternative was to write sub-optimal code. I'd rather be dead.",
+        "I curse my lack of authority!"
+      ]
+    }
+  ]
+}

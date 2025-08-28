@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian hackers got into our network. We don't know how."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it was the thumb drive you found on the side-walk in front of our entrance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or maybe it was because your password is \"password.\"",
+        "How do you know my password?"
+      ]
+    }
+  ]
+}

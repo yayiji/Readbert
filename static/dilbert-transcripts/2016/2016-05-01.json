@@ -1,0 +1,55 @@
+{
+  "date": "2016-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won a contract to write software for voting machines."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who do you want to be president?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you ask?",
+        "Because I want you to be happy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're implying that you plan to fudge the system."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not implying anything like that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Obviously, it will be easy to fudge the data, and we are far happier when you're in a good mood."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But I would never commit a crime just because it is good for me and totally undetectable."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, good.",
+        "So who do you want to win and by how much?"
+      ]
+    }
+  ]
+}

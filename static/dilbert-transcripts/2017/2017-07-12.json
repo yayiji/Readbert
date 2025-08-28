@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you can see from my financial projections, doing a major upgrade now would be unwise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to spend my entire upgrade budget this year so they won't give me a smaller budget next year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seems you have wasted my time.",
+        "It's not my fault you got the wrong answer."
+      ]
+    }
+  ]
+}

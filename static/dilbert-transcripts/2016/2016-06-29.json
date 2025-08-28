@@ -1,0 +1,25 @@
+{
+  "date": "2016-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got approval to work from home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My chatbot will answer all of my emails and text messages."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Chatbot answers would be useless.",
+        "I hope so.",
+        "Otherwise it won't sound like me."
+      ]
+    }
+  ]
+}

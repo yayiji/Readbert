@@ -1,0 +1,25 @@
+{
+  "date": "2017-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea will never work.",
+        "That's because you're too dumb to understand it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My idea would look brilliant if you were about 60% smarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to respond to that.",
+        "That's consistent with my hypothesis."
+      ]
+    }
+  ]
+}

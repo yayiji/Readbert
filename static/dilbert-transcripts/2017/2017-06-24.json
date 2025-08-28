@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're a corporate spy for our Elbonian competitors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that was an unfounded rumor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's exactly what guilty people say.",
+        "I'm not seeing my path to success here."
+      ]
+    }
+  ]
+}

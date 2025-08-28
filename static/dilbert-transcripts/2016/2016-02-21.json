@@ -1,0 +1,67 @@
+{
+  "date": "2016-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When will you have that done?",
+        "Two weeks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you do it faster?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I need to do is lower the quality."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell me what your minimum acceptable quality level is and I'll tell you when you can have it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I want it in one week."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can do that at 50% of planned quality."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why does it feel as if I'm not really managing anything here?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe you could go manage someone else now."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I can't tell if I'm doing my job now."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Is it your job to prevent me from working?"
+      ]
+    }
+  ]
+}

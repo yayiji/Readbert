@@ -1,0 +1,26 @@
+{
+  "date": "2017-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The public doesn't believe I really helped serve food at the homeless shelter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them pictures don't lie.",
+        "Pictures lie all the time.",
+        "In fact, that's the best way to lie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Keep that insight to yourself.",
+        "I have a full head of hair on Tinder."
+      ]
+    }
+  ]
+}

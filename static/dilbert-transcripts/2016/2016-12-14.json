@@ -1,0 +1,23 @@
+{
+  "date": "2016-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I killed our spokesperson, Jim Davis, yesterday, as you ordered."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You killed the wrong cartoonist!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I hate Mondays even more."
+      ]
+    }
+  ]
+}

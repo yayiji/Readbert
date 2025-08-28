@@ -1,0 +1,26 @@
+{
+  "date": "2017-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is the software finished?",
+        "Software is never finished."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you fix all of the bugs?",
+        "There's no way to know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't manage you if you don't learn to lie.",
+        "Okay, the software will be perfect in 2.3 days."
+      ]
+    }
+  ]
+}

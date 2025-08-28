@@ -1,0 +1,25 @@
+{
+  "date": "2017-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to edit the product warning from seven hundred pages down to one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, that's rich.",
+        "I'm a professional technical writer, and you're telling me how to write?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you cut it down to 500 pages?",
+        "Sure, if you want it to be total rubbish."
+      ]
+    }
+  ]
+}

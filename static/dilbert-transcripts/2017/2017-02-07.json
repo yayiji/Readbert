@@ -1,0 +1,25 @@
+{
+  "date": "2017-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you coming to the standup meeting?",
+        "Is it okay if I sit instead?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that would ruin the software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did that make sense when I said it?",
+        "No, and it isn't aging, well either."
+      ]
+    }
+  ]
+}

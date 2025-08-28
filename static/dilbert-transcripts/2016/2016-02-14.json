@@ -1,0 +1,54 @@
+{
+  "date": "2016-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My doctor says he's never seen anyone heal as quickly as me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do you suppose that means?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obviously it means I am genetically gifted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is that the only explanation?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, maybe ten percent of it is because of good medical care."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can you think of any other reason at all?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Doctors tell idiots their bodies are magic because it makes them feel special."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He would have gotten there.",
+        "I don't have that kind of time."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2017-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally says he has a secret project he can't tell me about."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you give him that project?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't remember every little thing I've ever done."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My best strategy here is to think about other things."
+      ]
+    }
+  ]
+}

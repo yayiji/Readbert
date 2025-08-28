@@ -1,0 +1,25 @@
+{
+  "date": "2016-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop checking the time when I talk to you!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wasn't checking the time.",
+        "I was checking my pulse to see if I'm dying from boredom.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope this is a coincidence."
+      ]
+    }
+  ]
+}

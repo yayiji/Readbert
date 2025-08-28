@@ -1,0 +1,25 @@
+{
+  "date": "2017-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our focus groups don't like our new product idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem.",
+        "Focus groups aren't reliable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do we pay for unreliable information?",
+        "We can't afford the other kind."
+      ]
+    }
+  ]
+}

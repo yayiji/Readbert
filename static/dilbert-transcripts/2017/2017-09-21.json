@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I complained about my boss two months ago. Has human resources done anything about it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Lots of confidential things are happening behind the scenes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example?",
+        "For example, we talked about how much of a whiner you are."
+      ]
+    }
+  ]
+}

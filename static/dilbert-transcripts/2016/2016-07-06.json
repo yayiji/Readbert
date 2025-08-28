@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you answer my text last night?",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have no social life, and you aren't dead, so there's no excuse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I own you!",
+        "Whoever said honesty is refreshing never heard any."
+      ]
+    }
+  ]
+}

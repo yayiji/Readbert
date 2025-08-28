@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my body cam playback, you have repeated your point twelve times."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could try saying other things for a few minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wasn't expecting you to be so rude.",
+        "You're not the first to make that mistake."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your political opinions are making your co-workers uncomfortable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is exactly what people said to Gandhi."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are nothing like Gandhi.",
+        "Was he a little bald guy who didn't have a real job?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2016-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to cut our expenses.",
+        "I recommend eliminating Ted's job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What???",
+        "I recommend eliminating Dilbert's job!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just because he said it first???",
+        "Let's not over-analyze it."
+      ]
+    }
+  ]
+}

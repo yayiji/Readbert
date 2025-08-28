@@ -1,0 +1,26 @@
+{
+  "date": "2016-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you Elbonians have a religion?",
+        "Of course we do!",
+        "We're not savages!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We believe in killing anyone who offends us three times in a row."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Harsh.",
+        "That's two."
+      ]
+    }
+  ]
+}

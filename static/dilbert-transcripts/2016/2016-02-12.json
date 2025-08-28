@@ -1,0 +1,25 @@
+{
+  "date": "2016-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you keep your posture so straight?",
+        "It's easy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have to understand the root cause of your poor posture before you can eliminate it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bad ergonomics?",
+        "Work."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2017-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our immersive VR employee quit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's suing the company for dis-",
+        "criminating against digitally rendered people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it too late to kill him?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I tried, but he cloned himself to cloud storage."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw an article that says most people don't have any kind of retirement plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to live an unhealthy lifestyle and pass away in my cubicle, preferably on a Monday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a terrible plan.",
+        "Better than average, according to you."
+      ]
+    }
+  ]
+}

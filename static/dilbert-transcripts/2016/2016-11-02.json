@@ -1,0 +1,27 @@
+{
+  "date": "2016-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Topper",
+        "I once signed my entire first name to a document."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing!",
+        "Watch me sign my entire full name to that document!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes you can be predictable.",
+        "That's nothing!",
+        "I don't even have free will!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has a new politeness policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is no longer acceptable to turn and walk away while a co-worker is in the middle of telling you something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That will add months to my project.",
+        "I'm selling all of my company stock."
+      ]
+    }
+  ]
+}

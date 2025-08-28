@@ -1,0 +1,25 @@
+{
+  "date": "2017-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new product is a watch that monitors every aspect of your health."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wearing the watch is mandatory for all employees. Your data will automatically stream to our cloud storage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because you care about our health?",
+        "Sure.",
+        "We'll go with that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2017-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you review the project plan in the shared folder before Monday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see you making a note to remind you later."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll remember."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How many other tasks are you trying to remember at the same time?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "About seventy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And yet you will remember this one?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Have some faith, Wally.",
+        "My name is Dilbert.",
+        "What were we talking about?"
+      ]
+    }
+  ]
+}

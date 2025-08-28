@@ -1,0 +1,24 @@
+{
+  "date": "2016-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wrote a paper about my discovery of the \"Dogbertium particle\" and submitted it for peer review."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily, most of my peers are made of pure Dogbertium, which means they are easy to bribe.",
+        "Bribe?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a problem with that, or are you anti-science?"
+      ]
+    }
+  ]
+}

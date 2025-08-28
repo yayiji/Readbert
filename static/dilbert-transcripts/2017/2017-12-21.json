@@ -1,0 +1,29 @@
+{
+  "date": "2017-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do I need a prescription from a doctor to take a drug that boosts my dopamine..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...But I don't need a doctor's approval to use an app that is designed to do the same thing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you ignoring me and playing with your phone?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I wasn't getting any dopamine from listening to you."
+      ]
+    }
+  ]
+}

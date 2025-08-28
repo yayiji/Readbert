@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish your assignment?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but Elbonian hackers deleted my report along with all of my backups."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no way of knowing that's true.",
+        "It was an amazing report! Better than any you've ever seen."
+      ]
+    }
+  ]
+}

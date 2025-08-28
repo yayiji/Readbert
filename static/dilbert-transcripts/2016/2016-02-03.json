@@ -1,0 +1,24 @@
+{
+  "date": "2016-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fbi secret facility",
+        "I am a nonviolent Hindu. You use violence as a tool, and your religion is centered around one of Islam's prophets."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... technically, you're closer to being a radical Islamic terrorist than I am."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate engineers."
+      ]
+    }
+  ]
+}

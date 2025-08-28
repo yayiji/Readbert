@@ -1,0 +1,30 @@
+{
+  "date": "2016-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't talk to Ted until I have time to tell him I cut his project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When will that be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know. My European vacation starts tomorrow."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you have ten seconds to talk?",
+        "Check back in fifteen days."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2017-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just found out that the new hire makes more than I do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It isn't my fault that you're a terrible negotiator."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like confrontation.",
+        "I know.",
+        "It saves me a lot of money.",
+        "Shoo!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come quickly. I think Asok entered the jargon matrix."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At the end of the day, I want some actionable insights that will improve our cross-platform integration."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can he hear us?",
+        "Yes, but our words are just noise to him now.",
+        "Silo."
+      ]
+    }
+  ]
+}

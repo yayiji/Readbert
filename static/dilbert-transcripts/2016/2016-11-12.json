@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's not how we did it at my prior company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We bought your old company, fired all of the employees, and discontinued all of its products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How is that possible?",
+        "It's called \"survival of the fattest.\"",
+        "It's just science."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2016-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're not allowed to tell co-workers to drive into a ravine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was a joke.",
+        "Ted isn't so dumb that he would do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ask him if he's that dumb."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't speak ill of the dead."
+      ]
+    }
+  ]
+}

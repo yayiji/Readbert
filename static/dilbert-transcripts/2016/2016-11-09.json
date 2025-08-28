@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pay no attention to the drone.",
+        "That's where I keep my artificial soul."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's still in beta, so please don't say anything that might harm it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's go around the room and give our project updates.",
+        "Pow!"
+      ]
+    }
+  ]
+}

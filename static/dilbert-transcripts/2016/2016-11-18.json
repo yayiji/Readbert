@@ -1,0 +1,30 @@
+{
+  "date": "2016-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I come in an hour early tomorrow and leave early?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah, okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about five hours early?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... sure.",
+        "Let's say eight hours early and you won't even see me."
+      ]
+    }
+  ]
+}

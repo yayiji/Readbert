@@ -1,0 +1,26 @@
+{
+  "date": "2016-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you do what I tell you to do, I will nominate you for employee of the year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If not, I will spend the rest of my days spreading rumors about you.",
+        "Terrible, terrible rumors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, Alan.",
+        "Who do you work for these days?",
+        "Whoever scares me the most."
+      ]
+    }
+  ]
+}

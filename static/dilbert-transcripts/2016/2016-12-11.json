@@ -1,0 +1,54 @@
+{
+  "date": "2016-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you take a call with our Elbonian customers at 6 a.m. tomorrow?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. All I need to do is put my health at risk by not getting enough sleep tonight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course, I'll hate your guts for making me come to work so early."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And I would expect my bad attitude to infect my co-workers and make them less productive, too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My lack of sleep will affect my decision-making, obviously."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I'm working on important projects, so the ripple effect could be catastrophic."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So, do you still want me to be here at 6 a.m. tomorrow?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You don't have to be a sociopath to be a manager, but it helps."
+      ]
+    }
+  ]
+}

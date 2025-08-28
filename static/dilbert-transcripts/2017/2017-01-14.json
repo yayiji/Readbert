@@ -1,0 +1,28 @@
+{
+  "date": "2017-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new hire gets paid more than me.",
+        "It isn't fair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fairness is a concept that was invented so kids and idiots could participate in debates."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey,",
+        "that's",
+        "not",
+        "fair.",
+        "The best case scenario here is that you're younger than you look."
+      ]
+    }
+  ]
+}

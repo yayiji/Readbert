@@ -1,0 +1,53 @@
+{
+  "date": "2017-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll need to get buy-in from the other departments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have given me an impossible task."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am only an intern."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No one will agree to anything I ask because I have no power to hurt them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Most department heads won't even schedule a meeting with me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And if they do, they will end up canceling it at the last minute and rescheduling."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There is literally no way for me to succeed at this task."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I also need you to ask them to fund your project out of their budgets."
+      ]
+    }
+  ]
+}

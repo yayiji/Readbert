@@ -1,0 +1,24 @@
+{
+  "date": "2016-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is our network so slow today?",
+        "I'll check."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, it seems that 75% of the staff is viewing inappropriate videos."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's all I wanted to do, too."
+      ]
+    }
+  ]
+}

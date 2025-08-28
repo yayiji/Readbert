@@ -1,0 +1,26 @@
+{
+  "date": "2016-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to decline your turn-down service tonight so I can have some privacy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're going to do it anyway. Good luck finding your stuff after we randomly move it.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't do that!",
+        "I hereby turn down your turn down of your turn-down service!",
+        "Say goodbye to your phone charger!"
+      ]
+    }
+  ]
+}

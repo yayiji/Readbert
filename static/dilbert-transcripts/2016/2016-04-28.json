@@ -1,0 +1,25 @@
+{
+  "date": "2016-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My date lasted 53 minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's your longest yet. Was she trapped in any way, such as under rubble?",
+        "Nope!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. How'd you do it?",
+        "I didn't talk for the first 49 minutes."
+      ]
+    }
+  ]
+}

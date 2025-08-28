@@ -1,0 +1,56 @@
+{
+  "date": "2016-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the software coming along?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're in the Zeno's paradox phase of the project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It means every step we take gets us halfway closer to launch."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can you keep up that pace?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm hoping it will look that way."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is Zeno's paradox a real thing?",
+        "You'll find out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next week",
+        "How's your project?",
+        "Halfway closer than last week!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2016-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see the viral video of the kitten riding a zebra?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know where this is heading and I don't like it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're going to spend the next ten minutes looking for that video on your phone while we wait."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It will only take a second.",
+        "And so it begins."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Here it is.",
+        "No, wait. Dang.",
+        "Wrong one. Okay,",
+        "here it is. Oops,",
+        "no, wrong one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ten minutes later",
+        "What do you think?",
+        "I can't see it because you keep moving."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I would let you hold it, but I don't want your germs on my phone."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There are a lot of unsatisfying parts to this interaction.",
+        "Now my coffee is cold."
+      ]
+    }
+  ]
+}

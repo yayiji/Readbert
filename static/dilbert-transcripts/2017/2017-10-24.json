@@ -1,0 +1,24 @@
+{
+  "date": "2017-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That stupid online troll is insulting me again on social media!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I keep defending myself, but instead of agreeing with me, he keeps calling me \"defensive\" and \"pathetic.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could stop engaging with him.",
+        "I'm not a quitter!"
+      ]
+    }
+  ]
+}

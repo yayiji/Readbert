@@ -1,0 +1,69 @@
+{
+  "date": "2017-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't finish the software patch.",
+        "We're replacing the entire system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why didn't you tell me sooner?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just found out."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "While you were standing here?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Um, no.",
+        "I was standing somewhere else."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Twenty minutes ago.",
+        "Aha!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You wasted twenty minutes of my time because you're a terrible person!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I'm sorry.",
+        "Now I feel awful."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "You're just lucky I forgot to work on that patch."
+      ]
+    }
+  ]
+}

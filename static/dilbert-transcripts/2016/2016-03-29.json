@@ -1,0 +1,23 @@
+{
+  "date": "2016-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever worry about your legacy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I worry about someone finding out my socks are so worn out that all I have left are the ankle parts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that's enough about you."
+      ]
+    }
+  ]
+}

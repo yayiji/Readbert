@@ -1,0 +1,57 @@
+{
+  "date": "2017-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to thank each member of the product team for the successful launch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert wrote the software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice designed the hardware."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And Wally...",
+        "Um...",
+        "Attended most of the meetings."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's all you did?",
+        "I also played devil's advocate."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You didn't say a word during our meetings for seven months."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's because you were doing everything right."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you really do nothing for seven months?",
+        "This is one of those \"less is more\" situations."
+      ]
+    }
+  ]
+}

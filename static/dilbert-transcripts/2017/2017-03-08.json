@@ -1,0 +1,23 @@
+{
+  "date": "2017-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new politeness policy forbids me from giving you an honest opinion of your idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, instead, I will talk about an unrelated topic and you can draw your own conclusions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... did you hear about the manure fire that burned down a pig farm?"
+      ]
+    }
+  ]
+}

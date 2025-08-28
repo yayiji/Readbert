@@ -1,0 +1,24 @@
+{
+  "date": "2016-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you need everyone's buy-in to proceed with your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everyone except you. No one cares what interns think."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I please approve it so I feel alive?",
+        "Well... okay. But you owe me one."
+      ]
+    }
+  ]
+}

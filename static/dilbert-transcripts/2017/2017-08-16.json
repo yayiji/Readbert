@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the CEO of Dogbert's unreliable research company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My services cost less than regular research because all I do is tell you whatever you want to hear."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that defensible?",
+        "I'm sensing you want a yes on that."
+      ]
+    }
+  ]
+}

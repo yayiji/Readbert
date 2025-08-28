@@ -1,0 +1,25 @@
+{
+  "date": "2016-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you watch any of the debates?",
+        "Stop right there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm barely clinging to the illusion that you're competent at your job. Don't talk about politics or it will only get worse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know China caused climate change by hogging the sun?",
+        "And there it is."
+      ]
+    }
+  ]
+}

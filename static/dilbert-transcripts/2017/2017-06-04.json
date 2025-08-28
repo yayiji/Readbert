@@ -1,0 +1,54 @@
+{
+  "date": "2017-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you know, every project in this company has one idiot on the team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That can't be true.",
+        "It is true."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assign one idiot per team to keep them from bunching together."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My project team doesn't have any idiots."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There's a good explanation for why you think that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't see what that would be."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If I had an idiot on my team, I would know it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Unless..."
+      ]
+    }
+  ]
+}

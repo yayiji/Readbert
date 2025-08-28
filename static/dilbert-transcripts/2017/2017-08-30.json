@@ -1,0 +1,23 @@
+{
+  "date": "2017-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm assigning you to a project that is co-managed by vice presidents who hate each other."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do they want me to work on a project that is clearly doomed?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They said something about a \"blamecatcher.\""
+      ]
+    }
+  ]
+}

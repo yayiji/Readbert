@@ -1,0 +1,58 @@
+{
+  "date": "2017-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that you think I'm making the wrong decision with our technology roadmap."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I never said that.",
+        "I heard you did."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who told you that?",
+        "I promised I wouldn't reveal my source."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It never happened.",
+        "That's not what I hear."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Will the fate of my entire career depend on that rumor?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It already does."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you ever worry about karma?",
+        "Get back to work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hear you're embezzling like crazy.",
+        "Who told you that?"
+      ]
+    }
+  ]
+}

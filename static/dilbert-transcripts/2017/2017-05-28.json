@@ -1,0 +1,55 @@
+{
+  "date": "2017-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't figure out what is wrong with my code."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try rubber ducking it.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Rubber ducking is when you solve your coding problem by explaining it to a toy rubber duck."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When you explain a problem to someone else, it forces you to look at it from new angles."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't tell if that is a brilliant idea or a practical joke."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ask your boss.",
+        "Okay. Is rubber ducking a brilliant idea or a practical joke?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's a brilliant idea. I get most of my management ideas by talking to an imaginary rhesus monkey."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think you muddied the waters there a little bit."
+      ]
+    }
+  ]
+}

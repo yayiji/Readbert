@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, you have one of those cool selfie drones!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I keep forgetting to call my mom, so she sent a drone to watch me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that legal?",
+        "I checked.",
+        "It's not trespassing unless it lands."
+      ]
+    }
+  ]
+}

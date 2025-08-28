@@ -1,0 +1,35 @@
+{
+  "date": "2017-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired an immersive VR employee named Kevin."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can only see him when you wear the VR headset."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "Kevin,",
+        "please",
+        "stop",
+        "doing",
+        "that.",
+        "Oops.",
+        "Sorry.",
+        "I didn't",
+        "think",
+        "anyone",
+        "could",
+        "see me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2017-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok entered the jargon matrix. I'm going in to save him.",
+        "User experience."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cloud...blockchain...speed of execution...responsive design...peel the onion...move the needle...",
+        "Sustainability."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm in.",
+        "What the...? Where did you come from?",
+        "Continued..."
+      ]
+    }
+  ]
+}

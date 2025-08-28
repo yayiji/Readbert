@@ -1,0 +1,23 @@
+{
+  "date": "2017-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, I need you to write the product warning section for the user guide."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make sure you cover every possible danger."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never use this product while standing below a poorly maintained helicopter full of porcupines."
+      ]
+    }
+  ]
+}

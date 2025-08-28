@@ -1,0 +1,61 @@
+{
+  "date": "2017-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know how to clean up line noise on an XLR connection?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I can show you how to do something different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would I want to see something different?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because it reminds me of what you want to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't need to see that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It will only take ten minutes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't have ten minutes, it never takes only ten minutes, and it isn't relevant to my situation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm going to show you anyway because you're too polite to walk away while I'm talking."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Thirty minutes later",
+        "Some-thing is wrong with you.",
+        "Now watch me do it left-handed!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My phone is broken. Can I use yours to make a call?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely. If it seems warm, that's because I was using it in the men's room for the past two hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll ask someone else.",
+        "Yup."
+      ]
+    }
+  ]
+}

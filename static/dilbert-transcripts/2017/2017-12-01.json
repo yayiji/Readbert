@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your financial forecast turned out to be wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that a surprise, given that forecasts are mostly just guessing plus math?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The math is supposed to fix the guessing.",
+        "I think we've isolated the problem to you."
+      ]
+    }
+  ]
+}

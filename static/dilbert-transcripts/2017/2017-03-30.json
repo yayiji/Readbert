@@ -1,0 +1,26 @@
+{
+  "date": "2017-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the prototype?",
+        "I didn't start because I had some questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why didn't you ask me those questions a month ago?",
+        "I was waiting until I saw you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fine... what are your questions?",
+        "I just realized I didn't write them down."
+      ]
+    }
+  ]
+}

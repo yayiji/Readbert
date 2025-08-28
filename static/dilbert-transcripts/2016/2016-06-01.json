@@ -1,0 +1,24 @@
+{
+  "date": "2016-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw your political opinion on Facebook and now I think you're an awful person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What did you think about me before?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't think about you before.",
+        "Sounds like I got promoted."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you worry that a robot will someday take your job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nah. No one will build a robot that does nothing but drink coffee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It does nothing but drink coffee. It can replace 20% of your workforce.",
+        "I like it."
+      ]
+    }
+  ]
+}

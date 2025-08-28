@@ -1,0 +1,55 @@
+{
+  "date": "2017-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we move this button to here, people are more likely to see it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha!",
+        "Omg. Lol."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you think every person in the universe is blind?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't wait to tell everyone that Dilbert thinks people have no eyes."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The pure craziness of what you are saying is mind-boggling."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you have any scientific proof that moving that button would not cause a nuclear holocaust?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Everything you just said is dumb and unproductive, and I hate every molecule in your useless body."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's wrong with people?",
+        "I keep telling you, it's everything."
+      ]
+    }
+  ]
+}

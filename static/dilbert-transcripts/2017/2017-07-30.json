@@ -1,0 +1,57 @@
+{
+  "date": "2017-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why isn't your project done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't make the people on my team do any work because I'm not their boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure you can. It's called leadership.",
+        "I do it all the time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "All you do is threaten to fire people.",
+        "I can't do that because I'm not their boss."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's why you have to use your soft leadership skills."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "A good leader can get people to do anything."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then why couldn't you get me to finish my project on time?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And why do you pay me?",
+        "You could just lead me to work for free.",
+        "Shut up or I'll fire you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our product has fewer features and a higher price compared to our competitors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll fix that with a little thing I call \"marketing.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lying is unethical.",
+        "That's why we only mislead."
+      ]
+    }
+  ]
+}

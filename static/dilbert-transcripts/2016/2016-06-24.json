@@ -1,0 +1,27 @@
+{
+  "date": "2016-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it true that you invented a device with human intelligence and human emotions?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd give you a demo, but the device is depressed and wants to be left alone.",
+        "It looks like a block of wood."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm only trying to copy the human mind.",
+        "There's no reason to over-engineer it.",
+        "I can respect that."
+      ]
+    }
+  ]
+}

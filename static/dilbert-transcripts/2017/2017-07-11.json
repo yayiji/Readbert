@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your financial projection doesn't support my preferred strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could tweak the discount rate to 40%."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're asking me to be unethical.",
+        "Only with your assumptions."
+      ]
+    }
+  ]
+}

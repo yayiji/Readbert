@@ -1,0 +1,25 @@
+{
+  "date": "2017-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't have the fifteen minutes it will take me to get back into the coding \"zone\" after your interruption."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only need one minute.",
+        "What planet are you from?!!!"
+      ]
+    }
+  ]
+}

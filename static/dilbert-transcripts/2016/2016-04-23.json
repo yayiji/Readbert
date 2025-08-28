@@ -1,0 +1,30 @@
+{
+  "date": "2016-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I stole the enemy's encryption-breaking software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My phone doesn't have a hole for this.",
+        "I think it needs an adapter or something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it time to admit we're in over our heads?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why are the heathens so good at this stuff?"
+      ]
+    }
+  ]
+}

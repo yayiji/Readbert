@@ -1,0 +1,55 @@
+{
+  "date": "2017-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is our new employee, Mark."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mark was a Navy SEAL. He fought in three separate conflicts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He once fought off a hundred insurgents and saved a town."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Show Mark how we roll at this company."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Today I'll be reformatting my PowerPoint deck because someone said the design is not organic."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What's that mean?",
+        "It doesn't matter."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll just push some things around and hope the guy who complained doesn't attend the next meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do you survive this place?",
+        "I don't like to use the word \"hero.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2017-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you prefer the privacy of a cubicle or the collaborative atmosphere of an open office plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cubicles poison my soul.",
+        "But in an open office plan, I would not get any work done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "which do you prefer?",
+        "The one with no work.",
+        "I thought that was obvious."
+      ]
+    }
+  ]
+}

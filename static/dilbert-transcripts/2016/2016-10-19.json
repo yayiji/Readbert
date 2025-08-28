@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having trouble managing our web developer because I don't know how long things are supposed to take."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does it really take nine months to change the font on the home page?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much do I owe you?",
+        "Tell him my project normally takes two years."
+      ]
+    }
+  ]
+}

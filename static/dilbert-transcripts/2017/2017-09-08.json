@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our experiment with robots in management has been a success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Productivity is way up since they started killing the low-performing humans."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But... that's murder.",
+        "Only when humans do it. We found a loophole."
+      ]
+    }
+  ]
+}

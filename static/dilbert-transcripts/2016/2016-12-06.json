@@ -1,0 +1,23 @@
+{
+  "date": "2016-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations, Ted. Your job performance has earned you a new mobile phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't this the model that has the exploding battery problem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your job performance wasn't good either."
+      ]
+    }
+  ]
+}

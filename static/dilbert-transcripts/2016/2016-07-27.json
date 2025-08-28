@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is your biggest obstacle to success on this project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's you.",
+        "It's always you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I add that to the business plan?",
+        "Let's keep it general."
+      ]
+    }
+  ]
+}

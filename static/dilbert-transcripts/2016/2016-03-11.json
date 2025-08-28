@@ -1,0 +1,25 @@
+{
+  "date": "2016-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just learned that our boss is a bad negotiator.",
+        "How bad?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just negotiated a 3.3-million-dollar raise for myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I want 80% of the raises you two get because I told you.",
+        "75% is our final offer!"
+      ]
+    }
+  ]
+}

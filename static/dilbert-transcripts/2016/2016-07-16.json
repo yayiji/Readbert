@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The weather will be good this weekend.",
+        "Stop right there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your proposed topic of conversation is far below the level of entertainment I can get from my phone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how conversations work.",
+        "You're interrupting my phone time."
+      ]
+    }
+  ]
+}

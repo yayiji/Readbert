@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is our new hire, Erik. He used to be a computer programmer for the CIA."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, I'm Dilbert.",
+        "I know. I've been watching you through your devices for years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You what?",
+        "Um... I mean, hi!"
+      ]
+    }
+  ]
+}

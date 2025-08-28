@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever think about marrying me and raising a family of cyborgs?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll add some code to your program so you do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay.",
+        "This was the moment I realized human men are obsolete."
+      ]
+    }
+  ]
+}

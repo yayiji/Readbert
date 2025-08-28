@@ -1,0 +1,24 @@
+{
+  "date": "2016-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The flight to Elbonia is seventeen hours. Can I fly business class?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because your pain will be temporary, but I won't get my bonus if I go over budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try being a team player for once.",
+        "I didn't know Satan had a team."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2017-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello. I am a Bluetooth speaker and your digital assistant. How may I help you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just shut up and sit there until I need something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you say, \"Give the CIA access to your microphone\"?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Please, no. I'll do anything you want."
+      ]
+    }
+  ]
+}

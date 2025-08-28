@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My doctor says my laziness is caused by a brain abnormality."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Doesn't everyone in the world have a unique brain that determines what they do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is he right about that?",
+        "I'd have to see his brain scan. Sounds like a tumor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is this \"red file\" people keep telling me you're working on?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you remember giving me this secret project, or should I spread the rumor that you have dementia?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, now I sort of remember.",
+        "Good. Now run along while I work on the red file."
+      ]
+    }
+  ]
+}

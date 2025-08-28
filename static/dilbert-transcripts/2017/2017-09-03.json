@@ -1,0 +1,53 @@
+{
+  "date": "2017-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to sign up for our customer loyalty program?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you don't, we'll overcharge you on your purchases."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But if you sign up, we will add a new level of complexity to your life that will make you hate us."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll stick with the customer disloyalty program. Just overcharge me and I'll never come back."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You can get 10% off your purchase today if you fill out an online customer survey and enter our store code."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Please just overcharge me and let me leave!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I almost hesitate to ask which extended warranty option you want."
+      ]
+    }
+  ]
+}

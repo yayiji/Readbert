@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a dumb question.",
+        "There are no dumb questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you delete software, where do all the zeroes and ones go?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I stand corrected."
+      ]
+    }
+  ]
+}

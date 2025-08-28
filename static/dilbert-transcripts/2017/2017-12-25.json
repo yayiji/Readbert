@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you engineer our new mobile phone product, make sure you adhere to the BSB design principle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bsb?",
+        "Beautiful, slippery, brittle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that sort of evil?",
+        "It isn't our fault if customers don't buy an ugly case."
+      ]
+    }
+  ]
+}

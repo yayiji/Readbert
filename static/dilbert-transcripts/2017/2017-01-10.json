@@ -1,0 +1,26 @@
+{
+  "date": "2017-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted is doing a terrible job.",
+        "Maybe you should talk to him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What should I say?",
+        "It doesn't matter. Five minutes of listening to you will make him want to quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's crazy enough to work.",
+        "You've only been here for two minutes and my tail is asleep."
+      ]
+    }
+  ]
+}

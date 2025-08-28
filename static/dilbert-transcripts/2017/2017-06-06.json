@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't do any work this week because you forgot to ask for funding for my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop making excuses. Be creative."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you want to know my project charge code?",
+        "Just curious."
+      ]
+    }
+  ]
+}

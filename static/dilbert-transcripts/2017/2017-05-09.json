@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our robot viciously attacked me. I was barely able to fight him off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know what you need to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm programming you to fight better.",
+        "Thanks. I'm not a good finisher."
+      ]
+    }
+  ]
+}

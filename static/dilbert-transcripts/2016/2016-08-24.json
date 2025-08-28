@@ -1,0 +1,26 @@
+{
+  "date": "2016-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to build a particle accelerator in the basement.",
+        "Sounds expensive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not if you use cardboard.",
+        "My plan is to say I discovered one new particle per week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When scientists fail to confirm my discoveries, I will say they need better accelerators.",
+        "Wag!"
+      ]
+    }
+  ]
+}

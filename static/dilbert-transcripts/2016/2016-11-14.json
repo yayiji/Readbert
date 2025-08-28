@@ -1,0 +1,23 @@
+{
+  "date": "2016-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't do your urgent task because I'm on deadline for my boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't meet your deadline because I have an urgent task from a co-worker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I finally figured out the whole \"work-life balance\" thing."
+      ]
+    }
+  ]
+}

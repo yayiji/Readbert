@@ -1,0 +1,25 @@
+{
+  "date": "2017-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It is easier to create the illusion of work than it is to do actual work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I carry this red folder with me wherever I go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you attend a design meeting at two?",
+        "Ooh...",
+        "I wish I could, but I'm behind schedule on the red file."
+      ]
+    }
+  ]
+}

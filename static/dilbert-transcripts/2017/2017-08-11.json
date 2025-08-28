@@ -1,0 +1,23 @@
+{
+  "date": "2017-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you need me, I'll be at my desk pretending to work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How long do you think you can get away with that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wondered the same thing for the first fifteen years or so."
+      ]
+    }
+  ]
+}

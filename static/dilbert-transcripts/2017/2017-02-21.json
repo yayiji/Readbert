@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to add a feature to the legacy system while we wait for the new software to go live."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My job is to prevent people such as you from adding features to our legacy system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But it's my job to make you do it.",
+        "One of us has a terrible job."
+      ]
+    }
+  ]
+}

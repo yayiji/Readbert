@@ -1,0 +1,55 @@
+{
+  "date": "2016-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Schedule your training during your lunch hours so it doesn't impact your projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But... my lunch hour is the only freedom I experience in a typical day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The rest of my time is either scheduled to the minute or driven by whatever crisis is happening."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Please don't take my lunch hour and reduce me to nothing but a prisoner in a digital chain gang."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm barely clinging to my illusion of free will as it is.",
+        "This could push me over the edge."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you take away my one hour of freedom in the day, I might as well be a robot."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Relax. This is temporary."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "For how long?",
+        "Until I can replace you with a robot."
+      ]
+    }
+  ]
+}

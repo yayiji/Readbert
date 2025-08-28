@@ -1,0 +1,25 @@
+{
+  "date": "2016-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any vacations planned?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I haven't bungled my career so badly that I need to escape from it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I take vacations.",
+        "I hear you need a lot of them."
+      ]
+    }
+  ]
+}

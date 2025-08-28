@@ -1,0 +1,25 @@
+{
+  "date": "2017-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your stealth clothing project coming along?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great. I'm usually testing the prototype in the office.",
+        "That's why you rarely see me working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... the less I see you work, the more successful you must be?",
+        "It's just common sense."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2017-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Zimbu the monkey",
+        "We need to do animal testing on our new app. Do you mind taking a look?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm getting a strong dopamine hit every time I click on it. Ooh!",
+        "Ooh! Ooh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I have it back?",
+        "Put that hand away before I bite it off."
+      ]
+    }
+  ]
+}

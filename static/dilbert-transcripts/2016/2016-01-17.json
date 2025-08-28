@@ -1,0 +1,55 @@
+{
+  "date": "2016-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You give Wally your full attention when he talks, but not me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You hang on every word the man says, but if I try to talk, you act distracted in five seconds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally gets more eye contact too.",
+        "You don't even look at me half the time I'm talking."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Deep down, in your DNA, you know you are a sexist because you don't take me seriously when I speak to you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There is no other explanation, so don't insult me by trying."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I give both of you the same amount of attention, but you spread it over more words."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I hate both of you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did I play that wrong?",
+        "Yup."
+      ]
+    }
+  ]
+}

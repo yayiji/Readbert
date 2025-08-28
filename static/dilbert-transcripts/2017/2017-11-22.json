@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to take a medical leave to recover from my crippling laziness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Laziness is a behavior problem, not a medical problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would suggest you have not motivated me enough.",
+        "Can't be that. It sounds more like you're dying."
+      ]
+    }
+  ]
+}

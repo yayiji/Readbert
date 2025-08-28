@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a note from my doctor that says it's okay for me to sleep during meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then what's the point of coming to the meeting?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it's for the sleep.",
+        "Zzzzz"
+      ]
+    }
+  ]
+}

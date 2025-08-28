@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Randy is one of the first humans with a microchip embedded in his brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This new technology will change how we view the human experience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It will also ruin comic strips by filling them with too much exposition.",
+        "The punch line is in the fourth panel."
+      ]
+    }
+  ]
+}

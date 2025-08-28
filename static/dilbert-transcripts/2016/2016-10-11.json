@@ -1,0 +1,30 @@
+{
+  "date": "2016-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I accidentally talked the board into buying a company that has a tainted reputation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How bad is the taint?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Imagine Hitler's unwashed socks."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That isn't so bad.",
+        "I'm just getting started. Now imagine I make you eat those socks..."
+      ]
+    }
+  ]
+}

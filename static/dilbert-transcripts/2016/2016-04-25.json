@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of our options lead to doom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only thing we can control is who we blame."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds about right.",
+        "Except for the \"we\" part."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2016-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The robot will be sitting in for me when I'm on vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't have a robot in charge of humans!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I got this."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I see you own a mobile phone.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then you are already a slave to a machine.",
+        "No, I'm not!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ping!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You can prove you have free will by not looking at that message."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gaaa!!! You're already better than our human boss!"
+      ]
+    }
+  ]
+}

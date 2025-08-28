@@ -1,0 +1,30 @@
+{
+  "date": "2017-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you move the server rack?",
+        "I didn't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must be lying because I heard you did."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't it more likely you're wrong?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Considering all the options, I like the one where I'm right about everything and you're a stinkin' liar."
+      ]
+    }
+  ]
+}
