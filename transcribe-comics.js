@@ -5,11 +5,12 @@
  * Transcribes Dilbert comics using OpenRouter's Gemini API with advanced features.
  * 
  * USAGE:
- *   node transcribe-comics.js [year] [start-date] [end-date]
+ *   node transcribe-comics.js [year]                       # Single year
+ *   node transcribe-comics.js [start-year] [end-year]      # Multiple years
  * 
  * EXAMPLES:
- *   node transcribe-comics.js 1989                         # Entire year
- *   node transcribe-comics.js 1989 1989-05-01 1989-05-31   # Date range
+ *   node transcribe-comics.js 1989                         # Entire year 1989
+ *   node transcribe-comics.js 1989 1995                    # Years 1989-1995
  *   node transcribe-comics.js                              # Show usage
  * 
  * FEATURES:
@@ -17,6 +18,7 @@
  *   - Smart skipping of existing transcripts
  *   - Automatic retries with rate limiting
  *   - Progress tracking and error handling
+ *   - Multi-year batch processing
  */
 
 import fs from 'fs';
@@ -38,6 +40,7 @@ const MODEL_NAME = 'google/gemini-2.5-flash-lite';
 // const MODEL_NAME = 'openai/gpt-4o-mini';
 const RATE_LIMIT_DELAY = 2000; // 2 seconds between requests
 const MAX_RETRIES = 3;
+const YEAR_DELAY = 5000; // 5 seconds between years
 
 if (!OPENROUTER_API_KEY) {
     console.error('❌ Please set OPENROUTER_API_KEY environment variable');
@@ -166,24 +169,17 @@ If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}`
     }
 }
 
-// Function to get all comic files for a given year or date range
-function getComicFiles(year, startDate = null, endDate = null) {
+// Function to get all comic files for a given year
+function getComicFiles(year) {
     const comicsDir = path.join(__dirname, 'source-data', 'dilbert-comics', year.toString());
     
     if (!fs.existsSync(comicsDir)) {
         throw new Error(`Comics directory not found: ${comicsDir}`);
     }
     
-    let files = fs.readdirSync(comicsDir)
+    const files = fs.readdirSync(comicsDir)
         .filter(file => file.endsWith('.gif'))
         .sort();
-    
-    if (startDate && endDate) {
-        files = files.filter(file => {
-            const fileDate = file.replace('.gif', '');
-            return fileDate >= startDate && fileDate <= endDate;
-        });
-    }
     
     return files.map(file => ({
         filename: file,
@@ -215,43 +211,52 @@ function saveTranscript(date, transcript) {
     return transcriptPath;
 }
 
-// Main transcription function
-async function transcribeComics(year, startDate = null, endDate = null) {
-    console.log(`🚀 Starting bulk transcription for ${year}${startDate ? ` (${startDate} to ${endDate})` : ''}`);
-    console.log(`📡 Using model: ${MODEL_NAME}`);
-    console.log(`⏱️  Rate limit: ${RATE_LIMIT_DELAY}ms between requests\n`);
+// Main transcription function for a single year
+async function transcribeComics(year) {
+    console.log(`🎯 Processing year ${year}`);
+    console.log('='.repeat(50));
     
     try {
-        const comics = getComicFiles(year, startDate, endDate);
-        console.log(`📚 Found ${comics.length} comics to process\n`);
+        // Get all comic files for the year
+        const comics = getComicFiles(year);
+        
+        if (comics.length === 0) {
+            console.log(`⚠️  No comics found for year ${year}`);
+            return { processed: 0, skipped: 0, errors: 0 };
+        }
+        
+        console.log(`📚 Found ${comics.length} comics for ${year}`);
         
         let processed = 0;
         let skipped = 0;
         let errors = 0;
         
         for (const comic of comics) {
+            // Check if transcript already exists
+            if (transcriptExists(comic.date)) {
+                skipped++;
+                console.log(`⏭️  Skipped ${comic.date} (already exists)`);
+                console.log(`📊 Progress: ${processed + skipped + errors}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
+                continue;
+            }
+            
             try {
-                // Check if already transcribed
-                if (transcriptExists(comic.date)) {
-                    console.log(`⏭️  Skipping ${comic.date} (already transcribed)`);
-                    skipped++;
-                    continue;
-                }
-                
-                console.log(`🎯 Processing ${comic.date}...`);
-                
-                // Transcribe the comic
+                console.log(`🔄 Transcribing ${comic.date}...`);
                 const transcript = await transcribeComic(comic.path);
                 
-                // Save the transcript
-                const savedPath = saveTranscript(comic.date, transcript);
+                if (transcript) {
+                    const savedPath = saveTranscript(comic.date, transcript);
+                    processed++;
+                    console.log(`✅ Saved transcript: ${path.basename(savedPath)}`);
+                } else {
+                    errors++;
+                    console.log(`❌ Failed to transcribe ${comic.date}`);
+                }
                 
-                processed++;
-                console.log(`✅ Saved transcript: ${path.basename(savedPath)}`);
-                console.log(`📊 Progress: ${processed + skipped}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
+                console.log(`📊 Progress: ${processed + skipped + errors}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
                 
                 // Rate limiting
-                if (processed < comics.length - skipped) {
+                if (processed + skipped + errors < comics.length) {
                     await delay(RATE_LIMIT_DELAY);
                 }
                 
@@ -262,13 +267,52 @@ async function transcribeComics(year, startDate = null, endDate = null) {
             }
         }
         
-        console.log(`🎉 Bulk transcription completed!`);
-        console.log(`📈 Final stats: ${processed} transcribed, ${skipped} skipped, ${errors} errors`);
+        console.log(`✅ Completed year ${year}: ${processed} transcribed, ${skipped} skipped, ${errors} errors`);
+        return { processed, skipped, errors };
         
     } catch (error) {
-        console.error(`💥 Fatal error: ${error.message}`);
-        process.exit(1);
+        console.error(`� Error processing year ${year}: ${error.message}`);
+        return { processed: 0, skipped: 0, errors: 1 };
     }
+}
+
+// Main function for multiple years
+async function transcribeMultipleYears(startYear, endYear) {
+    console.log(`🚀 Starting multi-year transcription from ${startYear} to ${endYear}`);
+    console.log(`📅 This will process ${endYear - startYear + 1} years\n`);
+    
+    let totalProcessed = 0;
+    let totalSkipped = 0;
+    let totalErrors = 0;
+    
+    for (let year = startYear; year <= endYear; year++) {
+        const yearIndex = year - startYear + 1;
+        const totalYears = endYear - startYear + 1;
+        
+        console.log(`\n📆 Year ${year} (${yearIndex}/${totalYears})`);
+        
+        // Check if year directory exists
+        const yearDir = path.join(__dirname, 'source-data', 'dilbert-comics', year.toString());
+        if (!fs.existsSync(yearDir)) {
+            console.log(`⚠️  Skipping ${year} - no comics directory found`);
+            continue;
+        }
+        
+        const stats = await transcribeComics(year);
+        totalProcessed += stats.processed;
+        totalSkipped += stats.skipped;
+        totalErrors += stats.errors;
+        
+        // Delay between years
+        if (year < endYear) {
+            console.log(`⏳ Waiting ${YEAR_DELAY/1000} seconds before next year...`);
+            await delay(YEAR_DELAY);
+        }
+    }
+    
+    console.log(`\n🎉 Multi-year transcription completed!`);
+    console.log(`📈 Final stats: ${totalProcessed} transcribed, ${totalSkipped} skipped, ${totalErrors} errors`);
+    console.log(`📊 Years processed: ${startYear} to ${endYear}`);
 }
 
 // Parse command line arguments
@@ -279,35 +323,31 @@ if (args.length === 0) {
     console.log('🎯 Dilbert Bulk Transcription (OpenRouter Gemini)');
     console.log('Usage examples:');
     console.log('  node transcribe-comics.js 2023');
-    console.log('  node transcribe-comics.js 2023 2023-01-01 2023-01-31');
+    console.log('  node transcribe-comics.js 1989 1995');
     process.exit(0);
 } else if (args.length === 1) {
-    // Transcribe entire year
+    // Transcribe single year
     const year = parseInt(args[0]);
     if (isNaN(year) || year < 1989 || year > 2023) {
         console.error('❌ Invalid year. Please use a year between 1989 and 2023.');
         process.exit(1);
     }
     transcribeComics(year);
-} else if (args.length === 3) {
-    // Transcribe date range
-    const year = parseInt(args[0]);
-    const startDate = args[1];
-    const endDate = args[2];
+} else if (args.length === 2) {
+    // Transcribe multiple years
+    const startYear = parseInt(args[0]);
+    const endYear = parseInt(args[1]);
     
-    if (isNaN(year) || year < 1989 || year > 2023) {
-        console.error('❌ Invalid year. Please use a year between 1989 and 2023.');
+    if (isNaN(startYear) || isNaN(endYear) || startYear < 1989 || endYear > 2023 || startYear > endYear) {
+        console.error('❌ Invalid years. Please use years between 1989 and 2023, with start year ≤ end year.');
         process.exit(1);
     }
     
-    const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
-    if (!dateRegex.test(startDate) || !dateRegex.test(endDate)) {
-        console.error('❌ Invalid date format. Please use YYYY-MM-DD format.');
-        process.exit(1);
-    }
-    
-    transcribeComics(year, startDate, endDate);
+    transcribeMultipleYears(startYear, endYear);
 } else {
-    console.error('❌ Invalid arguments. Use: node transcribe-comics.js [YYYY] [start-date] [end-date]');
+    console.error('❌ Invalid arguments.');
+    console.log('Usage:');
+    console.log('  node transcribe-comics.js [year]                    # Single year');
+    console.log('  node transcribe-comics.js [start-year] [end-year]   # Multiple years');
     process.exit(1);
 }
