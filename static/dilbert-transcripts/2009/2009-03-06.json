@@ -1,0 +1,25 @@
+{
+  "date": "2009-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I gave the same assignment to all the employees who look like you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A blind squirrel is more likely to find a nut if there are a lot of blind squirrels."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounded cruel.",
+        "Allow me to rephrase it.",
+        "I meant vision-impaired squirrels."
+      ]
+    }
+  ]
+}

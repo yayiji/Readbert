@@ -1,0 +1,23 @@
+{
+  "date": "2008-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I try to give you the raise you deserve, the people above me will just reduce it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could use some of your political capital to argue my case."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe not."
+      ]
+    }
+  ]
+}

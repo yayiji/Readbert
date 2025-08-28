@@ -1,0 +1,24 @@
+{
+  "date": "2008-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We could only find one company in the galaxy willing to form a strategic alliance with us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Admiral B'tang- B'tang is here to describe how we can help each other.",
+        "Foop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop saying \"Foop,\" Ted."
+      ]
+    }
+  ]
+}

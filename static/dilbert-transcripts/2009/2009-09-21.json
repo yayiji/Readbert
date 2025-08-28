@@ -1,0 +1,23 @@
+{
+  "date": "2009-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did no work this week because I judged the user's specifications to be inadequate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I continue to do nothing or do you prefer I use incomplete specs to produce useless designs?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The next thing you hear is something called leadership."
+      ]
+    }
+  ]
+}

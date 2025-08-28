@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to cut the fat out of this department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If the department has fat in it, that's a symptom of bad management. Maybe you should fire yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wasn't asking for suggestions.",
+        "Geez, way to be critical during the brainstorming."
+      ]
+    }
+  ]
+}

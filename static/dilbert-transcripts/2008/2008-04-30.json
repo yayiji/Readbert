@@ -1,0 +1,26 @@
+{
+  "date": "2008-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can thwart this unfriendly takeover by using something called a poison pill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I keep one in my watch.",
+        "I'll take it immediately.",
+        "That's not..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I suppose I could feed your tainted CEO carcass to the executives of the other company.",
+        "Gurgle"
+      ]
+    }
+  ]
+}

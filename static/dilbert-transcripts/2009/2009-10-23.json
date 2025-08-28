@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It feels good when you volunteer to help others."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I talked some poor Elbonians into mowing our lawn for free. I want them to feel the joy of giving."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I'm feeling is tired.",
+        "Try doing it faster."
+      ]
+    }
+  ]
+}

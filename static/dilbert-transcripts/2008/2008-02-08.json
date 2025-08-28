@@ -1,0 +1,26 @@
+{
+  "date": "2008-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new five-year plan looks like this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can you have a five-year plan when you don't know what will happen in five minutes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We have this room now.",
+        "Bad timing.",
+        "Shoo!",
+        "Shoo!"
+      ]
+    }
+  ]
+}

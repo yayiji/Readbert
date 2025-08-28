@@ -1,0 +1,24 @@
+{
+  "date": "2009-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It takes an average of five people to approve any action in this company, and at any given time, three are on vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I violate our company culture of consensus building, or just sit around and do nothing for lack of buy-in?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you mention flailing around in futility?",
+        "I was hoping you forgot that option."
+      ]
+    }
+  ]
+}

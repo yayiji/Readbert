@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert asked me a question in front of the entire group that I already answered last week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What kind of game is he playing?",
+        "Maybe he forgot your answer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's crazy talk."
+      ]
+    }
+  ]
+}

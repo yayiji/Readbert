@@ -1,0 +1,54 @@
+{
+  "date": "2009-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Could you make these changes in the database? It will only take five minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh, I don't know...",
+        "Wait!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you planning to spend ten minutes explaining why you don't have five minutes to do this task?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Or are you so incompetent that a five-minute task will take an hour?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or are you limited by company policy because you're a feckless waste of carbon?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or are you the agreeable but unorganized type who will say yes, lose my note, and forget who asked?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I was planning to tell you this doesn't need to be done and refuse to change my position even after you give me good reasons."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Experience is just another word for losing hope."
+      ]
+    }
+  ]
+}

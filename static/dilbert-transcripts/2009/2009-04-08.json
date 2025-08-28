@@ -1,0 +1,26 @@
+{
+  "date": "2009-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the CEO",
+        "The new motivational posters are in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you requested, I bought the least expensive ones.",
+        "Excuse me while I stretch my waggle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If all else fails...",
+        "Your coworkers are edible."
+      ]
+    }
+  ]
+}

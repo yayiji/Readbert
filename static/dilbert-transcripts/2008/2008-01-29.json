@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll tell you my idea if you promise not to reject it before thinking about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already rejected it because only putrid ideas come with warnings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My time management is getting better.",
+        "I can't pretend to care."
+      ]
+    }
+  ]
+}

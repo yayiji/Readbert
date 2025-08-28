@@ -1,0 +1,24 @@
+{
+  "date": "2009-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I don't have enough time to do things right, should I just do nothing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or do you prefer that I miss deadlines, or do shoddy work, or pray for divine intervention?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want everything fast and perfect.",
+        "Can I buy a prayer rug?"
+      ]
+    }
+  ]
+}

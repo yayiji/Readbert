@@ -1,0 +1,23 @@
+{
+  "date": "2009-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have no project of my own, so I wander the cubicles offering unsolicited advice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Speaking of which, you should put a little extra thought into your cooling system design. It looks monkey-made."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm discovering that honest and helpful are a bad combination."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2008-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, put together a document showing how our budget aligns with our priorities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It doesn't.",
+        "Write it so it seems like it does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that lying?",
+        "I call it leadership by words."
+      ]
+    }
+  ]
+}

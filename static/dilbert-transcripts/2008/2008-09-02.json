@@ -1,0 +1,24 @@
+{
+  "date": "2008-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, there's no budget to give you a raise, but I'll give you something that is just as good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I promise that if you quit on me I will give you a bad job reference and you will never work again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How is that just as good as a raise?",
+        "Try to see it from my point of view."
+      ]
+    }
+  ]
+}

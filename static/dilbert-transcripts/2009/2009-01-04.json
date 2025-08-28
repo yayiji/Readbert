@@ -1,0 +1,54 @@
+{
+  "date": "2009-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to sign the corporate code of conduct."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! You're totally hot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... that's inappropriate, and you need to sign the code of conduct."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't have a pen. Can you take it back to your cubicle and sign it for me?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No. And I think you're lying about not having a pen. But maybe we can find one for you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "See if Dilbert is in his cubicle. I usually take his stuff and blame the cleaners."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Just sign the #%!**! code of conduct or I will crush your stupid, bald head!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do I need to read it?",
+        "No, just say you did."
+      ]
+    }
+  ]
+}

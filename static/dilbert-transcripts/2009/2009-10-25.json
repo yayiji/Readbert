@@ -1,0 +1,54 @@
+{
+  "date": "2009-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to take care of... um..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Whatever is on the top of my pile."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is a job for marketing, not engineering."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Give it to the director of marketing and ask him to assign it to someone."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... you're delegating to me to pass this off to someone else, who will delegate it to someone else."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "With each handoff, the sense of urgency will diminish until the likelihood of completion approaches zero."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You could save the company money by crumpling up this document and throwing it away right now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This feels wrong.",
+        "Try using more wrist."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The MBA guy",
+        "I put together a spreadsheet that might interest you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ow! Ow! It's so boring, it hurts my head!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My brain is trying to escape through my ear!",
+        "I get this a lot."
+      ]
+    }
+  ]
+}

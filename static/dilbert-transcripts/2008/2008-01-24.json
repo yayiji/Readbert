@@ -1,0 +1,26 @@
+{
+  "date": "2008-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new software is a disaster.",
+        "Then why did you recommend it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This software is your idea.",
+        "I recommended against it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So whose fault is it?",
+        "The person with the unpersuasive recommendations?"
+      ]
+    }
+  ]
+}

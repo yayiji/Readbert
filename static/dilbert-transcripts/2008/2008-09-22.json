@@ -1,0 +1,24 @@
+{
+  "date": "2008-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Please hold while I escalate your complaint about my service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hallow. Dis ees Doogbert's sooper-biser. You are a stupid, stupid, looooser."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ookay. Pleeze hoold while I escooolade eben furder."
+      ]
+    }
+  ]
+}

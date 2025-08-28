@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How would you like to be in charge of the legacy systems?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's like being the biggest rind in the compost heap."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do it anyway.",
+        "I surrender to the bacteria."
+      ]
+    }
+  ]
+}

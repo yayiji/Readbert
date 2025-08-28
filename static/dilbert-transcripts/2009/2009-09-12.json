@@ -1,0 +1,26 @@
+{
+  "date": "2009-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need more resources on my project.",
+        "I'll give you someone from Alice's project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then Alice won't have enough resources.",
+        "I can only solve one problem at a time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did he solve your problem?",
+        "I'm going to say yes."
+      ]
+    }
+  ]
+}

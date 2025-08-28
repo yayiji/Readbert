@@ -1,0 +1,22 @@
+{
+  "date": "2008-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who has some successes to share at our 5-minute daily huddle?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay... are there any obstacles?",
+        "Everything."
+      ]
+    }
+  ]
+}

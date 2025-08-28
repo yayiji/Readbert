@@ -1,0 +1,26 @@
+{
+  "date": "2009-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're moving our data center to Elbonia to save money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That seems a bit dangerous since every Elbonian is an identity thief.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seemed like an exaggeration, but it wasn't.",
+        "Hi, I'm Old Man Podemkin.",
+        "I was him this morning!"
+      ]
+    }
+  ]
+}

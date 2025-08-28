@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After eight months, senior management finally approved your project plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's too late. All of the technology has changed and our competitors have leapfrogged us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could write a new plan.",
+        "Or we could get the same result by resubmitting this one."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2008-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's our vice president of engineering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello. I am Asok the intern. May I tell you about an idea I have?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Vice presidents can't hear us, Asok. To them, our voices sound like the faint buzzing of flies."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you want to give him your idea, you have to do it indirectly."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Tell someone who knows someone, who knows someone else, who knows the vice president."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or do what I do and channel your irrational impulse to be useful into an unquenchable thirst for coffee."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So... why are you helping me?",
+        "The coffee machine is broken."
+      ]
+    }
+  ]
+}

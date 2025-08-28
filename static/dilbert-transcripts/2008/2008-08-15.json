@@ -1,0 +1,24 @@
+{
+  "date": "2008-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I never have enough information to make an informed decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that's okay because I'm a good judge of people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you approve this?",
+        "Baby puncher."
+      ]
+    }
+  ]
+}

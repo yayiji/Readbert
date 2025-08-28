@@ -1,0 +1,26 @@
+{
+  "date": "2008-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you deliver those legal papers to my CEO?",
+        "No, I served him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It means the same thing.",
+        "How could it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, really, it does.",
+        "Now I feel bad about double faulting."
+      ]
+    }
+  ]
+}

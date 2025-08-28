@@ -1,0 +1,25 @@
+{
+  "date": "2008-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our investors want to see the solar panels you invented.",
+        "I didn't invent any solar panels."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Show them something else. They won't know the difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like a ham sandwich.",
+        "I was assured that you're stupid."
+      ]
+    }
+  ]
+}

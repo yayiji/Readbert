@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information service",
+        "Cloud computing is no good because strangers would have access to our data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I trust encryption way more than I trust Spock-eared sociopaths."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you mention a person's ears, he won't listen to the rest of your argument."
+      ]
+    }
+  ]
+}

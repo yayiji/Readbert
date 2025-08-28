@@ -1,0 +1,25 @@
+{
+  "date": "2009-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who needs training to keep up with technology trends?",
+        "Me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're fired. I only want people who already know how to do their jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I did not see that coming.",
+        "They don't have a class to fix that."
+      ]
+    }
+  ]
+}

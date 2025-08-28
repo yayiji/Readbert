@@ -1,0 +1,57 @@
+{
+  "date": "2009-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales have been lagging."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want each of you to cold-call ten customers per day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're engineers.",
+        "We don't know how to sell."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Just follow this script. It's guaranteed to close every sale."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hello. I'm calling on behalf of the police and firefighters' charity for unattractive youths."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you send us $500 we will send you a lovely piece of software as a thank you gift."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Otherwise, when your house catches on fire, you might find yourself handcuffed to the refrigerator."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Dilbert?",
+        "Is that you?",
+        "Hi, Mom.",
+        "I'm in sales now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the worst part about you being unemployed?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it the risk of starvation, the inability to date, or the feeling of being utterly worthless?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So far the worst part is this conversation.",
+        "Wait 'til you hear my tough love speech."
+      ]
+    }
+  ]
+}

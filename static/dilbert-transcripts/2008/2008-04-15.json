@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want the entire staff to meet at 10 a.m. every day for a five-minute huddle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll use this high-energy stand-up meeting to solve problems and share successes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who has a problem that can be solved in a minute?",
+        "I'm tired.",
+        "Can I sit on you?"
+      ]
+    }
+  ]
+}

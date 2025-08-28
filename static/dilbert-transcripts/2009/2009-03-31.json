@@ -1,0 +1,29 @@
+{
+  "date": "2009-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a woman who laughs too much.",
+        "Ha ha",
+        "Ha ha",
+        "Ha!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She'll be in the cubicle next to yours.",
+        "Wa-ha",
+        "Ha ha",
+        "Ha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I no longer worry about life passing too quickly."
+      ]
+    }
+  ]
+}

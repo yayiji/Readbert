@@ -1,0 +1,25 @@
+{
+  "date": "2008-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's pronounced Hay-soos.",
+        "My name is Jesus, and I seek twelve people to work on my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am the saver of databases. Join me to upgrade our systems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First, we're all going to lunch.",
+        "I have a bad feeling about this."
+      ]
+    }
+  ]
+}

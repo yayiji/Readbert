@@ -1,0 +1,24 @@
+{
+  "date": "2008-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to marketing, sales have increased 100%!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Are you asking a room full of engineers to be excited about a big percentage increase over a trivial base?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You leave me no choice but to give you the stink eye.",
+        "Ow! Ow! Make it stop!"
+      ]
+    }
+  ]
+}

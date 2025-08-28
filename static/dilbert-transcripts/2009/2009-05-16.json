@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can save the most money by downsizing the unhealthiest workers first."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do we know who they are?",
+        "We'll close the parking lot that's nearest the building."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we help them?",
+        "It's too late for broccoli."
+      ]
+    }
+  ]
+}

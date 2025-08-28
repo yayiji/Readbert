@@ -1,0 +1,23 @@
+{
+  "date": "2009-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to announce that the government gave us a bailout loan of $25 billion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm even happier to announce that I kept the entire amount for my bonus."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who wants to see a picture of my island fortress?"
+      ]
+    }
+  ]
+}

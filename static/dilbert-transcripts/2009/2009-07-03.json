@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our product is so unsafe that the military wants to use it as a weapon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now the only way to satisfy our fiduciary duty to stockholders is to foment war to boost our sales."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, why'd you punch a hole in my hat?!",
+        "That's a little thing we call marketing."
+      ]
+    }
+  ]
+}

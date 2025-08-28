@@ -1,0 +1,54 @@
+{
+  "date": "2008-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The security audit accidentally locked all of the developers out of the system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, it is what it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does that help?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You don't know what you don't know."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Congratulations. You're the first human to fail the Turing test."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What does that mean?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Um..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It is what it is?",
+        "Why didn't you say that in the first place?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2008-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to handle the due diligence for our alliance with the Galactic Protein Corporation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Find out if they have any hidden issues we should know about."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this a bad time?"
+      ]
+    }
+  ]
+}

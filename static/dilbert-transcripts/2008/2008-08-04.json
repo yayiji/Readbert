@@ -1,0 +1,25 @@
+{
+  "date": "2008-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Health problems and absenteeism are a huge cost to this business.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So give me a raise, or I'll eat unhealthy food and avoid all forms of exercise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You already do those things.",
+        "How could you possibly know that?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired my unemployed golf buddy to consult.",
+        "What are his qualifications?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He has two qualifications: he's unemployed and he's a golf buddy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend firing the whistleblower and playing nine before it gets dark."
+      ]
+    }
+  ]
+}

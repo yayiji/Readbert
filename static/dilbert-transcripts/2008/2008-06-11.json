@@ -1,0 +1,25 @@
+{
+  "date": "2008-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the media trainer",
+        "Carefully choose your words when talking about the company's future."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, avoid comparisons to Abe Lincoln at Ford's Theatre, \"circling the drain,\" and anything involving flies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And never, ever refer to the company as any kind of sandwich you wouldn't want to eat.",
+        "That's my favorite one!"
+      ]
+    }
+  ]
+}

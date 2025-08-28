@@ -1,0 +1,24 @@
+{
+  "date": "2008-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any hobbies?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to read obscure articles on the internet and imagine having friends who are interested in the same things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you do have friends, right?",
+        "Is it too late to change the subject?"
+      ]
+    }
+  ]
+}

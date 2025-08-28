@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided that your tiny company will give us an interest-free loan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no paperwork to sign. We'll just pay your invoices late while snortling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is the part where you realize your negotiating leverage is limited.",
+        "I demand no snortling!"
+      ]
+    }
+  ]
+}

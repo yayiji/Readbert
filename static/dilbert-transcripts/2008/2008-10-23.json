@@ -1,0 +1,24 @@
+{
+  "date": "2008-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our graphics department made this logo for my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In retrospect, I probably shouldn't have badgered them to finish quickly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't judge my competence by my logo.",
+        "Too late."
+      ]
+    }
+  ]
+}

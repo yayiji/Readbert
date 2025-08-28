@@ -1,0 +1,25 @@
+{
+  "date": "2009-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, we're hosting a forum for human resources executives, and I need you to organize it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! That will be like trying to herd cats.",
+        "What did you just say?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not a racist.",
+        "Denial is proof!"
+      ]
+    }
+  ]
+}

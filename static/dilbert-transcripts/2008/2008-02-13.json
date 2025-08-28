@@ -1,0 +1,24 @@
+{
+  "date": "2008-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a consultant to help with our virtualization project because I don't trust employees with anything important."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will do the heavy thinking while each of you performs your usual duties as obstacles to progress."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You said this is my project!",
+        "I'll let him unplug something."
+      ]
+    }
+  ]
+}

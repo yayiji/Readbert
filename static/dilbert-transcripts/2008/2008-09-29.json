@@ -1,0 +1,24 @@
+{
+  "date": "2008-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "An Elbonian company bought our company yesterday.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They promise they won't discriminate against non-Elbonians."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, hatless spawn of Satan's bowels, put a head on this."
+      ]
+    }
+  ]
+}

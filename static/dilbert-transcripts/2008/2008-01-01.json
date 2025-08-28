@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a great day at work.",
+        "For some reason, no one interrupted me, so I got a lot done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today is a holiday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All of my victories are tainted."
+      ]
+    }
+  ]
+}

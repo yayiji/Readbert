@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm painting my own house to save money.",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had spider glands transplanted into my body so I can make my own silk garments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't seem...",
+        "Who wants mittens?!"
+      ]
+    }
+  ]
+}

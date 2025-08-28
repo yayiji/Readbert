@@ -1,0 +1,25 @@
+{
+  "date": "2009-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bailout hearings",
+        "Mr. Dogbert, did you fly here in a corporate jet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, the same jet that took you on a fact-finding trip to Aruba, you wool-coated glob of fat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bring it on! I can do this all day.",
+        "I yield my time to the hypocrite from another state."
+      ]
+    }
+  ]
+}

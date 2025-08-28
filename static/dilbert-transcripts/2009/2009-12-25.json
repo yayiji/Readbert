@@ -1,0 +1,27 @@
+{
+  "date": "2009-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Merry Christmas.",
+        "Here's a hundred bucks.",
+        "And here's a hundred bucks for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We could save another step by setting up an electronic transfer with an annual recurring option.",
+        "Excellent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or we could not give gifts.",
+        "Hush your crazy talk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Last week I attended the Circle of Excellence conference for managers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, while we were doing actual work, you sat in a circle with a bunch of managers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It wasn't like that.",
+        "Oh, I think it was."
+      ]
+    }
+  ]
+}

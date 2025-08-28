@@ -1,0 +1,56 @@
+{
+  "date": "2009-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We find you fascinating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You do?",
+        "Oh, yes. Every little thing you do is interesting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know that.",
+        "Hey, I just had an idea."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you should use Twitter to leave us little messages about all of your daily activities."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It would make us feel connected to our leader, and dare I say, more motivated."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, gosh, I suppose I could try it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I already feel an improvement in my quality of life."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Where's idiot boy now?",
+        "In the parking lot. No need to look busy yet."
+      ]
+    }
+  ]
+}

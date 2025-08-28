@@ -1,0 +1,25 @@
+{
+  "date": "2008-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My pessimistic coworkers have crushed my soul.",
+        "Now I am nothing but meat with clothes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can regain your soul by volunteering to help the less fortunate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who is less fortunate than me?",
+        "Anyone you date."
+      ]
+    }
+  ]
+}

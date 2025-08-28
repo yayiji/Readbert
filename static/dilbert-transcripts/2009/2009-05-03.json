@@ -1,0 +1,56 @@
+{
+  "date": "2009-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late. A truck turned over on the highway.",
+        "What did I miss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't want to rehash the entire meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about a quick summary?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, if we leave out any details, you'll think we made the wrong decisions."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's best for us if we keep you ignorant and angry."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you marginalize me, I will become a nemesis to your project!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm cool with that.",
+        "Sort of like a mascot?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "A nemesis is not like a mascot!",
+        "Maybe you could wear a giant squirrel costume."
+      ]
+    }
+  ]
+}

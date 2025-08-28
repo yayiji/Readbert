@@ -1,0 +1,26 @@
+{
+  "date": "2009-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm collecting money for Scott's birthday present.",
+        "You're Scott."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So? Is there some sort of rule against collecting money for your own birthday?",
+        "Well... no."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm buying myself some paper towels and cereal.",
+        "Stop making it worse!"
+      ]
+    }
+  ]
+}

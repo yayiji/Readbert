@@ -1,0 +1,26 @@
+{
+  "date": "2009-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Until the economy improves, we are instituting a mandatory week off every quarter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At least you'll have more time with your families.",
+        "Nooo!!!",
+        "Not my family!!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Problems at home?",
+        "May I please work without pay?"
+      ]
+    }
+  ]
+}

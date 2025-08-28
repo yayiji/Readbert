@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert: VP of sales",
+        "I'm accompanying Humphrey on this sales call so he can learn from the master."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll begin by giving you something, thus triggering your need to reciprocate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who wants to hit Humphrey with a shovel?"
+      ]
+    }
+  ]
+}

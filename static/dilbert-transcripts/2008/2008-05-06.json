@@ -1,0 +1,25 @@
+{
+  "date": "2008-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I acquired the musky scent of failure.",
+        "Do you have anything that can get rid of it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try being successful at something important."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I work in a fabric-covered box.",
+        "Okay, then try rubbing this behind both ears."
+      ]
+    }
+  ]
+}

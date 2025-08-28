@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's obvious what I need to do next."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'll let you tell me so you can maintain the illusion of value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop being this way.",
+        "I saw that coming a mile away."
+      ]
+    }
+  ]
+}

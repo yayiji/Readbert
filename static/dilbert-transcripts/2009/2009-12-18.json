@@ -1,0 +1,31 @@
+{
+  "date": "2009-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I don't do what you ask me to do, it's because my hearing aid fell in the toilet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't know you had a hearing problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Eh?",
+        "What?",
+        "Eh?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You could try e-mailing me, but I have my spam filter cranked up to \"Taliban.\""
+      ]
+    }
+  ]
+}

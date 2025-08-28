@@ -1,0 +1,24 @@
+{
+  "date": "2008-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That thing is called a \"boss.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His job is to identify systems that are inefficient and make them our new standards."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I do way more than that.",
+        "Don't look directly at it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2009-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to a new law, every customer in my sales territory needed to upgrade."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I wear a hat made of money. The funny thing is that I'm not even a good salesman."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next week, the donuts are on me.",
+        "Die!",
+        "Die!",
+        "Die!"
+      ]
+    }
+  ]
+}

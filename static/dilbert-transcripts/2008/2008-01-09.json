@@ -1,0 +1,25 @@
+{
+  "date": "2008-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And those are the company priorities for the coming year.",
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I be concerned that none of my projects relate to any of those priorities?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're over-thinking again.",
+        "Sorry."
+      ]
+    }
+  ]
+}

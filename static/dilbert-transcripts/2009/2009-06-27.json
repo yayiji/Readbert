@@ -1,0 +1,25 @@
+{
+  "date": "2009-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "You shouldn't come to work just for money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should come to work to avoid not having any money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm only in it for these meetings.",
+        "Settle down, baldy."
+      ]
+    }
+  ]
+}

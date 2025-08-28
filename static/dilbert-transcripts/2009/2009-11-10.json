@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company typically takes about four months to negotiate this type of contract."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And during that time there's a 100% chance that we'll change our minds or you'll discontinue the product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shall we save some time by declaring failure and blaming each other?",
+        "I gave up before I even handed you the contract."
+      ]
+    }
+  ]
+}

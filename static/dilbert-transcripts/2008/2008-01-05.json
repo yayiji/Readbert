@@ -1,0 +1,25 @@
+{
+  "date": "2008-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone said our pointy-haired boss hired a mole.",
+        "Moles creep me out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Mole\" is a figure of speech.",
+        "It's not literally a mole."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do I feel tiny eyes on the back of my neck?"
+      ]
+    }
+  ]
+}

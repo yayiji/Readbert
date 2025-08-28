@@ -1,0 +1,24 @@
+{
+  "date": "2009-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't afford a big vacation this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I bought some kitty litter and a 100-watt bulb.",
+        "It's exactly like being at the beach."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This could turn ugly."
+      ]
+    }
+  ]
+}

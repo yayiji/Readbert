@@ -1,0 +1,25 @@
+{
+  "date": "2009-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you get my input on the vendor selection?",
+        "I tried, but..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're so easily distracted that for all practical purposes you're nothing but furniture with coffee breath."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where were we?",
+        "You were praising me for my good attitude."
+      ]
+    }
+  ]
+}

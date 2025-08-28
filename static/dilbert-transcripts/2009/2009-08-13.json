@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your order will only cost about $20,000.",
+        "No it won't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We both know you're intentionally underestimating the true cost to get the sale, you lying sack of spit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not supposed to say that out loud.",
+        "Is it okay if I imagine a bear attacking you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2009-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you'll be acting manager next week while I'm on vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't. I'll be in a training class all week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert, you'll...",
+        "I'll be at a customer site all week."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Carol...",
+        "I'll be getting my tubes tied."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Asok...",
+        "I'm going to my grandmother's funeral in India."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes? Is there something you need me to do?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Attend a funeral in India. Tell everyone you're asok and you had a horrible accident."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Tell them the acid destroyed your hair and your personality.",
+        "That took an ugly turn."
+      ]
+    }
+  ]
+}

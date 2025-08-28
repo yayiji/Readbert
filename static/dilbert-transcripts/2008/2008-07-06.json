@@ -1,0 +1,56 @@
+{
+  "date": "2008-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Some of us are going for a drink after work.",
+        "Would you like to join us?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nice try, but I know how this scam works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're trying to lull me into a false sense of safety with a group activity."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But we both know the other people will mysteriously never show up."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then it's just you and me on what looks like a date."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How many people do I have to invite before you believe some of them will show up?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, given the disparity in our levels of attractiveness, I'd say thirty-five.",
+        "Can do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Not one other person showed?",
+        "I only invited women who are more suspicious than you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2009-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to stir the soup."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think Ted is stealing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You know how sometimes you can't find things in your office?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... yes.",
+        "That only happens on days when Ted has been in the building."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I think he was wearing a new sock the other day. Have you ever lost a sock?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He's been in my house?!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Either that or your wife and Ted have some sort of arrangement."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ted...",
+        "It makes my lack of accomplishments seem unimportant."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Overqualified temp",
+        "I have completed all of my menial assignments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any more trivial tasks to crush my sense of self-worth?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've always wondered how many ceiling tiles are in the men's restroom.",
+        "Die! Die! Die!"
+      ]
+    }
+  ]
+}

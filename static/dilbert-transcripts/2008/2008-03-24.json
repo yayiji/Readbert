@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where can I put this important document so it won't get lost in your desk clutter?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll flatten my hair so you can leave it on top of my head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you happy?",
+        "I didn't know happy was an option."
+      ]
+    }
+  ]
+}

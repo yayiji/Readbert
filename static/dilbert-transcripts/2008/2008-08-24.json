@@ -1,0 +1,55 @@
+{
+  "date": "2008-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to a seminar that will teach me how to make a million dollars!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a scam.",
+        "How could you know that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't even told you the name of the seminar!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can't be sure it is a scam if you know none of the details."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You just want to crush my hopes so I become like you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But it won't work because I have dreams! I won't be a bitter and broken cynic like you two!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll have the last laugh after I pay my nominal fee and learn how to \"turn a hundred dollars into a million.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Invest $100 at 5% interest and wait 190 years.",
+        "Thanks for coming."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's no need to worry about the server virtualization project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In phase one, a team of blind monkeys will unplug unnecessary servers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In phase two, the monkeys will hurl software at whatever is left.",
+        "Voilà!"
+      ]
+    }
+  ]
+}

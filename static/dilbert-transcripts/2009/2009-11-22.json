@@ -1,0 +1,55 @@
+{
+  "date": "2009-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My insolence safety zone has expanded.",
+        "Your what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a measure of how rude I can be without fear of consequences."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have no budget to give me a raise, so I have no potential gain from acting professionally."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And it would be inconvenient for you to fire a highly experienced engineer and try to bring a new one up to speed."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So from now on, when you ask me to do something stupid, which is most of the time..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll roll my eyes, make a dismissive grunt and do this dance.",
+        "Phhht!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hey walla-walla walla! Boopita boopita!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You finally raised my morale. Good work on that."
+      ]
+    }
+  ]
+}

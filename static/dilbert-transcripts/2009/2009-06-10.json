@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, business is slow, and I have to let you go."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I already did your performance review so I thought you might benefit from constructive feedback."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're like a blister on a skunk's colon.",
+        "A tiny one."
+      ]
+    }
+  ]
+}

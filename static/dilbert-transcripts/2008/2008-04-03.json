@@ -1,0 +1,24 @@
+{
+  "date": "2008-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project is on hold. Do you need any help on yours?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. Call these customers and tell them we can't deliver on time or with the features they need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any tasks that don't feel like getting waterboarded on your birthday?",
+        "And tell them the price went up."
+      ]
+    }
+  ]
+}

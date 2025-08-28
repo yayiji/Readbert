@@ -1,0 +1,26 @@
+{
+  "date": "2008-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm off for two relaxing weeks of well-earned vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Attention all employees. The stain is on the move. I repeat, the stain is on the move."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yippee!",
+        "Woo-hoo!",
+        "Yes!",
+        "Relaxing just got harder."
+      ]
+    }
+  ]
+}

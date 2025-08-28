@@ -1,0 +1,23 @@
+{
+  "date": "2009-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a less expensive delivery service for our overseas packages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Find someone who is traveling to the same country as the package, shoot him with a tranquilizer dart, and hide the package under his hat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first day of any new system is always a problem."
+      ]
+    }
+  ]
+}

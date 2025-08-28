@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to win a humanitarian award."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't want to touch anyone who is sick, or poor, or unattractive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want to donate your time or your money?",
+        "I'm hoping to donate your time and the stockholders' money."
+      ]
+    }
+  ]
+}

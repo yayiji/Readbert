@@ -1,0 +1,58 @@
+{
+  "date": "2008-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't get much sleep last night.",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I haven't slept in a month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that kill you?",
+        "It did, but that's nothing."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I spent a week in the afterlife, then I returned to this world as a zombie."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I taught myself homeopathy and discovered a cure for zombies."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now I'm alive again."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Please be done...",
+        "Please be done...",
+        "Please be done..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I took pictures of heaven.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

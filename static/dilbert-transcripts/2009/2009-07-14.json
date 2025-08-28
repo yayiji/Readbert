@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We replaced our styrofoam cups with paper cups, but it's not so clear that it helps the planet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We didn't do it to help the planet. We did it to look like the sort of company that cares about that sort of thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh. In that case it's working great.",
+        "As soon as you stop whining."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2009-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the value stream stand up meeting, all status reports must be in the form of red, yellow, or green."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mauve",
+        "Ecru",
+        "Cerulean",
+        "Puce"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes the only point of a meeting is to remind me how much I hate them."
+      ]
+    }
+  ]
+}

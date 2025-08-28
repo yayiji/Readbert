@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What have you learned this week working as my employee mole?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some of the people in this building think you're a worthless, self-important gas bag."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do the other people think?",
+        "They don't know you."
+      ]
+    }
+  ]
+}

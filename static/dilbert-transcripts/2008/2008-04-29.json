@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need an improbable solution to a work problem.",
+        "Deus ex machina services"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. I charge one million dollars for each improbable solution."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, then I also need an improbable way to get things from you for free.",
+        "Stop breaking my business model."
+      ]
+    }
+  ]
+}

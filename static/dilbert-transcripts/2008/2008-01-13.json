@@ -1,0 +1,53 @@
+{
+  "date": "2008-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to help Ted on his project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If Ted's project succeeds, who will get the credit?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted will. It's his project."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if it fails?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That would be your fault for not helping him enough."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I spend my time helping Ted, my own projects will suffer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The only way this makes sense is if my projects are unimportant and so am I."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If it makes you feel any better, Ted and his project are unimportant too."
+      ]
+    }
+  ]
+}

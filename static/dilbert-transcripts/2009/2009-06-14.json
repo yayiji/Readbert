@@ -1,0 +1,46 @@
+{
+  "date": "2009-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any sales experience?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I...",
+        "Okay, whatever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no base pay.",
+        "You only get paid on commission.",
+        "And you'll need a special laptop for this job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can buy it from our company with a 5% employee discount.",
+        "You're hired."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yes! And my friends told me I would never find a sales job in this weak economy!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "By the way, what does the company sell?",
+        "We sell laptops to idiots."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2009-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss just told me that he changed my drawings for the smart phone before he sent them to you for prototyping."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was wondering if you're having any problems with it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The camera's flash is a bit aggressive."
+      ]
+    }
+  ]
+}

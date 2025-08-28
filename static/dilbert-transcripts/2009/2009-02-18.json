@@ -1,0 +1,25 @@
+{
+  "date": "2009-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for the ride.",
+        "My company cut back on the travel budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if we stop at an abandoned slaughterhouse that's miles from civilization?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A little.",
+        "Are you trying to make me angry?"
+      ]
+    }
+  ]
+}

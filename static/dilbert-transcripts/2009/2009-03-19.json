@@ -1,0 +1,24 @@
+{
+  "date": "2009-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today I got in trouble for not doing something that I wasn't aware needed to be done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yesterday I got in trouble for doing something that no one asked me to do, but needed to be done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tomorrow I plan to sit in my cubicle like a frozen you-know-what and avoid all human contact.",
+        "Does it rhyme with \"bird\"?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2008-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We inadvertently bought an entire ERP system without any software. Now we're out of money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do I suddenly feel as if my boat is sinking and someone nailed an anchor to my head?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If only someone on my staff could write the software in his spare time...",
+        "Glub",
+        "Glub",
+        "Glub"
+      ]
+    }
+  ]
+}

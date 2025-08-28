@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I work here to pay the bills, but I'm actually an artist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow. You must be a terrible artist if you have to work here just to eat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My work isn't commercial.",
+        "It's not really art if no one likes it."
+      ]
+    }
+  ]
+}

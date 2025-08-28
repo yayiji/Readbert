@@ -1,0 +1,25 @@
+{
+  "date": "2009-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'd like you to work with Ted on this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted's a drama queen.",
+        "Working with him will just slow me down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hello? Human resources? Alice is being a bully.",
+        "And so it begins."
+      ]
+    }
+  ]
+}

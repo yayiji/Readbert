@@ -1,0 +1,24 @@
+{
+  "date": "2009-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Find out how many engineers our competitors have so we can justify having that many."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure, I'll spend a few hours comparing our apples to their oranges."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why does your cooperation sound like insubordination?",
+        "Aye-aye, captain!"
+      ]
+    }
+  ]
+}

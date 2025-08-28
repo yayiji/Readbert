@@ -1,0 +1,25 @@
+{
+  "date": "2009-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After you punched that monitor, the broken printer started working.",
+        "Hummm"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They were on the same network. Word gets around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't hurt me.",
+        "And you won't need passwords for a while."
+      ]
+    }
+  ]
+}

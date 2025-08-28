@@ -1,0 +1,24 @@
+{
+  "date": "2008-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, did you make those code changes yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I find your specifications to be vague and uncompelling. They are a breeding ground for ennui."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there any way I can cheer you up?",
+        "Maybe if something awful happened to you."
+      ]
+    }
+  ]
+}

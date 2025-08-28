@@ -1,0 +1,24 @@
+{
+  "date": "2009-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Phil, our new vice president of marginally legal activities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll be leading the effort to make our user interfaces so confusing that people have to pay us for training."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We already do that unintentionally.",
+        "Sure, but we can't always rely on luck."
+      ]
+    }
+  ]
+}

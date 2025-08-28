@@ -1,0 +1,54 @@
+{
+  "date": "2009-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new data center is complete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only wrinkle is that the power company won't give us the kilowatts we need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are our options?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, we can run the servers without air conditioning."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Until they melt into a toxic blob."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then we can turn the building into a museum that celebrates poor planning."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or we could all quit our jobs and eat bugs to survive."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's go with the toxic blob, but we need to call it something else.",
+        "Convergence!"
+      ]
+    }
+  ]
+}

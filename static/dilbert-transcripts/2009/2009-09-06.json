@@ -1,0 +1,53 @@
+{
+  "date": "2009-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you approve this change?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll have to run it by my corporate office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And we're in merger talks, so they'll need to clear it with our future owners."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No one will know who should make the decision or what the right decision is."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When do you think you'll have an answer?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sometime between next week and whenever the earth is devoured by a gravitational singularity."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Meanwhile I will avoid your calls and e-mails by becoming a vapor."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You forgot the approval form."
+      ]
+    }
+  ]
+}

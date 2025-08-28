@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services",
+        "You have exceeded your allocation for I.T. support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The penalty is forcible relocation to an agrarian society."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seriously, even a cow knows you should try rebooting before calling tech support."
+      ]
+    }
+  ]
+}

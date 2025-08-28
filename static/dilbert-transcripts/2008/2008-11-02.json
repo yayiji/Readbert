@@ -1,0 +1,53 @@
+{
+  "date": "2008-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where are you going with that fish?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to microwave it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That will stink up the office and make it impossible for anyone else to enjoy life."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Isn't there something else you could eat?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not going to eat it. I just like to microwave things that smell bad."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "After I stopped caring about my job performance, it was a slippery slope to complete sociopathy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's a liberating feeling. I can't remember the last time I felt bad."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you have an extra fish?"
+      ]
+    }
+  ]
+}

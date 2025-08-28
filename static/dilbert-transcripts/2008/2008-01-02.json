@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did you do for New Year's Day?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I forgot it was a holiday and I came to work for ten hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's sort of loserish.",
+        "Thanks for labeling it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's a conflict of interest for you to be our CEO and also a pirate who kidnaps our employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The executive compensation committee approved this arrangement.",
+        "It's all spelled out in my employment agreement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So it is.",
+        "Wait here while I call myself and ransom you back to your office."
+      ]
+    }
+  ]
+}

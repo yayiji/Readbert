@@ -1,0 +1,26 @@
+{
+  "date": "2009-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Office acting coach",
+        "This exercise is called \"The over-worked headcount.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ayowaa-aieeeow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you do that?",
+        "Are you kidding?",
+        "I only stop doing it to be polite."
+      ]
+    }
+  ]
+}

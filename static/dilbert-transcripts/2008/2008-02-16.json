@@ -1,0 +1,26 @@
+{
+  "date": "2008-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor that you're highly talented."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means you'll leave this company any minute.",
+        "I came to salvage whatever assets you leave behind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is he the talented guy?",
+        "Back off!",
+        "I'm already chasing this ambulance."
+      ]
+    }
+  ]
+}

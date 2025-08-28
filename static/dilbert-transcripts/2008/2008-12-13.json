@@ -1,0 +1,25 @@
+{
+  "date": "2008-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the financial advisor",
+        "You should invest all of your money in diseased livestock."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It would be unwise to invest in just one sick cow, but if you aggregate a bunch of them together, the risk goes away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's called math.",
+        "Suddenly I feel all savvy."
+      ]
+    }
+  ]
+}

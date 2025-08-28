@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to do product testing for our new release."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How could I possibly have time for all the work you keep giving me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried sacrificing your health?",
+        "Do I look like I can run marathons?"
+      ]
+    }
+  ]
+}

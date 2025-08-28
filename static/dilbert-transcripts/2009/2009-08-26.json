@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Performance review",
+        "You need to get better at anticipating problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I could anticipate problems, I wouldn't have agreed to work for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You seem angry.",
+        "I did not see that coming."
+      ]
+    }
+  ]
+}

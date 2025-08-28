@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Eddy's school of anger management. I'm Eddy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was once like you: angry at every idiot in the world.",
+        "How'd you stop being angry at idiots?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I created a school so they'd give me money while I insulted them."
+      ]
+    }
+  ]
+}

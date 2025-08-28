@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We haven't heard from engineering yet. What do you think, Alice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think several mediocre minds concocted an impractical plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you be more specific?",
+        "Sure. You're one of them. And this guy is another..."
+      ]
+    }
+  ]
+}

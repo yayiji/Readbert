@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're fired!",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not really.",
+        "But now this 2% raise won't seem so bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This job is all about managing expectations."
+      ]
+    }
+  ]
+}

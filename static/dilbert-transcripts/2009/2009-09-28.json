@@ -1,0 +1,25 @@
+{
+  "date": "2009-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Negotiating in a bad economy",
+        "My company is so poor that we need a 20% price reduction or we'll go belly-up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My company is so poor that our only chance of eating involves throwing office supplies at low-flying birds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shall we say 10%?",
+        "Our health plan is \"screaming.\""
+      ]
+    }
+  ]
+}

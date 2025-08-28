@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We pooled our bonus checks and got you this gift."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's empty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh.",
+        "Better luck next year."
+      ]
+    }
+  ]
+}

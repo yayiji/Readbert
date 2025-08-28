@@ -1,0 +1,48 @@
+{
+  "date": "2009-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And those are the four things I need you to ask our VP of marketing.",
+        "Got it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you should write them down.",
+        "I'll remember."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have a lot on your mind. A little note might be a good idea.",
+        "How hard is it to remember three things?",
+        "Sheesh!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Four things! There are four questions!",
+        "Right, right. There's the one about the battery, and the other two."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There are four questions! Four, four, four!!! And none of them are about a battery!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Later that day",
+        "Should the new software have a battery?",
+        "How would I know?"
+      ]
+    }
+  ]
+}

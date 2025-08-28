@@ -1,0 +1,56 @@
+{
+  "date": "2009-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to take over Carl's function."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's already gone, but Ted can train you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted was sometimes in the general vicinity when Carl did the function.",
+        "Doom"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Try clicking on the red... no, blue... no, red button."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ooh. Okay. I didn't expect that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now you either have to erase all of the servers or activate the fire suppression system in the clean room.",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What if I click \"cancel\"?",
+        "That's what killed Carl."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Anyway, that's all I know. The rest is just common sense."
+      ]
+    }
+  ]
+}

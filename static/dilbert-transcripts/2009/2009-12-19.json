@@ -1,0 +1,23 @@
+{
+  "date": "2009-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This invoice is for twice as much as your bid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Duh. You wouldn't have given us the job if we told you how much it was really going to cost."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it makes you feel any better, all of the other bidders lied too. We're just better at it."
+      ]
+    }
+  ]
+}

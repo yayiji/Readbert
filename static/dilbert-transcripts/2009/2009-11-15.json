@@ -1,0 +1,56 @@
+{
+  "date": "2009-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'd like you to meet one of our biggest customers.",
+        "She has some technical questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whoa! Get that disease-infested paw away from me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't you follow the news?",
+        "Shaking hands is so 2008."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No offense, but you look more like a virus incubator than a vigorous hand washer."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So why don't you pull that death stick back up your sleeve and we can pretend this ugly incident never happened."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And if it's not too much to ask, could you exhale toward things I'm unlikely to touch?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, now that the pleasantries are out of the way, what can I tell you about our new product line?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We lost a customer, but I survived the meeting.",
+        "Next time, do it the other way."
+      ]
+    }
+  ]
+}

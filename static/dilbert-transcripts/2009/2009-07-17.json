@@ -1,0 +1,25 @@
+{
+  "date": "2009-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services.",
+        "May I use this laptop that no one else is using?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but you can have my old pizza box while you waterboard yourself in your own tears."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess that's better than nothing.",
+        "Really? In that case you can't have it."
+      ]
+    }
+  ]
+}

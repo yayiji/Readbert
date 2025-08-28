@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The director of our top secret research group wants to borrow me for six months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "During that time, you will not know where I am, or what I'm working on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to hear this from the director.",
+        "I'll ask him to e-mail you from his Gmail account."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It wouldn't be legal for me to bribe you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hired your wife as a consultant despite the fact that she thinks \"present value\" is some sort of gift card."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I wrote some legislation for you because you're a lazy thief.",
+        "Ha ha! Let's call that \"access.\""
+      ]
+    }
+  ]
+}

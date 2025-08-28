@@ -1,0 +1,24 @@
+{
+  "date": "2009-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the CEO",
+        "Our new financial product is a hybrid of risky mortgage loans and a Ponzi scheme."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll cover our bad loan losses with our profits from making even worse loans."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need some wagging room while I tell you how this ties into my bonus structure."
+      ]
+    }
+  ]
+}

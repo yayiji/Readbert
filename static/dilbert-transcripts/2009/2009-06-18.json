@@ -1,0 +1,25 @@
+{
+  "date": "2009-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi. My name is...",
+        "Whoa! Whoa! Not in person!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only meet men through online dating sites. That way I can filter out the losers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too crazy too fast.",
+        "I know. I'm working on that."
+      ]
+    }
+  ]
+}

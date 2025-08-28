@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I'm putting you in charge of pandemic contingency planning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Calculate the impact on our business if 50% of our employees are unable to be productive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's twice as good as we're doing now.",
+        "Just make some slides that say it would be bad."
+      ]
+    }
+  ]
+}

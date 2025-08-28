@@ -1,0 +1,24 @@
+{
+  "date": "2009-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gabe was down-sized when his last employer had financial troubles.",
+        "I was lucky to hire him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because they always downsize their best employees first?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. I didn't mean to put it in context."
+      ]
+    }
+  ]
+}

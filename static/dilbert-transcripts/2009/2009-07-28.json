@@ -1,0 +1,25 @@
+{
+  "date": "2009-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm nearing retirement, so fire the research and development group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The cost cutting will goose my stock options so I can cash out before the death spiral."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't make the noise.",
+        "Too late!",
+        "Cha-ching!"
+      ]
+    }
+  ]
+}

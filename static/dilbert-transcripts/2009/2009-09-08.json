@@ -1,0 +1,29 @@
+{
+  "date": "2009-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Employee theft is on the rise because of the economy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Foop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Foop!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They finally figured out how to work as a team."
+      ]
+    }
+  ]
+}

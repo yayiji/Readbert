@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to chronicle your rise to management for the company newsletter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So far, I have the story of how your father was a barrel-shaped moron who married a blind woman."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But it could have been the other way around. I'm mostly guessing.",
+        "Lucky guess."
+      ]
+    }
+  ]
+}

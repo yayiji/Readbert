@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My cable system wasn't working last night. I didn't have TV or internet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I stared at the wall until it was time for bed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I considered carving a canoe out of a tree trunk, but it seemed like a lot of work.",
+        "Check!"
+      ]
+    }
+  ]
+}

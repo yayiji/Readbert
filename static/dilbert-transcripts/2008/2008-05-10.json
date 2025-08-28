@@ -1,0 +1,25 @@
+{
+  "date": "2008-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I cut the quality control budget to free up funds to increase our sales force."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So your strategy is to sell a larger volume of defective products?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The quality will be fine. The tests will just take longer.",
+        "So...",
+        "It's an antique thing?"
+      ]
+    }
+  ]
+}

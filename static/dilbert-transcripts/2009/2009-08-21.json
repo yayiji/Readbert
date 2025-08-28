@@ -1,0 +1,24 @@
+{
+  "date": "2009-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting into the financial services game."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way all of our products can be imaginary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you give me reliable investment advice?",
+        "Yes, as far as you know."
+      ]
+    }
+  ]
+}

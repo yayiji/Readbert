@@ -1,0 +1,27 @@
+{
+  "date": "2009-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pandemic planning.",
+        "In the worst-case scenario, the only survivors would be cockroaches and Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pow!",
+        "Pow!",
+        "Pow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Airborne virus.",
+        "It's safe now. I broke its protein coat."
+      ]
+    }
+  ]
+}

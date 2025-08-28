@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor that you think a monkey could do my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you think a monkey could fling this corporate newsletter at your head?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unh!!!",
+        "Is this a trick question?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You will get a survey asking you how satisfied you were with my service today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you don't rate my service superior in all categories, I will lose my job and my wife will leave me for a more successful man."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is she cute?",
+        "Why do you ask?"
+      ]
+    }
+  ]
+}

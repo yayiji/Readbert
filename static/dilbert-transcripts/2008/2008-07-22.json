@@ -1,0 +1,25 @@
+{
+  "date": "2008-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My CEO threw me through a fifth-floor window. I'd like to press charges."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your CEO? Do you think he would hire me to do security on his yacht?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would he hire me if I club you with this stick-thing?",
+        "Maybe."
+      ]
+    }
+  ]
+}

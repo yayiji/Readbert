@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need someone to make ten copies of this document."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is there any risk that performing this task will make me appear less valuable?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need someone to tell copy boy to get to work.",
+        "Erk."
+      ]
+    }
+  ]
+}

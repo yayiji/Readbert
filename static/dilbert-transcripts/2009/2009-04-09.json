@@ -1,0 +1,24 @@
+{
+  "date": "2009-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project is unfunded, just the way I like it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I spend my entire day forwarding funny e-mails and lubricating my bowels with coffee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Allow me to explain something...",
+        "Better make it fast!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2008-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally is the new VP of finance.",
+        "I moved all of our cash to a secret offshore bank."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I forgot to write down the account number.",
+        "Or the password.",
+        "Or the name of the country."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And... I'm not entirely sure it was a bank.",
+        "First day, not so good."
+      ]
+    }
+  ]
+}

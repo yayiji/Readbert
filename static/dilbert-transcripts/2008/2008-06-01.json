@@ -1,0 +1,54 @@
+{
+  "date": "2008-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because your project is behind schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because the vendor delivered defective equipment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is your job to anticipate that sort of problem and head it off."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It isn't possible to anticipate and head off every improbable event."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, you could have picked a more reliable vendor."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You told me to use this vendor because the sales guy took you golfing and bought you a hat."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, you should have seen that coming and burned down all hat factories a year ago."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He would have bribed you another way.",
+        "That's what lazy people say."
+      ]
+    }
+  ]
+}

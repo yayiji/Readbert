@@ -1,0 +1,24 @@
+{
+  "date": "2008-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know that antimatter version of yourself that you brought to work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I killed him with a cup of coffee. I think he enjoyed it.",
+        "Because he's, like, opposite."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But enough about me. How's your day going?"
+      ]
+    }
+  ]
+}

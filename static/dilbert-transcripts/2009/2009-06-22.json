@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can only afford to fix the high-priority bugs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we don't fix 100% of the bugs, the software will be 100% useless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So our plan is to fail?",
+        "More slowly."
+      ]
+    }
+  ]
+}

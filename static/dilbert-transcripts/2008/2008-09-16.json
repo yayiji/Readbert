@@ -1,0 +1,28 @@
+{
+  "date": "2008-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian inflation reaches a billion percent, daily.",
+        "Is this enough for a small?",
+        "Fetid water!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A minute ago, yes.",
+        "Now it costs a hundred times more.",
+        "Water!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Problem solved.",
+        "Fetid water!"
+      ]
+    }
+  ]
+}

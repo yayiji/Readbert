@@ -1,0 +1,26 @@
+{
+  "date": "2009-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The successful work-avoider combines a fake eagerness to help with just a hint of likely failure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, I need load calcs in an hour.",
+        "No problem! Unless my computer keeps crashing like it did all morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll ask someone else.",
+        "I am begging you to let me help!",
+        "Wow!"
+      ]
+    }
+  ]
+}

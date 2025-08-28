@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, in the past month you've blamed your lack of productivity on seven dead people and three who never existed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used to blame living coworkers but it made the meetings awkward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whose fault is that?",
+        "Here comes the awkward part."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As usual, my co-workers have filled in every space on my Outlook calendar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I am only a puppet hurtling toward failure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey there, failure puppet!",
+        "I hoped it wasn't so obvious."
+      ]
+    }
+  ]
+}

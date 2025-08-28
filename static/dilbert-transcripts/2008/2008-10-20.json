@@ -1,0 +1,26 @@
+{
+  "date": "2008-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can your phone do this?",
+        "Let me see."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bam!",
+        "Bam!",
+        "Bam!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can your hammer do that?"
+      ]
+    }
+  ]
+}

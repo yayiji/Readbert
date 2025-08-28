@@ -1,0 +1,23 @@
+{
+  "date": "2008-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to give you a raise but I used the entire budget on a new coffee maker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a nice one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's talk that I paid too much for you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2009-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, we need to cut your pay again.",
+        "But maybe you could get a second job.",
+        "Second???"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am already doing freelance I.T. support...",
+        "and donating blood...",
+        "and working as a male escort."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't need the details.",
+        "Running guns...",
+        "robbing graves...",
+        "starting a hedge fund..."
+      ]
+    }
+  ]
+}

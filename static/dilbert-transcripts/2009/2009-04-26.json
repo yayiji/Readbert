@@ -1,0 +1,55 @@
+{
+  "date": "2009-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Tom Jackson. I have a meeting with your boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He has no one by that name on his calendar."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The only people he's meeting today are Fob Meterfon, Gom Axfon, and Dabe Aggams."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe when your boss said he was meeting with \"Tom Jackson\" you heard it as \"Gom Axfon.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is that how you want to play this? Really?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Security, come arrest this man!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm Gom Axfon!",
+        "I'm Gom Axfon!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Where's Tom Jackson?",
+        "Don't you start with me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2008-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I e-mailed you the department payroll report to reformat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't let anyone see it because they might..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Exactly.",
+        "They might do that.",
+        "Bam!"
+      ]
+    }
+  ]
+}

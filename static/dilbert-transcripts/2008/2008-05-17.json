@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I get too invested in this conversation, tell me what you do for a living."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm one of three people my boss asked to do the same assignment because he deems all of us unreliable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is why I ask.",
+        "The other two people are total losers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm here to do a tax audit of your company.",
+        "How's that work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I look for reasons to transfer money from small, disreputable entities to a larger one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I call my salary vigorish, but it's not as ironic as it once was."
+      ]
+    }
+  ]
+}

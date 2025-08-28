@@ -1,0 +1,28 @@
+{
+  "date": "2008-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I seem to have left my purse at home.",
+        "I won't be able to pay you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put the curse of competence on your firstborn son!",
+        "That doesn't sound so bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Years later",
+        "I need a little help.",
+        "Gaaa!",
+        "Why always me?!"
+      ]
+    }
+  ]
+}

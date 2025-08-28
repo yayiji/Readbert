@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll start ten mutual funds, each with randomly chosen stocks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Later we'll build our advertisements around whichever one does the best purely by chance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My goal is to be the premier provider of imaginary expertise.",
+        "Wag!",
+        "Wag!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're late, as always."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean twice, if you include the time you forgot to set your watch back by an hour."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And this time when you e-mailed the wrong start time?",
+        "Oh, look how you try to flip it around!"
+      ]
+    }
+  ]
+}

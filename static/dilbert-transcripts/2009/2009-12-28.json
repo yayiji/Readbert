@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ask Morgan what type of materials he recommends we should use for the case."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Morgan has no communication skills. Everything he knows is locked in his skull and will never come out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this going to look like my fault?",
+        "Quitter!"
+      ]
+    }
+  ]
+}

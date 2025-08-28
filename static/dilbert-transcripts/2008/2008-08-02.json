@@ -1,0 +1,22 @@
+{
+  "date": "2008-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been away from work so long.",
+        "I wonder if anything has changed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You weren't here when we moved to new cubicles so your coworkers picked one for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2008-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I want you to interview a job candidate.",
+        "Let me know what you think."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why did you leave your last job?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I punched my boss."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He's exactly what we need."
+      ]
+    }
+  ]
+}

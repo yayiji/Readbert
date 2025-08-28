@@ -1,0 +1,54 @@
+{
+  "date": "2009-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to audit the software we have on our systems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why?",
+        "So we know what we have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who will use the information?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's just important to have."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It will be out of date before I'm even done."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do your best."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The best way to compile inaccurate information that no one wants is to make it up."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope no one ever comes here to learn our best practices."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2008-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Filling in for the pointy-haired boss",
+        "Does your department need its entire budget this year?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, we'll waste most of it on empire building and appearing to work on trendy things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All in favor of cutting this guy's budget in half?",
+        "I call do-over! Do-over!"
+      ]
+    }
+  ]
+}

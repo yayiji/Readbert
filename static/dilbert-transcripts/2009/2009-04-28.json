@@ -1,0 +1,24 @@
+{
+  "date": "2009-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's on your back?",
+        "It's a battery."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recharge it at work with company electricity, then I use it at night to power my home appliances."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If they cut my benefits one more time, I'll make a play for their water too."
+      ]
+    }
+  ]
+}

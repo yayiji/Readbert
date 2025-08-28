@@ -1,0 +1,23 @@
+{
+  "date": "2009-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, remove the toys from your cubicle. It sends the wrong message."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean the message that says this company is a creative environment that values the individual?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Exactly. We're going for more of an egg carton vibe."
+      ]
+    }
+  ]
+}

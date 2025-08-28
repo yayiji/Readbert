@@ -1,0 +1,23 @@
+{
+  "date": "2008-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our graphics department is too busy to help me and won't approve outside services."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're forcing me to fail so they can justify a bigger budget next year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need me, I'll be in my cubicle trying to imagine what futility doesn't feel like."
+      ]
+    }
+  ]
+}

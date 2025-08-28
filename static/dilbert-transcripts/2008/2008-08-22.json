@@ -1,0 +1,23 @@
+{
+  "date": "2008-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As requested, I fit my presentation on one Powerpoint slide."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to use all of the white space, but I think it was worth it to fit everything on one page."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's actually only one bullet point, but it's a long one."
+      ]
+    }
+  ]
+}

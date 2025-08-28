@@ -1,0 +1,25 @@
+{
+  "date": "2009-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, your new responsibility is to keep the pigeons from defiling our ledges."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you hoping this awful assignment will cause me to quit?",
+        "Not at all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you hoping I'll fall out a window?",
+        "Maybe you should stop guessing now."
+      ]
+    }
+  ]
+}

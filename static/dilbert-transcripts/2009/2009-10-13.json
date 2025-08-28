@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company urges all of you to e-mail your congressman and support the bill that gives us pork projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If that bill becomes law, it will, in effect, transfer my tax money to you executives for your next obscene bonuses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't you own company stock in your retirement account?",
+        "No, I'm only dumb enough to work here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I retired from my life of corporate crime and put all of my illicit earnings in a mutual fund."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you know the mutual fund is legitimate?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We got all of the money back?",
+        "We?"
+      ]
+    }
+  ]
+}

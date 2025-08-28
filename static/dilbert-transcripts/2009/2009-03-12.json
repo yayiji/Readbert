@@ -1,0 +1,23 @@
+{
+  "date": "2009-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have time to talk today?",
+        "Sure. Call me next week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a minute to hear about my day?",
+        "Sure. Call me yesterday."
+      ]
+    }
+  ]
+}

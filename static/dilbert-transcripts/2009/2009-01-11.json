@@ -1,0 +1,54 @@
+{
+  "date": "2009-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Once again, Wally, you have accomplished nothing this quarter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What about that billion dollar cost-saving idea I had?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your idea would only save one dollar per year."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Exactly. In a billion years, that's a billion dollars."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The company won't be in business that long."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why not? Do you know something I don't know?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So, what kind of raise are we looking at here?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He gave you a billion dollar raise?",
+        "It's not as good as it sounds."
+      ]
+    }
+  ]
+}

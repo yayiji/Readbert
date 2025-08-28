@@ -1,0 +1,26 @@
+{
+  "date": "2009-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, answer this customer complaint.",
+        "And remember, the customer is always an idiot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think you mean the customer is always... um...",
+        "Oh my..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Quick! Pop your ears so your head doesn't explode!",
+        "GURK!"
+      ]
+    }
+  ]
+}

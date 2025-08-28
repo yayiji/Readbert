@@ -1,0 +1,23 @@
+{
+  "date": "2008-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our alternative fuel division has found a way to turn fresh water into fuel!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't that turn the world into an uninhabitable wasteland in the long run?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not if someone finds a way to turn oil into water."
+      ]
+    }
+  ]
+}

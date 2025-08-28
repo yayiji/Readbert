@@ -1,0 +1,26 @@
+{
+  "date": "2009-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you tell a customer that you're not allowed to talk to customers?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You fool!",
+        "That makes us look lame!",
+        "What was I supposed to do when she asked me a question?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you have access to scissors?"
+      ]
+    }
+  ]
+}

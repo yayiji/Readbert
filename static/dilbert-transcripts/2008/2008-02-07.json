@@ -1,0 +1,23 @@
+{
+  "date": "2008-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm here to go through the motions of trying to ask you a question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we both know your phone will ring, or you'll be late for a meeting, or the carpet will catch on fire before I ask the question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a short question, so get ready to make your move."
+      ]
+    }
+  ]
+}

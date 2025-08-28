@@ -1,0 +1,24 @@
+{
+  "date": "2009-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have new software for performance reviews."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It has a category for everything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fish-faced nincompoop!",
+        "Bingo!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to attend a meeting on Friday morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that is bagel Friday. It's the only thing that separates us from the animals."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could get a bagel to go.",
+        "It's as if you don't want to understand."
+      ]
+    }
+  ]
+}

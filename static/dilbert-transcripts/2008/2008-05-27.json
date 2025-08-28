@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't work on your request this week because my computer is broken and my company is too cheap to replace it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried to borrow one, but the people I work with are a bunch of selfish tools."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I shouldn't take you on sales calls.",
+        "So I built a tiny fort out of coffee stirrers."
+      ]
+    }
+  ]
+}

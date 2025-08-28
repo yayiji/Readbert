@@ -1,0 +1,25 @@
+{
+  "date": "2009-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have any questions about my strategies?",
+        "Yes, I..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bonk!",
+        "Zing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This isn't the dotcom era."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I programmed my instant-messaging software to send random questions to our boss every hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're all yes or no questions so he'll have the illusion of managing me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I rotate the domain protocols so they wear out evenly?",
+        "Yes"
+      ]
+    }
+  ]
+}

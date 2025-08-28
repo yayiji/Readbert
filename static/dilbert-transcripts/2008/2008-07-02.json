@@ -1,0 +1,25 @@
+{
+  "date": "2008-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My particle accelerator brought an antimatter Dilbert into this world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything he thinks is opposite of what I think."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why did you bring him here?",
+        "You're like his Oprah.",
+        "Hold me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2008-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reject your proposal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is there any particular reason this time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At my level of management I don't have the authority to approve anything important."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I do have the authority to reject things."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I don't reject proposals, there's nothing for me to do."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I do nothing I'll get fired. I might never get another job. I could starve to death."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So I have to reject everything you propose or else I might die."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What am I supposed to do now?",
+        "Can you rephrase that question in the form of a proposal?"
+      ]
+    }
+  ]
+}

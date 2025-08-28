@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My tiny company can't survive if you insist on paying our invoices late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should have thought of that before you decided to become a tiny company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Come here for a second.",
+        "Please... not the flyswatter."
+      ]
+    }
+  ]
+}

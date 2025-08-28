@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In phase one, we'll tell our customer that the system failure won't happen again.",
+        "Not us!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In phase two, when it happens again, we'll act surprised."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then we'll say a software patch is being installed.",
+        "Gaaa!!! We're bad people!"
+      ]
+    }
+  ]
+}

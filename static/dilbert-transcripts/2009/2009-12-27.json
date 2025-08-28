@@ -1,0 +1,55 @@
+{
+  "date": "2009-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invited silent Gary to help us decide on a technology direction."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We think he's a genius because he has a beard and he never speaks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gary, do you think we should use open source software for our support platform?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Here it comes.",
+        "He's rubbing his beard and giving me creepy eye contact."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I detect a slight hint of disgust. It means Gary hates the idea!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, it's all so obvious now. This is the worst idea in the history of mankind."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The meeting is over. Silent Gary has spoken."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're actually a moron, aren't you?",
+        "Don't ruin this for me."
+      ]
+    }
+  ]
+}

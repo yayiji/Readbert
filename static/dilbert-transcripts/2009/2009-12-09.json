@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we work day and night, we can match our competitor's features within twelve months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are we catching up to where they will be in a year, which is unknowable, or where they are now, which is stupid?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well played.",
+        "I got the next one!"
+      ]
+    }
+  ]
+}

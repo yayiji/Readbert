@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to another round of \"If we had money.\"",
+        "I'll go first."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we had money, we could design and test new products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We could go to training.",
+        "You forgot to say, \"If we had money\"!"
+      ]
+    }
+  ]
+}

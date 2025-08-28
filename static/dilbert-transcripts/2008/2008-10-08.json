@@ -1,0 +1,24 @@
+{
+  "date": "2008-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There is an ugly rumor that I sold your brains to cannibals and your spirits to demons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bu-wa-ha-ha-ha-ha!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you?",
+        "You seem a bit unclear on the whole bu-wa-ha-ha concept."
+      ]
+    }
+  ]
+}

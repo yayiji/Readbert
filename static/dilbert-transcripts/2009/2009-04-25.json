@@ -1,0 +1,24 @@
+{
+  "date": "2009-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The flash on our smart phone prototype is so strong that it's dangerous."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd better show this to our CEO.",
+        "Is that really a good idea?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now pose with Ted so I can get a group shot."
+      ]
+    }
+  ]
+}

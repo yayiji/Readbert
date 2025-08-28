@@ -1,0 +1,24 @@
+{
+  "date": "2008-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Director of green",
+        "Turn off your computer while you're thinking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it weren't stupid, you wouldn't need me to tell you to do it."
+      ]
+    }
+  ]
+}

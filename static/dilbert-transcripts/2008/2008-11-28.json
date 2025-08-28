@@ -1,0 +1,24 @@
+{
+  "date": "2008-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I realize things look bleak after the budget cuts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But remember, it's always the darkest before the undead feast on your flesh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because they don't like light.",
+        "We get it!!!"
+      ]
+    }
+  ]
+}

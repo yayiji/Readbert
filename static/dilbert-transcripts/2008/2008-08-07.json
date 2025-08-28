@@ -1,0 +1,27 @@
+{
+  "date": "2008-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to \"Dogbert's financial bakery.\"",
+        "How may I abuse you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We shipped zero units this quarter.",
+        "Can you cook our books?",
+        "Of course."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will any- one know?",
+        "Sometimes the foot- notes smell like actual feet."
+      ]
+    }
+  ]
+}

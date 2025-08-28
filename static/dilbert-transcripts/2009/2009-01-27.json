@@ -1,0 +1,25 @@
+{
+  "date": "2009-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't afford to pay the mortgage this month.",
+        "There's no reason to worry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I doubt your bank can afford postage to send you an eviction notice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That didn't make me worry less.",
+        "How are we set for firearms?"
+      ]
+    }
+  ]
+}

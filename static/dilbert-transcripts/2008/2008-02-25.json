@@ -1,0 +1,26 @@
+{
+  "date": "2008-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm Bob the Esquire dinosaur.",
+        "Your ex-employee, Wally, hired me to slap you with a suit for firing him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take off your suit so I can slap you with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not now.",
+        "He's being slapped with a suit, and I don't want to ruin the rhythm.",
+        "Ouch!"
+      ]
+    }
+  ]
+}

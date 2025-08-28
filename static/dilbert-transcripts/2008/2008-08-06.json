@@ -1,0 +1,24 @@
+{
+  "date": "2008-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "Our concern for your wellness is related to your job performance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously you won't be getting an ergonomically correct chair any time soon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And feel free to type as hard as you want."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2008-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's seminar on time management and evolution."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The key to good time management is skipping unimportant tasks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In module two, I will show you that everything you do is unimportant because your genes are a dead end."
+      ]
+    }
+  ]
+}

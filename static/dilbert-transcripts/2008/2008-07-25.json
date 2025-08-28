@@ -1,0 +1,24 @@
+{
+  "date": "2008-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to find a support group for people who have my same problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Type \"thrown out of a fifth floor window by a CEO who will escape justice.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look who doesn't have a broken leg.",
+        "Do you think you're better than us?"
+      ]
+    }
+  ]
+}

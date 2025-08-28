@@ -1,0 +1,23 @@
+{
+  "date": "2008-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You must be the new coffee machine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thoop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's aggressive, but I like that in my coffee makers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, when you don't give 100%, it's unfair to your co-workers who have to pick up the slack."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, I'm pretty sure they like having less competition for raises."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no budget for raises this year.",
+        "Yeah, I wouldn't mention that to the others."
+      ]
+    }
+  ]
+}

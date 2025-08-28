@@ -1,0 +1,54 @@
+{
+  "date": "2009-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yikes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't be frightened by my green clothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be working at home today, thus reducing carbon emissions."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My telepresence meetings will only display me from here up."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "By reducing the amount of material in my garment I can use less soap and water on laundry day."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And the extra freedom of movement will allow me to mouse more efficiently."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This has to stop. I'll be back in a few minutes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you use my shaver?",
+        "Yes, and I will trim myself daily until you start dressing right."
+      ]
+    }
+  ]
+}

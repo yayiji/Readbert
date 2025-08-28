@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your age group has destroyed the hopes of my entire generation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your parents were the so-called \"Greatest Generation.\"",
+        "I wonder what your age group will be known as."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bet it includes the word \"bag.\""
+      ]
+    }
+  ]
+}

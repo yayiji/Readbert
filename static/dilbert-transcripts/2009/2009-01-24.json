@@ -1,0 +1,30 @@
+{
+  "date": "2009-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I lost an intellectual property case with my ex-employer. Now they own my name."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It costs me five dollars every time I introduce myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already forgot your name. What was it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can I tell you next month? I'm on a budget.",
+        "Sure, if you think you can find me."
+      ]
+    }
+  ]
+}

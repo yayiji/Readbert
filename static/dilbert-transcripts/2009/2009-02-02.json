@@ -1,0 +1,28 @@
+{
+  "date": "2009-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Job interview",
+        "Would you take a bullet for the team?",
+        "Um... sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good. The team is already at the firing range waiting for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stupid weak economy!",
+        "Zing",
+        "Zing",
+        "Zing"
+      ]
+    }
+  ]
+}

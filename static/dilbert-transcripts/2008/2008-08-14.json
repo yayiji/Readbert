@@ -1,0 +1,25 @@
+{
+  "date": "2008-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't need to know the details.",
+        "Just give me the high altitude view."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From a high altitude we're all a bunch of termites trying to eat the same log."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe drill down a little more.",
+        "The termites hate each other."
+      ]
+    }
+  ]
+}

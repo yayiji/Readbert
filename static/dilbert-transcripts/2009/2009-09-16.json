@@ -1,0 +1,24 @@
+{
+  "date": "2009-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I thought it was time for us to have a little mentoring session."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How does this make sense when I'm more capable than you in every important way?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we can skip the part where I say you need to be more confident and speak out at meetings.",
+        "Duh."
+      ]
+    }
+  ]
+}

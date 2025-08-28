@@ -1,0 +1,48 @@
+{
+  "date": "2009-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't understand why..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why did you suddenly stop talking?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh no... this can't be good."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gaaa!!!",
+        "Now you're not making eye contact with me!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Layoffs are coming!",
+        "I must be on the list!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My only hope is to injure myself and go on disability so he can't legally fire me.",
+        "Ow!",
+        "Ow!",
+        "Ow!",
+        "Anyway, as I was saying,",
+        "I can't figure out why so many employees are injured."
+      ]
+    }
+  ]
+}

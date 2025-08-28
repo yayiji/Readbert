@@ -1,0 +1,53 @@
+{
+  "date": "2008-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, your position is being eliminated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? You never told me there was anything wrong with my performance!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not about your performance. Your position is being eliminated."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, that seems mighty convenient."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This way you can replace me without explaining why I never got a bad performance review."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is this just a trick to make you feel less awkward while firing me?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I thought you said he'd be gone by now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is there any comfort in knowing your replacement is totally hot?"
+      ]
+    }
+  ]
+}

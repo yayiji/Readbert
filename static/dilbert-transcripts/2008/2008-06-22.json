@@ -1,0 +1,54 @@
+{
+  "date": "2008-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what do you plan to do after you retire?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Retirement is for losers, Asok."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Winners keep their jobs but stop caring about the quality of their work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have no stress, free coffee, and I get paid, too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Watch how this works."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wally, can you give me some cost estimates for my project?",
+        "I'm too busy. Ask Dilbert."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Doesn't this make you a worthless leech on society?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm pretty sure the winner in that example is the leech."
+      ]
+    }
+  ]
+}

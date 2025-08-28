@@ -1,0 +1,59 @@
+{
+  "date": "2009-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking of investing in the Dogbert hedge fund."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you explain how it works?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's simple.",
+        "I take your money and then use math to turn it into my money while destroying the overall economy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is that legal?",
+        "More so than you'd think."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What's in it for me?",
+        "My inflated claims will give you false hope."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That way you won't stress out until after you retire and discover you're penniless.",
+        "But I..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bonk!",
+        "Unh!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't remember the last five minutes.",
+        "I was telling you that my hedge fund will earn you 520% per year."
+      ]
+    }
+  ]
+}

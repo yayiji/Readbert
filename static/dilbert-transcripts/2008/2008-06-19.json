@@ -1,0 +1,26 @@
+{
+  "date": "2008-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the Dogbert rumor control service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People are saying Ted is an exotic male dancer on weekends.",
+        "I know it isn't true because he spends all of his free time in a terrorist training camp."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that worse?",
+        "I get paid per rumor.",
+        "It's not a perfect system."
+      ]
+    }
+  ]
+}

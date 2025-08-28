@@ -1,0 +1,26 @@
+{
+  "date": "2008-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked around the clock and finished a project that would normally require ten programmers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... did I just establish a new baseline expectation that will turn my job into a tragic death march?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's time to set some stretch goals.",
+        "Stupid!",
+        "Stupid!",
+        "Stupid!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My prescription meds cause drowsiness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I got a second prescription that causes phantom-hand syndrome to slap me at random intervals."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should use a doctor who has less-effective pharmaceutical reps in his territory.",
+        "Fist!"
+      ]
+    }
+  ]
+}

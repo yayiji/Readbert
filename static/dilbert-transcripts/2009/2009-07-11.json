@@ -1,0 +1,23 @@
+{
+  "date": "2009-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi Graybeard. I brought you a brochure for a great retirement home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm only 52. I'm not going to retire just so you can get promoted into my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Risky adventure?"
+      ]
+    }
+  ]
+}

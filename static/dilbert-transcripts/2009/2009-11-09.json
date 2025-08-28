@@ -1,0 +1,26 @@
+{
+  "date": "2009-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Topper",
+        "The value of my home is down about 40%",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I paid a homeless Elbonian family a million dollars to take my house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A recession isn't a competition.",
+        "Said the loser."
+      ]
+    }
+  ]
+}

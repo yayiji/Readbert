@@ -1,0 +1,24 @@
+{
+  "date": "2008-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear your moral compass is damaged and you're being groomed for upper management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Splosh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that wrong?",
+        "Because I can't tell."
+      ]
+    }
+  ]
+}

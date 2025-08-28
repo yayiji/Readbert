@@ -1,0 +1,25 @@
+{
+  "date": "2008-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My computer is broken. I need a new one.",
+        "We don't have the budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do things that don't require a computer until the next budget cycle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Like churning my own butter?",
+        "You make it sound creepy."
+      ]
+    }
+  ]
+}

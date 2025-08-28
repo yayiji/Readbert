@@ -1,0 +1,24 @@
+{
+  "date": "2009-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't have enough money to fund your project, but I don't want to downsize you and shrink my empire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hired an acting coach to teach you how to hang around the office pretending to be useful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you dead or just non-expressive?",
+        "It's called a \"job.\""
+      ]
+    }
+  ]
+}

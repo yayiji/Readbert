@@ -1,0 +1,25 @@
+{
+  "date": "2009-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're hired, but company policy requires me to post the job opening internally before it's official."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying your company policy requires you to lie to employees and give them false hope?",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's cruel.",
+        "In six months you'll wish you had some false hope too."
+      ]
+    }
+  ]
+}

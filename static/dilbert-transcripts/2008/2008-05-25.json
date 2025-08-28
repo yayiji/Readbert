@@ -1,0 +1,55 @@
+{
+  "date": "2008-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Go to human resources for a psychological evaluation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why???",
+        "Have I said anything that is abnormal?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're an engineer. Everything you say is abnormal."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Question one: How many bodies are hidden in the crawl space under your house?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If they are hidden, how would I know?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, maybe you would smell them."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Not if they were wrapped in heavy plastic and sealed in concrete."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How'd it go?",
+        "Not so good."
+      ]
+    }
+  ]
+}

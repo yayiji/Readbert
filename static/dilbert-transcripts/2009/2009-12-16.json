@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you prefer that I spend the day planning, which doesn't look like work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or should I plunge into my project with aggressive randomness?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He told you to not work?",
+        "He doesn't know it yet."
+      ]
+    }
+  ]
+}

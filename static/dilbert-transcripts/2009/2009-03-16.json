@@ -1,0 +1,24 @@
+{
+  "date": "2009-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Get us some risk management software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What can risk management software tell you that my common sense and experience can't?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Data.",
+        "Stop failing the Turing test!"
+      ]
+    }
+  ]
+}

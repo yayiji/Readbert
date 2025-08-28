@@ -1,0 +1,24 @@
+{
+  "date": "2009-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You still work here? I thought I downsized you last week.",
+        "Um... I don't think so."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Check your spam folder after the meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First recession?"
+      ]
+    }
+  ]
+}

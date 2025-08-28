@@ -1,0 +1,23 @@
+{
+  "date": "2008-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, the bill for the employee appreciation lunch comes out to $35 apiece."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That only adds up if one of us isn't paying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The employees figured out why I appreciate taking them to lunch."
+      ]
+    }
+  ]
+}

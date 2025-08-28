@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, the company isn't growing, and no one is quitting in this economy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your only hope for promotion is if a senior engineer dies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I joined a gym!",
+        "No-ooo!"
+      ]
+    }
+  ]
+}

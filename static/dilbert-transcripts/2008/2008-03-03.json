@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This company is like a family. Our culture is based on trust and respect."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now sign this document that says we can test you for drugs and search your computer and your office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I borrow your pen?",
+        "Do I look like Bill and Melinda Gates?"
+      ]
+    }
+  ]
+}

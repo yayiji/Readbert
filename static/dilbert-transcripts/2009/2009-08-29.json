@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, rummage through the piles on my desk and find yourself something to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Afterward, chastise yourself for not doing it the way I would have.",
+        "Even if you would have done it wrong?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Especially then.",
+        "No one likes a show-off."
+      ]
+    }
+  ]
+}

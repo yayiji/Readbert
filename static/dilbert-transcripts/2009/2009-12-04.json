@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the mountain of facts that support my recommended technology strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And here's a tiny thimble that holds everything you know about technology.",
+        "Maybe you could..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Leaders don't like it when you suggest they wear the thimble of knowledge like a little hat."
+      ]
+    }
+  ]
+}

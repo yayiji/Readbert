@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to dabble in crime. I need some henchmen. Are you in?",
+        "What does a henchman do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A henchman's job is to be gunned down in reverse order to his importance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How important am I?",
+        "I wouldn't pack a lunch for orientation day."
+      ]
+    }
+  ]
+}

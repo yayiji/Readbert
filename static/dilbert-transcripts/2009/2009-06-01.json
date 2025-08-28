@@ -1,0 +1,23 @@
+{
+  "date": "2009-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't do any work this week because my project doesn't have a charge code."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The chargeback group won't answer my e-mails, and our ethics rules forbid me from using a false code."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's another failure of management, but I know you can do better next week."
+      ]
+    }
+  ]
+}

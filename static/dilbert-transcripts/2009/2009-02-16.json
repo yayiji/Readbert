@@ -1,0 +1,24 @@
+{
+  "date": "2009-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sending you on a trip. Remember that our per diem isn't as extravagant as it was in our golden years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll need to use the hotel iron to make grilled cheese sandwiches.",
+        "Will you pay for the bread and cheese?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll pay for the bread. But cheese and free soap are practically the same thing."
+      ]
+    }
+  ]
+}

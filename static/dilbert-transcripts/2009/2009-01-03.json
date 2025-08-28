@@ -1,0 +1,25 @@
+{
+  "date": "2009-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This recession frightens me.",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "During the Crimean war, all I had to eat was the cold stench of death!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't seem old enough to...",
+        "I use moisturizer!"
+      ]
+    }
+  ]
+}

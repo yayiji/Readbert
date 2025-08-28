@@ -1,0 +1,26 @@
+{
+  "date": "2008-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fixed your satellite dish connection and tuned your surround sound system.",
+        "Now can we go on our date?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That was our date.",
+        "In ten minutes I'm dating a guy who will replace the water filter in my refrigerator."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can do that.",
+        "You're welcome to stay and fight him for it."
+      ]
+    }
+  ]
+}

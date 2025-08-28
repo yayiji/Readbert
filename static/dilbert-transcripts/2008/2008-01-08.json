@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the official department mole.",
+        "I'll be reporting your every misstep to your pointy-haired boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Won't this have a chilling effect on our creativity and honesty?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That didn't take long."
+      ]
+    }
+  ]
+}

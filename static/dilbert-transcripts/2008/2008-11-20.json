@@ -1,0 +1,25 @@
+{
+  "date": "2008-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to be productive, but the internet is calling to me.",
+        "Psst!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, buddy. I've got pictures of gadgets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cool ones?",
+        "Sure, let's pretend that matters."
+      ]
+    }
+  ]
+}

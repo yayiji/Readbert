@@ -1,0 +1,55 @@
+{
+  "date": "2008-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute to look at my terrible idea?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the worst idea ever. Totally impractical, and bordering on irresponsible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you saying that about your own idea?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because you're one of those jerks who automatically disagrees with everyone."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm telling you my idea is awful so you will feel compelled to say it is great."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now that I know how you plan to manipulate me, it won't work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm so surprised to hear that you disagree.",
+        "Now look at my terrible, terrible idea."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Dance, puppet, dance.",
+        "This is a great idea!"
+      ]
+    }
+  ]
+}

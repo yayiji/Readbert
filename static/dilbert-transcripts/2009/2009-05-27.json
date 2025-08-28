@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I went for a long walk yesterday.",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My thighs are so strong that I'm afraid to jump rope when the sun is directly overhead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're full of beans.",
+        "Exactly. That's how I achieve escape velocity."
+      ]
+    }
+  ]
+}

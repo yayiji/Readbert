@@ -1,0 +1,25 @@
+{
+  "date": "2008-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Jury selection",
+        "You with the big eyebrows, are you as dumb as you look?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not sure.",
+        "I don't remember what I look like."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, you're in. And on an unrelated note, I'm the only person who ever loved you."
+      ]
+    }
+  ]
+}

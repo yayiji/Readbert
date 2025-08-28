@@ -1,0 +1,25 @@
+{
+  "date": "2008-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you give me some comments on my business plan?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your plan is a hodge-podge of unwarranted optimism encased in an impenetrable fortress of buzz-words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to read it?",
+        "There's that unwarranted optimism again."
+      ]
+    }
+  ]
+}

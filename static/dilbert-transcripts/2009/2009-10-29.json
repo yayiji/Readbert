@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great stock tip for you, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I should trust you because you're an expert on all things except your own ridiculous hair?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also know a lot about old cars.",
+        "Shocker."
+      ]
+    }
+  ]
+}

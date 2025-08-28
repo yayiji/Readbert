@@ -1,0 +1,24 @@
+{
+  "date": "2008-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your travel expenses are rejected because all of your meal costs are round numbers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Either you are a liar, or worse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I decide what to order based on what totals to a round number after a 15% tip.",
+        "That's worse."
+      ]
+    }
+  ]
+}

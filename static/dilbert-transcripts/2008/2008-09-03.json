@@ -1,0 +1,25 @@
+{
+  "date": "2008-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We will be adopting the best practices in our industry, just like everyone else.",
+        "Best practices"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If everyone is doing it, best practices is the same thing as mediocre."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop making mediocrity sound bad!",
+        "Sorry."
+      ]
+    }
+  ]
+}

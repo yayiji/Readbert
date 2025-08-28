@@ -1,0 +1,23 @@
+{
+  "date": "2008-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a decision, but it involves more than one variable, and I know you can't handle that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll give you an hour to dither before I badger you into making the correct decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going to dither for two hours just to show her who is in charge."
+      ]
+    }
+  ]
+}

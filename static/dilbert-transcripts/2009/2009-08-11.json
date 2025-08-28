@@ -1,0 +1,24 @@
+{
+  "date": "2009-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see my job as giving you the information you need to make the right decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see your job as e-mailing me links to web sites full of stale and incomplete information."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we go back to pretending I'm useful?",
+        "Sure. I'll give you a pity listen."
+      ]
+    }
+  ]
+}

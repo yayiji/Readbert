@@ -1,0 +1,25 @@
+{
+  "date": "2008-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't think I have your full attention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's Asok's turn to listen.",
+        "If you say anything useful, he'll send us an instant message."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's asleep.",
+        "He's employing heuristics."
+      ]
+    }
+  ]
+}

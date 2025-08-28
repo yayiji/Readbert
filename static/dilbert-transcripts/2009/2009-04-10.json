@@ -1,0 +1,31 @@
+{
+  "date": "2009-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an actual job and I don't live at home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My offspring would probably be smart."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My palms are getting sweaty and my heart is pounding.",
+        "What is going on?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's a Darwinian thing.",
+        "Make it stop!"
+      ]
+    }
+  ]
+}

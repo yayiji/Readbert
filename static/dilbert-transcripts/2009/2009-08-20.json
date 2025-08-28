@@ -1,0 +1,23 @@
+{
+  "date": "2009-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to keep this information to yourself. Can you do that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, obviously I'd have to weigh the benefits of sharing it versus the risk of getting caught."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's sort of a dumb question if you think about it."
+      ]
+    }
+  ]
+}

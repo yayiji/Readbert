@@ -1,0 +1,24 @@
+{
+  "date": "2009-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to lay off the highly skilled, whiny jerk who is toxic to the workplace or..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...The pleasant but incompetent guy who will lead us to ruination?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This got harder after we fired all of the unskilled, whiny jerks.",
+        "Which one is uglier?"
+      ]
+    }
+  ]
+}

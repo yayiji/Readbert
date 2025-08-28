@@ -1,0 +1,27 @@
+{
+  "date": "2009-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's New Year's Eve.",
+        "Do you want to stay up until midnight?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only losers wait until midnight.",
+        "The Dogbert New Year begins at 10 p.m."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's 10 p.m. now.",
+        "And I like to celebrate by giving myself a hug.",
+        "Mmm..."
+      ]
+    }
+  ]
+}

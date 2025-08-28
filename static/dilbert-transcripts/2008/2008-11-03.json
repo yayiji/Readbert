@@ -1,0 +1,24 @@
+{
+  "date": "2008-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your résumé is lame, but you're tall, so you must be competent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're hired.",
+        "Let me show you around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm what you call a good judge of people."
+      ]
+    }
+  ]
+}

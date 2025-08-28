@@ -1,0 +1,57 @@
+{
+  "date": "2009-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want suggestions on how we can win one of those \"best places to work\" awards."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could stop treating us like diseased livestock."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop being like that!",
+        "Ow!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you were livestock, you'd be eating grass."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My donut is made from wheat flour. Wheat is a grass."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And you'd be living in a pen.",
+        "Also known as a cubicle."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Livestock have no freedom.",
+        "Can I go home now?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No.",
+        "Moo."
+      ]
+    }
+  ]
+}
