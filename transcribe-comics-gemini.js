@@ -1,28 +1,32 @@
+#!/usr/bin/env node
 /**
- * Dilbert Comics Bulk Transcription Script (Google Gemini API)
- * 
- * This script transcribes Dilbert comic images to JSON text using Google Gemini API.
- * 
+ * Dilbert Comics Bulk Transcription Script (Official Google Gemini API)
+ *
+ * Transcribes Dilbert comics using Google's official Gemini API with advanced features.
+ *
  * USAGE:
- *   node transcribe-comics-gemini.js <year>
- * 
+ *   node transcribe-comics-gemini.js [year]                       # Single year
+ *   node transcribe-comics-gemini.js [start-year] [end-year]      # Multiple years
+ *
  * EXAMPLES:
- *   node transcribe-comics-gemini.js 2023      # Transcribe only 2023 comics
- *   node transcribe-comics-gemini.js 1989      # Transcribe only 1989 comics
- * 
+ *   node transcribe-comics-gemini.js 1989                         # Entire year 1989
+ *   node transcribe-comics-gemini.js 1989 1995                    # Years 1989-1995
+ *   node transcribe-comics-gemini.js                              # Show usage
+ *
+ * FEATURES:
+ *   - Official Google Gemini 2.5 Flash Lite API
+ *   - Smart skipping of existing transcripts
+ *   - Automatic retries with exponential backoff
+ *   - Progress tracking and comprehensive error handling
+ *   - Multi-year batch processing
+ *   - Structured JSON output with schema validation
+ *   - Rate limiting to respect API quotas
+ *
  * REQUIREMENTS:
  *   1. Create .env file with: GEMINI_API_KEY=your_api_key_here
- *   2. Comic images must be in: source-data/dilbert-comics/YYYY/YYYY-MM-DD.gif
- *   3. Transcripts will be saved to: static/dilbert-transcripts/YYYY/YYYY-MM-DD.json
+ *   2. Comic images in: source-data/dilbert-comics/YYYY/YYYY-MM-DD.gif
+ *   3. Transcripts saved to: static/dilbert-transcripts/YYYY/YYYY-MM-DD.json
  *   4. Install: npm install @google/genai
- * 
- * FEATURES:
- *   - Rate limiting (2 requests/second to respect API limits)
- *   - Automatic retry on failures
- *   - Progress tracking with detailed logging
- *   - Skips already transcribed comics
- *   - Creates output directories automatically
- *   - Uses Gemini's structured output for reliable JSON responses
  */
 
 import fs from 'fs';
@@ -39,9 +43,10 @@ const __dirname = path.dirname(__filename);
 
 // Configuration
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-// const MODEL_NAME = 'gemini-2.5-flash'; 
 const MODEL_NAME = 'gemini-2.5-flash-lite'; 
-const RATE_LIMIT_DELAY = 500; // 500ms between requests (2 requests per second)
+const RATE_LIMIT_DELAY = 2000; // 2 seconds between requests
+const MAX_RETRIES = 3;
+const YEAR_DELAY = 5000; // 5 seconds between years
 
 if (!GEMINI_API_KEY) {
     console.error('❌ Please set GEMINI_API_KEY environment variable');
@@ -100,8 +105,13 @@ function ensureDirectoryExists(dirPath) {
     }
 }
 
-// Function to transcribe a single comic using Google Gemini
-async function transcribeComic(imagePath) {
+// Helper function to add delay
+function delay(ms) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Function to transcribe a single comic using Google Gemini with retry logic
+async function transcribeComic(imagePath, retryCount = 0) {
     const base64Image = imageToBase64(imagePath);
 
     const prompt = `You are transcribing a Dilbert comic strip. Please:
@@ -171,109 +181,195 @@ If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}`
 
         return transcript;
     } catch (error) {
+        if (retryCount < MAX_RETRIES) {
+            console.log(`🔄 Retry ${retryCount + 1}/${MAX_RETRIES} for ${path.basename(imagePath)}: ${error.message}`);
+            await delay(RATE_LIMIT_DELAY * (retryCount + 1)); // Exponential backoff
+            return transcribeComic(imagePath, retryCount + 1);
+        }
         console.error(`❌ Error transcribing comic: ${error.message}`);
         return null;
     }
 }
 
-// Function to save transcript
-function saveTranscript(date, transcript, outputDir) {
-    const year = date.split('-')[0];
-    const yearDir = path.join(outputDir, year);
-    ensureDirectoryExists(yearDir);
+// Function to get all comic files for a given year
+function getComicFiles(year) {
+    const comicsDir = path.join(__dirname, 'source-data', 'dilbert-comics', year.toString());
     
-    const transcriptData = {
+    if (!fs.existsSync(comicsDir)) {
+        throw new Error(`Comics directory not found: ${comicsDir}`);
+    }
+    
+    const files = fs.readdirSync(comicsDir)
+        .filter(file => file.endsWith('.gif'))
+        .sort();
+    
+    return files.map(file => ({
+        filename: file,
+        date: file.replace('.gif', ''),
+        path: path.join(comicsDir, file)
+    }));
+}
+
+// Function to check if transcript already exists
+function transcriptExists(date) {
+    const year = date.split('-')[0];
+    const transcriptPath = path.join(__dirname, 'static', 'dilbert-transcripts', year, `${date}.json`);
+    return fs.existsSync(transcriptPath);
+}
+
+// Function to save transcript
+function saveTranscript(date, transcript) {
+    const year = date.split('-')[0];
+    const transcriptsDir = path.join(__dirname, 'static', 'dilbert-transcripts', year);
+    ensureDirectoryExists(transcriptsDir);
+    
+    const transcriptPath = path.join(transcriptsDir, `${date}.json`);
+    const fullTranscript = {
         date: date,
         ...transcript
     };
     
-    const outputPath = path.join(yearDir, `${date}.json`);
-    fs.writeFileSync(outputPath, JSON.stringify(transcriptData, null, 2));
-    return outputPath;
+    fs.writeFileSync(transcriptPath, JSON.stringify(fullTranscript, null, 2));
+    return transcriptPath;
 }
 
-// Main function to process comics for a specific year
-async function processYear(year) {
-    const comicsDir = path.join(__dirname, 'source-data', 'dilbert-comics', year);
-    const transcriptsDir = path.join(__dirname, 'static', 'dilbert-transcripts');
+// Main transcription function for a single year
+async function transcribeComics(year) {
+    console.log(`🎯 Processing year ${year}`);
+    console.log('='.repeat(50));
     
-    if (!fs.existsSync(comicsDir)) {
-        console.error(`❌ Comics directory not found: ${comicsDir}`);
-        return;
+    try {
+        // Get all comic files for the year
+        const comics = getComicFiles(year);
+        
+        if (comics.length === 0) {
+            console.log(`⚠️  No comics found for year ${year}`);
+            return { processed: 0, skipped: 0, errors: 0 };
+        }
+        
+        console.log(`📚 Found ${comics.length} comics for ${year}`);
+        
+        let processed = 0;
+        let skipped = 0;
+        let errors = 0;
+        
+        for (const comic of comics) {
+            // Check if transcript already exists
+            if (transcriptExists(comic.date)) {
+                skipped++;
+                console.log(`⏭️  Skipped ${comic.date} (already exists)`);
+                console.log(`📊 Progress: ${processed + skipped + errors}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
+                continue;
+            }
+            
+            try {
+                console.log(`🔄 Transcribing ${comic.date}...`);
+                const transcript = await transcribeComic(comic.path);
+                
+                if (transcript) {
+                    const savedPath = saveTranscript(comic.date, transcript);
+                    processed++;
+                    console.log(`✅ Saved transcript: ${path.basename(savedPath)}`);
+                } else {
+                    errors++;
+                    console.log(`❌ Failed to transcribe ${comic.date}`);
+                }
+                
+                console.log(`📊 Progress: ${processed + skipped + errors}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
+                
+                // Rate limiting
+                if (processed + skipped + errors < comics.length) {
+                    await delay(RATE_LIMIT_DELAY);
+                }
+            } catch (error) {
+                errors++;
+                console.error(`❌ Error processing ${comic.date}: ${error.message}`);
+                console.log(`📊 Progress: ${processed + skipped + errors}/${comics.length} (${processed} new, ${skipped} skipped, ${errors} errors)\n`);
+            }
+        }
+        
+        console.log(`✅ Completed year ${year}: ${processed} transcribed, ${skipped} skipped, ${errors} errors`);
+        return { processed, skipped, errors };
+    } catch (error) {
+        console.error(`� Error processing year ${year}: ${error.message}`);
+        return { processed: 0, skipped: 0, errors: 1 };
     }
+}
 
-    // Get all comic files
-    const comicFiles = fs.readdirSync(comicsDir)
-        .filter(file => file.endsWith('.gif'))
-        .sort();
-
-    console.log(`📚 Found ${comicFiles.length} comics for year ${year}`);
-    console.log(`🚀 Starting transcription with Google ${MODEL_NAME}...`);
-
-    let processed = 0;
-    let successful = 0;
-    let failed = 0;
-    let skipped = 0;
-
-    for (const filename of comicFiles) {
-        const date = filename.replace('.gif', '');
-        const imagePath = path.join(comicsDir, filename);
-        const transcriptPath = path.join(transcriptsDir, year, `${date}.json`);
-
-        // Skip if transcript already exists
-        if (fs.existsSync(transcriptPath)) {
-            console.log(`⏭️  Skipping ${date} (transcript exists)`);
-            processed++;
-            skipped++;
+// Main function for multiple years
+async function transcribeMultipleYears(startYear, endYear) {
+    console.log(`🚀 Starting multi-year transcription from ${startYear} to ${endYear}`);
+    console.log(`📅 This will process ${endYear - startYear + 1} years\n`);
+    
+    let totalProcessed = 0;
+    let totalSkipped = 0;
+    let totalErrors = 0;
+    
+    for (let year = startYear; year <= endYear; year++) {
+        const yearIndex = year - startYear + 1;
+        const totalYears = endYear - startYear + 1;
+        
+        console.log(`\n📆 Year ${year} (${yearIndex}/${totalYears})`);
+        
+        // Check if year directory exists
+        const yearDir = path.join(__dirname, 'source-data', 'dilbert-comics', year.toString());
+        if (!fs.existsSync(yearDir)) {
+            console.log(`⚠️  Skipping ${year} - no comics directory found`);
             continue;
         }
-
-        console.log(`🔄 Processing ${date} (${processed + 1}/${comicFiles.length})`);
-
-        try {
-            const transcript = await transcribeComic(imagePath);
-            
-            if (transcript) {
-                saveTranscript(date, transcript, transcriptsDir);
-                successful++;
-                console.log(`✅ Completed ${date}`);
-            } else {
-                failed++;
-                console.log(`❌ Failed ${date}`);
-            }
-        } catch (error) {
-            failed++;
-            console.error(`❌ Error processing ${date}: ${error.message}`);
-        }
-
-        processed++;
-
-        // Rate limiting
-        if (processed < comicFiles.length) {
-            await new Promise(resolve => setTimeout(resolve, RATE_LIMIT_DELAY));
+        
+        const stats = await transcribeComics(year);
+        totalProcessed += stats.processed;
+        totalSkipped += stats.skipped;
+        totalErrors += stats.errors;
+        
+        // Delay between years
+        if (year < endYear) {
+            console.log(`⏳ Waiting ${YEAR_DELAY / 1000} seconds before next year...`);
+            await delay(YEAR_DELAY);
         }
     }
-
-    console.log(`\n🎉 Transcription complete!`);
-    console.log(`📊 Total comics: ${comicFiles.length}`);
-    console.log(`⏭️  Skipped (already done): ${skipped}`);
-    console.log(`✅ Successful: ${successful}`);
-    console.log(`❌ Failed: ${failed}`);
     
-    if (failed > 0) {
-        console.log(`\n💡 Run 'node transcribe-comics-retry-gemini.js ${year}' to retry failed transcripts.`);
-    }
+    console.log(`\n🎉 Multi-year transcription completed!`);
+    console.log(`📈 Final stats: ${totalProcessed} transcribed, ${totalSkipped} skipped, ${totalErrors} errors`);
+    console.log(`📊 Years processed: ${startYear} to ${endYear}`);
 }
 
-// Run the script
-const yearArg = process.argv[2];
+// Parse command line arguments
+const args = process.argv.slice(2);
 
-if (!yearArg) {
-    console.log('   🎯 Dilbert Comics Bulk Transcription');
-    console.log('   Usage: node transcribe-comics-gemini.js <year>');
-    console.log('       Example: node transcribe-comics-gemini.js 2023');
+if (args.length === 0) {
+    // Interactive mode
+    console.log(` 🎯 Dilbert Comics Bulk Transcription (Official Gemini API)
+  Usage examples:
+    node transcribe-comics-gemini.js 2023          # Single year
+    node transcribe-comics-gemini.js 1989 1995     # Multiple years: 1989 to 1995
+  `);
+    process.exit(0);
+} else if (args.length === 1) {
+    // Transcribe single year
+    const year = parseInt(args[0]);
+    if (isNaN(year) || year < 1989 || year > 2023) {
+        console.error('❌ Invalid year. Please use a year between 1989 and 2023.');
+        process.exit(1);
+    }
+    transcribeComics(year);
+} else if (args.length === 2) {
+    // Transcribe multiple years
+    const startYear = parseInt(args[0]);
+    const endYear = parseInt(args[1]);
+    
+    if (isNaN(startYear) || isNaN(endYear) || startYear < 1989 || endYear > 2023 || startYear > endYear) {
+        console.error('❌ Invalid years. Please use years between 1989 and 2023, with start year ≤ end year.');
+        process.exit(1);
+    }
+    
+    transcribeMultipleYears(startYear, endYear);
+} else {
+    console.error('❌ Invalid arguments.');
+    console.log(`Usage:
+  node transcribe-comics-gemini.js [year]                    # Single year
+  node transcribe-comics-gemini.js [start-year] [end-year]   # Multiple years
+  `);
     process.exit(1);
 }
-
-console.log(`🎯 Transcribing Dilbert comics for year: ${yearArg}`);
-processYear(yearArg).catch(console.error);
