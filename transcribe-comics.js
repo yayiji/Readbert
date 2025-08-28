@@ -40,7 +40,7 @@ const MODEL_NAME = "google/gemini-2.5-flash-lite";
 // const MODEL_NAME = 'openai/gpt-4o-mini';
 const RATE_LIMIT_DELAY = 2000; // 2 seconds between requests
 const MAX_RETRIES = 3;
-const YEAR_DELAY = 5000; // 5 seconds between years
+const YEAR_DELAY = 1000; // 1 seconds between years
 
 if (!OPENROUTER_API_KEY) {
   console.error("❌ Please set OPENROUTER_API_KEY environment variable");
