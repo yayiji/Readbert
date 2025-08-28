@@ -75,32 +75,32 @@ async function transcribeComic(imagePath, retryCount = 0) {
   const base64Image = imageToBase64(imagePath);
 
   const prompt = `
-You are transcribing a Dilbert comic strip. Please:
-1. Read all text in the comic panels from left to right, top to bottom
-2. For each panel, list the dialogue/text in the order it appears
-3. Convert ALL text to proper sentence case for better readability
-4. Don't identify who is speaking, just transcribe the text content
-5. Maintain the sequential order of speech bubbles within each panel
-6. If there's no text in a panel, indicate it as an empty dialogue array
+  You are transcribing a Dilbert comic strip. Please:
+  1. Read all text in the comic panels from left to right, top to bottom
+  2. For each panel, list the dialogue/text in the order it appears
+  3. Convert ALL text to proper sentence case for better readability
+  4. Don't identify who is speaking, just transcribe the text content
+  5. Maintain the sequential order of speech bubbles within each panel
+  6. If there's no text in a panel, indicate it as an empty dialogue array
 
-Return the result as JSON in this exact format:
-{
-  "panels": [
-    {
-      "panel": 1,
-      "dialogue": ["First speech bubble in sentence case", "Second speech bubble"]
-    },
-    {
-      "panel": 2,
-      "dialogue": ["Panel 2 text in sentence case"]
-    }
-  ]
-}
+  Return the result as JSON in this exact format:
+  {
+    "panels": [
+      {
+        "panel": 1,
+        "dialogue": ["First speech bubble in sentence case", "Second speech bubble"]
+      },
+      {
+        "panel": 2,
+        "dialogue": ["Panel 2 text in sentence case"]
+      }
+    ]
+  }
 
-Important: Convert text like "I LOVE WATCHING NBA GAMES" to "I love watching NBA games."
+  Important: Convert text like "I LOVE WATCHING NBA GAMES" to "I love watching NBA games."
 
-If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}
-`;
+  If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}
+  `;
 
   const requestBody = {
     model: MODEL_NAME,
@@ -262,7 +262,8 @@ async function transcribeComics(year) {
         skipped++;
         console.log(`⏭️  Skipped ${comic.date} (already exists)`);
         console.log(
-          `📊 Progress: ${processed + skipped + errors}/${comics.length
+          `📊 Progress: ${processed + skipped + errors}/${
+            comics.length
           } (${processed} new, ${skipped} skipped, ${errors} errors)\n`
         );
         continue;
@@ -282,7 +283,8 @@ async function transcribeComics(year) {
         }
 
         console.log(
-          `📊 Progress: ${processed + skipped + errors}/${comics.length
+          `📊 Progress: ${processed + skipped + errors}/${
+            comics.length
           } (${processed} new, ${skipped} skipped, ${errors} errors)\n`
         );
 
@@ -294,7 +296,8 @@ async function transcribeComics(year) {
         errors++;
         console.error(`❌ Error processing ${comic.date}: ${error.message}`);
         console.log(
-          `📊 Progress: ${processed + skipped + errors}/${comics.length
+          `📊 Progress: ${processed + skipped + errors}/${
+            comics.length
           } (${processed} new, ${skipped} skipped, ${errors} errors)\n`
         );
       }
@@ -365,12 +368,11 @@ const args = process.argv.slice(2);
 
 if (args.length === 0) {
   // Interactive mode
-  console.log(`
-Dilbert Comics Bulk Transcription 🎯 
-Usage examples:
-  node transcribe-comics.js 2023          # Single year
-  node transcribe-comics.js 1989 1995     # Multiple years: 1989 to 1995
-`);
+  console.log(` 🎯 Dilbert Comics Bulk Transcription
+  Usage examples:
+    node transcribe-comics.js 2023          # Single year
+    node transcribe-comics.js 1989 1995     # Multiple years: 1989 to 1995
+  `);
   process.exit(0);
 } else if (args.length === 1) {
   // Transcribe single year
