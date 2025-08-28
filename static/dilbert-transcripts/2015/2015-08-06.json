@@ -1,0 +1,25 @@
+{
+  "date": "2015-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are there any questions about my presentation?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you brush your teeth too aggressively and accidentally stab yourself in the brain?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you be more specific?",
+        "Frontal lobes?"
+      ]
+    }
+  ]
+}

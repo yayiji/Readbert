@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You might have noticed that I'm wearing clogs with four-inch heels."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies show that every inch of height is worth $1,000 in income per year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I have my $4,000 in a lump sum this year?",
+        "I know there is something wrong with this..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pointy-haired boss becomes CEO",
+        "We're going into the evil robot business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll sell robots that psychologically manipulate their owners into buying unnecessary upgrades."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your neighbor got titanium bolts for his robot. I guess that's what winners do. But your way is good, too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For our employee wellness program we will inject nanorobots into your bloodstream to keep you free of disease."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The nanorobots will also rewire your brain to make you a more effective worker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You might even feel motivated.",
+        "Those robots are going to be disappointed."
+      ]
+    }
+  ]
+}

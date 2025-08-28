@@ -1,0 +1,24 @@
+{
+  "date": "2015-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company sent me to crash the Elbonian internet in retaliation for hacking us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Snip"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you hear me now?",
+        "It's better without the string!"
+      ]
+    }
+  ]
+}

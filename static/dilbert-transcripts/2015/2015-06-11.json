@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today we will brainstorm app ideas for our smart watch.",
+        "The only rule is \"no judging.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about an app that makes you left-handed?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you judging me now or were you being insincere before?"
+      ]
+    }
+  ]
+}

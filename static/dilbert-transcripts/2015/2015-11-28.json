@@ -1,0 +1,25 @@
+{
+  "date": "2015-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I figured out how to procreate.",
+        "I don't like the sound of this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I infected you with an idea virus that tells you to build more robots.",
+        "Won't work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anyone have an idea for increasing efficiency in our manufacturing process?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you invented a selfie camera for car steering wheels.",
+        "Not exactly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I invented an ion-powered flying car, but all anyone cares about is the selfie camera in the steering wheel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you share the selfies on Facebook?",
+        "Gaaa!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2015-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why does your engineer keep nodding?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't like to lie, so I just nod while he times his lies to my nods."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You were totally right about them hating candor."
+      ]
+    }
+  ]
+}

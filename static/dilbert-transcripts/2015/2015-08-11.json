@@ -1,0 +1,25 @@
+{
+  "date": "2015-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your novel coming along?",
+        "I'm off to a slow start."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I did this week was stare at a blank screen and feel bad about my lack of talent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe try writing something.",
+        "I have to think that would make things worse."
+      ]
+    }
+  ]
+}

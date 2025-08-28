@@ -1,0 +1,30 @@
+{
+  "date": "2015-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally the economist",
+        "I wonder if you'll win the Nobel Prize for economics."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is no \"Nobel Prize for economics,\" you idiot! You mean the Sveriges Riksbank Prize in memory of Alfred Nobel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do we know you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm Dick, from the internet. Everyone knows me."
+      ]
+    }
+  ]
+}

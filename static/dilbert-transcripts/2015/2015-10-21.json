@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to take an extended medical leave to deal with my job-related stress."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The stress is degrading my cardiovascular system. I could drop dead any minute."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which part of your job is causing stress?",
+        "I think it's the work part."
+      ]
+    }
+  ]
+}

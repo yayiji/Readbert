@@ -1,0 +1,24 @@
+{
+  "date": "2015-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm programming our robot line to emotionally manipulate their owners into buying upgrades."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're teaching cloud-connected robots all over the world how to surreptitiously control humans?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technically, yes. But free will is an illusion anyway.",
+        "Well, if it isn't, it will be."
+      ]
+    }
+  ]
+}

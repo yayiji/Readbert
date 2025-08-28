@@ -1,0 +1,24 @@
+{
+  "date": "2015-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you were on the run for killing government agents."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only killed the bad ones.",
+        "My lawyer says that's legal now under the whistleblower laws."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was a tad aggressive, but I think you're fine."
+      ]
+    }
+  ]
+}

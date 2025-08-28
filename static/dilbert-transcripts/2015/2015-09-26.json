@@ -1,0 +1,25 @@
+{
+  "date": "2015-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working twice as hard as ever before."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Most of it is happening inside my head. But trust me, my brain is working double-time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "That's great.",
+        "Obviously, I need to work fewer hours because of the energy drain."
+      ]
+    }
+  ]
+}

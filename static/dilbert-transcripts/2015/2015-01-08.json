@@ -1,0 +1,24 @@
+{
+  "date": "2015-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I discovered that I can wear my tube clothing in the shower!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like doing laundry and taking a shower at the same time!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can add one more efficiency, but I'd need to replumb the shower drain.",
+        "Please stop talking!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No need to talk.",
+        "I",
+        "Now we use an app to make hiring decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The app checked your online footprint and says you're a serial mansplainer with an unsuccessful dating history."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assume that means you have awesome technical skills.",
+        "Full stack!"
+      ]
+    }
+  ]
+}

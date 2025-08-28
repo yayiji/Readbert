@@ -1,0 +1,23 @@
+{
+  "date": "2015-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's it feel to be the hardest-working employee in engineering?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I feel tired, sore, exhausted, sick, angry, stressed out, and lonely."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You probably don't want to know how good it feels to be useless."
+      ]
+    }
+  ]
+}

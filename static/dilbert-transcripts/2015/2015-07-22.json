@@ -1,0 +1,23 @@
+{
+  "date": "2015-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job is removing obstacles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When do you leave?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think he was going in a different direction."
+      ]
+    }
+  ]
+}

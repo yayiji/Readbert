@@ -1,0 +1,30 @@
+{
+  "date": "2015-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want the boring and awful project that is likely to succeed. . ."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or the fun project that is certain to fail and take your career with it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You came here to give both of them to me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ha ha!",
+        "You know me."
+      ]
+    }
+  ]
+}

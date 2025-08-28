@@ -1,0 +1,25 @@
+{
+  "date": "2015-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found the root cause of our problems.",
+        "Problems"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're buggy.",
+        "Did you bring a pen?"
+      ]
+    }
+  ]
+}

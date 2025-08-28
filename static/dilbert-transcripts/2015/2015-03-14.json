@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been mentoring you for a week. Do you feel different?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Spending time with you makes me feel underpaid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that makes you hungry to succeed?",
+        "I don't even see how those things are connected."
+      ]
+    }
+  ]
+}

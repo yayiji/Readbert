@@ -1,0 +1,24 @@
+{
+  "date": "2015-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did the human cross the road?",
+        "I don't know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Neither did he."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ignorance is a big problem with you people."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2015-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever think it's weird that you get paid a hundred times more than me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I invented our core technology. All you did was interview better than a few other people who didn't invent anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not good at small talk."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I would totally fire you if I could invent things."
+      ]
+    }
+  ]
+}

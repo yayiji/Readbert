@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You are being hailed as the best economist of our age because your random jargon turned out to mean something."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nice, but as a professional economist, I only care if there is a cash award."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The world's greatest economist should already be rich.",
+        "It's more art than science."
+      ]
+    }
+  ]
+}

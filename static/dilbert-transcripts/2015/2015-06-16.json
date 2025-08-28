@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our health app accurately predicts the user's time of death and sends a five-minute warning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our business model is paid advertising that we disguise as \"death alerts.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's the click-through rate?",
+        "Surprisingly low. It's hard to get people's attention these days."
+      ]
+    }
+  ]
+}

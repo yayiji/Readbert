@@ -1,0 +1,24 @@
+{
+  "date": "2015-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What phase is your project in?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is the phase where people ask stupid questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long does it last?",
+        "It isn't looking good for today."
+      ]
+    }
+  ]
+}

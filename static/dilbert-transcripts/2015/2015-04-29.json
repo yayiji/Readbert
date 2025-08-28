@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't get the promotion I deserve.",
+        "What strategy did you use?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who uses a strategy to get what they deserve?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should ask the person who got your job. She sounds smart."
+      ]
+    }
+  ]
+}

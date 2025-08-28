@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I ask some questions about your journey to success?",
+        "I don't like the sound of this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am trying to ascertain what percentage of a person's success is pure luck."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example, who hired you for your first real job?",
+        "My dad. But in my defense, I interview well."
+      ]
+    }
+  ]
+}

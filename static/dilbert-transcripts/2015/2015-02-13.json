@@ -1,0 +1,25 @@
+{
+  "date": "2015-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Negotiations continue",
+        "I can't meet your delivery deadline unless you agree to my price today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you don't agree to my price today, management is likely to do a reorg soon and change its mind about this project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How often does that happen?",
+        "It hasn't happened since breakfast, so we're overdue."
+      ]
+    }
+  ]
+}

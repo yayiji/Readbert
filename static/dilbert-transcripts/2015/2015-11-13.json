@@ -1,0 +1,25 @@
+{
+  "date": "2015-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope that clarifies our strategy.",
+        "Questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From what you said, I can't tell if we're in the hardware or software business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're b-to-b.",
+        "How much do you wish that meant something?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Tim.",
+        "That's enough. I formed a snap judgment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies say we form snap judgments about people. And I already did, so no need for details."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm just looking for my phone.",
+        "Yup, I already judged you to be flakey."
+      ]
+    }
+  ]
+}

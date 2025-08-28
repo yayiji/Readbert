@@ -1,0 +1,26 @@
+{
+  "date": "2015-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Dick, from the internet.",
+        "Do you have anything for me to mock?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm leaving a comment on a blog.",
+        "Okay, got it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you take it out of context?",
+        "Shhh! I'm trying to get worked up over nothing."
+      ]
+    }
+  ]
+}

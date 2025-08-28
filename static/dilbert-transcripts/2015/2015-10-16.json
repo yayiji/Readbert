@@ -1,0 +1,29 @@
+{
+  "date": "2015-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm concerned that my personal goals do not align with our corporate strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, I would like to be happy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does the company want?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, nothing along those lines."
+      ]
+    }
+  ]
+}

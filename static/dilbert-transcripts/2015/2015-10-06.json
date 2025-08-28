@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our next robot release will have the intelligence of a human!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will it have intelligence in the same way you do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you implying?",
+        "I'll bet the robot wouldn't know either."
+      ]
+    }
+  ]
+}

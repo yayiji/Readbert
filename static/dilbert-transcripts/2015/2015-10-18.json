@@ -1,0 +1,55 @@
+{
+  "date": "2015-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll give you the data tomorrow, Asok.",
+        "Thanks, Brad!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Urk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suddenly, I know I will not get that data tomorrow."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why are you so freaked out?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I... I... think I can see the future now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Somehow I know that Brad will not do what he says he will do."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's called \"experience.\" It's the first step toward hating all people."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How can I make it stop?",
+        "I hear good things about death."
+      ]
+    }
+  ]
+}

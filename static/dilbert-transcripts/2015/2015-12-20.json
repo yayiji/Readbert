@@ -1,0 +1,54 @@
+{
+  "date": "2015-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you uberize the slide deck?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I harmonized it in the cloud."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we ready for a trans-domain kick-off?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I put a disruptive mesh network in the microservices of the internet of things."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Will that be good enough to \"ask the fridge\" or do I need to start disinter-mediating?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It depends on if we have enough bandwidth to growth-hack the analytics."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I just hope our clicks-and-mortar strategy staircases."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm almost certain that was nonsense.",
+        "Sometimes it's about the journey."
+      ]
+    }
+  ]
+}

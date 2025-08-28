@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fixed your technology strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I couldn't make it sound logical, so I buried the stupid parts under seven layers of technical babble."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Add an irrelevant graph and no one will be the wiser... literally.",
+        "Please stop being a team player."
+      ]
+    }
+  ]
+}

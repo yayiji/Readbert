@@ -1,0 +1,25 @@
+{
+  "date": "2015-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday a robot murdered the CEO of our main competitor.",
+        "Heh-heh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That could only happen if some idiot unchecked the robot's \"do no harm\" box and doomed humankind to annihilation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say what?",
+        "Hello, victims."
+      ]
+    }
+  ]
+}

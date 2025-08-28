@@ -1,0 +1,24 @@
+{
+  "date": "2015-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're looking for employees who are fierce!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I punch you or something?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to play this.",
+        "Try acting normal, but angrier."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2015-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think the Fed should liquidate its Bitcoins or let the dollar float with LIBOR rates?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe we could just sit quietly until the others arrive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Success."
+      ]
+    }
+  ]
+}

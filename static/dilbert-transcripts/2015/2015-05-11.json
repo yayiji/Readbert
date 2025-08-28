@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can offer you a starting salary of $34,000 per year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My student loan debt is $200,000. I would have to live under a bridge and forage for food."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our bridges have good reputations.",
+        "I heard the same thing about my college."
+      ]
+    }
+  ]
+}

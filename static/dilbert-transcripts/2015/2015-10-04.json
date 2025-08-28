@@ -1,0 +1,54 @@
+{
+  "date": "2015-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It is hard to be a woman in this industry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll let you take this one.",
+        "Got it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm short, bald, and nearsighted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have no ambition, and I have all the signs of being a sociopath."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I am unattractive and too old for the tech industry."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I am shaped like a sad turnip and I do not make people laugh."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What are you hens clucking about now?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can't begin to tell you how much I want to change the subject."
+      ]
+    }
+  ]
+}

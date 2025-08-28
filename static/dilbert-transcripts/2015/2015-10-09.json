@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you design our robot's 3-D pill printer?",
+        "Yup."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The design is brilliant, except for the part where the pill drops out of the robot's butt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you suddenly brilliant?",
+        "Never had a reason before."
+      ]
+    }
+  ]
+}

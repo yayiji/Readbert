@@ -1,0 +1,30 @@
+{
+  "date": "2015-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our employee of the year is Wally, for filing the most patents of any engineer in our history."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many have been granted?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, most of them...",
+        "Assume?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How much coffee does this thing hold?"
+      ]
+    }
+  ]
+}

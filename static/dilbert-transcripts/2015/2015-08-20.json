@@ -1,0 +1,25 @@
+{
+  "date": "2015-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Halt!",
+        "You are under arrest for killing Ted in a cafeteria fight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am innocent. My brain stimulator had a software glitch that made me do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you had free will, right?",
+        "Do I have to believe in magic just to get arrested?"
+      ]
+    }
+  ]
+}

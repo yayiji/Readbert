@@ -1,0 +1,23 @@
+{
+  "date": "2015-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I combined a DNA test kit with big data to predict a person's future health issues."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That depressing knowledge caused every member of the test group to make risky lifestyle choices. Now half of them are dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At the risk of bragging, that's exactly what my model predicted."
+      ]
+    }
+  ]
+}

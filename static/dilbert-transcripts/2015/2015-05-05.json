@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In a perfect world, how would you fix the problem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In a perfect world, you would not exist, so I would do smart things instead of whatever you tell me to do next."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... what should I do next?",
+        "Let's pie-chart this thing."
+      ]
+    }
+  ]
+}

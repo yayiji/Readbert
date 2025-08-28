@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've got a cake in the break room for Scott's birthday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see no reason to celebrate the random timing of natural events by eating poison and singing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ow! You sucked all the joy out of my body!",
+        "Maybe you can backfill it with cake."
+      ]
+    }
+  ]
+}

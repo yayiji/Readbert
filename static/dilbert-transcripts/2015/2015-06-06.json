@@ -1,0 +1,26 @@
+{
+  "date": "2015-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I only work sixty hours this week?",
+        "I need some rest."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to set a precedent that your health matters.",
+        "That's a slippery slope."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might die from sleep deprivation.",
+        "Don't ask me to validate your selfishness."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm tired of your negativity, Alice.",
+        "Why can't you be happy about it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I be happy about something negative?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aren't you asking me to do that?",
+        "Or am I missing the point?"
+      ]
+    }
+  ]
+}

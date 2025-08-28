@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I signed up for a martial arts class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's something called \"yoga.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you killed anyone yet?",
+        "Not on purpose."
+      ]
+    }
+  ]
+}

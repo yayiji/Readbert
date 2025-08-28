@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that our policy is to pay people based on height, your CEO salary is capped, too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's what you think.",
+        "Watch what happens when I hold my nose and close my mouth and blow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I guess it only needs to last until bonus season.",
+        "Continued..."
+      ]
+    }
+  ]
+}

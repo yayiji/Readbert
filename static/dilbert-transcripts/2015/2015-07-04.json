@@ -1,0 +1,24 @@
+{
+  "date": "2015-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One of our drones found the fugitive hacker Dilbert in a remote forest."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He ate a poisonous berry and will be dead in minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I light him up for practice?",
+        "One missile. They're pricey."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2015-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Character is how you act when no one is watching."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now you tell us?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought you were my role model!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now I learn that you do all of your good stuff when no one is looking."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It all makes sense now, because whenever I watch you do anything, it looks sort of dumb."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I'll take your word for it that you're awesome when no one is looking."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you want to know what I do when no one is looking?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I really, really do not.",
+        "I call it character!"
+      ]
+    }
+  ]
+}

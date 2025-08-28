@@ -1,0 +1,54 @@
+{
+  "date": "2015-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute to answer a quick question about social media?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have time...",
+        "Real quick. One question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, but make it fast, please. I'm late for my meeting."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, the question is this..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can I Instagram a tweet right to Facebook..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Or does liking something I also favorited automatically pin it to my followers?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm going to say yes and go to my meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I probably should have asked some follow-ups."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show that tall people earn more than shorter people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So instead of doing performance reviews this year, we'll just measure your height and pay accordingly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And, of course, Alice will earn ten percent less than the men. I think that's a law.",
+        "Continued..."
+      ]
+    }
+  ]
+}

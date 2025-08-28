@@ -1,0 +1,25 @@
+{
+  "date": "2015-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you comment on my technology strategy yet?",
+        "Almost done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you object to the word \"idiot\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes.",
+        "I might need another day."
+      ]
+    }
+  ]
+}

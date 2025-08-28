@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government threatened to kill me if I don't sell them my anti-hacker app."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should change your identity, give me everything you own, and move to an undisclosed location."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will we have a secret way to stay in contact?",
+        "You're becoming a burden."
+      ]
+    }
+  ]
+}

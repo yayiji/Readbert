@@ -1,0 +1,25 @@
+{
+  "date": "2015-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mansplaining",
+        "Let me explain how our network is designed..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I personally designed our network and I know far more about it than you ever will."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know what a cloud is?",
+        "It's where you'll be playing your harp in a minute."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ceo mentors Wally",
+        "How would you like me to mentor you, underling?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you teach me how to make $25 million per year while adding no value to the company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to teach you that.",
+        "Was it all luck or did you have to kill people?"
+      ]
+    }
+  ]
+}

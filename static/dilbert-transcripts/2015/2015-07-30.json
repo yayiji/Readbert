@@ -1,0 +1,24 @@
+{
+  "date": "2015-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am proud to say I serve as a board member for nine corporations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your lack of focus shows disregard for your fiduciary responsibilities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can someone fire this guy for me?",
+        "I don't remember what company I'm at."
+      ]
+    }
+  ]
+}

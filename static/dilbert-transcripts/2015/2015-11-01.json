@@ -1,0 +1,57 @@
+{
+  "date": "2015-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not a good idea to answer email while you're angry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know, but this idiot...",
+        "Hold..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's it.",
+        "Deep breaths."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hold..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hold..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Phew! You were right. I should not get worked up over one idiot.",
+        "Ding!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He wasn't working alone!",
+        "I'm out."
+      ]
+    }
+  ]
+}

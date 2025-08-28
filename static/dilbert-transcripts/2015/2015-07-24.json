@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good leader creates a sense of awe in employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I think you'll find it a lot faster to create a sense of \"ow\" instead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need you to work all weekend again.",
+        "Ow!",
+        "//"
+      ]
+    }
+  ]
+}

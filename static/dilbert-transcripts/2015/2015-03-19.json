@@ -1,0 +1,23 @@
+{
+  "date": "2015-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that you are a vice president, may I apply to be your lackey?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I'm being honest, Asok, I need someone with more upper body strength to carry my coffee all day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I said, \"A vice president's coffee can't be that heavy.\""
+      ]
+    }
+  ]
+}

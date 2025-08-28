@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Want to go to lunch?",
+        "I don't see how that can work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your conversation skills can't compete with the stimulation I can get from my smartphone and my smartwatch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would scowl at you if I could get your attention.",
+        "Ooh!"
+      ]
+    }
+  ]
+}

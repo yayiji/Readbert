@@ -1,0 +1,26 @@
+{
+  "date": "2015-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you do that for me?",
+        "I'll put it on my list."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Near the top?",
+        "Depends on your frame of reference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I give up now?",
+        "Quitter."
+      ]
+    }
+  ]
+}

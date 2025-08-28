@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One of my employees keeps embellishing his accomplishments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If he works in engineering, fire him. If he works in marketing, promote him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He doesn't work at all.",
+        "Sounds like you have a leader on your hands."
+      ]
+    }
+  ]
+}

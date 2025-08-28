@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My son is trying to pick a major for college. Do you have any advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, it will take him fifteen years to pay off his student loans, but most jobs will be replaced by robots in ten."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But the world always needs bankers.",
+        "We're trying to steer him away from crime."
+      ]
+    }
+  ]
+}

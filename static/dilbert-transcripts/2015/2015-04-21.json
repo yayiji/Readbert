@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our boss asked me to totally ruin my double-handled coffee mug invention by adding features."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am asking each of you to suppress your engineering impulses just this one time and let this perfect product stay perfect."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It would be perfect if it had Wi-Fi and a projection keyboard.",
+        "Maybe add some health sensors and GPS."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We killed Ted, as you ordered in your clever text message full of emojis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That wasn't what I..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Deniability. Got it.",
+        "We didn't have this conversation."
+      ]
+    }
+  ]
+}

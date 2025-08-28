@@ -1,0 +1,55 @@
+{
+  "date": "2015-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yay, you have Wi-Fi!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I can drink overpriced coffee while strangers steal my passwords."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The timing is sort of a coincidence."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because I was just wondering what would be the fastest way to lose everything I own."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And this fixes one of my other big problems too..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I always want to share my browser history with strangers, and now I can!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "By the way, I'm Dilbert."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I was Gropnorb, but now I go by Fred.",
+        "Did a guy named Fred use your Wi-Fi?",
+        "Right after he under-tipped."
+      ]
+    }
+  ]
+}

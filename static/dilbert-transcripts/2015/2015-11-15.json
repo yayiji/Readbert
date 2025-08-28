@@ -1,0 +1,53 @@
+{
+  "date": "2015-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We are going to start monitoring employee productivity in real time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need one clarification."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you saying you removed the last shred of human dignity from our jobs and..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...reduced us to nothing but a meat machine that..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...suffers in a state of perpetual inadequacy as each person is compared to an arbitrary and ever-growing goal until..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...there is no realistic way for the employee to find happiness through natural means?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's one way to look at it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2015-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The error message says my copy of Windows is not genuine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogbert's tech support",
+        "I'll walk you through a series of steps that won't work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "After seventeen attempts that involve rebooting, you will lose hope."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "At some point you will give up and buy a new computer just to be done with it all."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We'll start by uninstalling all of your drivers and reinstalling."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can I skip all of the useless steps and just buy a new computer?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sure, but you don't need to be a jerk about it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop agreeing with me in ways that sound like you don't mean it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts say one should first agree with idiots to gain trust before trying to change their minds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to stop doing that.",
+        "You are so right about that."
+      ]
+    }
+  ]
+}

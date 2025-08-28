@@ -1,0 +1,31 @@
+{
+  "date": "2015-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I tried to use emoji characters and accidentally ordered two of my engineers to kill Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They say they did it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did the engineers complain about being too busy to do it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No.",
+        "Oh, I see it now.",
+        "Total hoax."
+      ]
+    }
+  ]
+}

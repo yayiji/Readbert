@@ -1,0 +1,23 @@
+{
+  "date": "2015-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a way to regulate my mood with an external brain stimulator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're supposed to be organizing the company picnic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you seriously expect me to do that without an external brain stimulator?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the product designer",
+        "The main goal of product design is to annoy people for no reason."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll start by making so much extra packaging that you need to rent a truck just to haul it away.",
+        "We sell software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I found the product code for downloading the software!"
+      ]
+    }
+  ]
+}

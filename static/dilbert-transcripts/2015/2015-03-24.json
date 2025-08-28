@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the product designer",
+        "I created an operating system that uses up 80% of your time begging for updates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That still leaves a healthy 20% of your time to..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Reboot your computer over and over.",
+        "Can it fax?"
+      ]
+    }
+  ]
+}

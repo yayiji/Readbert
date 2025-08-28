@@ -1,0 +1,31 @@
+{
+  "date": "2015-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to come to a meeting now.",
+        "Can I do something useful instead?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The meeting will be useful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "More useful than what I'm doing?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How would I know?",
+        "Is all leadership random or just yours?"
+      ]
+    }
+  ]
+}

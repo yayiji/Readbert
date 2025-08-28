@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you really believe that your plan to change the office layout will boost efficiency?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Of course it will. The physical environment makes a huge difference.",
+        "Good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I missed all of my deadlines because our current office layout is bad."
+      ]
+    }
+  ]
+}

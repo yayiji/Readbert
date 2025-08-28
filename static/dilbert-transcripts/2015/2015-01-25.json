@@ -1,0 +1,55 @@
+{
+  "date": "2015-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm already useless, but I'm thinking about becoming toxic as well."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That seems ambitious for you.",
+        "Think it through."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As a useless person, I still get invited to meetings because I don't cause much trouble."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But if I go full-toxic, no one will invite me to meetings in the first place."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can avoid a lot of work by nipping it in the bud."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is it hard to be toxic? How do you do it?",
+        "It's easy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All you do is provide incomplete information that makes people anxious and hateful."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can't tell you what was said in that last meeting, but I defended you."
+      ]
+    }
+  ]
+}

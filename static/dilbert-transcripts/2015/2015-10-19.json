@@ -1,0 +1,29 @@
+{
+  "date": "2015-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why aren't you working in your cubicle?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sitting increases my risk of obesity, cardiometabolic disease, cancer, stress, depression, and cognitive dysfunction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I had no idea sitting was so dangerous."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I know. Imagine if I tried working."
+      ]
+    }
+  ]
+}

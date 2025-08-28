@@ -1,0 +1,23 @@
+{
+  "date": "2015-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I compared your plan to a few alternatives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's not label the other plans \"the smart ones.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want anything else mislabeled?"
+      ]
+    }
+  ]
+}

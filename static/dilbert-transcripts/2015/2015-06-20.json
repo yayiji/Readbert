@@ -1,0 +1,30 @@
+{
+  "date": "2015-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday, in our four-hour meeting, we agreed to postpone the vendor selection."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, we agreed to use our existing vendor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought we agreed to cancel the whole project."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We might need some clarity on this.",
+        "Four more hours should do it."
+      ]
+    }
+  ]
+}

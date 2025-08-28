@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll be sorry when the world economy collapses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'll be okay because I hoarded gold at my house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On day two, you'll trade all of it for a sandwich.",
+        "Only if I'm hungry."
+      ]
+    }
+  ]
+}

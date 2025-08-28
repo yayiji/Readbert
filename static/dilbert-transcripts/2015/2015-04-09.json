@@ -1,0 +1,26 @@
+{
+  "date": "2015-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm uncomfortable with the off-color jokes I keep hearing in the engineering department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll talk to the guys and tell them to knock it off.",
+        "Guys?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop being babies.",
+        "My jokes do not hurt your ears!",
+        "It burns!"
+      ]
+    }
+  ]
+}

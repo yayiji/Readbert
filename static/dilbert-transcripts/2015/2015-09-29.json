@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my fitness tracker, I took 20,000 steps yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? That's double what I did. You won't win this! I will run to the ends of the earth to beat your step count!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you really have a fitness tracker?",
+        "No, it looks like a lot of work."
+      ]
+    }
+  ]
+}

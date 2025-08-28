@@ -1,0 +1,26 @@
+{
+  "date": "2015-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On your list of accomplishments, you say you filed seventeen patents for the company this month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I did. Here's the documentation on each of them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm...",
+        "It will be three years before I know if these are accepted.",
+        "Until then,",
+        "let's play it safe and assume I'm awesome."
+      ]
+    }
+  ]
+}

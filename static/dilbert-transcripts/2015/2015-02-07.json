@@ -1,0 +1,25 @@
+{
+  "date": "2015-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales are up 900% since we programmed our robots to emotionally manipulate their owners into buying upgrades."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um, you do know marketing is only legal because it doesn't work most of the time, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nope. I do not know that.",
+        "Shiny!",
+        "We invented a technology to enslave homo sapiens?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2015-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I speak frankly?",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Of course! A good CEO listens to his underlings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He soon realized this was a bad idea."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Alice's honesty felt like fire ants on his skin."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Bystanders scattered."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The CEO had not heard the truth in years."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It burned like a thousand suns."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Whoa! Someone got truthed."
+      ]
+    }
+  ]
+}

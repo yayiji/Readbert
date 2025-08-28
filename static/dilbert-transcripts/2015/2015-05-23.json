@@ -1,0 +1,23 @@
+{
+  "date": "2015-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to get rid of that 3-D printed robot that looks and acts like me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. Alice takes care of all the excess robot inventory."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't always have passion for my work, but today is looking good."
+      ]
+    }
+  ]
+}

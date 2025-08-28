@@ -1,0 +1,24 @@
+{
+  "date": "2015-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you notice any changes after Alice gave you an artificial soul?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm less tolerant of idiots asking me questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "High five.",
+        "What is wrong with you people???"
+      ]
+    }
+  ]
+}

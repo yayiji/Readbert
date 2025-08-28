@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you didn't finish your project on time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you make me work on your personal project half of every day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have to learn to say no.",
+        "I've never wanted to kill you more than right now."
+      ]
+    }
+  ]
+}

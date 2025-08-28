@@ -1,0 +1,24 @@
+{
+  "date": "2015-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My hiding strategy of going off the grid was working until I ate that berry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I call for help, the government will find me. If I don't, I will die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I choose life!",
+        "No service"
+      ]
+    }
+  ]
+}

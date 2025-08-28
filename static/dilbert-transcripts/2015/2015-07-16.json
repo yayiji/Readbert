@@ -1,0 +1,24 @@
+{
+  "date": "2015-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented headphones that will record all of your advice as you dispense it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This way it will be preserved for future generations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He thinks we can hear him?",
+        "He also thinks it is recording."
+      ]
+    }
+  ]
+}

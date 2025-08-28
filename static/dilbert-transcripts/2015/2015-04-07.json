@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get any work done because my project team is a bunch of useless mansplainers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do men feel the need to explain things to me when I know more than they do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me explain it to you, Alice. Men like to show off and feel important.",
+        "Stop it!"
+      ]
+    }
+  ]
+}

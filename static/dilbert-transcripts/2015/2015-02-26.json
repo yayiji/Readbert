@@ -1,0 +1,30 @@
+{
+  "date": "2015-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I followed your investment advice and lost all of my savings in the stock market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did I mention that past performance is not an indication of future returns?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then...",
+        "How does \"advice\" actually work?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It only works for the people that give it."
+      ]
+    }
+  ]
+}

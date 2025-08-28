@@ -1,0 +1,57 @@
+{
+  "date": "2015-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a device that can help people lose weight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wouldn't need that because I have willpower."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why are you over-weight?",
+        "This is temporary."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You've looked exactly the same for years.",
+        "I can lose this weight any time I want."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... are you saying you choose to be less healthy than you could be?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm saying I'd rather be happy than healthy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are you happy?",
+        "No, because I'm hungry."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And eating will make you happy?",
+        "Well, I usually eat until I'm sick."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A global survey says only 13% of employees feel engaged at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you're wondering which one of your employees is engaged, it's this guy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need ten more just like him.",
+        "I think I just figured out what's wrong with the rest of us."
+      ]
+    }
+  ]
+}

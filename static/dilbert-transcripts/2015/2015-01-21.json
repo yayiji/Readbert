@@ -1,0 +1,26 @@
+{
+  "date": "2015-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I designed a flying car that harvests ions from the air to power itself.",
+        "We can build them for only $3,000 apiece."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no market for ion-powered flying cars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can put a selfie camera in the steering wheel.",
+        "Much better.",
+        "And let's say the car does not fly."
+      ]
+    }
+  ]
+}

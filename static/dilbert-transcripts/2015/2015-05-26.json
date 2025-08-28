@@ -1,0 +1,23 @@
+{
+  "date": "2015-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We look for ten qualities when we hire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ten? I'm looking for an employer who knows how to set priorities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was too good for us."
+      ]
+    }
+  ]
+}

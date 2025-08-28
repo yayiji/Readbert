@@ -1,0 +1,54 @@
+{
+  "date": "2015-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I take Steve Jobs' advice and practice meditation and mindfulness?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Science says meditation can reduce stress and make me more productive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And obviously it worked for Steve Jobs, so there's that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "To the untrained eye, it will seem as if I am napping."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But in reality, I will be quieting my mind to boost my creativity."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Meditate on your own time."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wow. That just stressed me out and shut down my creative juices."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Just do your job!",
+        "Because quality doesn't matter?"
+      ]
+    }
+  ]
+}

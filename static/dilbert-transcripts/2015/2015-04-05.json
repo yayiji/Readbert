@@ -1,0 +1,54 @@
+{
+  "date": "2015-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're borrowing a policy from Google because they are so awesome."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You may now use 20% of your workday on your own project ideas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying we can do 20% less work on our core functions?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, no. Nothing like that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm saying you can work on your own project ideas for 20% of your time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay... so... if the 20% doesn't come out of our work hours, where does it come from?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think he's trying to make us work 20% longer for the same amount of pay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We could just tell people we do it, but not do it.",
+        "Same as Google! That's all I'm asking."
+      ]
+    }
+  ]
+}

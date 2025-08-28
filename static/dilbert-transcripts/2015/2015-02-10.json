@@ -1,0 +1,30 @@
+{
+  "date": "2015-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elon Musk is worried that artificial intelligence will destroy humankind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would you pay attention to him?",
+        "What's he ever done?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop making me root for the A.I."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And what planet is this \"Elon\" guy from, anyway?"
+      ]
+    }
+  ]
+}

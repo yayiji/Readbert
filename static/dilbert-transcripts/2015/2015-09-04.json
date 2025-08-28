@@ -1,0 +1,25 @@
+{
+  "date": "2015-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to design a defect into our robots so we can control them if they try to take over."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it has to be the type of defect that they think is an advantage, so they don't know what we're up to."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I gave you the personality of a guy.",
+        "Yay for sports!",
+        "I own this world, bro!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2015-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used a 3-D printer and a scan of your brain to create Bossbot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It doesn't pass the Turing test, but neither do you.",
+        "What's the Turing test?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't really matter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yeah, what's the Turing test?"
+      ]
+    }
+  ]
+}

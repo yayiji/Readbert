@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your comments on my technology strategy are ambiguous."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You compared it to a \"squirrel looking for a nut in the large hadron collider.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So..?",
+        "How many nuts are in there?"
+      ]
+    }
+  ]
+}

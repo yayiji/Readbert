@@ -1,0 +1,54 @@
+{
+  "date": "2015-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't promote you because you didn't have an impact on anything important."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I have an impact on important things when you put me on unimportant projects?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds like an excuse."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What's the difference between an excuse and a great reason?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It depends who says it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Leaders have great reasons when things don't work out, but losers just have excuses."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... you can turn my excuses into great reasons by promoting me?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No, because I can't promote you.",
+        "That sounds like an excuse."
+      ]
+    }
+  ]
+}

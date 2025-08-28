@@ -1,0 +1,56 @@
+{
+  "date": "2015-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all night to finish my part."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I admire your work ethic, Alice.",
+        "I only finished half of my part."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... if you didn't finish your part, it was a total waste of time for me to finish mine."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's one way to look at it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What time last night did you know you would not be done by today?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Must have been about six.",
+        "I got hungry, then I had to unwind."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are you trying to make my head explode by focusing anger at my skull?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "First time that worked.",
+        "Practice paid off."
+      ]
+    }
+  ]
+}

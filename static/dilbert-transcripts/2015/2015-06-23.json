@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I researched the assumptions behind your strategy and discovered they are unfounded."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I guess that means you will be changing your strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did it make a difference?",
+        "Yes, in the sense that he hates me more."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2015-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I survived falling off the bridge when we were taking our long walk to discuss business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I ended up a mile downstream. That's probably why the search team didn't find me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yup."
+      ]
+    }
+  ]
+}

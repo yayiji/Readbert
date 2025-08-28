@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm running low on motivation.",
+        "What can you do for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Follow your passion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop following me.",
+        "Dream-killer."
+      ]
+    }
+  ]
+}

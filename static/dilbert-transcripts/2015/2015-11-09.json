@@ -1,0 +1,25 @@
+{
+  "date": "2015-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to hear how amazing my weekend was?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. Would you like to hear about the extended tragedy that is my social life?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I went to the mountains.",
+        "I fell in love with a dying polygamist."
+      ]
+    }
+  ]
+}

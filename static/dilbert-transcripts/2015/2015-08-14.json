@@ -1,0 +1,27 @@
+{
+  "date": "2015-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm wearing a brain stimulator so I don't die of boredom while organizing the company picnic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Speaking of that, what kind of cups should I order?",
+        "Do you want red or clear?",
+        "And what sizes?",
+        "How many?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this a bad time?",
+        "Low battery."
+      ]
+    }
+  ]
+}

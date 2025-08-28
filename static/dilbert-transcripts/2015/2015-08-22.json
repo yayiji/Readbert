@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your brain stimulator invention turned you into a murderer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will argue that you can't get a fair trial by a jury of your peers because all of the people like you are already in jail for doing their own stupid stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I signed you up for a prison gang.",
+        "All you need to do is skin a snitch."
+      ]
+    }
+  ]
+}

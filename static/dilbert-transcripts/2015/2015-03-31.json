@@ -1,0 +1,26 @@
+{
+  "date": "2015-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally the chief economist",
+        "My interview with you is live on the website."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing you said made sense, so I strung together a bunch of economic jargon and called it your forecast."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One month later",
+        "Only one economist accurately predicted when this bubble would burst.",
+        "Uh-oh."
+      ]
+    }
+  ]
+}

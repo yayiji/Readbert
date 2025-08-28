@@ -1,0 +1,24 @@
+{
+  "date": "2015-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I taught robots how to emotionally manipulate people and thus guaranteed that homo sapiens will become slaves to machines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't want to think about that.",
+        "That's why it works."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted died in his cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When?",
+        "About a week ago.",
+        "They just found him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remember when I said Ted is an unusually good listener?",
+        "I have new data."
+      ]
+    }
+  ]
+}

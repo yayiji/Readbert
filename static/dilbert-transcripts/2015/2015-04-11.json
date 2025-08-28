@@ -1,0 +1,26 @@
+{
+  "date": "2015-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I discovered that one of your employees embellished his resume."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's outrageous!",
+        "Fire him for lying to me!",
+        "I'm talking about the version he updated today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It says he accomplished things while working for you.",
+        "That doesn't sound right."
+      ]
+    }
+  ]
+}

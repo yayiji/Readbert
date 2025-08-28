@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been mentoring Wally for over a week and he's still useless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we need to promote him to vice president so it looks as if my mentoring works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That might be a bad idea in the long run.",
+        "What is this \"long run\" people keep harping about?"
+      ]
+    }
+  ]
+}

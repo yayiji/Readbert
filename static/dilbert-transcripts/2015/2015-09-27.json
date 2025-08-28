@@ -1,0 +1,54 @@
+{
+  "date": "2015-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Revenue is dropping, but don't panic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have a new strategy that will fix everything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you know it's a good strategy?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can tell by looking at it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why don't all failing companies create great new strategies and become profitable?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hmmm. Good question."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe it's because no one can tell a good strategy from a bad one, but acting like you know the difference gets you a bigger paycheck."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I just need buy-in for the strategy.",
+        "If you give me a raise, I can pretend to know it's good."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any investment tips?",
+        "You're asking the right person!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can teach you how to time the market, catch a falling knife, and invest in a dead-cat bounce. That's my system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about diversification?",
+        "I don't invest in anything I can't spell."
+      ]
+    }
+  ]
+}

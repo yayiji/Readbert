@@ -1,0 +1,26 @@
+{
+  "date": "2015-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government will never find me off the grid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He went off the grid.",
+        "Problem solved.",
+        "The boredom will kill him in two days."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looking at a stick.",
+        "Still looking at a stick."
+      ]
+    }
+  ]
+}

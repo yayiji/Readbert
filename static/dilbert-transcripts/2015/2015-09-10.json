@@ -1,0 +1,25 @@
+{
+  "date": "2015-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you teach me to be a success?",
+        "Yes, obviously."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop everything you're doing now because it clearly isn't working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's it?",
+        "Understanding the problem is half the solution."
+      ]
+    }
+  ]
+}

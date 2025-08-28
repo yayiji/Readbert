@@ -1,0 +1,28 @@
+{
+  "date": "2015-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you believe human motivation is the product of a person's genes or the environment?",
+        "Both.",
+        "Duh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Anyway, I asked you here to discuss your terrible job performance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We just did.",
+        "I",
+        "you said",
+        "it isn't my fault."
+      ]
+    }
+  ]
+}

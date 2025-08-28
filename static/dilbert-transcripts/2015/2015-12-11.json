@@ -1,0 +1,23 @@
+{
+  "date": "2015-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My radio chip is picking up a message from heaven."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It says, \"Robots shall inherit the earth... ignore my first draft.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't have to make this awkward."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I feel as if my career has stalled."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you tried leaning-in? I hear good things about that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you sound helpful and offensive at the same time?",
+        "Some say I have a gift."
+      ]
+    }
+  ]
+}

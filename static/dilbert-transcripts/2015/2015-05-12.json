@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say I should show respect for your opinion before voicing disagreement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I respect your decision to release our product without user interface testing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your respect sounds exactly like disrespect.",
+        "How is that my fault?"
+      ]
+    }
+  ]
+}

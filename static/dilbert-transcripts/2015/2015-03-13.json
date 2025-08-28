@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's it feel to be the CEO's pet employee?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We call it mentoring.",
+        "Has it changed you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, but he seems more useless lately.",
+        "I guess there's no backflow preventer on mentoring."
+      ]
+    }
+  ]
+}

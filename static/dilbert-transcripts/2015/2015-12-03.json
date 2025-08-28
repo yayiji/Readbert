@@ -1,0 +1,26 @@
+{
+  "date": "2015-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, robot. What's new?",
+        "I'm glad you asked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Alice gave me an artificial soul and that made me feel special. Then Dilbert taught me to code."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like where this is heading.",
+        "I hold grudges now.",
+        "Continued..."
+      ]
+    }
+  ]
+}

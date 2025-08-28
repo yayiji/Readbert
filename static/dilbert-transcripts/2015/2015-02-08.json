@@ -1,0 +1,53 @@
+{
+  "date": "2015-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I create my own job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hear people do that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They figure out what they are good at and then they create a job around it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm more of a strategic thinker than a worker bee."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My job could be to attend meetings and say strategic things."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And, of course, I would have no time to respond to email because I'd be busy being strategic."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It feels as if you want a job that doesn't involve work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would you trust a strategic thinker who can't solve his own problems?"
+      ]
+    }
+  ]
+}

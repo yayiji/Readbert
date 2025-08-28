@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new thing is taking long walks instead of having meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow. It is hard to walk, read, think, talk, and drink coffee at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He fell off a bridge.",
+        "That's why I schedule walking meetings for him."
+      ]
+    }
+  ]
+}

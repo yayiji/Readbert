@@ -1,0 +1,58 @@
+{
+  "date": "2015-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can only give you a 3% raise. If you want more, take it up with our CEO."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to explain why I deserve more than a 3% raise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As a negotiating strategy, Dogbert will simultaneously read a media report about your lavish $85 million mansion."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I invented three new technologies this year.",
+        "The toilets are solid gold."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I wrote most of the code for our main product.",
+        "The helicopter pad is on the roof of the car museum."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I worked eighty hours per week.",
+        "Every elevator has a full kitchen."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I could earn more at Google or Apple.",
+        "Entire house rotates for optimal sun exposure."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you see where I'm going with this?",
+        "High-five?"
+      ]
+    }
+  ]
+}

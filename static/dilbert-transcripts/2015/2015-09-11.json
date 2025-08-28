@@ -1,0 +1,23 @@
+{
+  "date": "2015-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea for a start-up company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I need is a seed investor and an engineer to do all the work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I believe the economic term for what you have is \"nothing.\""
+      ]
+    }
+  ]
+}

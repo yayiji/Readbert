@@ -1,0 +1,26 @@
+{
+  "date": "2015-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our employee wellness site lists stress as a medical problem.",
+        "And working here causes stress."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many of them took paid medical leave?",
+        "It's just you now.",
+        "I'm packed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2015-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just saw your net worth on the internet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's this meeting about anyway?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's about keeping expenses down."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "More for you?",
+        "That's not the spin I was going to put on it."
+      ]
+    }
+  ]
+}

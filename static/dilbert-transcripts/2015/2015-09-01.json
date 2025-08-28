@@ -1,0 +1,25 @@
+{
+  "date": "2015-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our plan is to use robots for all the jobs that are dangerous or demeaning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one cares if a robot gets ripped to shreds in an industrial accident.",
+        "Eh?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we cool?",
+        "I'm cool, but you're going to be room temperature."
+      ]
+    }
+  ]
+}

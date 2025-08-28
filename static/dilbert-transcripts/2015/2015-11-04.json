@@ -1,0 +1,24 @@
+{
+  "date": "2015-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's it like to never feel the satisfaction of a job well done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's even better than you'd think!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We might not be on the same page here.",
+        "I hope your page feels as good as mine."
+      ]
+    }
+  ]
+}

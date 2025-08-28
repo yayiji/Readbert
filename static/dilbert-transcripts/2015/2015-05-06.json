@@ -1,0 +1,30 @@
+{
+  "date": "2015-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I double my productivity, will you double my pay?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but it might increase my bonus.",
+        "I so go ahead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's forget I brought it up."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You just earned a \"lazy\" on your next review."
+      ]
+    }
+  ]
+}

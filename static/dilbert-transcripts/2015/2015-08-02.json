@@ -1,0 +1,55 @@
+{
+  "date": "2015-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need a tagline for our new product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It should be no more than three words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It should convey an emotion."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And it should clearly explain everything the product does."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In three words?",
+        "I didn't say it would be easy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Nike accomplished all of that with \"Just do it.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Did they? Because that seems like a generic thing you can say in any situation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Just do it!",
+        "How about \"Keep doing it\"? Is that one taken?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I insulted our boss and he didn't react."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The precedent has been set.",
+        "I plan to test the limits of this unexpected employee benefit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's up, idiot?",
+        "Must... not fire... good engineers."
+      ]
+    }
+  ]
+}

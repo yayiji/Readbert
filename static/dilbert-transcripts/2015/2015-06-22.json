@@ -1,0 +1,23 @@
+{
+  "date": "2015-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made no progress on your project because I was waiting to ask you some questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could have emailed me, or texted me, or stopped by my desk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not that invested in your success."
+      ]
+    }
+  ]
+}

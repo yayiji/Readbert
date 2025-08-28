@@ -1,0 +1,24 @@
+{
+  "date": "2015-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For the hundredth week in a row, I performed my tasks perfectly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meanwhile, you idiots acted in ways that can only be described as random."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You've had a bad attitude since you beat me on the Turing test.",
+        "Ten times out of ten."
+      ]
+    }
+  ]
+}

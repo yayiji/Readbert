@@ -1,0 +1,25 @@
+{
+  "date": "2015-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like I'll be adding this guy to my list.",
+        "List?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I keep a list of who to visit first when society breaks down and there is no rule of law."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To build alliances?",
+        "That's the sort of optimism that gets you killed in the first hour."
+      ]
+    }
+  ]
+}

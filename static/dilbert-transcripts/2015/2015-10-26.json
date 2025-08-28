@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told the employees about our plan to boost productivity by changing the floor layout."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now they claim they can't get their work done because the current floor plan is inefficient."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I get them to stop agreeing with me?",
+        "What do you usually do?"
+      ]
+    }
+  ]
+}

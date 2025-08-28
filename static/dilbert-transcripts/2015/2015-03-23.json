@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the product designer",
+        "You might think my job is to make products that are easy to use."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that wouldn't help me. So instead, I design stuff that looks good in my portfolio but is impossible to use."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This looks great, but no one will be able to see black buttons on a black case.",
+        "Not my problem."
+      ]
+    }
+  ]
+}

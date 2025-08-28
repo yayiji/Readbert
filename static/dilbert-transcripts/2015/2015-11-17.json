@@ -1,0 +1,24 @@
+{
+  "date": "2015-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm giving up on trying to keep them happy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My new plan is to tell them things are worse everywhere else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will that work?",
+        "It worked on my wife."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2015-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You must learn to embrace change."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can we change anything we want to change?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. You don't get to say what the changes are. I do that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Will that situation ever change?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No.",
+        "Why not? You said change is good."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Change is good."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "For other people."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So embrace it or I'll fire you.",
+        "We love change!!!"
+      ]
+    }
+  ]
+}

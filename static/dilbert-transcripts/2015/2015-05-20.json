@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you head to your horrible job, remember these inspirational words..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the long run, we're all dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels like an over-simplification.",
+        "I skipped the part where you suffer for 90 years."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I only slept three hours last night.",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used kung fu to divert an asteroid that was on a collision course with earth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Topping needs to be in the same category!",
+        "Only if you're bad at it!",
+        "Hoo-ha!"
+      ]
+    }
+  ]
+}

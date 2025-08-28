@@ -1,0 +1,24 @@
+{
+  "date": "2015-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The board is getting on me for not having a succession plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Find me a loser who is so incompetent that the board won't want to fire me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's an honor to even be considered!",
+        "I was going to say that!"
+      ]
+    }
+  ]
+}
