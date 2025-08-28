@@ -1,0 +1,23 @@
+{
+  "date": "2012-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, you must be the cash cow I keep hearing about."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must be making cash right now!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't work every time."
+      ]
+    }
+  ]
+}

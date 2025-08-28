@@ -1,0 +1,51 @@
+{
+  "date": "2012-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a decision on this by end of business today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which option do you recommend?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nice try, but I'm not falling for it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're trying to set me up to take the blame later."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I want to hear you make a decision, and I'm going to record it on my phone so you don't later deny it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Talk, you evil monster! Talk!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "All I know for sure is that the other approach wasn't going to work either."
+      ]
+    }
+  ]
+}

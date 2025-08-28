@@ -1,0 +1,24 @@
+{
+  "date": "2012-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The court ordered us to turn over all of our internal emails."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you ever mentioned in email that our products are known to be dangerous but we don't care?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't even know what products we make.",
+        "That's a good defense. We might need that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your free app is stealing my personal information. I'd like to lodge a complaint."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Buy our monthly subscription package or I'll send your browser history to your contacts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's your app doing?",
+        "It practically sells itself."
+      ]
+    }
+  ]
+}

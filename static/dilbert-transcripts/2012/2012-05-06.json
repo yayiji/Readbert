@@ -1,0 +1,54 @@
+{
+  "date": "2012-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did we do at the trade show?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We had a huge crowd around our booth the entire time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But it was just the spillover from the popular booth next to us."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The only person who asked for our brochure used it to kill a spider."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Some guy tried to steal our extra chair and then Alice beat him senseless with our logo sign."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "A video of the incident is already on YouTube."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It cost us $200,000 to be an exhibitor and we gained zero new customers."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So it was just like the last eleven years.",
+        "I feel good about next year!"
+      ]
+    }
+  ]
+}

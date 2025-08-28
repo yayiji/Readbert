@@ -1,0 +1,23 @@
+{
+  "date": "2012-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news: I signed up to receive a free leadership newsletter by email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know it's good because it's written by some guy who used to have a job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop making everything I say sound stupid!"
+      ]
+    }
+  ]
+}

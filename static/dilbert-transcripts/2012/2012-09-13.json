@@ -1,0 +1,26 @@
+{
+  "date": "2012-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did some insider trading and totally got away with it.",
+        "It felt great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was a victimless crime so I feel no guilt whatsoever.",
+        "Do you know what victimless means?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes. It's like the time I strangled my gardener for over-watering the rose bushes.",
+        "I see the problem."
+      ]
+    }
+  ]
+}

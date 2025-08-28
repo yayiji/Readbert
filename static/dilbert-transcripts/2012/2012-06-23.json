@@ -1,0 +1,25 @@
+{
+  "date": "2012-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the fraudulent analysis you requested to support the decision you already made."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a total betrayal of shareholders and a slap in the face for anyone who values rational behavior."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks.",
+        "That's exactly what I wanted.",
+        "You're welcome."
+      ]
+    }
+  ]
+}

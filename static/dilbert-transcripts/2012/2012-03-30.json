@@ -1,0 +1,24 @@
+{
+  "date": "2012-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been reading our bereavement policy and I found a problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I get three days off if my husband eats nothing but unhealthy food and dies young. And I'm the one who does our grocery shopping."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a conflict of interest.",
+        "I'm glad I'm not the only one who sees it."
+      ]
+    }
+  ]
+}

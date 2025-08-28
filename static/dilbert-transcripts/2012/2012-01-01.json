@@ -1,0 +1,54 @@
+{
+  "date": "2012-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been selected for our executive development program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means we can make you relocate to any godforsaken dirt stain we want."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As soon as you make friends or find romance, we'll move you to someplace new and worse."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It won't be the sort of work you'll enjoy, and the stress might kill you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you turn down this opportunity, the company will forever label you as a loser."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you accept the offer, the company will train you to find pleasure in the discomfort of your underlings."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm doing it right now!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hate my life!!!",
+        "Yes, yes. Say more."
+      ]
+    }
+  ]
+}

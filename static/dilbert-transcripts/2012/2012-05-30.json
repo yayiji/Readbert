@@ -1,0 +1,25 @@
+{
+  "date": "2012-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you come to my meeting at 8 am tomorrow?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I reserve the first few hours of every morning for useful work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels like an insult.",
+        "I call it good time management. There's a lot of overlap."
+      ]
+    }
+  ]
+}

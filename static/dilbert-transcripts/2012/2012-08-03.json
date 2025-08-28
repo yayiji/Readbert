@@ -1,0 +1,23 @@
+{
+  "date": "2012-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll finish this project even if we have to work all night!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I just did my job of inspiring you, so I might as well go home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you like our clearly defined roles now?"
+      ]
+    }
+  ]
+}

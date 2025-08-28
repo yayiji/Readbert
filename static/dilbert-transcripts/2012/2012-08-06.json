@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to do business with your company but..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm concerned that the only beverage you can afford to offer me is water from the restroom sink... and I need to bring my own cup."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also offered to fill the sink and let you lap it out.",
+        "And now I'm thirsty!"
+      ]
+    }
+  ]
+}

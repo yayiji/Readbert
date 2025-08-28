@@ -1,0 +1,23 @@
+{
+  "date": "2012-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What would you say is your biggest fault?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to sneak into people's cubicles and go through their drawers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also tell the truth. It's not a good combination."
+      ]
+    }
+  ]
+}

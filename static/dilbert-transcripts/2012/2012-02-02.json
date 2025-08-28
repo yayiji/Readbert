@@ -1,0 +1,25 @@
+{
+  "date": "2012-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're just getting here?",
+        "It's zero degrees and the roads are all ice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I drank six cups of coffee before leaving the house and sat in traffic for two hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're three hours late.",
+        "I spent the last hour stuck to a guardrail."
+      ]
+    }
+  ]
+}

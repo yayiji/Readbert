@@ -1,0 +1,25 @@
+{
+  "date": "2012-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you the new unpaid intern?",
+        "No, but that's what I aspire to be."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm merely an intern to another intern. And I pay a resort fee just to use the restroom."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least you get valuable work experience.",
+        "Until he zips the eyeholes on the leather hood I wear in meetings."
+      ]
+    }
+  ]
+}

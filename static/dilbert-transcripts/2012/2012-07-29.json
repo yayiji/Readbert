@@ -1,0 +1,54 @@
+{
+  "date": "2012-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Consultants say three quintillion bytes of data are created every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It comes from everywhere. It knows all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "According to the book of Wikipedia, its name is \"Big Data.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Big data lives in the cloud. It knows what we do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In the past, our company did many evil things."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But if we accept big data in our servers, we will be saved from bankruptcy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let us pay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it too late to side with evil?",
+        "Shhhh! It hears you."
+      ]
+    }
+  ]
+}

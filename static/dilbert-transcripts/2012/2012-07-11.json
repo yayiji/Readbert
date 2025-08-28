@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wrote a social media app that can tell me how many friends other people have."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zero friends...",
+        "75 acquaintances...",
+        "One nemesis...nine online stalking victims..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you double-counting my stalking victims? Some of them are also acquaintances."
+      ]
+    }
+  ]
+}

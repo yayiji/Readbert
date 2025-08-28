@@ -1,0 +1,26 @@
+{
+  "date": "2012-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to manage our Elbonian contract programmers.",
+        "You'll need to work at night because of the time difference."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People who work at night have more heart attacks.",
+        "Are you trying to kill me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, and it's totally legal.",
+        "Well played."
+      ]
+    }
+  ]
+}

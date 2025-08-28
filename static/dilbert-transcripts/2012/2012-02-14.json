@@ -1,0 +1,26 @@
+{
+  "date": "2012-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My brain reader invention allows me to control any nearby computer.",
+        "That's nothing! My phone can..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mmmm mmm",
+        "Pow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I did that with my mind.",
+        "That's nothing! I made you do it!"
+      ]
+    }
+  ]
+}

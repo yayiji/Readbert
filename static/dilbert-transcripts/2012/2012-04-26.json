@@ -1,0 +1,27 @@
+{
+  "date": "2012-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Alice, do you have...",
+        "She can't hear you.",
+        "She's walking and texting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's it... easy does it.",
+        "I'll guide you around this obstacle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did I just see?",
+        "I'm saving up for a service monkey."
+      ]
+    }
+  ]
+}

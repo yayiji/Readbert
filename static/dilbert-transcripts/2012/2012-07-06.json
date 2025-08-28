@@ -1,0 +1,24 @@
+{
+  "date": "2012-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What we need is an overarching strategy to stimulate our innovation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or you could stop smothering the innovation we already have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the dumbest idea I've heard in my entire life.",
+        "And there it is."
+      ]
+    }
+  ]
+}

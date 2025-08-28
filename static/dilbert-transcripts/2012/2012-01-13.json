@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because the Elbonian debt crisis has created economic uncertainty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily for us, our board of directors granted our CEO more stock options so he won't leave during uncertain times."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What happens when the uncertainty ends?",
+        "Then he'll exercise his stock options."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company lawyer",
+        "I've been asked to settle your claim of discrimination against the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your complaint is that they discriminate against you for being short, bald, and nearsighted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might have a conflict of interest, but my final offer is one billion dollars.",
+        "Plus a statue and an apology."
+      ]
+    }
+  ]
+}

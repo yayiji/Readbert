@@ -1,0 +1,26 @@
+{
+  "date": "2012-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My contributions can't be measured by the number of hours I work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a man of ideas.",
+        "One great idea is worth more than all of you put together."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fine.",
+        "Let's hear your great idea.",
+        "You just did."
+      ]
+    }
+  ]
+}

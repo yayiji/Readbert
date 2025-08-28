@@ -1,0 +1,25 @@
+{
+  "date": "2012-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I expected you to quit after you got your billion-dollar discrimination settlement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just because I'm lazy and unscrupulous, why would you assume I'm also a quitter?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I...",
+        "Um...",
+        "I don't know how you look at yourself in the mirror."
+      ]
+    }
+  ]
+}

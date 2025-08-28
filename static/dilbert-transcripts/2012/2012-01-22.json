@@ -1,0 +1,58 @@
+{
+  "date": "2012-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert's tech support. How may I abuse you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think my digital modem is broken."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please hold while I pretend to be testing it.",
+        "Okay, it looks fine from here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The problem must be in your wiring."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll have to rip out all of the wiring in your entire house to locate the problem."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Are you sure?",
+        "Because the lights on the modem aren't even on."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That means you have moisture on your internal wiring.",
+        "You'll also need to replace all of your plumbing and get a new roof."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "May I speak with your supervisor?",
+        "Sure.",
+        "But he sounds exactly like me."
+      ]
+    }
+  ]
+}

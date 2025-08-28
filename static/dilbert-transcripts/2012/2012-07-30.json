@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our stock is down 49% and we have no innovative products in the pipeline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slash the R&D budget, fire 9,000 employees, and buy a sexy startup company that we can run into the ground.",
+        "We did all of that last year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I already tell the employees to work smarter?",
+        "Yes. They thought you were being ironic."
+      ]
+    }
+  ]
+}

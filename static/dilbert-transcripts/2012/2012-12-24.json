@@ -1,0 +1,24 @@
+{
+  "date": "2012-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert ad company to build some deceptive and abusive ads for our mobile app."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I prefer to call our ads \"effective.\"",
+        "It means the same thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our most effective ad looks like a text message from your doctor saying he can't stop crying."
+      ]
+    }
+  ]
+}

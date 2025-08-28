@@ -1,0 +1,30 @@
+{
+  "date": "2012-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought a foreclosed house for $500.",
+        "I plan to flip it for a profit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did the disclosures have any red flags?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They claim there's a lot of mold and unexploded ordnance."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I don't see how either of those things could have survived the urine from the crack squatters."
+      ]
+    }
+  ]
+}

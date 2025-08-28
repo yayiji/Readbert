@@ -1,0 +1,55 @@
+{
+  "date": "2012-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's meet before the project meeting to go over a few things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nice try."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We chronically late people know when we're being played."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your pre-meeting is a trick to get me to show up on time for the real meeting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But that won't work because poor planning isn't the cause of my chronic lateness."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I make people wait for me because I enjoy the power and I don't care about anyone's feelings."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine. I'll see you at the project meeting at ten."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Nice try. I know the meeting is at 10:30.",
+        "How do you keep a job?",
+        "That attitude is exactly why I don't like people."
+      ]
+    }
+  ]
+}

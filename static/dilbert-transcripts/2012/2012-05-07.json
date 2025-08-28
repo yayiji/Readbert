@@ -1,0 +1,23 @@
+{
+  "date": "2012-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We interviewed hundreds of users and turned all of their suggestions into features."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As it turns out, every user we talked to was an idiot, and their dumb suggestions ruined our product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In hindsight, we probably should have talked to people who work outside this building."
+      ]
+    }
+  ]
+}

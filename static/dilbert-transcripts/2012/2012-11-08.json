@@ -1,0 +1,25 @@
+{
+  "date": "2012-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a filter that can turn raw sewage into pure drinking water in seconds."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Glug",
+        "Glug",
+        "Glug"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The clean water ends up here in the upper container."
+      ]
+    }
+  ]
+}

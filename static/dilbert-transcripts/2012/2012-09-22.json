@@ -1,0 +1,24 @@
+{
+  "date": "2012-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It was a great book. I'll loan you the paperback."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks. I love it when other people decide how I'll spend my free time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell when you're kidding.",
+        "Paperbacks are awesome. I'm a big fan of clutter."
+      ]
+    }
+  ]
+}

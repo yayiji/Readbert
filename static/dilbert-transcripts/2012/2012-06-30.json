@@ -1,0 +1,24 @@
+{
+  "date": "2012-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a patent troll, but you can call me a non-practicing entity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a huge fee, I will use my patents to thwart the companies that are trying to thwart you with their own patents."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Together we can strangle innovation and plunge civilization into the dark ages!",
+        "That would even the playing field."
+      ]
+    }
+  ]
+}

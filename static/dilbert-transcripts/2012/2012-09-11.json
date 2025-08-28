@@ -1,0 +1,24 @@
+{
+  "date": "2012-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you selected a remora for your visit to the trade show?",
+        "What's a remora?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A remora is a fish that suctions to the back of a larger marine animal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's not comfortable in crowds, but he's freakishly persuasive."
+      ]
+    }
+  ]
+}

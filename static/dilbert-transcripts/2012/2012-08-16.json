@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Google has offered to buy our company for $100 million just to get our engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I agreed to the deal because I'm a modern day slave trader who believes engineers are property and the rest of you have no economic value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who wrote my speech?",
+        "Someone with no economic value."
+      ]
+    }
+  ]
+}

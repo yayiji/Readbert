@@ -1,0 +1,25 @@
+{
+  "date": "2012-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're consolidating our marketing into a shared services model.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Change creates the illusion that we have a strategy while giving our CEO an excuse to fire a VP who beat him at golf."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And blah, blah, something about money.",
+        "Must... not... cry... on the outside."
+      ]
+    }
+  ]
+}

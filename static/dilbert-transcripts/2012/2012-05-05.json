@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, Dilbert, what else are you working on lately?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd rather not say because you have a habit of misinterpreting everything you hear and then bad-mouthing it later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He basically said he's too paranoid to talk to people.",
+        "He sounds crazy."
+      ]
+    }
+  ]
+}

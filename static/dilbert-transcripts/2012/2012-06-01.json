@@ -1,0 +1,25 @@
+{
+  "date": "2012-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Feng Shui consultant you asked for is overbooked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I found a guy who is heavily into astrology, black magic, and voodoo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you trying to tell me something?",
+        "Ask him.",
+        "He's also psychic."
+      ]
+    }
+  ]
+}

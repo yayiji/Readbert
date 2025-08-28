@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want me to put the chart on one page, which would make the text too small for your audience to see?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or do you prefer a multiple-page approach that is confusing and unpersuasive?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's probably better if no one can read it.",
+        "I won't bother using real words."
+      ]
+    }
+  ]
+}

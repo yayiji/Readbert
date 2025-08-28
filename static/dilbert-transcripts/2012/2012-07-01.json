@@ -1,0 +1,53 @@
+{
+  "date": "2012-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know. We've worked together for years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And it still sounds awesome when I say it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Anyway, I upgraded our network security to include facial recognition."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your temporary password is this face."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You'll need extensive plastic surgery to log on the first time."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You've gone too far, Mordac! I will escalate this!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wish we'd had this conversation a week ago."
+      ]
+    }
+  ]
+}

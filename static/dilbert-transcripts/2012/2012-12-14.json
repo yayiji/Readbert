@@ -1,0 +1,27 @@
+{
+  "date": "2012-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's see what's on my \"to do\" list for today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Useless meeting...",
+        "Busywork...",
+        "Make misleading power-point slides...",
+        "And another useless meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your productivity today?",
+        "I know you're mocking me."
+      ]
+    }
+  ]
+}

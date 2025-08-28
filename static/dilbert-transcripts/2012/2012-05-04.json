@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a tazer that looks exactly like a cellphone.",
+        "Cool! Can I see it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa-a-a-a-a-a-a-"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I left it on our boss's desk, but it sounds like he's done with it."
+      ]
+    }
+  ]
+}

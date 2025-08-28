@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going into the smartphone business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Smartphones are basically gadgets, and we already make gadgets, so how hard could it be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you strangle me now, I promise I won't resist.",
+        "That sounds lazy."
+      ]
+    }
+  ]
+}

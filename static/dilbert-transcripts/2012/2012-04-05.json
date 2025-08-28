@@ -1,0 +1,26 @@
+{
+  "date": "2012-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Want some free software?",
+        "What's it do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All it does is beg you for upgrades.",
+        "And if you upgrade, then it begs you to upgrade again and so on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And it makes all of your other software run slow.",
+        "And it's free?"
+      ]
+    }
+  ]
+}

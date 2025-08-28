@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My phone is like a time machine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can fast-forward through the boring parts of life by playing with it.",
+        "Hand it over."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Time flies when I'm not having fun.",
+        "Toss"
+      ]
+    }
+  ]
+}

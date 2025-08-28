@@ -1,0 +1,26 @@
+{
+  "date": "2012-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's retirement planning service",
+        "Your only hope for survival is if..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A nearsighted billionaire offers to hunt you on his private island.",
+        "Does that job pay well?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's more of a foraging situation.",
+        "Must... adjust expectations... down."
+      ]
+    }
+  ]
+}

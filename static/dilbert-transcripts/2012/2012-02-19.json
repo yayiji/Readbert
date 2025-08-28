@@ -1,0 +1,53 @@
+{
+  "date": "2012-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've decided to charge customers for features they currently get for free."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... have you considered how our customers might react?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obviously."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'd like to hear how that reasoning process went."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Fine."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Customers love us and they will put up with anything we dish out."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... it's sort of an abusive relationship?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Not yet, but we're trying to move in that direction."
+      ]
+    }
+  ]
+}

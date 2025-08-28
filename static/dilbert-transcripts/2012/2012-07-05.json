@@ -1,0 +1,26 @@
+{
+  "date": "2012-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't start.",
+        "I'm late for the mandatory coffee safety training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd better run."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hunh!",
+        "Trip",
+        "I can't tell what's real anymore."
+      ]
+    }
+  ]
+}

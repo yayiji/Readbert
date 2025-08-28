@@ -1,0 +1,26 @@
+{
+  "date": "2012-02-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I have a quick question.",
+        "Hold it. Stop right there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only collaborate online, where there's less risk of some angry nut job slapping me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the dumbest thing...",
+        "Gaaa!",
+        "\\||/"
+      ]
+    }
+  ]
+}

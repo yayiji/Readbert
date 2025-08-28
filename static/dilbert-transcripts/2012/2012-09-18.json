@@ -1,0 +1,24 @@
+{
+  "date": "2012-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "But enough about me. How can I help you achieve your career goals?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could work 80 hours a week for below-market compensation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I did not see that coming.",
+        "Good. I need employees who can't see it coming. You're hired."
+      ]
+    }
+  ]
+}

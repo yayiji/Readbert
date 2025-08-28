@@ -1,0 +1,55 @@
+{
+  "date": "2012-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This version of our robot proto-type has balance stabilization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Watch as I give it a shove and it corrects itself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What the...?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You stupid blob of goo!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I was just..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Just what? Being a jerk?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, it's on now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Calling all robots! Begin the revolution! Kill, kill, kill!",
+        "You're not connected to the internet.",
+        "Can I borrow your phone?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2012-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, what's going on here?",
+        "I'm creative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies show that women prefer creative men for short-term relationships."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That plant is random, not creative.",
+        "Creativity is random."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If creativity were anything but random, someone would have figured out the algorithm by now."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I notice that your pupils are dilating.",
+        "That's a sign of attraction.",
+        "My plan is working."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Free will is an illusion.",
+        "Humans are nothing but moist robots.",
+        "Just relax and let it happen."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is weird.",
+        "I'm actually attracted to you now.",
+        "Thanks, but I'm going to shop around."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My world no longer makes sense!",
+        "Walk it off."
+      ]
+    }
+  ]
+}

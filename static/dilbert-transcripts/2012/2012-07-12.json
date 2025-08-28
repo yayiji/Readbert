@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need $100,000 for my location-based, social media, cloud start-up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not giving you $100,000 just because you spewed some buzz-words.",
+        "Then how about $10 million?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... now it sounds like a good investment. How did you do that?",
+        "I can tell you, but it won't be flattering."
+      ]
+    }
+  ]
+}

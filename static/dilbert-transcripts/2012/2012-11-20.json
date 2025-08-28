@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Persistence is the key to success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The other key to success is knowing when to quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your advice is contradictory nonsense.",
+        "Because flexibility is the key to success."
+      ]
+    }
+  ]
+}

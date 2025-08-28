@@ -1,0 +1,23 @@
+{
+  "date": "2012-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished your performance review."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Terrific. It's nine months late and all you did was sign what I wrote."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I also read it, but I'm not 100% positive."
+      ]
+    }
+  ]
+}

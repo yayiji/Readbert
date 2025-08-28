@@ -1,0 +1,25 @@
+{
+  "date": "2012-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss asked me to attend your presentation on his behalf."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I should warn you that I'm not authorized to make decisions, and I take poor notes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay.",
+        "Let's begin wasting our time!",
+        "I'm not even sure I'm in the right meeting."
+      ]
+    }
+  ]
+}

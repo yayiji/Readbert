@@ -1,0 +1,53 @@
+{
+  "date": "2012-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That restaurant was great."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know. I plan to go there someday for lunch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We just ate lunch.",
+        "That wasn't lunch."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It wasn't?",
+        "You talked about work the entire time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Lunch is not defined by food. It's defined by freedom from tyranny."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My lunch hour will begin the minute you waddle away."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Was this going well until I said \"waddle\"?"
+      ]
+    }
+  ]
+}

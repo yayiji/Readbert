@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll manage your portfolio for a standard industry fee of 1% per year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm investing a billion dollars.",
+        "Your fee would be $10 million per year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Those index funds aren't going to pick themselves."
+      ]
+    }
+  ]
+}

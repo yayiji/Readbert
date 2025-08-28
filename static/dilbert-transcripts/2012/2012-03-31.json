@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent four months creating this app, Mom.",
+        "I think I can sell a million of them for $3.99."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I saw seven apps just like this in the app store and five of them were free."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks for the feedback, dream-killer.",
+        "Have you ever thought of just using your first name, like Madonna?"
+      ]
+    }
+  ]
+}

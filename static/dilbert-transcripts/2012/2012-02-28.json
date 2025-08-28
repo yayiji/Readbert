@@ -1,0 +1,24 @@
+{
+  "date": "2012-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm designing a suite of internet collaboration tools."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's part of my long-term goal to eliminate all forms of direct human contact."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's messed up.",
+        "You're exactly what I'm trying to avoid."
+      ]
+    }
+  ]
+}

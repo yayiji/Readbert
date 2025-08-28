@@ -1,0 +1,26 @@
+{
+  "date": "2012-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to bury some top secret proprietary documents in the woods for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mmm",
+        "Mmph"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Come back in ten minutes.",
+        "Mmm",
+        "Mmph"
+      ]
+    }
+  ]
+}

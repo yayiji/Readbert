@@ -1,0 +1,25 @@
+{
+  "date": "2012-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new product violates 73 Google patents, 14 Apple patents, 52 Oracle patents, and 37 Microsoft patents."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is no hope.",
+        "I recommend that we close the company and become farmers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need a lawyer with more fight in him.",
+        "I'm off the grid."
+      ]
+    }
+  ]
+}

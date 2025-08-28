@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's a good time to get together and discuss my project?",
+        "Never."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every interaction I've had with you has been a waste of time. I have no reason to think it will be different in the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sheesh! How did civility die?",
+        "Maybe you invited it to a meeting."
+      ]
+    }
+  ]
+}

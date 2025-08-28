@@ -1,0 +1,25 @@
+{
+  "date": "2012-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to work from home for two days per week to reduce our carbon footprint.",
+        "Nooooo!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My wife and three small children are in that house. They're always mean to me.",
+        "How bad could it be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me put it this way: I'm sitting in an egg carton and talking to a moron, and this is better."
+      ]
+    }
+  ]
+}

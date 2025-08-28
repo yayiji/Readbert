@@ -1,0 +1,51 @@
+{
+  "date": "2012-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People always try to take advantage of me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know what you mean."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I lost five pounds and my husband didn't notice!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I came home last night and he hadn't even cleaned the garage like he promised."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I had to park on the street!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is it my imagination, or have you found a clever way to make people pay to listen to you complain?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Tell me more about how you think I'm clever."
+      ]
+    }
+  ]
+}

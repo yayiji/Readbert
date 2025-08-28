@@ -1,0 +1,26 @@
+{
+  "date": "2012-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you flew to Vegas and played Pai Gow all weekend.",
+        "Go away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a difficult game to learn after having a few adult beverages.",
+        "Drop dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd you do?",
+        "Leave me alone!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Google offered to buy our company for $100 million just to get our engineers!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Huh. I wonder if I can convince the other engineers to jump ship today and share $100 million amongst us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did he just say?",
+        "Nothing. Just thinking out loud."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How are you doing on your unspoken objectives?",
+        "My what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm referring to the goals I have in my mind that I've never mentioned."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How are those going?",
+        "I'm totally nailing them."
+      ]
+    }
+  ]
+}

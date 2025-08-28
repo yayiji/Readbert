@@ -1,0 +1,62 @@
+{
+  "date": "2012-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, this is tech support.",
+        "May I close your ticket now?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... no.",
+        "You haven't helped me yet.",
+        "I just called you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not evaluated on how helpful I am.",
+        "I'm evaluated on how many trouble tickets I close."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your stubbornness is becoming an obstacle to my financial success."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "By the way, if our call gets disconnected, I count that as a closed ticket."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll make it quick.",
+        "What?",
+        "What?",
+        "I can't hear you.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Son of a beach ball!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "On the plus side,",
+        "my goal of hating one new stranger every day is right on track."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to promote from within."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only downside is that picking from a smaller pool of candidates will make us less capable than our competitors and lead the company to ruination."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want that?",
+        "I see what you're doing."
+      ]
+    }
+  ]
+}

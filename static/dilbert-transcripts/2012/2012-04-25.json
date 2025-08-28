@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's hear what Barry learned from our vendors and go from there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't have time to call anyone, but I can speculate about what might have happened if I had."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm curious to see how this will work out for you.",
+        "None of the vendors would have called me back."
+      ]
+    }
+  ]
+}

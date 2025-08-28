@@ -1,0 +1,33 @@
+{
+  "date": "2012-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Venture capitalists gave us $10 million,",
+        "but I had to agree to",
+        "put one of them on",
+        "our board."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I be",
+        "worried that your",
+        "other board members",
+        "have a combined I.Q.",
+        "of about 70?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They weren't dumb",
+        "enough to give me",
+        "$10 million dollars.",
+        "Burn!"
+      ]
+    }
+  ]
+}

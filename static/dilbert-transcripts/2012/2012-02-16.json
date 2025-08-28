@@ -1,0 +1,25 @@
+{
+  "date": "2012-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That was a fast date.",
+        "We were technologically incompatible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Her internet connection is slow, and there's no 4G service where she lives. How could I spend any time there?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could just talk.",
+        "I like to show my sources."
+      ]
+    }
+  ]
+}

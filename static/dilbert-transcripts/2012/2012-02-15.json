@@ -1,0 +1,31 @@
+{
+  "date": "2012-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I played golf at Pebble Beach over the weekend.",
+        "I played that course on Xbox."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's totally different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I used a full spectrum lamp to simulate sunlight."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I got fresh air!",
+        "You should get a house that has windows. They're terrific."
+      ]
+    }
+  ]
+}

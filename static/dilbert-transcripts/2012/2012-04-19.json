@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just noticed your head is huge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I never noticed it before, but now all I see is a parade float made out of pasty skin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Communication is overrated.",
+        "I'm feeling that right now."
+      ]
+    }
+  ]
+}

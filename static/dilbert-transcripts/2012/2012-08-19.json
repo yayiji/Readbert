@@ -1,0 +1,55 @@
+{
+  "date": "2012-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to act more like an entrepreneur."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Entrepreneurs make decisions that will end in failure 90% of the time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They motivate people through bullying, lying, manipulation, and verbal abuse."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Entrepreneurs make their employees work so many hours that their personal lives and their bodies fall apart."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've been doing all of that stuff for years."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Has it worked?",
+        "No."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, in that case, you're not an entrepreneur."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're just a huge jerk.",
+        "Is that why no one is writing my biography?"
+      ]
+    }
+  ]
+}

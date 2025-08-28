@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company opposes passage of the new internet law because it would be bad for our business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that sounds selfish, so we'll issue a press release saying the new law would impinge freedom of speech."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "We're selfish liars?",
+        "You can't get more free than that!"
+      ]
+    }
+  ]
+}

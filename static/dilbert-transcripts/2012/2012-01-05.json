@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've read that smart people make bad decisions because of their hubris."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hubris? What is that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Beats me.",
+        "But obviously I'm a prime candidate to get it."
+      ]
+    }
+  ]
+}

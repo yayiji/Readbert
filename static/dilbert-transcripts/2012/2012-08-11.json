@@ -1,0 +1,30 @@
+{
+  "date": "2012-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know it feels unimportant to be an intern to another intern..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if I ever get into a serious accident then..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would step into your job?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I was going to say your organs will be harvested to save me, but now you've made it feel awkward.",
+        "Sorry!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not trained as an engineer, but I think this diagram might solve your problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh! This is brilliant! It's hard to believe you have no qualifications whatsoever!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that sarcasm?",
+        "Ignorance is underrated!"
+      ]
+    }
+  ]
+}

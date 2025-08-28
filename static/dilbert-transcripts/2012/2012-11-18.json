@@ -1,0 +1,55 @@
+{
+  "date": "2012-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute to answer an engineering question?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My wife is out of town visiting her sister."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She asked me to put up the holiday lights while she was gone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I hired a homeless guy to do it and he fell off the roof.",
+        "What's the easiest way to get rid of the body before my wife comes home?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your question is disturbing, but I'm intrigued by the engineering part."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Here's a design for a catapult you can build at home."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And here's a satellite map showing the best flight path to a neighbor's pool."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did he die right away?",
+        "No, just a broken leg."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's up with the hobo outfit?",
+        "I have a client meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should always dress one level up from the client. He dresses casually to flaunt his success, so I'm dressing even more casually."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. You actually don't know which direction is up.",
+        "This stain is fudge."
+      ]
+    }
+  ]
+}

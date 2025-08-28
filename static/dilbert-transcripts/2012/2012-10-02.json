@@ -1,0 +1,24 @@
+{
+  "date": "2012-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Google offered me a million dollars a year. What's your offer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Work for us and you can change the world!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Change it how?",
+        "By lowering the average pay of engineers."
+      ]
+    }
+  ]
+}

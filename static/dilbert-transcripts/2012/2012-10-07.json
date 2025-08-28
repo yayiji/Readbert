@@ -1,0 +1,55 @@
+{
+  "date": "2012-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to have opinions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But not informed opinions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It takes so much work to get informed that it defeats the whole point of having an opinion in the first place."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What exactly do you think is the \"point\" of having an opinion?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The point is that it feels good."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's totally nuts.",
+        "Oh, is it?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Unless you have hard data to back up that comment, it was nothing but an uninformed opinion that felt good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gaaa!!! You're starting to make sense!",
+        "Your whole life is a lie."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm waiting for people to walk by so I can criticize you in front of others.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want the criticism to sting as much as possible so you'll be incentived to do all the right things in the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess it can wait until the staff meeting.",
+        "That way I can enjoy the anticipation, too."
+      ]
+    }
+  ]
+}

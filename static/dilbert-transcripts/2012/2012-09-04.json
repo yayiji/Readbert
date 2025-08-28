@@ -1,0 +1,24 @@
+{
+  "date": "2012-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have a budget for the network monitoring software you need, so you'll have to write it yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good plan. I'll check back with you when I'm done doing that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your calendar look like in the year 2040?",
+        "Sort of a grid with square boxes."
+      ]
+    }
+  ]
+}

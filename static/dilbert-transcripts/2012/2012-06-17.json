@@ -1,0 +1,58 @@
+{
+  "date": "2012-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reprogrammed our pointy-haired boss' speed dial on his desk phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now every time he tries to use speed dial, it calls his own cellphone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's like an intelligence test.",
+        "I want to see how long it takes him to figure it out."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ring"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'd better take this.",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hello?",
+        "Hello?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hold on.",
+        "Hold on."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "For the hundredth time, don't tell me to hold on! I'm telling you to hold on!",
+        "Twenty minutes so far."
+      ]
+    }
+  ]
+}

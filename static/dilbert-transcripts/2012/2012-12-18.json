@@ -1,0 +1,24 @@
+{
+  "date": "2012-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a second opinion on a job applicant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His name is J.B. Hopper. He dresses in a bunny costume and he's had seventeen jobs in two years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are there any red flags?",
+        "I can't tell if he's passionate or if he has rage issues."
+      ]
+    }
+  ]
+}

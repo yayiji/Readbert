@@ -1,0 +1,55 @@
+{
+  "date": "2012-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop whatever you're doing and go research the answer to this question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have time to work on low-priority tasks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me ten minutes to transform it into an emergency."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Brad is being unhelpful. I need you to talk to his boss.",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Brad refuses to help Alice.",
+        "Help her do what?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't know, but obviously it's very important because it got escalated."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It must be an emergency because everyone is all worked up about it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now hum a happy tune or I'll complain about your attitude."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked every night for a month to come up with a detailed quote for one of our potential customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then those weasels used our quote to get a better price from their regular vendor!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you really do all of that work?",
+        "No, but it nets out the same."
+      ]
+    }
+  ]
+}

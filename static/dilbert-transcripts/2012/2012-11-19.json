@@ -1,0 +1,25 @@
+{
+  "date": "2012-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to have more \"gotcha\" fees.",
+        "That's how airlines make their money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, you could design your product to have a terrible battery life, then sell extra chargers for ten times your cost."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And maybe the chargers could break after two months.",
+        "High five!"
+      ]
+    }
+  ]
+}

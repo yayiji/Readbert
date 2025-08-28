@@ -1,0 +1,23 @@
+{
+  "date": "2012-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And we're going to bet the company on our new software product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While you were talking, Google created that product, gave it away for free, and killed it for lack of interest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it too soon to take back my fake buy-in?"
+      ]
+    }
+  ]
+}

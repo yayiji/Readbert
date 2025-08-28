@@ -1,0 +1,21 @@
+{
+  "date": "2012-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What feedback have other people given you on your idea?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Smart people like it. Everyone else asks me what other people think."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

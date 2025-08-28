@@ -1,0 +1,25 @@
+{
+  "date": "2012-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me why I should hire you as my service monkey, Carl."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I worked as a Starbucks barista for eight years, and my head has been surgically flattened to stabilize your coffee cup."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Impressive.",
+        "This is nothing.",
+        "You should see how well he interviews."
+      ]
+    }
+  ]
+}

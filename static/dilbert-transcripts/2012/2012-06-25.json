@@ -1,0 +1,25 @@
+{
+  "date": "2012-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll get that information to you by Tuesday.",
+        "You seem unreliable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll schedule some time on Wednesday to hound you, and more time on Friday to escalate to your boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you trying to be a jerk?",
+        "I'm experienced. It looks exactly the same."
+      ]
+    }
+  ]
+}

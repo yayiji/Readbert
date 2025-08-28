@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are all the engineers in this meeting squirming when I talk?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did your boss order you to act like team players during this meeting and later thwart me by inaction?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Answer me!",
+        "Squirm",
+        "Squirm"
+      ]
+    }
+  ]
+}

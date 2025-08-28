@@ -1,0 +1,54 @@
+{
+  "date": "2012-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've been asked to cut our budget by 30%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That doesn't make sense.",
+        "We met all of our objectives last year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A different part of our company had a huge loss."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Shouldn't you cut their budget, not ours?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Their budget isn't big enough to make a difference to the bottom line."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So our strategy is to punish success, and reward failure?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Just do your job and leave the strategy to management."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hypothetically, if I do my job poorly, would that be good or bad for me?"
+      ]
+    }
+  ]
+}

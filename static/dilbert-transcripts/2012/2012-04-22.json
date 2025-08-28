@@ -1,0 +1,54 @@
+{
+  "date": "2012-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Any comments on the project plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you consider all of the tasks together, they form a rational plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But our individual tasks are so far removed from the big picture that they are stripped of meaning."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You've managed to remove all sense of purpose from my life."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "On an intellectual level, I understand the benefits of breaking tasks into small chunks."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But you've left me emotionally gutted. As I read your plan, I'm losing my will to live."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can't you find meaning in your personal life?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He's an engineer.",
+        "Now you're just being a jerk."
+      ]
+    }
+  ]
+}

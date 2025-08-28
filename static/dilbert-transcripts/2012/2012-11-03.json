@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show that it takes 10,000 hours of focused practice to become an expert at anything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to your resume, you've only had enough database experience to be an incompetent menace."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many hours have you practiced doing interviews?",
+        "I don't like where this is heading."
+      ]
+    }
+  ]
+}

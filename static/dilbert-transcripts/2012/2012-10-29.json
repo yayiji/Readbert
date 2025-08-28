@@ -1,0 +1,24 @@
+{
+  "date": "2012-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're hiring a director of change management to help employees embrace strategic changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or we could come up with strategies that make sense.",
+        "Then employees would embrace change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds harder."
+      ]
+    }
+  ]
+}

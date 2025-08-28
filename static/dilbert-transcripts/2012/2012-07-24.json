@@ -1,0 +1,24 @@
+{
+  "date": "2012-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When I die, I want my ashes scattered in outer space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cool! I'll bribe an Elbonian general to strap you to their intercontinental missile when they test it next week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's better if the dying and the ash scattering are separate events.",
+        "Don't be a burden on the living."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I moved our email servers to my ancestral home of Transylvania to reduce expenses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You might have heard rumors that all Transylvanians are data vampires, but I assure you it's an exaggeration."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's this one guy, Doug...",
+        "Dude! It's fiber-optic!",
+        "It's really not my thing."
+      ]
+    }
+  ]
+}

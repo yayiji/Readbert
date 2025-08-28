@@ -1,0 +1,25 @@
+{
+  "date": "2012-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop telling Tina how to do her job.",
+        "You're not her boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was just helping out because her boss has his priorities all backward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She reports to me.",
+        "I'll email your boss some suggestions for fixing you."
+      ]
+    }
+  ]
+}

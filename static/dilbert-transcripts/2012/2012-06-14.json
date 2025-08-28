@@ -1,0 +1,24 @@
+{
+  "date": "2012-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my email with all of my recommended changes to your product?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. Everything you suggested is a bad idea, but I don't want to spend the rest of my life explaining why."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I hate you.",
+        "All roads headed in that direction. All I did was take the shortest one."
+      ]
+    }
+  ]
+}

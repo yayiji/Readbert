@@ -1,0 +1,25 @@
+{
+  "date": "2012-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made some edits to your document."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These edits are so bad that my only choices are to send it out and make a fool of myself or insult your alleged intelligence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please let it be the first choice.",
+        "Crinkle",
+        "I hope you didn't pick the wrong religion too."
+      ]
+    }
+  ]
+}

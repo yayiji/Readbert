@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I completed the busywork you assigned to me and I'm still cheerful!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know how I do it. I really don't. I assume it's a form of insanity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have more worthless assignments I could do before I seek professional help?",
+        "Yup."
+      ]
+    }
+  ]
+}

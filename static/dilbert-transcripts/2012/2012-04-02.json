@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every time I have an idea for a new app, I discover that ten people already created something just like it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As the population of the world increases, the potential value of every idea I have approaches zero."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, it's the entire world's fault that you have unoriginal ideas.",
+        "Why does your agreeing sound like mocking?"
+      ]
+    }
+  ]
+}

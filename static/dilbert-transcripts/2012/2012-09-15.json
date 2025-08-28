@@ -1,0 +1,24 @@
+{
+  "date": "2012-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become a money manager for dumb celebrities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Celebrities don't pay close attention to where their money is invested, or who is stealing it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you plan to help them protect their money?",
+        "That would be one way to play it."
+      ]
+    }
+  ]
+}

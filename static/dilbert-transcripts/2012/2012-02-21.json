@@ -1,0 +1,25 @@
+{
+  "date": "2012-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gasp!",
+        "I've found the Higgs boson!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Build an ark!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing but trouble.",
+        "Click"
+      ]
+    }
+  ]
+}

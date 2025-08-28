@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're supposed to be cold calling sales prospects.",
+        "I am."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm using a video chat site to randomly meet potential customers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This guy is excited to see me, and that's half of the sales job right there."
+      ]
+    }
+  ]
+}

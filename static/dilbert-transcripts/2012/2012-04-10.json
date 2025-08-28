@@ -1,0 +1,26 @@
+{
+  "date": "2012-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see the schedule I sent out?",
+        "Yes, and all four updates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you see the correction, and then Carl's changes, and the email about moving all of the Tuesday stuff to Thursdays?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you put it on your calendar?",
+        "That reminds me that I can't make it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I make my decision, I'd like to ask for your opinions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's supposed to make you feel \"engaged.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you actually plan to listen to us?",
+        "I'm hoping it will look that way on the outside."
+      ]
+    }
+  ]
+}

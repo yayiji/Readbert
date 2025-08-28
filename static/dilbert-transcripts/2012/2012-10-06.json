@@ -1,0 +1,24 @@
+{
+  "date": "2012-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Imagine I invented a new technology for fracking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It involves grinding poor people into a slurry and pumping it into shale at high pressure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you see any problem with that?",
+        "Not enough shale!"
+      ]
+    }
+  ]
+}

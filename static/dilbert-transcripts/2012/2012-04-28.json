@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm Wally's service monkey.",
+        "I'll be fielding any questions directed at Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With all due respect, a business meeting is no place for a monkey."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With all due respect, that was a stronger argument before I saw your PowerPoint slides."
+      ]
+    }
+  ]
+}

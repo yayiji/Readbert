@@ -1,0 +1,54 @@
+{
+  "date": "2012-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Brian tells me you're not being helpful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! You have been painted by the brush of unhelpfulness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There is no way to remove the stigma of this accusation."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Watch and learn."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Brian has... um... issues."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Issues? What issues? Mental? Emotional? Substance abuse?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've said too much. It's not my place."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He's a monster!",
+        "You make it look easy!"
+      ]
+    }
+  ]
+}

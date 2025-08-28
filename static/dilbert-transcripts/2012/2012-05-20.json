@@ -1,0 +1,54 @@
+{
+  "date": "2012-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wait, hold that crazy thought."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to get a witness in the room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice, would you mind coming to the conference room for a minute?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What fresh heck is this?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Larry is a sadist and a sociopath, but he hides it when there's more than one witness."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So, Larry, what do you think of my project?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It looks great! I'll be happy to help you in any way I can!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Am I done here?",
+        "Don't turn your back!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2012-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take a look at this resume."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! This guy is a piece of work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lie... lie... exaggeration... misspelling... bad format... worked on failed products."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ooh! He's also a champion salsa dancer. What a tool!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wait. Why aren't you joining in the traditional mocking of the applicant's resume?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm waiting to find out if he's the handsome fellow standing behind you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Scoot over. You're blocking my view of a handsome guy."
+      ]
+    }
+  ]
+}

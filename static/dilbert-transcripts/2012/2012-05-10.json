@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the space elevator prototype.",
+        "So soon?",
+        "I thought it would take years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's just a prototype. Do you want to try it?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

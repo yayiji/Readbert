@@ -1,0 +1,55 @@
+{
+  "date": "2012-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you want to go to lunch?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, thanks. I'm a digisexual now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "I'm no longer attracted to people."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I only like technology."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "People creep me out. You're basically a delivery system for viruses, germs, and unreasonable favor requests."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm willing to take a picture of you, but that's as far as I'll go."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is the most disturbing conversation I've ever had.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Thank goodness for Photoshop."
+      ]
+    }
+  ]
+}

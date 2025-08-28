@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The stock market is up today. I wonder if this is a good time to get in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you wait until it goes up even further, then you'll know it's a good investment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you still bitter about your last raise?",
+        "Not as much as I was a minute ago."
+      ]
+    }
+  ]
+}

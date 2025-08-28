@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new strategy is to be nimble."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that the same as saying our strategy is to have no strategy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just do your job.",
+        "Can I be nimble instead?"
+      ]
+    }
+  ]
+}

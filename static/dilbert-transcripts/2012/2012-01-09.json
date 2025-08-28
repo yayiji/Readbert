@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop using the aisle behind my cubicle. It's distracting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything within twelve feet of my cubicle are my territorial waters.",
+        "You can't enforce that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell that to my roboshark."
+      ]
+    }
+  ]
+}
