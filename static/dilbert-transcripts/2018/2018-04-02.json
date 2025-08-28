@@ -1,0 +1,25 @@
+{
+  "date": "2018-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have some spare time to help me on my project?",
+        "There's no such thing as spare time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is only you inconveniencing me for your own selfish benefit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're being rude.",
+        "Stop blaming the victim."
+      ]
+    }
+  ]
+}

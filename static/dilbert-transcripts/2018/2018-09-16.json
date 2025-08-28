@@ -1,0 +1,53 @@
+{
+  "date": "2018-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have an hour to meet next week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me check my calendar."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next week is not good."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You don't have one hour of free time all week?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, this is awkward."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The problem isn't my schedule so much as your total lack of value relative to my alternatives."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe we could meet over lunch?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I like to focus on my sandwich."
+      ]
+    }
+  ]
+}

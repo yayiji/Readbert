@@ -1,0 +1,55 @@
+{
+  "date": "2019-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have something funny to show you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just give me a minute to find it on my phone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the protocol in this situation?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Should I just sit here and stare at her pawing at her phone?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't talk because she's focused on her task, and it would be rude to walk away."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Would it be an insult to look at my own phone and mentally check out from this useless interaction?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ah! I found it!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, good.",
+        "Wait, that's not the right one.",
+        "Is this why people fake their own deaths?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You committed me to two different meetings at the same time in different states."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is not possible to be in two places at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pfft! I could do it.",
+        "Even Wally could do it."
+      ]
+    }
+  ]
+}

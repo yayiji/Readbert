@@ -1,0 +1,25 @@
+{
+  "date": "2019-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school of unconventional self-defense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm handing out a list of my personal enemies.",
+        "Your homework is to kill them before sunrise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That isn't self-defense.",
+        "Wow. All you can think about is you, you, you."
+      ]
+    }
+  ]
+}

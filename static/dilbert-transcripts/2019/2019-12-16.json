@@ -1,0 +1,25 @@
+{
+  "date": "2019-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you have it done in a week?",
+        "Not if I have to work with other employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Given the galactic incompetence of my co-workers, it would probably take seven to nine months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you two weeks.",
+        "That's how long it will take to set up the first meeting."
+      ]
+    }
+  ]
+}

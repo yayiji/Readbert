@@ -1,0 +1,26 @@
+{
+  "date": "2018-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want a raise.",
+        "Money can't buy happiness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then why do people work?",
+        "To avoid unhappiness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's my best-case scenario here?",
+        "I'll motivate you toward a neutral, zombie-like existence."
+      ]
+    }
+  ]
+}

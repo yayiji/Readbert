@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to experts, about half of all employees are typically doing 100% of the work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to beat the system by firing half of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't you need to keep firing half of whoever was left until you were down to one employee?",
+        "Yes, but imagine how hard he will work."
+      ]
+    }
+  ]
+}

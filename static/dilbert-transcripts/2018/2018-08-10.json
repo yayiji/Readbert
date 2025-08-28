@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted is trying to sabotage my project because he is so insecure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it possible you're imagining all of that and he is just doing his job?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping you'd be supportive.",
+        "I like to be on the winning side."
+      ]
+    }
+  ]
+}

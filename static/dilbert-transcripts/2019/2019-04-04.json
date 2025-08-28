@@ -1,0 +1,31 @@
+{
+  "date": "2019-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok appears to be in some kind of a coma.",
+        "What should we do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We see this a lot.",
+        "His job is so boring that it caused his dopamine to crash."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Show him some funny cat videos and give him a coffee I.V."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Part of me doesn't want that to work."
+      ]
+    }
+  ]
+}

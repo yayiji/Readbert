@@ -1,0 +1,56 @@
+{
+  "date": "2018-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need help persuading your boss to bless my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I use facts and logic?",
+        "No, he hates that stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could appeal to his better angels."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "His better angels wear noise-canceling headphones."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, fine. I'll just appeal to his self-interest."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It would be in his best interest to avoid people like you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What do you suggest?",
+        "We've had good outcomes using his ignorance and fear."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sign this or else a blockchain drone will kill you in your sleep.",
+        "Where's my pen!"
+      ]
+    }
+  ]
+}

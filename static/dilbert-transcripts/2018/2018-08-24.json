@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, did you reconfigure the server without my permission?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me consult my collection of bumper stickers for an answer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is easier to ask forgiveness than permission.",
+        "Okay, that sounds right."
+      ]
+    }
+  ]
+}

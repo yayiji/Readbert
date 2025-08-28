@@ -1,0 +1,54 @@
+{
+  "date": "2019-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And then I need you to..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't do it. Don't check that message."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might be important."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It isn't more important than listening to your boss."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I have no way of knowing that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Look! There's a squirrel on the printer!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't see a squirrel."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you check your phone?",
+        "Was I supposed to just sit here and watch you looking for squirrels?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I built a robot that learns human behavior by observation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By the end of the first week it was a sexist, racist idiot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you fix that bug?",
+        "Some say climate change will get it done."
+      ]
+    }
+  ]
+}

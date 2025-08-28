@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's what I recommend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I reject your recommendation because it doesn't match what we already decided to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's no way to run a business.",
+        "Can you refer me to a less judgy consultant?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2018-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How conspiracy theories happen.",
+        "I've heard from multiple sources that you deleted Alice's files on the server."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your multiple sources all heard it from Alice. That is only one source."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He didn't deny it.",
+        "Continued..."
+      ]
+    }
+  ]
+}

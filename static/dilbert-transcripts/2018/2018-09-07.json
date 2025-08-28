@@ -1,0 +1,25 @@
+{
+  "date": "2018-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, doctor.",
+        "Ugh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you please not have medical conversations where I can hear them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Relax. It's only some projectile boils and their milky payload.",
+        "I hate you!"
+      ]
+    }
+  ]
+}

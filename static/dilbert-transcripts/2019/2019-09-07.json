@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to randomly change something so it seems as if being a manager is a real job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe I should centralize all the functions I decentralized last year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or you could find a way to add value.",
+        "I'm not magic."
+      ]
+    }
+  ]
+}

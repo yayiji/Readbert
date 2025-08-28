@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you only answer one of my seven questions in my email?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm penalizing you for asking too many questions in a long, rambling email."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Jerk.",
+        "That'll cost you three questions."
+      ]
+    }
+  ]
+}

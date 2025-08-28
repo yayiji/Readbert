@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting a lot of complaints about you being late for meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They never talk about anything important in the first ten minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're usually talking about you being late.",
+        "Why would I need to be there for that?"
+      ]
+    }
+  ]
+}

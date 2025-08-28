@@ -1,0 +1,54 @@
+{
+  "date": "2019-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't hear you because I'm wearing noise-canceling headphones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could take them off for a minute."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have no idea what you are saying because I'm wearing noise-canceling headphones."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then take them off!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I am reading your lips correctly, I believe you are asking me to \"flurp tingo gloop.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Forget it! I'll just let my project fail!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How is your anti-co-worker defense system working out?",
+        "I can't hear you."
+      ]
+    }
+  ]
+}

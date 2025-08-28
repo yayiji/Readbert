@@ -1,0 +1,25 @@
+{
+  "date": "2019-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long will it take to fix the bug?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That depends.",
+        "How long will you stand behind me and interrupt me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How should I know?",
+        "I can't see the future."
+      ]
+    }
+  ]
+}

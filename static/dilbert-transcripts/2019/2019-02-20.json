@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The test data doesn't support our plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We know our plan is brilliant, so just adjust the data to support it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean falsify the data.",
+        "Let's not get hung up on the definition of things."
+      ]
+    }
+  ]
+}

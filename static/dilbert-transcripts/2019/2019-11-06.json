@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "While you were on vacation, we made some decisions about your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those would be uninformed decisions if you made them without me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't let perfect be the enemy of good.",
+        "Can I let stupid be the enemy of smart?"
+      ]
+    }
+  ]
+}

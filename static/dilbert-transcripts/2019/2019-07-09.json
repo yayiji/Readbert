@@ -1,0 +1,23 @@
+{
+  "date": "2019-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your job performance is below average."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How did you calculate an average for a job that no one else has ever performed?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Math?"
+      ]
+    }
+  ]
+}

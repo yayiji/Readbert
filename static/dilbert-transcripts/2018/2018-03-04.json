@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've designed our new product to work flawlessly for up to ten years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one will need an upgrade. That's no good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Add some code to slow it down and make it unreliable after two years."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But make sure the device doesn't slow down until we have an upgrade to sell."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then draft an apology I can put in a press release when we get caught."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You have turned my engineering success into the darkest day of my career."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's not even close to being true."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Your darkest day will be when the press figures out what we did and I fire you for it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2019-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our website doesn't look anything like the one you asked me to approve."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Were you showing me a fake webpage so you could ignore my suggestions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All of this could have been avoided if you had told me you planned to look at it."
+      ]
+    }
+  ]
+}

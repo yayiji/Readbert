@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you take me around the office and introduce me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that scheme won't work because it requires me to admit I don't know most of their names."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's my name?",
+        "Um... does it start with a letter?"
+      ]
+    }
+  ]
+}

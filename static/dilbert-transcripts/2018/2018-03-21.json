@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I accomplished nothing this week because the office is so cold my hands turned into blocks of ice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I accomplished nothing this week because the office is so hot I can't concentrate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are the two of you the same species?",
+        "That's a gray area because it would be impossible for us to mate."
+      ]
+    }
+  ]
+}

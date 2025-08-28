@@ -1,0 +1,25 @@
+{
+  "date": "2018-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You did this wrong.",
+        "That's how you trained me to do it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to learn to take responsibility for my mistakes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's called \"making your boss look good.\"",
+        "Maybe you could help a little too."
+      ]
+    }
+  ]
+}

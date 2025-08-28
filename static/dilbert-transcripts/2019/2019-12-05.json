@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My creative energy is highest in the morning, but you always schedule our meetings then."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your ill-timed meetings reduce my effectiveness by eighty percent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you do in the afternoons?",
+        "I use that time to complain about my morning meetings."
+      ]
+    }
+  ]
+}

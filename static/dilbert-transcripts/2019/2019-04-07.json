@@ -1,0 +1,54 @@
+{
+  "date": "2019-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't appreciate the sarcastic text message you sent me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That wasn't sarcastic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, it was."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wouldn't I be a better authority than you about my own intentions?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Only if I could trust you. But I can't trust you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Give me one good reason why you shouldn't trust me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because you send sarcastic text messages."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Um...",
+        "And here comes the man-splaining."
+      ]
+    }
+  ]
+}

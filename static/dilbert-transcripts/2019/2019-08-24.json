@@ -1,0 +1,25 @@
+{
+  "date": "2019-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm nervous about the presentation I have to give to the board."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any advice?",
+        "Don't blow it, or else I'll fire you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I heard it's good to imagine the audience naked.",
+        "Report yourself to H.R."
+      ]
+    }
+  ]
+}

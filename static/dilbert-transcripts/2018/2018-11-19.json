@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We know our boss's plan is a bad idea, but it's our job to execute anyway."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe we should try to sabotage the plan by being incompetent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Since when do you need a reason to be incompetent?",
+        "It's more of a \"nice but not necessary\" situation."
+      ]
+    }
+  ]
+}

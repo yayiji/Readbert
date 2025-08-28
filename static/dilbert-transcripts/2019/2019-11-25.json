@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you'll be reporting to the VP of sales for the new project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will also be reporting to me as usual."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Congratulations on making me hate my job more than ever.",
+        "And you said it couldn't be done."
+      ]
+    }
+  ]
+}

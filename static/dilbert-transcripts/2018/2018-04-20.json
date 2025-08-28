@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not an engineer, so this might be a dumb question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But why can't we 3-D print a blockchain and HTML it into a bitcoin?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice can answer that.",
+        "I quit."
+      ]
+    }
+  ]
+}

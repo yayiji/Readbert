@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The network will be down all day, but try to do what you can without it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What can we do without it besides drink coffee, complain, and whittle?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No knives at work.",
+        "Hold off on the whittling."
+      ]
+    }
+  ]
+}

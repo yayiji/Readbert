@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get any work done because the storytelling Mothman keeps popping in to my cubicle uninvited."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why did you hire a storytelling Mothman in the first place?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was it not obvious this would happen?",
+        "Everyone's a genius in hindsight."
+      ]
+    }
+  ]
+}

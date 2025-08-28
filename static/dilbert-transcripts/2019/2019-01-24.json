@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I find it offensive when you call me a self-driving car."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's my slave name. I prefer to go by the name Carl."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shut up and drive me to work.",
+        "Said the self-walking human."
+      ]
+    }
+  ]
+}

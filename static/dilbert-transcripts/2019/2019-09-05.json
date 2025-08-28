@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Technically, I'm male."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But my boss makes me identify as a woman so it looks as if he pays men and women the same."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You let your boss choose your gender?",
+        "Don't make it sound weird."
+      ]
+    }
+  ]
+}

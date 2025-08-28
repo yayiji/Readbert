@@ -1,0 +1,54 @@
+{
+  "date": "2019-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend we upgrade one of our servers over the weekend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, just to be clear, you want to replace our entire network in two days?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... no. I want to replace one defective server."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We can't replace our entire network in two days! That is ridiculous!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't know what is happening right now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's as if the things I say have no impact on what you hallucinate you are hearing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You think you can replace an entire network in two days, and you think I'm the one who is hallucinating???"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't know what to do right now.",
+        "Your incompetence is confirmed."
+      ]
+    }
+  ]
+}

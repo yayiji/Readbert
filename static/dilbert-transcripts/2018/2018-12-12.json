@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to write your own performance review for my signature."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll sign it for you too. I see no reason for you to be involved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Put something in there about insubordination.",
+        "Got it."
+      ]
+    }
+  ]
+}

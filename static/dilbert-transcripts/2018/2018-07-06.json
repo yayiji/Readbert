@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There is absolutely no truth to the rumor that management is thinking about reorganizing the department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But reorganizing would obviously be a smart thing to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why are you not considering it?",
+        "This is exactly why no one likes you."
+      ]
+    }
+  ]
+}

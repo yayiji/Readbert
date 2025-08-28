@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need three copies of this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You just literally walked past the copier."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sheesh! Forget it! Just shred the stupid document.",
+        "The shredder is right behind you."
+      ]
+    }
+  ]
+}

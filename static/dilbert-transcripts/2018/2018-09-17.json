@@ -1,0 +1,26 @@
+{
+  "date": "2018-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, the meeting referee.",
+        "Your plan is terrible.",
+        "Compared to what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Compared to the plan I imagine could exist, but doesn't."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Duh.",
+        "Penalty flag for incorrect use of \"duh.\""
+      ]
+    }
+  ]
+}

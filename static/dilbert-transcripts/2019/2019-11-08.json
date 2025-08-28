@@ -1,0 +1,25 @@
+{
+  "date": "2019-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I've noticed that every project you have worked on has failed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that a coincidence?",
+        "It's hard to know, unless you compare me to a placebo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, you're worse than a placebo.",
+        "I thought that would take longer."
+      ]
+    }
+  ]
+}

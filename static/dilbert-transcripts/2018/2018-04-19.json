@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Which one of the engineering candidates should I hire?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Both are highly experienced, but one has a terrible personality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a perfect fit.",
+        "I told him to expect an offer."
+      ]
+    }
+  ]
+}

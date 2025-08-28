@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina says you yelled at her for not having the information you requested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Incorrect. I expressed my disappointment with a normal tone of voice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop yelling at me!!!",
+        "I no longer know what \"yelling\" means."
+      ]
+    }
+  ]
+}

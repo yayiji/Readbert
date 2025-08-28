@@ -1,0 +1,31 @@
+{
+  "date": "2019-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your competition has a superior product, but you can compensate by branding them as evil."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can say they charge too much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or...",
+        "We can say their leather cases are made from the skin of executed criminals."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But that would not be true.",
+        "First time doing marketing?"
+      ]
+    }
+  ]
+}

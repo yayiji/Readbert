@@ -1,0 +1,25 @@
+{
+  "date": "2018-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We had a massive data breach. Hackers got into the private data of all of our customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem.",
+        "We'll issue a press release that says we're sorry and it will never happen again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's what we said the last three times it happened.",
+        "Our strategy is to wear them down."
+      ]
+    }
+  ]
+}

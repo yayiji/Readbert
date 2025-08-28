@@ -1,0 +1,55 @@
+{
+  "date": "2018-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know where I can find a ladder?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can help you with that, but it will come at a big cost."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It took me all morning to finally get \"in the zone\" to figure out this bug."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your interruption will set me back to square one and cost an entire day of productivity."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Meanwhile, the rest of the team can't do their work because they are waiting for me to fix this bug first."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So yes, I can help you find a ladder, but it will cost the company about $12,000 in lost productivity."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I hope you have a good reason to need a ladder.",
+        "I do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ten minutes earlier",
+        "I wonder what ceiling tiles feel like."
+      ]
+    }
+  ]
+}

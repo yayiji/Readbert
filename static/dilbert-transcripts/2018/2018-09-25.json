@@ -1,0 +1,25 @@
+{
+  "date": "2018-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This workplace is dehumanizing! I can no longer work in this environment!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I refuse to allow any more assaults on my dignity.",
+        "I quit!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your name is...?",
+        "I mean after this one."
+      ]
+    }
+  ]
+}

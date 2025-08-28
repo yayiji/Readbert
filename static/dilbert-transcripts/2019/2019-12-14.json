@@ -1,0 +1,25 @@
+{
+  "date": "2019-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "I recommend taking powerful antidepressants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It won't make our product any easier to use, but maybe you won't care as much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course it will work. Sheesh!",
+        "I deny science much?"
+      ]
+    }
+  ]
+}

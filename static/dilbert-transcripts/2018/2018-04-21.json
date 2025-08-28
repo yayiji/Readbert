@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You fool! That web page is not designed the way I would have done it!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I never would have explained it this way!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lastly, I want you to show more initiative.",
+        "Are you still here?"
+      ]
+    }
+  ]
+}

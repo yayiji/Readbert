@@ -1,0 +1,54 @@
+{
+  "date": "2018-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My co-workers make it impossible to work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hear everyone of their phone calls.",
+        "It's maddening."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When they walk past my cubicle, it breaks my flow."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And don't get me started about the food smells coming from the break room."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They ask me one dumb question after another."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't know who keeps turning up the thermostat, but it's too hot to think."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Would it help if I threaten to fire you?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's worth a try. I'll be in my cubicle pretending to work."
+      ]
+    }
+  ]
+}

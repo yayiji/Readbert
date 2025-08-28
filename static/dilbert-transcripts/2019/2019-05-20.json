@@ -1,0 +1,26 @@
+{
+  "date": "2019-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I edited your draft to fix all of the dumb parts. It's in your email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When do you think you will publish it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Depends how long it takes me to reverse all of your edits.",
+        "Undo",
+        "Undo",
+        "Undo"
+      ]
+    }
+  ]
+}

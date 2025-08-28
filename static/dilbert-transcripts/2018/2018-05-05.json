@@ -1,0 +1,25 @@
+{
+  "date": "2018-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I ask a personal question?",
+        "Go ahead."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if you ask me if I'm dead, there is no chance I'll be rattling bones with you later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your question?",
+        "It can wait until tomorrow."
+      ]
+    }
+  ]
+}

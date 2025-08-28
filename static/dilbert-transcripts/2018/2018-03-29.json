@@ -1,0 +1,25 @@
+{
+  "date": "2018-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you remember that thing I asked you to do last month?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, that's okay because something changed and I don't need it anymore.",
+        "You're welcome."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd be surprised how often doing nothing is as good as doing something."
+      ]
+    }
+  ]
+}

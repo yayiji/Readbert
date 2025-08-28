@@ -1,0 +1,25 @@
+{
+  "date": "2019-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My self-driving car quit on me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean it broke down?",
+        "No, I mean it left a note and drove away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you wax it enough?",
+        "I tried, but it kept moaning in a creepy way."
+      ]
+    }
+  ]
+}

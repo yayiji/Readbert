@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm very smart, but I don't know how to do anything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where did you get your Ph.D.?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't say I have a Ph.D.",
+        "You kinda did."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to invent a device that can scrub 100% of the CO2 out of the air."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "100%??? That would kill every plant in the world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know what that would mean for humans?",
+        "Does the answer involve salad?"
+      ]
+    }
+  ]
+}

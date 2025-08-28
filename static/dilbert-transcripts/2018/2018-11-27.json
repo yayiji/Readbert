@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to be more innovative and more nimble."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I created a task force to consider forming a project team to write a white paper on how to start."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe they can fix you first.",
+        "You can't fix perfect."
+      ]
+    }
+  ]
+}

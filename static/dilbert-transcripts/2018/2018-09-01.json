@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A pessimist says the glass is half empty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "An optimist says it is half full."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The engineer says the glass is too big.",
+        "The manager says the engineer should shut his pie hole."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have been cleared of all allegations against me, but where do I go to get my reputation back?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend running into a burning building to save a baby."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if no buildings are on fire?",
+        "Have you heard of matches?"
+      ]
+    }
+  ]
+}

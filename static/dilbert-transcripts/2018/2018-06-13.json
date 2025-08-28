@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is the key to success?",
+        "Hard work!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it a coincidence that your advice for me corresponds to your self-interest?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My other advice is never question authority."
+      ]
+    }
+  ]
+}

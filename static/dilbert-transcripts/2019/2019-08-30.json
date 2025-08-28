@@ -1,0 +1,25 @@
+{
+  "date": "2019-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I keep telling people how to do their jobs, but no one takes my advice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe that's because you are so inexperienced that you don't realize how bad your advice is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's ridiculous.",
+        "How could I be so wrong and yet feel so confident?",
+        "I miss being young."
+      ]
+    }
+  ]
+}

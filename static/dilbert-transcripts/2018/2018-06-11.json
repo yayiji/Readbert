@@ -1,0 +1,25 @@
+{
+  "date": "2018-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you mentor me on how to be successful?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your best strategy is a combination of lying and being related to rich people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is the second-best strategy?",
+        "Crime is second.",
+        "Winning a lottery is third."
+      ]
+    }
+  ]
+}

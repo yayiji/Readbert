@@ -1,0 +1,29 @@
+{
+  "date": "2018-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your family?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm still single and childless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you acting interested in me because you saw an article saying it would make me more productive?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Apparently it doesn't kick in right away."
+      ]
+    }
+  ]
+}

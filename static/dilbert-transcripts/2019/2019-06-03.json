@@ -1,0 +1,23 @@
+{
+  "date": "2019-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you reach out to Carl and touch base?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you restate that using normal words?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could, but then it would feel as if I'm not managing you."
+      ]
+    }
+  ]
+}

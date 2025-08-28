@@ -1,0 +1,26 @@
+{
+  "date": "2018-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How conspiracy theories happen",
+        "Alice says you're trying to cover up the fact that you deleted her files."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't delete her files. You're both insane."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did he say?",
+        "He tried to gaslight me. That proves he's guilty.",
+        "Continued..."
+      ]
+    }
+  ]
+}

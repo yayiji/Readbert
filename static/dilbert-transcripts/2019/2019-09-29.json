@@ -1,0 +1,54 @@
+{
+  "date": "2019-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand why you are recommending blockchain for this application."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My staff are the experts, but I can explain the basic idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You see, using blockchain is like losing a necklace on the beach."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then a seagull finds the necklace and takes it back to its nest."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And we all like data security, don't we?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's almost as if you are proposing a plan you don't understand at any level."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, yes, but keep in mind that you wouldn't understand it even if I could explain it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "But you're sure someone on your staff understands it, right?",
+        "Define \"sure.\""
+      ]
+    }
+  ]
+}

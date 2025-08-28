@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you for explaining to me how to do my job, for which I am highly trained and you are not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "An observer might be tempted to say only an idiot would do such a thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that an insult?",
+        "Hey, don't blame me for what a hypothetical observer says."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know how to answer your question because I got here late and I haven't deduced your rank in the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the new director of marketing, so you need to pretend my question makes sense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me a minute to get into that mindset.",
+        "Take your time."
+      ]
+    }
+  ]
+}

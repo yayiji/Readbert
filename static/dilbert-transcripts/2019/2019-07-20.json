@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job doesn't have meaning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If your employer added meaning to your job, would you agree to a cut in pay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "I guess we just found the economic value of \"meaning.\""
+      ]
+    }
+  ]
+}

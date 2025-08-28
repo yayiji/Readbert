@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can we meet tomorrow at 8 am?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's when I eat breakfast in the cafeteria."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about 9 am?",
+        "That would bump into my bowel and reading time."
+      ]
+    }
+  ]
+}

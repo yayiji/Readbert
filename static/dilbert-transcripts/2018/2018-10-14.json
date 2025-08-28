@@ -1,0 +1,57 @@
+{
+  "date": "2018-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you help me with a computer problem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People usually don't ask me for help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is that?",
+        "You'll find out."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't log in to the server.",
+        "I'll need to ask you a few questions."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Have you ever eaten food near your computer?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um... yes.",
+        "That's your problem."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your crumbs are causing crosstalk on the protocols."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is this why no one asks you for help?",
+        "It's in the top ten."
+      ]
+    }
+  ]
+}

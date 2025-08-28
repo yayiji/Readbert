@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used to form my own opinions about current events."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I just copy whatever the people I follow on social media say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where do they get their opinions from?",
+        "From something called an algorithm."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you were criticizing me behind my back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try saying those things to my face!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're a hot-headed know-nothing who uses his arrogance to mask his total lack of talent."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You ruin every meeting with your toxic personality."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Every project you touch turns to garbage. You're like a plague with legs."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay... that was harsh, but I respect you for speaking truth to power."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You don't have any power.",
+        "Maybe it's better if you talk behind my back."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2018-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm designing a device that uses facial recognition to detect stupidity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need your help creating the pattern-recognition algorithm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you need me to do?",
+        "Look straight ahead and smile.",
+        "Click"
+      ]
+    }
+  ]
+}

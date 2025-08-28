@@ -1,0 +1,30 @@
+{
+  "date": "2019-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to my raise, I can afford to move out of my home in the men's restroom stall and into a pod."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A pod?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A pod!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is it better than the stall?",
+        "It's smaller, but better appointed."
+      ]
+    }
+  ]
+}

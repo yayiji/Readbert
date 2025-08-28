@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How are the tech support calls going?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great. I'm blaming all of our product flaws on climate change, and people are totally buying it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't make sense.",
+        "You'd be surprised how little that matters."
+      ]
+    }
+  ]
+}

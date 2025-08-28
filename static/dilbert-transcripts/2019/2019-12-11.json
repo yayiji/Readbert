@@ -1,0 +1,25 @@
+{
+  "date": "2019-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "I can't figure out how to use your product. What should I do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend changing jobs to something less challenging."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying I'm dumb?",
+        "No, no, no. I'm only implying it."
+      ]
+    }
+  ]
+}

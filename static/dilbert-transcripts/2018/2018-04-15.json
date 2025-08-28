@@ -1,0 +1,53 @@
+{
+  "date": "2018-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The electronic suggestion box project is halfway done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The original design called for a box that scans and digitizes suggestions written on paper and emails them to the appropriate manager."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then the device shreds the original paper suggestion to make room for more."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I already built the box and the shredder."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll need additional funding to finish the scanning part."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We don't have any flexibility in our budget. Let's just deploy what you have."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All I have is a box that shreds suggestions before anyone reads them."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't let perfect be the enemy of good."
+      ]
+    }
+  ]
+}

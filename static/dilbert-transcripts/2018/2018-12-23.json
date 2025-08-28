@@ -1,0 +1,58 @@
+{
+  "date": "2018-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The job market is so tight that I had to hire this NPC."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "NPC?",
+        "Non-player character."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a video game term for a character that is programmed, as opposed to being an avatar for a human player."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "An NPC has limited programmed responses. Watch this."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How's your day going?",
+        "Not bad for a Monday."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can you help me on my project?",
+        "I am too busy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What do you think of management?",
+        "They are all dumb."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I just bonded with that thing.",
+        "See how fast you get used to it?"
+      ]
+    }
+  ]
+}

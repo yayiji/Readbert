@@ -1,0 +1,25 @@
+{
+  "date": "2018-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Never insult your co-workers directly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead, undermine their confidence by pretending to be helpful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me know if you need help fixing the grammar in your slide deck.",
+        "What?"
+      ]
+    }
+  ]
+}

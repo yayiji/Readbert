@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your proposed solution is dumb because it doesn't solve all of our problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no such thing as a solution that solves all of our problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should solve the ones we can solve?",
+        "You're coming off as a quitter."
+      ]
+    }
+  ]
+}

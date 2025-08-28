@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hypothetically, if my boss told me to do something stupid, should I do it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should do what you know is right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, good.",
+        "And then your boss should punish you for doing it."
+      ]
+    }
+  ]
+}

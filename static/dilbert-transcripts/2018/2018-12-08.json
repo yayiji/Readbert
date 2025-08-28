@@ -1,0 +1,25 @@
+{
+  "date": "2018-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I added horse blinders to my noise-cancellation headphones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You tried to ruin my productivity by moving to an open office plan, but I have thwarted your evil ambitions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Experts say the open plan is better for communication.",
+        "Are you talking?",
+        "I can't tell."
+      ]
+    }
+  ]
+}

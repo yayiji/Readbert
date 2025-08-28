@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lately I've been feeling loyal to my company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And that makes me work extra hard for no extra money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a pill to keep me from working so hard?",
+        "They all do that if you take enough of them."
+      ]
+    }
+  ]
+}

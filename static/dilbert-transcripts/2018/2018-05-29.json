@@ -1,0 +1,23 @@
+{
+  "date": "2018-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to fire Dilbert for insulting my wife in his slide deck."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The presentation was about Wi-Fi, not your wife."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, they're both spotty."
+      ]
+    }
+  ]
+}

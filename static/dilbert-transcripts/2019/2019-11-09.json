@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a device that can scan your body and brain at a molecular level."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now you can time travel by killing yourself and leaving instructions to 3D-print you back to life in the future when the technology is able."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where will you find anyone dumb enough to test it?",
+        "Have you ever attended a meeting at this company?"
+      ]
+    }
+  ]
+}

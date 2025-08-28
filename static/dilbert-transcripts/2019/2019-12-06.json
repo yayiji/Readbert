@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea won't work because others have already tried it and failed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Others have tried different things that simply remind you of my idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean, you remind me of a rodent, but that doesn't prove you like cheese.",
+        "I love cheese."
+      ]
+    }
+  ]
+}

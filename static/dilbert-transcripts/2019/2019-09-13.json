@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've had a bad week. Do you mind if I vent?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see no reason why I should be exposed to your toxic negativity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going to do it anyway.",
+        "Headphones."
+      ]
+    }
+  ]
+}

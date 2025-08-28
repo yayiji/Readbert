@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, come to my office at five o'clock."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! That's what you say when you plan to fire people!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't be ridiculous.",
+        "I also, bring your keys."
+      ]
+    }
+  ]
+}

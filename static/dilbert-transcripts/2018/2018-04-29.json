@@ -1,0 +1,54 @@
+{
+  "date": "2018-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employee award for valor goes to Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "During the false alarm, we noticed Wally was not with the other evacuees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He stayed behind to make sure everyone else got out."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "At least that's what he told us later."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wally, do you have any words of inspiration for the group?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Most of you are cowards. But imagine how good you would feel winning a non-monetary award for valor."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now I ask all of you to think about how you can repay me for my selfless valor on your behalf."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you sleep through the fire alarm?",
+        "Most productive nap I've ever had."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I borrow your headphones while you're at lunch?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would they touch your ears?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I reject your request. I don't want cooties on my headphones."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Plus, you never return anything you borrow."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why would you care if my ears touch something you will never see again?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Let's meet halfway. I'll return the headphones, but they will smell of me forever."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then you might as well just keep them!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It doesn't feel like he met me halfway."
+      ]
+    }
+  ]
+}

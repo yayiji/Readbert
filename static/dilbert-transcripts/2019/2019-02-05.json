@@ -1,0 +1,25 @@
+{
+  "date": "2019-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it true you married a human woman and she gave birth to a cyborg?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that's a ridiculous rumor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, good.",
+        "We're co-parenting.",
+        "We never got married."
+      ]
+    }
+  ]
+}

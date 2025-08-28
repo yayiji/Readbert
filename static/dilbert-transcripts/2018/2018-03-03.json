@@ -1,0 +1,25 @@
+{
+  "date": "2018-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally says people are calling me a \"frickin' bottleneck\" behind my back. Is that true?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ring",
+        "I have to call you back after I'm done with F.B."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "F.B.?",
+        "Um... Facebook."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2019-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a new surgery that can turn employees into bosses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can surgery turn an employee into a boss?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You won't be needing this."
+      ]
+    }
+  ]
+}

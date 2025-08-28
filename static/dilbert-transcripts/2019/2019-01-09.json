@@ -1,0 +1,25 @@
+{
+  "date": "2019-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your so-called breakthrough in artificial intelligence is a fraud."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I talked to it for an hour, and everything it said was stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait...",
+        "That's the same as using Twitter.",
+        "Is it too soon to call me a genius?"
+      ]
+    }
+  ]
+}

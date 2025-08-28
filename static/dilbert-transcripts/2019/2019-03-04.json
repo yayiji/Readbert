@@ -1,0 +1,23 @@
+{
+  "date": "2019-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is your employee engagement so low?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because I'm relatively immune to brainwashing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I didn't think you knew."
+      ]
+    }
+  ]
+}

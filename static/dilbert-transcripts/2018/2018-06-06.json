@@ -1,0 +1,25 @@
+{
+  "date": "2018-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Decentralization will change everything.",
+        "Such as?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well... for example, um... the Bitcoin and the Ethereum."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you recently read an article?",
+        "Some of it."
+      ]
+    }
+  ]
+}

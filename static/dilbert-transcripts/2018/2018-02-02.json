@@ -1,0 +1,30 @@
+{
+  "date": "2018-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our self-driving car went off a cliff with Ted in it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you tweak the software to make that happen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, that was a bug."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Was it a known bug?",
+        "Now we're getting into a gray area."
+      ]
+    }
+  ]
+}

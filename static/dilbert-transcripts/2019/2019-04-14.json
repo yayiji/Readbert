@@ -1,0 +1,53 @@
+{
+  "date": "2019-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The product I'm developing will be unprofitable for the first nine years, but revenue will surge in the tenth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't you tell me you plan to retire in nine years?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You will be happily retired before we find out if profits really do surge in year ten."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That makes everything you say sound suspicious."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Numbers don't lie."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Who came up with the numbers?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's all the time we have for questions."
+      ]
+    }
+  ]
+}

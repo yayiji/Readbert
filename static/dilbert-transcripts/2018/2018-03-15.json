@@ -1,0 +1,25 @@
+{
+  "date": "2018-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The storytelling mothman",
+        "I detect the energy of an employee with a high workload."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm here to tell you a long story that you think will never end."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is the last thing I need right now.",
+        "Do you know the history of the paper clip?"
+      ]
+    }
+  ]
+}

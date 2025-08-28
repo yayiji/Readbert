@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can only succeed if every one of you gives one hundred percent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't mean to nitpick, but wouldn't that technically be slavery?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, because you have a choice.",
+        "Didn't you just say the other choice is failure?"
+      ]
+    }
+  ]
+}

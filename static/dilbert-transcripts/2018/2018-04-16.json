@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to work on our blockchain project to keep my skills updated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to be a team player and maintain our legacy systems until your technical skills become obsolete."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What kind of team is that?",
+        "You'll be on the losing team."
+      ]
+    }
+  ]
+}

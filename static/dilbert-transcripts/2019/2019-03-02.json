@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you like my idea?",
+        "I need to think about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean you plan to wait a few weeks and then act as if it was your idea?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now that idea I like right away."
+      ]
+    }
+  ]
+}

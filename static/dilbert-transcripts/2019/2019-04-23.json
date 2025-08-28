@@ -1,0 +1,26 @@
+{
+  "date": "2019-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I get on the management track?",
+        "Are you kidding me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are the most useless employee I have ever seen.",
+        "All you do is walk around and bother people who are trying to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying I can't get on the management track?",
+        "I'm saying you're already on it."
+      ]
+    }
+  ]
+}

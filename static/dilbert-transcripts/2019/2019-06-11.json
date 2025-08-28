@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One option is to use the old method that has never once worked, but we think we know how to make it work next time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The other option is to try something new that we can't be sure will work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's almost as if leadership is nothing but guessing.",
+        "Let's change the subject."
+      ]
+    }
+  ]
+}

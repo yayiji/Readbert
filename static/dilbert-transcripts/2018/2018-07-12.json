@@ -1,0 +1,25 @@
+{
+  "date": "2018-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it true you are telling everyone the new product road map is stupid?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... nothing remotely like that has ever happened.",
+        "Here's an email in which I say how good it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You hesitated in your answer. That means you're lying.",
+        "Read the email!!!"
+      ]
+    }
+  ]
+}

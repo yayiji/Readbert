@@ -1,0 +1,30 @@
+{
+  "date": "2018-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to take over Ted's software upgrade. Can you finish that in a week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you kidding?",
+        "It will take a week just to bad-mouth his existing code to everyone within walking distance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that part necessary?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Like water to a fish."
+      ]
+    }
+  ]
+}

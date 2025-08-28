@@ -1,0 +1,25 @@
+{
+  "date": "2019-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The opinionated old guy",
+        "That idea will never work!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unless you know some kind of \"magic\" that sends data through the air."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I call it Wi-Fi.",
+        "Pffft! No one wants that."
+      ]
+    }
+  ]
+}

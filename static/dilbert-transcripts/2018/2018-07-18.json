@@ -1,0 +1,25 @@
+{
+  "date": "2018-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The sales video you made for our Elbonian market is causing a public relations crisis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Their government has ordered Elbonian ninjas to kill you in your sleep."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my sleep?",
+        "That's the best way to die!",
+        "Stop confusing my bad news with your good news."
+      ]
+    }
+  ]
+}

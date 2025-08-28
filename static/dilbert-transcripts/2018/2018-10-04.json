@@ -1,0 +1,23 @@
+{
+  "date": "2018-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to have a bias for action!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good idea. This meeting is a total waste of time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I probably should have thought that through."
+      ]
+    }
+  ]
+}

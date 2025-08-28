@@ -1,0 +1,32 @@
+{
+  "date": "2018-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How conspiracy theories happen",
+        "Alice says you deleted her files on the server."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That didn't happen.",
+        "She's nuts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha! You wouldn't be so angry if it weren't true."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What? That doesn't even make sense.",
+        "That's exactly what guilty people say."
+      ]
+    }
+  ]
+}

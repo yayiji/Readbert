@@ -1,0 +1,55 @@
+{
+  "date": "2018-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of your employees are fat and unhealthy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why you should replace your outdated cubicles with treadmill desks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My company makes a treadmill desk that requires no electricity."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if the employees don't like it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They already hate everything about their jobs.",
+        "There's no real downside."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Good point.",
+        "I know."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll send you one of our demo units so you can test it out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I finally feel as if I'm getting somewhere."
+      ]
+    }
+  ]
+}

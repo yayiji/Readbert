@@ -1,0 +1,25 @@
+{
+  "date": "2018-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you anticipate any problems finishing by Friday?",
+        "I do not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because you're punctual or because you aren't good at anticipating things?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't foresee any unforeseen problems.",
+        "Okay, wait..."
+      ]
+    }
+  ]
+}

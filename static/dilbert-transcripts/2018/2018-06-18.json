@@ -1,0 +1,25 @@
+{
+  "date": "2018-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the negotiation trainer",
+        "We'll see you on Monday for our first lesson."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. I'll see you on Monday or Tuesday. Possibly Wednesday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We paid you to start Monday.",
+        "Think how much you'll learn when I don't show up."
+      ]
+    }
+  ]
+}

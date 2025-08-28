@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new meds totally eliminated my libido."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But my doctor says I need them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does your wife mind?",
+        "Not since she started dating my doctor."
+      ]
+    }
+  ]
+}

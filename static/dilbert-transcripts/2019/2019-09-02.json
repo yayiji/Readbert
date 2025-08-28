@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new employee is doing such great work that he makes the rest of you look like chimpanzees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think you know what you need to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sabotage all of his projects.",
+        "Try to do it before he takes my job."
+      ]
+    }
+  ]
+}

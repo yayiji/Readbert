@@ -1,0 +1,25 @@
+{
+  "date": "2019-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I discovered I can insult our boss if I make it sound like an old saying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He thinks all old sayings are wise.",
+        "Here he comes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you read my email?",
+        "A man who sends email has nothing to say."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're under arrest for running a scam cryogenic investment firm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have video footage of you kicking unfrozen brains into the river."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't look like me.",
+        "You were chanting your own name."
+      ]
+    }
+  ]
+}

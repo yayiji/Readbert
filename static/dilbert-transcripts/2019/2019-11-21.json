@@ -1,0 +1,31 @@
+{
+  "date": "2019-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long will it take to write the software?",
+        "That depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do you want the software to do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know yet."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you see the problem here?",
+        "Is it you?"
+      ]
+    }
+  ]
+}

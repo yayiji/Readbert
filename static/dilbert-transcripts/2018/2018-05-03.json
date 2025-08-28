@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did anyone test our user interface before we shipped it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, our customers will tell us what they don't like about it. And they work for free."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That isn't right.",
+        "That's what our customers say, too, and unlike you, they work for free."
+      ]
+    }
+  ]
+}

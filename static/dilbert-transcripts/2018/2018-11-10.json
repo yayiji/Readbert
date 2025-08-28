@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to be more of an \"FYI boss.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll forward emails that already went to every employee and add a note saying, \"FYI.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you call that managing?",
+        "No, I call it leading."
+      ]
+    }
+  ]
+}

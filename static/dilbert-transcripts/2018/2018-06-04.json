@@ -1,0 +1,23 @@
+{
+  "date": "2018-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did you think of my presentation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The signal-to-noise ratio was impressively low."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Engineers give weird compliments."
+      ]
+    }
+  ]
+}

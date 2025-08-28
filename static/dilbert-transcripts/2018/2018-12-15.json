@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to do a customer site visit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Book your flight for the weekend so you don't miss any work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm impressed by your casual evil.",
+        "Bring your own food."
+      ]
+    }
+  ]
+}

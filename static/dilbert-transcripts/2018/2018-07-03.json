@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't feel my job is helping me reach my human potential."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We only pay you because monkeys are hard to train and robots are expensive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll just play with my phone and pretend to work.",
+        "That's what got the monkey fired."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2018-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We tried that plan already and it didn't work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop living in the past."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop refusing to learn from experience."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wait... why do we both sound right?",
+        "I don't know. It's freaking me out a little."
+      ]
+    }
+  ]
+}

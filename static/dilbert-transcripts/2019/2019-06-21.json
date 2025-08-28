@@ -1,0 +1,30 @@
+{
+  "date": "2019-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can close the deal as soon as our lawyers tweak a few minor sentences in the agreement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How long will that take?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Probably several years."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if I help them?",
+        "Add three years."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my first cut at a sales video for our Elbonian market segment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you enjoy juggling cabbages while overdrinking, you'll love our products!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This sounds kind of racist.",
+        "Inebriated cabbage-juggling is their national sport."
+      ]
+    }
+  ]
+}

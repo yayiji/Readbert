@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, how do you stay happy while the rest of us are stressed out?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's easy. Instead of arguing with idiots, I pretend I agree with them so they'll leave me alone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds risky.",
+        "Yes, I agree."
+      ]
+    }
+  ]
+}

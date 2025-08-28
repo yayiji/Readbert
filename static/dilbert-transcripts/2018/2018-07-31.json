@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My wife is starting her own business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sorry to hear that. How many years have you been married?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's not leaving me. She's starting a business.",
+        "Right. Don't talk about phase 2. Got it."
+      ]
+    }
+  ]
+}

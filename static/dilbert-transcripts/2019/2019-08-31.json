@@ -1,0 +1,30 @@
+{
+  "date": "2019-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You haven't completed the mandatory training on unconscious bias."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not biased."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you are when you are not conscious."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm a bigot in my sleep?",
+        "And you look like a drooler."
+      ]
+    }
+  ]
+}

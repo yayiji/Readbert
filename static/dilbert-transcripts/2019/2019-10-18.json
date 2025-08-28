@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your performance is substandard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me a great performance review, or else I'll design a robot that will take your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could do that?",
+        "I have skills. I just don't like to use them."
+      ]
+    }
+  ]
+}

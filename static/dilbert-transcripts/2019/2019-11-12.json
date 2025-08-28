@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Has everyone taken the new workflow system training?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, and we all concluded the new system is poorly designed and should be abandoned."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like you need more training.",
+        "I meant to say we love the new system!"
+      ]
+    }
+  ]
+}

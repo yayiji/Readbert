@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If your idea is so good, why aren't other companies doing it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because they are in completely different businesses with completely different variables and they don't have a genius like me working for them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What happens if we try your idea but we do it wrong?",
+        "That's called \"business as usual.\""
+      ]
+    }
+  ]
+}

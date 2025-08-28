@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, always remember that a good employee makes her boss look good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe I could toss a blanket over you when other people are around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not talking about my physical appearance.",
+        "The blanket would also muffle the sound."
+      ]
+    }
+  ]
+}

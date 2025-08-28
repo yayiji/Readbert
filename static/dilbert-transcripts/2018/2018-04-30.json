@@ -1,0 +1,26 @@
+{
+  "date": "2018-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone know where Alice is?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The CIA, Google, Facebook, Apple, and Russian hackers know where she is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But we have no way to find her?",
+        "Depends.",
+        "Was she dumb enough to download our company app?"
+      ]
+    }
+  ]
+}

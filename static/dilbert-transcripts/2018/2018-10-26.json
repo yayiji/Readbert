@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do I get a crypto wallet so I can get into the cryptocurrency game?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll set one up for you and give you the private key and password when I'm done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to thank you.",
+        "That'll take care of itself."
+      ]
+    }
+  ]
+}

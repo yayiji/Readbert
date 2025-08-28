@@ -1,0 +1,55 @@
+{
+  "date": "2018-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I tried a habanero pepper last night.",
+        "It almost burned off my face."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can eat the hottest peppers in the world and not even break a sweat."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm glad you said that, because I have with me the hottest peppers in the world."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Pfft. Easy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gulp."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Foom!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Will you admit you were wrong?",
+        "You don't see any sweat, do you?"
+      ]
+    }
+  ]
+}

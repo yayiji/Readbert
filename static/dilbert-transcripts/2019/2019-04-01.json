@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a new type of nuclear power that has zero risk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It can be built in one day for less than a thousand dollars and it can power a small city."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get that thing out of here!",
+        "I expect it will be hard to sell."
+      ]
+    }
+  ]
+}

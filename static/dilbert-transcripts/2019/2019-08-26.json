@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to plan the team-building celebration."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make sure there is no alcohol, no dancing, no touching, no flirting, and no joking around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we eat?",
+        "Only food that has never been near a peanut."
+      ]
+    }
+  ]
+}

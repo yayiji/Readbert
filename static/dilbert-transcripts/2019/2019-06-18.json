@@ -1,0 +1,25 @@
+{
+  "date": "2019-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've stopped trying to understand what you do all day long."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I use an app that reminds me at random times to praise you or to criticize you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is the dumbest thing you have ever done.",
+        "Ping!",
+        "Keep up the good work!"
+      ]
+    }
+  ]
+}

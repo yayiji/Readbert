@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The motivational speaker you hired was great!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We all decided to quit our jobs and become motivational speakers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was supposed to make you work harder here.",
+        "You wanted him to motivate us to be dumb?"
+      ]
+    }
+  ]
+}

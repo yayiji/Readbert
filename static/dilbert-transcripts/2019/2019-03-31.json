@@ -1,0 +1,55 @@
+{
+  "date": "2019-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a foodie.",
+        "Are you a foodie too?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think of food as fuel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you enjoy eating good food, right?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I try to avoid food that tastes good.",
+        "That way, I won't overeat."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I usually just check my plate for any stray bandages, and that's about it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If my food passes that test, I shovel it toward my mouth while reading stuff on my phone."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't think I can be your friend."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That worked out better than I hoped."
+      ]
+    }
+  ]
+}

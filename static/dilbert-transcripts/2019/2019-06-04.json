@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is my service human."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whenever I feel angry, I slap him with a rolled-up magazine to help me relax."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one reads magazines anymore.",
+        "Can I borrow your iPad?"
+      ]
+    }
+  ]
+}

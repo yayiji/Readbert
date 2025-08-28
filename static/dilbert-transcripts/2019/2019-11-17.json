@@ -1,0 +1,56 @@
+{
+  "date": "2019-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you asked our V.P. of operations to be your mentor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why didn't you tell me you needed some mentoring?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm full of useful advice.",
+        "Such as?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well...",
+        "Now you're putting me on the spot."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's hard to think of advice while you're pressuring me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you could give me a scenario, and then I'll tell you what to do."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay. Suppose my boss is ruining my productivity by yammering about his great advice. What can I do?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That feels like a trick question.",
+        "Our V.P. of operations could answer it."
+      ]
+    }
+  ]
+}

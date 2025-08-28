@@ -1,0 +1,25 @@
+{
+  "date": "2018-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The storytelling mothman you hired is keeping us from doing our work!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's in Alice's cubicle right now.",
+        "Gaaaa!!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like he flew too close to the flame.",
+        "Problem solved."
+      ]
+    }
+  ]
+}

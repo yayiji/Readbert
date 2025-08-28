@@ -1,0 +1,54 @@
+{
+  "date": "2018-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I go with you to the customer meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm worried you might promise something we can't deliver."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't be ridiculous!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've been having customer meetings without engineers for years."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I know. And they all turn into disasters."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You worry too much!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Everything will be fine!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can you replace our data centers with blockchain?",
+        "Give us two days."
+      ]
+    }
+  ]
+}

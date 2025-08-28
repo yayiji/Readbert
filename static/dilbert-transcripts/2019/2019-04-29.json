@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to start my own podcast."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm crafting my content to appeal to dumb people because that's the biggest market."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How will that make the world a better place?",
+        "Based on your question, you'd enjoy my podcast."
+      ]
+    }
+  ]
+}

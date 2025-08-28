@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone on this team except me is lazy and useless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I propose that I do all of the work for the team, while the rest of you marinate in your own bile."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All in agreement, please raise your hands.",
+        "Would you accept a grunt?"
+      ]
+    }
+  ]
+}

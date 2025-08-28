@@ -1,0 +1,25 @@
+{
+  "date": "2018-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Never call your co-worker a colossal moron. That could get you fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead, say, \"Well, aren't you special.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we paying you for this advice?",
+        "Well, aren't you special."
+      ]
+    }
+  ]
+}

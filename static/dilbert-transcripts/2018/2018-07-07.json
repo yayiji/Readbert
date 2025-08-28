@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't remember what project you're working on."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm integrating parallel platforms for load balancing across incremental networks.",
+        "Keep doing that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can never tell when I'm having a good day."
+      ]
+    }
+  ]
+}

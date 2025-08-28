@@ -1,0 +1,58 @@
+{
+  "date": "2018-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's that gadget?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you freakin' serious?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh...",
+        "my...",
+        "god."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you not remember the long discussion about this thing in the last meeting?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are you trying to gaslight me?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I have no patience for trolls! Eat dirt and die!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I joined the project today.",
+        "This is my first meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Liar!",
+        "Welcome to the team."
+      ]
+    }
+  ]
+}

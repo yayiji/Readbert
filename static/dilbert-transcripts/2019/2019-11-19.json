@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need everyone to come to the Thursday meeting so we can decide when to schedule our next meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't we just have the meeting on Thursday?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See me later so I can berate you for saying that.",
+        "Do we need a meeting to schedule that?"
+      ]
+    }
+  ]
+}

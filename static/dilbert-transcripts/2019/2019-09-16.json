@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have the best employees in the industry!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then why are we ranked last in customer satisfaction?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I blame our customers.",
+        "Why can't they be awesome like us?"
+      ]
+    }
+  ]
+}

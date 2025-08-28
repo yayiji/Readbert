@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just got word that we're about to start a two-step reorg."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In step one, we will centralize functions. Then, in step two, we will realize it was a huge mistake and reorganize back to the old way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't we just keep it the way it is?",
+        "First day?"
+      ]
+    }
+  ]
+}

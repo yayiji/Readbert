@@ -1,0 +1,29 @@
+{
+  "date": "2018-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to change one of the links on our website."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pull together a study team, do a focus group, get buy-in from all the departments, and present it at the next division meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I changed it while you were yammering."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let us never speak of this again."
+      ]
+    }
+  ]
+}

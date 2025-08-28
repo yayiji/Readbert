@@ -1,0 +1,25 @@
+{
+  "date": "2018-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the note from my doctor that you asked for."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't read the handwriting.",
+        "That's how you know it's a real doctor's note."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's it say?",
+        "It says I need lots of sleep at work."
+      ]
+    }
+  ]
+}

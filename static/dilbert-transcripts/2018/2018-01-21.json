@@ -1,0 +1,56 @@
+{
+  "date": "2018-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the address for our meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't need it.",
+        "I'll tell you where to turn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With all due respect, you are not a reliable navigation system."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You will be using your phone and you will forget to tell me when to turn."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I point out your inattentiveness, you will snap at me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I will be seething with anger for the entire drive, while wondering if I am already lost and don't know it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or you could tell me the address now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You don't need it.",
+        "I'll tell you when to turn.",
+        "Must... not... drive... over cliff."
+      ]
+    }
+  ]
+}

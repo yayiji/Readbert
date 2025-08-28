@@ -1,0 +1,23 @@
+{
+  "date": "2019-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your inspirational quote of the day is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Go hard or go home.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I shouldn't have made it sound like a choice."
+      ]
+    }
+  ]
+}

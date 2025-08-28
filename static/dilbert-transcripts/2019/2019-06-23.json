@@ -1,0 +1,54 @@
+{
+  "date": "2019-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you did not complete your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you canceled my project for budget reasons and assigned me to work on another project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you finish your new project?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You only recently assigned it to me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Apparently, I keep giving you work, but you never complete any of it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That is a total distortion of what happened!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I can't reward you for having good intentions and finishing nothing!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why not wait and see how I do on my current project?",
+        "We don't need that anymore."
+      ]
+    }
+  ]
+}

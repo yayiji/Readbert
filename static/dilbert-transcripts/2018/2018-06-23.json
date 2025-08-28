@@ -1,0 +1,25 @@
+{
+  "date": "2018-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new defense against every accusation is to be offended by the question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That works?",
+        "Depends how hard I sell it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why haven't you returned any of my emails?",
+        "How dare you!"
+      ]
+    }
+  ]
+}

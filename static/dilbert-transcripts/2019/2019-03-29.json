@@ -1,0 +1,30 @@
+{
+  "date": "2019-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you get your report in on time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you believe chemtrails are real?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course I do."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The chemtrails slowed me down.",
+        "Okay, that sounds right."
+      ]
+    }
+  ]
+}

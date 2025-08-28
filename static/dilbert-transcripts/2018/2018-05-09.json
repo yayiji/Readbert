@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did hackers get access to your customer data?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm told they used something called \"our A.P.I.\" to suck out all the data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll just say you're stupid.",
+        "Why does everyone always say that?"
+      ]
+    }
+  ]
+}

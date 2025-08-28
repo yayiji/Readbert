@@ -1,0 +1,25 @@
+{
+  "date": "2018-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It will take four weeks to build the app, unless there are unforeseen problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How often do we have unforeseen problems?",
+        "One hundred percent of the time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then what's the point of estimating a completion date?",
+        "I was hoping to make you stop talking, but it didn't work."
+      ]
+    }
+  ]
+}

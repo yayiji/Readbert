@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's it working out with the Elbonian baby you adopted?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great! Now I have lots of excuses for missing work, and I still look like a saint."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What kind of daycare are you using?",
+        "I just sprinkle Cheerios on the floor and lock the door."
+      ]
+    }
+  ]
+}

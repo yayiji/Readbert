@@ -1,0 +1,25 @@
+{
+  "date": "2019-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You haven't finished the mandatory compliance training modules."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm waiting for a strategic time to do them.",
+        "Oh, okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Want to go to lunch?",
+        "I would love to, but I have training modules to do."
+      ]
+    }
+  ]
+}

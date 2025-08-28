@@ -1,0 +1,23 @@
+{
+  "date": "2018-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert thinks I'm causing mental problems in my employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's crazy, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hold that thought. My doctor prescribed pills for when I have to talk to you."
+      ]
+    }
+  ]
+}

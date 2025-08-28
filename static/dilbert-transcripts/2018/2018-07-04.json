@@ -1,0 +1,25 @@
+{
+  "date": "2018-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to reduce headcount, but we plan to do it by attrition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're loosening our safety standards and letting nature do the rest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!!",
+        "Ouch!!!",
+        "You might want to keep your headphones on for a week or so."
+      ]
+    }
+  ]
+}

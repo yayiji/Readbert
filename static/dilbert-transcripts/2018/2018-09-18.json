@@ -1,0 +1,26 @@
+{
+  "date": "2018-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, the meeting referee.",
+        "That reminds me of a story.",
+        "Tweeeet!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fifteen-yard penalty for a time-wasting story!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll make it quick.",
+        "Red card!"
+      ]
+    }
+  ]
+}

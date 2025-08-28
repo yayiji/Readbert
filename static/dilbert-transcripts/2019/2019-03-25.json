@@ -1,0 +1,25 @@
+{
+  "date": "2019-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you leave unwashed dishes in the break room?",
+        "It wasn't me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I got a DNA sample off a fork, ran it against public genealogy records and narrowed it down to your family."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you explain that?",
+        "Sounds like I have a child I don't know about."
+      ]
+    }
+  ]
+}

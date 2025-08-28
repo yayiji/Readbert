@@ -1,0 +1,25 @@
+{
+  "date": "2018-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What does the data tell us to do?",
+        "We only have bad data on this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does the bad data suggest we should do what we wanted to do anyway?",
+        "Well, yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's called \"good data.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2018-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did Alice talk to you about the cost estimates?",
+        "Mumble mumble."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't hear you.",
+        "Mumble mumble!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now you're just mumbling louder.",
+        "Mumble mumble."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you could turn toward me when you mumble and I can try to read your lips."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Mumble mumble."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm getting something about grapes, windshields, asthma, and blockchain."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I didn't say any of those things."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, I understood that sentence. Now answer my question the same way.",
+        "Mumble mumble."
+      ]
+    }
+  ]
+}

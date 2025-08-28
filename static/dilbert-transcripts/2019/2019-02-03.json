@@ -1,0 +1,55 @@
+{
+  "date": "2019-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a cost-effective product to harvest CO2 from the air and turn it into construction material."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... you invented a tree?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Trees take CO2 from the air and turn it into wood."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your invention will compete with plants and trees for necessary CO2."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It seems you have doomed all life on Earth."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Not if people act rationally and stop removing the CO2 when...",
+        "Wait..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're right. I doomed the planet.",
+        "I'll be dead by then, so ship it."
+      ]
+    }
+  ]
+}

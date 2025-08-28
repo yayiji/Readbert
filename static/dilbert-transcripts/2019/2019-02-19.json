@@ -1,0 +1,25 @@
+{
+  "date": "2019-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to help Ted on his project.",
+        "He seems to be struggling."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would doom two projects – mine would suffer from neglect, and Ted would re-bungle anything I fix."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe Ted can help you on your project.",
+        "Gaaaaa!!!"
+      ]
+    }
+  ]
+}

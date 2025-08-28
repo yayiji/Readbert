@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project was failing, so I pivoted to a different idea with the same name."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Later, I'll change the project name to cover my tracks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about your sunk costs?",
+        "Gone like footprints in the sands of time."
+      ]
+    }
+  ]
+}

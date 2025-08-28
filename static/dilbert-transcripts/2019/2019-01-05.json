@@ -1,0 +1,25 @@
+{
+  "date": "2019-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The engineers think I don't understand what they do all day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it's because you don't.",
+        "You too?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My project is late because I had to twizzle the flurm.",
+        "Okay, that sounds right."
+      ]
+    }
+  ]
+}

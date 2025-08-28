@@ -1,0 +1,27 @@
+{
+  "date": "2018-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted says you called him a liar.",
+        "Our policy forbids disrespecting your co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But Ted's lying is okay?",
+        "We don't have a policy about lying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did Ted tell you that?",
+        "Yes.",
+        "Oh..."
+      ]
+    }
+  ]
+}

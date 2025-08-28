@@ -1,0 +1,53 @@
+{
+  "date": "2019-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you enjoying your new cubicles?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My old cubicle had a window view."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My new cubicle is in a windowless room with gray walls."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's always too cold, and I'm surrounded by noisy people I dislike."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I feel anxious, unhealthy, and depressed all day long."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Thanks to the office relocation, my life has become a rapid descent into madness."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "On the plus side, we saved five percent on rent."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No one ever likes to hear about the plus side."
+      ]
+    }
+  ]
+}

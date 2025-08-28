@@ -1,0 +1,25 @@
+{
+  "date": "2018-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you made a decision on my project yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I asked my boss for his input.",
+        "Did you inadequately explain the situation as usual?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe.",
+        "Thanks for all the nothing."
+      ]
+    }
+  ]
+}

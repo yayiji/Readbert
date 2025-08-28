@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Something exciting happened at work today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We reconfigured the cubicles, and now I have a partial view of a potted plant."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're happy about seeing half of a potted plant?",
+        "I call it bringing the outdoors in."
+      ]
+    }
+  ]
+}

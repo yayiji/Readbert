@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend adding Ricky to our artificial intelligence project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He lowers the bar on what constitutes human intelligence, so it will be easier for us to achieve the artificial kind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would be honored to work on the project.",
+        "Okay, I see what you mean."
+      ]
+    }
+  ]
+}

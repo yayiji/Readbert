@@ -1,0 +1,30 @@
+{
+  "date": "2019-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The best way to succeed in this world is through hard work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that the way you did it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I used the second-best way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Which is...",
+        "Making other people work hard."
+      ]
+    }
+  ]
+}

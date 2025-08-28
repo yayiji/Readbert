@@ -1,0 +1,54 @@
+{
+  "date": "2019-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for nominations for employee of the year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does anyone have a suggestion?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hypothetically, would the winner of this award be likely to get a larger-than-normal pay raise?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I would think so, yes."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And is it true that our budget for raises is limited?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, of course."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Would it not be against my best interests to nominate an employee who is competing with me for scarce resources?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's just forget I brought it up.",
+        "I nominate myself."
+      ]
+    }
+  ]
+}

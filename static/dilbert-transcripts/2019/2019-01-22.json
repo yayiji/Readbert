@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My career goal is to have a job with greater recognition, autonomy, and a sense of purpose."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll miss you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping to get that stuff here.",
+        "We're more about thankless tasks."
+      ]
+    }
+  ]
+}

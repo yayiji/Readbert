@@ -1,0 +1,25 @@
+{
+  "date": "2019-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was doing some research on the internet...",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I learned that there is a secret CIA base inside the sun, but no one is talking about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you shouldn't do research on the internet.",
+        "Why are you afraid of the truth?"
+      ]
+    }
+  ]
+}

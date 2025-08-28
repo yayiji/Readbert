@@ -1,0 +1,59 @@
+{
+  "date": "2019-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you please stop humming?",
+        "It's making me crazy.",
+        "Hum..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't focus unless I hum."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I can't focus when you do hum."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm going to talk to your boss.",
+        "I'm going to talk to your boss!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hum, hum, hum.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't work when she hums.",
+        "Humming helps me work better."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I rule in favor of the hummer, and I sentence Dilbert to take a sensitivity training class to be less of a jerk."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hate you.",
+        "Hum, hum, hum."
+      ]
+    }
+  ]
+}

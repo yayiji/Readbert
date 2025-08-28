@@ -1,0 +1,25 @@
+{
+  "date": "2019-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I have a 25% raise to get my compensation up to market levels?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. I'll just work 25% less because you won't know the difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would know if you did that.",
+        "Should I get back to separating the zeroes from the ones in our database?"
+      ]
+    }
+  ]
+}

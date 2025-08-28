@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Government regulations prevent us from marketing our products the way we want. What should we do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll consult my bundle of bumper stickers for some guidance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Question authority.\"",
+        "How did you get so smart?"
+      ]
+    }
+  ]
+}

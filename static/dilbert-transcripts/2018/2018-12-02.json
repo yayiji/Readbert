@@ -1,0 +1,54 @@
+{
+  "date": "2018-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Profits have increased thirty percent under my leadership."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Snort."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "All you do is pick the best plans from the options we show you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Exactly. And I pick the best plan every time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's because we only show you the best plans compared to the worst plans we can think of."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We control every decision you make by manipulating your perception of the options."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We need to fix that.",
+        "How do you fix something that isn't broken?"
+      ]
+    }
+  ]
+}

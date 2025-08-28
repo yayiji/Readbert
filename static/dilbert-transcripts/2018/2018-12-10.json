@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm selling chocolate bars to raise funds for my kid's school."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm childless, so I already subsidize your kid's education."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping it would feel too awkward for you to say no.",
+        "By my calculations, you owe me money."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2019-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new consultant",
+        "I'll need the support of every department to make this project a success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't get any credit if your project succeeds, and you'll be gone in a month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I count on you to not sabotage the project?",
+        "You're coming off as needy."
+      ]
+    }
+  ]
+}

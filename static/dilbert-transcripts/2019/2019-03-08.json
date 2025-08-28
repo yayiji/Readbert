@@ -1,0 +1,23 @@
+{
+  "date": "2019-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's not the way we did it at my last company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I hate you and I don't want to interact with you in any way in the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, that sounds just like my last company."
+      ]
+    }
+  ]
+}

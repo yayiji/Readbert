@@ -1,0 +1,30 @@
+{
+  "date": "2018-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hackers got our customer data. Write a press release saying we are sorry and it will never happen again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is any of that true?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Part of it is."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Which part?",
+        "Hackers got our customer data."
+      ]
+    }
+  ]
+}

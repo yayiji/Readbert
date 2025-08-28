@@ -1,0 +1,23 @@
+{
+  "date": "2019-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm assigning you to work on our employee engagement initiative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does it matter that I think that project sounds like a complete waste of time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nah."
+      ]
+    }
+  ]
+}

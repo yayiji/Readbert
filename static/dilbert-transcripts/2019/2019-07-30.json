@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a toxic employee to keep the rest of you on your toes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you utter one wrong word, this thing will report you to human resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What gender is it?",
+        "Stop hitting on me."
+      ]
+    }
+  ]
+}

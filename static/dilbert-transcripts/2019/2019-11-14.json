@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I take the day off to attend a funeral?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. I didn't even know you were sick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not my own funeral.",
+        "Oh. In that case, no."
+      ]
+    }
+  ]
+}

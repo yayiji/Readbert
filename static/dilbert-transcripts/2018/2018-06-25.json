@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any feedback on my idea?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. You're weak and stupid, and everyone you love will end up in jail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you spend a lot of time on Twitter?",
+        "Is that a lucky guess or are you spying on me?"
+      ]
+    }
+  ]
+}

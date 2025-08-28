@@ -1,0 +1,31 @@
+{
+  "date": "2019-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you know that 85% of the matter in the world is dark matter, and we don't even know what dark matter is?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know what it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You do?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's when the lights are off.",
+        "Duh.",
+        "I'm going to go talk to someone else now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2018-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you want to succeed, you have to work hard every single day for years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds awful.",
+        "You just talked me out of wanting to succeed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you work that hard to get where you are?",
+        "Next topic!"
+      ]
+    }
+  ]
+}

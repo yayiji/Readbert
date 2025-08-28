@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't believe you were a spy for the Elbonian government until you denied it the wrong way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You were slow to speak, and you blinked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That isn't evidence of anything.",
+        "You blinked again!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2019-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It has come to my attention that our company pays men more than women."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have been asked to correct that situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're going to cut the pay of the men, right?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, no, no.",
+        "I'm only going to ask you to identify as a woman."
+      ]
+    }
+  ]
+}

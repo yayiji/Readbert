@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted says you wouldn't help him on his project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was teaching him how to be self-reliant.",
+        "That's important too, isn't it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not such an easy question, is it?"
+      ]
+    }
+  ]
+}

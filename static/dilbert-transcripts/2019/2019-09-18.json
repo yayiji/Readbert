@@ -1,0 +1,30 @@
+{
+  "date": "2019-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to fix our user interface because half of our users can't figure it out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them to read the manual."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not how you fix a bad user interface."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then why do manuals exist?",
+        "If you need me, I'll be banging my head against a wall."
+      ]
+    }
+  ]
+}

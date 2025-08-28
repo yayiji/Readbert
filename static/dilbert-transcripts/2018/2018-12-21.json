@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're ready to fire up our laser communication technology to contact the alien probe heading to Earth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pfzeeeet!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the alien probe unmanned?",
+        "It is now."
+      ]
+    }
+  ]
+}

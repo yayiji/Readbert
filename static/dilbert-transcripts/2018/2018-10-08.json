@@ -1,0 +1,25 @@
+{
+  "date": "2018-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get the printer to work.",
+        "Can you help?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. I'll be there as soon as I finish my twenty-seven tasks that are all higher priorities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long will that take?",
+        "I got three new tasks while you were here yammering."
+      ]
+    }
+  ]
+}

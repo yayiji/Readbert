@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice has been mentoring me for a month, and I can't tell how much of her advice is real and how much is a hoax."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, she advised me to give our boss a wedgie because she said he likes assertive people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that real?",
+        "I'm gonna say yes."
+      ]
+    }
+  ]
+}

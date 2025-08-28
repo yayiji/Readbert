@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry I've been too busy to mentor you lately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Were you mentoring me before?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Kind of. I was criticizing you in my mind.",
+        "I think it made me a better person."
+      ]
+    }
+  ]
+}

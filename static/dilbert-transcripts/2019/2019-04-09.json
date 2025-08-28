@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's do a post-mortem on our failed project to see what we did wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We allowed idiots to make decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You say that every time.",
+        "I haven't been wrong yet."
+      ]
+    }
+  ]
+}

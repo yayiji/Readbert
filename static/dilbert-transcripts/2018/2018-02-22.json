@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, your compensation will be a function of your baseline happiness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't want to waste money giving raises to employees who won't get any happier no matter what we do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This plan makes me unhappy.",
+        "Nice try, but you were already unhappy."
+      ]
+    }
+  ]
+}

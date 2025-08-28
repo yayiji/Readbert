@@ -1,0 +1,26 @@
+{
+  "date": "2018-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I took over Ted's software project.",
+        "Everything he did was inefficient and stupid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, we're done here.",
+        "I'm checking you off my list."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many people are you complaining to?",
+        "I trimmed the list to three hundred."
+      ]
+    }
+  ]
+}

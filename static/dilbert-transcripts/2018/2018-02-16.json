@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you confident in your financial projections?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're directionally accurate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your columns don't even add up.",
+        "Why is it so hard for you to give a compliment?"
+      ]
+    }
+  ]
+}

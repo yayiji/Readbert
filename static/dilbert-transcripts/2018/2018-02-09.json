@@ -1,0 +1,25 @@
+{
+  "date": "2018-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People keep stealing all of my great ideas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you ruled out the possibility that you only think of ideas that are obvious?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm...",
+        "I hadn't considered that.",
+        "And yet it was obvious."
+      ]
+    }
+  ]
+}

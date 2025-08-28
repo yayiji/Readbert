@@ -1,0 +1,31 @@
+{
+  "date": "2018-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have the test data?",
+        "No. Ask Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted said you have it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I say Ted has it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "One of you must dislike me.",
+        "That's not true. It could be both of us."
+      ]
+    }
+  ]
+}

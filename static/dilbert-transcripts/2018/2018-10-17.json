@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is the correct name for a co-worker who doesn't do any actual work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm thinking \"co-person,\" or possibly just \"leech.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we working right now?",
+        "Good point, co-person."
+      ]
+    }
+  ]
+}

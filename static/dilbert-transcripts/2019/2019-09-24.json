@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you compliment your employees, they will get big heads and think they are underpaid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if you criticize them, they will be unhappy and quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should I do instead of those things?",
+        "Have you tried hiding?"
+      ]
+    }
+  ]
+}

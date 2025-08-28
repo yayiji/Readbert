@@ -1,0 +1,25 @@
+{
+  "date": "2018-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you enjoy spending time with your children?",
+        "No, they're boring and needy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They can't even hold a conversation. If I'm being honest, I prefer working long hours so I see less of them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Perfect. You're hired.",
+        "I mean, I love them, but I don't like them."
+      ]
+    }
+  ]
+}

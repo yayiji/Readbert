@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The proposed system would reduce accidental employee deaths by 20%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is the ratio of the value of an employee's life compared to real people?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I find your question disturbing.",
+        "Just tell me the answer, halfling!"
+      ]
+    }
+  ]
+}

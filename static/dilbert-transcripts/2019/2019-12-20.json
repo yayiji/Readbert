@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the worst idea I have ever seen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't you once tell me you spent all of your savings on a fake psychic?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the only prediction she got right was that you would lose all of your money?",
+        "She also predicted I would be unhappy."
+      ]
+    }
+  ]
+}

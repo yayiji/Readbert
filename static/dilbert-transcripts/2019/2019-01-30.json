@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you can see from this chart, our product has been rated number one for six years in a row."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why does your chart stop four years ago?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bet you don't get invited to a lot of parties.",
+        "That's just a lucky guess."
+      ]
+    }
+  ]
+}

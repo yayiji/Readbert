@@ -1,0 +1,23 @@
+{
+  "date": "2019-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I solved our server reliability problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why didn't you do it sooner?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you see my motivation anywhere, tell it I miss it."
+      ]
+    }
+  ]
+}

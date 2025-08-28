@@ -1,0 +1,26 @@
+{
+  "date": "2019-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And then Mark said...",
+        "Stop talking about Mark!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All you do is talk about Mark! I am so sick of Mark. Please talk about anything but Mark."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someone told me you'd say that.",
+        "Was his name...",
+        "Mark?!!!"
+      ]
+    }
+  ]
+}

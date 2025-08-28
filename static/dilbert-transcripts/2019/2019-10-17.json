@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I forgot I was filling my bathtub and went away for the weekend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now my house is full of water all the way to the attic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what to do.",
+        "Try putting a hose in the chimney and sucking."
+      ]
+    }
+  ]
+}

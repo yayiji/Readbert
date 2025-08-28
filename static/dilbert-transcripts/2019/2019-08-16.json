@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to the science of memory, you are likely to forget ninety percent of what I present today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I got rid of ninety percent of my slides to focus on the one slide that matters."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or were you too lazy to make more than one slide?",
+        "I already forgot ninety percent of what you just said."
+      ]
+    }
+  ]
+}

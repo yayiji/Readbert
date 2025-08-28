@@ -1,0 +1,32 @@
+{
+  "date": "2019-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your so-called \"safe\" nuclear power invention will never work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It already works.",
+        "I'm charging my phone with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean, it will never be economical."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It can power a small city for a dollar per day.",
+        "Pfft.",
+        "I'll bet it ends up costing triple that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2019-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did your conference call go?",
+        "Normal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It took us twenty minutes to get everyone connected, followed by forty minutes of garbled speech that no one understood."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The meeting ended when everyone got tired of pretending something useful was happening.",
+        "I didn't really care."
+      ]
+    }
+  ]
+}

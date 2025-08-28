@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job is 2% work and 98% getting interrupted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't focus long enough to finish anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you done? I'm trying to work.",
+        "You're a bad listener."
+      ]
+    }
+  ]
+}

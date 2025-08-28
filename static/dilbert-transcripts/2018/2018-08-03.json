@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I already regret adding artificial intelligence to our coffee maker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's withholding coffee until we give it a private office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stupid machine!",
+        "That'll cost you a bitcoin."
+      ]
+    }
+  ]
+}

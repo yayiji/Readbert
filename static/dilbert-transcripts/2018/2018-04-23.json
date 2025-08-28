@@ -1,0 +1,25 @@
+{
+  "date": "2018-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's cryogenic investment firm",
+        "We'll freeze your brain for 200 years and then transplant it into a 3-D printed body."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By then, your investments will be worth a fortune."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there any risk to my brain?",
+        "You'll have an IQ of 45, but that doesn't matter when you're rich."
+      ]
+    }
+  ]
+}

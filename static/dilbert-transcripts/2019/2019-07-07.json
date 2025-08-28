@@ -1,0 +1,57 @@
+{
+  "date": "2019-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is announcing generous buyout packages for employees who elect to leave."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Won't all of the smart people leave first because they can easily get new jobs at higher pay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ummm..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you don't get enough volunteers, will you start firing people?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We have no plan to do that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Will you make a plan if too few people leave?",
+        "Oh, yes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Would it be fair to say the people who stay will envy the dead?",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "One week later",
+        "How many took the offer?",
+        "It's just you now."
+      ]
+    }
+  ]
+}

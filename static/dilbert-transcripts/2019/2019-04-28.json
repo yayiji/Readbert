@@ -1,0 +1,55 @@
+{
+  "date": "2019-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new system installation is a catastrophe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need to tear it out and re-architect it from scratch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the only person qualified to lead that effort."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But given the enormity of the job, I won't do it without a raise and a promotion."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Weren't you the cause of the catastrophe?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Exactly. That's why I'm the only person who knows how to fix it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are you blackmailing me?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No. It's nothing like that.",
+        "Wouldn't I be rewarding you for failure?",
+        "Let's not label it."
+      ]
+    }
+  ]
+}

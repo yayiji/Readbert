@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you didn't do anything noteworthy this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It only seems that way because I'm so good at my job that I make it look easy and never complain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My job is a nightmare!!!",
+        "Why can't you be more like Alice?"
+      ]
+    }
+  ]
+}

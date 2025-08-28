@@ -1,0 +1,55 @@
+{
+  "date": "2019-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sigh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sigh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's wrong?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gaaaa!!! Never ask about the sigh!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's a trap to make you listen to a distressing story full of woe."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My husband is a hunter and he wants me to learn how to skin and cook his kills."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That doesn't sound so bad.",
+        "Wait for it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He's a serial killer.",
+        "And there it is."
+      ]
+    }
+  ]
+}

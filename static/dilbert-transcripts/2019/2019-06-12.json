@@ -1,0 +1,25 @@
+{
+  "date": "2019-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is this everything I need to know?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can you be sure there isn't something out there we don't know about?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you asking me to prove a negative?",
+        "It's more of an accusation than a question."
+      ]
+    }
+  ]
+}

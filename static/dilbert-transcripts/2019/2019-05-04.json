@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw Dilbert talking to the CEO.",
+        "I think he's trying to undermine me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Engineers don't lie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's what worries me."
+      ]
+    }
+  ]
+}

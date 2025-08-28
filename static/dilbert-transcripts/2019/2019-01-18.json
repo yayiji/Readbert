@@ -1,0 +1,30 @@
+{
+  "date": "2019-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's been six months now and you still haven't fixed our server issue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't know we had a server issue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's no excuse."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Actually, it's kind of a good excuse.",
+        "Now you're making excuses for your excuses!"
+      ]
+    }
+  ]
+}

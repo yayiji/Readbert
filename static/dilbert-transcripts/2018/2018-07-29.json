@@ -1,0 +1,55 @@
+{
+  "date": "2018-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You said the software would be finished by today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I said it might be finished by today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why did you say it might be finished if you knew it wouldn't?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I didn't know it wouldn't be finished."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now you're flip-flopping all over the place."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're conflating your own false memories with my actions."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's exactly what liars say."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How was work?",
+        "Totally normal,",
+        "Unfortunately."
+      ]
+    }
+  ]
+}

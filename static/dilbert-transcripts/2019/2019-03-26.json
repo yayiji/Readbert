@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you so arrogant?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's an illusion caused by a combination of your low intelligence and my track record of being right all the time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're being arrogant again!",
+        "Or am I just right?"
+      ]
+    }
+  ]
+}

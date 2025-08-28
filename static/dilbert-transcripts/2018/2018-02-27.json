@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We all took the Dogbert personality test, but it's not clear how we're supposed to use the information."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, how does it help me to know you're a forgetful moron who can't keep a secret?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who showed you my private test results?",
+        "You did."
+      ]
+    }
+  ]
+}

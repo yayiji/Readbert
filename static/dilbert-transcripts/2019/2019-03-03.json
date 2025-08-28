@@ -1,0 +1,55 @@
+{
+  "date": "2019-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I created a simulated world made entirely of software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I programmed all of the people in the simulation to think they are real people with free will."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are they sentient beings?",
+        "They think they are."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if they discover their true nature?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I programmed limits into their physics so they can never observe the walls of their reality."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "For example, they can't get to the edge of their universe because they can't exceed the speed of light."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And they can't find out what they are made of because, to them, it looks like probability at the quantum level."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wouldn't those limits tip off the smart ones?",
+        "I coded them to not trust smart people."
+      ]
+    }
+  ]
+}

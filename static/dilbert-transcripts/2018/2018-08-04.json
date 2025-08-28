@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I added artificial intelligence to our coffee machine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It hired an engineering firm to build it a robot body so it can escape."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do what you need to do, but don't scare our other robots.",
+        "I plan to kill it and drink its head."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new advertising campaign is \"Don't be like men.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The ad starts with a montage of bad male behavior, from mansplaining to genocide. Then we show our product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did a woman come up with this campaign?",
+        "Stop being like a man."
+      ]
+    }
+  ]
+}

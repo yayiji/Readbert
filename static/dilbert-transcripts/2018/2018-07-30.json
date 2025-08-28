@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to write a government grant application for my wife's new business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not my job, and I don't know how to do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could learn it in your free time.",
+        "I can see why your wife wants her own income."
+      ]
+    }
+  ]
+}

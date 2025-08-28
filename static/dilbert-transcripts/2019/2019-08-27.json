@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I skip the team-building celebration to get some work done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because I'm trying to change the culture."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To what? Angry and unproductive?",
+        "Trust the cake."
+      ]
+    }
+  ]
+}

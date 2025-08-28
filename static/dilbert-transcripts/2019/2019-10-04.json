@@ -1,0 +1,27 @@
+{
+  "date": "2019-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Reality has become so absurd that it is indistinguishable from parody.",
+        "How can we fix that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is nothing to fix.",
+        "Reality has always been the same as parody.",
+        "You just didn't notice until now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're joking, right?",
+        "Check out this comic strip called \"Dilbert.\""
+      ]
+    }
+  ]
+}

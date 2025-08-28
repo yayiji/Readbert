@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to thank each member of the team by name..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll start with what's-his-face here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's Dilbert.",
+        "No, that's not it. You look like a Steve."
+      ]
+    }
+  ]
+}

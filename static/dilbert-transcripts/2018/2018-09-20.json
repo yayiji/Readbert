@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The job market is so competitive that we can't even find ex-cons who want to work here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we're hiring active criminals who haven't yet been caught."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say hello to Paul.",
+        "I hear our data center has a lot of copper wire."
+      ]
+    }
+  ]
+}

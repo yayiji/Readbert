@@ -1,0 +1,23 @@
+{
+  "date": "2018-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We started using A.I. to identify when employees are unproductive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ping ping ping ping ping ping."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like this meeting is setting off some alarms."
+      ]
+    }
+  ]
+}

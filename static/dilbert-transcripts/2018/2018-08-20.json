@@ -1,0 +1,23 @@
+{
+  "date": "2018-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an idea on how to fix our process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've noticed that all of your ideas make everyone but you work harder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, we have different criteria for what makes an idea great."
+      ]
+    }
+  ]
+}

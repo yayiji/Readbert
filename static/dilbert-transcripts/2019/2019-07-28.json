@@ -1,0 +1,52 @@
+{
+  "date": "2019-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, why aren't you at this meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm having a bad hair day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's no reason to miss a meeting!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You don't understand. It's really, really bad."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Come to the meeting right now, or you're fired!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gurk!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's bad hair.",
+        "Can't say I didn't warn him."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2019-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to add a feature to our product because our marketing campaign says we already have it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. What is the feature?",
+        "Time travel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long will it take to add that feature?",
+        "If I'm successful, I'll have it done by last week."
+      ]
+    }
+  ]
+}

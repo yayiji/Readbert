@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our boss asked me to mentor you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But don't expect too much from me because I see you as a competitor for my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I have a mentor who doesn't see me as a threat?",
+        "Why? So you can take my job?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2019-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I disagree with your email saying the plan won't work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My email said exactly the opposite.",
+        "I said the plan will definitely work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I read it with my own eyes.",
+        "I'm the one who wrote it!!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2019-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have heard from various anonymous sources that you are an Elbonian spy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's ridiculous.",
+        "Who told you that?",
+        "I can't say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, my anonymous sources say you are nuts.",
+        "You can't believe anonymous sources!"
+      ]
+    }
+  ]
+}

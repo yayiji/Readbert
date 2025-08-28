@@ -1,0 +1,53 @@
+{
+  "date": "2019-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't approve this purchase without three vendor quotes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only two companies in the world make this sort of product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I bend the rules for you, everyone will want me to bend the rules."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you could only bend the rules when it makes complete sense to do so."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That would be chaos."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Everyone thinks they have a good reason to bend the rules."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is the real problem here that you were bullied in school, and you use this job for some sort of sick revenge?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now you need four vendor quotes."
+      ]
+    }
+  ]
+}

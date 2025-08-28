@@ -1,0 +1,55 @@
+{
+  "date": "2019-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to talk to you about your apple-eating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every afternoon you eat an apple at your desk."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your co-workers are complaining because it's loud."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They can't work with all of your crispy chewing noise."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In my defense, my co-workers are so incompetent that the less work they do, the better off the company is."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That is a surprisingly robust defense."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll come back if I can think of a counter-argument.",
+        "Good luck.",
+        "Crunch."
+      ]
+    }
+  ]
+}

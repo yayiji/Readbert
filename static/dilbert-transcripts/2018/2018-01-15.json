@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea is great, but I plan to oppose it because I feel diminished by the success of others."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could support it now and then stab me in the back later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's two great ideas you've had today.",
+        "Thank you."
+      ]
+    }
+  ]
+}

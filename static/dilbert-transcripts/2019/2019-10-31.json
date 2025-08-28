@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's sensitivity training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today you will learn how to never offend anyone ever again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you going to kill us?",
+        "No, no, no. After an hour of this class, you'll want to do it yourself."
+      ]
+    }
+  ]
+}

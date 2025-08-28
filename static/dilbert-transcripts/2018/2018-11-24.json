@@ -1,0 +1,23 @@
+{
+  "date": "2018-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've developed an A.I. with such strong persuasion skills it can control human minds."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously, we have to stop the project and destroy all of the code to prevent it from spreading."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The A.I. says I need to ignore you."
+      ]
+    }
+  ]
+}

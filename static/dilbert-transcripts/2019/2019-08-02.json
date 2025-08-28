@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have suggestions for improving our company culture?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For starters, you could fire the toxic employee you hired for no good reason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You were right about Dilbert being a hater.",
+        "You should hear what he says about you."
+      ]
+    }
+  ]
+}

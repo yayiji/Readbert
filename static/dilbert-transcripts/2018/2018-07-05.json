@@ -1,0 +1,26 @@
+{
+  "date": "2018-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been a contractor here for over a year.",
+        "Maybe you should just hire me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who are you?",
+        "I didn't even know I was paying you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Perhaps we can pretend this conversation never happened.",
+        "That feels like the best option."
+      ]
+    }
+  ]
+}

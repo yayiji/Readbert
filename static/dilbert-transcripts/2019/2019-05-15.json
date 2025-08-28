@@ -1,0 +1,26 @@
+{
+  "date": "2019-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you confirmed that the cyber attacks are coming from Elbonia?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess that means you are on their side.",
+        "What?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What proof do you have that Dilbert is a spy?",
+        "He didn't deny it the way I think he should have."
+      ]
+    }
+  ]
+}

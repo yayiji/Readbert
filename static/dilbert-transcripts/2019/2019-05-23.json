@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your quote is a bit high. Can you do it cheaper?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, we offer a low-cost option that involves me talking about the software, but you can't have it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would be the point of that?",
+        "You're the one who brought it up."
+      ]
+    }
+  ]
+}

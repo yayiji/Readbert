@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The inspirational poster I put in the break room isn't working."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I asked around and no one is soaring with the eagles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the poster defective?",
+        "That's the only explanation that makes sense."
+      ]
+    }
+  ]
+}

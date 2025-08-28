@@ -1,0 +1,23 @@
+{
+  "date": "2018-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to find out who leaked our strategy to our competition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is your email password still 123?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop changing the subject."
+      ]
+    }
+  ]
+}

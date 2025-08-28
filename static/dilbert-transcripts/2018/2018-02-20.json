@@ -1,0 +1,25 @@
+{
+  "date": "2018-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it too late to rethink our new marketing slogan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When we say, \"We're not a bunch of morons,\" it kinda sounds to my ears as if we are.",
+        "But it says we're not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you're not a rat-faced waste of oxygen.",
+        "Thank you."
+      ]
+    }
+  ]
+}

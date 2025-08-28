@@ -1,0 +1,25 @@
+{
+  "date": "2018-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We only hire people who have experience."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I get experience if no one wants to hire inexperienced people?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We do hire liars.",
+        "Oh, good.",
+        "I have tons of experience."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the product redesign?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You never told me to redesign the product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't want any excuses!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You never told me to redesign anything."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Whoa! Leave your pretzel logic at home."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You need to learn how to take responsibility for your failures."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay... I take full responsibility for you not telling me what you wanted me to do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're not doing it right.",
+        "Should I slap myself while saying it?"
+      ]
+    }
+  ]
+}

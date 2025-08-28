@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm worried that if I spend too much time using virtual reality, I'll forget how to talk to real people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I doubt you could get more boring and inadequate than you already are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks for the pep talk.",
+        "Are we done? I'd like to get back to staring at nothing."
+      ]
+    }
+  ]
+}

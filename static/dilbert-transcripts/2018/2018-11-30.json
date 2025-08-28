@@ -1,0 +1,26 @@
+{
+  "date": "2018-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you send me a sarcastic email response?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't.",
+        "Then how do you explain this exclamation mark?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was pretending to be interested in what you said.",
+        "Oh, okay.",
+        "I like that."
+      ]
+    }
+  ]
+}

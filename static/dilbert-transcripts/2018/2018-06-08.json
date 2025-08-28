@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "On a good day, the frustration and anger solve for the boredom."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's a bad day like?",
+        "Same as a good day but with more questions."
+      ]
+    }
+  ]
+}

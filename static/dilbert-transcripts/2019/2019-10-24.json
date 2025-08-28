@@ -1,0 +1,30 @@
+{
+  "date": "2019-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you send me your project update?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Were you planning to read it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Then I totally sent it to you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Half of my job is imaginary."
+      ]
+    }
+  ]
+}

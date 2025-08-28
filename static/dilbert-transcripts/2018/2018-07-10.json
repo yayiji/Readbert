@@ -1,0 +1,25 @@
+{
+  "date": "2018-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you hate the plan so much?",
+        "I don't hate the plan. I like the plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I can tell by the way you chose your words that you hate it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I can tell by your face that you hate me.",
+        "You're like a blind squirrel who brings his own nuts to the park."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2019-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll need a scapegoat to blame for our failure on this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one will believe it wasn't our fault."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you kidding?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People will believe anything."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We just have to be the first to frame the situation."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I suppose we could make our lie sound credible.",
+        "That's over-kill."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We don't need to sound credible?",
+        "Not even a little."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Our project failed because of climate change.",
+        "That sounds right."
+      ]
+    }
+  ]
+}

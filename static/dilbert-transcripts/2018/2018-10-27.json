@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I put five thousand dollars into the cryptocurrency wallet you created for me and it disappeared!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're the only other person who knew my password and private key."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not true.",
+        "I shared them with Dilbert to create reasonable doubt."
+      ]
+    }
+  ]
+}

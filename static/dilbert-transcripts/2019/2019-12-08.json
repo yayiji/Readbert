@@ -1,0 +1,54 @@
+{
+  "date": "2019-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think?",
+        "This will never work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This isn't a prototype. This is the finished software, and it's working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see how you can get this done in time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's already done. You are literally using it while we are talking."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We don't have the resources to program this."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's already done!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You are using it right now!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You'd better settle down, or you'll never get this finished."
+      ]
+    }
+  ]
+}

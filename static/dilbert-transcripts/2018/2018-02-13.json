@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm worried that all of my employees might have mental problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They exhibited anger issues when I told them to work all weekend for no extra pay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did they say you're the cause of their mental problems?",
+        "I don't listen to crazy people."
+      ]
+    }
+  ]
+}

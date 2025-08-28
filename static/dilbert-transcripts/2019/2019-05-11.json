@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have an idea for fixing our communication problem with marketing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Must... not... speak or else he will assign the project to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I saw your eye twitch. The project is all yours.",
+        "Gaaaa!!!"
+      ]
+    }
+  ]
+}

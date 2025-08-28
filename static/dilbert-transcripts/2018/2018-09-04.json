@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to adopt a hot new management trend called \"radical candor.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The trick is to be direct yet kind at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What were you doing before?",
+        "Let's not get into that."
+      ]
+    }
+  ]
+}

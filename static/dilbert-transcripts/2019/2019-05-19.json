@@ -1,0 +1,54 @@
+{
+  "date": "2019-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you telling everyone my project got canceled?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I never said anything like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're such a liar. I saw your email to Ted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I show you that email right now, and it says nothing about your project..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...Will you admit you were wrong and humbly apologize to me?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't think I can commit to that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, anyway, here it is. And you can plainly see you were wrong."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This looks photoshopped.",
+        "I don't see a winning path for me here."
+      ]
+    }
+  ]
+}

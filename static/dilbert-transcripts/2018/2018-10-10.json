@@ -1,0 +1,25 @@
+{
+  "date": "2018-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the business insultant",
+        "Make a journal of everything you do for a week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then stop doing everything that is on your list because it's making you fat and stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have some questions.",
+        "Add \"asks questions\" to your list."
+      ]
+    }
+  ]
+}

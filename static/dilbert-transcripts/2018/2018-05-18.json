@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought stress balls for everyone in the office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! This ball is too hard to squeeze! It's stressing me out!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How is this going to decrease my stress?",
+        "You're thinking of anti-stress balls."
+      ]
+    }
+  ]
+}

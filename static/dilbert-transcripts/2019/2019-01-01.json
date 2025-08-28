@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy random calendar date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be celebrating by doing nothing fun or useful all day because everything is closed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could visit your mom.",
+        "How's that different from what I just said?"
+      ]
+    }
+  ]
+}

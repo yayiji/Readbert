@@ -1,0 +1,26 @@
+{
+  "date": "2018-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Jerry the contract employee.",
+        "I hired him to work on Project Zebra."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We haven't even defined the project.",
+        "How did you know what skills we needed?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you so threatened by Jerry?",
+        "He's not very agile."
+      ]
+    }
+  ]
+}

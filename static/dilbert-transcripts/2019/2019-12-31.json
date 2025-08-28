@@ -1,0 +1,23 @@
+{
+  "date": "2019-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you explain what your product does?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our product was created by an experienced team of technologists to address the way content is surfaced."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next time just say, \"No.\""
+      ]
+    }
+  ]
+}

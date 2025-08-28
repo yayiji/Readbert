@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new headphones product is better than the competition in every way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excellent. I'll get marketing involved to tell a bunch of lies about all of that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would they need to lie?",
+        "They're kind of set in their ways."
+      ]
+    }
+  ]
+}

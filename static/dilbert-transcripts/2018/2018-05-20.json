@@ -1,0 +1,54 @@
+{
+  "date": "2018-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Warren Buffett says you should spend time with people who are better than you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would people who are better than me be dumb enough to spend time with me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... I assume you have to find people who are better than you, but not smart enough to avoid you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because, obviously, you'd be bringing down the average of anyone who was better than you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Which reminds me, I need to cut this meeting short to keep my average up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe we can continue the meeting without him."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That would only be good for you. I need to find better people."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The meeting went downhill from there.",
+        "Can you wrap this up? You're bringing down my average."
+      ]
+    }
+  ]
+}

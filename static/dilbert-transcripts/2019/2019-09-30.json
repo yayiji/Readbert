@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought a casserole for the potluck. When are you coming?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When was the last time the health department did an inspection of your home kitchen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never.",
+        "That's when I'll be going to the potluck."
+      ]
+    }
+  ]
+}

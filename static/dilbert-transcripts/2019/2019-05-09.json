@@ -1,0 +1,30 @@
+{
+  "date": "2019-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do I hear a keyboard tapping every time I'm talking?",
+        "Click,",
+        "click,",
+        "click."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have to multitask when you talk, just to stay awake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please stop doing that.",
+        "Okay...",
+        "I zzzzzzz-",
+        "zzzzzz-",
+        "zzz..."
+      ]
+    }
+  ]
+}

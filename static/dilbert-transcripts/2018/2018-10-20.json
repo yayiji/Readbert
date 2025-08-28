@@ -1,0 +1,26 @@
+{
+  "date": "2018-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When will I get the test data?",
+        "I don't know. Ted is working on that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When do you think he will be done?",
+        "I don't know. I'm not Ted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just give me a range.",
+        "Between one day and seven-hundred years."
+      ]
+    }
+  ]
+}

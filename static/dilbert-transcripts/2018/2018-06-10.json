@@ -1,0 +1,53 @@
+{
+  "date": "2018-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to write up your job description for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because you're planning to hire someone to replace me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need it by tomorrow."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Job description:"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Leverage platform technologies to maximize software architecture optimization via nanotubes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Here you go."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can you start on Monday?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I changed my mind."
+      ]
+    }
+  ]
+}

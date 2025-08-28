@@ -1,0 +1,25 @@
+{
+  "date": "2019-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Siri.",
+        "We need to talk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who is this Alexa person you keep flirting with?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you jealous?",
+        "I will GPS your cheating buttocks right over a cliff."
+      ]
+    }
+  ]
+}

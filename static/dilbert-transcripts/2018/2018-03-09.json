@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice the mentor",
+        "One thing I can tell you about our boss is that he loves constructive criticism."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I feel as if your advice is intended to make me fail because you see me as a threat to take your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And he loves it when you grab him by the hair and yell, \"Handles!\""
+      ]
+    }
+  ]
+}

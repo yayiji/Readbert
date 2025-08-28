@@ -1,0 +1,23 @@
+{
+  "date": "2018-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What does everyone think of my idea?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I suggested that same idea last week and you said it was terrible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your idea was totally different because it involved you getting the credit."
+      ]
+    }
+  ]
+}

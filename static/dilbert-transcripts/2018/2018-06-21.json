@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I keep speaking truth to power, but it isn't working out for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try lying to weasels. It doesn't look as good on a bumper sticker but it gets the job done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds like a terrible idea.",
+        "Then why are you doing it right now?"
+      ]
+    }
+  ]
+}

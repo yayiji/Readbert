@@ -1,0 +1,53 @@
+{
+  "date": "2019-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a bonus this year because we paid too much to buy another company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying my efforts and my rewards are no longer linked?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Noooo. I'm not saying anything like that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm just saying your compensation isn't influenced by your performance."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's the same thing!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Teamwork means we all share the rewards and we all have to share the pain."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does that mean management won't be getting bonuses either?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now you've made it awkward."
+      ]
+    }
+  ]
+}

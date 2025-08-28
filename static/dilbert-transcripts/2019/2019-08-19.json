@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for a new pet employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The ideal candidate would be a brown-nosing tattler with no ethical core."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds like a brilliant idea, even though Dilbert says you are a moron.",
+        "You got the job."
+      ]
+    }
+  ]
+}

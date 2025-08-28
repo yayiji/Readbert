@@ -1,0 +1,23 @@
+{
+  "date": "2018-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The laser communication prototype you built for NASA accidentally vaporized the alien ship heading our way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it got off a message to its home planet, your stupidity has doomed humanity to annihilation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Also, you didn't complete your mandatory training in chair safety."
+      ]
+    }
+  ]
+}

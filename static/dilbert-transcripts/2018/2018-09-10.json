@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a device that can read your thoughts and turn them into computer commands."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing is happening."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it broken?",
+        "That's one of my top two theories."
+      ]
+    }
+  ]
+}
