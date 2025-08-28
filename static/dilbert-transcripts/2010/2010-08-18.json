@@ -1,0 +1,23 @@
+{
+  "date": "2010-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can research that question with my phone's browser."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Much time passes"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I found the Google!"
+      ]
+    }
+  ]
+}

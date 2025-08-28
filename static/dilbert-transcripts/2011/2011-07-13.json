@@ -1,0 +1,26 @@
+{
+  "date": "2011-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should build your own helicopter from a kit.",
+        "I'll send you a link to the website."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's only dangerous for people who are too dumb to know how dumb they are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it as easy as it sounds?",
+        "I have pliers.",
+        "Yes!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to be open-minded about this idea.",
+        "Oh, really?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the sort of thing people say before they describe the worst idea in the history of the world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My idea is to not give me a raise.",
+        "I'm hating you a little extra."
+      ]
+    }
+  ]
+}

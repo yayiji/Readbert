@@ -1,0 +1,25 @@
+{
+  "date": "2011-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need the signed original contract to process your order.",
+        "Because we're in the middle ages?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ouch! Your stinging sarcasm has embarrassed me into saying I will accept a faxed copy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we good now?",
+        "Absolutely, because the 1950s is a happy time."
+      ]
+    }
+  ]
+}

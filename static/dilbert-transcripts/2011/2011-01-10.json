@@ -1,0 +1,24 @@
+{
+  "date": "2011-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In this country, it is customary to respond to a question with something called an \"answer.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your approach is more like what I would expect to see if clothing were used as bags for meat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I will ask my question a seventh time...",
+        "Stop saying what you're thinking."
+      ]
+    }
+  ]
+}

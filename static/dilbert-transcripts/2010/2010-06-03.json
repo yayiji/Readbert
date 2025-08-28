@@ -1,0 +1,24 @@
+{
+  "date": "2010-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's more important – our core systems or our key processes?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If there's no clear answer to that question, I'll continue to act randomly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get out of my office.",
+        "The open door policy probably looked good on paper."
+      ]
+    }
+  ]
+}

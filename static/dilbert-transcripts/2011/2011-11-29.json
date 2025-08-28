@@ -1,0 +1,25 @@
+{
+  "date": "2011-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This past week, everything that could go wrong did go wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Look on the bright side: you're seven days closer to death."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey!",
+        "That's true!",
+        "It's creepy when that works."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2010-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I cleaned out my desk. Would you be willing to give me a letter of reference?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about the letter \"L\"? That seems about right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must...",
+        "not...",
+        "burn...",
+        "bridges.",
+        "Too soon?"
+      ]
+    }
+  ]
+}

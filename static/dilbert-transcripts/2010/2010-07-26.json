@@ -1,0 +1,25 @@
+{
+  "date": "2010-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're planning to introduce our new military product with a light show in New York Harbor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, can you handle the weapon demo and the light show?",
+        "Sure. What could go wrong?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're calling it \"The Stump of Liberty.\"",
+        "No one is saying it was a boring show."
+      ]
+    }
+  ]
+}

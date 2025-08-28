@@ -1,0 +1,26 @@
+{
+  "date": "2011-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to create a product that gives people the illusion of being friends with ghosts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People only want real friends, not imaginary ones.",
+        "Your idea is ridiculous."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many friends do you have on Facebook?",
+        "Seven hundred.",
+        "Why?"
+      ]
+    }
+  ]
+}

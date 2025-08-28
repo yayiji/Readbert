@@ -1,0 +1,54 @@
+{
+  "date": "2010-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it my imagination or is your pricing intentionally confusing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's intentionally confusing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That way you can't compare our prices to our competitors' prices."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Our competitors do the same thing. It's called a confusopoly."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We all get our fair share of confused customers and we don't need to lower our prices to compete."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We use the profits from our anti-competitive behavior to fund innovation."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So don't ruin a good system by trying to understand what you're buying."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That almost sounds reasonable.",
+        "Now spank yourself and thank me!"
+      ]
+    }
+  ]
+}

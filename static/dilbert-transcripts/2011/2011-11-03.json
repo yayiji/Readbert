@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I live in an ugly apartment with two ugly roommates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each workday I take an ugly bus to an ugly building and spend the entire day in my ugly cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least you get to eat lunch with us.",
+        "I've said too much."
+      ]
+    }
+  ]
+}

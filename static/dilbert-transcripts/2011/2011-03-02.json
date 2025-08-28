@@ -1,0 +1,29 @@
+{
+  "date": "2011-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should I continue to manage issues?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or should I align organizational activities with stakeholder expectations?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which answer would cause you to do real work?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What is this, a farm?"
+      ]
+    }
+  ]
+}

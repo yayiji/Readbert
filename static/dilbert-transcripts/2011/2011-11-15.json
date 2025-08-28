@@ -1,0 +1,28 @@
+{
+  "date": "2011-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, is there any difference between trust and stupidity?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hold that thought.",
+        "I'll be right back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh."
+      ]
+    }
+  ]
+}

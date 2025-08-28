@@ -1,0 +1,24 @@
+{
+  "date": "2011-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, this next decision involves six variables, four imbeciles, and one brilliant engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to the Dogbert complexity algorithm, it is impossible to make a rational decision in this situation.",
+        "All in favor of giving up?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I found out I'm a brilliant engineer."
+      ]
+    }
+  ]
+}

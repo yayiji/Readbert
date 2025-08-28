@@ -1,0 +1,25 @@
+{
+  "date": "2010-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And I'll need all of that by tomorrow.",
+        "No problem. I'll get right on it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is a bad sign. If you were even a little bit competent, you would be overloaded with work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! I'm putting my trust in a moron!",
+        "Wow. You got there fast."
+      ]
+    }
+  ]
+}

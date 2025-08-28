@@ -1,0 +1,25 @@
+{
+  "date": "2010-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company is going to a web-only business model.",
+        "That's terrific."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's phase three? Does it involve operating only in your own imagination?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Be nice.",
+        "Maybe you can help me grow this plant back into a seed."
+      ]
+    }
+  ]
+}

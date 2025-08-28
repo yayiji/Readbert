@@ -1,0 +1,23 @@
+{
+  "date": "2011-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It might look as if I'm in a dead-end job, but I'm developing an app in my spare time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a lottery ticket. I just doubled your odds of success."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I bought two for myself so I don't need to make an app."
+      ]
+    }
+  ]
+}

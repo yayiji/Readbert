@@ -1,0 +1,52 @@
+{
+  "date": "2011-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This doesn't feel right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It came straight from our lawyer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It just feels wrong. Can you research it a little more?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sure. I can do that research in my head."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Let's see... our lawyer got his degree at Harvard and has twenty years in this exact field."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whereas you have a \"feeling\" that is probably the result of an unholy combination of greasy food and ignorance."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The data clearly favors the Harvard law degree over the cheeseburger.",
+        "Good luck. He's in a bad mood."
+      ]
+    }
+  ]
+}

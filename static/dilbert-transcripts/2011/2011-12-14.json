@@ -1,0 +1,23 @@
+{
+  "date": "2011-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a safety problem at our Elbonian factory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're getting reports of hysterical blindness. They don't know what's causing it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't see!"
+      ]
+    }
+  ]
+}

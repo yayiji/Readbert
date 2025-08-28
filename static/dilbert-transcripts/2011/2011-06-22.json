@@ -1,0 +1,24 @@
+{
+  "date": "2011-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get buy-in for my project because our CEO hasn't approved it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I can't get our CEO to approve it until I have buy-in from all of the divisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On the plus side, now I understand why the windows in our building don't open.",
+        "It's cleaner."
+      ]
+    }
+  ]
+}

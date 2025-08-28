@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fought with my boss to get you a raise but I lost."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm always fighting for you behind the scenes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're a terrific boss whenever there are no credible witnesses.",
+        "Thank you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2010-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to move to a rolling forecast."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, the problem is that forecasts are worthless, and your solution is to do more of them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If my sarcasm is a problem, I can solve that by doing more of it.",
+        "Snork"
+      ]
+    }
+  ]
+}

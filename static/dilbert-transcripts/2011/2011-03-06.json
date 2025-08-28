@@ -1,0 +1,46 @@
+{
+  "date": "2011-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to be more proactive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can only appear to be proactive if you stop telling me to do things I've already planned."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How am I supposed to know what you plan to do every minute?",
+        "I could send you an e-mail every time I have a thought.",
+        "I don't have time for that!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Apparently your bad time management is creating the illusion that I'm not proactive."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll take the liberty of signing you up for a time management class."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Don't do that!",
+        "So... I should not be proactive?",
+        "Just do what I want before I know I want it.",
+        "I hope the next thing you want is sarcasm."
+      ]
+    }
+  ]
+}

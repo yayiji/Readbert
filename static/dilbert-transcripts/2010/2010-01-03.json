@@ -1,0 +1,55 @@
+{
+  "date": "2010-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, Wally. Human resources assigned me to be your ergo buddy.",
+        "My what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll observe while you work, then give you suggestions on improving your ergonomics."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your posture is all wrong, and your keyboard needs to be lower."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your bad ergonomic practices have turned you into a golem.",
+        "Golem?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It means a shapeless mass imbued with life. A lump, clod, or fool."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's right here on my checklist, after \"boneless chicken.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does that say you're supposed to pour salt on me until I dry up and die?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's pretend you didn't see that."
+      ]
+    }
+  ]
+}

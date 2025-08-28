@@ -1,0 +1,24 @@
+{
+  "date": "2010-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're two hours late.",
+        "I was doing e-mail in the parking lot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to bang out a few hours of work before some idiot starts asking me dumb questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It would be funny if the next thing you say is in the form of a question."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2011-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're buying an entire company just to get their engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that slavery is illegal and the engineers are free to find jobs at better companies?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I sure hope you're wrong about that."
+      ]
+    }
+  ]
+}

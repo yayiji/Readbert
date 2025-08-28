@@ -1,0 +1,25 @@
+{
+  "date": "2010-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you review the client's specs like I asked you to?",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought you asked me to \"preview the lion's pecs.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would I ask you to preview a lion's pecs?!!",
+        "So... now you want me to question everything you say?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2010-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're a third-rate company in a dying industry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend consultant-assisted corporate suicide."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will it hurt?",
+        "It might sting a little when you announce you're going to be a web-only company."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My doctor says I have a wicked case of Pon Farr.",
+        "It's when Vulcans and engineers go into heat every seven years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm pretty sure I don't care, but let me check my calendar just in case..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someone kill me!",
+        "Now! Now! Now!"
+      ]
+    }
+  ]
+}

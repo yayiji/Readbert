@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your email was ignorant and arrogant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bad decision 2",
+        "How do you know it isn't just a reading comprehension problem on your end?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bad decision 3",
+        "Let's use logic to see which one of us is right."
+      ]
+    }
+  ]
+}

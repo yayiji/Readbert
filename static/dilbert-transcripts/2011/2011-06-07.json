@@ -1,0 +1,25 @@
+{
+  "date": "2011-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My financial model in Excel is so complicated that I assume it's riddled with formula errors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that's okay because management only uses the results when the figures support their schemes for career advancement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh.",
+        "I just realized that my life is ridiculous.",
+        "Do you have handouts?"
+      ]
+    }
+  ]
+}

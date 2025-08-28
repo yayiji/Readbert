@@ -1,0 +1,23 @@
+{
+  "date": "2010-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked for a transfer to our missile guidance engineering division."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Once they get to know me, they'll only give me unimportant tasks so I won't accidentally destroy a fishing village."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The great thing about unimportant tasks is that no one really cares if you do them."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2010-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Amber, would you like to see a movie that one of us will undoubtedly hate?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only like movies with superheroes, geeks or robots.",
+        "You probably only like movies with tears, diseases and weddings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does my honesty turn you on?",
+        "I just stopped liking mammals."
+      ]
+    }
+  ]
+}

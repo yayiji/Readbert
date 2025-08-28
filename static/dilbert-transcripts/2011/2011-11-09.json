@@ -1,0 +1,27 @@
+{
+  "date": "2011-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Alice!",
+        "Did you hear about my big promotion?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Congratulations, Ted.",
+        "I'm not jealous at all.",
+        "Keep up the good work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry about my face.",
+        "I haven't mastered the art of full-body lying."
+      ]
+    }
+  ]
+}

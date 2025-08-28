@@ -1,0 +1,23 @@
+{
+  "date": "2011-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you finish coding the paywall for our website?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I did something better. I wrote a script to delete any new content as soon as it's posted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At bonus time, keep in mind that you're the one who had the idea to eliminate revenue, and I'm the one who lowered hosting costs."
+      ]
+    }
+  ]
+}

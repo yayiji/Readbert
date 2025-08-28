@@ -1,0 +1,54 @@
+{
+  "date": "2011-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need creative ideas for our next product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But not from you. Your ideas are awful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And don't suggest something that is already being done. That just puts your ignorance on public display."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't want to hear any ideas that cost money or increase risk."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "As usual, I'll evaluate each idea by repeating it slowly while I look at you with disdain."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you come up with a good idea, I'll let you take on the project in addition to your existing work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Who wants to go first?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did I hire so many people who have no ideas?",
+        "Probably bad luck."
+      ]
+    }
+  ]
+}

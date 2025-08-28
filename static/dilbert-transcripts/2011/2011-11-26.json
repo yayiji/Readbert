@@ -1,0 +1,30 @@
+{
+  "date": "2011-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent all of last week planning how to get everything done this week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Add one more thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, but I'll need to replan my entire schedule."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How long will that take?",
+        "Until you give me the next assignment."
+      ]
+    }
+  ]
+}

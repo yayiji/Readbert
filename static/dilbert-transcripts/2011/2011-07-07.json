@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to reward you for your hard work by giving you a lateral promotion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was going to hire from the outside, but I realized I can make you do the new job plus your old one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is money involved?",
+        "Yes! I'm saving a ton of it!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2010-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need more people on the project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Figure it out. Work smarter not harder.",
+        "Make a plan. Move some things around.",
+        "Adjust priorities.",
+        "Just get it done. Give me a status report."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That did nothing but make me hate you.",
+        "I can replace you with someone who will pretend to be inspired."
+      ]
+    }
+  ]
+}

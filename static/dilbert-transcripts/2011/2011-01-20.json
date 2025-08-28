@@ -1,0 +1,25 @@
+{
+  "date": "2011-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did your interview go yesterday?",
+        "Great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They offered less money for a worse job. But for half a day I imagined it would be better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Half a day?! Lucky!",
+        "I know! I can't wait for my next useless interview!"
+      ]
+    }
+  ]
+}

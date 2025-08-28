@@ -1,0 +1,24 @@
+{
+  "date": "2010-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your mission is to assassinate the motivation of my rival."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to attend a meeting with him and drain the optimism out of his body."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is happening to my sense of hope?",
+        "Let it happen."
+      ]
+    }
+  ]
+}

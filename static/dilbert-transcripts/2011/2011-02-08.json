@@ -1,0 +1,27 @@
+{
+  "date": "2011-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You charged my project for expenses that aren't mine.",
+        "Let me see that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We accountants are arsenic-based life forms. That makes you my natural enemy.",
+        "Crumple",
+        "Crumple"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is not logical.",
+        "Live long and phospher."
+      ]
+    }
+  ]
+}

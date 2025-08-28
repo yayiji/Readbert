@@ -1,0 +1,24 @@
+{
+  "date": "2010-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of my plan, Alice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll bet your left brain is so tiny that you stagger in a clockwise direction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll ask someone else.",
+        "Walk toward the credenza and you'll have a good chance of hitting the doorway."
+      ]
+    }
+  ]
+}

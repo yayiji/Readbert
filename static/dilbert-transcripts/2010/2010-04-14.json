@@ -1,0 +1,26 @@
+{
+  "date": "2010-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our policy is to put people in careers that match their looks.",
+        "I thought that was a coincidence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your botched nose job makes you too unconventional to be an engineer.",
+        "No!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Welcome to the art department.",
+        "Man, I wish I was brave enough to get a snout."
+      ]
+    }
+  ]
+}

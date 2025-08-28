@@ -1,0 +1,35 @@
+{
+  "date": "2011-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Um...",
+        "May I ask one...",
+        "Blah, blah, blah",
+        "Blah, blah, blah",
+        "Blah, blah, blah",
+        "Blah, blah, blah",
+        "Blah, blah..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm begging you.",
+        "Let me ask...",
+        "Blah, blah,",
+        "Blah, blah,",
+        "Blah, blah,",
+        "Blah, blah,",
+        "Blah, blah."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to participate more in meetings."
+      ]
+    }
+  ]
+}

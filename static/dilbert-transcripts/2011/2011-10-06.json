@@ -1,0 +1,23 @@
+{
+  "date": "2011-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One percent of engineers create all of the industry-changing products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I propose replacing the other 99% with robotic arms that hold coffee cups."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You won't see any of the laggards in the 99% come up with great ideas like this one."
+      ]
+    }
+  ]
+}

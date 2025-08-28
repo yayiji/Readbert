@@ -1,0 +1,24 @@
+{
+  "date": "2010-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've had reports of \"meeting pirates,\" taking over agendas and pillaging credit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yaaarg!!! I take yer document, and leave ye scurvy rats adrift!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then I invented server virtualization. Yaaarg!",
+        "Wow! That was a good idea."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2011-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a new phone. Which one do you recommend?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want to be angry about your dropped calls or angry about your poor battery life?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't hate the messenger.",
+        "People similar to you build phones."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2010-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wouldn't worry about losing your job after the merger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because you put in a good word for me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's more of an observation that I don't worry about other people's jobs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2011-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have to learn to do more with less."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Less meetings?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, we'll need more meetings to figure out how to do more with less."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Less micro-management?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, I'll have to watch you more closely than ever to make sure you're doing more with less."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm talking about using less money."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, like a death spiral. Why didn't you just say that in the first place?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's as if you're talking more to say less.",
+        "Should we be more like you or less?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2011-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy new year!",
+        "Whoa! Settle down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't celebrate the magical thinking that says one random point in the space-time continuum is somehow special."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's just a hug.",
+        "You'll enjoy it.",
+        "You're like some sort of oxytocin drug dealer."
+      ]
+    }
+  ]
+}

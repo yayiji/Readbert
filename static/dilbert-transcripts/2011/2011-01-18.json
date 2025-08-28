@@ -1,0 +1,27 @@
+{
+  "date": "2011-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's sales training seminar",
+        "Losers sell to customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Winners sell the idea of low quota levels to their own bosses.",
+        "Low...",
+        "Low...",
+        "Low..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now everyone do the cha-ching dance!"
+      ]
+    }
+  ]
+}

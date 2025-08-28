@@ -1,0 +1,51 @@
+{
+  "date": "2010-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's our new marketing video. We hope it will go viral."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll have our comments by tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not asking for comments. The video is already finished."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The technology claims in the video are criminally inaccurate."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I sent the script to engineering for comments three months ago!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I got an email back from someone named Wally who said it was great."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I thought she was asking if it was funny."
+      ]
+    }
+  ]
+}

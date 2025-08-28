@@ -1,0 +1,25 @@
+{
+  "date": "2011-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone sent me another anonymous email with a link to an article about the world's worst bosses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I get one of those emails every time I leave your cubicle.",
+        "Did you think I wouldn't notice the correlation?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Correlation does not imply causation.",
+        "Send"
+      ]
+    }
+  ]
+}

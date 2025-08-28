@@ -1,0 +1,24 @@
+{
+  "date": "2010-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got transferred to our crime scene cleanup subsidiary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a competitive advantage because I have the customer lists from our other subsidiaries."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, we haven't had any deadly computer explosions here.",
+        "I'll check back in an hour."
+      ]
+    }
+  ]
+}

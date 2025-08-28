@@ -1,0 +1,24 @@
+{
+  "date": "2011-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news, Alice.",
+        "I've decided to be your mentor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll spend hundreds of hours together as you eagerly absorb my wisdom."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I've decided to become more of a hugger."
+      ]
+    }
+  ]
+}

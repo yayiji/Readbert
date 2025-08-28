@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Unmotivated sales guy",
+        "My slides are blank because no one told me what our product does."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I don't have a compelling reason to find out because I don't work on commission."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If anyone asks why you didn't place an order, would you mind saying you have budget issues?"
+      ]
+    }
+  ]
+}

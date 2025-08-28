@@ -1,0 +1,26 @@
+{
+  "date": "2011-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you approve my goals for next year?",
+        "Yeah, whatever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa! Your apathy about my goals can only mean you plan to fire me within the next year!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha!",
+        "Now give him unimportant projects.",
+        "They all seem that way to me."
+      ]
+    }
+  ]
+}

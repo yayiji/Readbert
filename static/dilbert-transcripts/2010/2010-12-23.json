@@ -1,0 +1,27 @@
+{
+  "date": "2010-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know what I'm talking about.",
+        "I have thirty years in this industry!",
+        "///"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How does that help you understand technology that is six months old in a youth-oriented culture?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Grrr...",
+        "Please don't hit me with your modem.",
+        "///"
+      ]
+    }
+  ]
+}

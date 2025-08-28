@@ -1,0 +1,27 @@
+{
+  "date": "2010-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to work with a greater sense of urgency.",
+        "The Bible says, \"Good things come to those who wait.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So it's basically you against God.",
+        "Let me know when you two get it sorted out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "There was thunder when he doubted you?",
+        "I synchronize my excuses to weather forecasts."
+      ]
+    }
+  ]
+}

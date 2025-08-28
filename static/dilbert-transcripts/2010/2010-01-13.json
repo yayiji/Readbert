@@ -1,0 +1,25 @@
+{
+  "date": "2010-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to get our customers more involved in the product design cycle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We only have customers who are too dumb to check product reviews online.",
+        "Do it anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can it wear a hat like a monkey?",
+        "For the millionth time, software can't wear clothes."
+      ]
+    }
+  ]
+}

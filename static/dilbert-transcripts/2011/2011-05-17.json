@@ -1,0 +1,23 @@
+{
+  "date": "2011-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You scheduled the end of the test phase after the start of the production phase."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're feeling confident."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's too bad that being smart doesn't come with some sort of good feeling like that."
+      ]
+    }
+  ]
+}

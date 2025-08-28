@@ -1,0 +1,24 @@
+{
+  "date": "2011-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a guy in the lobby who says he's here to harvest your organs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently, you signed a software services agreement without fully understanding it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, at least I can save lives.",
+        "He said something about his cat's birthday."
+      ]
+    }
+  ]
+}

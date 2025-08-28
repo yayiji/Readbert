@@ -1,0 +1,67 @@
+{
+  "date": "2011-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need your data for my meeting in three days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. It shouldn't take more than three or four days to pull it together."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not three or four days. I need it in three days."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, three days, not counting the weekend and the day I give it to you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That would be six days!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Six or seven days, tops."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I need it in three days, not a week."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's no problem. A week or two at the most."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Okay! You win! I'll reschedule my meeting for two weeks out!"
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "And you'll have the data in two weeks?",
+        "Yes.",
+        "Two weeks or so."
+      ]
+    }
+  ]
+}

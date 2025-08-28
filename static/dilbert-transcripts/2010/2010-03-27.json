@@ -1,0 +1,25 @@
+{
+  "date": "2010-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you scan this document for me?",
+        "Is it important?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it isn't important, you shouldn't bother me. If it is, the scanner will malfunction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there no room for hope?",
+        "I keep mine in this empty candy jar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2011-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Seriously? You're going to do email while I give my status update?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry. I can multitask."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Multitask? You can barely do one task properly."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "All you're doing is doubling your rate of failure."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Congratulations on becoming the most useless blob of carbon in the universe."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What? Sorry. I missed that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I said my project is on schedule."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay. Great.",
+        "This totally works for me."
+      ]
+    }
+  ]
+}

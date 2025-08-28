@@ -1,0 +1,24 @@
+{
+  "date": "2010-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to cancel your project because my predecessor supported it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I'll need a list of any children he fathered with the staff. It's best if you don't ask why."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think he...",
+        "We all do. It's how we let off steam."
+      ]
+    }
+  ]
+}

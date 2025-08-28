@@ -1,0 +1,31 @@
+{
+  "date": "2010-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, would you like to be my assistant in the crime scene cleaning profession?",
+        "Me?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You had me at \"brains and squeegees.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't say any of those words."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Would it kill you to say them now?",
+        "If it does, you can clean me up."
+      ]
+    }
+  ]
+}

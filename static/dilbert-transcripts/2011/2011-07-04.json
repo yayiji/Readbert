@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're ignorant and ridiculous.",
+        "I'm bored. Are we done here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're hired. You must have awesome technical skills or else someone would have killed you by now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if I'm a management genius or just lazy."
+      ]
+    }
+  ]
+}

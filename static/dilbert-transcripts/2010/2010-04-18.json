@@ -1,0 +1,54 @@
+{
+  "date": "2010-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you finish the vendor comparison?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm proud to say I did not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You told me to focus on my highest priorities, and that wasn't one of them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... when can I expect it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Logically, that would be never."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If that task ever became the most important thing I was doing, you'd eliminate my position."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "True.",
+        "But at least you're getting the high priority stuff done, right?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So far, it's taking all of my energy to avoid doing the low priorities."
+      ]
+    }
+  ]
+}

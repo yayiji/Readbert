@@ -1,0 +1,25 @@
+{
+  "date": "2010-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert publishing",
+        "I'm assigning a ghost writer to tighten up your first draft."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Technically, he's not a ghost yet. He's just a guy who lost a knife fight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long do I have to wait?",
+        "If you're in a hurry, steer him toward the window."
+      ]
+    }
+  ]
+}

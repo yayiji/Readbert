@@ -1,0 +1,54 @@
+{
+  "date": "2010-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want all of you to feel empowered on this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You forgot to get our buy-in before you empowered us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll get your buy-in later.",
+        "It's far too late for that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm going to use my empowerment to destroy this poorly conceived project from the inside!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Don't do that!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... now you're saying we're not empowered to do what we think is best?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can we go back to our old system where we're afraid to make decisions and you're never available?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Your eyes say, \"Yes.\""
+      ]
+    }
+  ]
+}

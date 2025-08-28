@@ -1,0 +1,25 @@
+{
+  "date": "2010-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Excuse me.",
+        "By my count, you've said the same thing 27 times, using different words."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I can get sworn statements from everyone here that we understand your point, will you stop talking?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's mighty rude of you.",
+        "I don't get your point. Can you repeat it 26 more times?"
+      ]
+    }
+  ]
+}

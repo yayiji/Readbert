@@ -1,0 +1,23 @@
+{
+  "date": "2011-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I successfully installed a software maintenance patch to the Zeberpupin system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd show you, but it's just a bunch of zeroes and ones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The word you're trying to think of is \"indispensable.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's up with the ugly sweater? Did you lose a bet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This? Oh, right. It was a gift from my mom. I'm wearing it once in case she asks me later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know it was hideous before I told you?",
+        "Maybe.",
+        "Snork"
+      ]
+    }
+  ]
+}

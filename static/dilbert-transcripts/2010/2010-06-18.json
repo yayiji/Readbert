@@ -1,0 +1,25 @@
+{
+  "date": "2010-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't stop buying phone apps that I don't need.",
+        "Am I crazy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, you are totally batspit crazy.",
+        "You'll need many sessions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Steve Jobs isn't the only one who can do marketing."
+      ]
+    }
+  ]
+}

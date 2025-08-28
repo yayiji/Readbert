@@ -1,0 +1,25 @@
+{
+  "date": "2010-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "The problem is in the part of your brain that handles intelligence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can reboot you, but I won't lie: it's going to hurt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need to talk.",
+        "Are you near stairs?"
+      ]
+    }
+  ]
+}

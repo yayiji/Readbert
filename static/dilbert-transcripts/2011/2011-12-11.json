@@ -1,0 +1,57 @@
+{
+  "date": "2011-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "These are our 25 focus areas for next year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha!",
+        "Good one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes I think you have no sense of humor and then",
+        "zing!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What?",
+        "I think it's real."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It can't be real. No one would be dumb enough to think we can focus on 25 areas."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Don't worry.",
+        "I've got this."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This misunderstood man is a brilliant comedian. He is only pretending to be an angry idiot."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're totally selling it."
+      ]
+    }
+  ]
+}

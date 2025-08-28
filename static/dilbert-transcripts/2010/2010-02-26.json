@@ -1,0 +1,27 @@
+{
+  "date": "2010-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'll need your load calcs by Tuesday.",
+        "Remind me on Monday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're hoping I won't remember to remind you.",
+        "Then you'll say it's my fault."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I will remember, and I will remind you.",
+        "Good luck.",
+        "Monday is my hiding day."
+      ]
+    }
+  ]
+}

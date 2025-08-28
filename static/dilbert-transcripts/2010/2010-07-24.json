@@ -1,0 +1,24 @@
+{
+  "date": "2010-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company wants to turn my invention into a death ray. How can I stop them from succeeding?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is one natural force that can stop any form of success. It goes by the name..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally?",
+        "How may I be of disservice?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2011-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you won the lottery, would you quit working?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I quit working years ago. But I might start gloating if it isn't too hard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gloating doesn't sound hard.",
+        "Can I do it without moving any facial muscles? I have weak eyebrows."
+      ]
+    }
+  ]
+}

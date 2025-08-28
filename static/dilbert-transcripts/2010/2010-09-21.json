@@ -1,0 +1,25 @@
+{
+  "date": "2010-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new product is a useless block of wood."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When customers complain that it won't make phone calls, we'll blame the network."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who would want...",
+        "Whoa, this is cool.",
+        "You'd be lucky to have one."
+      ]
+    }
+  ]
+}

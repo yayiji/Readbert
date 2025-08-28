@@ -1,0 +1,24 @@
+{
+  "date": "2011-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm just stopping by to say you're doing a great job, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You never do that! It's a trick!",
+        "Die, monster, die!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might have a credibility issue."
+      ]
+    }
+  ]
+}

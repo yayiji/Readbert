@@ -1,0 +1,27 @@
+{
+  "date": "2010-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe it's not a good idea to eat a noisy bag of chips next to a speaker-phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh. My common sense has wounded your ego and made you defiant.",
+        "Crunch!",
+        "Crunch!",
+        "Crunch!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you really think he would stop?",
+        "No. I hate the guy who was on the speaker-phone."
+      ]
+    }
+  ]
+}

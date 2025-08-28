@@ -1,0 +1,54 @@
+{
+  "date": "2010-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll break into small groups to discuss options."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why? Do you think we'll be smarter when we're in small groups?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That way everyone gets more time to talk."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "According to your theory, the ideal group size would be one person talking to himself."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, you also need the knowledge and perspective that extra people bring."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That would argue for larger groups, not smaller ones."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine! Just break into whatever size groups you think make sense."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I like your style, Dilbert.",
+        "Thank you for noticing."
+      ]
+    }
+  ]
+}

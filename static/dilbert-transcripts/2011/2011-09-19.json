@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a few tweaks to your idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now if it fails, it was your idea, and if it works I can claim credit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Genius comes in many forms.",
+        "Such as steaming and oval?"
+      ]
+    }
+  ]
+}

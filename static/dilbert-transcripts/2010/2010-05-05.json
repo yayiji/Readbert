@@ -1,0 +1,24 @@
+{
+  "date": "2010-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is a magic button."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Any time you ask for cost estimates, I push the button and it guides me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pull the numbers out of your.",
+        "It only says the one thing."
+      ]
+    }
+  ]
+}

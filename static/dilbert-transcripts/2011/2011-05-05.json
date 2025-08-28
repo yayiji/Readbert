@@ -1,0 +1,23 @@
+{
+  "date": "2011-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations on solving every important problem in the world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assume that's what happened. Otherwise, you wouldn't have time to create desk standardization policies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "High five?"
+      ]
+    }
+  ]
+}

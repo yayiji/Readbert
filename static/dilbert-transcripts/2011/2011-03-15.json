@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought of your idea a year ago and rejected it for being impractical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you just take credit for my idea and diss it at the same time?",
+        "Thanks for noticing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He also cleverly implied that you're a moron.",
+        "It feels good to be appreciated!"
+      ]
+    }
+  ]
+}

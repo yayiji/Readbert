@@ -1,0 +1,26 @@
+{
+  "date": "2010-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, explain to Logan the technical issue in terms he can understand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. What's his comprehension level?",
+        "Are we talking human, squirrel or anvil?",
+        "Which one am I?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't make this awkward.",
+        "Did the squirrel go to a community college?"
+      ]
+    }
+  ]
+}

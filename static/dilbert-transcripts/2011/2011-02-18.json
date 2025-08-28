@@ -1,0 +1,25 @@
+{
+  "date": "2011-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Office relocation",
+        "Your floor plan puts me between a loud talker and a chronic flatulator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could move you to a cubicle between a guy who clears his throat all day and a woman who laughs too much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this because I once said you aren't smart enough to be an engineer?",
+        "Look what I engineered."
+      ]
+    }
+  ]
+}

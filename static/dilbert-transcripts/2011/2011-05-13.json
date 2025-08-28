@@ -1,0 +1,24 @@
+{
+  "date": "2011-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I estimated the project timeline by assuming that everyone involved will waste one week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a stupid way to do a timeline.",
+        "Set up a meeting and I'll show you how it's supposed to be done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's available in a week."
+      ]
+    }
+  ]
+}

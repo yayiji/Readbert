@@ -1,0 +1,54 @@
+{
+  "date": "2010-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I get a rough cost estimate for the design phase?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I don't trust you with numbers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're the kind of guy who will remove useful qualifiers and distribute a figure as if it is true in all cases."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Decisions will be made. People will get hurt."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "For everyone's sake, the safest thing I can do is make an annoying humming sound until you go away."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hummmmm- mmmmmm- mmmmm."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Half of life is making people go away.",
+        "Humm- mmmm"
+      ]
+    }
+  ]
+}

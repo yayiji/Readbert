@@ -1,0 +1,23 @@
+{
+  "date": "2010-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A salesman borrowed the demo unit that you flew across the country to see."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I show you something totally irrelevant so this doesn't feel so awkward?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me a minute to get out of the splatter zone."
+      ]
+    }
+  ]
+}

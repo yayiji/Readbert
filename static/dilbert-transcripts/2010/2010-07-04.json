@@ -1,0 +1,56 @@
+{
+  "date": "2010-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you respond to this RFQ by tomorrow?",
+        "That depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I take a disciplined approach to allocating my limited resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First, I'll need to evaluate all of the alternative uses for my time.",
+        "If doing this RFQ thing comes out on top, then yes, I can do it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When do you think you will know that?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe next week.",
+        "Unless something comes up."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... you're useless.",
+        "I don't see you getting much done right now either."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you know that being disciplined is almost the same as being useless?",
+        "Yoda? Is that you?"
+      ]
+    }
+  ]
+}

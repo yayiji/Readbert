@@ -1,0 +1,54 @@
+{
+  "date": "2010-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Try rebooting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who are you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm Henry the security guard. I'm trying to evolve into a new career."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm ignoring my real job while loudly giving technical advice to coworkers."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Eventually, people will start to see me as a valuable technical resource. Promotions will follow."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you know anything about technology besides \"try rebooting\"?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Henry, who let the hobo take a sponge bath in the lobby fountain?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Try rebooting! Try rebooting!",
+        "To fix a typo?"
+      ]
+    }
+  ]
+}

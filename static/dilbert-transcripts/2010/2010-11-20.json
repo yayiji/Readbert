@@ -1,0 +1,23 @@
+{
+  "date": "2010-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Once again, you have failed to motivate me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You said we shouldn't be motivated by money, so I'm waiting for the new thing to kick in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not good at reading faces, but I think there's something happening over in this region."
+      ]
+    }
+  ]
+}

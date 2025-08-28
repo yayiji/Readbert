@@ -1,0 +1,25 @@
+{
+  "date": "2010-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Another division needs your help for a six-month project.",
+        "Who will do my work here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll keep doing this job too, but only the things that matter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long have I been doing things that don't matter?",
+        "Oops."
+      ]
+    }
+  ]
+}

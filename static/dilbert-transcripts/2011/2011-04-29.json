@@ -1,0 +1,25 @@
+{
+  "date": "2011-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's password recovery service",
+        "Are you trying to recover a password, pin code, user name, pass code or code word?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate this stupid complicated planet!",
+        "I am so out of here!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that is how Floyd became the first person to hold his breath and jump into outer space."
+      ]
+    }
+  ]
+}

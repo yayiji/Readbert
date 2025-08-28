@@ -1,0 +1,26 @@
+{
+  "date": "2010-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a new job for you. Our product is defective and it's killing customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You want me to organize a recall?",
+        "No.",
+        "Engineer a fix?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll need overalls, several barrels of bleach and some sort of scrubby brush."
+      ]
+    }
+  ]
+}

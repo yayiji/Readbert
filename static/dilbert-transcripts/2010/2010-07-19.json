@@ -1,0 +1,24 @@
+{
+  "date": "2010-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like my opinion on how you should handle that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure, I'll just try to ignore the fact that your entire career has been a colorful tapestry of bad decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... yes?",
+        "I admire your consistency."
+      ]
+    }
+  ]
+}

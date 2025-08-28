@@ -1,0 +1,26 @@
+{
+  "date": "2011-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I renamed all of the Unix servers to make them easier to remember."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In phase one, the new names exist only in my mind.",
+        "I won't know if they're easy to remember until next week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next week",
+        "How are the new server names?",
+        "I don't know what you're talking about."
+      ]
+    }
+  ]
+}

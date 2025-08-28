@@ -1,0 +1,26 @@
+{
+  "date": "2011-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm in a bad mood.",
+        "Maybe I need some sun to boost my vitamin D level."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing.",
+        "Exposure to my inner glow will give you a full range of vitamins and minerals."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're better than the sun?",
+        "I don't quit just because it's night."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2010-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't tell the difference between urban legends and reality."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll need your social security number so I can tell the government not to count any votes you cast."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can do that?",
+        "Here're some pills that look exactly like Tic Tacs."
+      ]
+    }
+  ]
+}

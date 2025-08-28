@@ -1,0 +1,25 @@
+{
+  "date": "2011-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This isn't what I wanted.",
+        "I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your communication skills are so poor that I gave up trying to understand what you wanted and instead put some random numbers on a spreadsheet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why didn't you just ask me to clarify?!",
+        "Apparently your listening skills need work too."
+      ]
+    }
+  ]
+}

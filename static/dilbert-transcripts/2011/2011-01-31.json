@@ -1,0 +1,24 @@
+{
+  "date": "2011-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought my Elbonian kidnappers would hold me forever because you refused to pay the ransom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then the Stockholm effect kicked in. I started identifying with my captors and beating myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And they let you go?",
+        "Apparently it looked contagious."
+      ]
+    }
+  ]
+}

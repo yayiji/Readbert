@@ -1,0 +1,28 @@
+{
+  "date": "2010-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think I died.",
+        "Am I in heaven or hell?",
+        "You're in Helven.",
+        "My name is Raj."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heaven and hell have been outsourcing souls to us since the demons and angels unionized."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "Is this place good or bad?",
+        "Well, you get a harp, but you won't like how we give it to you."
+      ]
+    }
+  ]
+}

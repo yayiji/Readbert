@@ -1,0 +1,24 @@
+{
+  "date": "2011-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We told our Elbonian factory to be more green, so they turned off their AC units."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The heat caused the elastic bands in their hats to stretch until their eyes were covered.",
+        "And that's why we'll miss our ship date."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They say you shouldn't shoot the messenger, but no one warns you how much you'll want to."
+      ]
+    }
+  ]
+}

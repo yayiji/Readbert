@@ -1,0 +1,23 @@
+{
+  "date": "2011-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government is nagging us to get rid of our dangerous radioactive waste."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "On a totally different topic, I'm giving each of you a motivational paperweight that says, \"Nice going.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try to avoid licking them."
+      ]
+    }
+  ]
+}

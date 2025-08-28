@@ -1,0 +1,24 @@
+{
+  "date": "2011-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my email objecting to your plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I saw your email objecting to what I assume is your hallucination of my plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You seem defensive.",
+        "Have we narrowed down the problem to me?"
+      ]
+    }
+  ]
+}

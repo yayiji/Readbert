@@ -1,0 +1,45 @@
+{
+  "date": "2010-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, could you help me fill out this rebate form the next time you visit?",
+        "Sure, mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Also, my laptop keeps crashing.",
+        "I'll take a look at it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My TV is acting up again too.",
+        "And maybe you could show me how to change my ringtone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you really need all of that help?",
+        "Or is this an elaborate scheme to inoculate against me ever wanting to move back home?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We have a bad connection! What? What? What?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That should buy me another six months."
+      ]
+    }
+  ]
+}

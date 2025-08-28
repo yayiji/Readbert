@@ -1,0 +1,26 @@
+{
+  "date": "2011-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Dilbert.",
+        "How many Twitter followers do you have?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "None.",
+        "The world has judged you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's as if I don't exist!",
+        "For a ghost, you do a good job of blocking the TV."
+      ]
+    }
+  ]
+}

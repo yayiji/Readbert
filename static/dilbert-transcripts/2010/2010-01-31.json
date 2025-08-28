@@ -1,0 +1,55 @@
+{
+  "date": "2010-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, will you do me a favor?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely. What are friends for?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "After all, you'd do a favor for me if I asked, right?",
+        "Um... sure"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Of course you would."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So do me a favor and don't ask me to do any favors."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wow. Okay. I did not see that coming."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're like a wizard who uses the rules of social convention as if they are magic."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're hairless Potter!",
+        "Don't tell Baldemort."
+      ]
+    }
+  ]
+}

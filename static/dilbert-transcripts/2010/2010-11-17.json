@@ -1,0 +1,26 @@
+{
+  "date": "2010-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The man who could not summarize",
+        "It all started 4.53 billion years ago during the Hadean Eon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope you don't mind if I skip over the part where the Earth formed by accretion from the solar nebula."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hours later",
+        "...And that formed what we call the moon.",
+        "Maybe I'll just ask someone else what time it is."
+      ]
+    }
+  ]
+}

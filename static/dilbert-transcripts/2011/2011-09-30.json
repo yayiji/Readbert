@@ -1,0 +1,25 @@
+{
+  "date": "2011-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for the suggestion, Asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to ignore it because you're not important to my career and I don't like doing extra work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm confused.",
+        "Why do you have an open-door policy?",
+        "How can you leave if the door isn't open?"
+      ]
+    }
+  ]
+}

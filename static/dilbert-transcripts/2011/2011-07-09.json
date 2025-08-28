@@ -1,0 +1,23 @@
+{
+  "date": "2011-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are your projections realistic or optimistic?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're halfway between a lucid dream and a near-death hallucination."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll call them \"most likely.\""
+      ]
+    }
+  ]
+}

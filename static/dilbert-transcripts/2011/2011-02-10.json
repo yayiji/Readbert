@@ -1,0 +1,25 @@
+{
+  "date": "2011-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Where does your company fit on this comprehensive list?",
+        "Facebook",
+        "China",
+        "Irrelevant"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now let's form breakout groups to fantasize about being relevant."
+      ]
+    }
+  ]
+}

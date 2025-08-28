@@ -1,0 +1,23 @@
+{
+  "date": "2010-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't work this week because my workspace has bad feng shui."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know feng shui is a real thing because our CEO hired a feng shui consultant to design his office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you agree, or are you saying that our CEO is a superstitious simpleton?"
+      ]
+    }
+  ]
+}

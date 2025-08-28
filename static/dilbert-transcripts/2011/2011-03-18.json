@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why haven't you returned my calls?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried, but when I put the phone to my ear, it pressed my tragus over my ear hole and I couldn't hear a thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you do research on your excuses before meetings?",
+        "I'm not lazy, I'm useless.",
+        "There's a big difference."
+      ]
+    }
+  ]
+}

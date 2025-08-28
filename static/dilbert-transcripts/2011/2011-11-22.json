@@ -1,0 +1,26 @@
+{
+  "date": "2011-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mom, the good news I wanted to tell you is that my boss named me project manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please keep that to yourself.",
+        "I tell my friends you're a locksmith."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're paying for your own lunch.",
+        "I'm Ed.",
+        "I'll be your project manager."
+      ]
+    }
+  ]
+}

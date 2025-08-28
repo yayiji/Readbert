@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the best plan in the world, and anyone who disagrees is an ignorant nuisance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I'll open it up for comments.",
+        "Anyone?",
+        "Anyone?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like to thank you for shortening this meeting."
+      ]
+    }
+  ]
+}

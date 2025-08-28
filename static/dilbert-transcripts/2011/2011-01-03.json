@@ -1,0 +1,23 @@
+{
+  "date": "2011-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Jim, our company is family-friendly and very green."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're also good at setting priorities, so if I get a chance to sell your kids for a handful of carbon credits, I'll do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was less green than I had hoped."
+      ]
+    }
+  ]
+}

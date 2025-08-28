@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it okay if I spend the next week balancing traffic loads on our network?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought I told you that our hardware vendor already did that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Worst wingman ever.",
+        "Shame is my name!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2010-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My design plan is obviously too complex for a manager to understand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I highlighted a few areas that are intentionally suboptimal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just point to the highlighted items and demand that I fix them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That will give you the illusion of usefulness."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Pretend this is olden times when bosses knew what their employees did for a living."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "To round out the fantasy, wear this hat made from a dead animal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now manage me like it's the 1800's!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you have a smaller hat?",
+        "Imagine that we're out of candles."
+      ]
+    }
+  ]
+}

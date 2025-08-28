@@ -1,0 +1,26 @@
+{
+  "date": "2010-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, you filled out Ted's termination documents wrong.",
+        "You put my name in the box as the fired employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My security access has been revoked.",
+        "My phone is shut off, and my passwords are deactivated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to fix this.",
+        "Security, I found the fugitive."
+      ]
+    }
+  ]
+}

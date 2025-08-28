@@ -1,0 +1,23 @@
+{
+  "date": "2010-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry, I didn't have time to get the information you asked for."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're saying that for an entire week, every single thing you did was more important than my ten-minute request?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but the way I said it doesn't make me think of a broomstick."
+      ]
+    }
+  ]
+}

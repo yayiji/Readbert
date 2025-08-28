@@ -1,0 +1,24 @@
+{
+  "date": "2011-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our competitor is suing us in an Elbonian court for some sort of design trademark violation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're trying to block us from manufacturing anything shaped like a rectangle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What design shapes are available?",
+        "Only one, assuming \"irregular mole\" is a shape."
+      ]
+    }
+  ]
+}

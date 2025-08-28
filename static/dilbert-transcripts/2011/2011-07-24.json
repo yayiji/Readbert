@@ -1,0 +1,48 @@
+{
+  "date": "2011-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The data center is evolving into a \"lights out\" operation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees will no longer be allowed in the data center."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We hope to eliminate all of the problems that humans cause by moving cables, unplugging power cords, and ruining everything with their dirt and static."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He makes it sound as if the data center is alive and we humans are nothing but germs."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "By the way, who called this meeting and who's on the speakerphone?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Are you... the data center?",
+        "Click"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I have a bad feeling about this."
+      ]
+    }
+  ]
+}

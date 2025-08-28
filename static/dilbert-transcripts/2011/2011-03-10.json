@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you keep closing the blinds?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Screen glare?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!!",
+        "Screen glare.",
+        "Don't care."
+      ]
+    }
+  ]
+}

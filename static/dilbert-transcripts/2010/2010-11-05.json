@@ -1,0 +1,25 @@
+{
+  "date": "2010-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you put the PX9 system on the R3 network?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But just to be clear, what an engineer can do is rarely what he should do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should you do?",
+        "Apparently, your job."
+      ]
+    }
+  ]
+}

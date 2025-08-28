@@ -1,0 +1,23 @@
+{
+  "date": "2011-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll review your document and give you my comments this afternoon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No you won't. You'll read one paragraph then tell me to go research something so you can postpone dealing with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They know about plan \"A.\""
+      ]
+    }
+  ]
+}

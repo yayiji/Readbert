@@ -1,0 +1,27 @@
+{
+  "date": "2010-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Helen, we're looking for a new ombudsman.",
+        "Your experience in the afterlife makes you an ideal candidate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll take the job.",
+        "But call me Mrs. Fry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have an issue with management.",
+        "Go to Helen Fry.",
+        "Yes, I know it's an old joke."
+      ]
+    }
+  ]
+}

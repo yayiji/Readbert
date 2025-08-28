@@ -1,0 +1,54 @@
+{
+  "date": "2011-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't sign off on this plan. It's too expensive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You heard me say that doing nothing will end up costing you twice as much, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes.",
+        "And you understand that this is your only alternative?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have another meeting. Maybe Dilbert can explain it to you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Um... okay. I'll try."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My boss doesn't understand that costs should be compared to alternatives."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Teamwork means you can't pick the side that's right."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2010-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, we're concerned about the comments you made on your anonymous employee survey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your comments are disturbingly similar to the Unabomber's manifesto.",
+        "He was a good writer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We have a problem.",
+        "Is it a copyright thing?"
+      ]
+    }
+  ]
+}

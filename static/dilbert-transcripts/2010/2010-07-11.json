@@ -1,0 +1,45 @@
+{
+  "date": "2010-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A successful transformation requires employees to feel ownership for the change."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Change? What change?",
+        "Is there something we don't know?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's important that everyone has clear roles and responsibilities.",
+        "What are you trying to tell us? Should we stop working on our projects?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll keep you engaged and energized with my clear communication."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And as your leader, I will role-model the desired change."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If he's our role model, I guess we need to act like morons who can't communicate.",
+        "I need new people.",
+        "Fuh fuh fuh fuh fuh fuh"
+      ]
+    }
+  ]
+}

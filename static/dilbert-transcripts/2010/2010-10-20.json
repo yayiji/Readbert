@@ -1,0 +1,24 @@
+{
+  "date": "2010-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate sales. Can you cross-train me to be an engineer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely. All you need is a time machine and a brain with twice as many folds as your current model."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could try marketing.",
+        "That's just liquor and guessing."
+      ]
+    }
+  ]
+}

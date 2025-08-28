@@ -1,0 +1,25 @@
+{
+  "date": "2011-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am unfulfilled at my job. When does that feeling go away?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Asok, you shouldn't think you're totally worthless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "I didn't say I was worthless.",
+        "I'm trying to take your mind off of the other thing."
+      ]
+    }
+  ]
+}

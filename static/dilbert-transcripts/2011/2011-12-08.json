@@ -1,0 +1,24 @@
+{
+  "date": "2011-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to fly to Seattle for a quick meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will I be meeting with a newly discovered stone age tribe that has never used Skype?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Then I'm totally confused."
+      ]
+    }
+  ]
+}

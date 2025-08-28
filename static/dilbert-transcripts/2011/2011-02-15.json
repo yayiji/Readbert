@@ -1,0 +1,23 @@
+{
+  "date": "2011-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How hard would it be to program our website to collect browser history from our visitors?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, first I'd need to invent some sort of device that reverses my sense of right and wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... are we talking about a week... or a month?"
+      ]
+    }
+  ]
+}

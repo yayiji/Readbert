@@ -1,0 +1,53 @@
+{
+  "date": "2011-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Merry Christmas, Sarah. This is for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have we met?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We attended the same network design meeting last April."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I overheard you telling someone in the hallway that you like a specific brand of makeup."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So I bought a box of it and kept it in the closet for months."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I came to work early today and hid behind the sculpture in the lobby until I saw you heading to the elevator."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I didn't know you could gift wrap creepiness."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sorry. Just act like I'm not here."
+      ]
+    }
+  ]
+}

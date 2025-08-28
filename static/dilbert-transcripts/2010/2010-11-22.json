@@ -1,0 +1,25 @@
+{
+  "date": "2010-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you have a minute?",
+        "Nope. I'm far too busy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm blocking the only exit. You have no choice but to answer my question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I blocked the air vent too.",
+        "Well played."
+      ]
+    }
+  ]
+}

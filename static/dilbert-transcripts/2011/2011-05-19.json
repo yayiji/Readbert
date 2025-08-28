@@ -1,0 +1,23 @@
+{
+  "date": "2011-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The printer prowler spots activity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's time to see what the minions are working on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're on to me."
+      ]
+    }
+  ]
+}

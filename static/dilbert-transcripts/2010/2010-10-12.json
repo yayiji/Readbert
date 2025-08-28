@@ -1,0 +1,24 @@
+{
+  "date": "2010-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your customer data is worth a fortune."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll find you some buyers if you give me 25%.",
+        "What about privacy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not a problem. I never use my real name."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2010-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need help with my computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a trap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I touch your computer, you'll think that every future problem is caused by something I did."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You'll tell everyone I ruined your computer!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll be obligated to solve every computer problem you have from this day on."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My own projects will be left to wither as I show you for the ninetieth time how to select a new font."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If I refuse to help, you'll tell my boss I'm not a team player."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you need a hug?",
+        "Only if you can squeeze hard enough to kill me."
+      ]
+    }
+  ]
+}

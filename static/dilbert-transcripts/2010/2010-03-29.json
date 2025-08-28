@@ -1,0 +1,24 @@
+{
+  "date": "2010-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every time I update my software, it tells me I have to reboot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And every time I reboot, I get another message to update something else. It's all I've been doing since October."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you worked in September, right?",
+        "I admire your optimism about the past."
+      ]
+    }
+  ]
+}

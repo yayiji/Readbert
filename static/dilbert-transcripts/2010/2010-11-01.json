@@ -1,0 +1,23 @@
+{
+  "date": "2010-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting a lot of complaints about you eating your lunch in the clean room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And people don't like it when you use your loofah in there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's my french bread. And I can't help it if my back itches."
+      ]
+    }
+  ]
+}

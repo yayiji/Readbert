@@ -1,0 +1,25 @@
+{
+  "date": "2010-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't be afraid of change, Asok.",
+        "Okay. Wait. What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your subtle implication is that I should change to be more like you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bumpy start.",
+        "I choose death!"
+      ]
+    }
+  ]
+}

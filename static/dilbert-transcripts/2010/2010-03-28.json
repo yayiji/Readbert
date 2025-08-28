@@ -1,0 +1,56 @@
+{
+  "date": "2010-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your pants have a tiny hole.",
+        "These are my favorite pants!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll have to go with plan B."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wear other pants?",
+        "That's crazy talk."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll wear these and act as if the hole just happened."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Everyone knows you can't go home and change in the middle of the day."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll use a pants witness tracking application on my phone to keep track of who has seen the hole."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If I play my cards right, I can get two or three more wearings out of my favorite pants."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "All of this just happened.",
+        "Same here."
+      ]
+    }
+  ]
+}

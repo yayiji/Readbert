@@ -1,0 +1,57 @@
+{
+  "date": "2011-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh.",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's never good when my phone rings after 4 p.m.",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Caller ID is blocked. Someone must know that I would ignore the call if I knew who it was."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If it weren't urgent, it would be email."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This must be some sort of horrible issue that will cause me to work all night."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It stopped. There's still a chance that I'll be okay unless my cell phone...",
+        "Bzzz"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! I hate my life!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're right. That was funny.",
+        "Now I'll text him."
+      ]
+    }
+  ]
+}

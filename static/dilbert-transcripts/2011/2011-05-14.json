@@ -1,0 +1,23 @@
+{
+  "date": "2011-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I took the liberty of updating your estate plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This gives you a powerful incentive to kill me so you can inherit my stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it makes you feel any better, that option has always been on the table."
+      ]
+    }
+  ]
+}

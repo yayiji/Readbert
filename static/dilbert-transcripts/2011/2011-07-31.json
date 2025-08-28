@@ -1,0 +1,51 @@
+{
+  "date": "2011-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm preparing for the complete meltdown of our financial system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got six months of food and water."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have batteries, flashlights, and gold coins."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm prepared too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I have your home address."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I noticed that your preparations are light on defensive weaponry."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can you add some protein bars to the shopping list?"
+      ]
+    }
+  ]
+}

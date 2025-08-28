@@ -1,0 +1,25 @@
+{
+  "date": "2010-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's no objective standard for measuring how much I should accomplish in any given day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nor can we really know if things would have turned out better had I done things differently."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a point?",
+        "I'm going home early.",
+        "See if you can tell the difference."
+      ]
+    }
+  ]
+}

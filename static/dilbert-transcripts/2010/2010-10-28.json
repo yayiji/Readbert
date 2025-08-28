@@ -1,0 +1,24 @@
+{
+  "date": "2010-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm taking your advice to be more entrepreneurial at my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Failing 90% of the time is very similar to not trying at all.",
+        "I'm pretty sure you won't be able to tell the difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which one am I doing now?"
+      ]
+    }
+  ]
+}

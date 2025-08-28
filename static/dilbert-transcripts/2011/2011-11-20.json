@@ -1,0 +1,56 @@
+{
+  "date": "2011-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a world-class inventor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meet Toby. When he worked for our competitor, he invented their coolest product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was just a member of the team.",
+        "A key member!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Until they fired me for stealing.",
+        "You came to the right place."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We have tons of stuff to steal and no one ever gets caught!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Give me a high five with a boss head in the middle!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Slap!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's the only thing I ever invented.",
+        "Have you seen our storage closet?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2010-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a consultant to raise your morale by making you glad you're not him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one loves me. My life is pointless. I eat old soap."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now let the magic begin.",
+        "I feel good about not eating old soap.",
+        "Cha!"
+      ]
+    }
+  ]
+}

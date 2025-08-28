@@ -1,0 +1,25 @@
+{
+  "date": "2011-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope I'm not calling too late.",
+        "What time is it in Elbonia?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're seventy years in your future.",
+        "I'm the great grandson of the guy you are trying to reach."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "By the way, that SETI thing won't work out the way you're hoping."
+      ]
+    }
+  ]
+}

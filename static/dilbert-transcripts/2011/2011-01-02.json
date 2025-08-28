@@ -1,0 +1,55 @@
+{
+  "date": "2011-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert by Scott Adams dilbert.com"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, would you like to join us for lunch?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where are you going?",
+        "We haven't decided."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In that case, no.",
+        "I can't stand watching a small group of people trying to make a trivial decision."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It makes me lose all faith in humanity."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Food doesn't taste as good when you have no hope."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll just get something from the vending machine and fantasize that my co-workers are competent."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's see... what goes well with an unrealistic worldview?"
+      ]
+    }
+  ]
+}

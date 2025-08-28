@@ -1,0 +1,27 @@
+{
+  "date": "2010-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look at this app!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pow!",
+        "Look at this app.",
+        "Zap!",
+        "Pow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You said the Dogbert app is supposed to make a funny noise.",
+        "I'll bet it did."
+      ]
+    }
+  ]
+}

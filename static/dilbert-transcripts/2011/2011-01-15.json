@@ -1,0 +1,25 @@
+{
+  "date": "2011-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's everything going?",
+        "It couldn't be worse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was the only person who said this project is a bad idea. Then you assigned it to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's funnier when I make them say it.",
+        "Grrrr"
+      ]
+    }
+  ]
+}

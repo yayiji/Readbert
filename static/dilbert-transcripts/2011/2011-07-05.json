@@ -1,0 +1,25 @@
+{
+  "date": "2011-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you read my comments on the two alternatives?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommended option two because neither plan will work but option one is way more expensive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already approved option one.",
+        "If you need any more help, just let me know."
+      ]
+    }
+  ]
+}

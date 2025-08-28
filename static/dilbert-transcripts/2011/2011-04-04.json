@@ -1,0 +1,25 @@
+{
+  "date": "2011-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now you've done it.",
+        "He has brain overload from your unnecessarily detailed answer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great. He's totally broken and we need a decision today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is he nodding yes?",
+        "I'm sensing an opportunity here."
+      ]
+    }
+  ]
+}

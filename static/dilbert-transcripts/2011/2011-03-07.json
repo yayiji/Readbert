@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What happened to you?",
+        "I went to a technology trade show."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The event was so huge that it made me feel small. But it's just an illusion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For an illusion, you make a great cup holder.",
+        "Dude. Not cool."
+      ]
+    }
+  ]
+}

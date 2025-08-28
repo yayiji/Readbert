@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm your new software vendor.",
+        "I'm here to form a relationship with you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way it will be easy to take half of your money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that ever work?",
+        "It worked for my ex-wife."
+      ]
+    }
+  ]
+}

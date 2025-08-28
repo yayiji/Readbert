@@ -1,0 +1,54 @@
+{
+  "date": "2011-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting writer's block trying to come up with your goals for the year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just write anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We both know I'll ignore the goals and work on whatever you assign to me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How will I know if you do a good job if you don't have goals?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Same way as always."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You'll compare your lack of knowledge about what I did to the goals you imagine you might have created if you could have seen the future."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then you'll give me an average raise just like everyone else who didn't invent nuclear fusion."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Works for me.",
+        "It's better to not over-think these things."
+      ]
+    }
+  ]
+}

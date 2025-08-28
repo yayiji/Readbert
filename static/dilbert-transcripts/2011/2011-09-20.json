@@ -1,0 +1,26 @@
+{
+  "date": "2011-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our strategy is to increase market share.",
+        "Market share"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm confused. I spent all last year trying to decrease our market share. Was that effort wasted?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't worry.",
+        "Wally told me he has a good sense of humor.",
+        "I'm not reliable."
+      ]
+    }
+  ]
+}

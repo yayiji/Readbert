@@ -1,0 +1,25 @@
+{
+  "date": "2010-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Customer data is an asset that you can sell."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's totally ethical because our customers would do the same thing to us if they could."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds fair.",
+        "In phase one, we'll dehumanize the enemy by calling them \"data.\""
+      ]
+    }
+  ]
+}

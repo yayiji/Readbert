@@ -1,0 +1,23 @@
+{
+  "date": "2010-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news! We won the bid to build a nationwide wireless network!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bad news! We don't know how to build a nationwide wireless network!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's wireless. How hard could it be to not install wires?"
+      ]
+    }
+  ]
+}

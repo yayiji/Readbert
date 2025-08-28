@@ -1,0 +1,25 @@
+{
+  "date": "2011-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we build our software with no bugs, we can make a 10% return on our investment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if we do a poor job, we can make a 40% return by selling upgrades and service."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But don't worry. We only have the budget for a poor job.",
+        "I can't remember if we're cheap or smart.",
+        "Phew!"
+      ]
+    }
+  ]
+}

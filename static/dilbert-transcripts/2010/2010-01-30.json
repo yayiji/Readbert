@@ -1,0 +1,24 @@
+{
+  "date": "2010-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're an incompetent CEO, but the Dogbert Investment Bank can help you pretend to unlock shareholder value."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll arrange an unwise merger so you can cash out while I collect an obscene commission."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's like a bribe, but instead of going to jail, a stranger will write a best-selling book with your name on it.",
+        "Can I read it?"
+      ]
+    }
+  ]
+}

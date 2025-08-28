@@ -1,0 +1,24 @@
+{
+  "date": "2010-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't like to say bad things about my competitors, but they're all vampires."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And not the sexy kind either. They're more the bitey kind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our product doesn't even work, and you're still better off buying from us.",
+        "They said you eat babies."
+      ]
+    }
+  ]
+}

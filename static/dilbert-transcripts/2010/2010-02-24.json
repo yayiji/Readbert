@@ -1,0 +1,24 @@
+{
+  "date": "2010-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You added the savings from my project to the budget for Ted's project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted is a serial failer. You've destroyed in advance any hope that I might do something useful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could help Ted on his project.",
+        "Ow! Ow! Making it worse!"
+      ]
+    }
+  ]
+}

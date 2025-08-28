@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Which one of you asked for capital for testing handset radiation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That was Stan.",
+        "And you told him to find a less expensive way to do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which one of you is Stan?"
+      ]
+    }
+  ]
+}

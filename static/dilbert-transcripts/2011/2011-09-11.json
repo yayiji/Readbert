@@ -1,0 +1,54 @@
+{
+  "date": "2011-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, your job performance is terrific."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's code for \"I'm going to fire someone else and make you do two jobs.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, but it's still better to be you than the guy I'm going to fire."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We don't know that!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This might be the wake-up call that spurs him on to greatness while I work myself to death in this cubicle."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There's no way to please some people."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ted, you're fired.",
+        "Yes!"
+      ]
+    }
+  ]
+}

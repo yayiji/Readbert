@@ -1,0 +1,27 @@
+{
+  "date": "2011-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see you have your giant-sized barf bag.",
+        "You must be going to the Consumer Electronics Show.",
+        "Yup."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every time I see a new product that is cooler than anything we're working on, I'll go to the bag."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At the show",
+        "And it only weighs one ounce!",
+        "Foomp!!!"
+      ]
+    }
+  ]
+}

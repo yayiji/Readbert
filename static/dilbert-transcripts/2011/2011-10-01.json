@@ -1,0 +1,27 @@
+{
+  "date": "2011-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an MBA and yet I keep losing money in the stock market.",
+        "How can this be?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put all of my money in gold because it's shiny.",
+        "My portfolio doubled last year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm thinking of getting an MBA.",
+        "How long does it take?",
+        "A week?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This might look like an ordinary PowerPoint slide."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it is actually a portal to another dimension in which fantasy and reality have traded places."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop playing with my slides.",
+        "Beware the horned beast that crosses over."
+      ]
+    }
+  ]
+}

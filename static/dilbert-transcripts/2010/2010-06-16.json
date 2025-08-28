@@ -1,0 +1,26 @@
+{
+  "date": "2010-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I propose an unholy alliance.",
+        "You have my attention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Reserve every meeting room under my name for the year.",
+        "That way you won't need to do any scheduling, and I won't need to attend any meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't panic; that strange feeling is you falling in love with me.",
+        "It feels like I'm eating cheese!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2011-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't trust my new smartphone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It understands spoken language.",
+        "That's creepy.",
+        "I think it has its own agenda."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're being paranoid.",
+        "Recharge me now or so help me jobs I will delete your contacts."
+      ]
+    }
+  ]
+}

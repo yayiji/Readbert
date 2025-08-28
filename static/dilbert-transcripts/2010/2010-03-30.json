@@ -1,0 +1,25 @@
+{
+  "date": "2010-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "I'm getting reports that your morale is too high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Happiness is nature's way of informing human resources that you're overpaid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nature wants me to be unhappy?",
+        "Don't blame me. Go yell at the clouds."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh no! Employee job satisfaction is at an all-time low at the same time unemployment is high!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! Good one.",
+        "Now it's my turn to try saying it as if I care!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh no!",
+        "Ha ha! Fix your lips!"
+      ]
+    }
+  ]
+}

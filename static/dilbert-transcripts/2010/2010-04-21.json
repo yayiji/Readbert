@@ -1,0 +1,25 @@
+{
+  "date": "2010-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you review the document I emailed?",
+        "I don't read attachments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Attachments say you don't care enough about my time to summarize a document."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I brought my pay stub to prove that my time is worth more than yours.",
+        "Well-played."
+      ]
+    }
+  ]
+}

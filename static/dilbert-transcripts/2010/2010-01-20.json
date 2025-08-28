@@ -1,0 +1,31 @@
+{
+  "date": "2010-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your e-mail was rather brusque.",
+        "You mean concise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You owe me an apology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry that you don't know what brevity looks like."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're making it worse!",
+        "Then why am I so happy?"
+      ]
+    }
+  ]
+}

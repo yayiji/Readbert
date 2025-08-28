@@ -1,0 +1,24 @@
+{
+  "date": "2010-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm no longer content to be useless at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I decided to take up golf so I can be useless on weekends too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you going to take lessons?",
+        "You get to hit the ball more if you don't."
+      ]
+    }
+  ]
+}

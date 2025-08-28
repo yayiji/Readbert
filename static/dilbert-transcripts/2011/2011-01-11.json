@@ -1,0 +1,26 @@
+{
+  "date": "2011-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't stop voicing my honest opinions.",
+        "It's causing problems at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to your medical records, you're an engineer.",
+        "We classify that as a disease now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! You haven't had your Pon Farr vaccination.",
+        "Is it warm in here?"
+      ]
+    }
+  ]
+}

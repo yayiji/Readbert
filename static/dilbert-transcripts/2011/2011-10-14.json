@@ -1,0 +1,26 @@
+{
+  "date": "2011-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please stop researching every statement I make.",
+        "I can't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As an engineer, it is my solemn duty to stamp out ignorance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not a real thing.",
+        "See for yourself.",
+        "I just Googled it."
+      ]
+    }
+  ]
+}

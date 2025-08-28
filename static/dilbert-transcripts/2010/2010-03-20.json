@@ -1,0 +1,25 @@
+{
+  "date": "2010-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, can you check this for technical accuracy?",
+        "Nope. Don't have time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And no one else is qualified, so you might as well give up and look for a new job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was a bit harsh.",
+        "You'd be less worth- less if you fetched me some coffee."
+      ]
+    }
+  ]
+}

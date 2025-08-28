@@ -1,0 +1,23 @@
+{
+  "date": "2011-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is chairing the international data security standards group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The goal of our organization is to make your security procedures so inconvenient that you give up hope and die from bed sores."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We take pride in being independent from the companies that fund us."
+      ]
+    }
+  ]
+}

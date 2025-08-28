@@ -1,0 +1,55 @@
+{
+  "date": "2010-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Groan",
+        "Accounting"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Accounting"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like to see someone about my rejected expense report."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The problem is that you didn't submit a receipt for your bridge toll."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or maybe the problem is that you have a joyless, dead-end job."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And your boss doesn't allow you to use your own judgment because working here is proof that you don't make good decisions."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Rejecting my expense report gives you the illusion of power, and nourishes your shriveled and dying ego."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Actually, I was going to approve it.",
+        "You don't have to get an attitude about it."
+      ]
+    }
+  ]
+}

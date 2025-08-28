@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't answer my email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried to read it but the signal-to-noise ratio was too low."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So it's sort of a technical problem?",
+        "Okay."
+      ]
+    }
+  ]
+}

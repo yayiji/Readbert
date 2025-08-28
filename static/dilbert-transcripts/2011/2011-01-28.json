@@ -1,0 +1,24 @@
+{
+  "date": "2011-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Airport security",
+        "Step over here, sleeper cell."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our new pat down procedures might be more invasive than you're used to."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only terrorists act nervous in these situations."
+      ]
+    }
+  ]
+}

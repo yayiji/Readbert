@@ -1,0 +1,38 @@
+{
+  "date": "2010-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I collected optimistic data,",
+        "put it in the context",
+        "of bad analogies,",
+        "seasoned it with",
+        "saliency bias..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...added herd",
+        "instinct, a pinch",
+        "of confirmation",
+        "bias... and here's",
+        "your strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just add",
+        "leadership.",
+        "Why",
+        "do I",
+        "always",
+        "get the",
+        "hard",
+        "part?"
+      ]
+    }
+  ]
+}

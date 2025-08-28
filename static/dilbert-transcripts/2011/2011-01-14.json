@@ -1,0 +1,24 @@
+{
+  "date": "2011-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea has already been tried by others and it failed miserably."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Were those others as skilled at implementing ideas as you are at evaluating them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course they were!",
+        "Can you tell him to stop insulting himself?"
+      ]
+    }
+  ]
+}

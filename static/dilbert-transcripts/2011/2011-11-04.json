@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did this take so long?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're comparing a task - the likes of which has never been done - to your imagination of how long such things should take."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well then, the quality is bad.",
+        "Compared to...?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Security says your employee locator device isn't turned on."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My what?",
+        "I think you call it a smartphone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might have some questions.",
+        "Put them in a text to yourself. I'll read them later."
+      ]
+    }
+  ]
+}

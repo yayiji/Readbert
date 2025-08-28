@@ -1,0 +1,25 @@
+{
+  "date": "2011-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you remember six months ago when I told you you were wrong?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eee-yore!",
+        "Eee-yore!",
+        "Eee-yore!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just realized I'm a bad winner."
+      ]
+    }
+  ]
+}

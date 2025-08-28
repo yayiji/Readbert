@@ -1,0 +1,23 @@
+{
+  "date": "2011-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to think of myself as a creative person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And by that you mean you're bad at math and you don't have any analytical skills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it permanent?"
+      ]
+    }
+  ]
+}

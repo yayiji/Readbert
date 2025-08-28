@@ -1,0 +1,27 @@
+{
+  "date": "2011-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you met the new engineer?",
+        "He's a gigantic dork.",
+        "You two would get along great."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll email him to set up a date with you.",
+        "Is tomorrow good?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Being a dork is not a romantic preference.",
+        "He says he'll bring his \"Star Wars\" chess set."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm doing a study to find out which managers make dumb decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you like to participate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see why not.",
+        "And we're done."
+      ]
+    }
+  ]
+}

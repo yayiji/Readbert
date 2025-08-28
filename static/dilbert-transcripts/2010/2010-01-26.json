@@ -1,0 +1,25 @@
+{
+  "date": "2010-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "Ted, I'm transferring you to a job with a higher risk of industrial accidents."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job will involve reaching over a vat of acid while wearing no safety harness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do we have a vat of acid?",
+        "Because toxic fumes take forever."
+      ]
+    }
+  ]
+}

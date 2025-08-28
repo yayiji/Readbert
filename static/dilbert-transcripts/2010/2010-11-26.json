@@ -1,0 +1,24 @@
+{
+  "date": "2010-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob is the director of purchasing.",
+        "He's here to describe our new procurement process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our system divides products into two categories: things you don't want, and things you're not allowed to buy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's my way of saying thanks for lubing your SUV with my dead ancestors."
+      ]
+    }
+  ]
+}

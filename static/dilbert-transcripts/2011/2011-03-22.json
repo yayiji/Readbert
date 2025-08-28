@@ -1,0 +1,24 @@
+{
+  "date": "2011-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm filling in for your boss this week, and I need twenty copies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not how it works. When he's out of the office I take a workstation vacation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like being in charge.",
+        "I hear it's overrated."
+      ]
+    }
+  ]
+}

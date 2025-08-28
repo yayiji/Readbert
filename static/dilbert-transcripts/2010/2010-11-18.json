@@ -1,0 +1,26 @@
+{
+  "date": "2010-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got your e-mail.",
+        "It almost made sense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to act randomly and hope for the best."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Perhaps I can be more clear.",
+        "Really?",
+        "You can just turn it on and off like that?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2011-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meltdown in cubicle 459540!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's Ted.",
+        "He must have reached his T.W.L.",
+        "His what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Theoretical workload limit.",
+        "In layman's terms, his brain is full."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It starts when just one of your projects becomes overdue."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You end up spending all of your time explaining why you didn't get it done."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That makes all of your other projects overdue. When every task becomes urgent, your brain can't decide what to do next."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Brains make a funny noise when they shut down.",
+        "Poink"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Uh-oh.",
+        "I just missed a deadline.",
+        "And so it begins."
+      ]
+    }
+  ]
+}

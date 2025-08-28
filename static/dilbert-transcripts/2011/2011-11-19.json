@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to fire Wally, but I can't risk it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He says he's the only one who can program the Zeberpupin system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure that's true?",
+        "It must be. No one else has even heard of it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2010-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand either of your technical proposals, and I need to pick one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally I'd use favoritism, but I don't like either one of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I'll give you an intelligence test, and I'll approve the proposal of whoever is the smartest."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you shoot an arrow at a monkey from an airplane..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And the monkey throws a coconut at the incoming arrow to stop it, but he misses..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How can you tell what time it is?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There's not enough data.",
+        "You look at your watch?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The correct answer is \"Ask the monkey and hope he doesn't hold a grudge.\""
+      ]
+    }
+  ]
+}

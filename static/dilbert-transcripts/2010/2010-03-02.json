@@ -1,0 +1,25 @@
+{
+  "date": "2010-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you having any problems taking over Victor's project?",
+        "Nope. Smooth sailing so far."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Smooth??? It gave me a goat head!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He asked if I had any problems. Wait for your turn, Asok.",
+        "Sorry."
+      ]
+    }
+  ]
+}

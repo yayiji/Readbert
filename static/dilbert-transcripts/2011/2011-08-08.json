@@ -1,0 +1,24 @@
+{
+  "date": "2011-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to communicate less with other departments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The more they know about us, the more they criticize what we do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this part of your larger war on knowledge?",
+        "That was the last thing I'll ever tell you."
+      ]
+    }
+  ]
+}

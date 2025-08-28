@@ -1,0 +1,54 @@
+{
+  "date": "2010-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to assign one of your engineers to my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Follow me and I'll show you your choices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This one is highly capable, but she's in such high demand that you'll be lucky if she ever returns a call."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This one is aggressively unhelpful."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This one will tell you that all of your plans are impractical and doomed."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That one is an intern, so no one takes him seriously."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My management theory is that nature makes everyone useless in their own way."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm not useless.",
+        "Said the man who can't find a good engineer."
+      ]
+    }
+  ]
+}

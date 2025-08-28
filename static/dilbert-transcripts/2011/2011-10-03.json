@@ -1,0 +1,24 @@
+{
+  "date": "2011-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's play a game.",
+        "We each say two things about ourselves and the other has to guess which one is a lie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I love to play games like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My second thing is that I eat food."
+      ]
+    }
+  ]
+}

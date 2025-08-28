@@ -1,0 +1,56 @@
+{
+  "date": "2011-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Build a new server to replace the one with the corrupt operating system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's what I'm doing right now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Recover the data from the bad server and put it on the new one.",
+        "That's the whole point."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then see if you can reinstall the operating system on the old one and redeploy it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do you have any instructions that are not blindingly obvious?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This is called managing.",
+        "The alternative is chaos."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How did you just make chaos sound like a good thing?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You should test the new server.",
+        "Seriously, can we try the chaos thing?"
+      ]
+    }
+  ]
+}

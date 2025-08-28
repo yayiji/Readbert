@@ -1,0 +1,24 @@
+{
+  "date": "2010-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told you to get a sign-off from marketing before you sent this around."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How vivid is your false memory of that conversation?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's plenty vivid.",
+        "Were unicorns involved?"
+      ]
+    }
+  ]
+}

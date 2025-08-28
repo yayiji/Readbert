@@ -1,0 +1,26 @@
+{
+  "date": "2011-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today you'll learn how to work independently."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In this exercise, I want you to put your arms at your side, close your eyes, and fall backward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And it's still better than working with other people.",
+        "Thud",
+        "Thud",
+        "Thud"
+      ]
+    }
+  ]
+}

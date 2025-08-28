@@ -1,0 +1,58 @@
+{
+  "date": "2010-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you read my long e-mail?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not yet.",
+        "What's it about?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't say."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I tell you what I wrote, the effort I put into writing the e-mail will be transformed into a waste of time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I just decided to delete your e-mail before reading it.",
+        "Therefore it is already wasted."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You are now free to tell me its contents without reducing your productivity.",
+        "Oh.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It was something about improving communication, but I worded it better."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe you should read it.",
+        "Maybe you should."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2010-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you give me a quote by next week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your demeanor tells me that you will never buy our product. You only want the quote as a point of reference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or maybe I'm giving you false hope because it's less awkward to end the meeting that way.",
+        "Die! Die!",
+        "Die!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2010-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "He survived because his pointy hair cushioned the impact."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please resist the urge to fiddle with the cool machines that keep him alive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we can make him smarter.",
+        "What's this do?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2011-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you review this for any engineering issues?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What issues do you think it has?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know. I'm not an engineer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your request is too vague. You need to tell me what issues I'm looking for!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did you just ask me to do what I just asked you to do?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't know. I'm an engineer, not a linguist."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've suddenly lost all faith in humanity!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "On the plus side, you found an issue."
+      ]
+    }
+  ]
+}

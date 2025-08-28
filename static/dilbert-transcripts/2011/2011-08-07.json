@@ -1,0 +1,51 @@
+{
+  "date": "2011-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert public relations firm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His job is to persuade the media to write negative stories about our competitor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that ethical?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I assure you that your competitor is doing the same thing to you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They're paying a public relations firm a fortune to steer the media toward defaming your company."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Who did they hire to defame us?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Probably someone awesome."
+      ]
+    }
+  ]
+}

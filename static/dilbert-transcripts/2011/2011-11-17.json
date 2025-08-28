@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who wants to hear about my golf game?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe someone with locked-in syndrome who doesn't get any visitors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just for that, I'm going to tell you twice.",
+        "No, please. I'll do anything."
+      ]
+    }
+  ]
+}

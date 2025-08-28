@@ -1,0 +1,55 @@
+{
+  "date": "2010-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's have lunch so I can tell you about our products.",
+        "No thanks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't like meeting new people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every person I meet chips away at my freedom."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I have lunch with you, I'll feel an obligation to return your pestering phone calls."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My lunchtime is the only chance I get during the day to scrape off the leeches."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Nothing personal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you want to have lunch and discuss our new product line?",
+        "Sure!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Carl, you are totally in the wrong profession."
+      ]
+    }
+  ]
+}

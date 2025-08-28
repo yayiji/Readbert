@@ -1,0 +1,53 @@
+{
+  "date": "2011-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want your honest opinions on my plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't hold back anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does he mean that?",
+        "Why don't you find out?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, I have some feedback."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your plan reminds me of what happens when a monkey eats fermented fruit."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He's all ooh-ooh-ooh and then he falls out of the tree."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is that how he looks when he hears honesty?",
+        "Beats me. I've never tried it."
+      ]
+    }
+  ]
+}

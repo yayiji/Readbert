@@ -1,0 +1,54 @@
+{
+  "date": "2010-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And of course we'll assess our progress along the way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will you be using an enhanced assessment methodology?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope that means something. All I did was string together some words I heard in the hallway."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... I'll be assessing... by measuring... and um..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'd better get in on this."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't support this project until I see your advanced assessment methodology plan."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll have it in ten minutes, assuming you don't know what it's supposed to look like.",
+        "Very good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll be in the shower trying to wash my soul."
+      ]
+    }
+  ]
+}

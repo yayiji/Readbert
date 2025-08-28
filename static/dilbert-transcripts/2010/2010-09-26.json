@@ -1,0 +1,54 @@
+{
+  "date": "2010-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Interview this applicant and tell me if he's right for our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tim, we don't set the bar as high as we used to."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In our golden days, we insisted on employees who could work tirelessly through the night."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "As business slowed, we were happy with anyone who put in eight hours a day."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then our best people left."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now our cubicles are mostly used for napping."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So my question is this: would a ringing phone wake you up?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Probably.",
+        "He comes across as a braggart."
+      ]
+    }
+  ]
+}

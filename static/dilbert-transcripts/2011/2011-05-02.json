@@ -1,0 +1,24 @@
+{
+  "date": "2011-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My brain isn't working at its peak efficiency this afternoon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Common sense says I should go home early to avoid making any mistakes that would be bad for the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless... nothing I... do is important.",
+        "Sounds like your brain is back to its peak efficiency."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2011-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This award goes to Dilbert for coming up with a major fix to our HTML."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't do anything like that. You must be thinking of someone else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you even know what HTML is?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's like... a website?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... you're giving an award for something you don't understand... to someone who wasn't involved?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What I meant to say is that I give this award to... Alice... for... what she did."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes! Envy me, you stinkin' losers!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't know why people say this improves morale.",
+        "I fixed the HTML!"
+      ]
+    }
+  ]
+}

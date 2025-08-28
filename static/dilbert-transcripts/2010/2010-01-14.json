@@ -1,0 +1,25 @@
+{
+  "date": "2010-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the focus group coming along?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They don't like us.",
+        "They're plotting to storm our observation room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Release the sleeping gas.",
+        "Chair!"
+      ]
+    }
+  ]
+}

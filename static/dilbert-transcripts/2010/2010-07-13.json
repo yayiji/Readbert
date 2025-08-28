@@ -1,0 +1,25 @@
+{
+  "date": "2010-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reserved a mid-sized sedan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't care what you reserved.",
+        "We're in the business of selling car insurance and overpriced gas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's refreshingly honest.",
+        "I can get you into a clown car or an ashtray on wheels."
+      ]
+    }
+  ]
+}

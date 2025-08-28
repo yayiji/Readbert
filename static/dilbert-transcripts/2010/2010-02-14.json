@@ -1,0 +1,53 @@
+{
+  "date": "2010-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The marketing department has asked us to make our products more robust."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "None of us knows what that means."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So we can either cancel this meeting and go ask them..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Or we can pretend that arguing with each other about the true meaning of \"robust\" is just as good."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "While that option is stupid, it would give us the illusion of doing something useful right now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Would it be ethical to ignore the long-term interests of stockholders just to feel good about ourselves for a few minutes?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think robust means it has lots of features."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It means sturdy!"
+      ]
+    }
+  ]
+}

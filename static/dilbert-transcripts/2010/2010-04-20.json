@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's taking you so long to fix the control management system?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your leadership has taught me to give you laughably unrealistic time-lines, then blame others when I miss deadlines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not even doing that right.",
+        "I guess I need more of your leadership."
+      ]
+    }
+  ]
+}

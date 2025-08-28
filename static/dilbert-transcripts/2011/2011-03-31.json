@@ -1,0 +1,26 @@
+{
+  "date": "2011-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Press conference",
+        "As you can clearly see, I have created cold fusion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not cold fusion. It's just a jar with a light-bulb."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's some more news:",
+        "No one cares what the camera guy thinks.",
+        "It's free energy!"
+      ]
+    }
+  ]
+}

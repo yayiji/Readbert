@@ -1,0 +1,23 @@
+{
+  "date": "2011-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need your project status update by end of day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ahleth, ah wan yer proja thatuth updah, fuh-fuh-fuh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm trying to improve my listening skills by repeating what people say."
+      ]
+    }
+  ]
+}

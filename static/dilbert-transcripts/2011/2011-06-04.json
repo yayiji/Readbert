@@ -1,0 +1,24 @@
+{
+  "date": "2011-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, all I wanted you to say in the press release is that our VP of engineering is leaving for personal reasons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You didn't need to speculate on the reasons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's lose the part about \"Bieber fever.\"",
+        "Everyone thinks it's easy to write fiction."
+      ]
+    }
+  ]
+}

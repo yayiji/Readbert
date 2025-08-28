@@ -1,0 +1,26 @@
+{
+  "date": "2011-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your latest budget numbers.",
+        "I put them on that pile yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have time to look through a pile.",
+        "Go print it out again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many times per day is it okay to think about murder?",
+        "I'm up to six and it's only lunch-time."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2010-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, my name is...",
+        "Don't bother.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My app does facial recognition and searches all social media to give me your full biography."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's that working out?",
+        "You're either Bart Simpson or a huge dry-erase marker."
+      ]
+    }
+  ]
+}

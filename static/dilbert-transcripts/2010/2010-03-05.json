@@ -1,0 +1,24 @@
+{
+  "date": "2010-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We realized our project can't work even if we execute it perfectly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our boss' plan is to go over budget, attract attention, and hope an executive cancels our project for his own political reasons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now do you agree that evil is the cure for incompetence?",
+        "Don't make me say it."
+      ]
+    }
+  ]
+}

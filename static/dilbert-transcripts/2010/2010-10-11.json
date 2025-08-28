@@ -1,0 +1,27 @@
+{
+  "date": "2010-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My hunting trip was a huge success.",
+        "I bagged an elk.",
+        "Hmmm..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not like you.",
+        "There's something missing in this story."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It had a saddle.",
+        "And there it is."
+      ]
+    }
+  ]
+}

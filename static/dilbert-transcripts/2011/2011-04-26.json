@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is trying to reduce expenses, so you need to pay for your own radiation dosimeters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll just stare at you until you understand the wrongness of that policy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One hour later",
+        "Still nothing."
+      ]
+    }
+  ]
+}

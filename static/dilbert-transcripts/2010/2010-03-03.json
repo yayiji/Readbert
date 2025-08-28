@@ -1,0 +1,27 @@
+{
+  "date": "2010-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, a horrible accident has given me a goat head.",
+        "I need you to slap me so hard that I change species from the neck up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hold still, Asok.",
+        "This might take a few tries."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Two hours later",
+        "Dolphin is close!",
+        "One more should do it."
+      ]
+    }
+  ]
+}

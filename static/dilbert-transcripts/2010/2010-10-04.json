@@ -1,0 +1,25 @@
+{
+  "date": "2010-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice broke my arm. You need to do something about this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. I'll compare Alice's economic value to yours and decide who to fire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No fair!",
+        "She's an engineer!",
+        "You got beat up by someone who is also better at math?"
+      ]
+    }
+  ]
+}

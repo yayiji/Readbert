@@ -1,0 +1,24 @@
+{
+  "date": "2010-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Make sure you coordinate with the brand manager and the category manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And also the clients, the account execs, the project leaders, strategic planning, facilities management, product managers, marketing, and I.T."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I heard was \"give up.\"",
+        "Let's meet again in a year."
+      ]
+    }
+  ]
+}

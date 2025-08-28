@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I researched how long your customers will stay on the phone trying to get tech support before giving up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I designed an audio menu tree that will take them slightly longer than that to reach your tech support."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've seen your user manuals and I assume that you hate your customers' guts.",
+        "It's more of an apathy thing."
+      ]
+    }
+  ]
+}

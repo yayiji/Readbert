@@ -1,0 +1,23 @@
+{
+  "date": "2011-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You used the entire engineering portion of my project budget just learning the new technology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sorry things didn't work out for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some say I'm a slow learner, but I like to think of myself as expensive."
+      ]
+    }
+  ]
+}

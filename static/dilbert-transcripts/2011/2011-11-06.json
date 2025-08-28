@@ -1,0 +1,56 @@
+{
+  "date": "2011-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I researched your personal brand online.",
+        "My what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I looked at your blog, your tweets, and your Facebook page. I googled your name and followed every link."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I checked your credit, criminal record, school transcripts, and references."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But that's just the external stuff.",
+        "Exactly. It's my attitude that counts!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, I mean I also have the results of your urine test."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, and apparently some of your sample landed in a DNA test kit."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And that tanning bed you used last week was actually an MRI."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How's your attitude now?",
+        "Harder to fake."
+      ]
+    }
+  ]
+}

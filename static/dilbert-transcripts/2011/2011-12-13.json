@@ -1,0 +1,24 @@
+{
+  "date": "2011-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going into the tablet computer business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And by that I mean other companies will make the product and we'll design the logo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by that I mean we'll pay another company to design the logo for us.",
+        "Can we watch?"
+      ]
+    }
+  ]
+}

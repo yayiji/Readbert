@@ -1,0 +1,26 @@
+{
+  "date": "2011-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "I recommend that you buy the Dogbert database software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did I just pay a consultant to recommend his own company's software?",
+        "I'm totally objective."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who would install and test it?",
+        "Maybe a consultant who knows the product?"
+      ]
+    }
+  ]
+}

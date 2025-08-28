@@ -1,0 +1,27 @@
+{
+  "date": "2011-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This can't be done.",
+        "You aren't capable of doing it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not saying I'm incapable!",
+        "I could do this in my sleep!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because it's easy.",
+        "What's happening here?!",
+        "Ninja."
+      ]
+    }
+  ]
+}

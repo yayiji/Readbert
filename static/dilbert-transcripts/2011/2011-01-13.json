@@ -1,0 +1,26 @@
+{
+  "date": "2011-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you hear that Dilbert and Alice are on the same Pon Farr cycle?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every seven years, engineers have an irresistible urge to mate. Their spawn would be the product of two engineers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's a reason it rarely happens",
+        "Your plan has unnecessary steps!",
+        "Your specifications are vague!"
+      ]
+    }
+  ]
+}

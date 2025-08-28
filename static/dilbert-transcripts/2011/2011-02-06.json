@@ -1,0 +1,56 @@
+{
+  "date": "2011-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, work with Gustav to get our new product explained on our website."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's what I have so far.",
+        "It's awful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Excuse me?",
+        "There's no information. It's all images and annoying music."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People make buying decisions based on what they read. This gives them nothing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I clutter the design with useful information, it will look ugly, and I won't be able to use it in my portfolio."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I need that portfolio to get a job at a better company. Please help me escape."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You'll probably work here until you die in your cubicle no matter what the website looks like."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you help Gustav?",
+        "Yes, but it wasn't a good day for our stockholders."
+      ]
+    }
+  ]
+}

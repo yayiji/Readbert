@@ -1,0 +1,56 @@
+{
+  "date": "2011-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's CEO interview series",
+        "I don't like people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What makes your company so profitable?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I give all of the credit to our fine employees."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is that another way of saying you're overpaid and useless?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Um... no. I'm their leader. I set the direction."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Because the employees are too dumb to set their own direction?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No! They're smart!",
+        "But not as smart as you?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Who's going to see this?",
+        "No one, assuming you're the highest bidder."
+      ]
+    }
+  ]
+}

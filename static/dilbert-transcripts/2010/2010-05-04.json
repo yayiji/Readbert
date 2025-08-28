@@ -1,0 +1,25 @@
+{
+  "date": "2010-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert technology hospice service to ease the suffering of our dying technology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogbert will use compassion and...",
+        "What was the other thing?",
+        "Bazooka."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Step away from the Windows XP!"
+      ]
+    }
+  ]
+}

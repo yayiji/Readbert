@@ -1,0 +1,26 @@
+{
+  "date": "2010-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm forming a support group for people who always make bad choices.",
+        "Count me in!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ratbert, I want you to organize the whole thing for me.",
+        "I'd like that, and I don't know why."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want everyone to wear uniforms and chant my name.",
+        "Is it just me, or does this keep getting better?"
+      ]
+    }
+  ]
+}

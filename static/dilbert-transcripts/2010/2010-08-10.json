@@ -1,0 +1,24 @@
+{
+  "date": "2010-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need answers to these questions for a confidential project. I can't tell you more."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a complete idiot and even I can deduce from your questions what the project must be."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I anticipated that, so some of you idiots are getting placebo questions.",
+        "Well played."
+      ]
+    }
+  ]
+}

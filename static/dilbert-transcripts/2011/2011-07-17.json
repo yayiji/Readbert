@@ -1,0 +1,56 @@
+{
+  "date": "2011-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to talk about my career path.",
+        "Are you sure?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... yes, I'm sure.",
+        "Don't say I didn't warn you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're within 20% of your maximum career potential."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your future will be just like the present, except you'll be older and you might own a less-embarrassing car."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you go to a new company, you'll like it at first, but in time you'll realize every place is the same."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa!!! Take back the truth!!! Lie to me! Lie to me!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe someday our CEO will make such a huge bonus that he'll want to share some of it with you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hate you!",
+        "Hey, I'm the guy who tried to spare you from this conversation."
+      ]
+    }
+  ]
+}

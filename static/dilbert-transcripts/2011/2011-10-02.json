@@ -1,0 +1,56 @@
+{
+  "date": "2011-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The servers are down.",
+        "I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should do something about it.",
+        "I'm trying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the holdup?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I keep getting interrupted by an unhelpful idiot."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe I can help."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll guard your doorway and keep that guy away from you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is boring. And I don't see that guy."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Have I managed enough for now?",
+        "You nailed it."
+      ]
+    }
+  ]
+}

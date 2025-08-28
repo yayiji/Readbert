@@ -1,0 +1,25 @@
+{
+  "date": "2010-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The media is on our backs because we accidentally destroyed the Statue of Liberty. We need your P.R. advice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you take full responsibility and promise to clean up the harbor?",
+        "Ooh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Earlier that day",
+        "Many of you don't know that the statue was very old... and made entirely of fish food."
+      ]
+    }
+  ]
+}

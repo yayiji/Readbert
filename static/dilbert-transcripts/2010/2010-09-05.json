@@ -1,0 +1,54 @@
+{
+  "date": "2010-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a minor change to our website."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me your business case for the change and I'll prioritize it for the queue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have time to write a business case for one little change."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't justify changing my priorities without one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Gaaaa!!! Why can't we do the simplest things in this stupid company???!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Try one of these corporate post-traumatic stress pills to dull your memory of these events."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What? Where am I? Who are you?",
+        "You were just leaving."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They're placebos, but I find that they solve 20% of my problems."
+      ]
+    }
+  ]
+}

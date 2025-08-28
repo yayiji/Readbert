@@ -1,0 +1,24 @@
+{
+  "date": "2011-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your software services contract is too confusing for any normal human to comprehend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And it wouldn't be cost-effective to involve our attorneys for a deal so small."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I'll just take a chance and sign it.",
+        "Doc... scrub in. I got the liver."
+      ]
+    }
+  ]
+}

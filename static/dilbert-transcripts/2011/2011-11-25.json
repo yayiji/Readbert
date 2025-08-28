@@ -1,0 +1,26 @@
+{
+  "date": "2011-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to buy your company's product but it's like pulling teeth with you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! I switched from commissions to a guaranteed salary. I'm free from the tyranny of customer service!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is less than ideal.",
+        "No paper-work for me!",
+        "Woot!",
+        "Woot!"
+      ]
+    }
+  ]
+}
