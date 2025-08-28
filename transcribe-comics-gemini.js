@@ -4,10 +4,9 @@
  * This script transcribes Dilbert comic images to JSON text using Google Gemini API.
  * 
  * USAGE:
- *   node transcribe-comics-gemini.js [year]
+ *   node transcribe-comics-gemini.js <year>
  * 
  * EXAMPLES:
- *   node transcribe-comics-gemini.js           # Transcribe all available years
  *   node transcribe-comics-gemini.js 2023      # Transcribe only 2023 comics
  *   node transcribe-comics-gemini.js 1989      # Transcribe only 1989 comics
  * 
@@ -266,44 +265,15 @@ async function processYear(year) {
     }
 }
 
-// Function to process all available years
-async function processAllYears() {
-    const comicsBaseDir = path.join(__dirname, 'source-data', 'dilbert-comics');
-    
-    if (!fs.existsSync(comicsBaseDir)) {
-        console.error(`❌ Comics base directory not found: ${comicsBaseDir}`);
-        return;
-    }
-
-    // Get all year directories
-    const years = fs.readdirSync(comicsBaseDir)
-        .filter(item => {
-            const yearPath = path.join(comicsBaseDir, item);
-            return fs.statSync(yearPath).isDirectory() && /^\d{4}$/.test(item);
-        })
-        .sort();
-
-    console.log(`📅 Found ${years.length} years to process: ${years.join(', ')}`);
-    
-    for (const year of years) {
-        console.log(`\n🎯 Processing year: ${year}`);
-        await processYear(year);
-        
-        // Pause between years
-        if (years.indexOf(year) < years.length - 1) {
-            console.log(`\n⏸️  Pausing 2 seconds before next year...`);
-            await new Promise(resolve => setTimeout(resolve, 2000));
-        }
-    }
-}
-
 // Run the script
 const yearArg = process.argv[2];
 
-if (yearArg) {
-    console.log(`🎯 Transcribing Dilbert comics for year: ${yearArg}`);
-    processYear(yearArg).catch(console.error);
-} else {
-    console.log(`🎯 Transcribing Dilbert comics for all available years`);
-    processAllYears().catch(console.error);
+if (!yearArg) {
+    console.log('   🎯 Dilbert Comics Bulk Transcription');
+    console.log('   Usage: node transcribe-comics-gemini.js <year>');
+    console.log('       Example: node transcribe-comics-gemini.js 2023');
+    process.exit(1);
 }
+
+console.log(`🎯 Transcribing Dilbert comics for year: ${yearArg}`);
+processYear(yearArg).catch(console.error);
