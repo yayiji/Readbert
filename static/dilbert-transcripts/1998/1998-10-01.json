@@ -1,0 +1,27 @@
+{
+  "date": "1998-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services!",
+        "I summon the Y2K demon!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Roar",
+        "Roar",
+        "You're not as big as I imagined.",
+        "I wonder why everyone is so afraid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cute!"
+      ]
+    }
+  ]
+}

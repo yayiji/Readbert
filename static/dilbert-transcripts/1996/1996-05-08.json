@@ -1,0 +1,24 @@
+{
+  "date": "1996-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to try my paw at being a career counselor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Insecure people will seek my advice and I'll tell them to be more self-reliant."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds lazy and unhelpful.)",
+        "Would you want career advice from somebody who has to work hard?"
+      ]
+    }
+  ]
+}

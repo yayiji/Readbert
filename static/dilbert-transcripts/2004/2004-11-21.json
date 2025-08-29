@@ -1,0 +1,54 @@
+{
+  "date": "2004-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the technical analysis that you asked for."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't understand any of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if it's right or if it would embarrass me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't ask for a second opinion without looking stupid."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I can't distribute it because it might be wrong."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll put it on this pile and hope something changes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I wonder if it's called whistling when only air comes out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Should I shred your pile of indecision?",
+        "Make it look like an accident."
+      ]
+    }
+  ]
+}

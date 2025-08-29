@@ -1,0 +1,23 @@
+{
+  "date": "2001-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a bit suspicious about you calling in sick yesterday on a Monday, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Glah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Luckily I had lots of optional guts."
+      ]
+    }
+  ]
+}

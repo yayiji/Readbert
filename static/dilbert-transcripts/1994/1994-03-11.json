@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm telling you, if nobody gets a raise, half of the engineers will quit!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the goal.",
+        "We're trying to reduce headcount by fifty percent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But all the smart people will leave!",
+        "Would you mind organizing a goodbye potluck lunch for them?"
+      ]
+    }
+  ]
+}

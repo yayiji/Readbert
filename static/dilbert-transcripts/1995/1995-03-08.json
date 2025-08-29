@@ -1,0 +1,24 @@
+{
+  "date": "1995-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you working twice as fast since I doubled your staff?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've coded twelve modules... Barry is on a journey of discovery where he will find out my mouse is not a microphone.",
+        "Hello! Anybody!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would explain why nobody ever comments on my announcements over the P.A. system."
+      ]
+    }
+  ]
+}

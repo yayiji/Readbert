@@ -1,0 +1,25 @@
+{
+  "date": "1996-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No rooms?? If the pope showed up, would you have a room for him?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, then give me his room!",
+        "I am so clever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's see you squirm out of that logic, weasel-girl."
+      ]
+    }
+  ]
+}

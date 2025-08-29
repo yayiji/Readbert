@@ -1,0 +1,25 @@
+{
+  "date": "1993-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm awarding you a \"recognition fuzzy\" to commend you for your good work on the project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Display it proudly on your shirt.",
+        "It's good for morale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have pocket lint on your shirt.",
+        "Your jealousy is so transparent."
+      ]
+    }
+  ]
+}

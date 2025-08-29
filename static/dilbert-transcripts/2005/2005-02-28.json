@@ -1,0 +1,23 @@
+{
+  "date": "2005-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to attend a meeting for me... it's in Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, you'll need to take a class on their culture so you won't accidentally offend them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This gesture either means \"hello\" or \"I'd like to see your mittens on my bedroom floor, baby.\""
+      ]
+    }
+  ]
+}

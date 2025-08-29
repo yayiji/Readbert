@@ -1,0 +1,23 @@
+{
+  "date": "1995-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Captain Dogbert with some good news and some bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The good news is that we'll be hitting town ten minutes ahead of schedule..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The bad news is we'll be hitting town."
+      ]
+    }
+  ]
+}

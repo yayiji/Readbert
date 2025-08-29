@@ -1,0 +1,26 @@
+{
+  "date": "1992-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the marriage counselor",
+        "I'd like to try some visualization exercises."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Imagine the two of you watching a beautiful sunset.",
+        "You're on a cliff overlooking the ocean..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bob, try not to get ahead of me.",
+        "Shove"
+      ]
+    }
+  ]
+}

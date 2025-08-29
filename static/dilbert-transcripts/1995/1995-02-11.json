@@ -1,0 +1,27 @@
+{
+  "date": "1995-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like each of you to give me a current résumé."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now, don't be alarmed.",
+        "It's just so the new VP can get to know you.",
+        "It's not an obvious prelude to massive staff cuts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I be worried that you all have a current résumé on you?",
+        "Don't worry.",
+        "It's not an obvious prelude to massive disloyalty!"
+      ]
+    }
+  ]
+}

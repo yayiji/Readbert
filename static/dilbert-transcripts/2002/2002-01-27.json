@@ -1,0 +1,54 @@
+{
+  "date": "2002-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The ad campaign was a huge, huge success!",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Define \"huge, huge success.\" How much did sales increase?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't track those numbers.",
+        "But I know the ad created a huge buzz because of all the e-mail I got the next day."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How many messages did you get?",
+        "Six. But that's a lot for one topic.",
+        "Wow! Six!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How many of the six were from your own employees?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Who invited the engineer?",
+        "I thought he was with you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

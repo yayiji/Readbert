@@ -1,0 +1,23 @@
+{
+  "date": "1999-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need your serial number, which is conveniently located inside the unit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The sticker says my warranty will be void if I open the case."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, call me if anything changes."
+      ]
+    }
+  ]
+}

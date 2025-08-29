@@ -1,0 +1,25 @@
+{
+  "date": "2004-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The status of my project is that you ignored five of my e-mails and seven of my voicemails."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried to corner you in the hallway, but you filled all the air space with stories about your sinuses and scampered away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Speaking of which,",
+        "Hoo-boy!",
+        "I'd like to hear those stories."
+      ]
+    }
+  ]
+}

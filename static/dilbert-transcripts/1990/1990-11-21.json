@@ -1,0 +1,24 @@
+{
+  "date": "1990-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No matter how bad the day is, the stars are always there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, many of them burned out years ago, but their light is just now reaching earth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for shattering my comfortable misconception.",
+        "It's the miracle of science."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "1990-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Dilbert. How's it going?",
+        "Slap"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh... He might have put a \"kick me\" sign on my back.",
+        "Hi, Wendel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd better stay close to the wall until I can check my back."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll just slip in here and see."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can't reach."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Tor",
+        "Maybe I should just go home early."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hi, Dilbert. How's it going?",
+        "Groan.",
+        "Slap"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope they get some paper towels in the men's room soon.",
+        "Yeah. Dilbert already left for the day."
+      ]
+    }
+  ]
+}

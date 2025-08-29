@@ -1,0 +1,54 @@
+{
+  "date": "1993-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Help! Dogbert, I'm being sucked into cyberspace!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaaagh!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's hope you don't need pants in cyberspace."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wow! It's like a \"Calvin and Hobbes\" fantasy but without the artistic look to it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's beautiful! I'm interacting with the minds of brilliant people from around the globe."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can see how all their ideas and knowledge fit together! It's exhilarating!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How can I ever describe this to somebody who hasn't been here?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...And I didn't even need pants!!",
+        "So, you're some kind of nerd, right?"
+      ]
+    }
+  ]
+}

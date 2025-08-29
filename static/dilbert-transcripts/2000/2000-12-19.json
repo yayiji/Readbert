@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Casual dress day is hurting our productivity. We need to cancel it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it possible that our real problems are caused by irrational management?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I think comfortable pants are the problem.",
+        "Sounds right."
+      ]
+    }
+  ]
+}

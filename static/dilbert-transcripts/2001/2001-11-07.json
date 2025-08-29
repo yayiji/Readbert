@@ -1,0 +1,24 @@
+{
+  "date": "2001-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've lost two pounds since I signed up for yoga class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I never get sick anymore.",
+        "You haven't had a class yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'm some sort of yoga prodigy."
+      ]
+    }
+  ]
+}

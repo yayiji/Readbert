@@ -1,0 +1,25 @@
+{
+  "date": "2002-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Starting today, our goals will be replaced by stretch goals.",
+        "Stretch goals?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stretch goals are like stretch pants.",
+        "It's a way of signaling surrender."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Speaking of which, I wouldn't say no to a doughnut."
+      ]
+    }
+  ]
+}

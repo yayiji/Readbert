@@ -1,0 +1,24 @@
+{
+  "date": "1993-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to be the center of the universe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of the things in the universe can now be described in terms of their relationship to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand why you're doing this.",
+        "That's because your brain is only a half-dogbert."
+      ]
+    }
+  ]
+}

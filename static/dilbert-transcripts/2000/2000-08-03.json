@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to start tracking our time spent with internal clients."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will cleverly send fake bills to other departments to show how helpful we are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't help you. I'm busy with my time sheet."
+      ]
+    }
+  ]
+}

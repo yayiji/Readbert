@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Speed is the key to success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it okay to do things wrong if we're really, really fast?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... no.",
+        "Now I'm all confused, thank you very much."
+      ]
+    }
+  ]
+}

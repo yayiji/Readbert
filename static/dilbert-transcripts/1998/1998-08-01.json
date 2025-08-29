@@ -1,0 +1,24 @@
+{
+  "date": "1998-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I jump on the garbage?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know why, but when I see a fresh pile of garbage, I just want to jump up and down on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The best things in life are silly.",
+        "Yee-ha!!"
+      ]
+    }
+  ]
+}

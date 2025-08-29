@@ -1,0 +1,24 @@
+{
+  "date": "1997-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The results of the employee survey have been tabulated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As always, employees say they are underpaid, blah, blah, blah, and management is incompetent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your bizarre, unworldly response will be?",
+        "Everyone gets a travel alarm clock with the company logo!"
+      ]
+    }
+  ]
+}

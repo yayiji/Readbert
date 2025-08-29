@@ -1,0 +1,36 @@
+{
+  "date": "1994-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Value priced",
+        "Lottery",
+        "Tickets"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "E-mail: scottadams@aol.com",
+        "I am drawn by the",
+        "allure of fabulous",
+        "wealth and a life",
+        "of hedonistic",
+        "delight... one",
+        "please."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is",
+        "dated",
+        "yesterday.",
+        "Ooh, bad",
+        "luck. Try",
+        "again?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2001-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the ol' job market lately?",
+        "It's pretty bad, isn't it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So no matter how hard I make you work it's still better than being unemployed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who's your leader?",
+        "Go on, say it.",
+        "You are."
+      ]
+    }
+  ]
+}

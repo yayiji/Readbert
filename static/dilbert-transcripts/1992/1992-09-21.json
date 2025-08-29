@@ -1,0 +1,24 @@
+{
+  "date": "1992-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There... I think I've invented a way to send vast amounts of data without fiber optic cables."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a simple application of J.S. Bell's theorem. He showed that if you break up a molecule and change the spin of one electron, the spin of the other electrons originally joined will immediately change too, no matter where they are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you think the fiber optic industry will give me for this?",
+        "A horse's head in your bed."
+      ]
+    }
+  ]
+}

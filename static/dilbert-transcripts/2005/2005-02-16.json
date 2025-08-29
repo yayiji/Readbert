@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm collecting money for Ted's baby shower."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My taxes already subsidize his other brats. I'm taking a refund."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just put that five in there!",
+        "I can't be responsible for your poor fiscal planning."
+      ]
+    }
+  ]
+}

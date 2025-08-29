@@ -1,0 +1,25 @@
+{
+  "date": "2005-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Vijay, the world's most desperate venture capitalist",
+        "You two have good math grades."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you grow up and marry and produce a little engineer baby, I want to invest in its first idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't be too late!",
+        "Dude, we're already looking for mezzanine funding."
+      ]
+    }
+  ]
+}

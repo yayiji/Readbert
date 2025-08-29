@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked for more e-mail storage space and you deleted all of my files!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You complain when I ignore your requests and you complain when I delete your files."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Those aren't your only choices!!",
+        "I can't please everyone."
+      ]
+    }
+  ]
+}

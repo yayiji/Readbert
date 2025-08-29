@@ -1,0 +1,24 @@
+{
+  "date": "1993-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my consulting report on your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had no insights so I bulked it up by adding witty analogies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "His head was like a hollow putty ball attacked by two pointy dust bunnies.",
+        "Vivid, isn't it?"
+      ]
+    }
+  ]
+}

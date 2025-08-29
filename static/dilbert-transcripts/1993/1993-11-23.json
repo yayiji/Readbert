@@ -1,0 +1,25 @@
+{
+  "date": "1993-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job satisfaction has gone way up since I got this crossbow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, Russell!",
+        "Answer your own phone once in a while!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need to chat.",
+        "Chat this"
+      ]
+    }
+  ]
+}

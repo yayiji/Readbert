@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can take 20% pay cuts or I'll have to downsize one of you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know you're like a family but...",
+        "Yes, Wally?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell us more about the pay cut. That sounds promising."
+      ]
+    }
+  ]
+}

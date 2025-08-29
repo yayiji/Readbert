@@ -1,0 +1,24 @@
+{
+  "date": "2001-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We should add this feature to our product to make it more useful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you telling me that not one person on earth will use our product without that feature?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You changed what I said into a bizarre absolute.",
+        "Oh, I change everything you say?!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2000-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "He's on the phone.",
+        "You'll have to stand here and wait."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't leave.",
+        "Don't make noise.",
+        "Don't try talking to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Arm hair LX-943 is growing nicely."
+      ]
+    }
+  ]
+}

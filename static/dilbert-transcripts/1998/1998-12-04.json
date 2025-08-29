@@ -1,0 +1,24 @@
+{
+  "date": "1998-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you want to get promoted, you need lots of \"face time\" with your V.P."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend sending photos of yourself every week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "More photos... he must be a relative.",
+        "I'll start the promotion paperwork."
+      ]
+    }
+  ]
+}

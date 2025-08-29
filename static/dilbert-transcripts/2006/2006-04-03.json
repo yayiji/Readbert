@@ -1,0 +1,25 @@
+{
+  "date": "2006-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company policy says that space heaters are not allowed in cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My heater doesn't heat space. It heats the air in my cubicle.",
+        "That's okay, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would anyone heat \"space\"?",
+        "It keeps Uranus warm."
+      ]
+    }
+  ]
+}

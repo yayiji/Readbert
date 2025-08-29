@@ -1,0 +1,25 @@
+{
+  "date": "1996-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've hired the \"Dogbert touchy-feely institute\" to teach us about teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll start with an exercise about trust.",
+        "I want each of you to sign blank checks and give them to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What will this teach us about trust?",
+        "It will teach you that trust is an excellent quality for other people to have."
+      ]
+    }
+  ]
+}

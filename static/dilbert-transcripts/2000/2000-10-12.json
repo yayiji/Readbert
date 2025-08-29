@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want a stock tip?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you asking me to believe you're a loser at every aspect of life except picking stock?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not what I'm asking.",
+        "It's implied."
+      ]
+    }
+  ]
+}

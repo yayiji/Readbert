@@ -1,0 +1,26 @@
+{
+  "date": "2002-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Roboboss, can this relationship work?",
+        "After all, I'm a human..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you're a soulless machine designed to give shallow compliments to employees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're giving 110%.",
+        "Stop...",
+        "Don't make me love you."
+      ]
+    }
+  ]
+}

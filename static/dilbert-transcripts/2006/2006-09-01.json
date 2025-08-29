@@ -1,0 +1,24 @@
+{
+  "date": "2006-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can kick a field goal in the ninth inning if we use a full-court press."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember that you drive for show but you pick up the spare for dough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you been helping Alice with her sports metaphors?",
+        "Perhaps."
+      ]
+    }
+  ]
+}

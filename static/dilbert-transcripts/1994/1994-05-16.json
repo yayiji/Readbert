@@ -1,0 +1,27 @@
+{
+  "date": "1994-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you in charge of an important project which is fully funded.",
+        "Gaspe"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a marked man.",
+        "The other employees will either try to suck up to me for money or throw bricks at me.",
+        "Buddy!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The trick is to keep a protective ring of suck-ups around at all times.",
+        "Zip!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you come to a meeting right now?",
+        "No, it's almost lunch time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I miss lunch, my day will be 12 hours of uninterrupted misery. I will envy the dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's stupid. The dead don't eat lunch either."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2006-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No problem. I'll just go online and find a great job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... this one looks good. \"No experience needed...\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Must be willing to relocate, then be put into a huge blender and packaged as a condiment."
+      ]
+    }
+  ]
+}

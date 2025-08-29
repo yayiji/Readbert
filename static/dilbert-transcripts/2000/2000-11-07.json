@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should put an \"E-\" in front of your title."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's too boring just being the director of information, operations and technology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "From now on, call me the e-idiot.",
+        "If only there were an easy way to remember that."
+      ]
+    }
+  ]
+}

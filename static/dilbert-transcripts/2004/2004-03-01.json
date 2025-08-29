@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have too many managers so I'm making you an aspect manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be in charge of one aspect of a corporate objective."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please just fire me.",
+        "Your aspect will be morale."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2000-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So they replaced our computers and never trained us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I told them we needed a training class but they ignored my requests."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So our computers sit there unused while we do our work the slow way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why don't you read the computer manual?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't have time for that!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But you have time for a class?",
+        "It doesn't add up."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm cold."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You should try wearing a coat.",
+        "They're terrific."
+      ]
+    }
+  ]
+}

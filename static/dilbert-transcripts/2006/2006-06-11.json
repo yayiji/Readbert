@@ -1,0 +1,55 @@
+{
+  "date": "2006-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to buy a candy bar for my daughter's school fundraiser?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No thanks. I'm not hungry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not really the point."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why would I buy an overpriced candy bar if I didn't plan on eating it right away?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'd do it because your coworker asked you to."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's a reason?",
+        "Yes, it is."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In that case, I'll take one."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Five minutes later",
+        "Hey, coworker, would you like to buy a half-eaten candy bar?"
+      ]
+    }
+  ]
+}

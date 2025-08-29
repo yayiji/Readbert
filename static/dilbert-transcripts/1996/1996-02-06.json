@@ -1,0 +1,26 @@
+{
+  "date": "1996-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you've got to lock up these proprietary documents you have in your cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If our competitors see our plans, it could be very dangerous.",
+        "For us or for them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The competitors",
+        "Ooh! Look! They're planning to \"utilize synergy.\" We're in trouble now!",
+        "Stop! You're killing me!!"
+      ]
+    }
+  ]
+}

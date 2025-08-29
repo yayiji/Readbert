@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired Mr. Dogbert to write the F.A.Q. for our web site."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The key is to anticipate our customers' most likely questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question 1: Where does your CEO live?",
+        "I need to know so I can throw your cruddy product through his biggest window."
+      ]
+    }
+  ]
+}

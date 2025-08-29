@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I'm unemployed, I don't feel like a valuable member of society."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Consider this bag of garbage. It too is unemployed and yet it is worthy of love."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't love it.",
+        "That's too bad because no one else will date you now."
+      ]
+    }
+  ]
+}

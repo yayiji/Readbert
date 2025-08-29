@@ -1,0 +1,28 @@
+{
+  "date": "1993-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your boss won't promote you to \"technical prima donna\" until you learn disdain for others."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pretend this inflatable dummy is a co-worker asking a question.",
+        "See how long you can ignore it.",
+        "I'll check back later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Psst. Nothing personal, buddy.",
+        "This is just practice.",
+        "Hey!",
+        "Hey!"
+      ]
+    }
+  ]
+}

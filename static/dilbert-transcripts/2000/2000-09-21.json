@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you test the software today?",
+        "No, I'm making major changes Tuesday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could test the current version."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wish people wouldn't slap their foreheads and say \"aye-yi-yi-yi\" every time I talk."
+      ]
+    }
+  ]
+}

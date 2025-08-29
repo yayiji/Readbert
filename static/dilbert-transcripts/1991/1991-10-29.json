@@ -1,0 +1,26 @@
+{
+  "date": "1991-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey! You charged me ten dollars yesterday!",
+        "Pet me $5"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Five dollars is just the base price.",
+        "I charge extra for an extended no-rabies warranty and other add-ons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll take a \"plain.\"",
+        "Wag or no wag?"
+      ]
+    }
+  ]
+}

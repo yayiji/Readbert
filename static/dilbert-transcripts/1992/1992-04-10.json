@@ -1,0 +1,25 @@
+{
+  "date": "1992-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Think of the company as a person.",
+        "We in marketing would be the \"brains.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The sales department would be the \"body.\"",
+        "What's engineering?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The snot."
+      ]
+    }
+  ]
+}

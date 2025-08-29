@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a new method for blowing off the idiots who ask questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I say, \"That information is on my web page. Shoo, shoo.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What happens when they find out it isn't?",
+        "I'll say, \"You must have misunderstood your question.\""
+      ]
+    }
+  ]
+}

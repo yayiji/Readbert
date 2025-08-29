@@ -1,0 +1,26 @@
+{
+  "date": "1995-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've decided to revoke your angel status.",
+        "You're giving us all a bad name."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your problem is that you define \"healing\" too narrowly.",
+        "I'm making ugly people look attractive, and that's important, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it too late to go back to my old look?",
+        "Why? You're beautiful!"
+      ]
+    }
+  ]
+}

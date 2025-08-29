@@ -1,0 +1,24 @@
+{
+  "date": "2003-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The management retreat in Hawaii was productive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We calculated how many employees we needed to down-size to pay for the trip."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't blame me, Ted.",
+        "I voted against the third helicopter ride."
+      ]
+    }
+  ]
+}

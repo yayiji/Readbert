@@ -1,0 +1,27 @@
+{
+  "date": "1992-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me show you where the information is in your binder."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, I'll need a good load of saliva on my page-turning hand.",
+        "Slurp",
+        "Slurp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you can show me in your binder.",
+        "Can't...",
+        "Somehow my pages got all stuck together."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, put together a presentation for the big boss's staff meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "On what topic?",
+        "I hear the big boss was a geometry major, so let's work that in somehow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you do an hour on the many uses of rectangles?"
+      ]
+    }
+  ]
+}

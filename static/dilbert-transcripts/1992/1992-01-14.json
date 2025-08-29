@@ -1,0 +1,26 @@
+{
+  "date": "1992-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Checking in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your record says you stole three billion dollars from investors.",
+        "Ha ha",
+        "Ha ha ha"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess you've learned your lesson.",
+        "Whoa! Looks like my jail term is almost over!"
+      ]
+    }
+  ]
+}

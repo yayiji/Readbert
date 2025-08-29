@@ -1,0 +1,59 @@
+{
+  "date": "1996-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll never understand what you do for a living.",
+        "I told you I'm an engineer, Mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you say. But you also say you spend all day in meetings. When do you do any engineering?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good point. Let's just say I'm what the experts call a \"knowledge worker.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Which experts call it that?",
+        "I don't know."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What's the name of the product you're working on?",
+        "I don't know what the acronym stands for..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What kind of market penetration and return on investment do you expect?",
+        "Um... I don't know..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, dear...",
+        "Well, I'm sure you're very punctual."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ask me another question!! C'mon...",
+        "Why do they call you a \"knowledge worker\"?"
+      ]
+    }
+  ]
+}

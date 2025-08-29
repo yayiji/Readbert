@@ -1,0 +1,26 @@
+{
+  "date": "1994-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my bid to run your telemarketing company.",
+        "Basically, it's no cost to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My telemarketers pay themselves.",
+        "If they get a feeble-minded person on the phone they charge them triple and pocket the difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no way I can lose.",
+        "Don't answer your home phone for a few weeks."
+      ]
+    }
+  ]
+}

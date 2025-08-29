@@ -1,0 +1,58 @@
+{
+  "date": "1995-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me introduce you to one of our engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Karen is our new vice president. And you are...?",
+        "Dilbert: Valued employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I believe in open communications, Dilbert. Feel free to talk about anything.",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So, what were you working on?",
+        "Oh-no"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well... I was just sending an e-mail to somebody who sits by a window to ask if it's raining."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If it's raining I'll fashion a raincoat from a large trash bag.",
+        "Watch."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Three holes and you're ready to go!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you planning to go out at lunch?",
+        "Only if it rains."
+      ]
+    }
+  ]
+}

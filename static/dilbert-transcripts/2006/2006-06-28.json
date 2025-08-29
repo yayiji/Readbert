@@ -1,0 +1,29 @@
+{
+  "date": "2006-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oprah invited me to appear on her show to talk about my book.",
+        "But I'm too busy.",
+        "Can you pretend you're me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gosh... normally I would never do something like that, but it's probably my only chance of being on Oprah.",
+        "Thank you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ow!",
+        "Ow!",
+        "Ow!",
+        "Oprah is a surprisingly good puncher."
+      ]
+    }
+  ]
+}

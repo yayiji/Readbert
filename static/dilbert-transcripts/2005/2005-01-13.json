@@ -1,0 +1,30 @@
+{
+  "date": "2005-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I must mark my territory by insisting on a change to the prototype."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give it a wireless internet option."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It already has one.",
+        "What doesn't it have?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "An idiot designing it."
+      ]
+    }
+  ]
+}

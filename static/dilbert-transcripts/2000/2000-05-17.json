@@ -1,0 +1,26 @@
+{
+  "date": "2000-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, maybe we shouldn't date.",
+        "I'm a VP and you're an engineer in my division."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sheesh. Get over yourself.",
+        "I'm just using you to drive my boss nuts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your indifference arouses me! I will make you mine!",
+        "VPs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2000-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to become a business manager for celebrities.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because banks have locks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everything you own has been put in my name..for..um..tax purposes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're such a good friend.",
+        "How can I ever repay you?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can sign this.",
+        "It gives me the rights to your life story."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In the unlikely event that someone steals your fortune and you become a pathetic drug addict...",
+        "...I can sell your story to the \"Biography\" channel."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They start filming on Thursday."
+      ]
+    }
+  ]
+}

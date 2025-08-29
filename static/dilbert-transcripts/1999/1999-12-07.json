@@ -1,0 +1,25 @@
+{
+  "date": "1999-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're all idiots. I quit!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There... I found a higher paying job two miles away. Adios, suckers.",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the new web designer. I hear you're idiots. Where's the ethernet jack?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the first lab model of automatic dentures."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can program them to eat a meat loaf for you while you sleep... quite a little time saver."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Weren't you working with Johnson?",
+        "Ooh... bad news about Johnson, sir."
+      ]
+    }
+  ]
+}

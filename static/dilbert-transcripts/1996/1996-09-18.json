@@ -1,0 +1,28 @@
+{
+  "date": "1996-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, your job is to review eighty million lines of computer code in the company's systems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're looking for any reference to the current year.",
+        "Those pieces of code will be a problem when the year is 2000.",
+        "Gotcha"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Six months later",
+        "I'm happy to report that the date did not show up once.",
+        "In fact, it was all just zeros and ones!",
+        "Oops."
+      ]
+    }
+  ]
+}

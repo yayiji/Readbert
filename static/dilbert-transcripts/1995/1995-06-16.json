@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new goal, Bob, is to be the next heavyweight boxing champion of the world!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't let anybody ever tell you that you're too small or too slow or too uncoordinated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or too clueless.",
+        "Exactly! Now you're catching on."
+      ]
+    }
+  ]
+}

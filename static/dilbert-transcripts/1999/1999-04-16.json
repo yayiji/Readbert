@@ -1,0 +1,24 @@
+{
+  "date": "1999-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello. May I speak to the moron who designed my computer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My computer locks up five times a day. I'm going to drive over to your house and kick your white, pimply..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, Mom.",
+        "Oh, I'll find it!"
+      ]
+    }
+  ]
+}

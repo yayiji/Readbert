@@ -1,0 +1,24 @@
+{
+  "date": "1993-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It was another hideous shopping experience, but I found exactly the pants I want.",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This card was reported stolen. The real owner was strangled with his own pants just minutes ago on aisle six..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would explain why these were on the floor by the chalk outline."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can't repair a defective co-worker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The best you can do is trade for a co-worker whose defects you haven't yet discovered."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's wrong with this one?",
+        "He parts his hair in the middle; that's just wrong."
+      ]
+    }
+  ]
+}

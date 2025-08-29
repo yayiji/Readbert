@@ -1,0 +1,25 @@
+{
+  "date": "1991-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After one week of camping",
+        "This vacation to Clyde Canyon has been a major rip-off.",
+        "I'm glad it's over."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why are you two in that hole when beautiful Clyde Canyon is just over the ridge?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we shouldn't bother getting our photos developed."
+      ]
+    }
+  ]
+}

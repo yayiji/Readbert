@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have completed all of my projects and I am ready for a new challenge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can help Tina write the department newsletter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But the newsletter job is only given to the most worthless employee.",
+        "And her assistant."
+      ]
+    }
+  ]
+}

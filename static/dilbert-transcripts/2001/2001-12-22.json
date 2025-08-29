@@ -1,0 +1,24 @@
+{
+  "date": "2001-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, I hold in my hands the most important document ever created."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a signed petition to end war. I expect to win the Nobel Peace Prize for this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I have a sip of that?",
+        "Trade ya."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'd like you to testify in the lawsuit against our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell the truth, but do it in your usual engineering way so that no one understands you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, I've decided to be a whistleblower.",
+        "Whatever. It'll all sound the same!"
+      ]
+    }
+  ]
+}

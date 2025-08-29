@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert told me about the birds and the bees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The bee part confuses me.",
+        "It seems like I'd get stung."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And as for birds, I just wouldn't know the words to say.",
+        "Try a humming bird."
+      ]
+    }
+  ]
+}

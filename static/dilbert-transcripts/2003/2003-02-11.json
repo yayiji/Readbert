@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you had a cold.",
+        "It wasn't a cold."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was addicted to prescription drugs and I grew an exoskeleton. I've been in rehab and surgery for six months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just to be clear: Can I catch any of that by touching the coffeemaker after you?"
+      ]
+    }
+  ]
+}

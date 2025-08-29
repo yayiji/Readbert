@@ -1,0 +1,31 @@
+{
+  "date": "2001-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The great thing about free speech is that I can criticize the government.",
+        "I'd fire you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean outside of work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd fire you for that too."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "May I express enjoyment of my pastry?",
+        "Sure. It's a free country."
+      ]
+    }
+  ]
+}

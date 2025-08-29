@@ -1,0 +1,25 @@
+{
+  "date": "2007-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They can take my soul but they can't take my name!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Visa called.",
+        "Someone stole your identity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need a new battle cry.",
+        "How about \"Ouch\"?"
+      ]
+    }
+  ]
+}

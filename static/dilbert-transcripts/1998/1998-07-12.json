@@ -1,0 +1,58 @@
+{
+  "date": "1998-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't believe I get paid for this.",
+        "Blah blah"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This thing lasts two more hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should fidget with my pen."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm too late.",
+        "Now I'd look uncreative.",
+        "Fidget."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I wonder how long I can hold my breath.",
+        "Fidget."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Fidget."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whump!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ooh, two pens.",
+        "What would that be like?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2000-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This technology will work or my name isn't Paul Tergeist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wish I had a nickel for every time that happened to a co-worker.",
+        "Ow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2000-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long has he been under your desk?",
+        "Three days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you feed him?",
+        "Just some licorice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should never feed the I.S. people.",
+        "More licorice!"
+      ]
+    }
+  ]
+}

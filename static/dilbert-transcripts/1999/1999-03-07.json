@@ -1,0 +1,54 @@
+{
+  "date": "1999-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So our morale is... umm..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that on your desk?",
+        "It's a family picture."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might be wrong, but I think it's only a picture of you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The rest of the family is hard to look at."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I see no reason I should suffer."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now what was your question about morale?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Alice?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We're surrounded by freaks."
+      ]
+    }
+  ]
+}

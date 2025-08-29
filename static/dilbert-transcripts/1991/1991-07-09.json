@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just read that in a few years you will be able to access all of the news and information of the world from your personal computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You probably saw the same article in today's paper.",
+        "I don't read a paper."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's wrong with this picture?"
+      ]
+    }
+  ]
+}

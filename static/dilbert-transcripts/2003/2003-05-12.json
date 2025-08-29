@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Write a rebuttal to this technical recommendation so I can reject it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't write a rebuttal to my own recommendation!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Then I had to write myself up for insubordination.",
+        "Mock yourself and go to bed."
+      ]
+    }
+  ]
+}

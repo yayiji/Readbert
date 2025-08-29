@@ -1,0 +1,26 @@
+{
+  "date": "2005-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't get much sleep last night.",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm part of a secret government test on sleep deprivation. I haven't slept since February."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I so want to punch you right now.",
+        "That's nothing.",
+        "I'll rip off my own head and make me eat it."
+      ]
+    }
+  ]
+}

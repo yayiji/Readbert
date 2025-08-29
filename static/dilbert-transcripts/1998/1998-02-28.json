@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new slogan is, \"Pressure makes diamonds.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about, \"Pressure makes garbage more compact\"? I wonder if that one is taken."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate this strong job market for engineers.",
+        "\"Irritation makes pearls.\"",
+        "Or maybe \"Pressure makes whine.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2001-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's why I recommend using this vendor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't we use our internal developers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me explain how this will play out."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Step one: We select an outside vendor because our internal developers are clueless weasels."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Step two: We sign a contract and begin work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Step three: Our internal weasels complain to our VP and she orders us to use them."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Step four: The outside vendor sues us while our weasels grunt out steaming mounds of worthless code."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do I plan too much?",
+        "Is this the conversation we practiced yesterday?"
+      ]
+    }
+  ]
+}

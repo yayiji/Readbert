@@ -1,0 +1,24 @@
+{
+  "date": "1990-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This must be the company accounting department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to ask some questions about this B-budget report."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this a bad time for you?",
+        "Always."
+      ]
+    }
+  ]
+}

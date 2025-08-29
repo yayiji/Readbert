@@ -1,0 +1,25 @@
+{
+  "date": "2002-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having these coffee meetings to find out how I can improve morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My only problem was that I wasn't drinking enough coffee with you.",
+        "So now I'm good, thanks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Promise me you'll never leave this table.",
+        "I can't go back to the way things were."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1997-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you telling me that you invented the first web browser?",
+        "Not alone.",
+        "I worked with our garbage man."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Flashback",
+        "I wonder how long people would sit in front of a computer waiting for nothing.",
+        "Let's find out!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if this thing gets out of hand?",
+        "We'll blame it on some drunken college kid."
+      ]
+    }
+  ]
+}

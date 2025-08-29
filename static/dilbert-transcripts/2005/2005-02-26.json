@@ -1,0 +1,26 @@
+{
+  "date": "2005-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think we should talk and try to work out our problem.",
+        "What problem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm referring to your utter disrespect for me.",
+        "I don't disrespect you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not even slightly?",
+        "Wait. I feel a little bit coming on right now."
+      ]
+    }
+  ]
+}

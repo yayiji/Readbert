@@ -1,0 +1,25 @@
+{
+  "date": "2002-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you finished your \"PowerPoint\" slides for the CEO's visit?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. I'm focusing on all the things we do wrong, because that's what he needs to fix."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just kidding.",
+        "There's no useful information.",
+        "Don't joke!"
+      ]
+    }
+  ]
+}

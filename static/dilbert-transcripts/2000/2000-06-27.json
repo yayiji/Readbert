@@ -1,0 +1,25 @@
+{
+  "date": "2000-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've got to work eighteen hours a day to compete in this industry!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's just say we work eighteen hours a day.",
+        "Maybe our competitors will die trying to match us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that work?",
+        "It almost worked on us."
+      ]
+    }
+  ]
+}

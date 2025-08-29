@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We know these random drug tests are unpleasant for employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why we offer free cashews."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suddenly I thought about Charlie Brown but I don't know why."
+      ]
+    }
+  ]
+}

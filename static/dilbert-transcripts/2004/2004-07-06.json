@@ -1,0 +1,24 @@
+{
+  "date": "2004-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Time has stopped until my boss gives me the bad news that he hinted was coming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe I'll use the time to invent a new language and grow a beard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ee-yo nebab wanponi grep.",
+        "I forgot why I wanted to talk to you."
+      ]
+    }
+  ]
+}

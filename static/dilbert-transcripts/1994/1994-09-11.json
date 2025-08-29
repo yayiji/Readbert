@@ -1,0 +1,55 @@
+{
+  "date": "1994-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Copy room"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop right there!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's Phil, the prince of insufficient light!",
+        "What's in your hands?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm just borrowing some paper for the laser printer.",
+        "There's no law against that!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I think we both know that the copier paper and the printer paper are purchased and tracked separately."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You've made a mockery of the system! I darn you to heck!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your punishment is to sit at the secretary's cubicle and endure the stale wit of your co-workers."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hey, Wendy, there's something different about you today!"
+      ]
+    }
+  ]
+}

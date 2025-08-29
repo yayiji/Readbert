@@ -1,0 +1,28 @@
+{
+  "date": "1993-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't keep working these long hours...",
+        "I deserve a family life.",
+        "Alice, Alice, Alice..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This isn't the \"me\" generation of the eighties.",
+        "This is the \"lifeless nineties\".",
+        "I expect 178 hours of work from you each week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There are only... uh, 168 hours in a week.",
+        "I expect your family to chip in a few hours."
+      ]
+    }
+  ]
+}

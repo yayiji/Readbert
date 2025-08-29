@@ -1,0 +1,23 @@
+{
+  "date": "2004-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a question for the ethics hotline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it okay to retype the directions on my boss's prescription medication?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know I can't do this next thing because I've tried."
+      ]
+    }
+  ]
+}

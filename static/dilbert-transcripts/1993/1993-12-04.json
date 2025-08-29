@@ -1,0 +1,28 @@
+{
+  "date": "1993-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Skeptics say that a company fitness program will not succeed.",
+        "Let's do some aerobics and see who's right!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ouch!",
+        "Ow!",
+        "Whap",
+        "Unh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The skeptics are right.",
+        "We usually are."
+      ]
+    }
+  ]
+}

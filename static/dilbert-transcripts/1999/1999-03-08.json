@@ -1,0 +1,26 @@
+{
+  "date": "1999-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mwa fwa fwa ooh mah fuh.",
+        "I can't understand a word you say."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you're poorly dressed. You must be some sort of technology expert.",
+        "Or a rodeo clown."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's a fifty percent chance I hired a data network engineer.",
+        "I smell hay."
+      ]
+    }
+  ]
+}

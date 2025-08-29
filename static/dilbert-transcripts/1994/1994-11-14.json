@@ -1,0 +1,25 @@
+{
+  "date": "1994-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm assigning you to \"the project that wouldn't die.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everybody likes this project too much to cancel it, but not enough to fund it properly.",
+        "Aaarg!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now go out there and maintain the status quo!",
+        "You really shouldn't mix honesty with your motivational speeches."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2007-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What have you done lately to enhance our strategy into the next adjacency?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know what that means, so I'm going to say, \"everything.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's lucky there's no way to verify that claim."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1998-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company knows everything about you, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have logs of all your phone calls, web hits and e-mail.",
+        "We have your urine test, college grades, salary and family contacts..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's against our policy to kill employees and replace them with low-paid impersonators, but I wanted you to know it's feasible."
+      ]
+    }
+  ]
+}

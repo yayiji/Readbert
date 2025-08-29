@@ -1,0 +1,26 @@
+{
+  "date": "2004-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's school for the socially oblivious",
+        "Today I'll teach you to recognize when you're boring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is called a yawn. When you see one, stop talking about yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Breakout session",
+        "And then I chipped it right onto the green!",
+        "Look, look!"
+      ]
+    }
+  ]
+}

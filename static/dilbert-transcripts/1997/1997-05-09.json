@@ -1,0 +1,24 @@
+{
+  "date": "1997-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, we don't have time to gather the product requirements ahead of time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to start designing the product anyway.",
+        "Otherwise it will look like we aren't accomplishing anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of all my projects, I like the doomed ones best."
+      ]
+    }
+  ]
+}

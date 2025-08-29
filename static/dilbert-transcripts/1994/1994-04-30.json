@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we know our senior executive is making a bad decision, shouldn't we tell her?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm, yes. Let's end our careers by challenging a decision that won't change. That's a great idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm getting mixed signals here.",
+        "And let's pull our neckties until it hurts!"
+      ]
+    }
+  ]
+}

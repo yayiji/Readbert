@@ -1,0 +1,23 @@
+{
+  "date": "1998-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My eyes are sore from using the computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try typing with your fingers, the way everyone else does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Personally, I find computers very restful on my eyes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1993-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Noriko, I'd like you to meet Bob the dinosaur.",
+        "Hi",
+        "Hi"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought dinosaurs were all extinct.",
+        "No, they were just hiding.",
+        "We found Bob behind the couch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wish we had one at our house.",
+        "Look in your credenza. The Belmonts live in the \"Krazy glue\" drawer."
+      ]
+    }
+  ]
+}

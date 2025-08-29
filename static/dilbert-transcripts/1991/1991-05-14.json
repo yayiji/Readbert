@@ -1,0 +1,28 @@
+{
+  "date": "1991-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert!",
+        "Dogbert! I've come to visit!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your body language says you don't want to hug me.",
+        "What's wrong?",
+        "Is it because I'm a rat?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What have you been testing at the lab?",
+        "Madonna's \"compulsion\" perfume.",
+        "Why?"
+      ]
+    }
+  ]
+}

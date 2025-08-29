@@ -1,0 +1,23 @@
+{
+  "date": "1991-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I built this android from a kit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He doesn't have a personality, but he will walk around and talk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I hope you guys will at least dress differently."
+      ]
+    }
+  ]
+}

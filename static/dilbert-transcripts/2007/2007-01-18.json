@@ -1,0 +1,27 @@
+{
+  "date": "2007-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's password recovery service for morons",
+        "I done forgot my password.",
+        "What's your name?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name is Ned, I think.",
+        "Is your password \"Ned\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sweet baby jeepers, you're like some sort of nostrildogmas!",
+        "Here's a brochure for my cult."
+      ]
+    }
+  ]
+}

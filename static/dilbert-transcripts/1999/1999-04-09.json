@@ -1,0 +1,23 @@
+{
+  "date": "1999-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's a funny thing about budgets..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No matter how hard you try, there's always a spreadsheet error that makes it all an exercise in futility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mind if I hum?"
+      ]
+    }
+  ]
+}

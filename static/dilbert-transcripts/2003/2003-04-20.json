@@ -1,0 +1,57 @@
+{
+  "date": "2003-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your script for the meeting.",
+        "Script?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My boss sees me only twice a year.",
+        "I want everything to go smoothly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In act one, scene two, when I proclaim my admiration for your leadership..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What's my motivation?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Employment.",
+        "Good, good."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And it would help if your eyes were moist when you deliver the line."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll put a sliced onion in my shirt pocket."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hello, underling.",
+        "How is your morale?"
+      ]
+    }
+  ]
+}

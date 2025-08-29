@@ -1,0 +1,24 @@
+{
+  "date": "1996-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need your input on this by the end of the day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please drop your request here, in \"Wally's pile of perpetual ignorace.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can't I just give it to you?",
+        "I don't like to touch that stuff with my hands."
+      ]
+    }
+  ]
+}

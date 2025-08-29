@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should smuggle a weapon on the plane."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And never, ever return your seat to its upright position! Stand up for your rights!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've noticed that all of your advice would put me in jail.",
+        "Why must you be so complainy?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1995-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to make some changes to our corporate culture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me guess what that means."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll work longer hours without extra pay..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your management style will remain exactly the same because Lord knows there's no need for you to change."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We'll start calling ourselves a \"team\" so it doesn't seem like work!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I predict there will be vapid slogans printed on notepads, and maybe some useless meetings.",
+        "She's psychic!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is it just me or is the culture already changing?",
+        "I feel it! We're changing!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's next on the fad menu?",
+        "I wonder if it's too late to rule by fear."
+      ]
+    }
+  ]
+}

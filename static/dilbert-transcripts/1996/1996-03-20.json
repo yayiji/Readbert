@@ -1,0 +1,26 @@
+{
+  "date": "1996-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok the intern",
+        "Asok, come quickly! It's an emergency!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must crawl through the Jeffries tube and shut down the furnace before it fries us all!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today young Asok learns that life is not like \"Star Trek.\"",
+        "I'm stuck.",
+        "Spank the intern 50¢"
+      ]
+    }
+  ]
+}

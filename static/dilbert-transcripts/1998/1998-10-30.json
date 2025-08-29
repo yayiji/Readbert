@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "Some customers might complain that the invisible robot they bought from us..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...is nothing but an empty box. I will train our support staff to handle those calls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Customer's house",
+        "According to our sensors, he's in your house... and he's watching you."
+      ]
+    }
+  ]
+}

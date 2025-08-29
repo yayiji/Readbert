@@ -1,0 +1,27 @@
+{
+  "date": "1998-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the C.E.O.",
+        "The \"United Charities\" would like you to be chairman this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd be honored.",
+        "Oh, and while you're up, cancel the company health plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One week later",
+        "Under his leadership, our free clinics have handled twice as many people.",
+        "Thanks."
+      ]
+    }
+  ]
+}

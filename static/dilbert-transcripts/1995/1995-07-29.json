@@ -1,0 +1,27 @@
+{
+  "date": "1995-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob in procurement",
+        "I'm afraid the equipment you want is not on the approved equipment list."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me think... if I add this to the approved list, that's more work for me.",
+        "But if I say no, it's more work for you.",
+        "Hmm...think, think..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like to see this alleged list.",
+        "Well, it's not so much a physical list as it is a philosophy."
+      ]
+    }
+  ]
+}

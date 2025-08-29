@@ -1,0 +1,27 @@
+{
+  "date": "1996-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news, Wally.",
+        "Most of our smart employees quit to get much better jobs elsewhere.",
+        "Now we don't have to do any downsizing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job is safe.",
+        "We need you to do the work of all the people who left."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it just me... or is the quality of \"good news\" really going downhill lately?",
+        "I'd have to say you're both going downhill."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1995-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Day two of telecommuting is going smoothly.",
+        "I have eliminated all optional habits of hygiene."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My co-workers are a fading memory.",
+        "I am losing language skills.",
+        "I talk to my computer and expect answers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For reasons that are unclear, my dog wears a gas mask and shouts Tarzan-like phrases.",
+        "Kreegah!",
+        "Bundalo!"
+      ]
+    }
+  ]
+}

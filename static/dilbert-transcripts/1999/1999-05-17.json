@@ -1,0 +1,26 @@
+{
+  "date": "1999-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look at this great alphanumeric pager I bought."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! It's the kind that clips to your ear instead of your belt.",
+        "Is it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're going to hell.",
+        "Ow!",
+        "Ow!"
+      ]
+    }
+  ]
+}

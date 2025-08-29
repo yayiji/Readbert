@@ -1,0 +1,54 @@
+{
+  "date": "1992-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm joining a manly drum beating group.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, see, this poet Robert Bly wrote a book about being a manly warrior."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't actually read the book..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...But it has something to do with beating drums and rejecting your mother."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let me get this straight..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...You're taking advice from a poet on how to be manly?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Have you tasted the cinnamon snap tea?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe I should have read the book first."
+      ]
+    }
+  ]
+}

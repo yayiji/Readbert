@@ -1,0 +1,26 @@
+{
+  "date": "1998-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You expect me to sign this? The legalese is totally incomprehensible.",
+        "You will."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you expect me to give up legal rights just because it's too hard to figure out what any of it means?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And initial the \"involuntary biological testing\" box.",
+        "Okay, okay!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2001-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you work hard, you can achieve great things!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And then you die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It never pays to mix reality with inspirational speeches."
+      ]
+    }
+  ]
+}

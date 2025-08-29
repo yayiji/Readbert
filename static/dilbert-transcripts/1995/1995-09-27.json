@@ -1,0 +1,24 @@
+{
+  "date": "1995-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are the results of my ISO 9000 audit of your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your employees are largely untrained and – I couldn't help notice – fairly unattractive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "However, they are also highly skilled liars, so you passed the audit easily.",
+        "We succeed where it counts!!!"
+      ]
+    }
+  ]
+}

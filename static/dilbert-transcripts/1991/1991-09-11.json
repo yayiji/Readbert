@@ -1,0 +1,25 @@
+{
+  "date": "1991-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a dog here to see you, sir. He may be on to our operation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes?",
+        "I came to find out if the news on television is all faked by your special effects company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, we don't do all of the news here. We had to sub-contract the Dan Quayle stuff to the Muppets.",
+        "I knew that."
+      ]
+    }
+  ]
+}

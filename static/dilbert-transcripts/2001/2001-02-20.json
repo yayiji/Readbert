@@ -1,0 +1,29 @@
+{
+  "date": "2001-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I experienced something called positive reinforcement today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm addicted to it now...but it's wearing off...must get more..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say something nice about me!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For a crazy woman you don't drool much."
+      ]
+    }
+  ]
+}

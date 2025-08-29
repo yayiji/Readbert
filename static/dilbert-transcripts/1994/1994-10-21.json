@@ -1,0 +1,26 @@
+{
+  "date": "1994-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like you're off to a three-hour staff meeting that doesn't apply to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm glad I'm a highly paid contractor.",
+        "I'll be increasing my skills while you fight to get oxygen to your brains."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Three hours later",
+        "I became a multimedia developer.",
+        "How was your day?"
+      ]
+    }
+  ]
+}

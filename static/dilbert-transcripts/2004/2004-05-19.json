@@ -1,0 +1,27 @@
+{
+  "date": "2004-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO says he wants to change the DNA of this company.",
+        "What's that mean?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know.",
+        "It sounds medical.",
+        "I'm frightened."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hold me.",
+        "Keep your stale DNA away from me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "1996-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On the surface, you seem to make some good points about technology...",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But your e-mail address reveals your newbie identity.",
+        "You're probably a goat herder or a cartoonist.",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does it feel to be an elitist technology bigot?",
+        "I prefer to think of myself as a technology \"have.\""
+      ]
+    }
+  ]
+}

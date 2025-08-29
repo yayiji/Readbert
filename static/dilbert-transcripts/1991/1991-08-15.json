@@ -1,0 +1,25 @@
+{
+  "date": "1991-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the used car salesman",
+        "I asked the boss to sell it at your price."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He told me to drive over your foot and steal your purse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But maybe I can convince him to take your first-born son instead.",
+        "He is my first-born son!!"
+      ]
+    }
+  ]
+}

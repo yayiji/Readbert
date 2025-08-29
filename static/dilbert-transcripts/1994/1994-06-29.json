@@ -1,0 +1,27 @@
+{
+  "date": "1994-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the publisher",
+        "I'd like to publish your book.",
+        "All it needs are a few minor changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make the main character a purple dinosaur instead of a detective.",
+        "Add some upbeat songs and eliminate the murder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a murder mystery!!",
+        "Oh, that's original."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1998-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we're going to work together, I should know your name."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see if you have a wallet with some identification."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Geez, Alice, could you let the new guy settle in first?"
+      ]
+    }
+  ]
+}

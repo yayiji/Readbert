@@ -1,0 +1,29 @@
+{
+  "date": "2001-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a brilliant employee to be my assistant manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I came to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the first nice thing..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your job is to clone me."
+      ]
+    }
+  ]
+}

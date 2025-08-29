@@ -1,0 +1,33 @@
+{
+  "date": "2001-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It seems like your job isn't very rewarding.",
+        "Vision getting blurry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Long hours.",
+        "No raises.",
+        "No cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hair coming out in clumps."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He's good.",
+        "He's very good."
+      ]
+    }
+  ]
+}

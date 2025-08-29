@@ -1,0 +1,23 @@
+{
+  "date": "2000-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This isn't working out. I have to let you go."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you can get your old job back at Farworks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great. Now he's going to secrete."
+      ]
+    }
+  ]
+}

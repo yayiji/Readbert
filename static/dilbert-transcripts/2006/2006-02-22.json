@@ -1,0 +1,29 @@
+{
+  "date": "2006-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, why isn't my e-mail working today?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The internet is full."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great! Now what do I do?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I wonder if I'm supposed to see anything when it's draining."
+      ]
+    }
+  ]
+}

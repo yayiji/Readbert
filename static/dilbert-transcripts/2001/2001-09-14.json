@@ -1,0 +1,24 @@
+{
+  "date": "2001-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've negotiated this contract for six weeks and today you double your delivery time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't tell if you're an incredibly devious weasel or simply incompetent.",
+        "Here's a clue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Poink"
+      ]
+    }
+  ]
+}

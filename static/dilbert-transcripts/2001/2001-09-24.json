@@ -1,0 +1,26 @@
+{
+  "date": "2001-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, I have three computers in the house.",
+        "All three simultaneously lost e-mail but not web function."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means the problem is in your e-mail service.",
+        "Can you grasp that concept?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I'm re-entering my account information...hey, guess what?",
+        "That didn't work either."
+      ]
+    }
+  ]
+}

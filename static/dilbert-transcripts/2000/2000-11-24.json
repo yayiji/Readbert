@@ -1,0 +1,30 @@
+{
+  "date": "2000-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, my man, you're stayin' real and keepin' to the core."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that good?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't even know what it means."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why do you say things that have no meaning?",
+        "Du-u-u-de!"
+      ]
+    }
+  ]
+}

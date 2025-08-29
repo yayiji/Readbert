@@ -1,0 +1,56 @@
+{
+  "date": "2000-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "Video cameras have been installed in all work areas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees must wear I.D. badges around their necks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your internet and telephone usage will be monitored."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Everyone will undergo mandatory drug testing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They're not resisting.",
+        "They're ready for phase two."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Prepare to be permanently marked by hot irons."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Will that hurt?",
+        "I'll be fine. Thanks for asking."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wally is about to experience brand awareness."
+      ]
+    }
+  ]
+}

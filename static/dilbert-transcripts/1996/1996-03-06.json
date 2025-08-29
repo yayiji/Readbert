@@ -1,0 +1,24 @@
+{
+  "date": "1996-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Could you do a demo of the new product for our VP next week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well... that would delay the ship date, lower morale and create an unending demand for more unproductive demos..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Logically, since your objective is to show that we're doing valuable work...",
+        "And we'll need a banner that says \"Quality.\""
+      ]
+    }
+  ]
+}

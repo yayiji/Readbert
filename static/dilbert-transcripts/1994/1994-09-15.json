@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Get off of my keyboard, cat, or else!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Watch me act like I don't even hear you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogbert!",
+        "Ctrl-alt-del"
+      ]
+    }
+  ]
+}

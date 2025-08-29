@@ -1,0 +1,52 @@
+{
+  "date": "1998-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm drowning in work!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have to do something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could build a partition right here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How will a partition help?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Carol, you shouldn't be afraid to try new things."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If it doesn't work, we'll try something else!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you over there?",
+        "It works!"
+      ]
+    }
+  ]
+}

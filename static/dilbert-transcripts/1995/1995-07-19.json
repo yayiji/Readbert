@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know what kind of gift to buy for Ted's baby shower."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hand-crafted items are good. Cut three holes in a paper bag and you've got a lovely baby dress."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He might think I'm cheap.",
+        "Do you think the kid has a salt shaker yet?"
+      ]
+    }
+  ]
+}

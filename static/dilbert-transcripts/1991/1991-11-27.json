@@ -1,0 +1,25 @@
+{
+  "date": "1991-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's supreme court nomination hearings",
+        "Do you have any opinions on the right to privacy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. In fact, I've never formed an important opinion in my entire life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You must think we're idiots.",
+        "Okay, I've formed one opinion... but that's all."
+      ]
+    }
+  ]
+}

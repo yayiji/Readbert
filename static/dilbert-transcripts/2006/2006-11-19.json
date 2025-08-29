@@ -1,0 +1,52 @@
+{
+  "date": "2006-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you feel like doing some conversation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, I love talking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you like politics?",
+        "No.",
+        "Science and technology?",
+        "Not really."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "War?",
+        "No.",
+        "Sports?",
+        "No.",
+        "Current events?",
+        "No."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What's left?",
+        "I like to talk about my hair."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um... okay, we can try that.",
+        "This brown is a browner brown than I wanted.",
+        "Right. Are we done with hair?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All employees must fill out this form."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employee election to not rescind the opposite action of declining the reverse inclination to not discontinue employment with the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're trying to trick us into quitting, aren't you?",
+        "Use ink."
+      ]
+    }
+  ]
+}

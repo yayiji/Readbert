@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert says I have to get a new job within the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Could you find it within your heart...",
+        "I'll check."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nope. No jobs in there."
+      ]
+    }
+  ]
+}

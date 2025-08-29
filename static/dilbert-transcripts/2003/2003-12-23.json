@@ -1,0 +1,24 @@
+{
+  "date": "2003-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice gets downsized",
+        "Maybe your next career could be marrying a rich guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There must be a guy out there who wouldn't care about your personality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If she offers you a goodbye hug, don't take it."
+      ]
+    }
+  ]
+}

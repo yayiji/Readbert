@@ -1,0 +1,25 @@
+{
+  "date": "1996-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my first cigarette ever.",
+        "I'm looking forward to the many smoking breaks I'm entitled to."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll probably see you three times a day, just smoking and chatting and enjoying the fresh air!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assume you light the color-coded end, right?",
+        "I quit."
+      ]
+    }
+  ]
+}

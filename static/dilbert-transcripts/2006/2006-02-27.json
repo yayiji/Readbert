@@ -1,0 +1,25 @@
+{
+  "date": "2006-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mail room",
+        "My fake arm is here!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Attach the fake arm to the real shoulder..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll come back when he's off the conference call.",
+        "Zzzz"
+      ]
+    }
+  ]
+}

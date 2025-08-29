@@ -1,0 +1,31 @@
+{
+  "date": "1994-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to this,",
+        "a technical degree",
+        "becomes obsolete",
+        "in five",
+        "years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind? I'm",
+        "trying to get some",
+        "work done on",
+        "the... uh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doohickey.",
+        "Uh-oh."
+      ]
+    }
+  ]
+}

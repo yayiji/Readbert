@@ -1,0 +1,25 @@
+{
+  "date": "1996-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need to gather some requirements before designing the company child care facility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if your children spend the day sewing garments in a windowless room full of illegal aliens?",
+        "I mind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll put you down as a maybe.",
+        "Would I get discounts on those garments?"
+      ]
+    }
+  ]
+}

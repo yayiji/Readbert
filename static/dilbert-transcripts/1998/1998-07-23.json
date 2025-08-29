@@ -1,0 +1,30 @@
+{
+  "date": "1998-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No one suspects that the real boss is in a prison tube on my spaceship."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it okay if I wear shorts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure. I only care about the quality of your work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If our boss were replaced by an alien, would that be a bad thing?",
+        "It depends on the alien."
+      ]
+    }
+  ]
+}

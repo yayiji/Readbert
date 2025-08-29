@@ -1,0 +1,23 @@
+{
+  "date": "2001-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you give a man a fish he will eat for a day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if you teach a man to fish he will buy an ugly hat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if you talk about fish to a starving man then you're a consultant."
+      ]
+    }
+  ]
+}

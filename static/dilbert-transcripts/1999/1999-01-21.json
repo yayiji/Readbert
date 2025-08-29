@@ -1,0 +1,26 @@
+{
+  "date": "1999-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I lost my fortune and my trophy wife today.",
+        "But I learned a valuable lesson."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Munch",
+        "Munch",
+        "Munch"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope I wrote it down somewhere."
+      ]
+    }
+  ]
+}

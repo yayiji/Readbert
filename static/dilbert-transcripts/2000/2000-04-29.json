@@ -1,0 +1,23 @@
+{
+  "date": "2000-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm Bucky, the project manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your assignment is painfully difficult and probably unnecessary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need me, I'll be complaining about you to your boss."
+      ]
+    }
+  ]
+}

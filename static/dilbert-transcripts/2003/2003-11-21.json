@@ -1,0 +1,25 @@
+{
+  "date": "2003-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lately I am overcome with doubt that you read my status reports."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Asok, the biggest value of a status report is that it makes you consider all the costs of your project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, that is the biggest value of a business plan or a budget.",
+        "Whatever.",
+        "Throw it on the pile."
+      ]
+    }
+  ]
+}

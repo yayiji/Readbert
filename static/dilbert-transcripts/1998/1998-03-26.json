@@ -1,0 +1,26 @@
+{
+  "date": "1998-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the rag man from Project Luser."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Budget cuts have hit our project hard.",
+        "I'm forced to beg for resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can spare some pencil shavings.",
+        "Excellent!",
+        "We make coffee out of that."
+      ]
+    }
+  ]
+}

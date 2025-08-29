@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your salary is 115% of the midpoint for your range. Isn't that exciting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't you say it's 115% below the top of the range which can never be achieved under our system?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No peeking at the supervisor's page."
+      ]
+    }
+  ]
+}

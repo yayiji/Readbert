@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd fix it myself but I know it takes special tools..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Plus I would just have to order a part... and I'm pretty busy...",
+        "Take two of these..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Engineer's pills\"?",
+        "They'll knock you out until I'm gone."
+      ]
+    }
+  ]
+}

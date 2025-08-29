@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We should think of a name before the egg arrives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about Shelley?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bob, are you aware that the egg will become a baby dinosaur?",
+        "What?"
+      ]
+    }
+  ]
+}

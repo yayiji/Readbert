@@ -1,0 +1,24 @@
+{
+  "date": "1995-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I ranked all of your assignments by priority so you won't waste time on unimportant stuff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything is an \"A\" priority except for \"personal life.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This helps a lot.",
+        "I'm still working on the list of \"must do\" \"B\" priorities."
+      ]
+    }
+  ]
+}

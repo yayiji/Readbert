@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As my antennae clearly prove, I'm a space alien with incredible powers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I call on the nations of the world to surrender. Otherwise, I will cause your stock markets to fall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "The market fell five points today. Analysts blame interest rates and aliens.",
+        "Yes!"
+      ]
+    }
+  ]
+}

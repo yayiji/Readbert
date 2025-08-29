@@ -1,0 +1,25 @@
+{
+  "date": "2006-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Then we started taking RPG fire from a rooftop.",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I strangled 900 insurgents with my bare hands."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That seems unlikely.",
+        "That's what the first 600 said."
+      ]
+    }
+  ]
+}

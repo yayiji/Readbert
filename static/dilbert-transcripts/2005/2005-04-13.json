@@ -1,0 +1,23 @@
+{
+  "date": "2005-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you are looking at the newest member of \"The World's Greatest Interns.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a scam to convince gullible interns to buy overpriced wall plaques."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be displaying you less prominently than we had discussed."
+      ]
+    }
+  ]
+}

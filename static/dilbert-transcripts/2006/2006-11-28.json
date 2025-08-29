@@ -1,0 +1,23 @@
+{
+  "date": "2006-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been trying for six months to solve this engineering problem. It might be impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just turn it sideways and it will fit perfectly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay... now I have to kill you."
+      ]
+    }
+  ]
+}

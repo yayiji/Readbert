@@ -1,0 +1,26 @@
+{
+  "date": "2006-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I can't work with the smell of popcorn in the air.",
+        "It makes me insane!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I use it to mask the odors coming from my body.",
+        "Choose your poison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Refueling the Hindenburg?",
+        "Why are people so mean?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When will I get your project status report?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're asking for a status report on the status of the status report?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Right. When can I get that?",
+        "It's starting to look like infinity."
+      ]
+    }
+  ]
+}

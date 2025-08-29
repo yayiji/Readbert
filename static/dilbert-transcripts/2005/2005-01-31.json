@@ -1,0 +1,24 @@
+{
+  "date": "2005-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Eating at your desk is like stealing from the company, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm working through my lunch hour, you furry log."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Furry log?",
+        "It's a term of endearment."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "date": "1990-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Knock knock"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi. I'm from the organization for the protection of ugly people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We are dedicated to eliminating the stereotype of ugly people as \"smart\" and \"nice.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, I'll make a donation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Thanks, but this is a membership drive..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm never going to answer the door again.",
+        "Didn't he recognize you as his god?"
+      ]
+    }
+  ]
+}

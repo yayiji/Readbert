@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nostradogbert predicts that the world will end within a hundred billion years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a big range."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We in the business call it the \"gross prophet margin.\"",
+        "Oh yeah, I've heard of that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1997-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, that's a union job.",
+        "Put it down or I'll file a grievance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm only moving it ten feet.",
+        "If I wait for a union person, I'll be unable to do my job for a week.",
+        "Watch me not care."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If anyone sees you move the PC tonight, try saying you're Johnny Cash.",
+        "Maybe I should just use the elevator."
+      ]
+    }
+  ]
+}

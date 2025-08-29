@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My proposed work plan for the year is to stress-test our product under severe network conditions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will accomplish this by downloading large image files from the busiest servers on the net."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was this close to making it my job to download naughty pictures.",
+        "It's just as well; I would have had to kill you."
+      ]
+    }
+  ]
+}

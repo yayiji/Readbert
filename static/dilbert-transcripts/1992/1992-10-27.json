@@ -1,0 +1,23 @@
+{
+  "date": "1992-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the \"Dogbert time management lecture series.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sorry I'm an hour late, but I was giving another lecture across town... In effect, I'll complete two jobs while you sit in the dark like stunned cattle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't mean to rub it in, but moooo..."
+      ]
+    }
+  ]
+}

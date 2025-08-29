@@ -1,0 +1,21 @@
+{
+  "date": "1991-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good. The toss is the most important part of..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this why you get two serves?"
+      ]
+    }
+  ]
+}

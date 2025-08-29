@@ -1,0 +1,23 @@
+{
+  "date": "2001-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to make a gradual shift out of engineering and into something more administrative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, I could write reports that tell other people how to do their jobs better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I could gradually shift out of writing reports and into something more vegetative."
+      ]
+    }
+  ]
+}

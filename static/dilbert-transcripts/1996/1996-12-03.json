@@ -1,0 +1,24 @@
+{
+  "date": "1996-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to enter a profession that will make a huge difference in my self-esteem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be a corporate trainer in a company that's downsizing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure that will raise your self-esteem?",
+        "Why would I want to raise it?"
+      ]
+    }
+  ]
+}

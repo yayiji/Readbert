@@ -1,0 +1,25 @@
+{
+  "date": "1996-02-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I need you to facilitate some meetings.",
+        "What kind of meetings?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're creating a process to fix our product development process. But first we're having some preplanning meetings..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...To decide on a project name.",
+        "How about \"Death spiral\"?"
+      ]
+    }
+  ]
+}

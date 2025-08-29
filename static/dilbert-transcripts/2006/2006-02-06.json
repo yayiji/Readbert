@@ -1,0 +1,27 @@
+{
+  "date": "2006-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Heh heh! I'll turn my monitor so no passersby can see what I'm doing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is he working?",
+        "Dang! I can't tell."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm starting to think I can't read people.",
+        "Dude.",
+        "I wasn't kidding.",
+        "Come back later!"
+      ]
+    }
+  ]
+}

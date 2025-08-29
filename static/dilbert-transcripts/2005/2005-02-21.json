@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did I leave my chapstick in here?",
+        "Ooh, there it is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tastes different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I lost a good glue stick, but I gained a few hours of quiet."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2005-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Question: If our new product takes you sixty minutes into the future in one hour..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't that the same as doing nothing at all?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It also makes you lose weight if you stay in it long enough... while not eating."
+      ]
+    }
+  ]
+}

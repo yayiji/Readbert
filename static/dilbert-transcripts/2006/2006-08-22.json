@@ -1,0 +1,23 @@
+{
+  "date": "2006-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, we've been monitoring your internet usage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've been running a side business on eBay, selling our office supplies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I guess empowerment turned out to be a bunch of blah, blah, blah."
+      ]
+    }
+  ]
+}

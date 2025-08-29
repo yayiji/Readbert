@@ -1,0 +1,26 @@
+{
+  "date": "1998-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And we'll buy a dozen of these.",
+        "We're trying to spend our budget so it doesn't get cut next year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is great!",
+        "You guys are so dumb that I don't even have to use my fake personality to make the sale!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And nine of these blue things.",
+        "There's a full moon on the horizon!"
+      ]
+    }
+  ]
+}

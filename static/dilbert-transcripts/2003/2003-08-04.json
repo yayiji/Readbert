@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, we need some customer success stories for the web site."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The closest things we have are these complaint letters.",
+        "Just change a few words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Change \"kick\" to \"kiss\" and this one is done, albeit disturbingly."
+      ]
+    }
+  ]
+}

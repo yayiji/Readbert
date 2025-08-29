@@ -1,0 +1,23 @@
+{
+  "date": "2003-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can either save your life or the consultant's life, but one of you will die."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give us a minute to discuss it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He recommends that you kill me."
+      ]
+    }
+  ]
+}

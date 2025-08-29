@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The good news is that half of you will get huge raises."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The bad news is that half of you will be downsized tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it the same people?",
+        "Yeah, we ran the numbers."
+      ]
+    }
+  ]
+}

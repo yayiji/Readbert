@@ -1,0 +1,24 @@
+{
+  "date": "1992-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just heard that light travels faster than sound."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm wondering if I should shout when I speak, just so my lips appear to sync-up with my words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A little knowledge can be a ridiculous thing.",
+        "He probably hasn't heard me yet."
+      ]
+    }
+  ]
+}

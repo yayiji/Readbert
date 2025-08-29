@@ -1,0 +1,26 @@
+{
+  "date": "1996-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Somewhere in Elbonia",
+        "I've been assigned to check the software you're writing for us under contract."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The documentation is written in our own Elbonian language.",
+        "Is that a problem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's better than I'd hoped. I was afraid nobody here knew how to write.",
+        "Writing is easy. Someday we hope to read, too."
+      ]
+    }
+  ]
+}

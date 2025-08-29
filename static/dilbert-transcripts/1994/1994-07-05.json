@@ -1,0 +1,26 @@
+{
+  "date": "1994-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you remember when the company president visited?",
+        "You asked why your project had been cancelled."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He promised to get an answer.",
+        "That task has been delegated all the way back down to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like you to craft a response for me.",
+        "You'll have to put your new project on hold until this is done."
+      ]
+    }
+  ]
+}

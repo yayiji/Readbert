@@ -1,0 +1,26 @@
+{
+  "date": "2002-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mouse training",
+        "Who wants to share an opinion on why mouse training is important?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh-ooh!",
+        "Pick me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, Wally.",
+        "No one?"
+      ]
+    }
+  ]
+}

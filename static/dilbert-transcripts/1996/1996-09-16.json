@@ -1,0 +1,27 @@
+{
+  "date": "1996-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On weekends I'll feel my pager vibrate...",
+        "But when I go to check it, I realize I'm not wearing it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a classic case of phantom-pager syndrome.",
+        "It's common among technology workers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no treatment for it.",
+        "I don't want to treat it.",
+        "I want to relocate it."
+      ]
+    }
+  ]
+}

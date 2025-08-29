@@ -1,0 +1,25 @@
+{
+  "date": "1992-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just take one, Ratbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaargh!! I'm changing!",
+        "I'm changing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It wasn't funny the first hundred times I gave you a tic-tac either.",
+        "Let's try it again!"
+      ]
+    }
+  ]
+}

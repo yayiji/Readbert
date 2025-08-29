@@ -1,0 +1,23 @@
+{
+  "date": "2000-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to see a web site that's blocked by our I.S. group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Submit a business case to the web productivity and security committee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, bro, where's your shell? This ain't casual day."
+      ]
+    }
+  ]
+}

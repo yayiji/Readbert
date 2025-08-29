@@ -1,0 +1,26 @@
+{
+  "date": "1994-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My theory is that a computer interface should hurt the user."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I designed some new sounds into our product.",
+        "We've got \"sound of puking,\"",
+        "\"fingernails on black-board\" and \"bird hitting window.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But suppose the user does something wrong.",
+        "Then we have the sound of a puking bird hitting a blackboard."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2002-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project is cancelled. You'll be downsized in ninety days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Until then, feel free to wander around like a zombie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I walk among them but I am not one of them."
+      ]
+    }
+  ]
+}

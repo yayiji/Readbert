@@ -1,0 +1,23 @@
+{
+  "date": "2001-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your psychological profile test results are excellent. Can you start Monday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Monday is fine. I'll read the employee handbook over the weekend. Thank you very much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The \"gentle biker\" look is overdone. I'm going for \"psycho hillbilly.\""
+      ]
+    }
+  ]
+}

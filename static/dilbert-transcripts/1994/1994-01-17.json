@@ -1,0 +1,27 @@
+{
+  "date": "1994-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I... I'd like permission to keep a plastic plant in my cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Permission denied!",
+        "Plants attract bugs.",
+        "If I can't tell it's plastic, how are the bugs going to know the difference?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With all due respect, bugs are way smarter than you.",
+        "Oh yeah?",
+        "I'd like to see them do this job."
+      ]
+    }
+  ]
+}

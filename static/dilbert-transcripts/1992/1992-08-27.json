@@ -1,0 +1,25 @@
+{
+  "date": "1992-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'd like you to meet Ben, our newest fast-track manager.",
+        "Hi"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ben has no real experience but he's very tall, so we know he'll go far."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also have executive style hair.",
+        "We think it will turn silver."
+      ]
+    }
+  ]
+}

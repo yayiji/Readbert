@@ -1,0 +1,26 @@
+{
+  "date": "1993-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Add my name to your patent application to acknowledge my contribution.",
+        "What contribution?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You said it was a stupid idea by a stupid employee.",
+        "You ordered me to stop working on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Devil's advocate!",
+        "You also said I was ugly."
+      ]
+    }
+  ]
+}

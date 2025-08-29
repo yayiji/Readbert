@@ -1,0 +1,24 @@
+{
+  "date": "1996-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We had to cut some corners to get the demo ready this soon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally is under the table. He'll pretend to be the 3-D interface that we could build if we weren't doing useless demos."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's a little fuzzy. Can you adjust it?",
+        "Try the electric shaver."
+      ]
+    }
+  ]
+}

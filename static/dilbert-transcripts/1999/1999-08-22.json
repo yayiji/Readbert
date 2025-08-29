@@ -1,0 +1,53 @@
+{
+  "date": "1999-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's no reason to be stressed, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Allow me to be your role model."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I remain calm despite the pressure of impossible deadlines."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's because you have no pride and no ambition!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've worked day and night to make this deadline!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And when I succeed, the glory will be mine!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Our new VP just canceled the project so the last VP would look bad."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They say that when the student is ready, the master will appear."
+      ]
+    }
+  ]
+}

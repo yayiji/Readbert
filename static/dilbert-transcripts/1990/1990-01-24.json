@@ -1,0 +1,23 @@
+{
+  "date": "1990-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And the doctor gave me just a year to live."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sorry, little guy... I don't know how you'll manage without me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would it be too much trouble to paint the house before you go?"
+      ]
+    }
+  ]
+}

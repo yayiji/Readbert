@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert writes a F.A.Q. for the company web site.",
+        "Question 8: Why won't my file open when I'm eating toast?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Answer 8: That is the stupidest question ever! Do not have children!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I sure hope someone asks that question."
+      ]
+    }
+  ]
+}

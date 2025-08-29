@@ -1,0 +1,57 @@
+{
+  "date": "1999-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Make your report consistent with our strategic plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's our strategic plan?",
+        "It's a secret."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying you don't trust me?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't think it's a coincidence that most employee sabotage is done by employees."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How can I do my report if I don't know the strategy?!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, okay.",
+        "I'll let you glance at it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Time's up!",
+        "That's long enough!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's the warranty for your chair.",
+        "Really? I've been managing to this for years."
+      ]
+    }
+  ]
+}

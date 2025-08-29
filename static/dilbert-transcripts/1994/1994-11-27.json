@@ -1,0 +1,56 @@
+{
+  "date": "1994-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm moving you to a cubicle in the south wing.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Umm... it's more efficient if my group is all in one place."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not for me. The people on my project team are all in this wing."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It will improve communication in our group."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't need to communicate with my group. I only need to work with my project team."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll bet another manager wants that same cubicle in the south wing. I think I'm just a pawn in your little game."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You move tomorrow.",
+        "By the way, there's a new dress code."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're in my cubicle.",
+        "You can only move to a diagonal cubicle."
+      ]
+    }
+  ]
+}

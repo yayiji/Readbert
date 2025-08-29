@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new VP of marketing has twenty years of experience in an unrelated industry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But he assured me that technology is the same as shampoo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I predict smooth sailing.",
+        "Technology? I thought you said astrology."
+      ]
+    }
+  ]
+}

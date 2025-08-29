@@ -1,0 +1,25 @@
+{
+  "date": "2001-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And incrementally develop a time-to-market benchmark framework...",
+        "Spoink"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This meeting stole two hours of my life!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did that help?",
+        "Yeah, I'm good for another hour."
+      ]
+    }
+  ]
+}

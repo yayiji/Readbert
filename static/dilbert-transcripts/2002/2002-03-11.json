@@ -1,0 +1,27 @@
+{
+  "date": "2002-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In a perfect world the project would take eight months.",
+        "Schedule 8 months"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But based on past projects in this company, I applied a 1.5 incompetence multiplier.",
+        "1.5 x 8 = 12 months"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then I applied an L.W.F. of 6.3.",
+        "L.W.F?",
+        "Lying weasel factor."
+      ]
+    }
+  ]
+}

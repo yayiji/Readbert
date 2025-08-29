@@ -1,0 +1,43 @@
+{
+  "date": "1995-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told a guy in marketing that I programmed his computer to alter his DNA structure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hee hee"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He thinks he'll turn into some kind of animal."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell him you set it to \"weasel.\"",
+        "It'll take longer to notice any change."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Tell me the truth, Alice.",
+        "Can Dilbert reprogram my DNA?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yeah. You marketing guys only have one helix."
+      ]
+    }
+  ]
+}

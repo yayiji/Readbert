@@ -1,0 +1,24 @@
+{
+  "date": "2002-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why have you only finished one project at work this year? Norma's son did three."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't measure someone's worth by counting the number of projects he does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should track ROI instead.",
+        "Why, because you're losing?"
+      ]
+    }
+  ]
+}

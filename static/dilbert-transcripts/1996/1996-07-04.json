@@ -1,0 +1,26 @@
+{
+  "date": "1996-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In the short time you've worked in quality assurance, you've found a huge number of flaws in our prototype.",
+        "That's my job!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're jeopardizing our schedule. The entire project will fail and it's all your fault.",
+        "Why is it my fault?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If a tree falls in the forest... and we've already sold the tree... does it have quality?",
+        "How many angels can dance on your head?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2000-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I quit I'll lose some unvested stock.",
+        "That's why I'm willing to suffer my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A normal brain irrationally puts more weight on a small loss than a huge opportunity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But now that you explained it...",
+        "Now you're just stupid."
+      ]
+    }
+  ]
+}

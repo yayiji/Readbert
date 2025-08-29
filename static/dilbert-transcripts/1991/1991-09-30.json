@@ -1,0 +1,24 @@
+{
+  "date": "1991-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My hover-saucer invention is complete!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It has enough advanced weaponry to destroy a small country."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope it doesn't fall into the wrong hands.",
+        "Paws"
+      ]
+    }
+  ]
+}

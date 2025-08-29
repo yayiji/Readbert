@@ -1,0 +1,24 @@
+{
+  "date": "1992-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's world of amazingly ignorant people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tonight we'll visit people who don't understand economics but talk about it anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, I heard the Fed increased the money supply, but I checked my bank balance and it's the same as before.",
+        "That isn't fair."
+      ]
+    }
+  ]
+}

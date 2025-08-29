@@ -1,0 +1,24 @@
+{
+  "date": "2007-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Phew. This has been a long meeting. Does anyone have any other issues?",
+        "I..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Punch"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We have a motion to adjourn."
+      ]
+    }
+  ]
+}

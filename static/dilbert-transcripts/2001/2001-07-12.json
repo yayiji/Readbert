@@ -1,0 +1,23 @@
+{
+  "date": "2001-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Frankly, the job is a real no-brainer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your résumé is a blank piece of paper; I like a man who can be brief."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're ruining my donut experience."
+      ]
+    }
+  ]
+}

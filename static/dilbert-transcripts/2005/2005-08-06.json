@@ -1,0 +1,25 @@
+{
+  "date": "2005-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I feel guilty because my company sells defective products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe in karma.",
+        "That means I can do bad things to people all day long and I assume they deserve it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "By the way, where are we?",
+        "I think we wandered into a bad doodle."
+      ]
+    }
+  ]
+}

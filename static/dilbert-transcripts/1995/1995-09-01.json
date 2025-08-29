@@ -1,0 +1,29 @@
+{
+  "date": "1995-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week we introduced Tina the brittle tech writer to the strip.",
+        "Tina is dysfunctional like everybody here except me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Send your opinions by e-mail to scottadams@aol.com",
+        "It's the only way we can learn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pick one",
+        "A. Women should only be portrayed as lawyers and starship captains.",
+        "B. I don't have e-mail.",
+        "C. Tina should be treated with the same dignity as Dilbert and Wally.",
+        "D. Take an art class."
+      ]
+    }
+  ]
+}

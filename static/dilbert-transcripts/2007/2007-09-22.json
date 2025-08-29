@@ -1,0 +1,29 @@
+{
+  "date": "2007-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, did you update the org chart yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I kept waiting for it to become more important than my personal problems, but it just never happened."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about right now?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ouch! I think that's my appendix!"
+      ]
+    }
+  ]
+}

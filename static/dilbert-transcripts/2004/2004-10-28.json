@@ -1,0 +1,23 @@
+{
+  "date": "2004-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know I keep asking you this but could you explain the issue again?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, something that you could never comprehend conflicts with something that you'd never understand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh."
+      ]
+    }
+  ]
+}

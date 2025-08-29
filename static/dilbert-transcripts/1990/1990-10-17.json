@@ -1,0 +1,24 @@
+{
+  "date": "1990-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Jury selection",
+        "My client is accused of killing twelve people just like you folks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The alleged victims were all part of a previous jury who doubted my client's innocence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This jury is acceptable to the defense."
+      ]
+    }
+  ]
+}

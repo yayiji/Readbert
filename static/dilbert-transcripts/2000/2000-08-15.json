@@ -1,0 +1,24 @@
+{
+  "date": "2000-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our disaster recovery plan goes something like this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Help!",
+        "Help!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someday we hope to have a budget."
+      ]
+    }
+  ]
+}

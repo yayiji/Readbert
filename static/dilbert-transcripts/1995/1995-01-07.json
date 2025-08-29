@@ -1,0 +1,26 @@
+{
+  "date": "1995-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, Ratbert. An entire computer has been baked into one silicon chip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks! I don't mind if I do!",
+        "Snatch",
+        "Gulp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You ate my computer.",
+        "I'm a cyborg."
+      ]
+    }
+  ]
+}

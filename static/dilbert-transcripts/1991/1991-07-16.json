@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of my chihuahua disguise?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a good start, Ratbert, but it takes more than a turtleneck to look like a chihuahua."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about if I make this face and act nervous?",
+        "Perfect."
+      ]
+    }
+  ]
+}

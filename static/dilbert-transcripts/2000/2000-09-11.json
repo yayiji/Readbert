@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now sign this and this and this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is a murder confession.",
+        "It's for the file."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someday I'm going to take a good look at that file."
+      ]
+    }
+  ]
+}

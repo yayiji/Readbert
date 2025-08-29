@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Will you sign my petition?",
+        "What's it for, Bob?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't have any complaints, so it just says \"D-uhh.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Democracy is a wonderful thing."
+      ]
+    }
+  ]
+}

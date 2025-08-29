@@ -1,0 +1,55 @@
+{
+  "date": "2002-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is an outrage!",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The so-called \"working lunch\" tomorrow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're stealing the only free time I have during the day!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They give us some lousy sandwiches and expect us to work during lunch! Bah!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is nothing sacred?!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why doesn't this bother you?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I plan to eat their sandwiches and go to lunch after the meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I... I can actually feel the wind beneath my wings!",
+        "Sorry."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look what I got for my computer! It's a Romostatic real-time data compression processor!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oooh... I can't wait to plug you in, my little darling. I've waited so long."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh yes! Yes!",
+        "Does the church know about this?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonia",
+        "I've been sent to teach you \"total quality management.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the old days, quality was just an empty word meaning \"good.\"",
+        "Quality equals good (1950)"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Eventually it evolved into a complicated method for transferring your money to business consultants."
+      ]
+    }
+  ]
+}

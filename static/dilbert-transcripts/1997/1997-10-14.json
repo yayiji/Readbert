@@ -1,0 +1,25 @@
+{
+  "date": "1997-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert Mutual Fund",
+        "As you know, past performance is no indication of future performance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So my strategy is to use your entire investment for my personal expenses and see what happens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has that strategy ever worked before?",
+        "Geez, it's like I'm talking to a wall here."
+      ]
+    }
+  ]
+}

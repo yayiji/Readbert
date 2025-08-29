@@ -1,0 +1,26 @@
+{
+  "date": "2002-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I would like to improve my interpersonal skills."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take this training CD back to your cube and go wild."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Humans are weak.",
+        "Computers are strong.",
+        "Come,",
+        "join our side."
+      ]
+    }
+  ]
+}

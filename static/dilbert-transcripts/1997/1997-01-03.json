@@ -1,0 +1,28 @@
+{
+  "date": "1997-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Per your instructions,",
+        "my request for a million dollars has been broken into one hundred business cases."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each one is for ten thousand dollars,",
+        "which is your exact level of approval authority."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I meant I can approve anything under ten thousand dollars...",
+        "So if you wouldn't mind...",
+        "Killing you? No,",
+        "I wouldn't mind a bit."
+      ]
+    }
+  ]
+}

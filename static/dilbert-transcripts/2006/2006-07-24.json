@@ -1,0 +1,27 @@
+{
+  "date": "2006-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, are you sure you should eat that burrito?",
+        "You do not have ISO 9004-3 certification."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha",
+        "Ha ha ha",
+        "Ha ha ha",
+        "Ha ha"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is entirely possible that I have been working here for too long."
+      ]
+    }
+  ]
+}

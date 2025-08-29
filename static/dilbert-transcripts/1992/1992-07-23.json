@@ -1,0 +1,24 @@
+{
+  "date": "1992-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know that my computer model is accurate, but nobody believes me when I predict that squirrels will conquer the earth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Of course, you're aware that according to \"chaos theory\" any complex iterative model is no better than a wild guess, even if the logic is perfect."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're making that up.",
+        "You caught me; I'm really a giant spy squirrel in disguise."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You adults are ruining the planet for my generation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We kids have no power now, but I'm taking names. When we take power we'll ship you all to a penal colony on Mars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no oxygen on Mars.",
+        "Oh, now you learn to plan ahead."
+      ]
+    }
+  ]
+}

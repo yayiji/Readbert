@@ -1,0 +1,25 @@
+{
+  "date": "1992-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every person has natural daily rhythms of mental peaks and troughs.",
+        "We can use this knowledge to improve your performance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We use hourly body temperature readings to identify and avoid the troughs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One o'clock. We have encountered a severe trough.",
+        "I fear it could be the dreaded \"El Niño\" trough."
+      ]
+    }
+  ]
+}

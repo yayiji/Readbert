@@ -1,0 +1,24 @@
+{
+  "date": "1999-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you've been chosen to head our customer appreciation celebration."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The theme is \"Thank goodness there are so many idiots.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When do you plan to tell him it's a joke?",
+        "Let's see how the posters turn out."
+      ]
+    }
+  ]
+}

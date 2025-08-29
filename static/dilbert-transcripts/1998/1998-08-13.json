@@ -1,0 +1,25 @@
+{
+  "date": "1998-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nasa put all the women who love engineers on the moon.",
+        "They say it's an important experiment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every weekend they send a shuttle full of male Nasa engineers to check on our status."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh.",
+        "We have company."
+      ]
+    }
+  ]
+}

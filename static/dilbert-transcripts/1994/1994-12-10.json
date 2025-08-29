@@ -1,0 +1,24 @@
+{
+  "date": "1994-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employee surveys indicate some dissatisfaction in my group.",
+        "That affects my pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're my grumpiest employee, so I'm going to fire you to bring up my average score for morale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I'm getting better at all the touchy-feely stuff."
+      ]
+    }
+  ]
+}

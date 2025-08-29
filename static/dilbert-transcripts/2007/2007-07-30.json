@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't develop an automated testing system by the arbitrary deadline you set."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try working smarter, not harder, with a sense of urgency, and a bias for action."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or maybe you could do something differently.",
+        "I'm not the one who can't get his work done."
+      ]
+    }
+  ]
+}

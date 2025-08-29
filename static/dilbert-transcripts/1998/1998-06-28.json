@@ -1,0 +1,57 @@
+{
+  "date": "1998-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our next product will determine the future of our company!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need a project leader who has a passion for success!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that leader get extra pay?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's not about money, Wally.",
+        "It's about a passion for success!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "All I have is a vague preference.",
+        "How about you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, I'm feeling something...",
+        "Maybe it's..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, it's just my allergy medication."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What was it like?",
+        "It tingled."
+      ]
+    }
+  ]
+}

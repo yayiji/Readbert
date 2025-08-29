@@ -1,0 +1,31 @@
+{
+  "date": "1997-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Dilbert!",
+        "Hi, Dogbert!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's a hugger on the first date.",
+        "I never know where my arms should go."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I hope this doesn't seem awkward, but my watch is snagged on your bra strap."
+      ]
+    }
+  ]
+}

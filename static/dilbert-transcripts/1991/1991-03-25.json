@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nose puppies!",
+        "Get your nose puppies!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's a nose puppy?",
+        "It's a little ceramic puppy that fits in your nose."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Find a need and fill it,\" is my motto."
+      ]
+    }
+  ]
+}

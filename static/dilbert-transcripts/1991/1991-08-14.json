@@ -1,0 +1,28 @@
+{
+  "date": "1991-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the used car salesman",
+        "Will this be your first car, Timmy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, sir...",
+        "I saved my money from mowing lawns.",
+        "Let's see how much you have and then I'll pick a car for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you like mowing lawns, Timmy?",
+        "It's okay.",
+        "Good, because I don't recommend med school for you."
+      ]
+    }
+  ]
+}

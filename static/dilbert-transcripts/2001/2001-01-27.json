@@ -1,0 +1,25 @@
+{
+  "date": "2001-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you give me free investment advice?",
+        "Sure"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me all of your money now now now!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I paid for some advice?",
+        "It's the same except my ears don't flip up in a threatening manner."
+      ]
+    }
+  ]
+}

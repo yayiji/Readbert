@@ -1,0 +1,24 @@
+{
+  "date": "1994-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my project report yet?",
+        "It's in a big thick binder."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm using it as a foot rest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You never want to hear the words \"foot rest\" the day before your annual performance appraisal."
+      ]
+    }
+  ]
+}

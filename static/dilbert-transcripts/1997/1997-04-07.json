@@ -1,0 +1,24 @@
+{
+  "date": "1997-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, your performance is good, but you must learn to deal with ambiguity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did I just get blamed for your indecisive leadership?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not indecisive; I'm flexible.",
+        "That would explain how your head got where it is."
+      ]
+    }
+  ]
+}

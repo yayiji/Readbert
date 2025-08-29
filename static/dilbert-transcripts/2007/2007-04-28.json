@@ -1,0 +1,25 @@
+{
+  "date": "2007-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your blog has become an embarrassment to the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have failed me.",
+        "Now you must pay the price."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, crud. I need you to call the facilities department for me...",
+        "and come back tomorrow."
+      ]
+    }
+  ]
+}

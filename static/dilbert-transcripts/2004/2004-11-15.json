@@ -1,0 +1,25 @@
+{
+  "date": "2004-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Product development",
+        "First we'll cover the walls with brainstorm ideas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about something that turns boredom into chocolate cake?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I should have done this after lunch.",
+        "Roast beef mittens?"
+      ]
+    }
+  ]
+}

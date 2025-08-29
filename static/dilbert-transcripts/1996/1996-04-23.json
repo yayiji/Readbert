@@ -1,0 +1,24 @@
+{
+  "date": "1996-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So I'm thinking I'll resign, then I'll reapply for my current job at a higher salary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a good plan except for the fact that you're thoroughly unqualified for your current job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to share my unrealistic plans with a friend who isn't an engineer.",
+        "I'm more of a co-worker than a friend, per se."
+      ]
+    }
+  ]
+}

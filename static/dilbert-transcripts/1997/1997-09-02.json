@@ -1,0 +1,28 @@
+{
+  "date": "1997-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell the employees to get wheelbarrows to carry my salary out of here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Turn out the lights when you're done.",
+        "You're all downsized.",
+        "Shoo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we call you \"Buzz Saw Dogbert\"?",
+        "I bought your parent company today.",
+        "You're downsized.",
+        "Shoo!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2007-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I changed the product design."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's worse than the old design."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You asked me to come up with a new design."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I meant a new design that's better than the old design."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Great. You could have told me that before I did all of this work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How do you think this makes me feel?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No one would blame me for hating you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm the only sane person in this company."
+      ]
+    }
+  ]
+}

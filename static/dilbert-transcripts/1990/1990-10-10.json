@@ -1,0 +1,25 @@
+{
+  "date": "1990-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ugh... look at that young couple kissing in public.",
+        "Ugh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They should realize how impolite it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it impolite for us to stare at them?",
+        "We're just the victims in all this, Dogbert."
+      ]
+    }
+  ]
+}

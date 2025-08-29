@@ -1,0 +1,24 @@
+{
+  "date": "2003-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our goal is to do more with less."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Less motivation?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't be any more specific.",
+        "Less communication?"
+      ]
+    }
+  ]
+}

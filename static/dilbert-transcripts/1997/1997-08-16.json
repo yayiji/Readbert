@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I notice you only have one trash container with you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whereas I have two containers -- one for trash and one for recyclable materials."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One theory is that you make two separate trips to each cubicle...",
+        "Could you turn around for a second?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your problem is my mother."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your mother? I don't even know your mother. How could she be my problem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's an evil woman and she lives under the couch.",
+        "What you need is a good swat!"
+      ]
+    }
+  ]
+}

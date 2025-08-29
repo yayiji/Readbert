@@ -1,0 +1,25 @@
+{
+  "date": "1992-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sure, Dogbert, I'll be your election campaign strategist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can win if you promise to sell our national parks to foreigners and share the profits.",
+        "I couldn't do that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You couldn't sell the parks?",
+        "I couldn't share the profits."
+      ]
+    }
+  ]
+}

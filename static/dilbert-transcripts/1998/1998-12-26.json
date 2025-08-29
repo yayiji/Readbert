@@ -1,0 +1,25 @@
+{
+  "date": "1998-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We must maintain a sense of urgency.",
+        "Speed is the key.",
+        "We must be faster than the competition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does that mean you'll sign the stuff that's been on your desk for a month?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Logical questions don't mix with motivational messages."
+      ]
+    }
+  ]
+}

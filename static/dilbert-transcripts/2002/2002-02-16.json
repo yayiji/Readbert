@@ -1,0 +1,29 @@
+{
+  "date": "2002-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your trip is canceled."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We used up the travel budget renaming our call centers to \"contact centers.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I need this training."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Isn't that another way of saying you're ignorant?"
+      ]
+    }
+  ]
+}

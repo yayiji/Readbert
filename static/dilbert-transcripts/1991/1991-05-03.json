@@ -1,0 +1,23 @@
+{
+  "date": "1991-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to replace your department with machines."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job will be filled by this little bird that bobs his head up and down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Then I said \"Ha! It would take at least three of those birds to do my job!\""
+      ]
+    }
+  ]
+}

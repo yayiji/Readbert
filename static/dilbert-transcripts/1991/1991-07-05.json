@@ -1,0 +1,25 @@
+{
+  "date": "1991-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I haven't been able to get a job in two years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's because everybody knows my brother is in jail.",
+        "People think I must be dishonest too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should not judge a cook by its brother.",
+        "He probably says the same about you."
+      ]
+    }
+  ]
+}

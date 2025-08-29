@@ -1,0 +1,56 @@
+{
+  "date": "2002-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All the important decision-makers in the company are in this room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No little people are allowed because we'll be making important strategy decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First, let's make decisions about project Opal."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Does anyone know what the project is or what we need to decide?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My executive intuition tells me we should cut the budget by 10%."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think Opal is one of your projects.",
+        "It's named after your daughter."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wait...a new intuition is coming in now...",
+        "It says to increase the budget."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why are those meetings secret?",
+        "You don't want to know."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're an hour late for a job interview."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're working me to death! I'm only one person! I need a vacation!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're supposed to say that stuff after I hire you.",
+        "O-o-oh... suddenly I can't do anything right?"
+      ]
+    }
+  ]
+}

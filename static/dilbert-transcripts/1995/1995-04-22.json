@@ -1,0 +1,25 @@
+{
+  "date": "1995-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To hear your voice mail message press one..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This urgent message is to all employees. Please disregard the rumors of a merger with a healthy company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now spooked, the herd stampedes.",
+        "Resume!",
+        "Where's my interview suit??!!"
+      ]
+    }
+  ]
+}

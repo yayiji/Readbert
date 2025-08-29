@@ -1,0 +1,26 @@
+{
+  "date": "1995-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to sell the company for a huge profit. I found some very discriminating buyers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you say discriminating, you mean...?",
+        "They hate people from this country."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's okay. We have laws to protect us.",
+        "They're lazy, but at least they're funny!",
+        "Hee hee"
+      ]
+    }
+  ]
+}

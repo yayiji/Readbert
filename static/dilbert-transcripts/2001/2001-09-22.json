@@ -1,0 +1,23 @@
+{
+  "date": "2001-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you guys think about my new haircut?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a gargantuan mistake that will ruin your life, frighten children and bruise fruit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm all froze up! No one ever asked for my opinion before!"
+      ]
+    }
+  ]
+}

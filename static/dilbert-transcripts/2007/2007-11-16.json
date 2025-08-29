@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services.",
+        "Security is more important than usability."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In a perfect world, no one would be able to use anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To complete the log-in procedure, stare directly at the sun."
+      ]
+    }
+  ]
+}

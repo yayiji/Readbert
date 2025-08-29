@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And now for the most absurd activity of the week: the timecard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no project code for \"staring at the wall and fretting about the reorganization.\"",
+        "I'll call it \"training.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Before I worked here I wasn't a thief or a liar.",
+        "You can't get that kind of training in school."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2005-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was chatting with the director of marketing and we...",
+        "What?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never discuss ideas with the director of marketing! Never!",
+        "Erk!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You work for me! When you talk to other managers it undercuts my authority!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I accept ideas from another manager, it's just like he's my boss!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Amazing! Did you know that your behavior is described on page 27 of the \"Putrid boss\" book? It's the chapter on killing initiative and bullying!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's fascinating. Now let me show you something that isn't in the book."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It looks like someone has been showing initiative.",
+        "Please shut up."
+      ]
+    }
+  ]
+}

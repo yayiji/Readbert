@@ -1,0 +1,57 @@
+{
+  "date": "1997-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whoa... I found a huge bug in our new software product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could alert the development team and work many hours of unpaid overtime to fix it..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or I could surf over to my online brokerage service and buy stock in our competition."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you going to lunch?",
+        "No, I have to do an analysis."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When Wally works through lunch...",
+        "It's time to buy stock in our competition."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wally's working through lunch!",
+        "Quick! To the online brokerage service!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Our competitor is up ten points on no news. We're up two, maybe from the industry halo effect."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...Or maybe our new compensation plan is motivating smarter behavior.",
+        "I think you nailed it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "1997-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are some money-saving tips from headquarters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When calling long distance, use short words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If everyone did this, our fifty-billion-dollar company could save nine hundred dollars per year."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tip two: For faxes, use sans serif fonts. They transmit faster. Annual savings could exceed three hundred dollars."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Next on the agenda, remember I'll be in Switzerland next week on a fact-finding trip."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you need to call me at my four star hotel, be sure to use short words."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You might want to save those short words until he's on his clue-finding trip."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Switzerland",
+        "Those are not all short words."
+      ]
+    }
+  ]
+}

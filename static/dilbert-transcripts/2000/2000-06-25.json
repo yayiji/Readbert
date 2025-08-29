@@ -1,0 +1,57 @@
+{
+  "date": "2000-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm grossly underpaid.",
+        "I want a raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, Dilbert, Dilbert, Dilbert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "What?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People don't work here for the money."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They work here for the challenge!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If challenges are more valuable than money..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why don't you give me your money and I'll give you my challenges?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well?",
+        "I must kill him before he infects the others."
+      ]
+    }
+  ]
+}

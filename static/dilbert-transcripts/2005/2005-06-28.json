@@ -1,0 +1,31 @@
+{
+  "date": "2005-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The best part about being CEO is that it made me smarter.",
+        "Watch this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The capital of Japan is Mitsubishi."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's right!",
+        "You're a genius!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yesterday I would have said nine."
+      ]
+    }
+  ]
+}

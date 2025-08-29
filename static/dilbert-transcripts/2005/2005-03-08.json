@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I asked you to help Alice on her project but all you did was tell her to work harder."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't just tell someone to work harder and expect it to happen!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aren't you doing that right now?",
+        "Shut up and go work harder."
+      ]
+    }
+  ]
+}

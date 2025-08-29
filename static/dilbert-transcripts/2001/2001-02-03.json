@@ -1,0 +1,24 @@
+{
+  "date": "2001-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, is this the sales department?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May you die a thousand deaths by choking on your own bile!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A supervisor may be monitoring this call for quality control.",
+        "It's good."
+      ]
+    }
+  ]
+}

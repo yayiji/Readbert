@@ -1,0 +1,55 @@
+{
+  "date": "1993-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe Dilbert can tell us if our plan is technically feasible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For dramatic effect I'll scoff loudly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll just sort of laugh and snort and take a breath at the same time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Snork"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oh-no! Some spittle went down my air pipe... I'm choking."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Mmmp gaak"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Should we do something?",
+        "We're over our headcount, you know."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...And so I survived, but my professional credibility took a hit.",
+        "You knew the risks when you became an engineer."
+      ]
+    }
+  ]
+}

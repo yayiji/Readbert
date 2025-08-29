@@ -1,0 +1,24 @@
+{
+  "date": "2006-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's seminar on work-life balance.",
+        "This is Allen. He didn't balance his work and personal lives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Allen did nothing but work, work, work. And now look at him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the one who tried to balance everything. That's Allen. He's a %$*! CEO now!"
+      ]
+    }
+  ]
+}

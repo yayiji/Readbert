@@ -1,0 +1,28 @@
+{
+  "date": "1998-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The presentation",
+        "This cartoon says it all!",
+        "Hee hee!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh. I just realized you're all humorless blobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Join us, Dilbert.",
+        "Be a blob.",
+        "Yes...",
+        "Humor is uncalled for."
+      ]
+    }
+  ]
+}

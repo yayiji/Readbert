@@ -1,0 +1,27 @@
+{
+  "date": "2002-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Bob.",
+        "I haven't seen you lately.",
+        "I was doing some evolving."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I noticed I have a zit that's sensitive to sunlight.",
+        "I'm hoping it becomes an eye."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like your attitude.",
+        "Try to sneak up on me."
+      ]
+    }
+  ]
+}

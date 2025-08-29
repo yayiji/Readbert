@@ -1,0 +1,25 @@
+{
+  "date": "2005-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope you enjoyed your stay. I'll just check to see what movies you rented."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaa!!! Gaaa!!!",
+        "Gaaa!!! Gaaa!!!",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I recommend that we burn the furniture."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2000-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did I ever tell you about the time I went skydiving?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like a false memory planted by Dogbert.",
+        "Bah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My parachute didn't open.",
+        "Luckily, I landed on a trampoline and bounced back into the plane."
+      ]
+    }
+  ]
+}

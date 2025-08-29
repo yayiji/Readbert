@@ -1,0 +1,53 @@
+{
+  "date": "2002-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The original schedule looked like this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One month for a management decision and one year to do the project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The revised schedule is this..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "One year of indecision followed by intense pressure to do the impossible before the deadline."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now if you'll each take a pair of 3-D glasses..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You can see the layers of management incompetence practically jump out at you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now scratch one of these scented cards to sniff the unmistakable odor of doom."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't smell anything. Is mine broken?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "1991-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to brief everybody on the company's policy for protecting secret information."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All secret information must be locked up at night."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our secrets could be of great value to our competitors."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In fact, some companies try to buy the secrets of their competitors."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just out of curiosity, how much would our competitors pay for our secrets?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, I dunno... maybe several times your annual salary."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't think this was some of my best work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

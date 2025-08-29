@@ -1,0 +1,24 @@
+{
+  "date": "2004-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company is selling gigantic, shard-filled doughnuts with forty thousand calories apiece."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's based on Dogbert's theory that people are pleasure-seeking morons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does it taste?",
+        "Delicious! I have one for you strapped to my car."
+      ]
+    }
+  ]
+}

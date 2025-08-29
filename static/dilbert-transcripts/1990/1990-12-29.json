@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your blind date?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She wore too much makeup... and I had to do all the talking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe she's a mime.",
+        "That would explain her invisible dog."
+      ]
+    }
+  ]
+}

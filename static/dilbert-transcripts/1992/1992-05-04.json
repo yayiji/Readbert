@@ -1,0 +1,24 @@
+{
+  "date": "1992-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! A fresh shipment!",
+        "Office supplies"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mine! All mine!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "While you were up, someone took your desk."
+      ]
+    }
+  ]
+}

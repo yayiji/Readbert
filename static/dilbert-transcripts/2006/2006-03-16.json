@@ -1,0 +1,23 @@
+{
+  "date": "2006-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what are you feeding the plant outside your cubicle?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a mulch of coffee dregs and my shredded status reports."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You might want to switch to decaf."
+      ]
+    }
+  ]
+}

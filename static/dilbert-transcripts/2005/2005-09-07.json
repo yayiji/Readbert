@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's no law that says a porpoise can't kill a company lawyer, but it's still somewhat bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Officially, I have to give you a reprimand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unofficially, do you like mackerel?",
+        "Squeak!"
+      ]
+    }
+  ]
+}

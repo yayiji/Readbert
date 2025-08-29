@@ -1,0 +1,25 @@
+{
+  "date": "1999-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have the budget calculated yet, Asok?",
+        "I need to double-check the numbers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me a copy now. I'll mentally adjust for the possibility the numbers are wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I making a huge mistake?",
+        "This six is probably an upside-down nine."
+      ]
+    }
+  ]
+}

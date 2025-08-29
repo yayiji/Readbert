@@ -1,0 +1,30 @@
+{
+  "date": "1999-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, are you sure this kind of pager is supposed to clip on my ear?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It hurts. Maybe you can call someone to double-check.",
+        "Good idea.",
+        "Beep",
+        "Beep",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bzzz",
+        "BZZZ",
+        "Bzzz",
+        "Is there anything else I can do for you?"
+      ]
+    }
+  ]
+}

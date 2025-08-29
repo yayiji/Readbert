@@ -1,0 +1,60 @@
+{
+  "date": "2000-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, from now on, I want a live person answering my phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What attracted you to that idea?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was it the inefficiency or the drain on morale?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Important executives don't use voice mail."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I have some information for you.",
+        "Call me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Beep boop",
+        "Beep beep",
+        "Boop beep",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "He's not here.",
+        "Do you want to leave a detailed message?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well, you",
+        "Can't!!!"
+      ]
+    }
+  ]
+}

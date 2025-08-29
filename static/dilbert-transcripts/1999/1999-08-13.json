@@ -1,0 +1,25 @@
+{
+  "date": "1999-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Queen bee of marketing",
+        "See if you can create a buzz over this.",
+        "Yes, my queen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that a free rope? Give it to me, you worthless engineer!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look, everyone! There's enough to go around my neck and over that beam!"
+      ]
+    }
+  ]
+}

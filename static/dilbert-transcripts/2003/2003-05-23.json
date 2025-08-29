@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fired our plant-watering service and hired a less expensive one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the sort of leadership that will turn this company around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Were we doing well?",
+        "Our plants are plastic."
+      ]
+    }
+  ]
+}

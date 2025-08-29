@@ -1,0 +1,25 @@
+{
+  "date": "1999-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "...New policy on reimbursement for travel..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do not tip more than ten percent for meals..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If the meal costs more than six dollars, bring back a fork.",
+        "Purrr"
+      ]
+    }
+  ]
+}

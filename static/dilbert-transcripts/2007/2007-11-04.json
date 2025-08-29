@@ -1,0 +1,54 @@
+{
+  "date": "2007-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where do you think you're going?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to ask our VP of sales a question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whoa! Whoa! Whoa!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can't speak directly with a vice president."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You need to talk to your boss, who talks to his boss, who talks to someone who is friends with the VP of sales, who then talks to him."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wouldn't that virtually guarantee that the wrong question gets asked?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's better to have the right person ask the wrong question than the wrong person ask the right question."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you have a minute?",
+        "Talk to my secretary."
+      ]
+    }
+  ]
+}

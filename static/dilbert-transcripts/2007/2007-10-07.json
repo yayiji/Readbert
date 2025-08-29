@@ -1,0 +1,54 @@
+{
+  "date": "2007-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tomorrow is the mandatory meeting on employee health and well-being."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The meeting starts at 6 a.m., so it will interfere with your sleep and not your work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that send a message that work is more important than health?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I hope so. That's the theme of the meeting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Healthy employees are unproductive."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "They're always exercising or eating fruit when they should be working."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We prefer employees who work hard and die before their pensions start paying out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Suddenly I feel sick.",
+        "Right on schedule!"
+      ]
+    }
+  ]
+}

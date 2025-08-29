@@ -1,0 +1,25 @@
+{
+  "date": "1990-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So, would you like to meet after work and go to dinner?",
+        "What kind of car do you drive?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ugh! You women are all so shallow!! It should not make one bit of difference what kind of car I drive!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Except that it will help me find you in the parking lot...",
+        "But you could just stand on top of it and thump your mighty chest."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2000-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do I get rid of my old computer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't you give it to a school?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, it would take me a week to find someone to take it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The hard drive is broken and it has no software."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And it would cause a tax accounting nightmare."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you could leave it on the school playground at night."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's what I did with my old refrigerator."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What I hate most is that I didn't have a better idea."
+      ]
+    }
+  ]
+}

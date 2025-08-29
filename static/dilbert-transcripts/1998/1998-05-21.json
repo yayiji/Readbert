@@ -1,0 +1,26 @@
+{
+  "date": "1998-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, Allen, what's it like to be a hideous sycophant?",
+        "It's okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's it like to have no hope of career advancement?",
+        "Not bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Were you born that way or is it a lifestyle choice?",
+        "I'll ask mom, but I think it was bad parenting."
+      ]
+    }
+  ]
+}

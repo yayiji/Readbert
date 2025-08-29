@@ -1,0 +1,57 @@
+{
+  "date": "2003-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have time to work on the Nanobit project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. Tell Dilbert I said he should take over."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm way, way too busy.",
+        "Fine. Tell Wally to do it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm up to your face in alligators!",
+        "Okay, okay... hand it off to Asok."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But already I only have time to eat one cracker a day.",
+        "Tell Ted I said..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sure, I'll do it. No problem."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Mmm... cracker time.",
+        "I'm quitting tomorrow."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I solved four problems today!"
+      ]
+    }
+  ]
+}

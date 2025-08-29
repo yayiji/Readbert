@@ -1,0 +1,24 @@
+{
+  "date": "2001-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What would you say is your main reason for leaving?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't stand working for an unethical weasel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yep, personal problems.",
+        "I'm glad that we collect this helpful data."
+      ]
+    }
+  ]
+}

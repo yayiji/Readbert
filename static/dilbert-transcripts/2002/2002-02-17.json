@@ -1,0 +1,58 @@
+{
+  "date": "2002-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, may I ask you for advice?",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name is Ted.",
+        "I'm planning to take the voluntary layoff package."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I plan to use my retirement money to start a business that makes kites out of waffles!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In five years I hope to be the world's largest maker of edible kites."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So, what do you think?",
+        "I value your opinion."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ted, who told you that I'd be a good person to ask for an opinion on your idea?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Alice said it reminded her of the quality of your... ideas.",
+        "Oh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Alice shoots for the double!!!",
+        "She scores!!!"
+      ]
+    }
+  ]
+}

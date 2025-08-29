@@ -1,0 +1,27 @@
+{
+  "date": "1998-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No one in my division is using the company drug treatment program. This is very embarrassing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My boss will think I'm not managing the drug problem.",
+        "Don't any of you have a drug problem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "#!*%",
+        "Childproof \"Midol\" container!!",
+        "///",
+        "Hmm..."
+      ]
+    }
+  ]
+}

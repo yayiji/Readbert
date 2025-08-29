@@ -1,0 +1,25 @@
+{
+  "date": "1995-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert the HR director",
+        "Here's the new org chart. Maybe you're on it and maybe not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh! Nice try!",
+        "So close. Too bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's fun to play with them before downsizing them."
+      ]
+    }
+  ]
+}

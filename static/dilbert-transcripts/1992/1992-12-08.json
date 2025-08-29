@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to use humor to ease the tension during your annual job performance appraisal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many engineers does it take to change a lightbulb?",
+        "I don't know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that's consistent with your appraisal.",
+        "Wait... I'll say three."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1999-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's \"positive attitude week\", Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you see a co-worker with a positive attitude..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...give him the positive attitude paperweight."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There's one!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It worked. He's back to normal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha ha ha!!",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "One more!",
+        "Quick!!"
+      ]
+    }
+  ]
+}

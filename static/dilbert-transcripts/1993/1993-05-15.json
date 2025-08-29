@@ -1,0 +1,26 @@
+{
+  "date": "1993-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I never learned to read, but it didn't matter because I was a great athlete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then came the multi-million dollar contract, which I spent on drugs.",
+        "Eventually I was banned from sports.",
+        "I quit drugs because I couldn't afford it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm a motivational speaker.",
+        "Have you motivated anybody to become illiterate yet?"
+      ]
+    }
+  ]
+}

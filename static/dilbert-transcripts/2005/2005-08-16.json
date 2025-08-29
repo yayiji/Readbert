@@ -1,0 +1,25 @@
+{
+  "date": "2005-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to add a keyword search function.",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It should also search in different languages including Friulian, Kataang, Horpa and Wagi."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like your style.",
+        "That's nothing! I want to marry you in a civil union."
+      ]
+    }
+  ]
+}

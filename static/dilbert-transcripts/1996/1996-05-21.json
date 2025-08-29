@@ -1,0 +1,25 @@
+{
+  "date": "1996-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new policy forbids the use of weapons or any violence in the workplace."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ummm... what was the policy before this?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not sure...",
+        "Maybe if you had a permit and it was in season.",
+        "There goes another company benefit."
+      ]
+    }
+  ]
+}

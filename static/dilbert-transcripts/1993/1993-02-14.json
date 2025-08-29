@@ -1,0 +1,56 @@
+{
+  "date": "1993-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to interview the job applicant who's coming in today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "See if he's got what it takes to be an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, Karl. We'll start with the standard engineering test.",
+        "Okey-dokey."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have thirty-five pens and pencils here. How many are really needed to perform your job?",
+        "All of them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Correct... Now, what is the proper way to carry them with you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Right again. Last question: What is the advantage of wearing natural fabrics?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Uh-oh... panic situation.",
+        "I... I don't know."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's okay. I was testing your hair. You're an engineer."
+      ]
+    }
+  ]
+}

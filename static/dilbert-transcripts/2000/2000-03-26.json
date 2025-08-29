@@ -1,0 +1,53 @@
+{
+  "date": "2000-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, move that title..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Over here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaagh!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your finger oil is on my screen!!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now I have to spend ten minutes cleaning it..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Because you don't understand how to hover your finger."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "See?! This isn't hard. You hover the finger! Don't touch!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope I'm not losing my aura of infallibility."
+      ]
+    }
+  ]
+}

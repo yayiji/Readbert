@@ -1,0 +1,26 @@
+{
+  "date": "1996-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...But our primary vendor can't deliver, so...",
+        "I wonder what's on TV tonight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Should we risk a lawsuit or build a product that nobody on earth wants?",
+        "Did he ask me to make a choice?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will it be a request for information or an impractical solution?",
+        "Let's do both!"
+      ]
+    }
+  ]
+}

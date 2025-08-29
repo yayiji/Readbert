@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, it's ten o'clock. You're supposed to start at eight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because I plan to work for two unverifiable hours after you leave tonight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My alleged loyalty to this company is second to none."
+      ]
+    }
+  ]
+}

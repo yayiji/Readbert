@@ -1,0 +1,26 @@
+{
+  "date": "1995-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Try this little trick to improve your career..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Anytime you want something your way, simply refer to your CEO by his first name and say he gave you directions during your very recent meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's totally unverifiable.",
+        "You're a funny little dog.",
+        "People will fear you and do as you say.",
+        "You'll rule with an iron fist!"
+      ]
+    }
+  ]
+}

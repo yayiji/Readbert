@@ -1,0 +1,54 @@
+{
+  "date": "1993-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nervous Ed, I'm assigning you to a special project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Special assignment?",
+        "That means you don't have any real work for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everybody knows that a special assignment is a kiss of death."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You'll be sharing a cubicle with six other employees who are also on special assignment."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Don't panic yet...",
+        "Maybe it's something important... maybe it's something that could make an impact."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your assignment is to improve employee empowerment."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Thanks for letting us watch.",
+        "Did you like the part about six in the cubicle?"
+      ]
+    }
+  ]
+}

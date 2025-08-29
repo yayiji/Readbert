@@ -1,0 +1,29 @@
+{
+  "date": "1994-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So now I have carpal tunnel syndrome...",
+        "Zzzz"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't care about the health of your employees!",
+        "All you care about is money!!",
+        "Money?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need surgery!",
+        "I'm in constant agony!!",
+        "False alarm.",
+        "Zzz"
+      ]
+    }
+  ]
+}

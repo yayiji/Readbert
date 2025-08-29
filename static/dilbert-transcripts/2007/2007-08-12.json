@@ -1,0 +1,54 @@
+{
+  "date": "2007-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Prepare a proposal for this customer.",
+        "Why me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You were walking by. I had it in my hand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can't win this business. We don't have the right products or expertise."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Just say we do. We'll figure it out later."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They know we don't. And we'd still be the most expensive bidder."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Bid low. We'll make it up with change orders and unexpected essential upgrades."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In other words, I've been randomly assigned to create lies for a proposal we can't win for a service we can't perform."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You make competing sound bad."
+      ]
+    }
+  ]
+}

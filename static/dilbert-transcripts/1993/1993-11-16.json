@@ -1,0 +1,24 @@
+{
+  "date": "1993-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was wondering if you could build a phaser pistol so I can zap the many fools I encounter every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing lethal, just enough to make them twitch wildly and scream. It would be fun."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That wouldn't be very nice to the fools.",
+        "I just think you guys should provide more value to society."
+      ]
+    }
+  ]
+}

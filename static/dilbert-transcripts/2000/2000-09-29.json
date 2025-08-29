@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, there's a huge demand for employees like you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But not you specifically.",
+        "...Which is funny if you think about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, if you can't laugh at yourself, who can you laugh at?"
+      ]
+    }
+  ]
+}

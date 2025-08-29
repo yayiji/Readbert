@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "2:19 p.m., the vp reads a document."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The subject tries to lose the document to avoid making a decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "2:21 p.m., the subject learns to use tools."
+      ]
+    }
+  ]
+}

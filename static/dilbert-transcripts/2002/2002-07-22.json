@@ -1,0 +1,24 @@
+{
+  "date": "2002-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what are we going to do now that we're bankrupt and our 401k money is gone?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. I've been investing all of my money in our competitor's stock. Now I'm rich."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you still come to work?",
+        "I don't know how to make coffee."
+      ]
+    }
+  ]
+}

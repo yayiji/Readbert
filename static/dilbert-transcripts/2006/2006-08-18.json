@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I tried to work, but pop-up messages kept telling me to update my computer's software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried closing the pop-up windows, but they just kept coming back. There were too many of them!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you upgrade your software?",
+        "Great. I see whose side you're on."
+      ]
+    }
+  ]
+}

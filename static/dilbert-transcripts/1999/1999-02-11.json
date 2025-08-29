@@ -1,0 +1,24 @@
+{
+  "date": "1999-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "First, I need to ask you many questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I will transfer you to someone who will ask the same questions again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We do this to remove any hope you might have had that we understand technology."
+      ]
+    }
+  ]
+}

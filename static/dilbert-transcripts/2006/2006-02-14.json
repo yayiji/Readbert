@@ -1,0 +1,25 @@
+{
+  "date": "2006-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd better put some lipstick on this pig."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Behold the most exciting technical challenge since the dawn of the microprocessor!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I must rub it on my body before I assign it to you...",
+        "Oooh oooh!",
+        "I'll need tongs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1994-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Project status: We accidentally destroyed the French satellite and are now at war with France."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you should be a little more upbeat in your report. Emphasize the positive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"... On a positive note, our headcount expenses are trending downward.\""
+      ]
+    }
+  ]
+}

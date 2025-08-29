@@ -1,0 +1,26 @@
+{
+  "date": "1998-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Chief financial officer",
+        "I need one-sentence descriptions of each of your projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're planning to make critical budget decisions based on that?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. Five pages without using a period.",
+        "Thank god for semi-colons."
+      ]
+    }
+  ]
+}

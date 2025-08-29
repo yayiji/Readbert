@@ -1,0 +1,27 @@
+{
+  "date": "1998-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the conference",
+        "I liked your talk about your comic strip.",
+        "Do you ever feel burned out?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have to be funny every day.",
+        "Then there are the books, the media, the speaking.",
+        "So much stress..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops."
+      ]
+    }
+  ]
+}

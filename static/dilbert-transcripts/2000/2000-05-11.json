@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My marketing plan calls for the annihilation of all life on earth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our only serious competitor is a company that sells tobacco and junk food.",
+        "I'd like volunteers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need some accomplishments for my quarterly review."
+      ]
+    }
+  ]
+}

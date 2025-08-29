@@ -1,0 +1,26 @@
+{
+  "date": "1996-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that job security is a thing of the past,",
+        "I've noticed that my company loyalty has vanished,",
+        "too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And when you made my bonus primarily dependent on the blunders of senior management, my motivation fluttered away like a lonely sparrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So your point is?",
+        "No point. I just didn't have any reason to be working."
+      ]
+    }
+  ]
+}

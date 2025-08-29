@@ -1,0 +1,26 @@
+{
+  "date": "1992-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the full script of the rest of your life.",
+        "My supercomputer model predicted it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, according to this I'll be kidnapped by evil squirrels and forced to work in their nut mines.",
+        "They get me too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know that evil squirrels had nut mines.",
+        "It's probably too late to do anything about it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to apply for a \"Bank of Ethel\" credit card.",
+        "Sit down and shut up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's 21% interest plus surprisingly high annual fees. We'll do a credit check and a full body cavity search."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And I had to smile the whole time because they were filming it for their television ads.",
+        "You have to admire their attitude."
+      ]
+    }
+  ]
+}

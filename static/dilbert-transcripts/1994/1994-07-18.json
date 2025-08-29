@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great solutions in engineering"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Problem: Bicycle seats are hard. They hurt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Analysis: There must be something wrong with your pants.",
+        "Solution: Dorky pants"
+      ]
+    }
+  ]
+}

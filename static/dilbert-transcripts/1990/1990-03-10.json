@@ -1,0 +1,29 @@
+{
+  "date": "1990-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yo! Dilbert and Dogbert!",
+        "Oh no...",
+        "Hi, Vernon.",
+        "Yo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The most boring person I know...",
+        "Gotta get out of here but I'm too polite.",
+        "Did I ever tell you about my favorite episode of \"Kojak\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whoa! Vern, we gotta go before you turn our brains into tapioca!",
+        "There's always the direct method."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1991-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think people are basically good or evil?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I know dogs are basically good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And dogs are better than people."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But people are better than cats."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And cats are evil..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Therefore, all people are stupid."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't follow that logic."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yes, my theory predicts you would say that."
+      ]
+    }
+  ]
+}

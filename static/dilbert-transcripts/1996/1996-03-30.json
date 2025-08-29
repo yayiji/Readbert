@@ -1,0 +1,25 @@
+{
+  "date": "1996-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your main accomplishment was the department newsletter which was both uninteresting and unimportant.",
+        "You get no raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The newsletter was your idea, and it's boring because most of the articles are contributed by my idiotic coworkers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't seem to understand the value of teamwork.",
+        "I understand its value; it just cost me a two-percent raise."
+      ]
+    }
+  ]
+}

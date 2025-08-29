@@ -1,0 +1,23 @@
+{
+  "date": "2006-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to \"Dogbert's barge city,\" your floating paradise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please leave your cell phones behind, as well as anything else that might let you signal for help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's more garbage in paradise than you'd think."
+      ]
+    }
+  ]
+}

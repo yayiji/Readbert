@@ -1,0 +1,23 @@
+{
+  "date": "1997-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought Dilbert to explain what makes our product special."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's exactly like our competitor's product except we charge more to cover the cost of our deceptive advertising."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "While you're up, could you get me a cup of coffee?"
+      ]
+    }
+  ]
+}

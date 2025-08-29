@@ -1,0 +1,54 @@
+{
+  "date": "1992-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a solution for your dating dilemma."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At your age there are more single men than single women."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Worse yet, all of the single women are dating married men or serial killers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But the statistics eventually favor men."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Really?",
+        "How?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "At age 80 there are three times as many available women as men because men die younger."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are you saying I should wait until I'm old... and date 80-year-old women?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No. I wouldn't wait..."
+      ]
+    }
+  ]
+}

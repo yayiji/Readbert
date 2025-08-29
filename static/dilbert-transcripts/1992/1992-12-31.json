@@ -1,0 +1,32 @@
+{
+  "date": "1992-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please don't hurt me, Techno-Bill!",
+        "Make your move."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My only chance is to use my cellular phone and modem to dial into his control module and set off all his systems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Beep",
+        "Beep",
+        "Aaagh!",
+        "Rrrring!",
+        "Bzzz",
+        "Bzzzz",
+        "Bzzz",
+        "Ding",
+        "Fool! I have autodilaing."
+      ]
+    }
+  ]
+}

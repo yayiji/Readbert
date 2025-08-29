@@ -1,0 +1,26 @@
+{
+  "date": "1993-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Laptop computers are outdated. You want our new fingernail models."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You glue them permanently to each nail.",
+        "They sense where each finger is at all times.",
+        "You don't need a keyboard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course, some people prefer that their computer not know where their fingers are at all times.",
+        "Dave, about last night..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2002-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My technology test was a huge failure because I had to use rope as my electronic cable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our procurement manager is a monkey who signed an exclusive cable contract with a rope vendor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd rather not take sides until I hear the monkey's version."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2003-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have some good news for you!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The paperwork for your promotion just came through."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There were fifty good candidates for this job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's a once-in-a-lifetime opportunity."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Most people in your specialty are destined to be low-level lackeys forever. But not you!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Umm...my name is Tim. This promotion is for Tom."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh...",
+        "Well...being a low-level lackey forever is good, too."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Could you tell Tom I have some good news?"
+      ]
+    }
+  ]
+}

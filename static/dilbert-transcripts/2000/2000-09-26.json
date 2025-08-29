@@ -1,0 +1,23 @@
+{
+  "date": "2000-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can revive the entrepreneurial spirit here by reminding people of the early years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your founders were two bums who began in a cardboard box."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One bum misdialed his bookie and accidentally bought Cisco stock at the IPO."
+      ]
+    }
+  ]
+}

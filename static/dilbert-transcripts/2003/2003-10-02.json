@@ -1,0 +1,23 @@
+{
+  "date": "2003-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love golf. Golfing is fun. It's a good day to golf. Do you want to go golfing in the rain tomorrow at 6 a.m.?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, thanks. I have plans to sandpaper my entire body and roll around in salt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope no one ever creates a scoring system for that."
+      ]
+    }
+  ]
+}

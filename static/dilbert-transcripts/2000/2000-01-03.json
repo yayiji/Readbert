@@ -1,0 +1,23 @@
+{
+  "date": "2000-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to do data mining to uncover hidden sales trends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you mine the data hard enough, you can also find messages from God."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Sales to left-handed squirrels are up...and God says your tie doesn't go with that shirt."
+      ]
+    }
+  ]
+}

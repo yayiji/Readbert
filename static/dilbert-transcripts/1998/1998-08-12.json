@@ -1,0 +1,25 @@
+{
+  "date": "1998-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're the first cubicle to land on the moon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The temperature and oxygen levels are fine.",
+        "Apparently the space program is a hoax.",
+        "Nasa must be hiding something here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi. We're the women who love engineers."
+      ]
+    }
+  ]
+}

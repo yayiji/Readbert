@@ -1,0 +1,24 @@
+{
+  "date": "1992-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't think of yourself as the least intelligent creature in this room..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you consider the entire planet, you're smarter than literally hundreds of people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you ever considered taking up a hobby?",
+        "This is my hobby."
+      ]
+    }
+  ]
+}

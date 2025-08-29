@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What product are we testing today, Doc?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll be testing the safety of cosmetics. This will be your most dangerous assignment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes I hate this job.",
+        "Hey baby!!",
+        "Whoa!! Whoa!!"
+      ]
+    }
+  ]
+}

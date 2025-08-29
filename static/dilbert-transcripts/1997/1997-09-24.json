@@ -1,0 +1,25 @@
+{
+  "date": "1997-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you in charge of getting ISO 14000 certification."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the difference between that and ISO 9000?",
+        "Oh, about 6000. Ha ha ha ha!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, I think I'll use that one at the stockholder meeting?",
+        "Yeah, that'll wake them up."
+      ]
+    }
+  ]
+}

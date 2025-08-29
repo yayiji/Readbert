@@ -1,0 +1,54 @@
+{
+  "date": "2003-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're coming to work at nine-thirty?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By the time you get your coffee and get your bagel, it'll be ten o'clock!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I started at six!",
+        "I've already worked for four hours, and I'll probably stay late!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Over the course of a lifetime, I'll work twice as much as you!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But... we'll be paid the same... and we'll both die anyway."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... I guess what you're saying is that you're smarter than I am."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I curse the casual brilliance of your life strategy!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My bagel will be extra tasty today."
+      ]
+    }
+  ]
+}

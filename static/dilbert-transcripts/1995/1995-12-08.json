@@ -1,0 +1,24 @@
+{
+  "date": "1995-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's funny - before your company bought that critical system from me, you had all the power..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But now, only I can provide essential upgrades!! I call the shots, you simple fool!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Send in the next employee.",
+        "At least we don't have any multi-vendor compatibility issues."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1995-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're taking away your individual cubicles.",
+        "In the new system you'll sign up for whatever cube is open that day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's based on the model of public restrooms.",
+        "But I call it \"hoteling\" because it increases my chances of getting tips."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Each cubicle will have a computer, a chair, and a roll of note paper...",
+        "Take one and pass it around."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "1998-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time for my annual inspirational talk!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We must work twice as hard, or the competition will crush us!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want you to feel afraid twenty-four hours a day!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Question: Wouldn't that lower the quality of our lives?",
+        "Seems like it might"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm too afraid to work here now. I wonder if our competitors are hiring."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Question: Should we continue to be afraid of our own management's incompetence?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's compromise. I'll cut the meeting short if you'll all agree to feel worse in some way."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now I remember why I only inspire them once a year."
+      ]
+    }
+  ]
+}

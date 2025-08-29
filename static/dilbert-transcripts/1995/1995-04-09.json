@@ -1,0 +1,54 @@
+{
+  "date": "1995-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We ranked all the engineers from best to worst."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We plan to get rid of the bottom 10%. That includes you, Wally."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your plan is logically flawed."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you fire the bottom 10%, you'll still have a bottom 10%."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll fire and fire but there will always be a bottom 10%, until finally..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When less than ten people are left you'll have to fire body parts instead of whole people!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We'll have torsos and glands wandering around unable to use keyboards... blood and bile everywhere!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How'd it go?",
+        "He fired my hair."
+      ]
+    }
+  ]
+}

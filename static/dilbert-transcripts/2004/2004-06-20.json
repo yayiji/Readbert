@@ -1,0 +1,55 @@
+{
+  "date": "2004-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you'll absorb Bill's project when he transfers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry; he'll tell you everything you need to know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The whatchamacallit has to be whatever or else the whosits will go hey-hey."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now this is either the budget total or a fax number."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's absolutely critical that you... um... I lost my train of thought."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you have a list of key contacts?",
+        "That would have been a good idea."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can I call you if I have questions?",
+        "You can try."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I love my co-workers, until they talk."
+      ]
+    }
+  ]
+}

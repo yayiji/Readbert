@@ -1,0 +1,67 @@
+{
+  "date": "1995-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Boss types",
+        "Find your boss on this handy reference."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hostage taker: Traps you in your cubicle and talks your ears off.",
+        "Blah blah",
+        "Ow!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fraud: Uses vigorous head-nodding to simulate comprehension.",
+        "Then we'll subnet our IP addresses.",
+        "Oh yeah oh yeah"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Motivational liar: Has no clue what you do but says you're the best.",
+        "Nobody can do what you do!!",
+        "Except a mushroom"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Over promoted: Tries to mask incompetence with poor communication.",
+        "Let's qualitize our paradigm so we don't over inundate with datums."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Weasel: Takes credit for your hard work.",
+        "This bonus is for brilliantly forcing your staff to work 80 hour weeks.",
+        "It wasn't easy!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Moses: Perpetually waits for clear signals from above.",
+        "Don't do anything important yet.",
+        "Never have."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Perfect boss: Dies of natural causes on a Thursday afternoon.",
+        "Should we do something?",
+        "Three day weekend!"
+      ]
+    }
+  ]
+}

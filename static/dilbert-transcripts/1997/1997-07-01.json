@@ -1,0 +1,25 @@
+{
+  "date": "1997-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If the goal of all creatures is to be happy... and I'm happier than you are..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can conclude that I'm more successful than you are. Isn't that right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are really starting to annoy me now.",
+        "The gap widens.",
+        "Yes!"
+      ]
+    }
+  ]
+}

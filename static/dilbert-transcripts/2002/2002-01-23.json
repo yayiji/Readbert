@@ -1,0 +1,31 @@
+{
+  "date": "2002-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert the sales guy",
+        "Here's my card. None of the information is correct."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't you get new ones?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That costs money."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You must have a lot of clout in your company.",
+        "Shut up and buy something."
+      ]
+    }
+  ]
+}

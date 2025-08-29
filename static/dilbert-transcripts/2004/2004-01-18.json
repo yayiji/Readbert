@@ -1,0 +1,56 @@
+{
+  "date": "2004-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ask the vendor to take 20% off the price.",
+        "Now???"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You already signed the contract. The price is set in stone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't hurt to ask."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It doesn't?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... although we just signed the contract, would you please lower the price 20%?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ha ha ha!!! Get a time machine, you bumpkin!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! I feel stupid and filled with self-loathing... futility tugs at my soul... my guts are clenched!",
+        "Good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ask if they'll go for 19%.",
+        "It hurts to ask!!!"
+      ]
+    }
+  ]
+}

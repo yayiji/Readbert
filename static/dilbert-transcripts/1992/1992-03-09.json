@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your day, Dogbert?",
+        "Hey! What's that smell?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just as I suspected – you stopped to pet the neighbor's cat!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It meant nothing. It was more of a pat than a pet.",
+        "Save your lies for the trial."
+      ]
+    }
+  ]
+}

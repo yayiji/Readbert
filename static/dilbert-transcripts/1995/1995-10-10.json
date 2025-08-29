@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to get more involved with your project.",
+        "Uh-oh.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm just going to roll up my sleeves and pitch in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anybody know how to work these buttons?"
+      ]
+    }
+  ]
+}

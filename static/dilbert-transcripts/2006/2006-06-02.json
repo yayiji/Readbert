@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to add a $3 component to our product to comply with federal law."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The product review committee will need a cost-benefit study before we decide."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you know it's accurate because I used math!",
+        "Duh 100"
+      ]
+    }
+  ]
+}

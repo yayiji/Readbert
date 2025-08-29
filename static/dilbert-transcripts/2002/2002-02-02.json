@@ -1,0 +1,25 @@
+{
+  "date": "2002-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Man-hating supervisor",
+        "The men here are oblivious to my abuse. What did you do to them?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I siphoned off their self-respect and keep it in vials in a storage room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is no fun. I quit.",
+        "Do you want to yell at the vials with me?"
+      ]
+    }
+  ]
+}

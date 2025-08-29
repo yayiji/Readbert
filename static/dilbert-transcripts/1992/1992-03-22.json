@@ -1,0 +1,54 @@
+{
+  "date": "1992-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My code name is Dogbert. I'm an industrial spy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What makes you think my company needs your services?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's pretty obvious that you won't survive on your wits alone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There's a rumor that Xypon Inc. is developing a tactical nuclear weapon to use against you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What exactly will you do for us?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You give me fifty thousand dollars, then I disappear for a month and do secret spy things."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll return with information that only a spy or a regular newspaper reader could know."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How good are they, agent Dogbert?",
+        "They're a bit gullible."
+      ]
+    }
+  ]
+}

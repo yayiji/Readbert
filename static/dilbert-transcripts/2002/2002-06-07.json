@@ -1,0 +1,23 @@
+{
+  "date": "2002-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The other engineers are complaining because you have a private office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you should explain to each of them that life isn't fair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah, I guess it is easier to explain it to one person."
+      ]
+    }
+  ]
+}

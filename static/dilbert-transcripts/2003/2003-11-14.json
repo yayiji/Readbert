@@ -1,0 +1,24 @@
+{
+  "date": "2003-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you show me how to make changes to the skills database?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't risk being known as the guy who knows how to edit the database."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because?",
+        "I barely have time to avoid the work I already have."
+      ]
+    }
+  ]
+}

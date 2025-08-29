@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fbi. We need to talk to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've traced the source of all internet spam to your house.",
+        "All of it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...The revolutionary new pill that turns your body fat into Rolex watches!"
+      ]
+    }
+  ]
+}

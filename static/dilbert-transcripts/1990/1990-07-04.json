@@ -1,0 +1,25 @@
+{
+  "date": "1990-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We should at least interview him.",
+        "Nobody else even answered our ad for a babysitter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Frankly, Bob, we're concerned that you might try to eat the children."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, of course, in that case there would be no charge for the evening.",
+        "He's more than fair."
+      ]
+    }
+  ]
+}

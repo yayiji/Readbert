@@ -1,0 +1,53 @@
+{
+  "date": "2000-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good manager hires people who are smarter than he is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... your boss is dumber than you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your boss's boss is dumber yet?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "According to your theory, our CEO is the dumbest person in the company."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Unless all of you are bad managers."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Truly we are doomed either way."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This concludes the motivational part of the meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd give you a high five but I don't like to move."
+      ]
+    }
+  ]
+}

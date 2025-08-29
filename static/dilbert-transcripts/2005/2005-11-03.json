@@ -1,0 +1,26 @@
+{
+  "date": "2005-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see that you have lots of experience as a boss's pet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Show me the face you'll use when you bully my staff behind my back.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nice use of forehead wrinkles.",
+        "You're hired.",
+        "Grrr..."
+      ]
+    }
+  ]
+}

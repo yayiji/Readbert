@@ -1,0 +1,25 @@
+{
+  "date": "2000-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look who's back early from his business trip.",
+        "How did it go?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excellent! I won every meeting by default. The other side never showed up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know your secretary uses your office when you're gone?",
+        "For what?"
+      ]
+    }
+  ]
+}

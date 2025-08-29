@@ -1,0 +1,26 @@
+{
+  "date": "1990-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My trip to Elbonia was a complete success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I opened our subsidiary, taught capitalism to the locals and showed them how to make computer chips out of sand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh great.",
+        "Now they will become an industrial giant and compete against us.",
+        "Don't worry.",
+        "I also taught them our management techniques."
+      ]
+    }
+  ]
+}

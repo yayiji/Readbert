@@ -1,0 +1,23 @@
+{
+  "date": "2000-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, we can't find our CPR dummy. I need your help."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Finding it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, assuming you can do that while lying on your back with your mouth open."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2002-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the temp you requested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! No handshake! I'm afraid of commitment!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I won't need a chair. I like to stand in this position."
+      ]
+    }
+  ]
+}

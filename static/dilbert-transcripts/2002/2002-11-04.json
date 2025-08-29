@@ -1,0 +1,23 @@
+{
+  "date": "2002-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got to find a way to bust out of this joint."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try walking backward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that didn't work...oh, I get it: this is a little joke you play on all the fresh meat."
+      ]
+    }
+  ]
+}

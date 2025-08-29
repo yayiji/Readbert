@@ -1,0 +1,25 @@
+{
+  "date": "1992-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to open the \"Dogbert advertising company.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently, people will believe just about anything that makes them feel good.",
+        "Hey, don't underestimate our intelligence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could never underestimate your intelligence.",
+        "Apology accepted."
+      ]
+    }
+  ]
+}

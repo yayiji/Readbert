@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can anyone tell me why everyone is always late for my staff meetings?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because the first ten minutes are always stupid stuff like \"Why are people late?\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice, that was some of your finest work.",
+        "Thank you for noticing."
+      ]
+    }
+  ]
+}

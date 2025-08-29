@@ -1,0 +1,59 @@
+{
+  "date": "1995-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to ship the V-1 product tomorrow.",
+        "I promised our CEO he can announce it at the shareholder meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's two months early!!",
+        "We haven't added any features yet!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would we ship?",
+        "Our lab prototype is the only V-1 in existence!",
+        "No... you wouldn't!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've scheduled press tours so you can do demos all next week.",
+        "On what?!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We'll need twenty thousand dollars to build another prototype!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That reminds me; I froze the budget for the rest of the year."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If there's anything you'd like me to do, don't hesitate to ask.",
+        "Yeah, I'd like you to do something..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ooh... I think I should have hesitated to ask that."
+      ]
+    }
+  ]
+}

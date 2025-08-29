@@ -1,0 +1,26 @@
+{
+  "date": "1995-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations on getting hired as a temp, Ratbert.",
+        "Where do I start?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your office is this cardboard box in the main hallway.",
+        "The regular employees will not make eye contact or ask your name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your status is roughly between the security guard and the crud behind the refrigerator.",
+        "Do I get a company car?"
+      ]
+    }
+  ]
+}

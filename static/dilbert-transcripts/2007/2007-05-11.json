@@ -1,0 +1,26 @@
+{
+  "date": "2007-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Try turning off your router, your modem, and your computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now turn off your air conditioning, your lights, and your water heater.",
+        "Unplug your microwave and defrost your refrigerator."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're very thorough.",
+        "Cancel your garbage service, renounce your citizenship, and yank out your phone."
+      ]
+    }
+  ]
+}

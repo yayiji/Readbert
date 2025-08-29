@@ -1,0 +1,26 @@
+{
+  "date": "2001-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the Elbonian fulfillment service.",
+        "How may I thwart you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Grunt grunt",
+        "Grunt grunt",
+        "Grunt"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, it wasn't funny the first 300 times either."
+      ]
+    }
+  ]
+}

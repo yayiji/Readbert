@@ -1,0 +1,25 @@
+{
+  "date": "1997-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company won't give me my stock options unless I sign this new employment agreement.",
+        "Here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yada, yada, yada, yada, yada, yada, yada, yada, yada, yada."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you think?",
+        "I'm not reading it. I just like to look at documents and go yada, yada, yada."
+      ]
+    }
+  ]
+}

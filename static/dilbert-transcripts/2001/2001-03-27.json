@@ -1,0 +1,23 @@
+{
+  "date": "2001-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, I have good news and bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The good news is I'm starting up a power utility company and you're my new VP of operations!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The bad news is that your office is inside a wheel attached to a generator."
+      ]
+    }
+  ]
+}

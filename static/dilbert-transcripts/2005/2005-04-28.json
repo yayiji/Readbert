@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh no. It's a technical glitch that I don't know how to fix."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaa! Now I must humble myself to some condescending engineer and ask for help!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And how did I teach you to ask?",
+        "I'm sorry that I spent my college years drinking beer and studying English literature."
+      ]
+    }
+  ]
+}

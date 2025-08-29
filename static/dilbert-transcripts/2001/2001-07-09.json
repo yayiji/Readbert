@@ -1,0 +1,26 @@
+{
+  "date": "2001-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're under-staffed and overworked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hired a stress counselor and another manager to glare at you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Relax...",
+        "Deep",
+        "breaths...",
+        "there..."
+      ]
+    }
+  ]
+}

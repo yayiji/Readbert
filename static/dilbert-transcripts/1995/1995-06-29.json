@@ -1,0 +1,25 @@
+{
+  "date": "1995-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "One way to look at your problem is that nobody likes your products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't know how to fix that. So I recommend forming internal business units to bicker with each other."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would you recommend that?",
+        "Well, I'd be lying if I said I liked you."
+      ]
+    }
+  ]
+}

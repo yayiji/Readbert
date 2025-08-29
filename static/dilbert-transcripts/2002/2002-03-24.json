@@ -1,0 +1,55 @@
+{
+  "date": "2002-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company is dying... but not because of bad management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's because we're not...",
+        "Customer centric"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I for one feel better knowing we have correctly identified the problem."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That was a little thing I call participation; you should try it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now let's break into four small working groups..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And develop skits based on our new focus of customer centricity."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Um... there are only four of us.",
+        "Wait... never mind."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll call my skit \"The electricity of customer centricity.\""
+      ]
+    }
+  ]
+}

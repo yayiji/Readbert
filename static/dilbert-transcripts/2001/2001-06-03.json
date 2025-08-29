@@ -1,0 +1,62 @@
+{
+  "date": "2001-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry, Brian.",
+        "I need to fire all of my consultants to save money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who will do your highly technical work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can transfer your knowledge to Flossie.",
+        "Hi."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What's with the hand?",
+        "Do you want to borrow my pencil?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Um...no.",
+        "This is an invitation to shake hands.",
+        "It's a greeting ritual."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ouch!! Brain overload!!",
+        "It's too much information!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Purge!",
+        "Purge!",
+        "Purge!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Where am I?",
+        "I need to raise my rates."
+      ]
+    }
+  ]
+}

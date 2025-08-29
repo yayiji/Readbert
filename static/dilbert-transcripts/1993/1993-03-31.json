@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert... you are all under my hypnotic powers..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am the supreme ruler of Earth. You must all carry Dogbert posters and chant \"Dogbert is my king.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is all for now. If I think of anything else important I'll let you know.",
+        "...Is my king"
+      ]
+    }
+  ]
+}

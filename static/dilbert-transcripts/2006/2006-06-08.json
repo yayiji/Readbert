@@ -1,0 +1,25 @@
+{
+  "date": "2006-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you don't give us a urine sample to test, I have to fire you.",
+        "How about a hair sample to test instead?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do I know it's your hair?",
+        "You can take the sample yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Add this to the list of things you shouldn't trust human resources to do."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the futurist",
+        "Society will become divided into technology \"haves\" and \"have nots.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eventually the two groups will take different evolutionary paths."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then, as now, the \"have nots\" will be the policy makers.",
+        "Oog make mission statement."
+      ]
+    }
+  ]
+}

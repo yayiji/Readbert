@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project is behind schedule because our contractor is a lazy beaver."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a while he was making up excuses. Now, he doesn't return calls.",
+        "What's your plan?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope to get him back to making up excuses by promising him more jobs in the future."
+      ]
+    }
+  ]
+}

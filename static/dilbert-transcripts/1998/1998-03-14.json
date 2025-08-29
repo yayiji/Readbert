@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll call you back in one hour, Irene."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're in a different time zone, so you'll get the call in...",
+        "Um... three hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really? You're three hours ahead? Then that means... whoa!",
+        "You're freaking me out here!"
+      ]
+    }
+  ]
+}

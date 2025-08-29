@@ -1,0 +1,24 @@
+{
+  "date": "2000-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reviewed your CD-ROM business card last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I browsed your personal web page."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should do some conversation.",
+        "I already had one in my head."
+      ]
+    }
+  ]
+}

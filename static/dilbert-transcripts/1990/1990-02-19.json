@@ -1,0 +1,26 @@
+{
+  "date": "1990-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, is this the library reference desk?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the average running speed of the Tasmanian boola-boola dog?",
+        "8.3 miles per hour."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't believe she knew that.",
+        "And you have something stuck in your teeth."
+      ]
+    }
+  ]
+}

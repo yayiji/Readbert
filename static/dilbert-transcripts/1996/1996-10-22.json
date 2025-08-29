@@ -1,0 +1,28 @@
+{
+  "date": "1996-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for the meeting.",
+        "Here's my card."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You call that an e-mail address?",
+        "It's eighty characters long and mostly meaningless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People with embarrassing e-mail systems...",
+        "I tell people, \"The reply function doesn't work.",
+        "You have to type in my address.\"",
+        "Loser."
+      ]
+    }
+  ]
+}

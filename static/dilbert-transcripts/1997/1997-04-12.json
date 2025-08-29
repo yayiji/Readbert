@@ -1,0 +1,27 @@
+{
+  "date": "1997-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I don't mean to be critical about the department phone list you put together..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it's traditional to list people alphabetically, not sorted by phone number."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because what possible use...?",
+        "Incoming call from...",
+        "Let's see...",
+        "It's Wally... I can ignore it.",
+        "Ring"
+      ]
+    }
+  ]
+}

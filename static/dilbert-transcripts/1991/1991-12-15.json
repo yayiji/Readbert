@@ -1,0 +1,47 @@
+{
+  "date": "1991-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to dust."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zip"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm starting to think there's a trick to this."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Did your mother teach you to dust that way?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We didn't call her the \"Grey Fox\" because of her clever brownie recipe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "1990-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is so nice...",
+        "Just a man and",
+        "his mutt out for",
+        "a walk.",
+        "\"Mutt\"?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think of it more as a",
+        "\"canine and a clod\" or",
+        "a \"dog and a dummy\"...",
+        "Maybe a \"pooch and a",
+        "pinhead\" or a \"bowser",
+        "and a blockhead.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think that's",
+        "enough.",
+        "A \"hound and",
+        "a hiney.\""
+      ]
+    }
+  ]
+}

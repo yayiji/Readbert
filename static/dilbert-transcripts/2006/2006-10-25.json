@@ -1,0 +1,25 @@
+{
+  "date": "2006-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you did the work of three people this year and earned the highest raise in the department!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "3%",
+        "Foom!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What made you all cumulo-nimbus?",
+        "3%"
+      ]
+    }
+  ]
+}

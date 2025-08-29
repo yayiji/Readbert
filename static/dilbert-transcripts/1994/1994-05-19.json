@@ -1,0 +1,26 @@
+{
+  "date": "1994-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your department has a reputation for being difficult to work with.",
+        "But I know we can cooperate to make my project a success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd love to help but my head is full of birdseed and my pants are glued to this chair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll talk to your boss.",
+        "Good luck.",
+        "He's a soap carving."
+      ]
+    }
+  ]
+}

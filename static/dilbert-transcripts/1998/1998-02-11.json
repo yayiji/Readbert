@@ -1,0 +1,27 @@
+{
+  "date": "1998-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any \"silly putty\" I can use as a fake beauty mark?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you should use less.",
+        "There's no such thing as too much beauty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Meanwhile, at fashion headquarters...",
+        "We got away with \"heroin chic.\"",
+        "What's next?",
+        "How about dogs with tumors?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey! That little stuffed doll looks just like me!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It gives me an emotional lift to have your likeness nearby."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I never realized what he thought of me.",
+        "Stop dropping in like that!!",
+        "Whack!"
+      ]
+    }
+  ]
+}

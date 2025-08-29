@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think, therefore I am."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'm micromanaged, therefore I am not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a philosophical question for you.",
+        "You're not me, therefore you're irrelevant."
+      ]
+    }
+  ]
+}

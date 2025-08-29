@@ -1,0 +1,25 @@
+{
+  "date": "2005-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to test my market value by doing some interviews."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you like some interview tips?",
+        "Nah. I'll use my instincts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're an hour late!",
+        "Your men's room is like a palace."
+      ]
+    }
+  ]
+}

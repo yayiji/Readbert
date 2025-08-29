@@ -1,0 +1,24 @@
+{
+  "date": "1995-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just as I thought, my cubicle is two inches smaller today than yesterday!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We installed real-time status adjusters in the cubicle walls.",
+        "Sensors monitor your work and adjust the cubicle size according to your value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's amazing how fast you get used to it."
+      ]
+    }
+  ]
+}

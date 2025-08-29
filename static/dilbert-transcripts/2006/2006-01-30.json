@@ -1,0 +1,25 @@
+{
+  "date": "2006-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What does MFU2 mean on your timeline?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's management foul-up number two.",
+        "It usually happens around the third week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't anticipate any management mistakes.",
+        "That's MFU1."
+      ]
+    }
+  ]
+}

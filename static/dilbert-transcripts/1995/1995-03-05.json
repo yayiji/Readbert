@@ -1,0 +1,58 @@
+{
+  "date": "1995-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going downtown to play \"Security Guards in Space.\"",
+        "I don't want to know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's try that building."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need to see your I.D. badge, sir."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Look fast!! There it is!! Not a pack of matches!!",
+        "Okay",
+        "Zip!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll have to search your lunch box."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's just a bunch of wires and gizmos.",
+        "You're making me so hungry."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Could you watch my lunch while I take the cart back to my car?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I feel bad, but it's the only way to test if space travel is safe for us animals.",
+        "I feel safer already."
+      ]
+    }
+  ]
+}

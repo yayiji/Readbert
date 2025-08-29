@@ -1,0 +1,24 @@
+{
+  "date": "2007-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Donate to my campaign, and I'll let you drill for oil in my opponent's lawn."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I'll appoint you to run the Bureau of Alcohol, Tobacco and Firearms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that as fun as it sounds?",
+        "Not for your neighbors."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1993-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are the Dogbert tax forms. Pay promptly or you will be penalized.",
+        "It's not fair!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't just levy your own taxes; what makes you think I'll pay?",
+        "If not, I'll put you in my new prison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean, you built a prison with the taxes you've already collected?",
+        "I think of it as \"infrastructure.\""
+      ]
+    }
+  ]
+}

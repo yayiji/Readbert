@@ -1,0 +1,26 @@
+{
+  "date": "1990-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ugh... what time is it? Where am I? Who am I?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Must be morning...",
+        "Is this a work day?",
+        "Do I have a job?...",
+        "Is it worth getting up for?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Morning amnesia\": nature's way of keeping you from waking up screaming."
+      ]
+    }
+  ]
+}

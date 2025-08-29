@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My patent for no-click shopping was granted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sure some whiners will say it's an obvious idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd better click something or I have to ship you some books."
+      ]
+    }
+  ]
+}

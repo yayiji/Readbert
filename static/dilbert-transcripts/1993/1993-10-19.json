@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, it has come to my attention that you are spending time with your family at night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's time that could be used productively to do work for no extra pay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a family?",
+        "Hmm... that would explain the people in my house..."
+      ]
+    }
+  ]
+}

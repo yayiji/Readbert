@@ -1,0 +1,25 @@
+{
+  "date": "2001-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cloning the boss",
+        "There's a problem with your clone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally spilled soda on the DNA module.",
+        "Your clone is one-half horse posterior."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And one-half that isn't like you."
+      ]
+    }
+  ]
+}

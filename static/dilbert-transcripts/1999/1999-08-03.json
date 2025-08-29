@@ -1,0 +1,25 @@
+{
+  "date": "1999-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Finally!",
+        "I've been in the tech support queue for an hour!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Loser."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I speak to your superior?",
+        "There's some religious debate on that question."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice is sitting in for the boss!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Productivity at last!!!",
+        "Efficiency!",
+        "Yes!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As long as she doesn't get an attitude..."
+      ]
+    }
+  ]
+}

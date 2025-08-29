@@ -1,0 +1,24 @@
+{
+  "date": "2007-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our next project is building a private shuttle to the moon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now if you make any mistakes, innocent tourists will perish in the vacuum of space."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need to work on our rationalizations.",
+        "Is anyone really \"innocent\"?"
+      ]
+    }
+  ]
+}

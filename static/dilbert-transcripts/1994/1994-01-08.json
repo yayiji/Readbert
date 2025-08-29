@@ -1,0 +1,24 @@
+{
+  "date": "1994-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Boom!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Crash!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hear your company is trimming travel budgets.",
+        "Can anyone lend me bus fare to get home?"
+      ]
+    }
+  ]
+}

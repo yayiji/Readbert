@@ -1,0 +1,25 @@
+{
+  "date": "2000-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would it be okay if I worked part time?",
+        "That depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you be willing to come in on your days off to finish urgent projects?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, basically you negotiated a fifty percent pay cut?"
+      ]
+    }
+  ]
+}

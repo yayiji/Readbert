@@ -1,0 +1,24 @@
+{
+  "date": "1997-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've identified the people who will create the system to develop a product process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While we were doing that, our competitor created a new internet product that added a billion dollars to their stock value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Experts attribute the company's success to their \"employee of the week\" program.",
+        "Quick! Hire those experts!"
+      ]
+    }
+  ]
+}

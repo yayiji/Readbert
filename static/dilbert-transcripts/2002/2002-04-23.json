@@ -1,0 +1,26 @@
+{
+  "date": "2002-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's critical that you finish this engineering analysis by Tuesday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aahh... it has the sweet smell of an unnecessary assignment.",
+        "Yes, I can smell it from here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop being you.",
+        "Feasibility of using non-existent software.",
+        "Hee hee!"
+      ]
+    }
+  ]
+}

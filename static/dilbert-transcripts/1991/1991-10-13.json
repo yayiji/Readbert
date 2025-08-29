@@ -1,0 +1,60 @@
+{
+  "date": "1991-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are kids so dumb?",
+        "Have the schools failed?",
+        "Let's talk to a typical youth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who was the sixth president of the United States?",
+        "Who cares?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How will he ever get a job without this basic knowledge?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What is the deepest lake in North America?",
+        "Who cares?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Pitiful...",
+        "Shocking..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't know, but it's not important. It's trivia."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, I see. What you know is important, but what I know is trivia. Yes, yes, it all makes sense now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Who is M.C. Hammer?",
+        "Is that sarcasm?",
+        "D-uhh."
+      ]
+    }
+  ]
+}

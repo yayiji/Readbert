@@ -1,0 +1,29 @@
+{
+  "date": "1990-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Goodbye, Dogbert.",
+        "I must return to the lab with the professor.",
+        "Sniff",
+        "That's stupid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He says he loves me.",
+        "That must be why he fed me so much.",
+        "You're getting stupider."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have to follow my heart.",
+        "Hmm... love causes stupidity in lab rats."
+      ]
+    }
+  ]
+}

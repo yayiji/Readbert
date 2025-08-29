@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This item will require your usual executive-style decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know: keep it on your desk for three weeks, then sneak it back to my cubicle with an illegible question scrawled in the margin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or, for your convenience, I have made no copies; so you can lose the original and claim you gave it back to me.",
+        "Hmm"
+      ]
+    }
+  ]
+}

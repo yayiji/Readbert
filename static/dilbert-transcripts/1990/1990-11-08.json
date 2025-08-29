@@ -1,0 +1,27 @@
+{
+  "date": "1990-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe Dilbert can explain to the marketing people how the system works.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... so the electrons alter the data bits...",
+        "And then they go to the virtual array where they conflugalize.",
+        "Got it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many of those words did you just make up?",
+        "They're on to me."
+      ]
+    }
+  ]
+}

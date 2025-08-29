@@ -1,0 +1,24 @@
+{
+  "date": "2002-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, according to this book, people can choose their attitudes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you decided to go with a dopey and gullible theme?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that's another interesting choice.",
+        "Now I see how this works."
+      ]
+    }
+  ]
+}

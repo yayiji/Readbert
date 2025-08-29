@@ -1,0 +1,24 @@
+{
+  "date": "1990-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Has the jury reached a verdict?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, your honor. We find the defense attorney poorly dressed and obnoxious. We sentence him to death."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think you can do that.",
+        "Furthermore, we find that your honor looks fetching in a black muumuu."
+      ]
+    }
+  ]
+}

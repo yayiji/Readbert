@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who would win if a giant moth fought a giant but modest bee in an all-wool jumpsuit?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait... who's wearing the jumpsuit -- the giant moth or the giant bee?",
+        "The bee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this just hypothetical?"
+      ]
+    }
+  ]
+}

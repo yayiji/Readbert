@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, I'm going back into the consulting business and I need you to be my engagement manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll seem very smart if you randomly combine the words on this list and make many references to \"Wal-Mart.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's like \"Wal-Mart.\"",
+        "Migrate your value into the white spaces of the ecosystem.",
+        "Wow! That's one smart rat!"
+      ]
+    }
+  ]
+}

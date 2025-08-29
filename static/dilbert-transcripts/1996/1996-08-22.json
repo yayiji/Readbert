@@ -1,0 +1,34 @@
+{
+  "date": "1996-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am only a lowly intern, but I see an obvious solution to your problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just click here...",
+        "clear your buffers",
+        "and initialize",
+        "the link... now use",
+        "this code patch for",
+        "the memory leak."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is funny if",
+        "you consider that",
+        "your salary is",
+        "twice as much",
+        "as mine.",
+        "I'm laughing",
+        "on the inside."
+      ]
+    }
+  ]
+}

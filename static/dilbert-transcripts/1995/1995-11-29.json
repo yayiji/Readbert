@@ -1,0 +1,29 @@
+{
+  "date": "1995-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, did you hear that Dilbert's network connection isn't working?",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He is what we call a technology \"have not.\"",
+        "His competitiveness in the global economy will last as long as this french fry.",
+        "So sad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "After lunch, I'm going to use something called \"electronic mail.\"",
+        "You can watch if you promise not to touch anything.",
+        "Snork!",
+        "Gulp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1991-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When's the baby due?",
+        "Any minute now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This company has no maternity leave policy, so I'm going to deliver by the Xerox machine and keep working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't seem fair.",
+        "Yeah, especially if you need to make copies."
+      ]
+    }
+  ]
+}

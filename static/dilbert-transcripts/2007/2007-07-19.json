@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Employee orientation",
+        "This job will leave you with no time for exercise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will work long hours and consume trans fats until you are shaped like this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On a positive note, our payroll deduction service allows you to save money for dirt to turn your cubicle into a burial site."
+      ]
+    }
+  ]
+}

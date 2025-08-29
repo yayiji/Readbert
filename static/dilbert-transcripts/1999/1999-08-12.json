@@ -1,0 +1,24 @@
+{
+  "date": "1999-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to capture the queen bee of marketing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No matter what she says, don't be seduced by her marketing buzz."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A man with a rope is here to see you.",
+        "I wasn't loyal enough to stop him."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2005-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I hear that your project is stressful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes it helps if you ask yourself: What's the worst thing that could happen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd the pep talk go?"
+      ]
+    }
+  ]
+}

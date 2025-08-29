@@ -1,0 +1,58 @@
+{
+  "date": "1995-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My laptop PC keeps freezing up.",
+        "Come take a look at it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm telecommuting, Dogbert.",
+        "I can't be distracted by home projects."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't come another step closer.",
+        "This is my virtual cubicle, within which I can not be disturbed."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "These invisible walls form a cone of productivity around me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Within this zone I am a dedicated employee, totally focused on the corporate vision."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Nothing can distract me from my firm commitment to the work-at-home principle."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine.",
+        "I think I'll set the couch on fire."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Another victory for the distractor!",
+        "I swear, someday principle will win!"
+      ]
+    }
+  ]
+}

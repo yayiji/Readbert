@@ -1,0 +1,36 @@
+{
+  "date": "1997-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've asked Bob the dinosaur to call your CEO and give him a telewedgie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will that stop him from relocating the company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Now hold the phone behind you at belt level."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Stranger things have happened, albeit not often."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yank",
+        "Aaiee!!"
+      ]
+    }
+  ]
+}

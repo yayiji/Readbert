@@ -1,0 +1,24 @@
+{
+  "date": "2007-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You said to tell you if marketing wasn't cooperating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't come running to me with every little problem. Go fix it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why did you tell me to tell you?!",
+        "It's just something I say."
+      ]
+    }
+  ]
+}

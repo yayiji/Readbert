@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The toxic co-worker",
+        "You wouldn't believe what people are saying about you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried to defend you. I said you look slow only because you're bloated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But what ticks me off is that everyone in the department earns more than you do."
+      ]
+    }
+  ]
+}

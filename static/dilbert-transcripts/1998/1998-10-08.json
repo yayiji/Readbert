@@ -1,0 +1,24 @@
+{
+  "date": "1998-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's not my policy to fire morons, Donald. Firing is expensive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's my policy to make your job so unpleasant that you quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, your project involves being bitten by coyotes?",
+        "Only two more years and I'm vested."
+      ]
+    }
+  ]
+}

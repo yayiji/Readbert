@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Consultick",
+        "He'll do more than give us bad advice..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll also make sure we can't implement it without him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha! Now he's burrowing into my torso, and I've convinced myself it's okay."
+      ]
+    }
+  ]
+}

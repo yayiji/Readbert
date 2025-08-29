@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to try something called agile programming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means no more planning and no more documentation. Just start writing code and complaining."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm glad it has a name.",
+        "That was your training."
+      ]
+    }
+  ]
+}

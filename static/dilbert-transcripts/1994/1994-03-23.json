@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lisa, I was wondering if you'd like to go out to dinner Saturday night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... I have to wash my hair Saturday.",
+        "How about having coffee here at work instead?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll pass.",
+        "I was hoping for someone with clean hair."
+      ]
+    }
+  ]
+}

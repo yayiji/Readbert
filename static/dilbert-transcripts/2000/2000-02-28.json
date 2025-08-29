@@ -1,0 +1,25 @@
+{
+  "date": "2000-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't meet next Tuesday because that's a B.V. day.",
+        "B.V.?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Boss vacation.",
+        "I don't need to pretend I'm working that day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And on Wednesday I'll be walking around all day with a binder."
+      ]
+    }
+  ]
+}

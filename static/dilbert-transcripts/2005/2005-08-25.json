@@ -1,0 +1,24 @@
+{
+  "date": "2005-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project was moving along well until management changed our coding language and methodology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now our timeline is represented by this M.C. Escher print of an endless stairway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This deep-sea submarine is looking for our morale.",
+        "Would this be a bad time to add a few features?"
+      ]
+    }
+  ]
+}

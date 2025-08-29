@@ -1,0 +1,24 @@
+{
+  "date": "1991-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, we're with the \"Women's Power Organization.\" Do you have a moment?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whump"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many are left?",
+        "Two billion."
+      ]
+    }
+  ]
+}

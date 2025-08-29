@@ -1,0 +1,30 @@
+{
+  "date": "1997-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wish me luck."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going to find people who laugh nervously every time they talk. Then I'll smack them with my flyswatter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And the reason would be?",
+        "It wouldn't be a hobby if it had a reason."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ahem. I think I'll call my stock broker. I'm an investor, you know.",
+        "Ooh. I'm impressed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? No profits yet?",
+        "I'll call back in an hour."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if this is a bad time to be in chocolate coins."
+      ]
+    }
+  ]
+}

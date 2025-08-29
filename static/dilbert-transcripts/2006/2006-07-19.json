@@ -1,0 +1,24 @@
+{
+  "date": "2006-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What type of meeting decision-making style will we be using today?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will it be authoritative, consultative, voting or consensus?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shut your coffee hole.",
+        "Well played."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a bad case of ergophobia.",
+        "It's an abnormal and persistent fear of work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't everything about you a little abnormal and persistent?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah, but I'm still delighted when I discover new words for me."
+      ]
+    }
+  ]
+}

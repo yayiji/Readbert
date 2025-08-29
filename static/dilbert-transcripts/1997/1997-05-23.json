@@ -1,0 +1,23 @@
+{
+  "date": "1997-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wrote this labor-saving software.",
+        "Watch it do its thing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can you tell if it's working?",
+        "You don't see any labor happening around here, do you?"
+      ]
+    }
+  ]
+}

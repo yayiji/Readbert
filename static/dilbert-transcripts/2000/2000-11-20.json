@@ -1,0 +1,25 @@
+{
+  "date": "2000-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All music on the internet should be free.",
+        "Artists could make money from digital tips."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great idea.",
+        "We'll do the same thing here with the engineers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you ever noticed that my ideas are only brilliant when applied to other people?"
+      ]
+    }
+  ]
+}

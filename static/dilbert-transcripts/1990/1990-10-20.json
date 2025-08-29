@@ -1,0 +1,24 @@
+{
+  "date": "1990-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, let's say that, hypothetically, my client did kill those people..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Chances are that it was nobody you know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the next time you're standing in a long line, ask yourself:",
+        "\"Am I better off now that there are less people?\""
+      ]
+    }
+  ]
+}

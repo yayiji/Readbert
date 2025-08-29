@@ -1,0 +1,26 @@
+{
+  "date": "1995-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Saint Dogbert enters the land of cubicles searching for the demons of stupidity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Suddenly he finds an over-promoted computer guru spouting useless database concepts.",
+        "You'd be fools to ignore the Boolean anti-binary least-square approach."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The monster is dispatched to the dark world by the sight of its most feared object.",
+        "Look! Actual code!",
+        "Cool!"
+      ]
+    }
+  ]
+}

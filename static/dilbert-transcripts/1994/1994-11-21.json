@@ -1,0 +1,25 @@
+{
+  "date": "1994-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "A good way to judge corporate health is to look at your employee turnover rate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our turnover rate is very low. We only hire people who aren't skilled enough to work anyplace else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe metrics aren't the way to go here.",
+        "No metric has beaten me yet!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Project meeting",
+        "I'll have to cut a few corners because of your bungling of the budget process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we skip design, prototype, testing and manufacturing, we can afford the product recall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll save on shipping, too.",
+        "Is bungle the same as juggle?"
+      ]
+    }
+  ]
+}

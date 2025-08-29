@@ -1,0 +1,27 @@
+{
+  "date": "1996-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look at the agreement my company is forcing us to sign.",
+        "They claim the rights to any idea an employee ever has."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem.",
+        "Just retype it with a few strategic omissions and sign it.",
+        "They can't proofread every one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that be dishonest?",
+        "Maybe you could just show them some of your ideas and they'd grant a waiver."
+      ]
+    }
+  ]
+}

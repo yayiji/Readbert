@@ -1,0 +1,24 @@
+{
+  "date": "1992-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're alive... we must have been thrown clear when the jet hit the mountain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Captain Bob. Sorry about the crash. What are the odds I'd hit this same mountain on every flight?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're in luck. Captain Bob knows how to survive these situations.",
+        "Nice folks. I'll eat them last."
+      ]
+    }
+  ]
+}

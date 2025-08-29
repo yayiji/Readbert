@@ -1,0 +1,24 @@
+{
+  "date": "2002-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't give performance reviews on time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait until an employee screws up something big, then pounce!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...I forgot to unplug the demo unit and it burned down our customer's headquarters.",
+        "Do you have a minute?"
+      ]
+    }
+  ]
+}

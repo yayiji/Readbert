@@ -1,0 +1,25 @@
+{
+  "date": "1994-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Excuse me... I'm only an intern, but may I make a suggestion?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's form multidisciplinary task forces to reengineer our core processes until we're a world class organization!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds good.",
+        "Go do it.",
+        "I'm more of an idea rat."
+      ]
+    }
+  ]
+}

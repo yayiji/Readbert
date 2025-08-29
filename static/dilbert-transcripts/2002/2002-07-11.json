@@ -1,0 +1,25 @@
+{
+  "date": "2002-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you like sitting in for the boss?",
+        "It's easy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I do is walk around and make people loathe me while I avoid making decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's all you ever did before.",
+        "Apparently I was grossly underpaid."
+      ]
+    }
+  ]
+}

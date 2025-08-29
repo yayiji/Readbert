@@ -1,0 +1,26 @@
+{
+  "date": "2007-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm always wrong about everything.",
+        "What can I do to fix that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend shopping.",
+        "The customer is always right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shopping makes me smart?!!",
+        "You aren't shopping yet."
+      ]
+    }
+  ]
+}

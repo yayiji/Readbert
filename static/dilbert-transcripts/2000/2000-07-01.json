@@ -1,0 +1,27 @@
+{
+  "date": "2000-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need an alibi."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The police will try to beat the truth out of you, but don't let them break you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also need lye...",
+        "and a barrel...",
+        "Better yet,",
+        "make that",
+        "two barrels."
+      ]
+    }
+  ]
+}

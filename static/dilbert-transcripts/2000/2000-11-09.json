@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm learning to golf."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I won't be excluded from all the male-dominated golf events."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you been dominating golf events?",
+        "Sometimes I can make them miss putts on TV."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2007-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked disgruntled Doug to work on our pricing model."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The fate of the entire company rests in his tiny hands."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That reminds me: I gave your cubicle to an intern."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But don't worry. I have another workspace for you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can use this little cardboard box that the laser printer came in."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's only temporary."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Until we can find you a larger cardboard box."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I have an urge to underesti-mate costs."
+      ]
+    }
+  ]
+}

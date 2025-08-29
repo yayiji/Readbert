@@ -1,0 +1,23 @@
+{
+  "date": "1999-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just got this resume from a headhunter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Evaluate her engineering skills and let me know if I should interview her."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, Alice, you're almost qualified to work here, but I'm concerned about your loyalty."
+      ]
+    }
+  ]
+}

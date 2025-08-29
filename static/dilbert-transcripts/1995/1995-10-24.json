@@ -1,0 +1,23 @@
+{
+  "date": "1995-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, about this flight to New York that you booked for me..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it really necessary to make all these stopovers in third-world countries that are experiencing rebel insurrections?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd better wear the international symbol of the \"Red Cross\" on your back."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2000-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who wants to share knowledge with me via our new intranet collaboration software?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't have any knowledge to share.",
+        "Ouch.",
+        "It hurts because it's true."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm hoarding my knowledge in case I ever need it."
+      ]
+    }
+  ]
+}

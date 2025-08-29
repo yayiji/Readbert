@@ -1,0 +1,24 @@
+{
+  "date": "1999-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In this week's \"Wally report,\" I've decided to let my hair grow long in the back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eventually, I'll put it in a ponytail to show I have an artistic side."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your artistic side?",
+        "I collect coffee mugs."
+      ]
+    }
+  ]
+}

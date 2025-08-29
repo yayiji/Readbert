@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would the world be any worse off if I'd never been born?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait... if not for me, who would turn off this computer every night. I'm saving electricity!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I found meaning in my life today.",
+        "You left your bedroom light on all day."
+      ]
+    }
+  ]
+}

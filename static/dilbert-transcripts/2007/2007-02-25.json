@@ -1,0 +1,56 @@
+{
+  "date": "2007-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll be in charge of this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's my budget?",
+        "I'll need to approve all expenses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who will report to me?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your team will report to me and I'll tell them what to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll start on the project plan."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Skip that part.",
+        "I already have a plan in my head."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hypothetically, who would take the blame if this project failed?",
+        "Well, you're in charge..."
+      ]
+    }
+  ]
+}

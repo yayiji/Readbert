@@ -1,0 +1,65 @@
+{
+  "date": "2005-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, come to my office for a minute."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's in your office?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You and I will be there."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you just want to talk, we can do it right here and save us both some time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe we need privacy. Did you ever think of that?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do we need it?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No. That was just an example. There are many, many reasons why we should talk in my office."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll be fascinated to find out what kind of information is geographically dependent."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Now, do you have the results from the benchmark tests?"
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Yup. In my cubicle."
+      ]
+    }
+  ]
+}

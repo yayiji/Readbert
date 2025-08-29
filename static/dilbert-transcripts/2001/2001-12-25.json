@@ -1,0 +1,24 @@
+{
+  "date": "2001-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dude, why haven't you answered my e-mail?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your message was so poorly written that I didn't understand it and I didn't dare to start a dialogue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should have a talk with your boss.",
+        "Maybe you should e-mail him."
+      ]
+    }
+  ]
+}

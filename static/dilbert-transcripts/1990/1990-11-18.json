@@ -1,0 +1,54 @@
+{
+  "date": "1990-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What idiot invented the canister vacuum cleaner?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can only do about a foot at a time..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I have to push this thing another foot."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Notice the tiny wheels which are designed to roll on any surface except carpet."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now I can't reach the outlet."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then I get hopelessly tangled in the cord and hose."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hi, Dogbert. Did I ever tell you that my grandfather invented the canister vacuum cleaner?",
+        "Come closer."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's probably why I never mentioned it."
+      ]
+    }
+  ]
+}

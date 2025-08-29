@@ -1,0 +1,24 @@
+{
+  "date": "2001-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management training",
+        "What would you do if you made a huge, incredibly stupid mistake?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would try to learn from it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you learn anything from your answer?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yeah... I had a temperature of 147 degrees and they had to remove my internal organs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, that's nothing compared to my bout with bubonic plague last week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I ever tell you about the time I repaired my own lawn mower?",
+        "Not again."
+      ]
+    }
+  ]
+}

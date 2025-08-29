@@ -1,0 +1,54 @@
+{
+  "date": "1995-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a few changes to the design."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll have to work around the clock for months to make these changes!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Work smarter, not harder."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're trying to violate the laws of physics!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Rules were made to be broken."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This design would create enough radiation to instantly kill the user!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Be sure to mention that in the documentation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's work smarter not harder.",
+        "I think we found the only \"beta\" tester we'll need."
+      ]
+    }
+  ]
+}

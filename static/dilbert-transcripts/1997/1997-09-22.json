@@ -1,0 +1,25 @@
+{
+  "date": "1997-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look at the \"Rolex\" watch I got from a vendor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you know there's a corporate limit of fifty dollars for vendor gifts?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you know that's a maximum.",
+        "Ooh. Maybe that's why he whined when I took it off his arm."
+      ]
+    }
+  ]
+}

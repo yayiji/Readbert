@@ -1,0 +1,26 @@
+{
+  "date": "2002-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, your performance is excellent but I have to downsize you.",
+        "Why?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our billing system is so defective that we haven't made any revenue in three months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't you fire the billing department?",
+        "I did...",
+        "Three months ago."
+      ]
+    }
+  ]
+}

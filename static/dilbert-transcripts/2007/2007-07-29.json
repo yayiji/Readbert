@@ -1,0 +1,55 @@
+{
+  "date": "2007-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What would your system cost?",
+        "We can deliver in two weeks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But what would it cost?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A lot of vendors deliver in four weeks, but we can do it in two."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm asking about price, not delivery schedules."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do you want it shipped by ground or air? Air is even faster."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What does it cost?",
+        "Ground costs less than air."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! What does the system cost?!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "For ground?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2006-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't worry, Alice.",
+        "Stinky Pete is here to work closely with you on that technical problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to begin by releasing all of my negative energy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Brraaap!",
+        "Aaeeii!!"
+      ]
+    }
+  ]
+}

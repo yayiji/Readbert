@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management training",
+        "You twist the ears to unlock the skull."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Find the moral compass and deactivate it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The result is something called leadership.",
+        "You're working weekends!"
+      ]
+    }
+  ]
+}

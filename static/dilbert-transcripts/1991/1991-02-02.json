@@ -1,0 +1,27 @@
+{
+  "date": "1991-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, what's the congress?",
+        "They make laws, Rex."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then what does the president do?",
+        "He vetos the laws.",
+        "It's called balance of power."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess they don't get paid much for doing that.",
+        "Here's the confusing part..."
+      ]
+    }
+  ]
+}

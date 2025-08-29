@@ -1,0 +1,25 @@
+{
+  "date": "2000-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need \"Dogbert's dysfunctional employee recruitment services.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only recruit employees who were raised in dysfunctional families.",
+        "They don't mind being mistreated!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How soon can you get me some?",
+        "I have a dozen in the trunk of my car."
+      ]
+    }
+  ]
+}

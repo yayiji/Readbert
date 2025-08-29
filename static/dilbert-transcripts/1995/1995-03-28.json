@@ -1,0 +1,27 @@
+{
+  "date": "1995-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In this country we have a custom when men ask women to fetch coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stand up...",
+        "That's it...",
+        "Now this will really surprise you.",
+        "Oh god"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never seen anybody get kicked into his hat before.",
+        "That's gotta hurt."
+      ]
+    }
+  ]
+}

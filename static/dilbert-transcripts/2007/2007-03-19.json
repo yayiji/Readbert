@@ -1,0 +1,24 @@
+{
+  "date": "2007-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you know that loneliness can't be cured by listening to others?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can only feel alive and whole when others are listening to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you think of that?",
+        "Think of what?"
+      ]
+    }
+  ]
+}

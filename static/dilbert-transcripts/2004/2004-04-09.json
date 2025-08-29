@@ -1,0 +1,23 @@
+{
+  "date": "2004-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our accounting system is so inaccurate that we don't know how profitable anything is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's so bad that you could manage randomly and claim success no matter what happens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was looking for funding, not a hug."
+      ]
+    }
+  ]
+}

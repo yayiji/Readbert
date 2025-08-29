@@ -1,0 +1,28 @@
+{
+  "date": "1994-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "He's explaining something that I already understand.",
+        "I've got to stop him.",
+        "Blah blah blah"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll try vigorous nodding and agreeing, plus closed body language.",
+        "Blah blah blah",
+        "Right right right"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And have I ever told you how \"Velcro\" works?",
+        "Maybe if I block the oxygen to my brain..."
+      ]
+    }
+  ]
+}

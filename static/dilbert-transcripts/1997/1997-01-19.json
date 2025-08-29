@@ -1,0 +1,57 @@
+{
+  "date": "1997-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh, it's Phil. I never returned his call.",
+        "Walk faster."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh, it's an unpleasant co-worker who wants to be my friend."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The crafty engineer blends with the herd to avoid detection."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Uh-oh, I owe Alice some information.",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hello",
+        "Yes!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There's only one more obstacle between me and blissful productivity."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Aagh!!! My whole day is ruined!!!",
+        "It looks like you need a one-on-one coaching session."
+      ]
+    }
+  ]
+}

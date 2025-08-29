@@ -1,0 +1,26 @@
+{
+  "date": "2000-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I chatter nonstop about people you don't know?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I gawk at every woman who walks by?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In fact, I would appreciate it if you displayed no male traits whatsoever.",
+        "Can do."
+      ]
+    }
+  ]
+}

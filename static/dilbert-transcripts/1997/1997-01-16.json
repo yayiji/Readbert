@@ -1,0 +1,28 @@
+{
+  "date": "1997-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have been chosen as Bill Gates' towel boy.",
+        "But first you must answer this quiz."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're in a room with three monkeys.",
+        "One has a banana, one has a stick, one has nothing.",
+        "Which primate is the smartest?",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess the successful towel boys know that humans are primates too.",
+        "Stupid trick question."
+      ]
+    }
+  ]
+}

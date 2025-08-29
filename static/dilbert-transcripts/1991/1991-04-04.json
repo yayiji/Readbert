@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Androids want to be like humans.",
+        "Tell me what humans do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mostly, they eat, sleep, and hope they don't die.",
+        "That's it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless they find religion... then they eat, sleep, and look forward to dying."
+      ]
+    }
+  ]
+}

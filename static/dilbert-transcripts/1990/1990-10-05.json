@@ -1,0 +1,26 @@
+{
+  "date": "1990-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert and the garbage man try to clone Dilbert back to life.",
+        "Phzup!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaagh!",
+        "Run for your life!!",
+        "It's a hideous, disgusting creature!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you care for a little \"arm and hammer\"?"
+      ]
+    }
+  ]
+}

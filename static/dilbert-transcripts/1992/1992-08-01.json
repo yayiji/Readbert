@@ -1,0 +1,25 @@
+{
+  "date": "1992-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought I was happy..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I thought what if I only think I'm happy but I'm not.",
+        "Maybe I've been hypnotized and don't even know it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Worrying about it made me unhappy, which means I must not be under hypnosis, so I'm happy.",
+        "Maybe I only think you're talking but really I'm happy."
+      ]
+    }
+  ]
+}

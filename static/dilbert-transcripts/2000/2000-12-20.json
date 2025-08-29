@@ -1,0 +1,23 @@
+{
+  "date": "2000-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There will be no more casual dress days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We believe that employees work harder when they are wearing uncomfortable clothes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel all motivated but I can't lift my arms."
+      ]
+    }
+  ]
+}

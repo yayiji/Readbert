@@ -1,0 +1,55 @@
+{
+  "date": "1999-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, this is Peggy the P.R. director."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to review her press release for technical accuracy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who wrote this?",
+        "A trained squirrel?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't know where to begin."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll cross out the run-on sentences and transparent lies first."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then the failed attempts at cuteness... the spelling errors... grammar."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There you go.",
+        "Remember, criticism makes you stronger."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It was a mistake to make her stronger."
+      ]
+    }
+  ]
+}

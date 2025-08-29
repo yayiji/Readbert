@@ -1,0 +1,28 @@
+{
+  "date": "2007-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone left a dead horse in the hall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am going to punch that dead horse until it gallops away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You were right. But where did you find a dead horse?",
+        "Punch",
+        "Punch",
+        "Punch",
+        "Punch",
+        "There's a store for everything."
+      ]
+    }
+  ]
+}

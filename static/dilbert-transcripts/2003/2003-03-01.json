@@ -1,0 +1,24 @@
+{
+  "date": "2003-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We demand that you fire our toxic co-worker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You aren't talking about me, are you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, you're lazy and ineffectual with an overlay of selfish.",
+        "And I hate the toxic guy?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2001-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I just sent you an e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a copy of my message but I'll just tell you what it says."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It says I sent you a voice mail telling you to look for a fax that says I want to talk to you."
+      ]
+    }
+  ]
+}

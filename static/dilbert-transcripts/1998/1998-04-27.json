@@ -1,0 +1,24 @@
+{
+  "date": "1998-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "I can give you excellent advice for $50,000 per month..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If budget is a problem, I also offer bad advice for the low price of $45,000 per month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not a good sign."
+      ]
+    }
+  ]
+}

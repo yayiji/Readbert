@@ -1,0 +1,26 @@
+{
+  "date": "1993-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you notice anything different?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm wearing contact lenses.",
+        "Then why are you still wearing glasses?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're my emergency backup system.",
+        "Your pants are on backwards."
+      ]
+    }
+  ]
+}

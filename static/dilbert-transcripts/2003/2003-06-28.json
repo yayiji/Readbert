@@ -1,0 +1,25 @@
+{
+  "date": "2003-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company lost a frooglepoopillion dollars.",
+        "I'm embarrassed to tell people where I work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Never be afraid to tell the truth about yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because honesty is the best policy?",
+        "Because no one pays any attention to what you say."
+      ]
+    }
+  ]
+}

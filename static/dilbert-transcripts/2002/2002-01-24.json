@@ -1,0 +1,26 @@
+{
+  "date": "2002-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please, I beg you, transfer me back to engineering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll take a pay cut.",
+        "No, I'll work for free.",
+        "No, I'll pay you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I should make all of my engineers work in sales for a while.",
+        "You come back more appreciative."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I expect you to work all night to finish that project.",
+        "It's vital!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aagh!! I'm a victim of a random act of management!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was sure the arm-pumping would make it seem less random."
+      ]
+    }
+  ]
+}

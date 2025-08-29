@@ -1,0 +1,52 @@
+{
+  "date": "1992-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What happened?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing. I'm just practicing in case something good ever happens to me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll yell \"Yes!\" and pump my arms in a distinctive way."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now I'm working on incorporating this spinning motion."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It looks like you've got the \"distinctive\" part down.",
+        "Yes!"
+      ]
+    }
+  ]
+}

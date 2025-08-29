@@ -1,0 +1,25 @@
+{
+  "date": "1996-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today was a bad day.",
+        "First the vending machine stole my money..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...And by the end of the day I had been sentenced to death by the director of human resources..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've become totally desensitized to tragic news!",
+        "The execution is scheduled for tomorrow. I should call in sick."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1996-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm assigning each of you to a separate \"quality\" initiative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is there any risk this will devour our productive hours, lower our morale and have no impact on our profitability?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And we'll have a contest to come up with a name for the overall initiative.",
+        "How about \"Qualicide\"?"
+      ]
+    }
+  ]
+}

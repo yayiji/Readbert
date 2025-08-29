@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to segment the compensation of different classes of employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be in the segment that gets paid the same no matter what you do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I call your segment the \"relatively unimportant\" segment.",
+        "Catchy."
+      ]
+    }
+  ]
+}

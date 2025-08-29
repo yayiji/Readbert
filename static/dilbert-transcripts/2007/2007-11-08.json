@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a $1,600 handheld bar code scanner to finish my lab tests."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. Apply for a capital budget variance, prepare an RFP, get three bids, form a team to evaluate the bids, then prepare a purchase order."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never mind. I'll just learn how to read bar codes by sight.",
+        "Quitter."
+      ]
+    }
+  ]
+}

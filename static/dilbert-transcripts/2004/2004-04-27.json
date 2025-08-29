@@ -1,0 +1,28 @@
+{
+  "date": "2004-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are all the suggestions from the suggestion box."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give us more money.",
+        "Give us more money.",
+        "Give us more money.",
+        "Give us more money.",
+        "Hey, here's one with a little diagram."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The wavy lines mean it's hot there.",
+        "Is that why the pointy-haired guy is sad?"
+      ]
+    }
+  ]
+}

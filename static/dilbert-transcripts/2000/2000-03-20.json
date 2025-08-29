@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As requested, I came up with a plan for doing more work with fewer people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A future version of me will arrive via time machine to help on the project..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Unless you say something now that makes me unmotivated."
+      ]
+    }
+  ]
+}

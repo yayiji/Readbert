@@ -1,0 +1,56 @@
+{
+  "date": "1999-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I ask a quick question?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I doubt it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, sure, it'll start as an innocent, work-related question."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then you'll try to impress me with your knowledge of engineering..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...In the pathetic hope that I value intelligence over physical appearance."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, I don't!!",
+        "I only care about looks!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you drive a red BMW?",
+        "The lights are on."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And you still tried to ask her out?",
+        "She's hard to read."
+      ]
+    }
+  ]
+}

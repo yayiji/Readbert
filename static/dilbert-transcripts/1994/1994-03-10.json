@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has announced there will be no raises or promotions this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now, there's a mathematical certainty that no matter how hard you work, inflation will make you poorer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hated the old way, with all the uncertainty.",
+        "I'm not just a manager, I'm a leader!"
+      ]
+    }
+  ]
+}

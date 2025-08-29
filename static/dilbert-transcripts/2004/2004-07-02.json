@@ -1,0 +1,31 @@
+{
+  "date": "2004-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll arrange my papers to signal that I want this meeting to end.",
+        "Tap",
+        "Tap",
+        "Tap"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "C'mon, take a hint!",
+        "Tap",
+        "Tap",
+        "Tap",
+        "So, as I was saying..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The man would not take a hint.",
+        "I said it's all gone!"
+      ]
+    }
+  ]
+}

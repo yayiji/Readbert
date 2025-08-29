@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend our \"churn 'n' burn\" family of mutual funds."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll turn your worthless equity into valuable brokerage fees in just three days!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it risky?",
+        "Are you kidding?!",
+        "We have actual brochures!"
+      ]
+    }
+  ]
+}

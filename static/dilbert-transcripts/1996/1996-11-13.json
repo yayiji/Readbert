@@ -1,0 +1,26 @@
+{
+  "date": "1996-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We like to ask our applicants some questions that will allow us to see how you think."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you have a five-gallon bucket and a fifty-gallon bucket, how can you tell which one holds more water?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I said, \"See how you think,\" what I meant was...",
+        "Ow!",
+        "Ow!",
+        "Ow!"
+      ]
+    }
+  ]
+}

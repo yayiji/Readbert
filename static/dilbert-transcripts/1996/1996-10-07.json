@@ -1,0 +1,24 @@
+{
+  "date": "1996-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll head our technology alliance with a small Silicon Valley start-up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Their corporate culture is a bit different from ours. Try to be flexible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never seen a pierced brain before.",
+        "I think I'll call you \"Mister Conservative.\""
+      ]
+    }
+  ]
+}

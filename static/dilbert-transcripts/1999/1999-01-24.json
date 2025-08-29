@@ -1,0 +1,58 @@
+{
+  "date": "1999-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You spilled red wine on your shirt."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should dilute it with white wine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll thank me for this later."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think that helped.",
+        "You need salt to absorb it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Try my margarita."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Salt didn't work.",
+        "Let's try pepper spray.",
+        "Perhaps lighter fluid..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No harm in trying.",
+        "I have one more idea."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Just once, I'd like to go to a party and not be set on fire.",
+        "There's a stain on your rag."
+      ]
+    }
+  ]
+}

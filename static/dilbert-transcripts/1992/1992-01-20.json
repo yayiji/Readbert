@@ -1,0 +1,23 @@
+{
+  "date": "1992-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become an inside trader of stocks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Inside trading is illegal. Besides, where will you get your information?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shhh... I hear a board meeting starting in San Francisco."
+      ]
+    }
+  ]
+}

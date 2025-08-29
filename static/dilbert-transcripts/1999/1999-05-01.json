@@ -1,0 +1,22 @@
+{
+  "date": "1999-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used a hidden camera to capture the thief who's been raiding our cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The picture is grainy but I can almost make out a human form...",
+        "Or maybe a cat..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're creating a hostile work environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like there's continuous pressure on me to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I'm only one person; I can't work and drink coffee!",
+        "I'm cutting you back to forty cups a day."
+      ]
+    }
+  ]
+}

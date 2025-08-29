@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll take this one.",
+        "No, no, no. Huge mistake."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need the security and reliability of the XQ-7."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I'll take the XQ-7.",
+        "Shoot! I wish my company made that one."
+      ]
+    }
+  ]
+}

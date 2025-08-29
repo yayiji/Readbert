@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, Zimbu, you might have learned language skills at the zoo, but it takes more than that to be an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, Zimbu, let's hit the cafeteria for morning donuts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, after ten a.m. it takes more than language skills to be an engineer.",
+        "Not today-- we have a staff meeting."
+      ]
+    }
+  ]
+}

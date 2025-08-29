@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to try something called \"open book management.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll teach you to read the financial statements of this company. It's all very motivating."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And our CEO got paid more than the entire capital budget...",
+        "Is this what motivation feels like?"
+      ]
+    }
+  ]
+}

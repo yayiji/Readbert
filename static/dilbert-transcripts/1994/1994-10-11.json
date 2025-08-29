@@ -1,0 +1,25 @@
+{
+  "date": "1994-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing a book of my guesses about future trends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it gets published then my guesses will seem more valid than other people's.",
+        "I'll charge huge fees to share my \"vision\" with audiences."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would people pay huge fees for guesses?",
+        "Trend number one is that people aren't getting any smarter."
+      ]
+    }
+  ]
+}

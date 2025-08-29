@@ -1,0 +1,24 @@
+{
+  "date": "1998-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won the bid to create a digital archive of the world's greatest art."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This will give us a chance to fix any errors made by the artists.",
+        "Errors?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example, there was a guy who used too much blue for a whole period."
+      ]
+    }
+  ]
+}

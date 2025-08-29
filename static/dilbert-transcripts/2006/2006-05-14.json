@@ -1,0 +1,44 @@
+{
+  "date": "2006-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've had it with this place!. I quit!",
+        "No!!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can't finish the project on time if you leave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you a 20% raise if you stay.",
+        "Really?",
+        "Okay. I'll stay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Huh."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hey, everyone, disloyalty is being rewarded!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll probably get another raise for this."
+      ]
+    }
+  ]
+}

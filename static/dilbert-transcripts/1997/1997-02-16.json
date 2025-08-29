@@ -1,0 +1,59 @@
+{
+  "date": "1997-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Grumble",
+        "Leadership seminar",
+        "Grumble"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would you call a manager who motivates employees to work fourteen hours a day?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A filthy sadist.",
+        "Pointy-haired imbecile."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Umm... no...",
+        "That's not what I'm looking for."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I think he means what do we call him to his face."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Leader"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Right! And what do you call someone who can make unpopular decisions again and again?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hate training engineers.",
+        "A filthy sadist?",
+        "Wait, it might be another trick question."
+      ]
+    }
+  ]
+}

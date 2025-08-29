@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Give me one ticket for the slingshot flight to Elbonia's capital."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want first class or coach?",
+        "What's the difference?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With first class, we don't intentionally fling you toward something hard."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It has come to my attention that some of you believe there are hidden cameras in the ceiling."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How did that come to your attention?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, aren't you the one we call \"Mister Itchy\"?"
+      ]
+    }
+  ]
+}

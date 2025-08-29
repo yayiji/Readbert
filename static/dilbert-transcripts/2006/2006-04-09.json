@@ -1,0 +1,58 @@
+{
+  "date": "2006-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to accompany me on an important sales call.",
+        "Me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're my secret weapon!",
+        "Well, okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your name?",
+        "I'm Ed, from sales."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Only two companies make this type of product. The prices are identical."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The difference is that our engineering staff brings genius and innovation to everything it touches."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Whereas my competitor employs this loser."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Really? I wondered why you didn't look familiar.",
+        "Sold!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You helped make a sale?",
+        "Why does everyone act all surprised?"
+      ]
+    }
+  ]
+}

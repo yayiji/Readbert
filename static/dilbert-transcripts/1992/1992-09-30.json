@@ -1,0 +1,25 @@
+{
+  "date": "1992-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My guest for today's show is Dogbert, author of the one-page book \"Unmarried men are scum.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your theory is that all unmarried men should be jailed for life, thus ending most crime.",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if they try to beat the system by getting married?",
+        "Serves 'em right."
+      ]
+    }
+  ]
+}

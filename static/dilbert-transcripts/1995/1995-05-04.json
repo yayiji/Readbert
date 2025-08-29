@@ -1,0 +1,24 @@
+{
+  "date": "1995-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the Dogbert show.",
+        "Today I talk about getting government off our backs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I dream of a world where someday you can buy liquor, cigarettes and firearms at a drive-thru window and use them all before you get home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Basically, anything that gets rid of people is okay with me. But before you go, buy my new book..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1990-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Senator Newt Axxe's office",
+        "Mister Dogbert makes a strong argument for banning opera."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The polls show that almost nobody cares about this issue...",
+        "There's virtually no political risk in embracing it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I can keep getting elected?",
+        "Until they scrape your festering corpse out of that chair!"
+      ]
+    }
+  ]
+}

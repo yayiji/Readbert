@@ -1,0 +1,23 @@
+{
+  "date": "2004-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to negotiate the sale of our voice activated hassock business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not allowed to lie, but I expect plenty of omissions, misdirections, exaggerations..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Unjustified optimism, lost documents, unclear explanations, gray areas and tactical ignorance. Oh, and say that we have other offers."
+      ]
+    }
+  ]
+}

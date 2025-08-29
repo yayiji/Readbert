@@ -1,0 +1,26 @@
+{
+  "date": "2001-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you are the winner of a prestigious award for attendance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name is misspelled...",
+        "as an obscenity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Typo",
+        "Typo?",
+        "You added four letters!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1998-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did some financial modeling on my own."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you don't know any of the assumptions that went into the original spreadsheet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That didn't stop me from developing a strategy.",
+        "Our pay is based on the tax rate now."
+      ]
+    }
+  ]
+}

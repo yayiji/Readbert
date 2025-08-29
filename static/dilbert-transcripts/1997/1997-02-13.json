@@ -1,0 +1,26 @@
+{
+  "date": "1997-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, do you know why my raise hasn't showed up in my pay yet?",
+        "I haven't submitted the paperwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm too busy to do it.",
+        "Maybe you should talk to my boss about getting me a secretary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carol, you are the secretary.",
+        "That'll cost you another month."
+      ]
+    }
+  ]
+}

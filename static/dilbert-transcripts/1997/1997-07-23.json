@@ -1,0 +1,30 @@
+{
+  "date": "1997-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't abuse people if they quit the company.",
+        "I'd better find a way to reduce turnover."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All job titles will be changed as follows..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My new title is \"convicted felon.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That'll look good on the ol' résumé."
+      ]
+    }
+  ]
+}

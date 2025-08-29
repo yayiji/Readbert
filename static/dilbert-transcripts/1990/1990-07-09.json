@@ -1,0 +1,27 @@
+{
+  "date": "1990-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi. You must be the new secretary.",
+        "Well, yes and no..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Granted, I'm temporarily being paid for performing secretary-like duties.",
+        "But I'm really an author, a jazz pianist and a thespian.",
+        "I have a Ph.D. in psychology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a little crisis with the ol' self-image.",
+        "And a gourmet chef..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has decided to compete for the \"Millard Bullrush Quality Award.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bullrush? Isn't he the politician who went snorkeling and got killed by a sea turtle?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're faster than they look.",
+        "I think we can win this."
+      ]
+    }
+  ]
+}

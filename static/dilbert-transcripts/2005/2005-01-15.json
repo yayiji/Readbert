@@ -1,0 +1,23 @@
+{
+  "date": "2005-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My computer is too slow. I need to upgrade it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need a cost-benefit analysis including the cost of all alternatives, and vice president approval."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was easier to get a second job and pay for the upgrade myself."
+      ]
+    }
+  ]
+}

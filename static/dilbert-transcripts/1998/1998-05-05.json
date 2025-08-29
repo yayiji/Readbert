@@ -1,0 +1,24 @@
+{
+  "date": "1998-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, the experts say you need to balance work and home life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You worked 80 hours last week. That's less than half of the hours in a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give us some balance, you selfish hag.",
+        "This conversation took a nasty turn."
+      ]
+    }
+  ]
+}

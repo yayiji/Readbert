@@ -1,0 +1,27 @@
+{
+  "date": "1997-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I notice that the new org chart has your box lower than before.",
+        "It means nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps, but your box seems smallish.",
+        "And your reporting line brushes against my box.",
+        "It means nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I'm sure this means I'm your new boss.",
+        "I wonder if I killed someone in a previous life."
+      ]
+    }
+  ]
+}

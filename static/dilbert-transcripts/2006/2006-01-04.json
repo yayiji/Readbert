@@ -1,0 +1,28 @@
+{
+  "date": "2006-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Will the yellow sticky-note road lead me home?",
+        "Not directly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're off to see the wonderful wizard of landfill. He'll know how to get you home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Holy #!%$, I hope this isn't him.",
+        "Coffee...",
+        "Cup...",
+        "Need...",
+        "Caffeine..."
+      ]
+    }
+  ]
+}

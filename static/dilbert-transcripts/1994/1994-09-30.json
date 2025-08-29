@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We could design the product with a simple point-and-click interface."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or we could require the user to choose among thousands of poorly documented commands, each of which must be typed exactly right on the first try."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bear in mind, we'll never meet a customer ourselves.",
+        "Make it so they have to reboot after every typo."
+      ]
+    }
+  ]
+}

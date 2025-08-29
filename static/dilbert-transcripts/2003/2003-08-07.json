@@ -1,0 +1,25 @@
+{
+  "date": "2003-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me why you need a new server."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And don't give me the condescending simple version for managers.",
+        "I want a full technical explanation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Early civilizations had no concept of zero.",
+        "Go on."
+      ]
+    }
+  ]
+}

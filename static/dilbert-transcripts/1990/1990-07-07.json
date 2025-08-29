@@ -1,0 +1,24 @@
+{
+  "date": "1990-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And the doctor says it's all in your mind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your ears will return to normal when you forgive me for scaring you yesterday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing inspires forgiveness quite like revenge.",
+        "Zzzz"
+      ]
+    }
+  ]
+}

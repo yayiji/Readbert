@@ -1,0 +1,56 @@
+{
+  "date": "2000-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing a business book called \"Change happens.",
+        "Get over it.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The title says it all.",
+        "Yeah, it needs filler."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about a parable?",
+        "Good idea."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Two bulls were talking."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "One bull says, \"I'm afraid of change.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The other bull says, \"Get over it.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Later that day they were both ground into hamburgers and served at a picnic."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The hard part will be finding someone to write the foreword."
+      ]
+    }
+  ]
+}

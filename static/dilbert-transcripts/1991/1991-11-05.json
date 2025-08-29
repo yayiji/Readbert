@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You did it! You removed the pencil \"Excalibert\" from the sharpener."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As corporate legend required, Dilbert became CEO."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He immediately set about the task of making important decisions.",
+        "Here's the list of people who didn't grovel sufficiently."
+      ]
+    }
+  ]
+}

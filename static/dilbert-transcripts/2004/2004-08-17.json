@@ -1,0 +1,25 @@
+{
+  "date": "2004-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Product designer",
+        "Function means nothing. Design is everything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Quality is yesterday's news. Today we focus on the emotional impact of the product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But it still needs quality, right?",
+        "You are so-o-o-o hard to look at."
+      ]
+    }
+  ]
+}

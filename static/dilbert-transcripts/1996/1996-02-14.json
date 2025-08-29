@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As a co-op employee, you can't expect the same lush cubicle environment that the regular employees enjoy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be sharing this cubicle with our other co-ops."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I heard that the new co-op only lasted one day.",
+        "He didn't fit in."
+      ]
+    }
+  ]
+}

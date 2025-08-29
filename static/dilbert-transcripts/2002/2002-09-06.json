@@ -1,0 +1,24 @@
+{
+  "date": "2002-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mouse training",
+        "Today you will learn how to avoid premature click-age."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Contort your face and visualize what you look like with a contorted face."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now pair off and we'll do some finger exercises that I call \"the Three Stooges.\""
+      ]
+    }
+  ]
+}

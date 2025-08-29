@@ -1,0 +1,24 @@
+{
+  "date": "2007-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished all of my work, and now I'm available for another high profile assignment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Create a document and route it around for approval."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On what topic?",
+        "How to keep an intern busy."
+      ]
+    }
+  ]
+}

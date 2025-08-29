@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the current rate of inflation, with no raises or promotions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our net worth at retirement will be a shopping cart full of aluminum cans."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'd better do something.",
+        "I'm going shopping before all the good carts are gone."
+      ]
+    }
+  ]
+}

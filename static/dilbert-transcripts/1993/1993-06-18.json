@@ -1,0 +1,25 @@
+{
+  "date": "1993-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's seminar on management zombies",
+        "To be a zombie you must drink the zombie elixir."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The zombie elixir will remove any distracting thoughts of sleep or family life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like coffee.",
+        "You have to add one scoop of zombie sugar."
+      ]
+    }
+  ]
+}

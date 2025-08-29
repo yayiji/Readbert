@@ -1,0 +1,51 @@
+{
+  "date": "2000-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you explain why your project is behind schedule?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. A schedule is an artificial device created without knowledge of the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wild guesses are used as surrogates for knowledge."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Project deadlines are tied to trade show dates instead of reality."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then management cuts the budget until failure is assured."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I assume you called me here so you can apologize for your role in all this."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would you like to hear how budgets are created?"
+      ]
+    }
+  ]
+}

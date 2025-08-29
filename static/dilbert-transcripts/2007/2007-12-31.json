@@ -1,0 +1,27 @@
+{
+  "date": "2007-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate it when people stop working just because it's the day before a holiday.",
+        "Ha!",
+        "Ha!",
+        "Ha!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It cheapens the lack of work that I cultivate year-round."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I saw the funniest video clip!",
+        "Tourist!"
+      ]
+    }
+  ]
+}

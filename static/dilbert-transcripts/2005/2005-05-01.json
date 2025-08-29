@@ -1,0 +1,57 @@
+{
+  "date": "2005-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've received some complaints that you've been badgering managers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm...",
+        "Badgering, you say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me see if I understand this \"badgering\" concept."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's say that I need a manager's decision on a critical issue..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And the manager in question ignores my e-mails and phone calls..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Shouldn't I insist that this manager do the job for which he is overpaid?!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Huh? Shouldn't I?",
+        "What do you say?",
+        "Huh? Huh? How about it?",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll say I talked to her."
+      ]
+    }
+  ]
+}

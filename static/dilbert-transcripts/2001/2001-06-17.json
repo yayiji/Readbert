@@ -1,0 +1,55 @@
+{
+  "date": "2001-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We found a bug in our software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It searches your e-mail address book for your mother's name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every Sunday it uses your e-mail to send her a message..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...comparing her face to various parts of animals."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do you have any hard data that proves we should fix the bug?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We can't throw money at every problem.",
+        "It's your mom."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You miserable *%#!!!",
+        "See what I mean?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No. I get this call every day."
+      ]
+    }
+  ]
+}

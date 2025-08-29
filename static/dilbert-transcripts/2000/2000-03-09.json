@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you turn your one-page report into a two-page executive summary?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was planning to spend the day snapping myself with the elastic band on my underwear."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But your idea is good, too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1996-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally writes the critical code for our nation's new air traffic control system.",
+        "The crowd is silent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Suddenly the gifted programmer employs a rarely seen strategy of \"code reuse.\"",
+        "The crowd goes wild."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you used code from the payroll system?",
+        "Here's a tip: don't fly on pay day."
+      ]
+    }
+  ]
+}

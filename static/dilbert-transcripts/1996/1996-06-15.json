@@ -1,0 +1,25 @@
+{
+  "date": "1996-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I notice you've been looking depressed lately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a prescription for an antidepressant drug.",
+        "Be sure to exercise regularly and don't skip meals."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What makes you think you're qualified to diagnose my mental health?!",
+        "I'd better double it."
+      ]
+    }
+  ]
+}

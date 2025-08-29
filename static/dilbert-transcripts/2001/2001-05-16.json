@@ -1,0 +1,25 @@
+{
+  "date": "2001-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, you can't keep accepting bribes from sales people who want access to me.",
+        "Bad!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't a vendor recently take you on a golf trip to Vegas?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is so-o-o different!",
+        "Let's compare price sheets."
+      ]
+    }
+  ]
+}

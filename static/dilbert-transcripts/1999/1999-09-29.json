@@ -1,0 +1,23 @@
+{
+  "date": "1999-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All new laptop computers will be Osbornes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They come with something called a floppy drive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Something tells me we're not operating on \"Internet time.\""
+      ]
+    }
+  ]
+}

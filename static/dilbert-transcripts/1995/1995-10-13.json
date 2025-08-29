@@ -1,0 +1,26 @@
+{
+  "date": "1995-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As director of human resources I have developed a policy for handling the employees who complain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a big hole.",
+        "I'll trick the whiners into getting in it.",
+        "And then I'll cover them with sand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see how this could possibly work.",
+        "There's a detailed explanation at the bottom of the hole."
+      ]
+    }
+  ]
+}

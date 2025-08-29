@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had my cell phone at one ear and my regular phone at the other."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm reading e-mail, sending instant messages, my pager is vibrating, and my boss comes in!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You know what makes your work stories fascinating?",
+        "What?",
+        "Nothing."
+      ]
+    }
+  ]
+}

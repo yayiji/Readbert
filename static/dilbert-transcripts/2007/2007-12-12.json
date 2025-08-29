@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't you dare take another cup of coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The more you drink, the more often I have to order coffee.",
+        "You are destroying my quality of life!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!!",
+        "If this doesn't make the coffee taste better, I don't know what will."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "1992-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert's lab"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Any luck with your hair growth formula?",
+        "Define \"luck.\""
+      ]
+    }
+  ]
+}

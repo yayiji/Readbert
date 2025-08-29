@@ -1,0 +1,32 @@
+{
+  "date": "1991-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Physics made easy",
+        "Today's lesson",
+        "is \"time.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Imagine a donut,",
+        "fired from a",
+        "cannon at the speed",
+        "of light while",
+        "rotating."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Time is like that,",
+        "except without",
+        "the cannon and",
+        "the donut."
+      ]
+    }
+  ]
+}

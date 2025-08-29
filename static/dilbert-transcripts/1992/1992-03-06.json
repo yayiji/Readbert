@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On today's episode of \"Dogbert's amazingly ignorant people\" we talk to people who don't know history."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many people perished because of World War II?",
+        "Uh... 400?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The answer is fifty million.",
+        "Oh... rounding."
+      ]
+    }
+  ]
+}

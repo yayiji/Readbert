@@ -1,0 +1,28 @@
+{
+  "date": "1993-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nine out of ten people have jobs...",
+        "Three billion people had a nice day today...",
+        "And the forest has plenty of owls."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A huge asteroid could destroy Earth!",
+        "And by coincidence, that's the subject of tonight's miniseries.",
+        "We'll all die!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In science, researchers proved that this simple device can keep idiots off of your television screen.",
+        "Click"
+      ]
+    }
+  ]
+}

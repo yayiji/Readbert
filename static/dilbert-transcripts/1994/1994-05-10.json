@@ -1,0 +1,25 @@
+{
+  "date": "1994-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "It takes more than a brilliant analytical mind to be a business consultant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You also need to be arrogant and socially dysfunctional."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anybody know why a consultant was brought in to do your thinking? Anybody?",
+        "Anybody?"
+      ]
+    }
+  ]
+}

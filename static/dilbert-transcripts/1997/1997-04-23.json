@@ -1,0 +1,25 @@
+{
+  "date": "1997-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going home early because my kid is sick."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember, we have a new \"family friendly\" policy.",
+        "We do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that why my family seems so friendly?",
+        "Maybe, but I'd test 'em for drugs."
+      ]
+    }
+  ]
+}

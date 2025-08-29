@@ -1,0 +1,27 @@
+{
+  "date": "1997-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I understand you had a conversation with my boss without my approval."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't want to give mixed messages.",
+        "It would be very bad if she got any mixed messages."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just gave her an honest status report.",
+        "Aaargh!!!",
+        "Mixed messages!",
+        "\\ \\ \\"
+      ]
+    }
+  ]
+}

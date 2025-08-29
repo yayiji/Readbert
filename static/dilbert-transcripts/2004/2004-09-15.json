@@ -1,0 +1,25 @@
+{
+  "date": "2004-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it okay if I take on five new projects and ten deliverables?",
+        "Um... okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My motivational e-mail messages are working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you help...",
+        "Whoa! Don't you know how many projects I have?"
+      ]
+    }
+  ]
+}

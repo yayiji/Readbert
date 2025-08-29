@@ -1,0 +1,26 @@
+{
+  "date": "2005-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian hackers are trying to steal our source code.",
+        "Send our goons to beat them up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was thinking more along the lines of improving our data security.",
+        "Improve it or else I'll have our goons beat you up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is surprisingly motivational.",
+        "Youse call dat a firewall?"
+      ]
+    }
+  ]
+}

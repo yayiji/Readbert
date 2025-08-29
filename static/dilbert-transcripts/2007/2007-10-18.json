@@ -1,0 +1,24 @@
+{
+  "date": "2007-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Make these changes and run it by me again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "History suggests I have entered an infinite loop of making changes with no hope of finishing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My life is a furious ball of nothing.",
+        "And I'm not wild about the font."
+      ]
+    }
+  ]
+}

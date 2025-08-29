@@ -1,0 +1,55 @@
+{
+  "date": "2003-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert's tech support. How may I abuse you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Finally!! It took me an hour to penetrate your inscrutable audio menu system!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I waited in queue for forty minutes!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My problem is that my computer keeps freezing...",
+        "Not so fast."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I need to know your name, address, phone number, operating system, e-mail address, serial numbers, software versions and video drivers."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then I'll put you in queue for the low-level technician who can only tell you to reboot."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "He'll ask you the same questions for reasons that will baffle you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "But eventually you'll solve my problem, right?",
+        "Sure, if your problem is too much optimism."
+      ]
+    }
+  ]
+}

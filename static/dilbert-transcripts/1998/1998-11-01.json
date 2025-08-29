@@ -1,0 +1,53 @@
+{
+  "date": "1998-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a solution to our morale problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need a nickname for our group."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can it be something scatological?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... no."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How about something that involves monkeys?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't think so."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ooh... but could it be something that's both scatological and involves monkeys?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's hard to be optimistic while he's so grumpy."
+      ]
+    }
+  ]
+}

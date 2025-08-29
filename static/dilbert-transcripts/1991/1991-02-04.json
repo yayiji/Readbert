@@ -1,0 +1,24 @@
+{
+  "date": "1991-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing to President Bush's dog."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't mean...",
+        "Millie, their Springer spaniel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who did you think I meant?"
+      ]
+    }
+  ]
+}

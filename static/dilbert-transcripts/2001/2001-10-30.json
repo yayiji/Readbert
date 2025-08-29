@@ -1,0 +1,25 @@
+{
+  "date": "2001-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Then I noticed that the circuit design looked like a bug.",
+        "I was going to mention it but then I didn't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm psychic!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless you're saying out loud every thought that crosses your mind.",
+        "It's called conversation."
+      ]
+    }
+  ]
+}

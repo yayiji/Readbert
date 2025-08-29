@@ -1,0 +1,24 @@
+{
+  "date": "2001-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our contract clearly states that I can give you nicknames, mottos and political preferences."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I demand a new contract based on the fact that I didn't read this one before I signed it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too bad, Skippy.",
+        "You're a communist now."
+      ]
+    }
+  ]
+}

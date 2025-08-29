@@ -1,0 +1,42 @@
+{
+  "date": "1990-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry, I don't date guys from work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll resign..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry, I don't date unemployed guys."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I... I'll get a new job... one you approve of."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sorry, I don't date guys with your social security number."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So, it turns out her unlucky number has nine digits in it...",
+        "But she knew my social security number, so I think there's some interest there..."
+      ]
+    }
+  ]
+}

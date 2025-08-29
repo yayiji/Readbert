@@ -1,0 +1,23 @@
+{
+  "date": "2006-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it difficult to transition from leading troops in combat to the corporate life?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where are the product specs?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The main difference is that it's harder to get good intel."
+      ]
+    }
+  ]
+}

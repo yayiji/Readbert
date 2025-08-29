@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Job interview",
+        "We need someone who can solve the biggest engineering problem we have ever encountered."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just distribute the power supply across both functions and double the fan size."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks. If I need anything else, I'll interview you again."
+      ]
+    }
+  ]
+}

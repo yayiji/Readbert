@@ -1,0 +1,24 @@
+{
+  "date": "1992-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My date was a fiasco."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She has a rare disease called puppetitis -- it makes your hand act like a puppet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently you can catch it by holding hands.",
+        "But it was worth it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's all Dilbert left you in his will? A gadget?",
+        "I'm just the custodian."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it's some kind of hyper-electronic induction transmutant geoplasmic nodal collectimizer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe... but I'm guessing bathroom soap dispenser.",
+        "Can I change my guess?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Before I can help you, I need your tech support product identification code."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can find it by going to your local landfill and digging until you see your product's original packaging."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But don't disturb the seagulls or they'll peck off your face."
+      ]
+    }
+  ]
+}

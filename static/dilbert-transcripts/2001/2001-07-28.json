@@ -1,0 +1,24 @@
+{
+  "date": "2001-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been trapped in my office for three days! Didn't you hear me scream?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used my staple remover to claw through the side wall!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your door is a pull, not a push.",
+        "Get me a bigger staple remover just to be safe."
+      ]
+    }
+  ]
+}

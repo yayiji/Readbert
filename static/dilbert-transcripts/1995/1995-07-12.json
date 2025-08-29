@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think you like that computer more than you like me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not true, Liz. I do not like that computer more than I like you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please, please don't ask about the laptop.",
+        "\"That\" computer?"
+      ]
+    }
+  ]
+}

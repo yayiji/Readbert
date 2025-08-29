@@ -1,0 +1,54 @@
+{
+  "date": "1990-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like your dress."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Women love flattery."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It reminds me of my favorite dish cloth.",
+        "Uh-oh...",
+        "Wrong thing to say."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Of course, I'm not talking about an ordinary dish cloth.",
+        "Dig, dig..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm talking about a truly fashionable dish cloth here..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In fact, if I dropped jello on my shoes I'd leave it there all day rather than use your dress to wipe it up."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Some women just don't know how to accept a compliment gracefully."
+      ]
+    }
+  ]
+}

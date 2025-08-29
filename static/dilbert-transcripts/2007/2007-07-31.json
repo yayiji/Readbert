@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There are two kinds of management problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's the kind you can solve by yelling and the kind you can solve by buying some sort of software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why I created \"some sort of software that yells.\"",
+        "Ooo!!!"
+      ]
+    }
+  ]
+}

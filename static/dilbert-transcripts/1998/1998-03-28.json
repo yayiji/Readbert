@@ -1,0 +1,24 @@
+{
+  "date": "1998-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate being on an underfunded project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you spare some resources, lady?",
+        "How about that intern? Are you using him?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First you have to learn how to give yourself a sponge bath at the water fountain."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2005-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, company policy says that personal items can not be higher than the cubicle wall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just out of curiosity, what is the logic behind that bizarre policy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We want to maintain a smooth line-of-sight for aesthetic reasons."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let me see if I understand your point of view."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My Einstein doll makes the cubicle so hideous that our stock price will plunge."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now if I take it down..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gasp! It's so beautiful now! My soul is filled with music! My life has meaning!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hey! I just noticed that when I look at this doll and you at the same time, you look hideous."
+      ]
+    }
+  ]
+}

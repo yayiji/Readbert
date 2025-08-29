@@ -1,0 +1,27 @@
+{
+  "date": "1992-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government sent a general to kill me for talking about my encounter with space aliens."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was scared at first.",
+        "But when you think about the government's track record, well,",
+        "my odds are pretty good..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Especially after all the budget cutbacks.",
+        "Dang it!",
+        "Where's my air support?!!"
+      ]
+    }
+  ]
+}

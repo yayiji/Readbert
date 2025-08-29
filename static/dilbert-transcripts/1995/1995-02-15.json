@@ -1,0 +1,24 @@
+{
+  "date": "1995-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you just sent me the same e-mail you sent last week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm rerunning the \"Best of Wally\" while I'm on in-cube sabbatical."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long is your sabbatical?",
+        "Six months so far, and you're the first to notice."
+      ]
+    }
+  ]
+}

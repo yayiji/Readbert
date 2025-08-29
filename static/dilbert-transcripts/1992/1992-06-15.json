@@ -1,0 +1,27 @@
+{
+  "date": "1992-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did you do to your hair?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's for my new television show,",
+        "\"Healing for dollars.\"",
+        "People send more money if you have this kind of hair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might be a trick.",
+        "That's what I thought until I saw his hair.",
+        "Checks or money orders"
+      ]
+    }
+  ]
+}

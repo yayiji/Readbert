@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I may be a small businessman but I can provide a quality product to your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll ask Alice to show you how to get into our preferred vendor system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He can already invoice!",
+        "He has your scowl."
+      ]
+    }
+  ]
+}

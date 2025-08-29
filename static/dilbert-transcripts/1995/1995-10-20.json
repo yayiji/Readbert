@@ -1,0 +1,27 @@
+{
+  "date": "1995-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Dogbert, we've decided to send you back to Earth as an angel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your mission is to help people in need.",
+        "We have given you special powers.",
+        "We'll be watching."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ahem",
+        "Okay, so what's the price for new hair plus buns of steel?",
+        "It's all on the price sheet."
+      ]
+    }
+  ]
+}

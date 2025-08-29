@@ -1,0 +1,31 @@
+{
+  "date": "2004-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I demand a raise or else I will quit today.",
+        "Goodbye."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Noooo!!! Please let me stay! I'll work every weekend for free!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Were you correct that your superior intelligence makes you a superb negotiator?",
+        "Please shut up."
+      ]
+    }
+  ]
+}

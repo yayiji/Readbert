@@ -1,0 +1,55 @@
+{
+  "date": "1994-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just had my annual meeting with our vice president."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We decided to combine your project with project \"Big Foot\" because they're basically the same."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're not the same!",
+        "It only seems like it to you because you don't understand either project!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh well. It's too late to do anything.",
+        "I told him they were the same."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just call him and say you were wrong."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can see why you're not in management."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The logical solution is to wait for the next budget cut and eliminate your project, thus solving two problems."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There's nothing more dangerous than a resourceful idiot."
+      ]
+    }
+  ]
+}

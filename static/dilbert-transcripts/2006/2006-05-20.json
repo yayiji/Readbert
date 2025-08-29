@@ -1,0 +1,25 @@
+{
+  "date": "2006-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got funding to start my own search engine company!",
+        "Nothing can stop me now!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meanwhile",
+        "Fire the lawyerpult"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like to talk to you about your patent."
+      ]
+    }
+  ]
+}

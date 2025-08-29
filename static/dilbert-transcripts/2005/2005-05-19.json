@@ -1,0 +1,24 @@
+{
+  "date": "2005-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't blame me, but there's no budget to give you a raise this year.",
+        "Why not?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My business trip to Las Vegas cost four million dollars because I passed out in the bathtub with the water running and flooded five floors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The bartenders there are totally irresponsible."
+      ]
+    }
+  ]
+}

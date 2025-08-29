@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Your time machine is a fraud, but no one needs to know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With a few minor modifications, the user will vanish, and everyone will assume it worked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is in case you don't completely vanish."
+      ]
+    }
+  ]
+}

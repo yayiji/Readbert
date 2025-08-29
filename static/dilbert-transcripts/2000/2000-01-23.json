@@ -1,0 +1,55 @@
+{
+  "date": "2000-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're changing to a cash balance pension plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will make the company much more competitive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yippee!!! A cash balance plan is good for young employees!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh, yeah?",
+        "Well it's not so good for me!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I demand that you change it back!",
+        "No!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll snap you like a dried twig, you little zygote!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ouch! Stop clubbing me with your artificial hip!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "On the plus side, they do seem more competitive."
+      ]
+    }
+  ]
+}

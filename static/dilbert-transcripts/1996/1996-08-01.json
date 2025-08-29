@@ -1,0 +1,25 @@
+{
+  "date": "1996-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The votes are in.",
+        "I've been elected to the position of supreme ruler of Earth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won in a landslide, thanks to low voter turnout and the fact that I voted for myself many times."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you'll be a benevolent ruler.",
+        "I think I'll make caning an Olympic event."
+      ]
+    }
+  ]
+}

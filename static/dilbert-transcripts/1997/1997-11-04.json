@@ -1,0 +1,26 @@
+{
+  "date": "1997-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need Cobol programmers for our mainframe millenium problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you see anyone who looks like a Cobol programmer, let me know.",
+        "Turn around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you a Cobol programmer?",
+        "No, but I'm often told I look like one.",
+        "You're hired."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's called a \"smart card,\" and we should build our next product to handle this sort of payment technology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaagh!!",
+        "Foop"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never seen that happen.",
+        "His body rejected the \"smart card.\""
+      ]
+    }
+  ]
+}

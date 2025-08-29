@@ -1,0 +1,24 @@
+{
+  "date": "2007-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "I'd like to discuss my career plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The plan is that we'll keep you around until we find a starving Elbonian to do your job for less."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In other words, blah, blah, maybe someday you will get a promotion."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2006-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Patty the amplifier and distorter",
+        "We got a proposal from a new vendor today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert loves the new vendor",
+        "He thinks that anyone who disagrees is an idiot!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not what...",
+        "He's having an affair with the sales rep!"
+      ]
+    }
+  ]
+}

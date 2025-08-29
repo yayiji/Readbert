@@ -1,0 +1,24 @@
+{
+  "date": "2005-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should I date a coworker?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should date anything that has a pulse, bad judgment and no restraining orders against you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But she has to be hot.",
+        "Settle for \"still warm.\""
+      ]
+    }
+  ]
+}

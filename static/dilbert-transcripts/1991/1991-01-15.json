@@ -1,0 +1,26 @@
+{
+  "date": "1991-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This next exhibit is the pride of \"Dogbert's museum of the strange and amazing.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It looks like a little piece of cauliflower.",
+        "Dan Quayle's brain"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. We should have stopped for breakfast...",
+        "Chomp chomp",
+        "What am I going to tell Marilyn?"
+      ]
+    }
+  ]
+}

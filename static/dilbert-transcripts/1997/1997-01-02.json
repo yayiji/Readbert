@@ -1,0 +1,24 @@
+{
+  "date": "1997-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need a million dollars but I only have authority to sign for up to ten thousand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Break it into a hundred separate business cases."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for your value-added management support.",
+        "It was nothing."
+      ]
+    }
+  ]
+}

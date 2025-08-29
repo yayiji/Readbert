@@ -1,0 +1,32 @@
+{
+  "date": "1992-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everybody in the office gets a turn holding my new baby.",
+        "Next."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh...",
+        "Sneeze coming."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Achoooo"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ooh! Look what he does when you sneeze on him.",
+        "He looks like a prune!"
+      ]
+    }
+  ]
+}

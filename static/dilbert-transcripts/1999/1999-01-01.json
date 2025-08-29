@@ -1,0 +1,23 @@
+{
+  "date": "1999-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For the tenth year in a row, the employee satisfaction survey says morale is low."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Managers' bonuses are linked to these results. You can be sure we'll make big changes..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...to the survey."
+      ]
+    }
+  ]
+}

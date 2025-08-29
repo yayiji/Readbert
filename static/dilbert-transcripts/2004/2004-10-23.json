@@ -1,0 +1,25 @@
+{
+  "date": "2004-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're still alive?? How can this be??",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing! Never mind! I don't know anything about a deadly plot!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's his own fault for not paying me enough to afford entertainment.",
+        "Good one."
+      ]
+    }
+  ]
+}

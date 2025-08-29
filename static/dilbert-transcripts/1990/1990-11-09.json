@@ -1,0 +1,23 @@
+{
+  "date": "1990-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I cannot allow this withdrawal..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unless you defeat me in hand to hand combat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They seem pretty serious about encouraging the use of their automated teller machines."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1995-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've got a lot of empty cubicles because of downsizing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hired the Dogbert construction company to convert part of the office into prison cells which we'll lease to the state."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a big job.",
+        "Nah. A little paint, new carpet and we're there."
+      ]
+    }
+  ]
+}

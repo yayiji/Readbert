@@ -1,0 +1,25 @@
+{
+  "date": "2006-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I've received some complaints that you have been bonking the heads of marketing people on tables."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where else should I bonk their heads?",
+        "Tables are the best places!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think I'm getting through.",
+        "The chair is way too soft!"
+      ]
+    }
+  ]
+}

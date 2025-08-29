@@ -1,0 +1,25 @@
+{
+  "date": "2007-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I need you to create a powerpoint presentation that will save our department from being eliminated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must quantify the unquantifiable.",
+        "And that can only be done by a process that I call lying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lying is a process?",
+        "It can be, if you use enough slides."
+      ]
+    }
+  ]
+}

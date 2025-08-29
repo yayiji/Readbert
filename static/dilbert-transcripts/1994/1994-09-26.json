@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invited Saint Dogbert to bludgeon anybody who strays from the agenda into something stupid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That reminds me of the productization of our tiger team's priority matrix."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, that was on the agenda.",
+        "Oops. Carry on."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school for the socially oblivious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today I'll pair you with someone whose social defect will cancel out your own."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! I keep trying to talk about my kids and you keep changing the topic to yourself!!",
+        "Because I'm fascinating."
+      ]
+    }
+  ]
+}

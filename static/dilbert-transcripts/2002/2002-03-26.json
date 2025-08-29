@@ -1,0 +1,27 @@
+{
+  "date": "2002-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If the water company can pipe water to my house, why can't the toothpaste company do the same?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The toothpaste factory should have a pipe to every home so you can turn a faucet..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And don't even get me started about pudding.",
+        "Meteor",
+        "Meteor",
+        "Meteor",
+        "Meteor"
+      ]
+    }
+  ]
+}

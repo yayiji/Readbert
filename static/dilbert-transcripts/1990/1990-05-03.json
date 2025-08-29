@@ -1,0 +1,25 @@
+{
+  "date": "1990-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A microchip gives Dilbert the tour inside his computer.",
+        "...So you see, it's mostly a trick..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've been sending you subliminal hypnotic suggestions through the video display for years.",
+        "Like what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Goofy stuff, like \"computers are fun\" and \"put all of your pens in your shirt pocket.\""
+      ]
+    }
+  ]
+}

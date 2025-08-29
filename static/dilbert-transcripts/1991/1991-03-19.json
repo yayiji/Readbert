@@ -1,0 +1,24 @@
+{
+  "date": "1991-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh...",
+        "Sneeze coming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Achoo"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can pretend that didn't happen, or change my name and leave town."
+      ]
+    }
+  ]
+}

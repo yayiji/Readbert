@@ -1,0 +1,56 @@
+{
+  "date": "2002-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, can you come with me to a meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, no. I'm running this meeting and it took three weeks to get everyone together."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I leave now, sixteen people will be wasting their time.",
+        "I'll cover for you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You will?",
+        "Sure. Just leave your notes and I'll take care of it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What's the meeting about?",
+        "It's not exactly a meeting."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I need someone to drink the crud on the bottom and then brew a fresh pot."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All in favor of leaving before he gets back."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It looks like I'll be exaggerating my accomplishments again this year."
+      ]
+    }
+  ]
+}

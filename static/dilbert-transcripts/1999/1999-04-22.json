@@ -1,0 +1,24 @@
+{
+  "date": "1999-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just realized that if my project is a success, my job will be eliminated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The smartest thing I could do is fail miserably and blame it all on your indecisiveness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm happy because I have a clear strategy!",
+        "I haven't nodded in a while."
+      ]
+    }
+  ]
+}

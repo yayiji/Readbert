@@ -1,0 +1,24 @@
+{
+  "date": "1998-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The accident left him with no brain function whatsoever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that hasn't stopped him from talking.",
+        "I'll drive him back to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I double the length of our staff meetings, we'll accomplish twice as much!"
+      ]
+    }
+  ]
+}

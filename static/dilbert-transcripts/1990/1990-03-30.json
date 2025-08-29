@@ -1,0 +1,25 @@
+{
+  "date": "1990-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "99¢ special",
+        "Burger Queen"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only 99¢?! Ha ha ha!! Give me ten thousand of them!",
+        "For here!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These lottery winners are really starting to bug me."
+      ]
+    }
+  ]
+}

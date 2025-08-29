@@ -1,0 +1,25 @@
+{
+  "date": "1995-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did you bring to read?",
+        "It's a book of tips for my new computer golf game."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... you're reading a book... about a computer simulation... of an activity that's almost a sport..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's about as close as you can get to being a non-organic life form.",
+        "This chapter is about driving the little cart."
+      ]
+    }
+  ]
+}

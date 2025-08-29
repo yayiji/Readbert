@@ -1,0 +1,23 @@
+{
+  "date": "2004-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't put this banana peel in my trash; it will stink all day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Toss"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently my teamwork speech wore off."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1997-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Designing a brochure",
+        "We'll want to emphasize the things that make our product unique.",
+        "Good",
+        "Good"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... we have higher prices... stale technology... fewer features... and it's hard to use."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you work with that?",
+        "Suddenly I don't feel so bad that we won't be using 100% recycled paper."
+      ]
+    }
+  ]
+}

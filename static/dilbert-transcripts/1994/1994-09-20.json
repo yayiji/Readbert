@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Trade show registration",
+        "Men without facial hair are not allowed on the exhibition floor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have rental beards for your convenience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That model comes with pipe-scented suspenders. It's very popular with our portly attendees."
+      ]
+    }
+  ]
+}

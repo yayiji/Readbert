@@ -1,0 +1,25 @@
+{
+  "date": "1996-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to do peer-performance reviews!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember, there's a limited budget for raises. Your best strategy is to slander your co-workers so there's more money for you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I plan to say very nice things about you.",
+        "Nice try, weasel-boy.",
+        "Managing is easy when you hate the employees."
+      ]
+    }
+  ]
+}

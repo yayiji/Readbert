@@ -1,0 +1,24 @@
+{
+  "date": "2003-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why isn't my cell phone working?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a short-range cell phone. You need to be in the same room with the person you call."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Answer the stinkin' phone, Alice.",
+        "Why are you listening to a TV remote control?"
+      ]
+    }
+  ]
+}

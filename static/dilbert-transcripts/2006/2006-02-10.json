@@ -1,0 +1,24 @@
+{
+  "date": "2006-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Certified project management zombie",
+        "Let's review our assumptions, risks, and constraints."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your project management style is putting my joie de vivre at risk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's funny because I don't have any."
+      ]
+    }
+  ]
+}

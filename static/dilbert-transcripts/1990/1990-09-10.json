@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes! I've been chosen for the next space shuttle mission!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why you?",
+        "They're probably assembling the leaders from different fields."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "NASA",
+        "In our next flight, we will study the effects of weightlessness on nerds..."
+      ]
+    }
+  ]
+}

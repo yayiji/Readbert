@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't worry about my flu, Alice.",
+        "Germs don't fly through the air."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Achooo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remember,",
+        "germs don't fly through the air.",
+        "Yours are gonna."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The highly productive but useless guy",
+        "Here's a copy of my white paper."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a statistical analysis of the correlation between disk storage and employee absenteeism."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to do statistics but it doesn't matter because I didn't have data."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2001-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd be a good stock market expert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd buy stocks and then go on TV and recommend them so they go up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about the fundamentals?",
+        "It doesn't get more fundamental than that!"
+      ]
+    }
+  ]
+}

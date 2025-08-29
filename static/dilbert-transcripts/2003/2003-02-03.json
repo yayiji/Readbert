@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's a mild rash.",
+        "I'll scribble an indecipherable prescription for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if your bad handwriting causes the pharmacy to give me a harmful medication?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a little thing I call marketing."
+      ]
+    }
+  ]
+}

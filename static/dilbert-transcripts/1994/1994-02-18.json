@@ -1,0 +1,26 @@
+{
+  "date": "1994-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Although I'm technically the \"boss\" I believe it's my job to make resources available to you, the common employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need more money for my project.",
+        "Sorry.",
+        "All gone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll get on your calendar so we can discuss it.",
+        "I've got twenty minutes next summer."
+      ]
+    }
+  ]
+}

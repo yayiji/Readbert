@@ -1,0 +1,24 @@
+{
+  "date": "1996-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company announced we're being bought by our long-time rival."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry about layoffs. They like engineers. In fact, they already have a division that does what we do!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Except they're younger and they aren't paid as much as we are...",
+        "Spin"
+      ]
+    }
+  ]
+}

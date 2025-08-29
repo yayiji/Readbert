@@ -1,0 +1,28 @@
+{
+  "date": "1997-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the new org chart.",
+        "I had to rearrange the layout to make it fit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why is my box lower than Alice and Wally's?",
+        "It means nothing...",
+        "nothing",
+        "at all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, who told you that every year I fish your secretaries' day card out of your trash and save it for next time?",
+        "What?"
+      ]
+    }
+  ]
+}

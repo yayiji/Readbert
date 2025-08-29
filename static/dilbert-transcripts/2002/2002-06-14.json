@@ -1,0 +1,23 @@
+{
+  "date": "2002-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I needed to make an engineering decision about your project this morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll need to act like you agree with it so I don't look stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Explain to us how fiber capacity can be increased by serial input at breakfast."
+      ]
+    }
+  ]
+}

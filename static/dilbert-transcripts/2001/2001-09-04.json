@@ -1,0 +1,25 @@
+{
+  "date": "2001-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Profits are down.",
+        "Our senior management blames the weak economy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So they're saying that profits went up because of great management and down because of a weak economy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These meetings will go faster if you stop putting things in context.",
+        "Sorry"
+      ]
+    }
+  ]
+}

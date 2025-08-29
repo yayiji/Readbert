@@ -1,0 +1,23 @@
+{
+  "date": "1999-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A hacker broke into our system and found out our corporate strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did he post it on the internet? I'd like to read it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm also curious about my objectives for this year. Do you have the guy's e-mail address?"
+      ]
+    }
+  ]
+}

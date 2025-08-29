@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like my soul back. Here's my claim ticket.",
+        "Souls"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've been demoted back to non-management. Very well."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get back in the cubicle.",
+        "No-o-o-o!!"
+      ]
+    }
+  ]
+}

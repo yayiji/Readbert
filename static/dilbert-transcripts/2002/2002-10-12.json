@@ -1,0 +1,23 @@
+{
+  "date": "2002-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My vacation starts in ten minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tied up all of my loose ends. I only need to walk out the door."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I told a reporter that we designed a computer made entirely of recycled paper."
+      ]
+    }
+  ]
+}

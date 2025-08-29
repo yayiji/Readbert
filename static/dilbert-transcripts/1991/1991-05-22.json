@@ -1,0 +1,24 @@
+{
+  "date": "1991-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come meet my new pet turtle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Boy, that is one ugly-looking turtle. What kind is it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's a \"snappy comeback turtle,\" but not a good one.",
+        "Oh yeah?!! Ugly, am I? Well, uh... so's my mother!"
+      ]
+    }
+  ]
+}

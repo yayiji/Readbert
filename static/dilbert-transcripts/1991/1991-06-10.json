@@ -1,0 +1,24 @@
+{
+  "date": "1991-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Starting today, the company will begin random drug testing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Although it would be illegal to search your car or home for illegal drugs..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We have found no ethical problem with sucking the blood out of your body.",
+        "Results will be posted in the cafeteria."
+      ]
+    }
+  ]
+}

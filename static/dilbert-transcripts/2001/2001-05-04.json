@@ -1,0 +1,24 @@
+{
+  "date": "2001-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are our software expenses higher than marketing's software expenses?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For the same reason that monkeys don't wear watches."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "An hour later",
+        "Does it involve fur in any way?"
+      ]
+    }
+  ]
+}

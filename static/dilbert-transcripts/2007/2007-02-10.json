@@ -1,0 +1,25 @@
+{
+  "date": "2007-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm concerned that you might be low-balling your goals for the coming year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, this one says you will \"decompose in your chair.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds easy.",
+        "Not really.",
+        "Half of the time I'm in a different chair."
+      ]
+    }
+  ]
+}

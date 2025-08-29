@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I linked our web site to various sponsors who pay us for eyeballs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those sponsors link to other web sites who link to us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The net- net at the end of the day is we owe ourselves a billion dollars.",
+        "Eyeballs?"
+      ]
+    }
+  ]
+}

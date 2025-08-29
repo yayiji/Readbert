@@ -1,0 +1,24 @@
+{
+  "date": "2007-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert does public relations.",
+        "You can't get free publicity simply by doing something better."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have to do something in a way that has never been done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a Sir Richard Branson sort of thing. You wouldn't understand."
+      ]
+    }
+  ]
+}

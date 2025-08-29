@@ -1,0 +1,29 @@
+{
+  "date": "1992-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This lie detector will determine if you flushed my goldfish."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Name?",
+        "Abe Lincoln",
+        "Occupation?",
+        "President",
+        "Did you kill my fish?",
+        "No"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lie detectors never make mistakes, do they?",
+        "Uh... no, mister president."
+      ]
+    }
+  ]
+}

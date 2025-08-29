@@ -1,0 +1,25 @@
+{
+  "date": "2001-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Were you always a troll?",
+        "No, this happened when I came to accounting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First my hair fell out. Then I stopped going to the gym."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have horns and a tail.",
+        "When I realized I had a look going, I just went for it."
+      ]
+    }
+  ]
+}

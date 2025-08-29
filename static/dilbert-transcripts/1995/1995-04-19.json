@@ -1,0 +1,25 @@
+{
+  "date": "1995-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Financial advisor",
+        "Here's a picture of you living in a dumpster in twenty years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if you invest in the \"Dogbert deferred income fund\" take a look at what you could own someday!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could own a mansion?!!",
+        "You could own a photograph."
+      ]
+    }
+  ]
+}

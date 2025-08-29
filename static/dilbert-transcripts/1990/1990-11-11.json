@@ -1,0 +1,52 @@
+{
+  "date": "1990-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Heather, there's something I must tell you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop... stop right there. I know what you're going to say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Although it's our first date, you find yourself very attracted to me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You are stunned by my grace and beauty, and you hope we can be more than friends."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let me set you straight, Dilbert: This is a pity date. My standards are too high for you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Actually, I just wanted to tell you that your dress was tucked into the back of your pantyhose all night."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How was your date?",
+        "Man, it doesn't get any better than that!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2007-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Never tell anyone we don't have enough resources to do a project. It makes us look lame."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead, say we have a fixed capacity that is already dedicated to higher priorities. That makes whoever asked us for help look lame."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I keep telling people I donated all of my blood to hurricane victims?"
+      ]
+    }
+  ]
+}

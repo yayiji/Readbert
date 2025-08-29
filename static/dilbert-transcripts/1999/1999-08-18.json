@@ -1,0 +1,24 @@
+{
+  "date": "1999-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your invention will earn ten billion dollars for this company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By the way, you're not allowed to have decorations above the walls of your cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We both did something important today.",
+        "Give me five."
+      ]
+    }
+  ]
+}

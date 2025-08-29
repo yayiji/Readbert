@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I make my job more enjoyable?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get a spouse who complains a lot and then have a few kids."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds awful.",
+        "You won't believe how much you enjoy being at work."
+      ]
+    }
+  ]
+}

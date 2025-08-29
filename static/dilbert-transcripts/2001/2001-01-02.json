@@ -1,0 +1,23 @@
+{
+  "date": "2001-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting a mouse cramp."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I spent seven years chained upside down to an Elbonian prison wall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At the risk of sounding too competitive, I believe I'm winning this conversation."
+      ]
+    }
+  ]
+}

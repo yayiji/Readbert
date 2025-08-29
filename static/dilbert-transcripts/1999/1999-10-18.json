@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Write on a scrap of paper the names of employees who do great work and put them in the hat in my office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And then do you select one name each week to receive valuable rewards?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, the scraps of paper make my hat more comfortable."
+      ]
+    }
+  ]
+}

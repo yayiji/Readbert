@@ -1,0 +1,23 @@
+{
+  "date": "1997-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I admire your work ethic, Alice. You're even working during your vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It must be hard to remain motivated when you know you can never break through the glass ceiling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, it looks like it's just tile after all."
+      ]
+    }
+  ]
+}

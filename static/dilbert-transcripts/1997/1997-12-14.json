@@ -1,0 +1,55 @@
+{
+  "date": "1997-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't have a cubicle available for you yet, Bruce."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I'm declaring this part of the carpet to be your office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If someone goes to a meeting, you can sneak into his cubicle and use the phone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Our computer budget is gone, but we have an old monitor that you can put on top of your briefcase."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can I put tape on the carpet to mark my boundary?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That won't be necessary, thanks to this hi-tech device.",
+        "A dog collar?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It will give a mild shock if you cross your invisible boundary."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The new guy hasn't left that spot for a week.",
+        "Wally taught him to beg for food."
+      ]
+    }
+  ]
+}

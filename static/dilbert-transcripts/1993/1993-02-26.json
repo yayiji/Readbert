@@ -1,0 +1,24 @@
+{
+  "date": "1993-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having a department bowling night tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's my way of rewarding all of you for your performance this quarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We hate doing things together at night.",
+        "I wasn't happy with your performance."
+      ]
+    }
+  ]
+}

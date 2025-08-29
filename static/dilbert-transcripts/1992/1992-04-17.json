@@ -1,0 +1,24 @@
+{
+  "date": "1992-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I sit here motionless while the boss reads my report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't talk while he's reading, and I don't have anything of my own to read..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder how long I can make him sit there feeling uncomfortable?",
+        "A hundred bottles of beer on the wall."
+      ]
+    }
+  ]
+}

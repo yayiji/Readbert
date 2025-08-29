@@ -1,0 +1,28 @@
+{
+  "date": "1993-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Squeeze",
+        "Squeeze",
+        "Squeeze"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In retrospect,",
+        "that was exactly",
+        "the kind of",
+        "temptation I",
+        "should just",
+        "ignore."
+      ]
+    }
+  ]
+}

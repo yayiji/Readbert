@@ -1,0 +1,25 @@
+{
+  "date": "1999-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And we know mass creates gravity because dense planets have more gravity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do we know which planets are more dense?",
+        "They have more gravity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's circular reasoning.",
+        "I prefer to think of it as having no loose ends."
+      ]
+    }
+  ]
+}

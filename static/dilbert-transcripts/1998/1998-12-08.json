@@ -1,0 +1,25 @@
+{
+  "date": "1998-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you never responded to my e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe I could ask my question now, in person?",
+        "Send me a voice mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will you respond to voice mail?",
+        "Sometimes the phone company loses them."
+      ]
+    }
+  ]
+}

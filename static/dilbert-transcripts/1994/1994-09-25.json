@@ -1,0 +1,58 @@
+{
+  "date": "1994-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It has come to my attention that you used the fax for personal business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sent the fax during lunch.",
+        "It was a local call."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're using up all of our fax paper."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, I sent a fax.",
+        "The paper doesn't travel through the phone lines.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You used the company's electricity."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I had a friend fax us a wad of extra electricity."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm using it right now to power my PC."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you get any extra electricity?",
+        "My PC is out.",
+        "Press the button on the back and I'll fax you some."
+      ]
+    }
+  ]
+}

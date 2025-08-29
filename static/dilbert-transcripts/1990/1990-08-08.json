@@ -1,0 +1,25 @@
+{
+  "date": "1990-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, Dilbert, this is Doctor Fishlips.",
+        "I was wondering if you could come back for some x-rays."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "X-rays? Is that standard procedure a week after an appendectomy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A patient from the prison is missing...",
+        "I'm told this isn't the first time \"Tiny Tom\" has tried a bold escape."
+      ]
+    }
+  ]
+}

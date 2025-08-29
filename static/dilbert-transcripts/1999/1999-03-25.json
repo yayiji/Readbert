@@ -1,0 +1,25 @@
+{
+  "date": "1999-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My wife had a baby!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope it's not a moron."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you looked into foster care?",
+        "Maybe we shouldn't have gone with our first instinct.",
+        "We meant well."
+      ]
+    }
+  ]
+}

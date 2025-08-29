@@ -1,0 +1,25 @@
+{
+  "date": "1998-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our department mascot will be the industrious beaver."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a picture of a woodchuck."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He looks perky.",
+        "That's close enough.",
+        "He could be a beaver who lives in a hole."
+      ]
+    }
+  ]
+}

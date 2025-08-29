@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting to get an inferiority complex."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it makes you feel better, that isn't a complex."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now if you'll excuse me, I gotta take a wicked wag."
+      ]
+    }
+  ]
+}

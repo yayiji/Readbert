@@ -1,0 +1,34 @@
+{
+  "date": "2004-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project is my top priority.",
+        "Tell me everything that I need to know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm so bored...",
+        "Can't...",
+        "stay...",
+        "awake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't started talking yet."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It gets worse??!",
+        "O-o-okay"
+      ]
+    }
+  ]
+}

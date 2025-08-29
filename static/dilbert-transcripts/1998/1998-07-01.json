@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Our software is perfect. The problem must be with you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go to the cat scan machine in the break room and insert your head. I'll monitor you from here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you see the problem?",
+        "I blame the tight labor market."
+      ]
+    }
+  ]
+}

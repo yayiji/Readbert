@@ -1,0 +1,26 @@
+{
+  "date": "2003-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where do you want to eat?",
+        "Anyplace."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Suddenly, Mike the vegan pounced.",
+        "Do you mind if I join you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Soon, hunger started to set in.",
+        "No, I can't eat at any of those fifty choices. What else do you have?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, can you show the new guy how to do a project status report?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He doesn't read them, so we all use a random phrase generator. I'll e-mail it to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You said that in front of him.",
+        "He only listens when he's talking."
+      ]
+    }
+  ]
+}

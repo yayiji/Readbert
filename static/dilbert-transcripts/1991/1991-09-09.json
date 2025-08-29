@@ -1,0 +1,24 @@
+{
+  "date": "1991-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do we know that the news isn't faked in Hollywood?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why is there exactly thirty minutes of world news every night? And why don't major stories ever happen on weekends?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'm sure I see a string attached to the space shuttle.",
+        "Worse yet, it's a rerun."
+      ]
+    }
+  ]
+}

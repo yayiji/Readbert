@@ -1,0 +1,27 @@
+{
+  "date": "1998-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Deputy of common sense",
+        "Are you the government safety inspector?",
+        "Yup. I love my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Watch your step!",
+        "Hey!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does your boss determine your pay?",
+        "It's based on the decrease in accidents after my inspection."
+      ]
+    }
+  ]
+}

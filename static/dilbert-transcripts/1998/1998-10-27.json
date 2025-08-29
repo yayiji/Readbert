@@ -1,0 +1,24 @@
+{
+  "date": "1998-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's the plan.",
+        "Now I will pretend to listen to your irrational concerns."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is another situation where ambiguity would be better."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1993-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh, Lisa, I was wondering if you'd like to go on a date with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can only date you if you survive the \"challenge of fear.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is the \"challenge of fear\"?",
+        "It's a test of your manliness."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "First you must stick your head in the drawer as I slam it shut."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I staple you to the employee bulletin board."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Live weasels are stuffed in your pants."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Finally, you must fling yourself down the elevator shaft!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The weird thing is that they rule the world.",
+        "Ready"
+      ]
+    }
+  ]
+}

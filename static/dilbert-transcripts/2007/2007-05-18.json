@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, you showed up for work almost every day this week. Here are some \"morale dollars.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not real money, but you can redeem it for gifts and services that you don't want or need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also entered you into a raffle that you didn't win.",
+        "Honk!"
+      ]
+    }
+  ]
+}

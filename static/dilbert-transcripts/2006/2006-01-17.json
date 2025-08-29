@@ -1,0 +1,24 @@
+{
+  "date": "2006-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ceo visits",
+        "We bought our competitor and we plan to integrate their product line into ours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did anyone tell you that their products are worthless pieces of garbage? Maybe that's why they sold the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean congratulations."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1999-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This office is swarming with evil spirits.",
+        "It is?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's one in your vent!",
+        "Ooh - he ducked back in before you saw him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Put rubber bands around your pant legs to keep the spirits out of your trousers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I figure the evil spirits will mount a rear assault through that window."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Aaagh!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What did you see?!",
+        "It's gone now."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your only hope is to turn your secretary's cubicle into a koi pond."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you feel any luckier?"
+      ]
+    }
+  ]
+}

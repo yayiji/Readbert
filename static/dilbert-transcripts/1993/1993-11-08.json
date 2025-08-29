@@ -1,0 +1,24 @@
+{
+  "date": "1993-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the boss. I can take the last bit of coffee without making a new pot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Look at me!! I'm taking the last drop!! Ha ha ha ha ha ha ha!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "An actual human would feel guilt in this situation.",
+        "The pot needs washing."
+      ]
+    }
+  ]
+}

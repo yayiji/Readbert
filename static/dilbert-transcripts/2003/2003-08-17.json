@@ -1,0 +1,55 @@
+{
+  "date": "2003-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your network-security product is buggy and complicated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your user guide is an inspired work of pure evil."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your tech-support department is an inebriated chimpanzee with a typewriter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "One strategy would be to fix all of those problems.",
+        "What's the other strategy?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sell consulting services to your victims... I mean customers!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm so happy, it's making my hair quiver!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But what do we do when our consultants can't make our products work either?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They're paid by the hour.",
+        "Quiver!!"
+      ]
+    }
+  ]
+}

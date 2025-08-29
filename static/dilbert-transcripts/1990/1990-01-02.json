@@ -1,0 +1,24 @@
+{
+  "date": "1990-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting to write an unauthorized biography about you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's kind of a \"pet and tell\" exposé full of startling revelations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who would be startled by my life?",
+        "I think you will be."
+      ]
+    }
+  ]
+}

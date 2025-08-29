@@ -1,0 +1,26 @@
+{
+  "date": "1990-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert takes a slingshot ride to Elbonia's capital.",
+        "There it is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Splunk",
+        "It's a good thing this whole country is made of mud."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have come to teach you capitalism.",
+        "Did you bring blue jeans?"
+      ]
+    }
+  ]
+}

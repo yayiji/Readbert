@@ -1,0 +1,54 @@
+{
+  "date": "1999-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, make a few changes to this contract."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Changes? This contract was signed months ago.",
+        "It doesn't hurt to ask."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want me to ask for a sixty percent discount?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No one said it would be easy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're asking me to be a clueless jerk in front of our primary vendor."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Please don't ask me to do this."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And ask if they'll change the part about \"acts of God\" to include poltergeists."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's why our vendors never try to steal our best employees."
+      ]
+    }
+  ]
+}

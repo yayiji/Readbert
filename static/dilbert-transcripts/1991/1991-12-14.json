@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Knowledge is power, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Someday, the people who know how to use computers will rule over those who don't."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And they will have a special name for us.",
+        "Secretaries."
+      ]
+    }
+  ]
+}

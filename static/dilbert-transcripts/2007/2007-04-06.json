@@ -1,0 +1,24 @@
+{
+  "date": "2007-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I quantify the benefits of my department?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try making absurd claims of value while hoping that no one asks questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that work?",
+        "I hope so. Here's my invoice."
+      ]
+    }
+  ]
+}

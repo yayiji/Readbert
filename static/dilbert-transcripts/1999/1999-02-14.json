@@ -1,0 +1,54 @@
+{
+  "date": "1999-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The ceiling in my work area collapsed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one else has complained."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A steel beam hit me in the head!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How can I be sure it didn't happen in your home?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There aren't any steel beams in my house!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you removed them with your head."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Uh-oh... losing consciousness."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If you can hear me, don't worry!",
+        "I'll write your suicide note!!"
+      ]
+    }
+  ]
+}

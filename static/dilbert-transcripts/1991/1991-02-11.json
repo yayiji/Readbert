@@ -1,0 +1,23 @@
+{
+  "date": "1991-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can spend the first day at Clyde Canyon hiking and exploring..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you still mad about the flight arrangements?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sir, you'll have to store your carry-on luggage in the overhead compartment."
+      ]
+    }
+  ]
+}

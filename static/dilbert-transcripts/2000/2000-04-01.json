@@ -1,0 +1,23 @@
+{
+  "date": "2000-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to perform a gap analysis for our department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Be completely honest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The gap is located between two pointy tufts of hair that move about the office."
+      ]
+    }
+  ]
+}

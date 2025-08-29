@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you have been chosen to design the world's safest nuclear power plant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is the greatest assignment that any engineer could hope for.",
+        "I'm flattered by the trust you have in me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "By \"safe\" I mean \"not near my house.\""
+      ]
+    }
+  ]
+}

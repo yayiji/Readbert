@@ -1,0 +1,24 @@
+{
+  "date": "1997-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found another dead employee in the conference room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know what got him - the boredom or the hard work.",
+        "But headcount is down one and the company has life insurance on him!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like I found my \"employee of the week.\""
+      ]
+    }
+  ]
+}

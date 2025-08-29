@@ -1,0 +1,23 @@
+{
+  "date": "1994-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This desktop video conference thing is great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Even though you're telecommuting, you still maintain a level of professionalism."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's share a document next time."
+      ]
+    }
+  ]
+}

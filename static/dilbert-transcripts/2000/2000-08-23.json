@@ -1,0 +1,25 @@
+{
+  "date": "2000-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We increased the complexity of your pay slip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now you'll never know when we rip you off!",
+        "Yeeha!",
+        "Yeeha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The only part that really bugs me is the yeehas."
+      ]
+    }
+  ]
+}

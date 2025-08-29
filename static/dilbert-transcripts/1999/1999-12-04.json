@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a book about astral projection."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm gonna try this during our meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anyone want to switch chairs?"
+      ]
+    }
+  ]
+}

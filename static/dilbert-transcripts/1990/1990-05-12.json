@@ -1,0 +1,39 @@
+{
+  "date": "1990-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert presents",
+        "Bad habits",
+        "from a",
+        "parallel",
+        "universe!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Table for Phleem?",
+        "Yes. In the \"no slapping yourself with a sea bass\" section."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Slap",
+        "Slap",
+        "Slap",
+        "Slap",
+        "Great.",
+        "One table away..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you ever wonder about the first person to try that habit?"
+      ]
+    }
+  ]
+}

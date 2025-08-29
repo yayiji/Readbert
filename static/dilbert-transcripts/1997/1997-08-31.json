@@ -1,0 +1,54 @@
+{
+  "date": "1997-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll make a quick copy, then we can discuss it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, no, I'll have my secretary do that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That will take longer.",
+        "It's more cost-effective."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We're highly paid professionals. Carol is... well... I don't know if we pay her at all."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now we're free to do high-level planning."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um... we kinda need that document."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ooh, time for lunch."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So... do you fish?"
+      ]
+    }
+  ]
+}

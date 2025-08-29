@@ -1,0 +1,23 @@
+{
+  "date": "2003-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I went to a movie with an unemployed guy.",
+        "I call that an unfunded man date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The unemployed guy didn't laugh either.",
+        "Maybe it's my delivery."
+      ]
+    }
+  ]
+}

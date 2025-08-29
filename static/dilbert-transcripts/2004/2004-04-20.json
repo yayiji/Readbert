@@ -1,0 +1,27 @@
+{
+  "date": "2004-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the real estate agent",
+        "When it rains, the sewer backs up and covers the driveway.",
+        "Lake view."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every spring, rabid squirrels rip off huge chunks of the roof to look for food.",
+        "Seasonal skylight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The dry brush behind the house is a fire hazard.",
+        "Potential... fire... place."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2002-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The three pillars of our pyramid are communication, integrity, and teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Since when do pyramids have pillars?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Answer: Shut up."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Problem: All of my team members are idiots."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I communicate my honest opinion of their ideas, I won't be a team player."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But if I pretend to agree with their bad ideas, I won't have integrity."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So instead of being a pyramid, can I be a two-legged stool like you?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wow! That was much better than my pillar question.",
+        "Aren't I on your team?"
+      ]
+    }
+  ]
+}

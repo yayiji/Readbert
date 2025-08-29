@@ -1,0 +1,58 @@
+{
+  "date": "2003-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert",
+        "The evil director of human resources",
+        "Hello, head-count."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Am I fired?",
+        "No, no, no..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd never fire you for making unflattering comments to the press about the company."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Really? Everyone said you're evil."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Heh, heh, thank you.",
+        "But all I'm doing is transferring you to a new job."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gee, that doesn't sound so bad.",
+        "What is it?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Our new assembly line is seven inches too low. Your job is to fix it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm living for the weekend."
+      ]
+    }
+  ]
+}

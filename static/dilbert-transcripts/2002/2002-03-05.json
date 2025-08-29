@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's our current severance package?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I transfer you to a bad job and you quit without giving notice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate your package.",
+        "I hear that a lot."
+      ]
+    }
+  ]
+}

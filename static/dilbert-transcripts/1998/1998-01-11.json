@@ -1,0 +1,55 @@
+{
+  "date": "1998-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, this is Rex Tangle, our newest employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rex was specially bred to work in a cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He looks like he'll fit right in."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ask him about his personal life."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Rex, how's your personal life going?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't have one. That would be like stealing from the company."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you eat lunch?",
+        "I would enjoy a good square meal."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Meet the future.",
+        "Hello, you round pegs!"
+      ]
+    }
+  ]
+}

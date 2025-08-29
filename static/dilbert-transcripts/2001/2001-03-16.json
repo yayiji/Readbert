@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have no profit now and we never will. You're all laid off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does anyone know what laid off means?",
+        "It must be a compliment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're pretty laid off yourself, dude.",
+        "Want a hit of this?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The tribunal of admin assistants will hear the case of..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The man who is too unattractive to use the glass-walled conference room versus humanity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You put the verdict in the name of the case!",
+        "We're efficient."
+      ]
+    }
+  ]
+}

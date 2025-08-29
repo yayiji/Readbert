@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you requested, this price quote includes absolutely every expense you'll incur!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If that's true, you won't mind signing the \"Alice side agreement.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In the event of hidden costs, customer will repeatedly punch vendor while yelling \"You freaking weasel!\"",
+        "Pen?"
+      ]
+    }
+  ]
+}

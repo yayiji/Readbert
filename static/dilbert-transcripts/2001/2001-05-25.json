@@ -1,0 +1,26 @@
+{
+  "date": "2001-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you in turtlenecks and jeans."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't like to fish anymore.",
+        "Now you're training for marathons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whaa!",
+        "Whaa!",
+        "You can only cry at movies."
+      ]
+    }
+  ]
+}

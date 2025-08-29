@@ -1,0 +1,25 @@
+{
+  "date": "1998-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My dog put fertility drugs in my coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At first I was mad.",
+        "Then the tabloids offered me a million dollars for my story."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you seen a doctor?",
+        "My agent advises against that."
+      ]
+    }
+  ]
+}

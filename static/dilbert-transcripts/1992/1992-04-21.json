@@ -1,0 +1,26 @@
+{
+  "date": "1992-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know you're only trying to make me think you've played a prank on me!",
+        "Hoo-ha-ha",
+        "Hoo-ha-ha"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, two can play this game, my friend."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this a bad time to visit?",
+        "Hoo-ha-ha, hoo-ha-ha"
+      ]
+    }
+  ]
+}

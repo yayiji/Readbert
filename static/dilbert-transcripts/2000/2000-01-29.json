@@ -1,0 +1,26 @@
+{
+  "date": "2000-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm stressed out about work.",
+        "Maybe I'd feel better if I verbally abused a co-worker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You worthless piece of monkey spit!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang.",
+        "I was going to use that one.",
+        "Aah..."
+      ]
+    }
+  ]
+}

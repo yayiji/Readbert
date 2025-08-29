@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't compete on price."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We also can't compete on quality, features or service."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That leaves fraud, which I'd like you to call marketing."
+      ]
+    }
+  ]
+}

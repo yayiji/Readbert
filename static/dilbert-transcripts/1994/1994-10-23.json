@@ -1,0 +1,53 @@
+{
+  "date": "1994-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our project is six months behind schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meanwhile, our technology has become obsolete and the users' requirements have changed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Any suggestions?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's stubbornly plod along and deliver the useless product that was originally requested."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's the dumbest thing I've ever heard!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We should restart every time something changes. That way we'll never be held accountable for results!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You losers can work it out alone. I heard there's a job opening on Project Caribou."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next on the agenda: our weekly team-building exercise."
+      ]
+    }
+  ]
+}

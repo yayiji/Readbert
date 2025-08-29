@@ -1,0 +1,27 @@
+{
+  "date": "1990-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We heard you're forming a cult.",
+        "Can we join?",
+        "Hmm..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah... I could use some enforcers to help me conceal the hideous and cynical nature of my organization.",
+        "You're in..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes! We made it!",
+        "Bob, should we ask about the hideous part?"
+      ]
+    }
+  ]
+}

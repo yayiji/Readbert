@@ -1,0 +1,57 @@
+{
+  "date": "2004-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, would you like to go to lunch with me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As a coworker or as a date?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As a respected colleague.",
+        "Sounds fishy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I know you're up to something; I just don't know what."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're getting the better deal. I'll be looking at your face but you get to look at me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you could hike up your jacket to cover your face.",
+        "Fair enough."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is not a date. I insist on paying fifty percent.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll have the miser salad and water.",
+        "I'll have three half-priced New York steaks."
+      ]
+    }
+  ]
+}

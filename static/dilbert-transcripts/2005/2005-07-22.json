@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project has a 70% chance of minor success and a 30% chance of corporate ruination."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like those odds. When can we start?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Start?",
+        "I wish we had ten more projects like this one."
+      ]
+    }
+  ]
+}

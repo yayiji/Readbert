@@ -1,0 +1,23 @@
+{
+  "date": "2005-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I've noticed that you seem bloated and lethargic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I prescribe these pills. They come highly recommended."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know they're safe because I bought them on the internet."
+      ]
+    }
+  ]
+}

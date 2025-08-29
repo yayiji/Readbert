@@ -1,0 +1,54 @@
+{
+  "date": "1996-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert.",
+        "How may I abuse you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to move my cursor to the right but my mouse is at the edge of the mousepad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried rebooting without saving your files?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yeah, several times."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Have you tried moving your desk?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It didn't work.",
+        "You need my $800 mousepad upgrade."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What account does this get charged to?",
+        "\"Idiot expense,\" just like everything else."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All attempts to train you have failed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't want to fire you because there's a hiring freeze and I can't backfill."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I've decided to scale back your responsibilities.",
+        "Where do you want these?"
+      ]
+    }
+  ]
+}

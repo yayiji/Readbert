@@ -1,0 +1,53 @@
+{
+  "date": "1991-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's \"school of hard knocks.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is the school you've heard so much about."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Chances are, one of your parents is a graduate of this school."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "At Dogbert's school of hard knocks, you will gain the wisdom that can only be obtained through suffering."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Throughout the course, I'll be whacking you with various blunt objects."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It may be unpleasant at first, but you'll get used to it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Eventually, your brain will rationalize the whole experience. You'll think I'm a dedicated teacher, and you'll actually believe you learned something."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Stick with the basics, I say."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales engineer",
+        "I did the hard part of making the sale.",
+        "All you have to do is install it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I might have promised them a few extra features."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you bring your own massage table or should I just get naked and sprawl on a desk?"
+      ]
+    }
+  ]
+}

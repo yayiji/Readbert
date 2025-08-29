@@ -1,0 +1,54 @@
+{
+  "date": "2007-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No offense, but you're totally unqualified for this position."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's okay. I already have a job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just need a job offer at a higher salary so I can use it to negotiate for a raise."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My boss is an irrational dipwad who is easily manipulated by bogus comparisons and the illusion of scarcity."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your offer will make him think my value is much higher than it actually is."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Great. Now that I know I can't have you, I desperately want to hire you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My mind is already forming rationalizations for your total lack of qualifications!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do you turn this off?!",
+        "I'll tell you after you write the offer."
+      ]
+    }
+  ]
+}

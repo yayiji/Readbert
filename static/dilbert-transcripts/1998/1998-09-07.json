@@ -1,0 +1,27 @@
+{
+  "date": "1998-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello, I'm a rat.",
+        "This is a consulting company.",
+        "We'll pay you $200,000 per year to work for us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm more interested in investment banking.",
+        "*$! ☁",
+        "Job market."
+      ]
+    }
+  ]
+}

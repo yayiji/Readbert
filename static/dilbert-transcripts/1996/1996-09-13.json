@@ -1,0 +1,25 @@
+{
+  "date": "1996-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company announced that we will \"abandon our strategy of making good products...\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on we'll \"pursue a desperate strategy of mergers, business spin-offs, fruitless partnerships and random reorganizations.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"And we'll accelerate our program of paying the good employees to leave.\"",
+        "Stock price?",
+        "Up three points."
+      ]
+    }
+  ]
+}

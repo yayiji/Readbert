@@ -1,0 +1,23 @@
+{
+  "date": "2002-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like a tour of our cubicles?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I want to see a bunch of boxes filled with people pretending to work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless that's the only thing you planned for the first thirty minutes of my visit."
+      ]
+    }
+  ]
+}

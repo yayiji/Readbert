@@ -1,0 +1,24 @@
+{
+  "date": "1996-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your first draft was boring, so I added a bunch of exclamation points."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! Those exclamation points make this technical document come alive!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This might be that sarcasm thing I keep hearing about.",
+        "I'm in the presence of genius! I beg you to father my children!"
+      ]
+    }
+  ]
+}

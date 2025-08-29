@@ -1,0 +1,60 @@
+{
+  "date": "1994-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Exhibit \"A\" is my empty lunch bag, last seen full."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only the people in this room had the motive and the opportunity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Inspector Dogbert will investigate."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sniff, you were in the supply room with Willy the mail boy all morning.",
+        "You are innocent.",
+        "Sort of"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sniff, I give you a \"C+\" for hygiene but you did not take the lunch."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sniff:",
+        "Bologna...",
+        "Potato chips...",
+        "Carrot sticks...",
+        "Ha!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is the thief who took the decoy lunch... which we laced with synthetic female hormones!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You can't prove anything!",
+        "Is there something you'd like to get off your chest?"
+      ]
+    }
+  ]
+}

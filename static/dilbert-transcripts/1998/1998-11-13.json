@@ -1,0 +1,25 @@
+{
+  "date": "1998-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to sign the non-employee certification form before I process your raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But this would be a lie. I'm not a non-employee.",
+        "I'm only the messenger."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where did it come from?",
+        "The file cabinet."
+      ]
+    }
+  ]
+}

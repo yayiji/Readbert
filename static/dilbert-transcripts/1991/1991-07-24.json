@@ -1,0 +1,26 @@
+{
+  "date": "1991-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert enters a stand-up comedy competition.",
+        "Is this your first time?",
+        "Yeah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know I'm supposed to be your competitor, but I'll share my technique of using mental imagery to relax.",
+        "Thanks!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Imagine that you're naked... and the audience is full of Mary Kay sales people with camcorders..."
+      ]
+    }
+  ]
+}

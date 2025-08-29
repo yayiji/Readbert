@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't remember if I'm left-handed or right-handed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I live in fear that I'll be walking in the park, someone will toss me a ball and I'll look... awkward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nice catch, rat.",
+        "Really? It didn't look awkward?"
+      ]
+    }
+  ]
+}

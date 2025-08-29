@@ -1,0 +1,28 @@
+{
+  "date": "1993-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks easy enough."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, Dogbert!",
+        "What are you reading?",
+        "Nothing.",
+        "You will remember nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who am I?",
+        "Where am I?",
+        "That was a little bit like sand-blasting a soup cracker."
+      ]
+    }
+  ]
+}

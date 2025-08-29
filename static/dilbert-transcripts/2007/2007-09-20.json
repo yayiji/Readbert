@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw a fascinating documentary about bugs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In other words, you like bugs more than you like me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but I didn't realize it until just now."
+      ]
+    }
+  ]
+}

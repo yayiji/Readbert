@@ -1,0 +1,26 @@
+{
+  "date": "1990-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'm sending you to Elbonia to open our new subsidiary.",
+        "Elbonia?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But they only renounced communism last week!!",
+        "They don't understand capitalism or economics.",
+        "They have no appreciation of the real world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...He thinks they'll make fine engineers."
+      ]
+    }
+  ]
+}

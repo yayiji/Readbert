@@ -1,0 +1,25 @@
+{
+  "date": "1996-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Add an executive summary to the approval page."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Keep it simple. Our executives don't understand as much about technology as I do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How could they know less than you do?",
+        "You haven't figured out how to make your car go uphill.",
+        "Wrong; I got AAA road service."
+      ]
+    }
+  ]
+}

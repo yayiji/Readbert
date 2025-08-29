@@ -1,0 +1,26 @@
+{
+  "date": "1995-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't think it's fair to put convicts in our spare cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't be such a bigot.",
+        "These people have made one little mistake.",
+        "Otherwise, they're just like employees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think there are a few differences!",
+        "Yeah, their health plan is better."
+      ]
+    }
+  ]
+}

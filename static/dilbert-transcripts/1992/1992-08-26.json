@@ -1,0 +1,23 @@
+{
+  "date": "1992-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming. There's no specific agenda for this meeting..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As usual, we'll just make unrelated emotional statements about things which bother us. I'll kick it off..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's never time to get any work done around here!!"
+      ]
+    }
+  ]
+}

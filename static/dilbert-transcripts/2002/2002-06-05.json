@@ -1,0 +1,24 @@
+{
+  "date": "2002-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm moving into a vacant private office.",
+        "I got the last one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope this doesn't cause ill-will in the cubicle-bound co-workers I'm leaving behind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I ask is that when you enter Diltopia, you bow in reverence and take off your shoes."
+      ]
+    }
+  ]
+}

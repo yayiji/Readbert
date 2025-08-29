@@ -1,0 +1,26 @@
+{
+  "date": "2000-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The evil H.R. director",
+        "What new evil do you bring me, union steward Stuart?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees should not be allowed to move company computers. That's union work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's old evil.",
+        "It's new if we include PDAs and laptops.",
+        "I like the cut of your giblets."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1992-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can execute my stock transactions on-line with the PC."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There... my insider trading netted another sixty million dollars.",
+        "Bad dog!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I suppose it's too late to try slapping him with a rolled-up newspaper."
+      ]
+    }
+  ]
+}

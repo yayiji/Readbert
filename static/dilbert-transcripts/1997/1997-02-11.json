@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today I'll find out how big my bonus will be."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "After all the work I did on that project, I'm thinking four digits, maybe five."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "How many digits?",
+        "I used one on each hand."
+      ]
+    }
+  ]
+}

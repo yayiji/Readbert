@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Work is for losers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A winner says, \"That's on my list\" and never commits to a deadline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't people respect me less?",
+        "I don't see how."
+      ]
+    }
+  ]
+}

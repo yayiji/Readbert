@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school for aspiring self-service gas station attendants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will teach you how to sit in a little building and do nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These same skills can be transferred to a career in congress or Fotomat.",
+        "Really?",
+        "Fotomat?!"
+      ]
+    }
+  ]
+}

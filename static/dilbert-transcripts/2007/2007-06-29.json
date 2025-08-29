@@ -1,0 +1,24 @@
+{
+  "date": "2007-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, career counselor",
+        "You have no marketable talent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're totally unemployable and that's not going to change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The important thing is to keep a positive attitude."
+      ]
+    }
+  ]
+}

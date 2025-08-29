@@ -1,0 +1,29 @@
+{
+  "date": "2007-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my soul-o-meter, you still have 1% of your soul."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll give you a doughnut for it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sold."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's funny how quickly a good day can become a great day."
+      ]
+    }
+  ]
+}

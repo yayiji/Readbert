@@ -1,0 +1,24 @@
+{
+  "date": "2007-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the technical evaluation?",
+        "First draft."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... this says nothing but literally \"blah, blah, blah.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to nail the spacing first."
+      ]
+    }
+  ]
+}

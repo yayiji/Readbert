@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes?",
+        "I'm looking for my escaped lab rat. The trail leads to this house."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can't you just use another rat?",
+        "No. I'm on a very limited budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What will you do if he dies?",
+        "Cpr"
+      ]
+    }
+  ]
+}

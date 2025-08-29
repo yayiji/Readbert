@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "None of us has designed a nuclear power plant before but we can figure it out by using our process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In phase one we will gather customer requirements."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you want free electricity, without mutating, unless the mutation gives you x-ray vision.",
+        "Yep"
+      ]
+    }
+  ]
+}

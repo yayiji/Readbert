@@ -1,0 +1,27 @@
+{
+  "date": "1995-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As new owner of this company I hereby ban all meetings over one hour.",
+        "The dress code is casual.",
+        "Status reports are optional!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No more mission statements or \"visions.\"",
+        "Our motto is \"Have fun, satisfy customers, make money.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And stock options for all.",
+        "We can fit five more in this cubicle if we remove the chair."
+      ]
+    }
+  ]
+}

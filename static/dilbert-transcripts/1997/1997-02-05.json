@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I gave you a low performance ranking because you haven't bothered me all year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Logically, if your job were difficult and important, you would have brought me many issues to resolve."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you think of any other reason I might not bring you issues?",
+        "Yeah, laziness.",
+        "But I gave you the benefit of a doubt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1994-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hear me, all downtrodden cubicle-workers!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have come to form a union to improve your working conditions!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can't join a union. We're salaried.",
+        "I think it's against the law or something."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You've got long hours, no overtime pay, shrinking benefits, and no job security. You must act now!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're confusing us with people who have spines."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Don't worry. I brought strap-on porta-spines for everybody."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I demand a bigger cubicle!",
+        "Nobody will take advantage of us ever again!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now, let's talk about union dues.",
+        "Fair enough."
+      ]
+    }
+  ]
+}

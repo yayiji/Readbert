@@ -1,0 +1,25 @@
+{
+  "date": "1995-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our policy is to employ only the best technical professionals.",
+        "Question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't it also our policy to base salaries on the industry average?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Right. We like them bright but clueless.",
+        "I feel sorry for people like that."
+      ]
+    }
+  ]
+}

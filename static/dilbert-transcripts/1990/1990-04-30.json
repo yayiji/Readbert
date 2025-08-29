@@ -1,0 +1,24 @@
+{
+  "date": "1990-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh! I'm being sucked into my own computer program!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've always feared this..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, I'm Michael -- Michael Chip.",
+        "Cover charge is two bits. ...Get it?"
+      ]
+    }
+  ]
+}

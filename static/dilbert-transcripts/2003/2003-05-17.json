@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Question: How do you know which management techniques work best?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Logically, doesn't the existence of thousands of management books show that no one knows what works best?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The trick is knowing which one to read.",
+        "Now you're just making me mad."
+      ]
+    }
+  ]
+}

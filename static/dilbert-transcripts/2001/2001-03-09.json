@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The honest vendor",
+        "Five minutes after you buy it you'll want to throw it through a window."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We sell these at a loss but we make it up with our window repair business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It fell off.",
+        "Sometimes the components actually die from shame."
+      ]
+    }
+  ]
+}

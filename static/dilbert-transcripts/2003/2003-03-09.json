@@ -1,0 +1,57 @@
+{
+  "date": "2003-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I call my invention the \"eargarette.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a cigarette for your ear!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It allows non-smokers to take smoking breaks."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is there any downside?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Never mind."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We've been working for fifteen minutes straight. I need an eargarette break."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What?",
+        "What?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ear mint?",
+        "Two, please."
+      ]
+    }
+  ]
+}

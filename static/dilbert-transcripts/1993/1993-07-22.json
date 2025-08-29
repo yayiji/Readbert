@@ -1,0 +1,26 @@
+{
+  "date": "1993-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you do not drop your class action suit, then you'll have to face me in court."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I've never lost a case.",
+        "Then how do you know you wouldn't enjoy it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well...",
+        "I just wouldn't.",
+        "Good argument."
+      ]
+    }
+  ]
+}

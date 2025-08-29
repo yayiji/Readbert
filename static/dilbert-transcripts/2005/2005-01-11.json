@@ -1,0 +1,24 @@
+{
+  "date": "2005-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My stock-picking software needs more features."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think I'll add a module that claims to make hair grow on bald guys. I'll first test it on a rat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel a new one on my buttocks!",
+        "That's all the proof I need."
+      ]
+    }
+  ]
+}

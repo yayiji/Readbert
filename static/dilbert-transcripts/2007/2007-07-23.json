@@ -1,0 +1,29 @@
+{
+  "date": "2007-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your snacks are too loud.",
+        "Crunch",
+        "Crunch",
+        "Crunch"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only inconsiderate jerks eat crunchy food in cubicles.",
+        "Crunch",
+        "Crunch",
+        "Crunch"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should try to make me love you more than I love salt."
+      ]
+    }
+  ]
+}

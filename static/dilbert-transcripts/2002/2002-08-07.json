@@ -1,0 +1,27 @@
+{
+  "date": "2002-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, employees are not allowed to eat in cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gulp",
+        "Chomp",
+        "Chomp",
+        "Chomp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going to see that every time I close my eyes!",
+        "You started it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2001-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why don't you try using a wireless fiber multifage?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, first of all, no such thing exists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it did exist, it would surely be the wrong solution for a software bug."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And there's no extra money in our budget for hardware."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It would take six months to write a business case and get funding."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then our I.T. people would refuse to install it because it's not an approved vendor."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you have a better idea?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yes. I just fixed it."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Do you think you can hold the fort while I go coach someone else?"
+      ]
+    }
+  ]
+}

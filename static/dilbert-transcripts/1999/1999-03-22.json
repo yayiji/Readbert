@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're getting a visit from Hammerhead Bob!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't tell when I'm boring. I might be boring now and I don't even know it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no way to end a conversation with me; I'll follow you to the bathroom.",
+        "I'm nailed."
+      ]
+    }
+  ]
+}

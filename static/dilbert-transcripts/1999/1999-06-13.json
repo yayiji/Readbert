@@ -1,0 +1,57 @@
+{
+  "date": "1999-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, that's my idea.",
+        "What do you think?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, you are so naive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There are many things you don't understand."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's because you never tell me anything!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Like now, for example!",
+        "Dilbert, dilbert, dilbert..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Jeepers cripes!",
+        "Just tell me what's wrong with my idea!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Lean over here so I can pat your head in a condescending way."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So you took the pat?",
+        "I didn't want to leave empty-handed."
+      ]
+    }
+  ]
+}

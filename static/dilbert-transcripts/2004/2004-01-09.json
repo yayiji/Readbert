@@ -1,0 +1,25 @@
+{
+  "date": "2004-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The smokers in this building take hundreds of trips outside to smoke every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can harness that kinetic energy to create electricity to power their unused computers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pant",
+        "Pant",
+        "Too much slope."
+      ]
+    }
+  ]
+}

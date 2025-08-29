@@ -1,0 +1,56 @@
+{
+  "date": "1994-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I tried to fax it but our fax machine is broken."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would send it by modem but my communication software is incompatible with my new system software upgrade."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No... our electronic mail systems are incompatible."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Mail it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've only got one copy and our copier is out of toner."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, normally I could print another one but our LAN is being rewired."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I could just read it to you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I describe how technology improves our lives by...",
+        "Yeah, I'll hold.",
+        "Hello?",
+        "Dang."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1994-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Please wait while I consult with somebody who has your exact same problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you compensate for a tiny brain, Ratbert?",
+        "I just say I'm way too busy to learn. Then I get somebody else to do my work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going to transfer you to an expert.",
+        "Sometimes I pretend to be dead."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is it unethical for humans to clone themselves?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Morality is based on accepted norms. And accepted norms are based on morality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's self causing?",
+        "Ironically, yes."
+      ]
+    }
+  ]
+}

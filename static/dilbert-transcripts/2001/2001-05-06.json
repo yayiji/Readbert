@@ -1,0 +1,56 @@
+{
+  "date": "2001-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet the new guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you like cheese, Dilbert?",
+        "Um... yes, I guess so."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll send two truckloads of parmesan cheese to your house!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Thanks... but I don't need that much cheese."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Message received!",
+        "I'll send you some bread and a fondue set too."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Here are two tickets to the \"World-o-cheese\" exhibit in Wisconsin."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your new nickname will be \"Cheeseboy\" to reflect your weird obsession."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hi. I'm Wally.",
+        "Wally, do you like leather products?"
+      ]
+    }
+  ]
+}

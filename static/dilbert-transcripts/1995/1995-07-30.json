@@ -1,0 +1,57 @@
+{
+  "date": "1995-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new VP says he has an \"open door policy.\" Let's check it out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Knock knock"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi ho. Nothing important. We just wanted to drop in."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This open door policy is great. Our last VP was aloof.",
+        "Are those sourballs?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Look at all the furniture in here!",
+        "I call couch!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is there something I can do for you?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well... sometimes our cubicles are too hot.",
+        "Could you have somebody look into it?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Boy, those sourballs sure lull you into a false sense of security.",
+        "The man is like a huge insincere spider."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2007-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At my old job, we did everything better than we do it here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They sound like a great company.",
+        "It's no wonder they fired you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They didn't fire me.",
+        "I quit to come work here.",
+        "So, your point is that you're a moron?"
+      ]
+    }
+  ]
+}

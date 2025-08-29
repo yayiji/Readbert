@@ -1,0 +1,25 @@
+{
+  "date": "2005-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, did you call the director of human resources a \"furry log\"?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't tell if you're promoting teamwork with a cute nickname or creating a hostile environment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which is it?",
+        "It's teamwork, you squirrel-infested stump."
+      ]
+    }
+  ]
+}

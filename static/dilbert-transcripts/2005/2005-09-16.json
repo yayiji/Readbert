@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to pick up Ted's function."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. I have infinite capacity to do more work as long as you don't mind that my quality approaches zero."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or are you asking me to do something that's logically impossible?",
+        "I think I hate you."
+      ]
+    }
+  ]
+}

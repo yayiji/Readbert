@@ -1,0 +1,22 @@
+{
+  "date": "2000-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Due to worsening storm conditions,",
+        "all \"non-essential\" personnel may go home early."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This will be the easiest round of layoffs ever."
+      ]
+    }
+  ]
+}

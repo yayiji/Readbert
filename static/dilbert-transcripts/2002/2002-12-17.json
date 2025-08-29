@@ -1,0 +1,24 @@
+{
+  "date": "2002-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I expect to work myself to death in six months, so I need a will."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you mentally incompetent?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think so.",
+        "Okay then, I'll remove my name from the list of beneficiaries."
+      ]
+    }
+  ]
+}

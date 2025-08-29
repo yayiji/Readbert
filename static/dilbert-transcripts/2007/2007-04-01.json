@@ -1,0 +1,57 @@
+{
+  "date": "2007-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "No. I'm busy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When would be a good time for me to come back?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Come back when I'm not busy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Aren't you always busy?",
+        "Heck, no."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sometimes I'm in between doing one thing and doing another thing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When will that happen?",
+        "It's unpredictable."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ask Carol to call you when I'm not busy."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Carol, would you...",
+        "I'm busy!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2003-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I work for an unethical company.",
+        "Does that make me a bad person?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're loathsome and despicable.",
+        "If crud wore shoes, you would be the crud in the crud's shoes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why did that seem rehearsed?",
+        "That's all I think about when we go for walks."
+      ]
+    }
+  ]
+}

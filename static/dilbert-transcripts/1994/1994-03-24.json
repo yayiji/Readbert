@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've become a doomsday prophet so I can scare gullible people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm telling everyone the world will end in year 2000. My compelling logic is that 2000 is a big round number."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's big and round.",
+        "Stop it!!!"
+      ]
+    }
+  ]
+}

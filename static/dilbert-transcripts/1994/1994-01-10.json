@@ -1,0 +1,25 @@
+{
+  "date": "1994-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's go around the table and give an update on each of our projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My project is a pathetic series of poorly planned, near-random acts.",
+        "My life is a tragedy of emotional desperation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's more or less customary to say things are going fine.",
+        "I think I need a hug."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1998-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where's that budget forecast I asked for?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put it on your chair this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd better look again."
+      ]
+    }
+  ]
+}

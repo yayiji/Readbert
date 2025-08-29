@@ -1,0 +1,25 @@
+{
+  "date": "2002-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Meet your new cubicle neighbor.",
+        "His name is Medical Mel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mel will be making loud personal phone calls all day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it supposed to make a squishy sound?",
+        "Listen to this..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So to do our part for east-west relations..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've decided to host a dog from the Soviet exchange program.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogbert, I'd like you to meet Nikita... Nikita Dorgachev.",
+        "Charmed."
+      ]
+    }
+  ]
+}

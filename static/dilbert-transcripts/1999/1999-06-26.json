@@ -1,0 +1,24 @@
+{
+  "date": "1999-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will now use the science of face-reading to determine your potential."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see your face riding proudly atop a mighty thoroughbred horse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Jockey?",
+        "Saddle."
+      ]
+    }
+  ]
+}

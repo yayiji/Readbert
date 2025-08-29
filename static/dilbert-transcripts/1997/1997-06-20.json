@@ -1,0 +1,26 @@
+{
+  "date": "1997-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Give me a final design for Project Caribou by Tuesday.",
+        "That's Wally's project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know, but I'm thinking about it now and Wally isn't in the room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell Wally it's your project now.",
+        "Do you see this thimble?",
+        "I keep my morale in it."
+      ]
+    }
+  ]
+}

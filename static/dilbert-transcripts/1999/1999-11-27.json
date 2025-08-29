@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The turnaround is complete.",
+        "I'm off to my new job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a meat packing house that needs to reduce overhead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I figure I can switch a few room signs and finish in an afternoon."
+      ]
+    }
+  ]
+}

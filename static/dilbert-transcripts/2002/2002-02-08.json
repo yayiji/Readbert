@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just had a good meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it just didn't last long enough to reveal the incompetence of the attendees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's what I call a good meeting.",
+        "I'm having a bad meeting."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1997-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "The company has taken out a life insurance policy on you, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We pay the premiums and we collect the insurance when you die.",
+        "Is this because I'm so valuable to the company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's because we think you'll be more valuable dead.",
+        "This is exactly why I don't like cats."
+      ]
+    }
+  ]
+}

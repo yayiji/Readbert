@@ -1,0 +1,55 @@
+{
+  "date": "1992-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm taking orders for \"Camp Girl Cookies\" on behalf of my daughter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many dozen can I guilt you into buying?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've always wondered, Ted, why do they sell cookies? Is it just for the money?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, it's to help them build character by earning their own money."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oh, so your daughter is doing some selling from door-to-door?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, too dangerous.",
+        "My wife and I are doing all the selling at work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, then aren't you only teaching your daughter to act helpless so other people will do her work?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Just buy the stupid cookies!!",
+        "Have you considered foster care for your kids?"
+      ]
+    }
+  ]
+}

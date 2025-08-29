@@ -1,0 +1,53 @@
+{
+  "date": "2003-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I move to one of the empty cubicles?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those are full-size cubicles; interns get half-size cubicles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes...ordinarily, but there are hundreds of vacant cubicles because of downsizing."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm not following you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They're empty! They will never be occupied. I want to use one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We don't have the budget to turn a full-size cubicle into a half-size cubicle just for you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! That's not what I... Never mind! Forget it!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Furthermore, I do not believe this is a half-size cubicle."
+      ]
+    }
+  ]
+}

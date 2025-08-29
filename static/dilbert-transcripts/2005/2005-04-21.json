@@ -1,0 +1,23 @@
+{
+  "date": "2005-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't feel bad if you only got a 3% raise; I only got 2% myself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can we feel bad that 2% of your pay is bigger than 3% of our pay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't get all mathy on me."
+      ]
+    }
+  ]
+}

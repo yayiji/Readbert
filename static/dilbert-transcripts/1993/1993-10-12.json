@@ -1,0 +1,25 @@
+{
+  "date": "1993-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The motion is approved.",
+        "Dogbert is our new company president because he has the best hair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Bulldoze the employee cafeteria and put in my helicopter pad...",
+        "And I need a few office improvements."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need a trap door here, but it won't be funny unless you can give me some \"flushing\" sounds."
+      ]
+    }
+  ]
+}

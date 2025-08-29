@@ -1,0 +1,23 @@
+{
+  "date": "1999-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "#!*."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "#!3*"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A \"meeting moth\" should never go to a meeting on an empty stomach."
+      ]
+    }
+  ]
+}

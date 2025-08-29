@@ -1,0 +1,25 @@
+{
+  "date": "1999-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The turnaround CEO",
+        "...From a value-based management perspective it's clear..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...That the training department's return exceeds the cost of capital...",
+        "So please don't kill me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, you're next...and begging doesn't work."
+      ]
+    }
+  ]
+}

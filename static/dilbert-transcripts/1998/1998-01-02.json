@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nobel prize committee",
+        "Okay, we've narrowed it down to the theories we don't understand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In science, the simplest solution is usually the best.",
+        "Which of these theories is the simplest solution?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... that would be whatever is on top of the pile.",
+        "Are we sure we can't vote for ourselves?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm wearing my work clothes while I telecommute, to maintain discipline.",
+        "Is it working?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll test the theory by seeing if my clothes stop me from going to the kitchen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently my clothes are defective.",
+        "Haven't I been saying that?"
+      ]
+    }
+  ]
+}

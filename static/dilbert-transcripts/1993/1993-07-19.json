@@ -1,0 +1,26 @@
+{
+  "date": "1993-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your new project will have no budget and no management support.",
+        "Expect to spend most of your time giving status reports."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh no! The life force has been drained out of me! I'm becoming a damp rag!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's amazing.",
+        "It's nothing.",
+        "I did eighteen at once at the employee empowerment brunch."
+      ]
+    }
+  ]
+}

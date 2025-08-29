@@ -1,0 +1,26 @@
+{
+  "date": "2006-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're a job hopper.",
+        "I like to think I have high standards."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that all jobs require you to do things you'd rather not do?",
+        "That's why they have to pay you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Perhaps your expectations are unrealistic.",
+        "I quit! I'm going someplace where my coworkers will never waste my time!!!"
+      ]
+    }
+  ]
+}

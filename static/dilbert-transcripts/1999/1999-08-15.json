@@ -1,0 +1,54 @@
+{
+  "date": "1999-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The pointy-haired boss wants to see you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He tried to reach you by phone, e-mail and pager."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you resisted his electronic attempts to ruin your productivity."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So he decided to send in the ground troops."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Don't make me use this!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Could you wait outside while I return some phone calls?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Get to the back of the line."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Does anyone want to have a conversation?",
+        "I have a magazine."
+      ]
+    }
+  ]
+}

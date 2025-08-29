@@ -1,0 +1,27 @@
+{
+  "date": "1990-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert is forced to work in the accounting department.",
+        "First you must understand how numbers change reality..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some people think numbers merely reflect reality...",
+        "but we believe that numbers create reality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is our budget-erasing room...",
+        "Erase faster!!",
+        "Snap"
+      ]
+    }
+  ]
+}

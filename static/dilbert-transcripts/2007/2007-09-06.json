@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carl, I have to fire you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're totally incompetent at everything you do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Before you go, I'd like you to teach Dilbert how to do your job."
+      ]
+    }
+  ]
+}

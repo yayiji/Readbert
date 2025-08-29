@@ -1,0 +1,25 @@
+{
+  "date": "1999-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, from now on, I will refer to myself in the third person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogbert does this to emphasize his special brand of greatness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bob thinks that is a good idea.",
+        "Hey!",
+        "You're ruining it!"
+      ]
+    }
+  ]
+}

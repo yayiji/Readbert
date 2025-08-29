@@ -1,0 +1,24 @@
+{
+  "date": "1998-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need help on the assignment that you said is a \"no brainer.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's easy. Just skip the \"interface design\" phase and make everything beige.",
+        "You can't go wrong with beige."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I always know where to go for no-brainer decisions."
+      ]
+    }
+  ]
+}

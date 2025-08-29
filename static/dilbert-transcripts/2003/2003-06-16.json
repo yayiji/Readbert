@@ -1,0 +1,26 @@
+{
+  "date": "2003-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to go on an international sales call.",
+        "How should I dress?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Salespeople should dress one level above the customer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's better - the cherub or the lightning bolt?",
+        "Take both.",
+        "You can't overdress at the Vatican."
+      ]
+    }
+  ]
+}

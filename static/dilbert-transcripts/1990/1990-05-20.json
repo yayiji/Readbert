@@ -1,0 +1,54 @@
+{
+  "date": "1990-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's it look, doc?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You came in just in time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm way behind in my alimony payments.",
+        "I'll have to do some unnecessary surgery on you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have a fair number of redundant organs."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Two lungs...",
+        "Two kidneys...",
+        "Large and small intestines..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I'm sure you aren't taking full advantage of your pancreas."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I find that humor helps my patients relax."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2002-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the treasure hunt going? Have you found any loot?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not about the \"loot,\" as you say.",
+        "We detectors are motivated by the thrill of the hunt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could seed the carpet with nickels.",
+        "I tried that but I can't find them."
+      ]
+    }
+  ]
+}

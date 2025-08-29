@@ -1,0 +1,24 @@
+{
+  "date": "1990-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's go see the new Alfred Hitchcock movie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How could there be a \"new\" Hitchcock movie?",
+        "It's some kind of a sequel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alfred Hitchcock presents The Fish"
+      ]
+    }
+  ]
+}

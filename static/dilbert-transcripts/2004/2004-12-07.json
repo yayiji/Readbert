@@ -1,0 +1,25 @@
+{
+  "date": "2004-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's temporary blindness caused by your boss's flashes of the obvious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let Dogbert guide you for a few days.",
+        "And here's a prescription to make you dopey."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now?",
+        "Whatever."
+      ]
+    }
+  ]
+}

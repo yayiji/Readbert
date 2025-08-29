@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is Wally and I'll be your engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our special today is incomprehensible mumbling in an acronym sauce with a snide of attitude."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll just have a technical review.",
+        "Do you want sarcasm with that?"
+      ]
+    }
+  ]
+}

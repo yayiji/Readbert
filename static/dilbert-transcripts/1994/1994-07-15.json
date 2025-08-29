@@ -1,0 +1,30 @@
+{
+  "date": "1994-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you need a carpool urgently."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I need \"carpal tunnel surgery.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The repetitive motion of typing has caused permanent damage.",
+        "I have to wear braces until the surgery."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There's no room in my carpool."
+      ]
+    }
+  ]
+}

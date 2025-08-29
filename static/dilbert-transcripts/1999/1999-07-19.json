@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I have a tissue?",
+        "No!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why should the low-paid secretary provide free tissues to engineers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, free tissues!",
+        "Gaaa!"
+      ]
+    }
+  ]
+}

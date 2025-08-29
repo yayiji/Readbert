@@ -1,0 +1,54 @@
+{
+  "date": "2004-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Create a password that's at least six characters long with a mix of letters and numbers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about 123?",
+        "Uh, no."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It has to include letters and be at least six characters long."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How about abc?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Letters and numbers and at least six characters long!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Foursome?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

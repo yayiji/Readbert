@@ -1,0 +1,28 @@
+{
+  "date": "1990-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Not much garbage...",
+        "Did somebody die?",
+        "Dilbert went to the compost pile in the sky."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bad timing...",
+        "Judging from last week's garbage, he had almost finished his cloning machine design.",
+        "I only notice a few linear math errors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This design would just create a hologram and a bad chile con carne recipe.",
+        "Man, you sure know your garbage!"
+      ]
+    }
+  ]
+}

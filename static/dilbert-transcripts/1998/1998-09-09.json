@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "As our newest partner, you'll get the least desirable assignments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll load you in the consultant cannon, shoot you to the client's site and monitor your progress."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The window is more to the left.",
+        "The client is more to the right."
+      ]
+    }
+  ]
+}

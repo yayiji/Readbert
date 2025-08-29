@@ -1,0 +1,25 @@
+{
+  "date": "1994-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This cartoon seems to be saying that management decisions are a joke."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cartoons are not allowed on cubicles.",
+        "It hurts morale.",
+        "I don't want to see this when I return."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've noticed a real improvement in morale since you removed the cartoon."
+      ]
+    }
+  ]
+}

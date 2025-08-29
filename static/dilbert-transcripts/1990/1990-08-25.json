@@ -1,0 +1,24 @@
+{
+  "date": "1990-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's not a stupid idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You see, people who don't own cars are missing out on the prestige of using car phones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The car-phone booth is a natural solution...",
+        "I granted, it uses a lot of coins."
+      ]
+    }
+  ]
+}

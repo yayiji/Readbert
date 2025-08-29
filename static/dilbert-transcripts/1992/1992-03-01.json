@@ -1,0 +1,62 @@
+{
+  "date": "1992-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert presents the seven advantages of being dumb."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Impending doom doesn't bother you.",
+        "There's a hole in the ozone layer.",
+        "Cool!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Television is a source of constant wonder.",
+        "I wonder if Doogie is a doctor in real life."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have a solution for every problem.",
+        "If people are starving in Africa they should move to France."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You are not constrained by a budget.",
+        "It was free! They just make you sign papers!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You've seen Elvis. Frequently.",
+        "It's the king!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Instant replays are as exciting as live action.",
+        "This time he could make it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You receive twice as many compliments.",
+        "You're kind of the Dan Quayle of dinosaurs.",
+        "Really?! Wow!"
+      ]
+    }
+  ]
+}

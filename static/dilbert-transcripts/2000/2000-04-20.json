@@ -1,0 +1,25 @@
+{
+  "date": "2000-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're invited to my four-hour meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no agenda. It's just supposed to hurt.",
+        "Any donuts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but I'll drop one on the floor and hide it with the others.",
+        "I like those odds."
+      ]
+    }
+  ]
+}

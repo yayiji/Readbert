@@ -1,0 +1,26 @@
+{
+  "date": "1990-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got a blind date with the lady who works at the library reference desk.",
+        "What if she's ugly?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Looks aren't important.",
+        "She sounded very smart over the phone, and I'm attracted to intelligent women.",
+        "Oh... right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... should I talk, or will you be reading my thoughts directly?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your visibility has been excellent lately. What's your secret?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I created a mind-less replica to attend meetings. He has no personality whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! You look totally real.",
+        "Hee hee! Burn, dude."
+      ]
+    }
+  ]
+}

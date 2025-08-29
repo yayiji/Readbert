@@ -1,0 +1,27 @@
+{
+  "date": "1995-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Chuck's looking unhappy today.",
+        "What's the problem, big guy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of my bad decisions are catching up to me.",
+        "Could we do another reorg to cover my tracks?",
+        "Yeah, I've got some bodies to bury, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"...These changes will allow us to focus on our core business.\"",
+        "Whoa! Let me get my reorg boots."
+      ]
+    }
+  ]
+}

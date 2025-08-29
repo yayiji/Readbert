@@ -1,0 +1,25 @@
+{
+  "date": "2000-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your honor, it is against my religion to judge others.",
+        "Only god may judge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're excused."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh ooh! I just changed my religion!",
+        "Jerk"
+      ]
+    }
+  ]
+}

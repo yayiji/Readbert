@@ -1,0 +1,52 @@
+{
+  "date": "2007-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I enjoyed meeting your staff. Keep up the good work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This isn't my staff.",
+        "I report to the guy who reports to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really? Which one of you reports to me?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, that explains why you keep hanging around outside my office."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I've been going to your office for years, waiting for you to get off the phone so I could talk to you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've been making fake phone calls for years, hoping the weirdo outside my office would go away."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Keep up the good work."
+      ]
+    }
+  ]
+}

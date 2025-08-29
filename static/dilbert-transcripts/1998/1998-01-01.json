@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I submitted our garbage man's theory to the Nobel Prize committee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope I wrote the theory right.",
+        "I don't know shorthand so I used pig latin to save time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nobel prize committee",
+        "What's an \"Oton-phay\"?",
+        "I love what you're doing with your hair."
+      ]
+    }
+  ]
+}

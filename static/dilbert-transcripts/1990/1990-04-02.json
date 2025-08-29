@@ -1,0 +1,28 @@
+{
+  "date": "1990-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you hear that the tiny East European country of Elbonia has abandoned communism?",
+        "Whoa! Big changes ahead."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Elbonia: Monday"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Elbonia: Tuesday",
+        "My pig",
+        "My tree",
+        "My mud farm",
+        "My feet"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have no useful skills or knowledge.",
+        "I compensate by \"raising issues.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our salespeople haven't been trained for the new product!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someone should have a meeting about that.",
+        "Wow, I can actually hear oxygen being wasted."
+      ]
+    }
+  ]
+}

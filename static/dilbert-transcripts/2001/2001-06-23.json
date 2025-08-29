@@ -1,0 +1,25 @@
+{
+  "date": "2001-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert!",
+        "I'm ho-o-ome!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be right there.",
+        "I have to sign the temp's time sheet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you're ever interested in a permanent position, give me a call."
+      ]
+    }
+  ]
+}

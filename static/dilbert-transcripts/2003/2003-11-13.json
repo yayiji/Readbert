@@ -1,0 +1,23 @@
+{
+  "date": "2003-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where can I put my most important files so I won't lose them?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll balance them on top of the trash can so the janitor knows it's not part of the actual trash."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These items must be what's most urgently in need of discardation."
+      ]
+    }
+  ]
+}

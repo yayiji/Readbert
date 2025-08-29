@@ -1,0 +1,57 @@
+{
+  "date": "1991-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh, what's that lying in the road up there?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It looks like a squished animal, or maybe a bird."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it moved...",
+        "Maybe it's still alive."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't want to look... it could be disgusting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...Can't resist.",
+        "I have to look anyway."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaagh!!",
+        "It's disgusting!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, wait... it's just an old shoe."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's that little blob up ahead?!",
+        "I think it's your brain."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1992-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Am I wrong or did you tell me you invested all of your money in stock options for a company called Zymed?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The radio says the stock price tripled on takeover rumors.",
+        "You just made about ten million dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But they say money can't buy happiness.",
+        "Apparently \"they\" are idiots."
+      ]
+    }
+  ]
+}

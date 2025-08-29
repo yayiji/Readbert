@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To defend against lawsuits, our records retention policy has been updated to include this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bam!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was I talking about?",
+        "The records retention policy."
+      ]
+    }
+  ]
+}

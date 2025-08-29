@@ -1,0 +1,25 @@
+{
+  "date": "2003-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Repair defective co-workers"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She's paranoid about not being invited to meetings. Can you fix her?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nope.",
+        "Can I trade her in?",
+        "Would you like a liar, a moron, or a whistler?"
+      ]
+    }
+  ]
+}

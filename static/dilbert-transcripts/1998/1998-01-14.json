@@ -1,0 +1,27 @@
+{
+  "date": "1998-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just because you guessed a hundred coin flips in a row doesn't mean you're psychic.",
+        "Coincidences do happen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I call seven rotations followed by inexplicable hovering and hen noises."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is luck...",
+        "Luck, luck, luck,",
+        "luck, luck!",
+        "Are we done now?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I don't accept the transfer to a frozen asteroid, I'll be surplussed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted, let me show you something on this map."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See this tiny island?",
+        "Yes.",
+        "That's where the people who care live."
+      ]
+    }
+  ]
+}

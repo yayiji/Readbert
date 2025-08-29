@@ -1,0 +1,23 @@
+{
+  "date": "2003-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an assignment for you that has no value whatsoever to the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For reasons of company politics, I need to pretend I'm doing something in that area."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, you're doing actual work. What's that all about?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2001-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you're going to Elbonia to shut down our Elbonian mud delivery business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meanwhile I'll tell our stockholders that we expect the mud delivery business to make huge profits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... is this illegal?",
+        "There's no law against optimism! I checked."
+      ]
+    }
+  ]
+}

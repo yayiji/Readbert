@@ -1,0 +1,24 @@
+{
+  "date": "1990-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Doc, we have to talk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every day you feed me over a hundred pounds of macaroni and cheese . . . at first I thought you were just being a good host."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But lately I've been thinking it could be something far more sinister.",
+        "Macaroni and cheese causes paranoia..."
+      ]
+    }
+  ]
+}

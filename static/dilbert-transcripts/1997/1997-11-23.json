@@ -1,0 +1,61 @@
+{
+  "date": "1997-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you show this to our VP, put in some revenue figures."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no revenue.",
+        "All we're doing is upgrading our network."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might have told him the project has revenues."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's not confuse him by changing the story now.",
+        "Yi-yi-yi"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "O-o-o-okay.",
+        "How much revenue do you want?",
+        "A million dollars?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I might have told him it was more."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Just tell me what lie to use!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can't you calculate it on the spreadsheet?",
+        "Must...",
+        "control...",
+        "fist...of...",
+        "death..."
+      ]
+    }
+  ]
+}

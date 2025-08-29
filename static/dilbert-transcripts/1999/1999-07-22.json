@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you seek Mordac - the preventer of information services?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I regret sending an insulting e-mail message to our CIO.",
+        "I need to delete it from the server."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The server was in that closet, right?",
+        "That's the CIO's office."
+      ]
+    }
+  ]
+}

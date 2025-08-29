@@ -1,0 +1,25 @@
+{
+  "date": "2005-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Meet our new sourpuss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I heard that every office has one.",
+        "And we didn't, so I went out and got one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anything ever sound like a bad idea to you?",
+        "Leadership is 90% optimism."
+      ]
+    }
+  ]
+}

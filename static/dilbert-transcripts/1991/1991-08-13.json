@@ -1,0 +1,28 @@
+{
+  "date": "1991-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the car salesman",
+        "I can let you have this one for five thousand.",
+        "Three thousand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I could sell that car for four thousand.",
+        "Thirty-five hundred.",
+        "Sold."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess you don't get a lot of negotiators like me.",
+        "It's the first time anybody bought the car they came here in."
+      ]
+    }
+  ]
+}

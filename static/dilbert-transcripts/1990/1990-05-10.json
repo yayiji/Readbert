@@ -1,0 +1,23 @@
+{
+  "date": "1990-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I read that half of all teenagers can't locate this country on a map."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One frustrated teacher handed out maps labeled \"You are here.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She spent the rest of the year trying to explain why the \"X\" doesn't move when you drive around."
+      ]
+    }
+  ]
+}

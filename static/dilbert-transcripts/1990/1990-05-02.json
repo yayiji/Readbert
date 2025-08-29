@@ -1,0 +1,26 @@
+{
+  "date": "1990-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me show you around the inside of your computer.",
+        "Neat!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's where we generate the hypnotic signals for your display screen.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To make you think you need more computers.",
+        "Good lord, you've learned to reproduce!"
+      ]
+    }
+  ]
+}

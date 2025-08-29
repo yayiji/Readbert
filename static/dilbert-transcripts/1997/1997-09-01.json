@@ -1,0 +1,27 @@
+{
+  "date": "1997-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert the network systems administrator, to all ignorant employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He who controls your information controls you.",
+        "I control your information."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The board of directors has appointed me emperor for life.",
+        "Bring the pointy-haired boss to me.",
+        "Uh-oh!",
+        "The escape key isn't working!"
+      ]
+    }
+  ]
+}

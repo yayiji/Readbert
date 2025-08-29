@@ -1,0 +1,29 @@
+{
+  "date": "1997-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your success at work depends on what you have in your hands when you walk around."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A coffee cup is bad.",
+        "A document is good.",
+        "A cigarette is bad.",
+        "A binder is good.",
+        "But the very worst thing..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't look like you're heading for the fast track,",
+        "Wally.",
+        "Actually, I am, unless it's occupied."
+      ]
+    }
+  ]
+}

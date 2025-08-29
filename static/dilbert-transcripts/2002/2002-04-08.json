@@ -1,0 +1,31 @@
+{
+  "date": "2002-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news, Dilbert.",
+        "I'm promoting you to more work!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the same pay and title.",
+        "But it must be good because I called it a promotion and I'm smiling!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Still...",
+        "Smiling...",
+        "Good...",
+        "News...",
+        "You're",
+        "scaring",
+        "me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's ad agency",
+        "Your commercials should compare your best assets to the competition's worst."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll use a hidden camera to film your employees on the job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I missed something here...",
+        "We'll imply that they all work for the competition. This isn't a documentary."
+      ]
+    }
+  ]
+}

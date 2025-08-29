@@ -1,0 +1,23 @@
+{
+  "date": "1990-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've heard the \"other\" tire company imply that your child's safety depends on its product..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing. If you don't buy our tires your whole stinkin' extended family will croak!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And don't get too attached to the family dog, either. Ha ha ha ha!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1999-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss is so dumb, he brought a tape measure to a distance learning class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha ha ha ha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My boss is so dumb..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He puts postage stamps on his e-mail.",
+        "Now he can't see his PC screen."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha ha ha ha ha ha!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How about you, Dilbert? Do you have any dumb boss jokes?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Dilbert, my PC is warm. I think our fire wall is acting up."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We're sorry.",
+        "We didn't know."
+      ]
+    }
+  ]
+}

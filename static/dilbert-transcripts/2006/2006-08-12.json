@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm your new nemesis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The nemesis function used to be handled informally. Now it's a profession, kind of like project management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stand by while I prepare my nemesis face and look for reasons to thwart you.",
+        "Sigh"
+      ]
+    }
+  ]
+}

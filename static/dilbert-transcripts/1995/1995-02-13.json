@@ -1,0 +1,27 @@
+{
+  "date": "1995-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm asking everybody to quantify their contributions to revenue.",
+        "Your pay will depend on it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I realize this is hard to quantify because you're designing future products but...",
+        "Here you go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A billion dollars?",
+        "It's as if you cynically believe we can't track these numbers.",
+        "That crossed my mind."
+      ]
+    }
+  ]
+}

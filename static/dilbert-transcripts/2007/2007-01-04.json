@@ -1,0 +1,24 @@
+{
+  "date": "2007-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My doctor says it will be easier if I diet with a buddy. Do you want in on this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good lord. I think I just developed an eating disorder!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They say the first 20 pounds are the easiest.",
+        "Not helping!"
+      ]
+    }
+  ]
+}

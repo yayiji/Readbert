@@ -1,0 +1,28 @@
+{
+  "date": "2000-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Anne, I need you to review my first draft."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Typo! Aaagh!",
+        "My world is flying apart!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You killed Anne L. retentive with a typo?",
+        "No,",
+        "she's",
+        "in a",
+        "comma."
+      ]
+    }
+  ]
+}

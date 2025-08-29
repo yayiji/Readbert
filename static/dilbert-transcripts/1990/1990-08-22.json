@@ -1,0 +1,27 @@
+{
+  "date": "1990-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can you live with yourself?",
+        "Have you no conscience?",
+        "Fur is murder"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, big deal...",
+        "A bunch of minks get bad haircuts and I get a warm coat...",
+        "I'll bet you'd make a nice pair of mittens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think I reached her."
+      ]
+    }
+  ]
+}

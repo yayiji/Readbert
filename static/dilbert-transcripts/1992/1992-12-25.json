@@ -1,0 +1,26 @@
+{
+  "date": "1992-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why should I open it? You already told me it's just a stupid hat.",
+        "Open it anyway."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, it's not really a hat; it's a crown."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not happy.",
+        "I'm only humoring you.",
+        "Merry Christmas, little friend."
+      ]
+    }
+  ]
+}

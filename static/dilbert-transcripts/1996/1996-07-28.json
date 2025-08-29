@@ -1,0 +1,59 @@
+{
+  "date": "1996-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a quick estimate for how much your next project will cost, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How should I know?",
+        "You haven't even told me what my next project is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's okay. I only need a rough estimate for planning purposes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I see where this is going. You're going to turn my wild guess into a budget.",
+        "Later I'll be blamed when it's wrong."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, no. I won't hold you to these numbers."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well...okay, let's say two million dollars."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ooh... can't afford that. I'll put you down for twenty thousand dollars."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "One year later...",
+        "You're way over budget.",
+        "Can you show me the cause?",
+        "It depends.",
+        "Can mirrors reflect your image?"
+      ]
+    }
+  ]
+}

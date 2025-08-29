@@ -1,0 +1,25 @@
+{
+  "date": "2000-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And we finished ahead of schedule.",
+        "Question"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you referring to the original schedule or the eighth revision?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Schedules can change.",
+        "That would be called a \"calendar\"."
+      ]
+    }
+  ]
+}

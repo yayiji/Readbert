@@ -1,0 +1,54 @@
+{
+  "date": "1998-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, we have a new corporate policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I quote..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Initiate the description of the criteria for requirements..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "By developing a framework for the application architecture..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Consistent with the planning corridor specified in our strategic initiative.",
+        "So tired"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Did you get all that?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wally, come here for a minute."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Read this and tell me if she's doing any of it right now."
+      ]
+    }
+  ]
+}

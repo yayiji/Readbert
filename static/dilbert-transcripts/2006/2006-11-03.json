@@ -1,0 +1,25 @@
+{
+  "date": "2006-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally in marketing",
+        "According to my market research, ninety percent of your customers..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Fantasize about beating you to death with your stupid product.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about the other ten percent?",
+        "They asked for your company address but didn't say why."
+      ]
+    }
+  ]
+}

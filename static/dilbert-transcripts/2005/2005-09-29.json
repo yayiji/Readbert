@@ -1,0 +1,27 @@
+{
+  "date": "2005-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally interviews",
+        "The job doesn't have a base salary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll pay us $1,000 per month and work from home.",
+        "If you make any money for us, we'll give you 10%."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not allowed to have business cards.",
+        "And you can't use our name.",
+        "Can I have a private office in my house?"
+      ]
+    }
+  ]
+}

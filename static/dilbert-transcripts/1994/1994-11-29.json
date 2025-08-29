@@ -1,0 +1,23 @@
+{
+  "date": "1994-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You submitted the lowest bid to run our new technical support hotline, Mister Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The other bidders would love to know how you plan to handle twelve thousand calls a day by yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell them to call me."
+      ]
+    }
+  ]
+}

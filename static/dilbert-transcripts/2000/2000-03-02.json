@@ -1,0 +1,25 @@
+{
+  "date": "2000-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have found where Ted hid his files before he quit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A skeleton!",
+        "I know what I must do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who's the babe?",
+        "Stay away, home-wrecker."
+      ]
+    }
+  ]
+}

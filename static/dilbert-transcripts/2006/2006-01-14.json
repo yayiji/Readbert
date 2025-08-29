@@ -1,0 +1,25 @@
+{
+  "date": "2006-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The ex-photographer I hired isn't doing well in captivity.",
+        "Is he dying?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not yet. It's more of a panda situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to mate?",
+        "I couldn't be less interested."
+      ]
+    }
+  ]
+}

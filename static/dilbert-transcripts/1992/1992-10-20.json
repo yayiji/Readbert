@@ -1,0 +1,25 @@
+{
+  "date": "1992-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hold still while doctor Dogbert whacks your knee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aak... crime is society's fault...",
+        "Raise taxes to feed the poor...",
+        "Stop nuclear research... save the..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently you're a knee-jerk liberal. You can live a normal life but you'll be annoying at parties."
+      ]
+    }
+  ]
+}

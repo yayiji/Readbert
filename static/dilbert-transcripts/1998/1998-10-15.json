@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's how you fix your \"Year 2000\" problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This concludes my four-day class. Are there any questions?",
+        "What's a year?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And is Cobol a kind of cabbage or what?",
+        "Class dismissed."
+      ]
+    }
+  ]
+}

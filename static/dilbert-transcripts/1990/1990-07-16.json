@@ -1,0 +1,22 @@
+{
+  "date": "1990-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Prehistoric Dilbert...",
+        "What is it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I call it \"the wheel.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2006-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news, Carol: the new office supply catalog is here!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you leaf through it and imagine that you can order things, you'll get a mild shopper's high."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now... I know how much you hate the phrase \"in lieu of a raise\"..."
+      ]
+    }
+  ]
+}

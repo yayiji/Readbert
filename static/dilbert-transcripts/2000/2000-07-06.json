@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project was in a death spiral."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I leapt into action and reorganized my filing system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did that help?",
+        "My stress is gone!"
+      ]
+    }
+  ]
+}

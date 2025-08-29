@@ -1,0 +1,25 @@
+{
+  "date": "1992-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look out!",
+        "Big Ed is hulking backwards waving his arms again!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bump"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Big people can be so annoying.",
+        "I just wish he wouldn't refer to us as debris."
+      ]
+    }
+  ]
+}

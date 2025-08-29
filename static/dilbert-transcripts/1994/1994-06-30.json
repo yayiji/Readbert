@@ -1,0 +1,28 @@
+{
+  "date": "1994-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the publisher",
+        "Dear Tim,",
+        "Your book does not meet our current publishing needs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your plot was lame and I hated your characters.",
+        "And by association I have come to hate you too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For safety reasons,",
+        "I hired an illiterate person to rip up your manuscript.",
+        "I would use the return envelope you provided but I'm afraid you might have licked the stamps."
+      ]
+    }
+  ]
+}

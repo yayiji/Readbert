@@ -1,0 +1,23 @@
+{
+  "date": "2007-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone here have any knowledge or any authority to make decisions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm only here to listen and misinterpret."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's try to build on that."
+      ]
+    }
+  ]
+}

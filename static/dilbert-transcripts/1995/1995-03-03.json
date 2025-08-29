@@ -1,0 +1,23 @@
+{
+  "date": "1995-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Drop your trousers and turn around. I need a DNA sample."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're scanning for any fatal genetic problems that could hurt productivity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... we decided to move your project deadline up a week."
+      ]
+    }
+  ]
+}

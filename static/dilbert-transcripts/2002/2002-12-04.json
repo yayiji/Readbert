@@ -1,0 +1,23 @@
+{
+  "date": "2002-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, take these project summaries and summarize them into one summary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And when you're done, take that summary and summarize it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is a shorter word for doomed?"
+      ]
+    }
+  ]
+}

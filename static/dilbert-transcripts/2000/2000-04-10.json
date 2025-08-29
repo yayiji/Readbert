@@ -1,0 +1,25 @@
+{
+  "date": "2000-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember the time you went skydiving?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will. I'm planting false memories in your subconscious."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It won't work.",
+        "But you believe you went to college, right?"
+      ]
+    }
+  ]
+}

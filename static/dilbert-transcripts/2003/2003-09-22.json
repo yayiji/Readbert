@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember, if you're not the lead dog, the view never changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not the lead dog, and I have to look at your face all day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you implying?",
+        "I was admiring your insightful analogy."
+      ]
+    }
+  ]
+}

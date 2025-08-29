@@ -1,0 +1,52 @@
+{
+  "date": "1990-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you want for Christmas, Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The usual: domination of earth, happiness at the expense of others, personal ego gratification."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I want to feel greater love and understanding for other people."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Even obnoxious and cynical people?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And people who laugh at you for being an idealistic simpleton?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yeah.",
+        "Merry Christmas, Dilbert."
+      ]
+    }
+  ]
+}

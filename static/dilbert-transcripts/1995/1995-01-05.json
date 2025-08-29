@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Be at the \"United Charity\" kickoff tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hired a headless man to be our inspirational speaker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And that's how \"United Charity\" gave me back my dignity.",
+        "Any questions?",
+        "How do you show up on a headcount report?"
+      ]
+    }
+  ]
+}

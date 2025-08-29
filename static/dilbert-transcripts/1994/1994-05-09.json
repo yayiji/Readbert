@@ -1,0 +1,25 @@
+{
+  "date": "1994-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert consulting company will plot a new course for your business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My consultants are so smart that their brains don't fit in their heads.",
+        "They have to strap the extra brains to their torsos."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do I need a piece of liver strapped to my torso?",
+        "I got a little carried away at the pitch meeting."
+      ]
+    }
+  ]
+}

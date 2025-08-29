@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've never needed a corporate head-hunter before, but now it's the only way to solve our staffing problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that headhunters find new employees? We don't behead the ones you already have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't suppose you'd be flexible...",
+        "I could find a disgruntled ex-post office employee for you."
+      ]
+    }
+  ]
+}

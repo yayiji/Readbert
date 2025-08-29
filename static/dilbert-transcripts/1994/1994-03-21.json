@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Cheryl. Would you like to have lunch with me next week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I... uh... already ate lunch. I'm not hungry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm talking about next week!!",
+        "I don't think I could have another bite. All full."
+      ]
+    }
+  ]
+}

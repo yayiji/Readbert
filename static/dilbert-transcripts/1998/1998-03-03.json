@@ -1,0 +1,24 @@
+{
+  "date": "1998-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Project status",
+        "Due to budget cuts, our new product will have no user interface."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our target market is people who are too shy to return products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it a bad sign if you spend the day wondering why there are no laws against what you do for a living?"
+      ]
+    }
+  ]
+}

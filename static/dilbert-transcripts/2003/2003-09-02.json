@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The technical solution is simple and inexpensive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it would cost a fortune to get internal approvals because vast herds of management dolts would get involved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I should just do it, right?",
+        "Did you call me a vast herd?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2001-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who called this meeting?",
+        "We thought you did."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think we should discuss issues and assign tasks so it's not a complete waste of time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe meetings have become a lifeform capable of calling themselves and thus reproducing via human hosts.",
+        "Wow!",
+        "Good issue"
+      ]
+    }
+  ]
+}

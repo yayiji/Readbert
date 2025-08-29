@@ -1,0 +1,26 @@
+{
+  "date": "1990-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert tries to cheat death.",
+        "...So, if you catch the frisbee you can live.",
+        "Wait!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never been much of an athlete... let's play \"Scrabble\" for my life instead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much time are you allowed for your turn?",
+        "I'll see you in August, bone boy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1994-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll give you sixty billion for the \"Dogbert static network.\"",
+        "Half of that will be stock in our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who would want stock in a company that would pay sixty billion for static?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not us.",
+        "That's the point.",
+        "I'd like it all in mercury dimes."
+      ]
+    }
+  ]
+}

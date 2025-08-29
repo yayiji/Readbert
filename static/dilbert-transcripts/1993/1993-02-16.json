@@ -1,0 +1,25 @@
+{
+  "date": "1993-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you up to, Ted?",
+        "I'm working like a dog lately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd better not ask."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Scratch",
+        "Scratch"
+      ]
+    }
+  ]
+}

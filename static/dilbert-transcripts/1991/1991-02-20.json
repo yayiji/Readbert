@@ -1,0 +1,23 @@
+{
+  "date": "1991-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cbs news? Yes, I'd like to call a press conference to announce my anti-gravity discovery..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Science isn't news?! But you did that investigative report on suntan lotion last year..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I don't think I could do the interview in a string bikini."
+      ]
+    }
+  ]
+}

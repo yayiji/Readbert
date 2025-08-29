@@ -1,0 +1,24 @@
+{
+  "date": "1997-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Professional bearer of bad news",
+        "Your doctor asked me to tell you that you have six months to live."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There must be a mistake. I'm here for a nose job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, you're right... I wondered why that last guy was so happy when I told him he'd have one huge nostril for the next forty years."
+      ]
+    }
+  ]
+}

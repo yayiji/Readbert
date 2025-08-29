@@ -1,0 +1,27 @@
+{
+  "date": "1990-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You will be with one other",
+        "...uh... astronaut in a private room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You two will have no specific duties on this mission.",
+        "I'll be monitoring you on video."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A nerd, a monkey, and one Nintendo at zero gravity...",
+        "Pretty risky experiment.",
+        "To be honest, we were running low on good ideas."
+      ]
+    }
+  ]
+}

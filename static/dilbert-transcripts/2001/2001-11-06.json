@@ -1,0 +1,23 @@
+{
+  "date": "2001-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I signed up for a yoga class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They say it will help me achieve harmony and balance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Failing at that, I plan to stare at stretchy women."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2004-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Your company has become synonymous with incompetence and crime."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop trying to be all things to all people.",
+        "Focus on either the incompetence or the crime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For your new logo, I used computer graphics to create a composite face that looks totally incompetent.",
+        "Wow",
+        "Wow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Shouldn't I hold up our product instead of leaning on a chair?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That helped your hair but you're still dressed like a nun."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1990-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And your name is..?",
+        "Call me Mr. Tidy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The agency says you're experienced.",
+        "Yeah, I've cleaned out some of the nicer homes in this area."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The best thing here is to load your possessions into my van, and I'll clean 'em at my place.",
+        "Will that cost me extra?"
+      ]
+    }
+  ]
+}

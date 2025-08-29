@@ -1,0 +1,28 @@
+{
+  "date": "2003-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who's today's guest cartoonist?",
+        "Hi! Rob the dinosaur here! Today I want to-",
+        "Cut!!! Your name is Bob!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sir, it's like a million degrees in here. Can't we take a two minute break?",
+        "No! You'll do it until you get it right, you idiot! You have displeased me. No pay for you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate Dilbert.",
+        "Ssh! He'll hear you!",
+        "* Answer: Go to dilbert.com"
+      ]
+    }
+  ]
+}

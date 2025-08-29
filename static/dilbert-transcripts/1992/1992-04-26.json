@@ -1,0 +1,57 @@
+{
+  "date": "1992-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will listen to your sad story.",
+        "$5.00"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a sad story.",
+        "Sit down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was a world renowned monkey trainer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I had it all: fame, money, beautiful family."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I discovered that the monkeys were plotting against me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "They embezzled all of my money and kidnapped my wife."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then my wife fell in love with their leader, Bing-Bong.",
+        "Ha ha ha!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Were you laughing?",
+        "Here's my five bucks. Thanks."
+      ]
+    }
+  ]
+}

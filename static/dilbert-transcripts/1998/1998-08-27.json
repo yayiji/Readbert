@@ -1,0 +1,23 @@
+{
+  "date": "1998-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At this phase, the project will be reviewed by a worthless manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hee-hee! I wonder if he knows what people say about him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you marking it \"done\"? Did you decide to skip that phase?"
+      ]
+    }
+  ]
+}

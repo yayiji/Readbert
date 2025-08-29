@@ -1,0 +1,23 @@
+{
+  "date": "2001-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The clean desk award goes to Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe Wally can share some tips on keeping our desks clutter-free."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I usually throw away this sort of thing in the men's room on the way back to my cubicle."
+      ]
+    }
+  ]
+}

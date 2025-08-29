@@ -1,0 +1,25 @@
+{
+  "date": "2003-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you going to lunch?",
+        "Lunch already?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sheesh! I barely had time to come late to work, eat breakfast, use the plumbing and read the paper."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You take your non-work seriously.",
+        "I'm trying to develop a sense of non-urgency."
+      ]
+    }
+  ]
+}

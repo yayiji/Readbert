@@ -1,0 +1,29 @@
+{
+  "date": "2001-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your handwriting proves that you're a disturbed loner who steals.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take this thief away!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is this part absolutely necessary?",
+        "Liberal"
+      ]
+    }
+  ]
+}

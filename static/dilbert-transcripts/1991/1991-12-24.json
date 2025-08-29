@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you made any decisions since the boss made us all \"empowered\"?",
+        "Just one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I turned my cubicle into a revenue generating tourist attraction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So far, business has been slow at \"sticky-note city.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1994-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to promote one of you to the district manager position."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, your technical knowledge is too valuable to lose."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ditto for Alice.",
+        "Neither of you can be promoted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The only logical choice is to promote Al because he has no valuable knowledge."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Al??! A director??!",
+        "He doesn't know what day of the week it is!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "They're just grumpy because it's Monday."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's Thursday."
+      ]
+    }
+  ]
+}

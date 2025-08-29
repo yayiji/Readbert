@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got to get out of this bad mood somehow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll have to find somebody innocent to blame...",
+        "And make him plead for my forgiveness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, Dogbert.",
+        "Is that some kind of an insult?"
+      ]
+    }
+  ]
+}

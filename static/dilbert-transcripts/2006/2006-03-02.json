@@ -1,0 +1,23 @@
+{
+  "date": "2006-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to design and build our center of excellence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which, as I understand it, is like a presidential library honoring my life's work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In time, people learn to stop asking me questions."
+      ]
+    }
+  ]
+}

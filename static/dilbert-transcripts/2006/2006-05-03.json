@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello Dogbert. I am here to persuade you to give your billions to third world countries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If guilt does not work, I am prepared to wrestle you for it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's your decoy work-ing out?",
+        "He's got Bono in a head-lock."
+      ]
+    }
+  ]
+}

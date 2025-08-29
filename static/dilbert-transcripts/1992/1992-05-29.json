@@ -1,0 +1,24 @@
+{
+  "date": "1992-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As your consultant, I recommend the \"Can-o-matic\" to reduce staff levels."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Disguised as a restroom stall, the Can-o-matic randomly fires people by slapping a pink slip on their backs and catapulting them out of the building."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I won't get to see the expressions on their faces.",
+        "Well, we could fling them past the security cameras here..."
+      ]
+    }
+  ]
+}

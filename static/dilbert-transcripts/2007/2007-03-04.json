@@ -1,0 +1,58 @@
+{
+  "date": "2007-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I see the vacation schedule?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you want it?",
+        "No reason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, Ted, I hope you're enjoying your vacation."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wally, do you have the cost estimates?",
+        "I'm waiting for Ted's input. He's on vacation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How about the revised timeline?",
+        "I'm waiting for Ted."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you need any office supplies? I'm going to the store.",
+        "Maybe some pens."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Limited selection but excellent prices."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Thanks.",
+        "So, I understand you have a vacation next week."
+      ]
+    }
+  ]
+}

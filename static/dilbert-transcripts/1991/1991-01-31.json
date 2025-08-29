@@ -1,0 +1,25 @@
+{
+  "date": "1991-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to try a treatment which may seem unconventional."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh hear me, Omdahr, demon of Gaath, heal this man's arm !!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has that ever worked?",
+        "Beats me.",
+        "I've never tried it before."
+      ]
+    }
+  ]
+}

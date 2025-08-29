@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me about your project and I'll translate it into weasel words for the business case."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well... an executive had lunch with a vendor and committed to buy some stuff that doesn't work. Our job is to cost-justify the decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I quit.",
+        "Don't get all ethical on us."
+      ]
+    }
+  ]
+}

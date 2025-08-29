@@ -1,0 +1,55 @@
+{
+  "date": "2001-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to give me a decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to give me more information."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to give me funding to do a study to get the information."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You need to give me a business case to justify the funding."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You need to give me relief from my other deadlines so I can work on the funding request."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You need to give me everything to infinity."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I win!",
+        "Yes!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We might be losing our laser-like focus on the customer.",
+        "On the who?"
+      ]
+    }
+  ]
+}

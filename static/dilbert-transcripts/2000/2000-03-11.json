@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to quantify the benefits of our knowledge management systems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I measured our intern's head to see if it got bigger."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The higher drag coefficient means we lost a little in the sandwich-fetching department."
+      ]
+    }
+  ]
+}

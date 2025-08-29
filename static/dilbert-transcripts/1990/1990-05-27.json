@@ -1,0 +1,42 @@
+{
+  "date": "1990-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Plans for the corporate takeover are complete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What corporate takeover?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a hostile bid for control of the Meowco Cat Food Company."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When I become CEO, I'll order them to add a hairball to every can of cat food.",
+        "Heh heh"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That is cruel and senseless. I'm thoroughly ashamed of you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gee... it seems so much more efficient than hassling one cat at a time."
+      ]
+    }
+  ]
+}

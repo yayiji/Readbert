@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, your mission is to tell my co-worker that her perfume is killing us. Wear this gas mask."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Use humor to ease the tension.",
+        "Good idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you hear the joke about the woman who stank like a hog rendering plant?",
+        "Three times today..."
+      ]
+    }
+  ]
+}

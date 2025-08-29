@@ -1,0 +1,25 @@
+{
+  "date": "2000-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Send",
+        "Ooh!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I get a tiny feeling of self-worth when I send e-mail to my boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like someone has an e-mail monkey on his back.",
+        "I can quit whenever I want!"
+      ]
+    }
+  ]
+}

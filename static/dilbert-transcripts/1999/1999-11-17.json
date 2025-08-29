@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can contact employees who are in org-limbo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello-o-o! Why doesn't anyone return my calls?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Come toward the revised org chart, Alice!",
+        "It's so beautiful!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2005-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a new hobby.",
+        "It's called phishing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I send fake banking e-mails to gullible executives.",
+        "Then I find out their financial information and use it to steal the money they don't deserve."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dear customer,",
+        "This is your bank. We forgot your social security number and password.",
+        "Why don't you send them to us so we can protect your money.",
+        "Sincerely,",
+        "I. B. Banker",
+        "Looks legit."
+      ]
+    }
+  ]
+}

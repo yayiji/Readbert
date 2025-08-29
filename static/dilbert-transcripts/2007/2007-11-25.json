@@ -1,0 +1,54 @@
+{
+  "date": "2007-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to do something, but I don't have time to fully explain it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll give you just enough information to send you down the wrong path."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later, after you do it wrong, I'll treat you like you're some sort of idiot."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I'll put you through the embarrassment of undoing everything you did."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This might not sound like a good plan to you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But it takes the task off of my plate and puts it on yours."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's called progress!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Today I helped make progress.",
+        "Better luck tomorrow."
+      ]
+    }
+  ]
+}

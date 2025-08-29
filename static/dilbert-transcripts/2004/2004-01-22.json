@@ -1,0 +1,26 @@
+{
+  "date": "2004-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's why we can't put any more resources on your project.",
+        "Sure we can."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! Why do you keep ruining my credibility?!!!",
+        "Good cop, bad cop."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If there is a god, please kill me now!!!",
+        "Gum?"
+      ]
+    }
+  ]
+}

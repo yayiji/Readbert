@@ -1,0 +1,23 @@
+{
+  "date": "2005-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My accomplishments this month include complying with our ISO 9000, Sarbanes-Oxley and SEI-5 policies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And if you make a new policy, I will comply with it so fast it will make your head spin!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it my imagination or is pretending to work getting easier?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did you mean when you said all employees are empowered?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does that mean I can control my own budget, make decisions without twelve levels of approval, and take calculated risks on my own?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's just a way to blame employees for not doing the things we tell them not to do.",
+        "No wonder you needed a new word."
+      ]
+    }
+  ]
+}

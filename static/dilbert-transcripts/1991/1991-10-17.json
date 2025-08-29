@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like the democracy movement has a new charismatic leader."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me liberty or give me...uh... back acne."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we mice or are we men?",
+        "Is that a trick question?"
+      ]
+    }
+  ]
+}

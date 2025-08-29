@@ -1,0 +1,25 @@
+{
+  "date": "1992-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm concerned that you might be running for president for the wrong reasons..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you doing it for ego gratification, power, and wealth?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, those are all the wrong reasons.",
+        "Of course, I'll tell the ignorant masses that it's because I hate big government."
+      ]
+    }
+  ]
+}

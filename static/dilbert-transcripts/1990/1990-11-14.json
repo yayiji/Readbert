@@ -1,0 +1,25 @@
+{
+  "date": "1990-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert meets Dilbert's ego",
+        "You want a toupee?",
+        "I feel okay about myself except for being bald."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate to tell you, but with or without hair you still look like broccoli."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least I won't be bald broccoli."
+      ]
+    }
+  ]
+}

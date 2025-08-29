@@ -1,0 +1,35 @@
+{
+  "date": "1990-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can feel the static electricity building...",
+        "Shuffle",
+        "Shuffle",
+        "Shuffle"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shuffle",
+        "Shuffle"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shuffle",
+        "Shuffle"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I most certainly will not call you \"Thor, dog of thunder.\"",
+        "Prepare to die."
+      ]
+    }
+  ]
+}

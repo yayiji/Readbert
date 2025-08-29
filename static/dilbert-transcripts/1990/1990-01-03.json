@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you really going through with the unauthorized biography of me?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm up to the part where Jackie \"O\" and Liz Taylor fight a duel for your love."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tragically, neither are aware that you're carrying Steve Garvey's baby!",
+        "Tap tap tap"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1997-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My Elbonian mail-order bride will arrive any day now.",
+        "Why don't you know the exact date?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because they're sending her by mail. I wasn't willing to pay for overnight delivery."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's one lucky gal.",
+        "I'll probably keep her in the garage.",
+        "It has a sink."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1996-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I call my new operating system the \"Dogbert 2000.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Soon I will dominate the entire PC industry!",
+        "Heh-heh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like \"Windows 95.\"",
+        "I use some of the same graphic metaphors, but I pronounce them differently.",
+        "How do you pronounce the \"Microsoft\" logo?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you planting?",
+        "I'm growing an army of genetic mutants to do my bidding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Half man, half giant cucumber, these unthinking brutes will help me conquer the earth!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Didn't you try this with sea monkeys last year?",
+        "None of them survived boot camp."
+      ]
+    }
+  ]
+}

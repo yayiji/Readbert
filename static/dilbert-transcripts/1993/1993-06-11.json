@@ -1,0 +1,24 @@
+{
+  "date": "1993-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Aren't you afraid that if you continue as leader of the nerds, you will become a nerd yourself?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because you can't become a nerd unless you have a genetic predisposition toward it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look! I added an emergency backup pocket!",
+        "See? You can't learn that stuff in computer class."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you want to be promoted, you have to be highly visible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask questions at meetings. But make them easy so you don't embarrass your boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So if there's an accident in a company car, where should we bury the survivors?",
+        "I usually put them in the trunk."
+      ]
+    }
+  ]
+}

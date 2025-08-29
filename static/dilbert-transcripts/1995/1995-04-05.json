@@ -1,0 +1,24 @@
+{
+  "date": "1995-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to assure you that any rumors you've heard are false."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We are not planning to relocate the company to the South Pole where easily trainable native Eskimos will replace you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's good because there aren't any Eskimos at the South Pole.",
+        "Excuse me, I have to make a phone call."
+      ]
+    }
+  ]
+}

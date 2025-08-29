@@ -1,0 +1,56 @@
+{
+  "date": "1991-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, Dogbert--a wallet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's full of money.",
+        "We're rich!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We must return it to its owner.",
+        "We're honest!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "His business card says \"Sam Grooper, ruthless criminal.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's hope \"ruthless\" means he divorced his wife named Ruth."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Mr. Grooper, we found your wallet.",
+        "No reward is expected."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hand it over. Give me your wallet too. Then slap yourselves around and scram."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We're morons!"
+      ]
+    }
+  ]
+}

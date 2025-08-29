@@ -1,0 +1,56 @@
+{
+  "date": "1996-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be writing your performance review this afternoon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But this morning I'm helping my daughter sell Cub Girl cookies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For your shopping convenience I have assigned a name to each volume level."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Zero to four boxes is the \"downsize\" volume..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Five to eight boxes is the \"low performer\" volume level."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Let's say six hundred boxes.",
+        "Ahh... the \"fast tracker.\" An excellent choice."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What's your daughter's name?",
+        "Ooh... gotta go."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I only bought twelve boxes. Now I'm the \"United Way\" chairperson.",
+        "I just signed your name for six hundred more."
+      ]
+    }
+  ]
+}

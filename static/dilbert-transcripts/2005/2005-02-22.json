@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to do a credit check on your company before we do any work. It's our policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I resent that! Just because I'm a small businessman, that doesn't mean I'm a deadbeat!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't mean to imply...",
+        "Do you know if the parking garage accepts acorns?"
+      ]
+    }
+  ]
+}

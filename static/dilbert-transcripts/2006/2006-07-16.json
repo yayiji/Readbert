@@ -1,0 +1,60 @@
+{
+  "date": "2006-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you've agreed to pull together all of the technical specifications by Thursday, right?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, I'll look into pulling that stuff together."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't need you to \"look into it.\"",
+        "I need you to do it.",
+        "I agree."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you agreeing that I need it or agreeing to do it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You will have the list of who has the technical specifications by Thursday."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't need the list of who has them.",
+        "I need the specifications!",
+        "I agree."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!!",
+        "Forget it!",
+        "I'll get them myself!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you help Bob get what he needs?",
+        "He'll have everything by Thursday."
+      ]
+    }
+  ]
+}

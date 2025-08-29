@@ -1,0 +1,57 @@
+{
+  "date": "1991-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "First date"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much is the half chicken?",
+        "Ninety-six dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh... I can't afford this place."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How much is one-eighth of a chicken?",
+        "Ninety-two dollars."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What can I get for thirty bucks?",
+        "We could slap you with an oven mitten."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't believe what a cheapskate you are."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My mother was right: all men are insensitive!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Two oven mittens.",
+        "So, it looks like you'll be free later..."
+      ]
+    }
+  ]
+}

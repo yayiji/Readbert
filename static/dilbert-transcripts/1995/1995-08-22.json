@@ -1,0 +1,25 @@
+{
+  "date": "1995-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If it's okay, I'll hold onto my soul while I visit the accounting department.",
+        "Soul check"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I came to answer your questions about my expense report.",
+        "Take a seat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like the way this is starting."
+      ]
+    }
+  ]
+}

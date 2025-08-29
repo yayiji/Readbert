@@ -1,0 +1,26 @@
+{
+  "date": "2001-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Discount brokerage",
+        "You can only open an account if you meet my stringent requirements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "True or false: Money evaporates because of photosynthesis.",
+        "True?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're in.",
+        "Don't yell yee-haw!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1990-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to recognize you for your job performance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I named one of my pencils after you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gosh. Is that it right there?",
+        "No. That's my good pencil."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2005-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After the merger, we'll have two CEOs sharing the top job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A spokesperson explained, \"If our stockholders don't mind paying one CEO 450 times the average employee's salary..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...they shouldn't mind doing it twice.\""
+      ]
+    }
+  ]
+}

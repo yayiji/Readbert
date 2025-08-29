@@ -1,0 +1,22 @@
+{
+  "date": "1991-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Help me look for valuable stamps.",
+        "You're better at this than I am."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Philately will get you nowhere."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

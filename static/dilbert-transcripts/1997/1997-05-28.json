@@ -1,0 +1,28 @@
+{
+  "date": "1997-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Doom",
+        "I notice you have a cloud of doom.",
+        "I must admit it makes you seem dangerous and sexy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Doom",
+        "Zap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. That happens to everyone who gets near me.",
+        "No problem.",
+        "I'm one of those women who never learn."
+      ]
+    }
+  ]
+}

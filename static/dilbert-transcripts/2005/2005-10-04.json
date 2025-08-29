@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, why don't I have any meetings today?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your meetings create work for me, so I canceled them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could drop in on some people.",
+        "Harpoon."
+      ]
+    }
+  ]
+}

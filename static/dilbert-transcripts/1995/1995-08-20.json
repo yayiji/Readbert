@@ -1,0 +1,59 @@
+{
+  "date": "1995-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please don't promise the product manager more than we can deliver."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need a totally new software interface in one month.",
+        "You got it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And rewrite the operating system so we dominate the industry.",
+        "Concurrent development.",
+        "Check"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Suddenly I feel omnipotent."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I want all new hardware, anti-gravity packaging, holographic agents...",
+        "Yawn yawn"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can your team really do that in a month?",
+        "Let me get their reaction."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Aaagh!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Pessimism will not look good on your performance review.",
+        "Twitch"
+      ]
+    }
+  ]
+}

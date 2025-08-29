@@ -1,0 +1,24 @@
+{
+  "date": "1990-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look what I won, Dogbert!",
+        "It's a trophy for perfect attendance!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Since you've never won a trophy, I thought you might get some vicarious joy by dusting and waxing my trophy every day. Here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope that trophy doesn't go to my head."
+      ]
+    }
+  ]
+}

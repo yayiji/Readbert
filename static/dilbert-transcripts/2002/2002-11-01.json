@@ -1,0 +1,25 @@
+{
+  "date": "2002-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the attorney",
+        "Your honor, is it too late to change sides?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "After hearing the evidence, I want to punish my client.",
+        "No?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I expect some awkward silences during the next break."
+      ]
+    }
+  ]
+}

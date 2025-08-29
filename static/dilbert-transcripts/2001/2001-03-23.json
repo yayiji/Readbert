@@ -1,0 +1,24 @@
+{
+  "date": "2001-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't show these numbers to our VP.",
+        "They make us look like losers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Find something we're doing well and give him those numbers instead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! Our internal subterfuge is up eighty percent!"
+      ]
+    }
+  ]
+}

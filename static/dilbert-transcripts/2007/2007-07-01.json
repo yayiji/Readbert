@@ -1,0 +1,56 @@
+{
+  "date": "2007-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you complete the benchmark tests?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slurp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because?",
+        "Global warming."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, normally this would have been a pleasant week."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But thanks to you and your stupid SUV, it was too hot to work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Remember, if you're not part of the solution, you're part of the problem."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You work indoors!",
+        "Said the polluter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert's expense voucher",
+        "You spent nearly $10 per day on meals during your trip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The travel guidelines require you to stun a pigeon with your briefcase on the way to the hotel then fry it up on your travel iron."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I tried... but it was taking so long.",
+        "Try the \"wool\" setting."
+      ]
+    }
+  ]
+}

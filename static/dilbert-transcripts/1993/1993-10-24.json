@@ -1,0 +1,55 @@
+{
+  "date": "1993-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have a nice night, Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can rest easy knowing I'll be guarding the building all night."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To a criminal, this place must look like a big ol' shopping mall."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The cubicles are like little stores, each with its own selection of quality merchandise."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you knew where to look, you could get picture frames, postage stamps, clocks, and even footwear."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oddly enough, you and the janitor are the only ones here at night, and yet my snack drawer keeps getting emptied."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's totally inexplicable.",
+        "Well, good night."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Shall we head over to \"Chez Dilbert\"?",
+        "Later... there's a sale at \"Wally's Shoe World.\""
+      ]
+    }
+  ]
+}

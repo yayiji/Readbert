@@ -1,0 +1,24 @@
+{
+  "date": "1998-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll have the jumbo spaghetti meal with a loaf of garlic bread."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll absorb moisture from the air and sniff the mints on the way out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it fun to be a super-model?",
+        "It was until now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, too many people are asking me for things. How can I set priorities?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait until everyone is yelling at you and then help whoever makes the scariest threat on any given day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that what you do?",
+        "No, I tell people to go ask you."
+      ]
+    }
+  ]
+}

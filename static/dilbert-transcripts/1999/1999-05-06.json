@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is our most reliable computer, unless you try to use software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It'll freeze several times a day. But you can restart it by poking a spoon into a hole in the back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has that ever worked?",
+        "We think people are doing it wrong."
+      ]
+    }
+  ]
+}

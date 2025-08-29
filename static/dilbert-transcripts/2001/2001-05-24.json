@@ -1,0 +1,26 @@
+{
+  "date": "2001-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm dating an unattractive man.",
+        "What should I do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every man is ugly until a woman fixes him up.",
+        "Think of it as a project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next, lose the comb-over, or at least stay out of the wind.",
+        "How'd you know about the comb-over?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "1993-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's wrong with you?",
+        "I have A.W.S."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have \"attractive woman syndrome\" here??",
+        "She was just hired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Run!",
+        "Dilbert, I'd like you to meet Liz."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Uh-oh... my metabolism is increasing. My brain is suppressing what little social skills I have.",
+        "Hi"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's a pleasure to meet me. I hope you never find a live turtle in your soup."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaagh! What was that supposed to mean??",
+        "Slap"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh great... the correction fluid wasn't dry. It's stuck to my eyebrows."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What can I do to stop frightening attractive women?",
+        "That mask is a step in the right direction."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Dogbert, leader of Venod - a huge collective of nerds.",
+        "We demand twenty percent discounts on all of your products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you refuse, I will send a wireless e-mail message that instructs one million nerds to stop buying your products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're kidding, right?",
+        "There - I just sent them your daughter's phone number."
+      ]
+    }
+  ]
+}

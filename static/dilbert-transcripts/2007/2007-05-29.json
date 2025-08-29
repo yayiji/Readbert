@@ -1,0 +1,23 @@
+{
+  "date": "2007-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today you will wear clothes you don't want to wear."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll drive somewhere you don't want to be, and do things you don't want to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have a nice day."
+      ]
+    }
+  ]
+}

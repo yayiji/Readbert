@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I notice that you always click something when I approach."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously you've been using company time to look at indescribably filthy images."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And why does that seem so obvious to you?",
+        "Let's leave me out of this."
+      ]
+    }
+  ]
+}

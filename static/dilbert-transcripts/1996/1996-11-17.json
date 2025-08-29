@@ -1,0 +1,56 @@
+{
+  "date": "1996-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The powerful leader enters Cubeville to inspire the wretched underlings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He spots one of the little people in desperate need of a morale boost."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The leader carefully assesses the situation.",
+        "Every solution is unique."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Try identifying the problem and then solving it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The leader waits while the brilliance of his contribution sinks in."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's a much better idea than what I was doing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've been sitting here all day randomly pressing keys.",
+        "But you've shown me a better way!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Suddenly the leader remembers why he rarely visits Cubeville.",
+        "My morale is soaring."
+      ]
+    }
+  ]
+}

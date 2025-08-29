@@ -1,0 +1,57 @@
+{
+  "date": "1993-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can succeed if each of you will commit to giving 110%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would be ten percent over the theoretical maximum.",
+        "Can't be done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Plus you have your vacation days and your sick days..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Heck, these staff meetings take ten percent right off the top..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And what about all the times something unexpected comes up?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think we could give you... what?",
+        "Forty-three percent."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And that's not a commitment.",
+        "It's an estimate."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can we continue the meeting now?",
+        "I'm over my estimate for today."
+      ]
+    }
+  ]
+}

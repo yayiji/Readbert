@@ -1,0 +1,55 @@
+{
+  "date": "2002-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need career advice.",
+        "You came to the right place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I keep my comfortable job that has no growth potential?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or should I take a better job with longer hours and a hideous commute?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The first choice is a sure path to self-loathing and unhappiness."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The second choice will squeeze the life out of you like a vise on a peach."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You can't win.",
+        "So I recommend the choice that keeps you away from home more."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because frankly - and I'll try to say this delicately - a little bit of you goes a long way."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's the problem with good advice: no one wants to hear it."
+      ]
+    }
+  ]
+}

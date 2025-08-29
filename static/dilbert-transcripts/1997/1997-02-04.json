@@ -1,0 +1,26 @@
+{
+  "date": "1997-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent all week tweaking HTML for my intranet web page.",
+        "You should see it, Mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I converted the video of my birth into an MPEG file.",
+        "Anyone behind the firewall can view it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should hear the nickname they have for you at work!",
+        "You should hear the one I have for you right now!"
+      ]
+    }
+  ]
+}

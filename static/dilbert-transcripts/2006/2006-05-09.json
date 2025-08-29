@@ -1,0 +1,30 @@
+{
+  "date": "2006-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You said I'd never find an online date because I'm unemployed. But you were wrong!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you seen her picture?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes! She looks hot."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you have \"photoshop\" software?",
+        "Maybe."
+      ]
+    }
+  ]
+}

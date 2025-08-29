@@ -1,0 +1,58 @@
+{
+  "date": "2006-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, my laptop is slowing down.",
+        "Can you take a look at it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's the problem.",
+        "There's too much smut on your hard drive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend deleting the film clips that have poor lighting."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And here's a whole category that you haven't looked at in weeks."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll move those to an external drive in case you need 'em later."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wally has all of this stuff on the server.",
+        "You don't need it on your laptop."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What the....?",
+        "You pinhead! You disabled your firewall!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If you work here long enough, your outrage ends up in all of the wrong places.",
+        "Who moved my stapler?!!"
+      ]
+    }
+  ]
+}

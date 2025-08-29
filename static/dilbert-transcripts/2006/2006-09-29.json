@@ -1,0 +1,27 @@
+{
+  "date": "2006-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That new employee is getting special treatment just because she's hot.",
+        "It's unfair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She's hot?",
+        "Where is her cubicle?",
+        "Maybe I should bring her some coffee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mind brewing an extra pot?",
+        "I don't know how big her mug is."
+      ]
+    }
+  ]
+}

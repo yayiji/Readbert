@@ -1,0 +1,24 @@
+{
+  "date": "1995-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't decide if I should stay with engineering or pursue a career in management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In my heart I'm an engineer but I hear a voice calling me to the dark side."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I found your problem.",
+        "Boy is my face red."
+      ]
+    }
+  ]
+}

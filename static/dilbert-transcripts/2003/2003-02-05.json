@@ -1,0 +1,25 @@
+{
+  "date": "2003-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm taking a mood-altering prescription drug to treat a skin rash."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I still itch, but I don't care. In fact, I don't even think you're a huge, stinkin' weasel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love you!",
+        "You da man!",
+        "Remind me to cancel your health benefits."
+      ]
+    }
+  ]
+}

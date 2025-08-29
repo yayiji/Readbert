@@ -1,0 +1,23 @@
+{
+  "date": "2000-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This special t-shirt is awarded to Ted for all of his achievements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Next on the agenda..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're planning some staff cuts."
+      ]
+    }
+  ]
+}

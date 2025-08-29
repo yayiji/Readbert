@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, put together a team to decide who'll be on the strategy council."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You want me to form a committee to create a committee that will produce a document that will be ignored?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's a team to create a council.",
+        "Can I be on the team that ignores the document?"
+      ]
+    }
+  ]
+}

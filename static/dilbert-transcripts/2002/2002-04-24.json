@@ -1,0 +1,26 @@
+{
+  "date": "2002-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's a new reality.",
+        "If you don't like it, you can leave!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: How can we leave reality?",
+        "Aren't we always in it by definition?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never mind...",
+        "Apparently everyone else knew what you meant."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good report, but change the word \"use\" to \"utilize\" in each case."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Change \"help\" to \"facilitate\" and replace \"do\" with \"implementation phase.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm...",
+        "It's still a bit too readable.",
+        "I could reduce the type size and run it through the fax."
+      ]
+    }
+  ]
+}

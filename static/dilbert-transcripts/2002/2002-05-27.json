@@ -1,0 +1,24 @@
+{
+  "date": "2002-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's ping the director of marketing and double-click on the budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then we can interface in batch mode and put a scope on his bandwidth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please stop doing that!",
+        "Have I mentioned that I was an engineer for a week?"
+      ]
+    }
+  ]
+}

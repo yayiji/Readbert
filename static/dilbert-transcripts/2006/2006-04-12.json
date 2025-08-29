@@ -1,0 +1,26 @@
+{
+  "date": "2006-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your security software is out of date...",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you like to spend the rest of your natural life trying to figure out how to upgrade it?",
+        "Erk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or would you prefer to let hackers steal your identity, drain your bank accounts and destroy your hard drive?",
+        "I need more choices!"
+      ]
+    }
+  ]
+}

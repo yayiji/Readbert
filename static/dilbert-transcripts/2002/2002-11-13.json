@@ -1,0 +1,24 @@
+{
+  "date": "2002-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're retiring soon, so you can give me honest feedback."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't that be harder than doing absolutely nothing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about if I create the illusion of listening while I fantasize about fishing?",
+        "Good enough."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Professional bearer of bad news.",
+        "We cannot offer you a position at this time, but you are obviously qualified."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unfortunately, the other six billion people on earth are more qualified."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll keep your résumé on file."
+      ]
+    }
+  ]
+}

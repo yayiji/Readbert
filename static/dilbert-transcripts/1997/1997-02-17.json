@@ -1,0 +1,26 @@
+{
+  "date": "1997-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't give me your five-year budget forecast.",
+        "You didn't ask for one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was discussed at the project review meeting.",
+        "You didn't invite me to that meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you accomplish anything this week?",
+        "I trained the bats who live in my cubicle to juggle mushrooms."
+      ]
+    }
+  ]
+}

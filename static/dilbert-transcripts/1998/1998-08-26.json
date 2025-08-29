@@ -1,0 +1,26 @@
+{
+  "date": "1998-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your performance was excellent, but there's no bonus this year.",
+        "Why not?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company lost a fortune in the Elbonian currency collapse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But in a way, it's your own fault for working here.",
+        "Thanks.",
+        "That takes the sting out."
+      ]
+    }
+  ]
+}

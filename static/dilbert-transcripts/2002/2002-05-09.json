@@ -1,0 +1,25 @@
+{
+  "date": "2002-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My training CD has gone bad.",
+        "It is brainwashing me to become a cyborg."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry.",
+        "Smart people such as you can't be brain-washed to do stupid things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Guess who doesn't know the first thing about brainwashing."
+      ]
+    }
+  ]
+}

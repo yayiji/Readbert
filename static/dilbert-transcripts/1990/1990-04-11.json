@@ -1,0 +1,25 @@
+{
+  "date": "1990-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's wrong, Bob?",
+        "I can't deny my feelings anymore."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not the roof again!",
+        "I have to tell people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell the difference between Tom Brokaw and Peter Jennings!!!"
+      ]
+    }
+  ]
+}

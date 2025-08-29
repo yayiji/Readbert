@@ -1,0 +1,24 @@
+{
+  "date": "1999-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Photography is my new hobby."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want a picture of me?",
+        "No, I like to look at them later."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2006-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you need to use up your vacation days before the end of the year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You told me I had to finish my project before the end of the year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have 19 vacation days to use and there are 19 work days left in the year.."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That leaves zero days to do 19 days worth of work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You could work on weekends and use weekdays for vacation."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why the *%!# would I do that?!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because vacations reduce your stress.",
+        "Duh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You'd think that would be obvious.",
+        "Aaieee!!!",
+        "Punch!!!"
+      ]
+    }
+  ]
+}

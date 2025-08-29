@@ -1,0 +1,27 @@
+{
+  "date": "1992-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, you're a time management expert huh?",
+        "Might be useful... I'll let you know..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Decide now! Do it!",
+        "Do it, do it! Now",
+        "Now now now now!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're good... when can you start?",
+        "I'll get back to you."
+      ]
+    }
+  ]
+}

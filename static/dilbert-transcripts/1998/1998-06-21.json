@@ -1,0 +1,54 @@
+{
+  "date": "1998-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the...?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You respond too quickly to my e-mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obviously you aren't focusing on priorities."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I do e-mail while my program is compiling."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can't weasel out of this with your technical mumbo jumbo."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You win.",
+        "I'll ignore your e-mail from now on."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The important thing is that I win."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wonder if my programs ever compile."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2004-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, how can you be so stress-free?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's quite simple."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stress is caused by an unrealistic belief that people care about you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I, on the other hand, expect people to be like me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's visit Ted and I'll show you how this works."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ted, do you have the budget numbers that you promised me?",
+        "That's next on my to-do list."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "While he was lying to me, I stole his stapler, so I came out ahead."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He forgot his mug. I'm going to slip that puppy into my briefcase."
+      ]
+    }
+  ]
+}

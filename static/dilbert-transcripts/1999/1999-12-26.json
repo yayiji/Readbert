@@ -1,0 +1,53 @@
+{
+  "date": "1999-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You were totally correct."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can develop the product on time and under budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All we have to do is give up some features."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, the original design called for a scalable wide area network switch."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...With multi-protocol support and full network diagnostics."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The new design calls for a shoebox full of yarn."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So we're in good shape.. assuming yarn is free."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're a serious threat to my open door policy."
+      ]
+    }
+  ]
+}

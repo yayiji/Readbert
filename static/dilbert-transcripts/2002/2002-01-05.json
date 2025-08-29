@@ -1,0 +1,23 @@
+{
+  "date": "2002-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I left my mission statement paper-weight in the sun and it set my cubicle on fire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I tried to douse it using my \"we are quality\" mug but the handle broke and I got shards."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1995-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been hired by your company to perform an ISO 9000 audit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Basically, you give me money and I tell you that you're a bunch of dolts.",
+        "It's the perfect job for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell me what you do here, Alice, if that's your real name.",
+        "I'm an engineer.",
+        "I make slides that people can't read.",
+        "Sometimes I eat donuts."
+      ]
+    }
+  ]
+}

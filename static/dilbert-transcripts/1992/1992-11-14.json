@@ -1,0 +1,26 @@
+{
+  "date": "1992-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We heard you killed Floyd, our unbearable co-worker, yesterday.",
+        "No. I was there, but he choked on his own bile."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What did you do - perform first aid? Call an ambulance?",
+        "I don't know first aid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh...",
+        "Can I use your phone?"
+      ]
+    }
+  ]
+}

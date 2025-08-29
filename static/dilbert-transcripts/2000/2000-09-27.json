@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This needs your approval."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company will save forty million dollars but you'll be ten thousand over budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And before you ask, no it won't work the other way around.",
+        "Whose side are you on?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're investigating the death of your lab partner."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was the final test of the automatic dentures...",
+        "Willy wasn't wearing his protective corn-on-the-cob jacket..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you notice anything unusual?",
+        "No, not really."
+      ]
+    }
+  ]
+}

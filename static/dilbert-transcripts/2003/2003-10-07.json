@@ -1,0 +1,25 @@
+{
+  "date": "2003-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I absolutely need your input by Tuesday.",
+        "Ok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Considering that you're massively unreliable, I'd like to save time by yelling at you now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You said you'd do it by Tuesday!!!",
+        "Umm... I was too busy."
+      ]
+    }
+  ]
+}

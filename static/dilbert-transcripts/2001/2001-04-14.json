@@ -1,0 +1,24 @@
+{
+  "date": "2001-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your user requirements include four hundred features."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you realize that no human would be able to use a product with that level of complexity?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good point.",
+        "I'd better add \"easy to use\" to the list."
+      ]
+    }
+  ]
+}

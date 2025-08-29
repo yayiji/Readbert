@@ -1,0 +1,24 @@
+{
+  "date": "1994-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In addition to my current duties, I'll be managing the marketing group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The marketing job opened because the previous manager got run down in the parking lot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When they needed a good manager, they knew where to look.",
+        "Under your bumper?"
+      ]
+    }
+  ]
+}

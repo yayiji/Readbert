@@ -1,0 +1,24 @@
+{
+  "date": "1999-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm exiled to the quality assurance department. My career is doomed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't let my old department forget me. They're my only hope of returning to engineering."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It must be break time in the Q.A. department.",
+        "I'll get the fire hose."
+      ]
+    }
+  ]
+}

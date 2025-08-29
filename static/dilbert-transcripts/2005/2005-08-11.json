@@ -1,0 +1,25 @@
+{
+  "date": "2005-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project post-mortem will only be helpful if each of you is honest about what went wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your colossal ineptitude as a leader suppressed our natural talents, leaving us listless and unfocused."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by \"honest,\" I mean blaming people who aren't here.",
+        "Look!",
+        "You're doing it again!"
+      ]
+    }
+  ]
+}

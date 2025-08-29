@@ -1,0 +1,56 @@
+{
+  "date": "1991-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, this is my new co-worker, John Smith.",
+        "Yo",
+        "Yo"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I invited him over to watch television. He doesn't have cable yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next on \"America's most wanted.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This man gave \"wedgies\" to an entire town, one person at a time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The victims were wedgied in their own homes, usually while watching this show."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can you lean over and adjust that picture?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "They don't even explain what a wedgie is."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is exactly why I don't invite people over more often."
+      ]
+    }
+  ]
+}

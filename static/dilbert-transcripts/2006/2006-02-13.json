@@ -1,0 +1,24 @@
+{
+  "date": "2006-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's no good way to assign a bad project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fwap!",
+        "Do it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was a liberating thought."
+      ]
+    }
+  ]
+}

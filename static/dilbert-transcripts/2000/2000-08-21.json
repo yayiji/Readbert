@@ -1,0 +1,25 @@
+{
+  "date": "2000-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I hired you, how would you respond to something like this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I usually ignore chain letters.",
+        "Let's try another."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you finish your inbox?",
+        "No, I'll need a few more applicants."
+      ]
+    }
+  ]
+}

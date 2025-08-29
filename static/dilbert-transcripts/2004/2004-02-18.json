@@ -1,0 +1,23 @@
+{
+  "date": "2004-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new home theater is amazing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's got a DVD, HD, DVR, FM, satellite dish, MP3, widescreen TV, seven speakers and a universal remote."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's fun to invite people over so they can show me how to turn it on."
+      ]
+    }
+  ]
+}

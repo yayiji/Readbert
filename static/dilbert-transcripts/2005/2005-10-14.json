@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our total sales to Elbonia are one package of software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That can only mean that they're engaged in massive software piracy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I toss the tiny frisbee (TM), you leap in the air and catch it in your mouth.",
+        "You first."
+      ]
+    }
+  ]
+}

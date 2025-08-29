@@ -1,0 +1,24 @@
+{
+  "date": "2000-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The five hundred dollar morale improvement award goes to Ed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaa!! It's only $240 after taxes!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So that's what good morale looks like.",
+        "Apparently we've had it the whole time."
+      ]
+    }
+  ]
+}

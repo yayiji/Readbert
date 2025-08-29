@@ -1,0 +1,26 @@
+{
+  "date": "1993-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've shouted my way into a job and a corner office.",
+        "Now I need an empire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll start a task force around some hot buzzwords.",
+        "Later I'll convert the people into my own division."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, there's a \"palmtop personal multimedia\" task force being formed!",
+        "That one's gonna fill up quick."
+      ]
+    }
+  ]
+}

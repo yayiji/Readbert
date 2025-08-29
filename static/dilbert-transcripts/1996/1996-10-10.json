@@ -1,0 +1,25 @@
+{
+  "date": "1996-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Issue one: our two companies have very different corporate cultures.",
+        "Strategic alliance issues"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While you were droning, I slammed out some beta code and put it on the internet for comments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My company prefers to have that kind of decision made by uninformed executives. We call it \"empowerment.\"",
+        "I'll mention that in the press release."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1990-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for asking me out.",
+        "Most guys get scared when they find out I'm a practicing witch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then they say something I don't like and I end up turning them into lawn ornaments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's awful!",
+        "Tell me about it...",
+        "You can't believe how tacky my lawn is now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How will you leave if you refuse to use any major muscle groups until retirement?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm hoping someone will buy me a motorized wheelchair and lift me into it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would be willing to drag you to the curb.",
+        "Face up?"
+      ]
+    }
+  ]
+}

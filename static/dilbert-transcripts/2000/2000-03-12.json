@@ -1,0 +1,55 @@
+{
+  "date": "2000-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stirrup pants are not professional attire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just filed a patent that will earn fifty million in license fees for the company."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Really?",
+        "Wow."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But it's no excuse for bad pants."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Whatever.",
+        "Did you sign the budget request I gave you last week?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No... I've been busy with various pant-related crises."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Here's another."
+      ]
+    }
+  ]
+}

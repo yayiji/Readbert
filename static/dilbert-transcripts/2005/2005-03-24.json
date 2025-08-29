@@ -1,0 +1,25 @@
+{
+  "date": "2005-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can you think that the software integration project is a waste of time??!",
+        "I don't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if history is my guide, you will abuse the next hour of my life by insisting that I defend your misunderstanding of what I think."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So why do you think it's a waste of time?",
+        "Do you mind if I work while you hallucinate?"
+      ]
+    }
+  ]
+}

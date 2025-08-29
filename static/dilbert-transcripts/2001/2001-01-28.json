@@ -1,0 +1,56 @@
+{
+  "date": "2001-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've got to figure out why all our projects fail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do all our projects have in common?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might not be obvious."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But if we're honest with ourselves..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We can find the source of the problem.",
+        "Ah-ah ah-",
+        "Scratch scratch"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ach-itz-you!!",
+        "Gesundheit"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So, does anyone know what the problem is?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I've noticed that Dilbert doesn't work as hard as I think he should."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you remember last election day...",
+        "And how you convinced me to not vote?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You argued that since we disagreed on all issues, we could both stay home and the outcome would be the same as if we both voted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogs can't vote!!",
+        "Well, not directly."
+      ]
+    }
+  ]
+}

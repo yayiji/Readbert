@@ -1,0 +1,54 @@
+{
+  "date": "1999-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I get a laptop computer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but you can order one for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I go to this technical seminar in Hawaii?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, but you can sign me up for it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "May I take this Friday off so I have a four day weekend?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, but you can sit in for me while I take that Friday off."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "May I eat this caterpillar?",
+        "Give me that."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope they never recognize the pattern."
+      ]
+    }
+  ]
+}

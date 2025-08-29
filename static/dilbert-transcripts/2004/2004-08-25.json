@@ -1,0 +1,27 @@
+{
+  "date": "2004-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Greetings, earthling.",
+        "I bring you either wisdom or planetary annihilation.",
+        "The choice is yours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stay in the break room.",
+        "I'll go get my leader.",
+        "Very well."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The new coffee stirrers are great, but I got the last one."
+      ]
+    }
+  ]
+}

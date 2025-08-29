@@ -1,0 +1,43 @@
+{
+  "date": "1990-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I programmed my computer to analyze any situation and predict the female response."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This should clarify a few things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll type in \"watch sad movie.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Result: crying."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now I'll try \"receive flowers.\"",
+        "Result: crying."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Let's try \"date with Dilbert.\"",
+        "Boy, the truth gets vicious when you corner it."
+      ]
+    }
+  ]
+}

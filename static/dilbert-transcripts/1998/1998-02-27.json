@@ -1,0 +1,29 @@
+{
+  "date": "1998-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you the victim of a curse?",
+        "Yes, I am."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Next on \"20/20,\"",
+        "John Stossel shows you the cure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha! After the commercial I will get valuable information for people like me!",
+        "Well, well.",
+        "It seems my old nemesis,",
+        "John Stossel,",
+        "has been busy."
+      ]
+    }
+  ]
+}

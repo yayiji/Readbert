@@ -1,0 +1,23 @@
+{
+  "date": "2007-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations on 20 years of service. Here's a pen with the company's logo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have one just like it. At least I think this one is mine. I might have gotten them mixed up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which one looks like it spent the least time in my ear?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This document says a backup server is overkill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um, no, it says the opposite of that.",
+        "I know because I wrote it this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I think you're misinterpreting it.",
+        "I wrote it!!!"
+      ]
+    }
+  ]
+}

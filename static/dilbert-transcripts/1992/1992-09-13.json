@@ -1,0 +1,57 @@
+{
+  "date": "1992-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Ratbert.",
+        "May I have some chips?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, sorry. There are only enough for one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you hear about the latest brain research?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Science has proven that the part of the brain responsible for conscious thought doesn't show any stimulation until after you act."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That means you never make conscious decisions; all you do is rationalize what you've done after the fact."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your life is nothing but a series of absurd rationalizations for the random interaction of chemicals in your brain.",
+        "Blink",
+        "Blink"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Aaagh!!!",
+        "My life is absurd!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That was mean, but arguably I couldn't control myself."
+      ]
+    }
+  ]
+}

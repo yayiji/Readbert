@@ -1,0 +1,25 @@
+{
+  "date": "1991-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to enter the stand-up comedy competition next week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The rules seem pretty straightforward...",
+        "Five minutes per person...",
+        "The first minute is freestyle comedy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The remaining time is for the mandatory categories: Dan Quayle, flatulence, and the warning labels on mattresses."
+      ]
+    }
+  ]
+}

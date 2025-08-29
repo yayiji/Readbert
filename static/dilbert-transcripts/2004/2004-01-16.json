@@ -1,0 +1,23 @@
+{
+  "date": "2004-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Six-hour flight; I can get lots of work done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Six-hour flight; I can get lots of sleep."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't feel my hands!!!"
+      ]
+    }
+  ]
+}

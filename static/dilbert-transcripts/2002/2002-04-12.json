@@ -1,0 +1,26 @@
+{
+  "date": "2002-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't complete the online self-assessment survey.",
+        "It asks where I need improvement and I don't need any."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The program won't let me leave that question blank.",
+        "Just check the box that says you steal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And people will understand that I don't mean it?",
+        "Sure."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I donated a billion dollars to the United Nations today.",
+        "That's nice of you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My only condition is that they name something after me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "United Nations",
+        "For the millionth time: Yes, I'm sure we want to keep calling it France!"
+      ]
+    }
+  ]
+}

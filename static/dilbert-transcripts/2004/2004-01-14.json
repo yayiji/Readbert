@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Airport security",
+        "Please remove your jackets and shoes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please remove your epidermal layer and put it in a plastic bag."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is a federal crime to mention the movies \"Ishtar\", \"Glitter\" or \"Gigli\"."
+      ]
+    }
+  ]
+}

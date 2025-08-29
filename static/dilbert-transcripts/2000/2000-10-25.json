@@ -1,0 +1,25 @@
+{
+  "date": "2000-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our records show that you used the internet for personal reasons.",
+        "You're fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please, I merely ordered groceries online so that I might have more time for working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My motto is, you can't spell \"who cares?\" without H.R.",
+        "It's evil, but it's true."
+      ]
+    }
+  ]
+}

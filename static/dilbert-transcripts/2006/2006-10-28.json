@@ -1,0 +1,30 @@
+{
+  "date": "2006-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm debating on the internet!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! I'm winning every argument by saying the same thing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "\"How would you like it if Hitler killed you?\"",
+        "Hey, I debated you last night!"
+      ]
+    }
+  ]
+}

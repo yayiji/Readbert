@@ -1,0 +1,55 @@
+{
+  "date": "1997-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I dread this part of the staff meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's go around the table and describe our accomplishments for the week.",
+        "Wally?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was another week of amazing success in Wallyville."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "On Monday I realized my left bun had fallen asleep."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I was shocked.",
+        "The \"boys\" had always worked as a team before."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Thinking quickly, I shifted my weight to my right bun and hoped for the best."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's your left side, not your right."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's the other thing; apparently the boys switched sides sometime during the night."
+      ]
+    }
+  ]
+}

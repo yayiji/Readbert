@@ -1,0 +1,23 @@
+{
+  "date": "1994-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided that our next team-building exercise will be a paintball tournament."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is not a good thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a deceptively easy sport."
+      ]
+    }
+  ]
+}

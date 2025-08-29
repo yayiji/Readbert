@@ -1,0 +1,30 @@
+{
+  "date": "2000-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the Dogbert temp agency. Do you need a hand?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I get it. Hee hee!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I said, \"Don't get mad; try counting to fifteen.\"",
+        "Ouch."
+      ]
+    }
+  ]
+}

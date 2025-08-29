@@ -1,0 +1,25 @@
+{
+  "date": "2007-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the security consultant",
+        "If you see someone without an ID badge..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Strip search him, confiscate his wallet, and lock him in the janitor's closet until he starves!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That seems a bit extreme.",
+        "You're about one minute away from living on mop water."
+      ]
+    }
+  ]
+}

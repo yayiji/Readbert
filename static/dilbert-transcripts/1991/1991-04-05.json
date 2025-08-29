@@ -1,0 +1,26 @@
+{
+  "date": "1991-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have practiced religion for one day and not attained fulfillment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you're an android.",
+        "You have no soul.",
+        "No soul?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is a little creature with no soul supposed to do?",
+        "Well, Sonny Bono married Cher..."
+      ]
+    }
+  ]
+}

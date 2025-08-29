@@ -1,0 +1,53 @@
+{
+  "date": "1998-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you the pompous airbag of the office?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Indeed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been asked to deflate you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My sources tell me that you combine arrogance with trivia and try to pass it off as intelligence."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's because I'm surrounded by fools who don't even know the capital of Elbonia!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I have a signed statement from your wife..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...that you put wet laundry in the oven last night."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That explains the chewy casserole she served me this morning."
+      ]
+    }
+  ]
+}

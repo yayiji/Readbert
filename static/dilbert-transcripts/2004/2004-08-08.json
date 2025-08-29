@@ -1,0 +1,53 @@
+{
+  "date": "2004-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting a credit reporting company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be the low-cost provider because all of my data will be wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What will you do when people call and complain that you ruined their lives?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll put them on hold until their frustrations turn into debilitating health problems."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Their last words will be \"Aaagh!!! I only wanted to buy a minivan!\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Death will accomplish what customer service could not."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm just curious: Do you have any qualms about your business plan? Any at all?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm not sure. Do qualms make you wag?"
+      ]
+    }
+  ]
+}

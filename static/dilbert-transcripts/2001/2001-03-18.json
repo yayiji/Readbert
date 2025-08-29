@@ -1,0 +1,57 @@
+{
+  "date": "2001-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Get approval from marketing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Doom"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I reject your pathetic plan"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you have any interest in knowing what the plan is?",
+        "Doom"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Not unless you're proposing to smite my enemies."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I prefer to call them customers.",
+        "And yes, they'll take it in the shorts.",
+        "Doom"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "As an added inducement I will give you this cool little cloud of doom."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm going to staple you to my sales projections.",
+        "Doom"
+      ]
+    }
+  ]
+}

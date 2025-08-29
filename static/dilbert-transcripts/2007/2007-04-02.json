@@ -1,0 +1,24 @@
+{
+  "date": "2007-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO wants to eliminate our department because he doesn't know what we do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need someone to tell me what we do so I can tell him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We explain things to morons.",
+        "Should I be writing this down?"
+      ]
+    }
+  ]
+}

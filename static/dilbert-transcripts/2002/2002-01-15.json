@@ -1,0 +1,24 @@
+{
+  "date": "2002-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got fired from my job at the restaurant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every time I carried hot soup my thumb would slip in and I'd scream and spray the whole dining room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I blame the soup.",
+        "Stupid soup."
+      ]
+    }
+  ]
+}

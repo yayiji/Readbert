@@ -1,0 +1,26 @@
+{
+  "date": "1995-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "But by far, this computer is our most user-friendly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The pre-installed software has only one button.",
+        "And we press it before it leaves the factory."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does it do?",
+        "Whoa! I'm in over my head.",
+        "Let me give you their tech support number."
+      ]
+    }
+  ]
+}

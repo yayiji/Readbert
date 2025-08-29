@@ -1,0 +1,25 @@
+{
+  "date": "2003-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We might want to scale back some of the claims in our new brochure.",
+        "Which ones?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, where it says, \"Provides diplomatic immunity against all current and future felonies.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's just poetic license.",
+        "\"Turn used motor oil into root beer.\""
+      ]
+    }
+  ]
+}

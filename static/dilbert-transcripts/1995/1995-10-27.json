@@ -1,0 +1,26 @@
+{
+  "date": "1995-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Three other people asked for that same information.",
+        "You must be on redundant projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a big binder which at first glance seems useful, but you'll realize later it's not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got a few more useless binders.",
+        "Do you want 'em?",
+        "Sure. I'm using them to build an addition to my cubicle."
+      ]
+    }
+  ]
+}

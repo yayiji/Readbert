@@ -1,0 +1,23 @@
+{
+  "date": "1998-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe it was wrong to promise our customers a product that hasn't been designed yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But our motto in marketing is, \"It's better to ask for forgiveness than to seek permission.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your motto needs some design work too."
+      ]
+    }
+  ]
+}

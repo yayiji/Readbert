@@ -1,0 +1,26 @@
+{
+  "date": "1998-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is very technical.",
+        "I'll explain..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Snap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gallery of googly-eyed marketeers",
+        "Drool!",
+        "Good one."
+      ]
+    }
+  ]
+}

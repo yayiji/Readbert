@@ -1,0 +1,23 @@
+{
+  "date": "2003-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take your feet off the desk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this an example of random management or do you think it will make our stock rise?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's up .02%. Heh-heh-heh, not so random after all."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our investigative reporter has identified the company behind the deadly falling satellites."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whump!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your plan worked.",
+        "What plan?"
+      ]
+    }
+  ]
+}

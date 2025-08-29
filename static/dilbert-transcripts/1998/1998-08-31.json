@@ -1,0 +1,23 @@
+{
+  "date": "1998-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's nice, but the weasel down the street is selling it for less."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should never settle for the lesser of two weasels."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now that you mention it, it did seem too convenient."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whoa! Whoa!",
+        "Where do you think you're going?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You look bloated today, as if you have company-owned assets under your clothes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to stop relying on my instincts."
+      ]
+    }
+  ]
+}

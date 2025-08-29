@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Day one of the Bioworld experiment is off to a rocky start."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The volunteers have no edible plants and the oxygen level is dropping."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fortunately, most of the volunteers are ex-car salespeople, so we remain emotionally uninvolved.",
+        "Look how they spelled \"oxygen.\""
+      ]
+    }
+  ]
+}

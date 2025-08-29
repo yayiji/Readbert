@@ -1,0 +1,25 @@
+{
+  "date": "1997-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Autographs for sale",
+        "Wow... a softball signed by Martin Luther, leader of the Protestant Reformation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm impressed, but what I'm looking for is something signed by Martin Luther King Jr."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too bad you don't have anything from him.",
+        "Check back in ten minutes."
+      ]
+    }
+  ]
+}

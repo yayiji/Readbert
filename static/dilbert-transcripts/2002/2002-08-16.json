@@ -1,0 +1,27 @@
+{
+  "date": "2002-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your print ads would look like this.",
+        "It's a shape with no text."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I did some checking and found out that all the good ideas have been used.",
+        "This is all that's left."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can it be green?",
+        "Whoa!",
+        "Who's the creative person here?"
+      ]
+    }
+  ]
+}

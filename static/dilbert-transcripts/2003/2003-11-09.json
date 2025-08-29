@@ -1,0 +1,55 @@
+{
+  "date": "2003-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone gets a company shirt!",
+        "It's good for morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oops! Not for temps."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "None for contractors."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not for vendors."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Nothing in your size."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Not for people who might get down-sized on Friday."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll use the leftovers as garage rags."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did the shirts improve morale?",
+        "Sure did! I feel great!"
+      ]
+    }
+  ]
+}

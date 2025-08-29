@@ -1,0 +1,26 @@
+{
+  "date": "1996-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're being downsized, Ratbert.",
+        "Fortunately, there's a generous retirement plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... for your length of employment, at your grade level...",
+        "you get a wall calendar."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When do I get it?",
+        "As soon as I'm done with it."
+      ]
+    }
+  ]
+}

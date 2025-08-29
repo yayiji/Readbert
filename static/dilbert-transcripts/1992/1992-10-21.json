@@ -1,0 +1,24 @@
+{
+  "date": "1992-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have a mild flu, and normally you would survive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "However, in this brief visit I've developed no real empathy for you, so I've decided to let you die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there anything I can do?!",
+        "Well... unless you can afford my new \"ambassador class\" service."
+      ]
+    }
+  ]
+}

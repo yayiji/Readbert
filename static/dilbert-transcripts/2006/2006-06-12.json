@@ -1,0 +1,44 @@
+{
+  "date": "2006-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't believe in using Blackberries.",
+        "I prefer the old ways.",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only effective way to communicate is person to person.",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's he babbling about?",
+        "Something about being old.",
+        "I'm a people person!",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click!"
+      ]
+    }
+  ]
+}

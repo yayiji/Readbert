@@ -1,0 +1,23 @@
+{
+  "date": "2006-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I need some three-ring binders and a reservation for the conference room on Thursday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't like the way you asked, so I'm going to make a phone call until you give up and leave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah, the big jerk is still standing there."
+      ]
+    }
+  ]
+}

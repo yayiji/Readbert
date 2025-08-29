@@ -1,0 +1,24 @@
+{
+  "date": "1998-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to make $1,000 per month for a whole year?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Send $13,000 for complete information about Dogbert no-load funds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll include my free pamphlet explaining how to lose weight by eating less food.",
+        "Show the number."
+      ]
+    }
+  ]
+}

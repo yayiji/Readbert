@@ -1,0 +1,26 @@
+{
+  "date": "1996-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company announced a new compensation plan today.",
+        "Bonuses will be paid only to the top ten percent of the employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In related news, 89% of the employees resigned in bitter disgust.",
+        "The top ten percent also left, realizing they could get better jobs elsewhere."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This could have an impact on those of you who remain.",
+        "We get the bonuses?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've always wondered why your tie curls up like that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My theory is that the tie is simply showing a natural aversion to being near you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you noticed any of your other clothes trying to flee?",
+        "I'm missing a sock..."
+      ]
+    }
+  ]
+}

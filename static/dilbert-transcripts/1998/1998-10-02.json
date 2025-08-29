@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To: All engineers",
+        "From: Tina the",
+        "tech writer"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me the information I requested, or sow the seeds of your own destruction!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One should never compose e-mail while one is snarling."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "1995-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was so late I had to put on my makeup in the car."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah, I had to shave in the car."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's nothing.",
+        "I was so late that I had to give myself a sponge bath in the car."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Aren't you the driver for your carpool?",
+        "You've never heard such whining."
+      ]
+    }
+  ]
+}

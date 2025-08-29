@@ -1,0 +1,55 @@
+{
+  "date": "1991-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Boss, I have an idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gasp",
+        "Quick! Close the blinds! I'll get the door!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You fool! If anybody heard you, we're both dead!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't you realize that ideas are just targets for other power-hungry managers?!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've based my entire career on shooting down other people's ideas."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Crash!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The note says \"We know you have an idea in there. Give it up.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How was work?",
+        "Same ol' same ol'"
+      ]
+    }
+  ]
+}

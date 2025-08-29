@@ -1,0 +1,23 @@
+{
+  "date": "2002-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What can I do to avoid getting computer viruses?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give your power cord a spinal adjustment once a week to prevent disease."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was skeptical until he said there's anecdotal evidence that it works!"
+      ]
+    }
+  ]
+}

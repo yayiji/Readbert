@@ -1,0 +1,24 @@
+{
+  "date": "2003-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The \"employee of the year\" award goes to...no one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks for coming. Better luck next year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not as bad as the time that you won it.",
+        "Jealousy is unattractive."
+      ]
+    }
+  ]
+}

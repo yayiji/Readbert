@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got caught in traffic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me recap what you missed.",
+        "We spent the past hour deciding not to change the name of our department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You just inadvertently trained me to be late to all meetings.",
+        "Oops."
+      ]
+    }
+  ]
+}

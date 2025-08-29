@@ -1,0 +1,56 @@
+{
+  "date": "2001-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The call center",
+        "Carl, reduce your average call time or you're history."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Beep beep beep beep"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have a question about your product."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Faster! Faster! Faster!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um... it's about the interface.",
+        "Great. Thanks.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your average call time is way down. You get a bonus."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe it's a mistake to do this job while I study for the priesthood."
+      ]
+    }
+  ]
+}

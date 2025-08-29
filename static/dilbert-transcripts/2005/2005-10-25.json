@@ -1,0 +1,25 @@
+{
+  "date": "2005-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am the specter of unpaid overtime."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will guide you to the shadowy region that is neither life nor death. It is existence without meaning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where is this awful place?",
+        "Right here.",
+        "And if any sticky notes fall on the floor, I'll rake 'em up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1995-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think the best way to pursue my goal of world domination is to become a talk radio host."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll promote my unique conservative viewpoint that people are idiots who deserve to be mocked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Won't people show your viewpoint to be flawed by virtue of their intelligent questions?",
+        "Like that one?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I sprained my arm using the TV remote control."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried to change the channel and the volume at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why you should always stretch first.",
+        "Wally, who's your doctor?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you doing?",
+        "I'm writing an instruction book for new-born babies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't know anything about babies.",
+        "Okay, I'm not an expert, but compared to the people who have babies..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which end do I put the cheese steak in?"
+      ]
+    }
+  ]
+}

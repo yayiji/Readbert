@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No one knows the secret location of the management training facility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If no one knows where it is, how do we get there?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This part can get loud."
+      ]
+    }
+  ]
+}

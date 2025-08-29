@@ -1,0 +1,24 @@
+{
+  "date": "2001-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company values are trust, integrity and teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For the first time in my life I feel the warm glow of unconditional love!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're under a heating vent.",
+        "Oh... well, that's good too."
+      ]
+    }
+  ]
+}

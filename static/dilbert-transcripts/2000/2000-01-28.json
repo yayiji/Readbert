@@ -1,0 +1,25 @@
+{
+  "date": "2000-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm stuck in an assignment that has no hope of succeeding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha",
+        "Ha ha",
+        "Ha"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I have the first bite of our sandwich?"
+      ]
+    }
+  ]
+}

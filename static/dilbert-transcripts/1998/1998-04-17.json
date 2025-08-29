@@ -1,0 +1,23 @@
+{
+  "date": "1998-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fought to get your project classified as our top priority."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you get my e-mail saying the project isn't feasible?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll wait until tomorrow to tell him he's chairman of the \"Quality Festival.\""
+      ]
+    }
+  ]
+}

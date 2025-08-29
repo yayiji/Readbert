@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I speak English but I think in French."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Someday I'll take French lessons to find out what the heck I'm thinking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Croissant."
+      ]
+    }
+  ]
+}

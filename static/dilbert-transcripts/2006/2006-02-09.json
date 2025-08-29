@@ -1,0 +1,23 @@
+{
+  "date": "2006-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school for zombies and/or certified project managers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The training is the same for either profession. The main difference is that zombies get more sun."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Repeat after me: I want to calendar an on-site post cutover support review meeting."
+      ]
+    }
+  ]
+}

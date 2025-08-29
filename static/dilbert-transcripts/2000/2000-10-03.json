@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new office building will be an architectural masterpiece!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The voices in my head are shouting \"No storage space! No storage space!\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is happening to me?",
+        "It's called experience."
+      ]
+    }
+  ]
+}

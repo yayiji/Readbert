@@ -1,0 +1,24 @@
+{
+  "date": "2004-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to this report, our employees are afraid to take risks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can train them to take risks by giving them stretch goals and punishing them for failing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We did that to raise morale.",
+        "It stopped all the complaining, didn't it?"
+      ]
+    }
+  ]
+}

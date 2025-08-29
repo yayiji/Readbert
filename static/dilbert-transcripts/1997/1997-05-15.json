@@ -1,0 +1,26 @@
+{
+  "date": "1997-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh, no! I overslept... no time to apply makeup before my big meeting!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, does everyone understand their tasks?",
+        "Absolutely",
+        "I'll get right on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder why they were so respectful today.",
+        "It's Newt Gingrich!"
+      ]
+    }
+  ]
+}

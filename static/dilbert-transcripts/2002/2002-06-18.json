@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss ordered me to make our accounting records more confusing. Is that ethical?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's as ethical as the massive short-sell order I'm going to place in the next ten seconds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you're the wrong one to ask.",
+        "Now!",
+        "Now!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I start the project today and work nights and weekends it will take... oh, six months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It has to be done in one month so we can show it to our VP on her annual visit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have to know; does it even cross your mind to handle this differently?",
+        "I'll need daily status reports on why you're so behind."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2004-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did the liposuction go?",
+        "Good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People say I look younger.",
+        "And thanks to my self-discipline,",
+        "I'll keep off the weight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One more."
+      ]
+    }
+  ]
+}

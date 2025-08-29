@@ -1,0 +1,54 @@
+{
+  "date": "2003-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, why have you been charging all of your hours to my project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I invited you to one meeting. It lasted one hour."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think I would go to a meeting without extensive preparation?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay... that's another hour.",
+        "How many more do you need explained?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Fifty-eight."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "After the meeting, I sat quietly and evaluated what everyone said. That took fifty-seven hours."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha! You're still an hour short. Explain that!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you mind if I sit quietly and think about that question for a while?"
+      ]
+    }
+  ]
+}

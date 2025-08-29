@@ -1,0 +1,30 @@
+{
+  "date": "1992-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We must use all of the resources of the \"cow and egg\" lobby to counter the latest threat from the vegetarians."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Somehow they've managed to link food with health... they invented a \"nutrition pyramid\" chart and got schools to use it..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Kids, this is a little different from the way I learned it...",
+        "Meat",
+        "Milk, beer",
+        "Gravel, bugs",
+        "Beans, tofu",
+        "Fruits, vegetables",
+        "Bread, cereal, grain",
+        "Bad"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "1994-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People are so stupid",
+        "They should pay me",
+        "to listen to their",
+        "opinions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you disagree,",
+        "you can call my",
+        "phone poll at",
+        "555-dog-bert. Each",
+        "call costs two",
+        "dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm voting",
+        "twice."
+      ]
+    }
+  ]
+}

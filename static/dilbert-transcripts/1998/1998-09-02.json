@@ -1,0 +1,26 @@
+{
+  "date": "1998-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can only succeed if each of you works nights and weekends for a year!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I quit.",
+        "Me too.",
+        "I'll clear out my desk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or was that supposed to inspire us?",
+        "Like I'd know."
+      ]
+    }
+  ]
+}

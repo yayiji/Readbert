@@ -1,0 +1,54 @@
+{
+  "date": "2006-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert's tech support. How may I abuse you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I get an error message every time I open an application."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try giving me all of your personal information and then checking into rehab."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I'll have someone steal your identity and move in with your wife."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There's a good chance that the new guy will know how to fix your computer."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When you get out of rehab, talk your wife into taking you back."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then never touch your computer again because it hurts the ones you love."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How's work?",
+        "Everyone wants to talk to my supervisor."
+      ]
+    }
+  ]
+}

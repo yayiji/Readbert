@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For thousands of generations the males in my family practiced selective breeding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The goal was to produce offspring that leave no bio-metric impression: no pulse, no fingerprints, no DNA."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why?",
+        "We like to ask \"why not?\""
+      ]
+    }
+  ]
+}

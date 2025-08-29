@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you consider speaking at my son's school on \"career day\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd do it myself but I can't disguise the bitterness and despair that gnaw at my soul."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Plus my son has been bad and I told him I'd punish him.",
+        "I'd be honored to speak."
+      ]
+    }
+  ]
+}

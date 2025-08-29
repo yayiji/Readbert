@@ -1,0 +1,24 @@
+{
+  "date": "2003-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have to stop telling people that you can talk to furniture. It's not right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You work for a company that actively misleads customers. How's that different?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We call it marketing, and we don't wear hats.",
+        "The table says you're a hypocrite."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "1999-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you saying my job makes me sick?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry.",
+        "There's a cure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's a brochure on assisted suicide."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How do you assist?",
+        "I gave you the brochure."
+      ]
+    }
+  ]
+}

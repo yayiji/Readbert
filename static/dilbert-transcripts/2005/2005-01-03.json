@@ -1,0 +1,24 @@
+{
+  "date": "2005-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I'm making you our new director of first impressions pro tem!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My years of hard work have finally paid off! I'm a director!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is my office in the lobby?",
+        "Can you direct me to the nearest growler?"
+      ]
+    }
+  ]
+}

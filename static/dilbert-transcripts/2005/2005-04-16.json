@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The police say I'm the victim of identity theft."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I am doomed to wander the earth without knowing who I am."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would mean you're wearing a stranger's underpants.",
+        "Gaaa!!"
+      ]
+    }
+  ]
+}

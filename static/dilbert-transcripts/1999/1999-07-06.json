@@ -1,0 +1,23 @@
+{
+  "date": "1999-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did it!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a strategic technology plan that everyone supports."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If only there were a way to copy images from one piece of paper onto many."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1993-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the penalty for stealing a chair??",
+        "!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are sentenced to sit in the break room used by the accounting department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to type the number six.",
+        "Cripes!",
+        "This is my Tuesday lunch bag."
+      ]
+    }
+  ]
+}

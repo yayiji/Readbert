@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a list of my Christmas demands."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Follow the instructions and nobody gets hurt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're bluffing.",
+        "You wouldn't hurt my plastic window Santa.",
+        "One yank and he's off life support!"
+      ]
+    }
+  ]
+}

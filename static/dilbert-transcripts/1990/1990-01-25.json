@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It seems we had a mix-up with your test results.",
+        "Then I'm not dying?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We doctors are amazingly smart, but occasionally we make a little error."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... I understand.",
+        "By the way, your pap smear was normal."
+      ]
+    }
+  ]
+}

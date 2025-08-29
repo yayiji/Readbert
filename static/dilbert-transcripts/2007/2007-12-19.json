@@ -1,0 +1,23 @@
+{
+  "date": "2007-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not allowed to discuss the company politics that form a career minefield around your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I can't tell you the company's new strategic direction, or anything about our upcoming reorg."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My plan is to criticize you until something good happens."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1991-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're healthy.",
+        "That's fifty dollars.",
+        "You haven't even looked at my arm!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who's the doctor here?",
+        "Apparently, neither of us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Right. So it's just your word against mine."
+      ]
+    }
+  ]
+}

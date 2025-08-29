@@ -1,0 +1,25 @@
+{
+  "date": "2002-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We provide win-win scenarios and customer-focused solutions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... okay...",
+        "But what is the actual product or service you sell?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't sell; we partner.",
+        "I don't buy; I shovel."
+      ]
+    }
+  ]
+}

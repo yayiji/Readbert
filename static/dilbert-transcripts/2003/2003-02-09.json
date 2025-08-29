@@ -1,0 +1,63 @@
+{
+  "date": "2003-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new design will meet all of our customers' current and future needs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's no good; they'll never need to upgrade."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't ask me to put flaws in my design."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Flaws would work.",
+        "We need flaws.",
+        "Flaws, flaws, flaws."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Please...",
+        "No..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Make it freeze every hour.",
+        "The interface needs to be more confounding.",
+        "And..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Later",
+        "Please...",
+        "No more.",
+        "...and crippling electric shocks."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Much, much later",
+        "The help screen could recommend marrying an unemployed, shirtless guy with a mullet.",
+        "That's marketing!"
+      ]
+    }
+  ]
+}

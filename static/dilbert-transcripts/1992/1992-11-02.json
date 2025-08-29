@@ -1,0 +1,25 @@
+{
+  "date": "1992-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've failed the driving test nine times. Can you help?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogbert's driving school",
+        "I specialize in the problem cases. Just sign the application form."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... I've seen one of these before. Yes, there's something special about the pointy end... but what?",
+        "Uh oh"
+      ]
+    }
+  ]
+}

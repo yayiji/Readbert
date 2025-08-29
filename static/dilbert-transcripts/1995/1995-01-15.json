@@ -1,0 +1,56 @@
+{
+  "date": "1995-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new philosophy is \"We do it right the first time.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This will inspire you to higher quality because you'll realize mistakes are not tolerated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Since mistakes are inevitable, wouldn't your philosophy inspire us to avoid completing anything?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We'll be paralyzed by the fear of mistakes, victims of our own unrealistic philosophy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You might as well have a philosophy that says \"We punish anybody who does anything.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I value your opinion.",
+        "Wally, I want you to make some posters that say \"We do it right the first time.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wally's paralyzed.",
+        "Next item:",
+        "Why is employee morale so low?"
+      ]
+    }
+  ]
+}

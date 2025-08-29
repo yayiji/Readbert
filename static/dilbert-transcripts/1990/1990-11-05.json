@@ -1,0 +1,26 @@
+{
+  "date": "1990-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't worry. If it's true that an impostor is trying to steal your job, I'll get rid of him at once."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There he is!",
+        "And he doesn't even look like me!",
+        "I finished the report!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's only room for one Dilbert!!",
+        "But this one actually produced something..."
+      ]
+    }
+  ]
+}

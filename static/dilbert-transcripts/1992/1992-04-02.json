@@ -1,0 +1,25 @@
+{
+  "date": "1992-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The canine tax rebate bill was passed by congress today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The bill's author, Mister Dogbert, successfully pinned the label \"dog kicking liberal\" on all who opposed him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that ethical?",
+        "Tha-a-at's it.",
+        "You're on the list."
+      ]
+    }
+  ]
+}

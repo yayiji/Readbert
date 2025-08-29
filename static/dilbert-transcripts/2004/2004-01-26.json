@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to change the company's name to create the illusion of progress."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The name should be hi-tech sounding with a hint of onomatopoeia that signals your total lack of awareness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe something like \"Duhflushtech, Inc.\"",
+        "I like it!"
+      ]
+    }
+  ]
+}

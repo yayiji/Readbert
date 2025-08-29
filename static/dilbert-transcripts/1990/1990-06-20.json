@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't worry, killer, I'll get us out of this pound by nightfall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How?",
+        "I used my one phone call to call a wrecking company to destroy this place.",
+        "That sounds dangerous to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Coming up: a near-death experience or possibly just a stupid dream sequence."
+      ]
+    }
+  ]
+}

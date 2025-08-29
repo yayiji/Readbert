@@ -1,0 +1,25 @@
+{
+  "date": "1995-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "I recommend that you reorganize to strengthen the core competency of your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As luck would have it, your core competency is \"giving money to consultants.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think that's the only thing we're good at.",
+        "It depends on if you count \"whining.\""
+      ]
+    }
+  ]
+}

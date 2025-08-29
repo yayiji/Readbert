@@ -1,0 +1,23 @@
+{
+  "date": "2002-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, this is urgent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll add it to the compost drawer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope that means the same thing as \"urgent.\""
+      ]
+    }
+  ]
+}

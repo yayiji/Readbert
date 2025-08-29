@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll redesign our processes to enable enterprise integration of knowledge resources and tools."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Is it okay if I do nothing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Well, excuse me for making a suggestion."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1991-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, aren't you one of those chihuahua dogs?",
+        "The disguise is working."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unless... maybe you're just a rat in a turtleneck sweater, pretending to be a chihuahua.",
+        "Think fast."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have the attention span to think about it.",
+        "What did he mean by \"just a rat\"?"
+      ]
+    }
+  ]
+}

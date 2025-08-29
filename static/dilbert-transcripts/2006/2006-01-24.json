@@ -1,0 +1,30 @@
+{
+  "date": "2006-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what's the status on the RDP project?",
+        "Am I working on that one?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've been in charge of it for a year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh. In that case, it's almost done."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Half of being a manager is living with a vague feeling of uneasiness."
+      ]
+    }
+  ]
+}

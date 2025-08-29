@@ -1,0 +1,65 @@
+{
+  "date": "2005-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my vacation schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whoa! You're planning to take more vacation days than you've accrued."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's okay because I'll accrue the days before the actual vacation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No can do. What if you quit before then?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm literally afraid to hear the answer to that question."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Think, man! If you quit and have a vacation at the same time..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll be down two people!!!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "It's hard to remain upbeat."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Do you still live here?"
+      ]
+    }
+  ]
+}

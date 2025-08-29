@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And this one also requires your decision before I can work on it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any more assignments for me that I can turn into work for you?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And have you learned your lesson?",
+        "Yes: give all work to Alice."
+      ]
+    }
+  ]
+}

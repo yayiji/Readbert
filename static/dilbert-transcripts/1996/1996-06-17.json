@@ -1,0 +1,24 @@
+{
+  "date": "1996-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The status of my action item is 50% done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Specifically, I finished the item part but not the action."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have an estimate for when the action will be done?",
+        "Yes, and that estimate is 100% complete!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our facilities management says the new statue by the front entrance isn't a statue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's an unlucky guy named Karl who had been warned many times not to feed the birds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then it talks about statistical clustering... blah, blah, blah...and serving as an example."
+      ]
+    }
+  ]
+}

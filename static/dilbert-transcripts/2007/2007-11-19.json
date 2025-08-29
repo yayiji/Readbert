@@ -1,0 +1,25 @@
+{
+  "date": "2007-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Do you want me to lie to you for $400 per hour or give you the truth for $200?",
+        "I'll take truth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. The problem is that having you try to manage engineers is like having an earthworm try to juggle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's my premium pricing option sound to you now?"
+      ]
+    }
+  ]
+}

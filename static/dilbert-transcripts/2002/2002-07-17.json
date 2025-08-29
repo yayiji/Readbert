@@ -1,0 +1,24 @@
+{
+  "date": "2002-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You made a fortune selling your stock options last month, and now we're bankrupt."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My 401k is worthless. So, in effect, you've stolen my life savings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This would be a bad time to make quote marks in the air while saying, \"In effect.\"",
+        "Ooh"
+      ]
+    }
+  ]
+}

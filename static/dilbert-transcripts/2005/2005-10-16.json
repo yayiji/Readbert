@@ -1,0 +1,57 @@
+{
+  "date": "2005-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll take that chair.",
+        "Sale!",
+        "Excellent choice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now sit there quietly and try not to ask the one question that will kill this sale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the chair in stock?",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The truth is that we don't sell chairs at all. We sell the hope that a chair will someday be made for you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How long will that take?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I could answer that question, it would be the same as selling you an actual chair."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How about if I tell you it will ship in two months, and you call and yell at me every three months for eternity?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you buy a chair?",
+        "There's no way to know."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you made your mother proud by becoming a manager?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you made your son proud by hosting a cooking show on television?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could call the show \"Cooking with too much salt.\"",
+        "How did you get this way?"
+      ]
+    }
+  ]
+}

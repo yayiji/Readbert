@@ -1,0 +1,25 @@
+{
+  "date": "1994-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I declare myself the patron saint of technology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I heal broken technology with my right paw and I use the scepter to drive out the demons of stupidity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think I've seen your spiritual side before.",
+        "Out!",
+        "Out!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2006-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I have a little project for you to do in your spare time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What exactly is my \"spare time\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, for example, there's the time that normal people would use for dating."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And since you're not dating, you can trim a few minutes from your hygiene schedule too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then there's the time you spend daydreaming about a fulfilling life."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's exactly like stealing from the company."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And your stupid questions - those have to take at least an hour a day."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are my questions stupid?",
+        "Not as bad as your answers."
+      ]
+    }
+  ]
+}

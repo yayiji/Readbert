@@ -1,0 +1,25 @@
+{
+  "date": "1992-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The tiny nation of Elbonia has erupted in civil war."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What caused you to turn your weapons on your own people?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Weapons?",
+        "We can use weapons?",
+        "Well, no wonder it was taking so long."
+      ]
+    }
+  ]
+}

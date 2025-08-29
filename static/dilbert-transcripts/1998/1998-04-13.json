@@ -1,0 +1,25 @@
+{
+  "date": "1998-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just gave my two-week notice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes! Yes!",
+        "The arrogant, obstructionist bore is history!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everyone seems to be taking this rather well.",
+        "Count me in for the goodbye lunch!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2007-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can I get your comments on my article by tomorrow?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You say, \"Sure,\" but we both know it's a lie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You just want me to go away."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You plan to wait until tomorrow and make an excuse."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then you'll hope I'll give up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, but remember, my comments are always worthless.",
+        "They would cause you extra work and worsen the result."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So if I give you nothing, everyone wins."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "In that case, thank you for ignoring my needs.",
+        "It's the least I could do."
+      ]
+    }
+  ]
+}

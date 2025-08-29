@@ -1,0 +1,26 @@
+{
+  "date": "2000-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "You think you're satisfied with your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In reality, you're just afraid of change!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was some of my best work.",
+        "Purrr",
+        "Purrr"
+      ]
+    }
+  ]
+}

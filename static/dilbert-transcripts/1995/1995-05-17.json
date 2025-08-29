@@ -1,0 +1,24 @@
+{
+  "date": "1995-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your approval on my business case, Tom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll wedge it in here so you can claim you never saw it when I ask about it next week.",
+        "Thanks"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The weird part is that I can feel productive even when I'm doomed."
+      ]
+    }
+  ]
+}

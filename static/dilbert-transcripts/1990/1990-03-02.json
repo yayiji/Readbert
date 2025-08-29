@@ -1,0 +1,26 @@
+{
+  "date": "1990-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello?",
+        "This is your bank."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're having trouble meeting payroll...",
+        "Could you come down and make some deposits right away?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will you take a check?",
+        "From you?"
+      ]
+    }
+  ]
+}

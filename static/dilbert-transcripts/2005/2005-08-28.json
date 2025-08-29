@@ -1,0 +1,56 @@
+{
+  "date": "2005-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job could not be more meaningless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking at my new director of post-decision support!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "After I make a decision, your job is to figure out why it was the right one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Save those tears of joy for later.",
+        "We've got work to do!",
+        "Sob"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I decided to out-source our nuclear contracts to North Elbonia."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And in return, they'll give us food, if they ever figure out how to grow any."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I expect some fallout from this decision.",
+        "Me too."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "On the plus side, it won't be long before there's a government reward for killing him."
+      ]
+    }
+  ]
+}

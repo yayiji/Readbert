@@ -1,0 +1,28 @@
+{
+  "date": "1993-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My chair is broken.",
+        "Can you send a new one from the warehouse?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No can do, my friend.",
+        "All we have is chairs with deluxe armrests.",
+        "They're only for managers who are one level higher than you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do I suggest?",
+        "I dunno... maybe take some classes at night.",
+        "I'm sure you can get promoted eventually."
+      ]
+    }
+  ]
+}

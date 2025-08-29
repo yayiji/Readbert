@@ -1,0 +1,56 @@
+{
+  "date": "2003-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, it's a customer!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're in luck; our next version has every feature you'll ever want!",
+        "It does?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was ready to buy your current version... but I guess I'll wait."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When will our new version be ready?",
+        "In a year."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The new version will leapfrog our competition."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Leapfrog? That implies that they have better products right now."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Buy our product, you stinkin' pile of crud!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I have to run.",
+        "Try not to blow the sale."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2004-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally is in the men's room.",
+        "I've accepted a position as his seat filler."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is the proudest day of my life.",
+        "I never imagined that my career would work out so well."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want to scream to the world,",
+        "\"Look at me now!\"",
+        "False alarm.",
+        "You're fired."
+      ]
+    }
+  ]
+}

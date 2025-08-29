@@ -1,0 +1,31 @@
+{
+  "date": "1997-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should the dinosaurs be downsized?",
+        "You decide their fate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Vote by e-mail:",
+        "dinosaurs@unitedmedia.com",
+        "A. I love the dinosaurs!",
+        "B. Stick to office jokes!",
+        "C. No talking animals!",
+        "D. I don't have any opinions but I like to vote!",
+        "E. Get rid of everyone so I can use the blank space for notes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's a Jimmy Carter here to monitor the voting.",
+        "Uh-oh."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, could you give me a hand?",
+        "\"Paw\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I pulled a loose thread on my shirt and my head got sucked into my torso."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should we do?",
+        "This might be a good time for a family portrait."
+      ]
+    }
+  ]
+}

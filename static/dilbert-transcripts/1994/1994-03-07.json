@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We in engineering think of the marketing department as our customer, Fred."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's great. I'd like you to do a technical feasibility study for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that require any work?",
+        "I said \"customer,\" not \"boss.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "1999-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the newly designated fire warden for this floor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You might expect me to be bitter about this assignment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Granted, it tells the world I wasn't productive at my regular job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And if the building burns, I'm expected to be the last one out."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But my only concern is your safety."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In the event of a fire, don't be too proud to panic."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If the windows won't open, try flushing yourself to safety."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And never, ever get between me and the exit door.",
+        "Wally..."
+      ]
+    }
+  ]
+}

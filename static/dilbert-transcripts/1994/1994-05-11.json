@@ -1,0 +1,27 @@
+{
+  "date": "1994-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the project leader for the Dogbert consulting company.",
+        "You simple employees shall do my bidding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be sending you on an endless variety of data-gathering expeditions.",
+        "That will keep you busy while I do the thinking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "By the way,",
+        "this may look like a slab of liver but it's an external brain pack.",
+        "My career just reached an all time low."
+      ]
+    }
+  ]
+}

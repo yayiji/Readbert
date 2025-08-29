@@ -1,0 +1,25 @@
+{
+  "date": "2000-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Another company offered me twenty percent more.",
+        "Will you match it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I prefer to hire someone who is loyal, even if I have to pay forty percent more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Managing is supposed to be a science!",
+        "My mime wall blocks your sound."
+      ]
+    }
+  ]
+}

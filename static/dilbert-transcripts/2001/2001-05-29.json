@@ -1,0 +1,25 @@
+{
+  "date": "2001-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ed, do you have the latest budget numbers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Budget??? What is a \"budget\"?",
+        "And why in the world would I have one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because you're the budget manager.",
+        "Here you go."
+      ]
+    }
+  ]
+}

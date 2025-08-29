@@ -1,0 +1,24 @@
+{
+  "date": "2004-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I discovered a typo in the market forecast that is driving our company strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where it says, \"Everyone would want one,\" it should have said, \"Avery Wong would want one.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Worse yet, I called Mr. Wong and he said he was joking.",
+        "What if we gave him free delivery?"
+      ]
+    }
+  ]
+}

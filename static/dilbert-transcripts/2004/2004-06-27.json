@@ -1,0 +1,53 @@
+{
+  "date": "2004-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why it's great to be an engineer",
+        "Hi, Dilbert.",
+        "Hi... there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He doesn't remember my name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say it!",
+        "Say my name!",
+        "Hey, Dilbert.",
+        "Now he'll be forced to introduce me.",
+        "Hee-hee!",
+        "Am I interrupting anything?",
+        "No."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's awkward for you now. Ha ha!",
+        "Squirm, you name forgetter.",
+        "The pressure to introduce me must be killing you. Ha ha!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do you have the new hardware specs?",
+        "Follow me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Who was that guy?",
+        "What guy?"
+      ]
+    }
+  ]
+}

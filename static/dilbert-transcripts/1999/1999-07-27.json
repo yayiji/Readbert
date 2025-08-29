@@ -1,0 +1,24 @@
+{
+  "date": "1999-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your performance is slipping again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This calls for my most severe disciplinary action."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He made you watch him eat?",
+        "Monster!"
+      ]
+    }
+  ]
+}

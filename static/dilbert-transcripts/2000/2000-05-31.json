@@ -1,0 +1,22 @@
+{
+  "date": "2000-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm documenting everything you do so I can easily fire you someday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could call me if you do anything.",
+        "Leave it here and I'll fill it out for you."
+      ]
+    }
+  ]
+}

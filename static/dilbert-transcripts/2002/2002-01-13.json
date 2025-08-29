@@ -1,0 +1,53 @@
+{
+  "date": "2002-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm naming you our company's \"Engineer of the Year.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll fly to New York and receive a trophy with the winners from other companies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm too busy. Name someone else."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's a critical time for my project."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm flattered but I already have no time for sleeping or bathing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I have a sick day scheduled for that Friday."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Carol, I need you to go to New York and pretend to be an engineer."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why yes, most of us are really from marketing. How can you tell?"
+      ]
+    }
+  ]
+}

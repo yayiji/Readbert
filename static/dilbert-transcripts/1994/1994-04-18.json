@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the press release about our bid to buy \"DSN\" for fifty billion dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "DSN is the Hollywood studio that provides static to all the channels that would otherwise be blank."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The \"Dogbert static network\"?!!",
+        "Talk to me, babe."
+      ]
+    }
+  ]
+}

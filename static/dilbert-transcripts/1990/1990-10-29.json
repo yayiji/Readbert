@@ -1,0 +1,26 @@
+{
+  "date": "1990-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a cleaning person to come in once a week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Starting today.",
+        "Ding dong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi... uh...",
+        "Leave the flamethrower outside.",
+        "Fine. Let's just surrender to the mildew..."
+      ]
+    }
+  ]
+}

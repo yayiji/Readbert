@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A man from \"Loser Magazine\" wants to see you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He said something about featuring you on the cover.",
+        "Send him over."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I tried, but he keeps going into the break room and napping.",
+        "I hate show-offs."
+      ]
+    }
+  ]
+}

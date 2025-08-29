@@ -1,0 +1,25 @@
+{
+  "date": "2005-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Having two computers is a violation of the company's 5S rules of standardized work-space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need two computers to test my software.",
+        "There's no way to do my job with one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a compromise solution.",
+        "Put this little red tag on one of them and tell me later if anything bad happens."
+      ]
+    }
+  ]
+}

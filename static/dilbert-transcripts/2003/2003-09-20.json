@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, remember that money can't buy happiness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it can buy expensive possessions that make other people envious, and that feels just as good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you can pay to have people whacked.",
+        "Can I trade my happiness for some money?"
+      ]
+    }
+  ]
+}

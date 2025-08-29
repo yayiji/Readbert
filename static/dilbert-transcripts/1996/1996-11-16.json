@@ -1,0 +1,26 @@
+{
+  "date": "1996-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So tell me... Brian...",
+        "Why do you want to work for this company?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, to be honest, I don't. I'm using this as a practice interview."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess we're done here.",
+        "Hello-o-o!!!",
+        "It's lunch time and I don't see sandwiches."
+      ]
+    }
+  ]
+}

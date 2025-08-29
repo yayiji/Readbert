@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lucky airlines?",
+        "I demand payment for the luggage I lost when we crashed into the mountain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, technically it's not \"lost.\"",
+        "Well, yes, I did eat your complimentary peanuts..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Help me out here... so far, I've agreed to hot-wax their tarmac."
+      ]
+    }
+  ]
+}

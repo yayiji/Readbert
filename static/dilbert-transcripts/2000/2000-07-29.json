@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to you, my computer screen is all fuzzy now!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're always fiddling with something that makes something else stop working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't clean your screen with your handkerchief during flu season.",
+        "Stop changing the subject."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "1994-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert! Come here! I've done it!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I created a mathematical proof of the existence of God!",
+        "Give it to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is a job for the world's smartest garbage man."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What can I do for you, Dogbert?",
+        "Check this math."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Clever... but he transposed some variables. This proves the existence of his dog."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now we know you exist. And I must exist because \"I think, therefore I am.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But since Dilbert wasn't thinking when he made this error, there's no proof that he exists."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hey!",
+        "Did you just hear something, Dogbert?",
+        "There's no way to be sure."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2006-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is your project four months behind?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I still don't have the user's requirements because she's a complete nut job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's your job to manage that process!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I complained to her boss, who promptly misinterpreted the problem and ordered her to work on the wrong stuff."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then every member of her family got a serious illness.",
+        "Then she got called to jury duty."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "She promised to give me the requirements this afternoon."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It was too hard to come up with my own requirements, so I just copied the requirements from another product."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is the other product similar to what you want?",
+        "Where are you going with this?"
+      ]
+    }
+  ]
+}

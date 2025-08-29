@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm running late.",
+        "But since I'm a vice president, you'll have to wait in the hallway."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be able to judge your relative worth by observing what things I do while you wait."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's teaching himself the banjo."
+      ]
+    }
+  ]
+}

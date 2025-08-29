@@ -1,0 +1,26 @@
+{
+  "date": "1991-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I quit my job as a used car salesman.",
+        "Because you couldn't keep lying?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, the lying was good. I liked that part.",
+        "Was it because crime doesn't pay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I made $400,000 this week. I'm retired now.",
+        "I don't think this will ever be a \"Reader's Digest\" very special story."
+      ]
+    }
+  ]
+}

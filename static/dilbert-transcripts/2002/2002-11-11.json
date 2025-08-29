@@ -1,0 +1,25 @@
+{
+  "date": "2002-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And I need it this afternoon.",
+        "Forget it!",
+        "I'm a short-timer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to sit in this chair and not move my arms or legs for a week. After that, I'll never work another day!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hesitate to ask this, but I have an itch in an awkward place."
+      ]
+    }
+  ]
+}

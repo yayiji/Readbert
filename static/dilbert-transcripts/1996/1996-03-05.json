@@ -1,0 +1,25 @@
+{
+  "date": "1996-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to turn this fifty-page proposal into a one-paragraph executive summary for our CEO. It's impossible.",
+        "Simple."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about \"Give us three million dollars so we can buy cool technology, pump up our résumés and escape this festering boil you call a company\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel obligated to say something about our customers.",
+        "How about \"I'm glad I'm not one of them.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The marketing department saves the day!",
+        "Check out these brochures I made."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This new product will allow us to dominate the market!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But we don't make this product.",
+        "That hasn't hurt our sales so far."
+      ]
+    }
+  ]
+}

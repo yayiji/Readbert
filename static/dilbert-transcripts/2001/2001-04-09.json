@@ -1,0 +1,23 @@
+{
+  "date": "2001-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've discovered oil in the Elbonian wildlife preserve."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry about the endangered species. Our drilling will have no impact."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops"
+      ]
+    }
+  ]
+}

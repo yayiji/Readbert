@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have fun working.",
+        "I'm off to the two-week management retreat in the mountains."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's so sad you can't come. I guess there isn't room at the four-star hotel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I know why it's called a retreat."
+      ]
+    }
+  ]
+}

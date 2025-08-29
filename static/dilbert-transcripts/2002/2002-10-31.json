@@ -1,0 +1,23 @@
+{
+  "date": "2002-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We find the defendant guilty and we sentence him to death."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Umm...we haven't deliberated. We haven't even heard any evidence yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, so, what I'm hearing is that Leno's monologue is not evidence?"
+      ]
+    }
+  ]
+}

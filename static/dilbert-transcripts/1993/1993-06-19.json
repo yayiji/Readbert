@@ -1,0 +1,27 @@
+{
+  "date": "1993-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's seminar on management zombies",
+        "As a zombie, you must speak in empty generalities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your business plan might say \"We strive to utilize a variety of techniques to accomplish a broad spectrum of results toward the bottom line.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! My skin is getting clammy and I have the urge to call a meeting!",
+        "Me too!",
+        "Good...",
+        "Good..."
+      ]
+    }
+  ]
+}

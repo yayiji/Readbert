@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm bored. It's time to stalk the new hire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How long is the wait?",
+        "About forty-five minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When romance is involved, it's good to have a plan \"B.\""
+      ]
+    }
+  ]
+}

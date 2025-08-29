@@ -1,0 +1,24 @@
+{
+  "date": "1993-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This show is garbage.",
+        "I will eschew it.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That explains your breath.",
+        "You're in your own little world, aren't you?"
+      ]
+    }
+  ]
+}

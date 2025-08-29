@@ -1,0 +1,57 @@
+{
+  "date": "1991-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project is a whole new paradigm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's a paradigm?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Heh-heh...",
+        "\"What's a paradigm\"... funny.",
+        "Seriously, what is it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You know...",
+        "Paradigm, paradigmish..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "As in \"this project is a paradigm.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But enough about my project... tell us about your project."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's a paradigm."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They bought it.",
+        "My project is a paradigm too."
+      ]
+    }
+  ]
+}

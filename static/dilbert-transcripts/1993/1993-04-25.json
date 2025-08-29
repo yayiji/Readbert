@@ -1,0 +1,54 @@
+{
+  "date": "1993-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Government statistics show that office productivity went down as computers became widely used."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I didn't believe it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I wrote a little software program to test that conclusion."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It only took a month, but it produced some impressive data."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In fact, it was so impressive it took a week to figure out how to print it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But before I could print, my computer crashed and I didn't have backup copies."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So, it seems the government was right; computers are to blame for the decline in productivity."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you think the employees could be partly responsible?",
+        "Sure, find a scapegoat."
+      ]
+    }
+  ]
+}

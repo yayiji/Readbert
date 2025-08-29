@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When's the baby due?",
+        "Baby? What baby?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can't a woman go off her diet for one day without getting that question??"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next...",
+        "So, when's the baby due?"
+      ]
+    }
+  ]
+}

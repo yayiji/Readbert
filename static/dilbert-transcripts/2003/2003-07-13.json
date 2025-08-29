@@ -1,0 +1,64 @@
+{
+  "date": "2003-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, write up our technology strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay.",
+        "What's our strategy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How should I know? It's not written yet.",
+        "Duh!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How can I write about something that doesn't exist?",
+        "Duh!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It will exist, as soon as you write it.",
+        "Duh!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Duh!",
+        "Duh!",
+        "Duh!",
+        "Duh!",
+        "Duh!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Just do it.",
+        "Double duh.",
+        "Whatever.",
+        "Duh to infinity."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If my company stock had any value, I'd be selling it now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1995-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Write up your accomplishments so I can decide who gets raises this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying our raises will depend on our ability to lie about our achievements?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, there's also favoritism."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And don't forget the importance of minimizing the accomplishments of others."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This year I saved a billion dollars in ways which are impossible to verify."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "While the others plotted against you, I was applying an invisible rust inhibitor to your car."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I can drop those off for you.",
+        "Thanks."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Have you noticed she's the only one who ever gets a raise?",
+        "It's as if she has the accomplishments of three people."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, the boss wants to see you in his office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He must want to thank me for all of my hard work.",
+        "Am I right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm supposed to measure your torso.",
+        "Is he knitting me a sweater?"
+      ]
+    }
+  ]
+}

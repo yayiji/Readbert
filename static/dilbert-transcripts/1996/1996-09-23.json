@@ -1,0 +1,26 @@
+{
+  "date": "1996-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know how to fix any of the problems in this company.",
+        "Maybe I'll just sit here quietly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that wouldn't look managerly...",
+        "I'll have to do something idiotic and hope it looks like leadership."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're going to have an \"Iron Man\" team-building competition.",
+        "What a bunch of leadership..."
+      ]
+    }
+  ]
+}

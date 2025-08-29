@@ -1,0 +1,23 @@
+{
+  "date": "1999-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Will you please go hang around in someone else's cubicle? I need to finish my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, I see Wally is helping on the project. Good teamwork, Wally!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you do good work. I have a reputation to maintain."
+      ]
+    }
+  ]
+}

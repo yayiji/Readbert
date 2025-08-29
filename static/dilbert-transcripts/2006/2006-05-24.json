@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If your lawyers are going to claim all of my patents, I demand my old job back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yay."
+      ]
+    }
+  ]
+}

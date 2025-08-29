@@ -1,0 +1,26 @@
+{
+  "date": "1992-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need a name for you.",
+        "I don't deserve a name."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything that's wrong with the world is my fault.",
+        "I rue the day I was created."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I name you \"Ruebert.\"",
+        "Aaagh! People will spell it wrong and it's my fault!!"
+      ]
+    }
+  ]
+}

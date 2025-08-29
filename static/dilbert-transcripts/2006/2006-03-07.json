@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's no purpose for this meeting other than my boss told me to have it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So let's just sit here silently until our time is up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless you have something better to do.",
+        "Not really."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1990-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my research, dogs are exempt from human laws."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The great part is that I can commit any crime and my owner will be held fully responsible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm hoping you won't take a selfish view about this."
+      ]
+    }
+  ]
+}

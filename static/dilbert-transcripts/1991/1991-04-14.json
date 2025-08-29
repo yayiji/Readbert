@@ -1,0 +1,61 @@
+{
+  "date": "1991-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's guide to your tax dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you ever wonder how all that tax money gets spent?",
+        "Roll the tape."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Inventing secret things.",
+        "It doesn't look like much, but it'll smart like crazy if you sit on it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sending secret things into space.",
+        "Maybe we'd better classify it secret and send it into space with the other stuff."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Education.",
+        "Sex will kill you, food will kill you, smoking will kill you, alcohol will kill you, drugs will kill you..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Art grants for things you aren't open-minded enough to appreciate.",
+        "I call it \"the bug I hated.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Advanced health care.",
+        "You were right, Benson. X-rays and microwaves are not the same thing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Paying congress.",
+        "Our raises came through!",
+        "I think I'll send myself a thank-you note!"
+      ]
+    }
+  ]
+}

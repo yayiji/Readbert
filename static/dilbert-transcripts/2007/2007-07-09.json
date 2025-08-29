@@ -1,0 +1,20 @@
+{
+  "date": "2007-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was the all hands meeting?",
+        "Creepy."
+      ]
+    }
+  ]
+}

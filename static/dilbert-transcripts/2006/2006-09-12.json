@@ -1,0 +1,24 @@
+{
+  "date": "2006-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the problem: Our salesman, lyin' John, sold you a system that we can't install without losing money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I propose that you pay us 40% more than we quoted you in the contract, and everyone wins."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Her body language says she's thinking about it.",
+        "Crack!!!"
+      ]
+    }
+  ]
+}

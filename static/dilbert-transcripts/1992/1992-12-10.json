@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the story with the costume, Wally?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The boss put me on a special task force to see if humor increases creativity.",
+        "I have to dress like this for a month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you feeling more creative?",
+        "Yeah. I've already thought of six hundred ways to kill him."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2001-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My headache is a doozy.",
+        "Ha! That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bam!",
+        "Bam! Bam!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... you win.",
+        "I'm just getting started!"
+      ]
+    }
+  ]
+}

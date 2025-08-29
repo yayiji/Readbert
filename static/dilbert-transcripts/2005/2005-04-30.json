@@ -1,0 +1,23 @@
+{
+  "date": "2005-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Once again you have failed to motivate me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to become like my coworkers, always plotting ways to sabotage your career."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now would be a good time for you to say something inspirational."
+      ]
+    }
+  ]
+}

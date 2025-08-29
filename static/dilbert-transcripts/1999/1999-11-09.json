@@ -1,0 +1,23 @@
+{
+  "date": "1999-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And since our bonuses depend on things we can't control..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can mine be based on the performance of some other company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You ask one question and suddenly you're not a team player."
+      ]
+    }
+  ]
+}

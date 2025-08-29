@@ -1,0 +1,54 @@
+{
+  "date": "1997-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I forgot my umbrella.",
+        "I'm soaked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't you toss your clothes in the microwave and dry them off?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that work?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sixty minutes ought to do it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We'll guard the door to the break room."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You know, ever since the downsizing began, I've felt much less company loyalty.",
+        "Me too."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why are you two so happy?",
+        "There are free goodies in the break room."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "No one else has ever reported that problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means you are either crazy or a liar."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a little of both, but how did you know?",
+        "I can see you through your computer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Two people in a focus group loved our product, so we're doubling our production."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The opinions of two people are not statistically useful..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Especially if you're one of the two people.",
+        "I knew those free sandwiches were too good to be true."
+      ]
+    }
+  ]
+}

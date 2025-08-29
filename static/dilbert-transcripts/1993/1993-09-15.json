@@ -1,0 +1,26 @@
+{
+  "date": "1993-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is hired as a blame consultant.",
+        "The company's problems are your fault, Willy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You blame the senior executives, but it is you—the individual employee—who must build innovative new products and pioneer new markets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I'm just a word processor.",
+        "I was hired to type.",
+        "I've seen your typing. That stinks too."
+      ]
+    }
+  ]
+}

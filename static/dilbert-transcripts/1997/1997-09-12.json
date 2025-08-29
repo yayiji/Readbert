@@ -1,0 +1,26 @@
+{
+  "date": "1997-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that our boss is presumed dead, I found out I like to work.",
+        "I finished three projects today!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I lost five pounds, gave up coffee, and applied for seven patents!",
+        "Go, Alice!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Life without management is like paradise!",
+        "Who wants to spoon-hug?"
+      ]
+    }
+  ]
+}

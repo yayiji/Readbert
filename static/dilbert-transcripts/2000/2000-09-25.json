@@ -1,0 +1,29 @@
+{
+  "date": "2000-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my report full of obvious generalities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My fee is $90,000."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you recommending?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I recommend telling everyone it was free."
+      ]
+    }
+  ]
+}

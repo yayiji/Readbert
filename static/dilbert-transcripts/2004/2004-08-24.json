@@ -1,0 +1,26 @@
+{
+  "date": "2004-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Return of topper",
+        "I found a rock that's shaped like an egg.",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a rock that's shaped like Nick Lachey and Jessica Simpson."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My rock just hatched! It's a fully clothed alien from a distant galaxy!",
+        "That's nothing!"
+      ]
+    }
+  ]
+}

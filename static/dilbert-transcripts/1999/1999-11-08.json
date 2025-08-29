@@ -1,0 +1,26 @@
+{
+  "date": "1999-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The attendance award goes to Judy for missing the most days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think we all agree that morale is higher when Judy isn't here.",
+        "Clap",
+        "Clap",
+        "Clap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We took turns coughing on the certificate."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm an attorney for Mister Dogbert..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's suing you for \"petimony.\" You allegedly pet the neighbor's cat..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See... it was a pat, not a pet.",
+        "Like this...",
+        "Oh look, it's \"Garfield,\" your favorite..."
+      ]
+    }
+  ]
+}

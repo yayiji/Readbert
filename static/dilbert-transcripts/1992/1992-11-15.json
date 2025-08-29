@@ -1,0 +1,57 @@
+{
+  "date": "1992-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Waiter, there's a hair in my soup."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It looks like one of yours. I'm sure it wasn't there when I served it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is not one of mine!",
+        "Sir! You insult my integrity!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I shall send the hair to our lab for analysis.",
+        "Fair enough."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They'll need a clump of your hair for comparison.",
+        "Ouch!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You have to be tough with these waiters or else they'll walk all over you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does it seem odd to you that the restaurant has its own lab?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They must have a lot of problems with hairy food.",
+        "The lab says they need a few more clumps of your hair..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1996-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil HR director",
+        "Hey, Wally... big layoffs coming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've seen the list.",
+        "I know more about your future than you do. But it's a secret."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sadly, cats don't keep secrets very well.",
+        "Nice chair."
+      ]
+    }
+  ]
+}

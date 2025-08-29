@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert the mentor",
+        "This is your computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you hear footsteps it's a good idea to move this thing around and click it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This concludes your technical training.",
+        "If you have further questions just remember you're inconveniencing me."
+      ]
+    }
+  ]
+}

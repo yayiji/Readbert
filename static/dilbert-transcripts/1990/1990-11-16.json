@@ -1,0 +1,28 @@
+{
+  "date": "1990-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nice toupee.",
+        "Thanks.",
+        "Dilbert's ego"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the \"Roy Orbison\" model. I am now ready to hit the dating scene."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "You drive a Porsche?",
+        "It's red...",
+        "But enough about me."
+      ]
+    }
+  ]
+}

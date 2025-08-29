@@ -1,0 +1,24 @@
+{
+  "date": "2003-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our department won the cost-cutting contest, so our CEO will do your job for a day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I feel like a failure... darkness fills my days... I dream of the grave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is less motivating than I'd hoped.",
+        "I'll never be loved again!!"
+      ]
+    }
+  ]
+}

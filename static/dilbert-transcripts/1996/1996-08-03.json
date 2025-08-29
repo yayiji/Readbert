@@ -1,0 +1,26 @@
+{
+  "date": "1996-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we are to succeed, you must become change masters in an ever-changing, change-adaptive environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me get this straight...",
+        "Every change seems to increase our workload while decreasing our job security and real earnings after inflation..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the problem is our lack of flexibility?",
+        "Not entirely.",
+        "There's also your bad morale."
+      ]
+    }
+  ]
+}

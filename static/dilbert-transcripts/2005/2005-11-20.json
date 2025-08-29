@@ -1,0 +1,53 @@
+{
+  "date": "2005-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to return this scarf."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's wrong with it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It isn't um... scarfy enough."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll just run your card through the computer and..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Uh-oh... you're on our bad customer list. You've returned over a thousand items to this store."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In fact, you've purchased and returned this same scarf seventeen times."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Company policy says that I have to harvest your organs and sell them on eBay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It was good while it lasted."
+      ]
+    }
+  ]
+}

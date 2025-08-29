@@ -1,0 +1,27 @@
+{
+  "date": "1996-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your problem.",
+        "The connection to the network is broken."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh.",
+        "It's a \"token ring\" LAN.",
+        "That means the token fell out and it's in this room someplace."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are the wind beneath my wings.",
+        "I'll wait a week then tell him the token must be in the \"Ethernet.\""
+      ]
+    }
+  ]
+}

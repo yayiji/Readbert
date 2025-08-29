@@ -1,0 +1,23 @@
+{
+  "date": "2000-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll see if the guys in marketing know first aid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? I picked that intern in our engineering dead pool!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently our team-building potluck lunch didn't take."
+      ]
+    }
+  ]
+}

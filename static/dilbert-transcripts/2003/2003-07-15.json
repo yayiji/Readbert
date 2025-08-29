@@ -1,0 +1,25 @@
+{
+  "date": "2003-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, would you...?",
+        "Hold on while I finish writing this e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a twelve-page description of my carpal tunnel issue, and the fact that there's never enough time to do my work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are all of your problems self-inflicted?",
+        "That's it! I'm adding a chapter about you. Ouch, ouch, ouch, ouch!"
+      ]
+    }
+  ]
+}

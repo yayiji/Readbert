@@ -1,0 +1,24 @@
+{
+  "date": "1993-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm feeling ill. I think I'll stay home today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great... Now you'll try to make me feel sorry for you so I'll wait on you all day. Well, that's a lousy thing to do to a friend."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gee, I'm sorry. Can I get you anything while I'm up?",
+        "Tea with lemon. And some waffles."
+      ]
+    }
+  ]
+}

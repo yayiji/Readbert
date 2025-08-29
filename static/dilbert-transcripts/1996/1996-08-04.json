@@ -1,0 +1,56 @@
+{
+  "date": "1996-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, from now on I'd like you to type up all of my incoming voice mail so I can just read it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And print out all of my e-mail every day so I don't have to log onto the network."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And get me a sandwich from the cafeteria.",
+        "Ooh, no cash. I'll pay you back."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you want me to prechew the sandwich or can you handle that on your own?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Listen up, you overpaid engineers..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "By order of our reclusive boss, the new dress code for engineers is bumblebee costumes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you don't believe me, send him voice mail and ask for yourself.",
+        "Oh, and he wants you to buy him a sandwich."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Still no messages this week? Is everybody out sick?",
+        "I heard they have hives."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "1999-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is my final report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm recommending big, big changes..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I know you're too cowardly to implement them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... it will be our fault if nothing improves.",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Aaagh!!",
+        "We can't do all of this!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Couldn't we just change the names of all our departments?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Those imbeciles!",
+        "How dare they ignore my advice!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're supposed to say that behind our backs later.",
+        "I'm in a hurry."
+      ]
+    }
+  ]
+}

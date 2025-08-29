@@ -1,0 +1,28 @@
+{
+  "date": "1993-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my new business card.",
+        "I'm a romance interpreter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a small fee I'll accompany you on dates and translate between male and female language."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Blah",
+        "Blah",
+        "Blah",
+        "She's telling a pointless story about work.",
+        "By annoying you in this way she hopes to form a closer bond."
+      ]
+    }
+  ]
+}

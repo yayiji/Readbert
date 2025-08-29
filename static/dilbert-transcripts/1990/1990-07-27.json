@@ -1,0 +1,24 @@
+{
+  "date": "1990-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Greetings, dog. I've come to live in your house and escape from my job at the laboratory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could think of me as a political exile seeking sanctuary in a friendly embassy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could think of you as a rat.",
+        "Okay, but I don't expect any special treatment."
+      ]
+    }
+  ]
+}

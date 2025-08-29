@@ -1,0 +1,53 @@
+{
+  "date": "1995-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, our records show that you haven't taken a vacation all year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Company policy requires you to use your vacation days."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How?? You told me to work seven days a week to prepare the project for your boss's year-end review."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you want me to meet the artificial project target or the artificial vacation target?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hello!!! These are mutually exclusive goals!!! Hello!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ooh... sorry. I usually just think that last part in silent frustration."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Moving right along... kudos to Wally for using all of his vacation days ahead of schedule."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Get over it, Alice. We can't all be superstars."
+      ]
+    }
+  ]
+}

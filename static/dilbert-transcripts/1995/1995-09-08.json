@@ -1,0 +1,26 @@
+{
+  "date": "1995-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm thinking about quitting and becoming a contract employee. Do you have any advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sleep in doorways so it doesn't rain on you.",
+        "The best shopping carts are at \"Lucky.\"",
+        "You can make an excellent sign with a black marking pen and a hunk of cardboard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate all of my co-workers.",
+        "Despite the name, food stamps are not edible."
+      ]
+    }
+  ]
+}

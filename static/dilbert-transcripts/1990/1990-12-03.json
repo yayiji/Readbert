@@ -1,0 +1,23 @@
+{
+  "date": "1990-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's your turn to baby-sit the egg, Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used to love it when my dad tossed me in the air."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This dad stuff is easy."
+      ]
+    }
+  ]
+}

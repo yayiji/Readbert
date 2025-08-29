@@ -1,0 +1,25 @@
+{
+  "date": "2006-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just saw Mort in his cubicle. I think he's... dead.",
+        "I noticed that yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you didn't say anything??! Were you thinking he's just as dead tomorrow and someone else can do the paperwork?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait. That's pretty good thinking...",
+        "I was proud of it."
+      ]
+    }
+  ]
+}

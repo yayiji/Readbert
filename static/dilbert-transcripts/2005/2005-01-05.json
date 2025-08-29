@@ -1,0 +1,24 @@
+{
+  "date": "2005-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I might appear to be a receptionist, but I'm not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Believe me, I know that. Companies generally put attractive people in those positions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like where this is heading.",
+        "I'll wait until she gets back. Yum-yum."
+      ]
+    }
+  ]
+}

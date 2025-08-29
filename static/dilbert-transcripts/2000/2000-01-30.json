@@ -1,0 +1,52 @@
+{
+  "date": "2000-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My anti-spam software is complete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It checks my incoming e-mail for key words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then it deletes anything that looks like an advertisement."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Suppose a beautiful woman sends you a message saying..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I am a model for Victoria's secret. I want to date you on my sailboat."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But she spells sail s-a-l-e.",
+        "What then?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's she wearing?"
+      ]
+    }
+  ]
+}

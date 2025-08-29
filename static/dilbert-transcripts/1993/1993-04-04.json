@@ -1,0 +1,54 @@
+{
+  "date": "1993-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Electron hut",
+        "Open"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for a P-connect adapter post."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't have any."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There's a whole shelf of them right behind you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They're only five cents apiece. I can't waste my time selling them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm the only customer in the store! Besides, why do you stock something you don't want to sell?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Here! Take three! And stop wasting my time!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "While you're here, have you seen our fine line of computers?"
+      ]
+    }
+  ]
+}

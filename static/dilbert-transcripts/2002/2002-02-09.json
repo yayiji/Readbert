@@ -1,0 +1,25 @@
+{
+  "date": "2002-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evil H.R.Director",
+        "The bad news is that I had to get rid of our marketing department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The good news is that we have tons of nondairy creamer!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think those two things are related?",
+        "If they are, I'm cutting back to five cups a day."
+      ]
+    }
+  ]
+}

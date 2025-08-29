@@ -1,0 +1,27 @@
+{
+  "date": "1995-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This new policy of keeping our keyboards on the floor is ridiculous!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only possible explanation is to make us all stooped over so it's easier for management to kick our behinds!",
+        "Ha ha ha!!",
+        "Ha ha ha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait a minute...",
+        "That is the only explanation.",
+        "Cover me; I'm going to the printer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1990-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We want to have an egg, but we don't know how."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just do what comes naturally."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean... roll in jello while yodeling?",
+        "You're doomed."
+      ]
+    }
+  ]
+}

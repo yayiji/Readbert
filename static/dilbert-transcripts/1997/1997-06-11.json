@@ -1,0 +1,27 @@
+{
+  "date": "1997-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Visiting the customer",
+        "When I introduce you to the customer, smile and give him a hearty slap on the back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get ready.",
+        "Here he comes.",
+        "I'd better take some practice swings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next time, less follow-through, aim higher, and if he turns around suddenly, hold off.",
+        "Sorry"
+      ]
+    }
+  ]
+}

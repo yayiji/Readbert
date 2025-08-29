@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to open a vocational training school.",
+        "For whom?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Self-service gas station attendants."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean, students will pay you to teach them how to sit and do nothing?",
+        "It makes you wonder why nobody is already doing it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1993-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you for teaching us \"quality\" techniques."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Manufacturing defects are down fifty percent since we all joined \"quality teams.\"",
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's our productivity, Yogi?",
+        "Down fifty percent.",
+        "They're on to me."
+      ]
+    }
+  ]
+}

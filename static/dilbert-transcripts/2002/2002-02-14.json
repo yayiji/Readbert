@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've reduced our development costs by outsourcing the project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does the proposal have a huge hourly rate for any work not specified in the contract?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stay out of it.",
+        "Why do you ask?"
+      ]
+    }
+  ]
+}

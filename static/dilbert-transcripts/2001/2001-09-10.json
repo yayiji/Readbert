@@ -1,0 +1,23 @@
+{
+  "date": "2001-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of our data is grossly inaccurate... but I need data in order to manage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I concentrate hard enough I can forget that the data is bad, then I can use it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have to give him credit; managing is harder than it looks."
+      ]
+    }
+  ]
+}

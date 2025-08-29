@@ -1,0 +1,28 @@
+{
+  "date": "1996-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At long last our product is complete.",
+        "It ships tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's terrific.",
+        "I only have a few additional features to add and the marketing department will be happy.",
+        "Okay"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I believe that our customers want hardware, not software.",
+        "It's times like this I wish I were a psychopath.",
+        "You're not?"
+      ]
+    }
+  ]
+}

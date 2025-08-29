@@ -1,0 +1,23 @@
+{
+  "date": "1995-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're replacing the company doctor with a registered nurse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We fired the nurse and put the aspirin and tourniquets in the vending machine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We've been asked to increase vending machine revenue by fifteen percent."
+      ]
+    }
+  ]
+}

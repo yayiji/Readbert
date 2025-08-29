@@ -1,0 +1,60 @@
+{
+  "date": "1996-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Last week our consultants warned us about a serious threat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They said our competitors would \"eat our lunch.\"",
+        "Eat our lunch"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm happy to tell the executive committee that I leapt into action."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I hired a security guard to protect the cafeteria."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our lunches are safe."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I always thought that was just a figure of speech.",
+        "Fool! Give me your department!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let go of my hair!!",
+        "Slap",
+        "Ouch!!",
+        "This is going better than usual."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why is the cafeteria closed?",
+        "Someone ate all the lunches.",
+        "Burp"
+      ]
+    }
+  ]
+}

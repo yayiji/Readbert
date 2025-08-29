@@ -1,0 +1,25 @@
+{
+  "date": "2000-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think he tried to meditate.",
+        "That's the problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You shouldn't mix meditation with management. The mind gets too empty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What can we do?",
+        "I plan to rifle through his pockets."
+      ]
+    }
+  ]
+}

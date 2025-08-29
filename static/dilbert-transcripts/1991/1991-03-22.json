@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm in a bad mood.",
+        "I'll have to annoy Dilbert and see if it makes me feel better."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just noticed that your ears don't match from the back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ahh...",
+        "Gasp!"
+      ]
+    }
+  ]
+}

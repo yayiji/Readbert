@@ -1,0 +1,21 @@
+{
+  "date": "2005-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, what's it like to be in a bad mood all of the time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Something tells me that showing interest isn't working."
+      ]
+    }
+  ]
+}

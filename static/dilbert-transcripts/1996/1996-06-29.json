@@ -1,0 +1,24 @@
+{
+  "date": "1996-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The results of the employee satisfaction survey are in. Scores for my department are dismal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm assigning you to the satisfaction task force until the problem is solved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please... anything but that...",
+        "How satisfied are you now?"
+      ]
+    }
+  ]
+}

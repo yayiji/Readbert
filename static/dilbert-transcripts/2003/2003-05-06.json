@@ -1,0 +1,25 @@
+{
+  "date": "2003-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonia has gotten a bad reputation.",
+        "We need your help to rebuild our image."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The problem began when we discovered a civilization of leprechauns living under our mud."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now they're our primary export.",
+        "But we underestimated the vegetarian backlash."
+      ]
+    }
+  ]
+}

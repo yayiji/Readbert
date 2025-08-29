@@ -1,0 +1,24 @@
+{
+  "date": "1999-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, we lost our biggest customer because you missed the R.F.Q. deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you said all overnight mail must go through your evil and lazy secretary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you're probably going to apologize and give me a bonus for my effort.",
+        "What's your second guess?"
+      ]
+    }
+  ]
+}

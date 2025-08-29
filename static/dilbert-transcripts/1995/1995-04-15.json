@@ -1,0 +1,30 @@
+{
+  "date": "1995-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stick to the script.",
+        "Act sincere and beg your customers to forgive you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was wrong for us to sell keyboards with no \"Q.\"",
+        "We're sorry.",
+        "We're morons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're dumber than squirrels.",
+        "We hear voices and do what they command.",
+        "I have broccoli in my socks.",
+        "Good writing",
+        "Thanks"
+      ]
+    }
+  ]
+}

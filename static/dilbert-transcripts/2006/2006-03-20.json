@@ -1,0 +1,26 @@
+{
+  "date": "2006-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, I need some tech support.",
+        "What's your tech support password?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have one.",
+        "Well, then I can't help you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Since when do you require a password?",
+        "Usually right before lunch."
+      ]
+    }
+  ]
+}

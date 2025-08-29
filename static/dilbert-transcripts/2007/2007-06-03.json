@@ -1,0 +1,53 @@
+{
+  "date": "2007-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought Dilbert in case you have any technical questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the status on the technology platform migration project?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Be completely honest. We have nothing to hide."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, okay."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The project is like a hundred drunken clowns with bees in their underpants."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I expect the decline in morale to lead to violence."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Most of us are only pretending to work while secretly hoping the project gets canceled after you get fired by the board."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It turns out that we did have a few things to hide."
+      ]
+    }
+  ]
+}

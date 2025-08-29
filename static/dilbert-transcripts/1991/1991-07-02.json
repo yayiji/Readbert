@@ -1,0 +1,23 @@
+{
+  "date": "1991-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The trial is going badly, so I'm trying to make a deal with the district attorney."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He offered to give me a Sony Walkman if you will accept the death penalty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I can get a Walkman for you, too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What?! You think I'll help you just because I'm your co-worker??",
+        "Ha! I hate co-workers!",
+        "All I need is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate this job! I hate everything! The only thing I like is being mean to co-workers who need the vital information that I control!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you think you hate him, you should try being his secretary."
+      ]
+    }
+  ]
+}

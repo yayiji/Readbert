@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! You have three masters degrees and a PhD!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, it's all very impressive, but interestingly, I have no common sense whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not the sort of thing you should say during a job interview.",
+        "I don't see why not."
+      ]
+    }
+  ]
+}

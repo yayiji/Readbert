@@ -1,0 +1,23 @@
+{
+  "date": "1994-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you for coming to the \"ISO 9000\" project kick-off meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each of you was hand-picked by your manager for this project because..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... never mind why."
+      ]
+    }
+  ]
+}

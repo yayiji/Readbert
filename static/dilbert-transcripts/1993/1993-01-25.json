@@ -1,0 +1,27 @@
+{
+  "date": "1993-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If there are no objections, I'd like to make funny faces and tell a long rambling story."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...So, then I said \"You want the monthly report, not the daily report\"... But that got me thinking...",
+        "So..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Blah",
+        "Blah",
+        "Blah",
+        "I can top that."
+      ]
+    }
+  ]
+}

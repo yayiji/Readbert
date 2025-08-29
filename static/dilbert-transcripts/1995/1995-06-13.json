@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, is this the mountain resort where all our executives are having a retreat?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it true that loud noises can cause avalanches?",
+        "If you see my boss, tell him I said..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi!!"
+      ]
+    }
+  ]
+}

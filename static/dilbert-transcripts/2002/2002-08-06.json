@@ -1,0 +1,27 @@
+{
+  "date": "2002-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I use your three-hole punch?",
+        "Whoa",
+        "Whoa",
+        "Whoa!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't come waltzing into this department, using our stuff and leaving your holes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll clean up the holes.",
+        "I want you to whack the people on this list."
+      ]
+    }
+  ]
+}

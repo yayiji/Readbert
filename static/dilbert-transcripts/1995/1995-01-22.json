@@ -1,0 +1,62 @@
+{
+  "date": "1995-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How nature protects weak products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, the engineer pads his schedule.",
+        "Six months?",
+        "At least."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One month to build the product and five months to play \"Doom\" on my computer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then the manager pads the schedule as a clever negotiating ploy.",
+        "One year... unless you add people to my tiny empire."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then the vice president pads the schedule to avoid looking bad to the president.",
+        "Eighteen months."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Meanwhile, the sales people are making up numbers because nobody tells them anything.",
+        "Two months... and it solves every problem you have!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This causes the customers to develop irrational desire for the product.",
+        "Give me the \"beta\" test version in one month."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Thus nature disguises weak products as \"beta!\"",
+        "Cardboard?",
+        "That's stupid.",
+        "Oh... then it's beta."
+      ]
+    }
+  ]
+}

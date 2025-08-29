@@ -1,0 +1,25 @@
+{
+  "date": "2001-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting a petition to end war. Do you want in on this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who are you going to give it to?",
+        "Say what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping to sell it.",
+        "I'll sign it for a dollar."
+      ]
+    }
+  ]
+}

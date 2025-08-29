@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need six weeks to make a good product design.",
+        "You gave us three."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks to your leadership, the product is bad, our stock will plunge, and our lives are totally meaningless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, and happy birthday.",
+        "We all signed a card."
+      ]
+    }
+  ]
+}

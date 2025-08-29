@@ -1,0 +1,53 @@
+{
+  "date": "2005-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, the status report that you e-mailed me is blank."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because eagles can't type.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The motivational poster in the break room says I should be like an eagle."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The point of that poster is that your spirit should soar like an eagle while you continue to do mundane work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wouldn't I die if my spirit left my body to go soar?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're confusing your spirit with your soul.",
+        "While your spirit is soaring, your soul should remain trapped in your body, slowly decaying while you create your status report."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Would it change anything if I got a poster that says, \"You want it when?!!\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

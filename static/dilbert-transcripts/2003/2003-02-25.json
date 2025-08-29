@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an appointment to see a demo of your new product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And the unit will be in a case like this, but completely different, and it will have software, once we write it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You let me travel four hours to see an empty case?",
+        "Are you forgetting the blank CD?"
+      ]
+    }
+  ]
+}

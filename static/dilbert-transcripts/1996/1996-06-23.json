@@ -1,0 +1,55 @@
+{
+  "date": "1996-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I won't always be around to be your mentor, Asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I've captured all of my career wisdom in this software, which I call the \"Automentor.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Automentor, how can I achieve job satisfaction?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Try giving yourself a massage in your cubicle."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Automentor, how can I make sure my accomplishments get noticed?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's not a problem at this company; nobody accomplishes anything."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Should I look for a new job?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Too late. They don't call this place the \"résumé stain\" for nothing.",
+        "How do you handle all the hopelessness?",
+        "I give it to the new guy."
+      ]
+    }
+  ]
+}

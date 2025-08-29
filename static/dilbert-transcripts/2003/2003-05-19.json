@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just realized that my career primarily consists of asking you for stuff..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...and wondering how long I should wait before I remind you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know how that makes me feel?",
+        "How what makes you feel?"
+      ]
+    }
+  ]
+}

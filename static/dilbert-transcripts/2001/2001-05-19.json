@@ -1,0 +1,24 @@
+{
+  "date": "2001-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My date complained about her life all night long!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I complain about just one thing and she calls me a loser."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you complain about her personality?",
+        "That's one thing!"
+      ]
+    }
+  ]
+}

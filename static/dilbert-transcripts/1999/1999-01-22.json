@@ -1,0 +1,23 @@
+{
+  "date": "1999-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our profits were good until a manager..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...used his credit card to make a 900 call from an airplane phone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, I'm allowed to call my wife when I'm traveling!"
+      ]
+    }
+  ]
+}

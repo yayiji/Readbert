@@ -1,0 +1,26 @@
+{
+  "date": "1995-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the finance department.",
+        "I'm here to reduce costs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It might seem like all I do is come up with short-sighted ways to save money while making your job harder.",
+        "But there's another side to this story."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that would be...?",
+        "I forget."
+      ]
+    }
+  ]
+}

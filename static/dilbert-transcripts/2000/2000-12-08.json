@@ -1,0 +1,22 @@
+{
+  "date": "2000-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My client's life now rests in your capable hands."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Jury deliberations",
+        "Did anything happen after \"please rise\"?"
+      ]
+    }
+  ]
+}

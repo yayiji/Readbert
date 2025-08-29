@@ -1,0 +1,25 @@
+{
+  "date": "1999-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been ordered to build a company call center with inhumane working conditions for the employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't feel guilty because I'm only acting under orders.",
+        "And maybe they did something to deserve it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might need your help to demonize them.",
+        "I'm all over it."
+      ]
+    }
+  ]
+}

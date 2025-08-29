@@ -1,0 +1,24 @@
+{
+  "date": "2004-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our main product is coming off patent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Profits will plunge and so will my bonus. It's not fair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Call me shallow, but I enjoy getting paid for other people's inventions.",
+        "Shallow!"
+      ]
+    }
+  ]
+}

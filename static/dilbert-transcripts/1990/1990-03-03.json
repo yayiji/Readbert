@@ -1,0 +1,28 @@
+{
+  "date": "1990-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Urgent memo to all employees:",
+        "Uh-oh.",
+        "Looks important."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we are to remain competitive, you must proactively improve quality on all actionable items!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! That was inspiring.",
+        "My heart is pounding.",
+        "I'm all tingly...",
+        "I'd better take the rest of the day off..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There will be no vacations until the project is finished."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It feels as if I am being punished for your inability to properly plan and staff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will contact my 800 wedding guests and tell them that my arranged marriage is cancelled.",
+        "Thanks."
+      ]
+    }
+  ]
+}

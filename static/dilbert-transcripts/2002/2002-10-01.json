@@ -1,0 +1,25 @@
+{
+  "date": "2002-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our project team is composed of a nitwit, an ogre, and a #$%!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which one of them is the nitwit?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You didn't bring donuts. May I eat the nitwit?",
+        "Yes.",
+        "Poor guy."
+      ]
+    }
+  ]
+}

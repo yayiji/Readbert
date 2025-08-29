@@ -1,0 +1,61 @@
+{
+  "date": "1990-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm bored.",
+        "I'm going to go scare strangers.",
+        "Enjoy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily, lots of people are afraid of dogs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey mister, I've got rabies!!",
+        "I'm only afraid of global warming."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Pit bull!",
+        "Pit bull!",
+        "Save it... I'm only afraid of acid rain."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Mad dog!",
+        "Mad dog!",
+        "Sorry, I only fear the national debt."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wild carnivore!",
+        "Chill out, dog dude. I'm only scared of the hole in the ozone layer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "... Garbage crisis."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "People scare me."
+      ]
+    }
+  ]
+}

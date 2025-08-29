@@ -1,0 +1,24 @@
+{
+  "date": "1998-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand your technical recommendation, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will rely on my keen insights about you as an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That too would require knowledge on your part.",
+        "Shush!"
+      ]
+    }
+  ]
+}

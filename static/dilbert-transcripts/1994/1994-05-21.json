@@ -1,0 +1,24 @@
+{
+  "date": "1994-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We just had a meeting and decided to change your project substantially."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We didn't invite you to the meeting because things go smoother when nobody has any actual knowledge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, what are the changes?",
+        "If I remember, I'll leave you a voice mail."
+      ]
+    }
+  ]
+}

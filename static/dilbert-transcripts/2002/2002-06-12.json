@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a new guy with no assignment.",
+        "I'm looking for a project to horn into."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But don't be threatened by me.",
+        "I'm exceptionally ineffectual."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm trying to build a career based on good attendance and head-nodding."
+      ]
+    }
+  ]
+}

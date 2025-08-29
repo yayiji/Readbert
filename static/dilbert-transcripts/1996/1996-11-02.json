@@ -1,0 +1,26 @@
+{
+  "date": "1996-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you doing in the marketing department?",
+        "It's an experiment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sneak down here once a week and move this guy's cubicle wall in by a quarter-inch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's this experiment going to prove?",
+        "I forget.",
+        "It's been a long time."
+      ]
+    }
+  ]
+}

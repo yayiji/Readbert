@@ -1,0 +1,24 @@
+{
+  "date": "2006-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I tell if I'm drinking too much coffee?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would you do if I told you to quit?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd jab you with a used needle.",
+        "In that case, you're fine."
+      ]
+    }
+  ]
+}

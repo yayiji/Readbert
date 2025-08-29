@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Coffee rehab",
+        "No soda, no tea, no chocolate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're allowed one piece of luggage and you have to carry it yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might want to take a look inside that bag."
+      ]
+    }
+  ]
+}

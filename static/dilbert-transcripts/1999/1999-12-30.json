@@ -1,0 +1,26 @@
+{
+  "date": "1999-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This concludes your one-hour executive MBA course.",
+        "Be boring.",
+        "$ = Good",
+        "Remember to embezzle!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "On your way out, pick up a diploma from the laser printer and fill in your name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remember, your degree can be prestigious if none of you ever discuss what happened here."
+      ]
+    }
+  ]
+}

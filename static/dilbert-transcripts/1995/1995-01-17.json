@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've all noticed the volume of work you carry around.",
+        "Your quiet leadership inspires us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to promote you to manager so you can imbue others with your work ethic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does he know you use the documents to heat our house?",
+        "No. And I asked him to put the job offer in writing."
+      ]
+    }
+  ]
+}

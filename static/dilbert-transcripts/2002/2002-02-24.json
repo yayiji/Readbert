@@ -1,0 +1,55 @@
+{
+  "date": "2002-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Upgrade all of our network servers by Tuesday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's impossible.",
+        "I need at least a month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, it's impossible, is it? Watch this."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I summon Kronos, the god of management time!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I, Kronos, will manipulate your perception of time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't see how that helps..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When he wakes up he will believe there is plenty of time and that you are a weasel."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Any side effects?",
+        "Just an insatiable appetite for status reports."
+      ]
+    }
+  ]
+}

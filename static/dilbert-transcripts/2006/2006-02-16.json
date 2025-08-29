@@ -1,0 +1,25 @@
+{
+  "date": "2006-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need help making unrealistic assumptions to support a business case for a bad idea.",
+        "Easy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a hole in the back of our wardrobe closet that leads to a magical world of preposterous business assumptions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't have a wardrobe closet.",
+        "Assume we do."
+      ]
+    }
+  ]
+}

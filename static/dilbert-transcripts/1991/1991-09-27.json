@@ -1,0 +1,30 @@
+{
+  "date": "1991-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think it was fifty gigabits.",
+        "I think you mean megabits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha ha ha",
+        "Hoo-hoo-ha",
+        "Ha snort",
+        "Giggle",
+        "Hee-hee",
+        "Ha ha"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're so fun-loving.",
+        "You'd think one of us would have a friend outside of work."
+      ]
+    }
+  ]
+}

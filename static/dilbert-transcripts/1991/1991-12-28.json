@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever wonder about the meaning of life, Dogbert?",
+        "I used to."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I looked it up in the dictionary under \"L\" and there it was – the meaning of life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was less than I expected.",
+        "Did you try the thesaurus?"
+      ]
+    }
+  ]
+}

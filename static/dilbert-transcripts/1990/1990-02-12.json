@@ -1,0 +1,24 @@
+{
+  "date": "1990-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert... napping again?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't you know that many famous people functioned with very little sleep?",
+        "There were Jackie Gleason, Ben Franklin, Napoleon..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to think I'm more attractive than any of those guys."
+      ]
+    }
+  ]
+}

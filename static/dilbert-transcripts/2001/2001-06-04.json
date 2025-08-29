@@ -1,0 +1,25 @@
+{
+  "date": "2001-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the lowest ratio of work-to-gabbing that is still considered \"work\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd have to say one-in-eight, maybe one-in-nine.",
+        "Sounds right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does talking about work count as work?",
+        "Well... I'm not enjoying it."
+      ]
+    }
+  ]
+}

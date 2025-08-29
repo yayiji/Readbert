@@ -1,0 +1,56 @@
+{
+  "date": "2005-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, the move that I am about to teach you is called the \"Wally reflector.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Throughout the day, bad people will try to make you do work for them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At first, offer no resistance, as if you actually plan to do the work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then ask the offender to do a little bit of work himself.",
+        "Allow me to demonstrate."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wally, I need you to design a database for all of our product features and services.",
+        "Glad to do it!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "All I need from you is a comprehensive list of the data fields you need included."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh... wow. I'm really busy. I'll have to get back to you on that."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And I'll never see that idiot again.",
+        "You inspire me, in a creepy kind of way."
+      ]
+    }
+  ]
+}

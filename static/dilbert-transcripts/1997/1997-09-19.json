@@ -1,0 +1,26 @@
+{
+  "date": "1997-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's not enough room for all of you dinosaurs.",
+        "One of you must be downsized."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it helps, these spikey things are a safety hazard.",
+        "And little Rex ate your ficus tree."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks for being professional about this, Bob.",
+        "When you put him in good light, how cute is he really?"
+      ]
+    }
+  ]
+}

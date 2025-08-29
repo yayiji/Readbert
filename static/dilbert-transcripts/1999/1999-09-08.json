@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If your numbers are correct, my strategic plan is irrational."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cognitive dissonance takes over",
+        "Spoink"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You sure are bad with numbers.",
+        "What was that noise?"
+      ]
+    }
+  ]
+}

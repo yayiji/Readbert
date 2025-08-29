@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did we ever allow ourselves to be drawn into Dogbert's evil cult?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe he has strange hypnotic powers.",
+        "Maybe we were mesmerized by his oratorical skill."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It says here you have brains the size of a walnut.",
+        "What's your point?"
+      ]
+    }
+  ]
+}

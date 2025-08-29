@@ -1,0 +1,29 @@
+{
+  "date": "2001-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Six sigma consultant",
+        "All of you are selfish and dimwitted but don't worry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll teach you a process that will bog you down in meetings so you can't hurt anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't move my arms!",
+        "Zzz",
+        "Zzz",
+        "Zzz",
+        "Zzz",
+        "Zzz"
+      ]
+    }
+  ]
+}

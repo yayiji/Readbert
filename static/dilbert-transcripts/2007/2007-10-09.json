@@ -1,0 +1,24 @@
+{
+  "date": "2007-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You treat every conversation like it's a contest where you have to be the one who is right!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It only seems that way because everything you say is wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See? There it is!",
+        "I'm pretty sure that was you again."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1997-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Work has been great since our boss went down on the jet!",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I survived with only minor hair injuries.",
+        "I was lucky to be on a flight that had a hundred nuns onboard!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You were saved by prayer?",
+        "No, padding.",
+        "They don't do a lot of aerobics at the nunnery."
+      ]
+    }
+  ]
+}

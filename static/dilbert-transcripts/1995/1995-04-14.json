@@ -1,0 +1,32 @@
+{
+  "date": "1995-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the PR consultant",
+        "You shipped keyboards with no letter \"Q.\" The public wants somebody to take responsi-bility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh ooh",
+        "Pick me",
+        "Pick me!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Responsibility means blame."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Great... it's like the time I got burned on that \"opportunity\" assignment."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1998-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, thank you for your twelve-page response to my e-mail last week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I was only sending it to you as an \"FYI\". Those decisions are already made."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I read your reaction right, you're wondering why I didn't say FYI on my e-mail."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1991-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I should go visit my old friend, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can get there in five days if I hurry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lucky he's only a block away."
+      ]
+    }
+  ]
+}

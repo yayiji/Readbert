@@ -1,0 +1,23 @@
+{
+  "date": "1990-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ooh! Nice pile of mail today!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Resident... resident... resident... ahh, Dilbert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I get mail; therefore I am."
+      ]
+    }
+  ]
+}

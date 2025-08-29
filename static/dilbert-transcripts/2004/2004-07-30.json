@@ -1,0 +1,26 @@
+{
+  "date": "2004-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm late because my car wouldn't start in the cold.",
+        "It's warm outside."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a little thing called the wind-chill factor.",
+        "Hello-o-o-o!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was wrong on so many levels.",
+        "Someday I gotta get me a car."
+      ]
+    }
+  ]
+}

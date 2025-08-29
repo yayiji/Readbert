@@ -1,0 +1,26 @@
+{
+  "date": "2001-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like someone is leaving early."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I started at 5 a.m. and I've already worked eighty hours this week.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a doctor appointment for... female...",
+        "No details!",
+        "Go go go!!!"
+      ]
+    }
+  ]
+}

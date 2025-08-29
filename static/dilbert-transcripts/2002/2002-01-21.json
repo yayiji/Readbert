@@ -1,0 +1,24 @@
+{
+  "date": "2002-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll talk to you every day to see if you change your mind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't talk to me every day.",
+        "You might change your mind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know that if you cross \"sales\" with \"talk\" you get \"stalk\"?"
+      ]
+    }
+  ]
+}

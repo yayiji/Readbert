@@ -1,0 +1,23 @@
+{
+  "date": "2004-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your stock just plunged on the news that you're going to acquire another company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you noticed that your stock goes down whenever you do anything?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll buy a few shares if you'll agree to sit motionlessly in your cubicle."
+      ]
+    }
+  ]
+}

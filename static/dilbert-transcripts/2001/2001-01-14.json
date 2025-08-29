@@ -1,0 +1,55 @@
+{
+  "date": "2001-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have the results of the employee personality type preferences."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remind me again why we're doing this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your teamwork will be better when you understand that you have different styles of thinking."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, Dilbert prefers to use logic to solve problems."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But Randy relies more heavily on morals and values to solve problems."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That sounds like a fancy way of saying Randy is an idiot."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, yeah? Well, I might be an idiot but you're illogical."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That didn't sound as menacing as I had hoped.",
+        "It's okay.",
+        "We understand."
+      ]
+    }
+  ]
+}

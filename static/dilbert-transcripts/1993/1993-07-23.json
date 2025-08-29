@@ -1,0 +1,25 @@
+{
+  "date": "1993-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For my first witness, I call the defendant's attorney."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it true that you're wearing women's lingerie right now?",
+        "No!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this relevant to your case?",
+        "I wonder why you're so touchy about this subject."
+      ]
+    }
+  ]
+}

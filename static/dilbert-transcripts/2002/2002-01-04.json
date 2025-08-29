@@ -1,0 +1,23 @@
+{
+  "date": "2002-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The winner of our \"name the restrooms\" contest is Alice..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...For her suggestion of \"goddesses\" and \"morons.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're right; I was the only one who would enter that ridiculous contest."
+      ]
+    }
+  ]
+}

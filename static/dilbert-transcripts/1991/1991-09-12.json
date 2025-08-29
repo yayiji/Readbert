@@ -1,0 +1,27 @@
+{
+  "date": "1991-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "George Lucas",
+        "My first film was the 1969 moon landing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The spacemen were actually Barbie dolls wrapped in aluminum foil."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Help! Ken!",
+        "Help! I'm out of air!",
+        "Ha ha ha ha ha ha!!",
+        "I guess you had help with the writing."
+      ]
+    }
+  ]
+}

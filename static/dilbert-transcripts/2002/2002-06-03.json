@@ -1,0 +1,23 @@
+{
+  "date": "2002-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you need me, just page me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll call you right back unless solar flares stop your page from getting through."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And of course you'll have some blockage during high tide, low tide, humidity, and most of your equinoxes."
+      ]
+    }
+  ]
+}

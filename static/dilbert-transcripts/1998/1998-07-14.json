@@ -1,0 +1,24 @@
+{
+  "date": "1998-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My dad taught me everything I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He used to say \"Don't drink the pickle juice until the pickles are gone.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that a big problem at your house?",
+        "Have you ever been hit in the eye with a pickle?"
+      ]
+    }
+  ]
+}

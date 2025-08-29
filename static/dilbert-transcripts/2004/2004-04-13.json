@@ -1,0 +1,26 @@
+{
+  "date": "2004-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the Dogbert research company.",
+        "Have you ever been killed by a poorly designed product?",
+        "...No?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My tainted research shows that your products haven't killed anyone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For an extra $50,000, I can call a second person.",
+        "I don't want to jinx it."
+      ]
+    }
+  ]
+}

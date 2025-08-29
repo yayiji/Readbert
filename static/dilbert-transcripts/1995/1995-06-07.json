@@ -1,0 +1,31 @@
+{
+  "date": "1995-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dysfunctional team...",
+        "I'd like everybody to turn to the right and say what you admire about that person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I admire your leathery skin, Alice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I admire your ability to figure out which side is your right in only two tries."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I admire your ability to get paid for this.",
+        "Despite the fact your face scares children, I admire your co-workers."
+      ]
+    }
+  ]
+}

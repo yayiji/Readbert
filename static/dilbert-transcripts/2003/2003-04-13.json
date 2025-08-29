@@ -1,0 +1,55 @@
+{
+  "date": "2003-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm taking my business case to some venture capitalists."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm hoping that their wisdom and resources will make it a billion-dollar company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like some free stock?",
+        "Bah!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What would I do without the support of my loved ones?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What would the cash flow look like if..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Revenue was zero, Microsoft and IBM entered the market, your factory burned down and a piano fell on your head?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And what about civil unrest, lawsuits, natural disasters and locusts?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...Then the little one slapped me.",
+        "Now re-e-el them in."
+      ]
+    }
+  ]
+}

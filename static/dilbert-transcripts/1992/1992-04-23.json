@@ -1,0 +1,27 @@
+{
+  "date": "1992-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oops!",
+        "Aaagh! You whacked Randy with your remote control airplane!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm warning you, frisbee people and airplane people don't mix...",
+        "Like cattle and sheep...",
+        "You'll pay for this!!",
+        "I swear..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good one, Dogbert."
+      ]
+    }
+  ]
+}

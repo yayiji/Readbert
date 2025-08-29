@@ -1,0 +1,26 @@
+{
+  "date": "1996-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We planned a dazzling demo for you, but as you can see we're being visited by the dark angel of demos."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The demo is a sham.",
+        "Their project is doomed.",
+        "Cut their funding before your name is associated with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The worst is over.",
+        "Look at some of the pictures the \"boys\" store on the file server .."
+      ]
+    }
+  ]
+}

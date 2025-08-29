@@ -1,0 +1,55 @@
+{
+  "date": "1994-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's go around the table and share our accomplishments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I created a document this week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But this is no ordinary document!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I bought a $500 desktop publishing program and took a two-day class to learn it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I incorporated digitized photos and color highlights in a multi-column page layout!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Clip-art icons are sprinkled liberally around the page to form a visual mosaic!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Next week - God willing - I'll add a topic and some content."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you remember when I said you should enjoy your work?",
+        "I didn't mean it.",
+        "Ooh"
+      ]
+    }
+  ]
+}

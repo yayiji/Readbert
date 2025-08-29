@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have discovered the cause of your project delays."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Somebody in this room is a piece of deadwood pretending to be a contributor!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is you!",
+        "Hey, I made some calls and I'm waiting for information!"
+      ]
+    }
+  ]
+}

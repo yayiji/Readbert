@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone says your new circuit design is worse than the old one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By \"everyone,\" do you mean you heard it from one person who doesn't like me, and isn't familiar with either design?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also spoke to the people who heard it from that one person."
+      ]
+    }
+  ]
+}

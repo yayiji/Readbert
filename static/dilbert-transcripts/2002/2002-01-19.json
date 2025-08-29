@@ -1,0 +1,26 @@
+{
+  "date": "2002-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales training",
+        "Never sell to your customer. Make your customer sell to you.",
+        "Please"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our products are only for those who dare to be great! Make the customer explain why he is worthy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did you just call me?",
+        "You heard me, Goober. Now beg for our product."
+      ]
+    }
+  ]
+}

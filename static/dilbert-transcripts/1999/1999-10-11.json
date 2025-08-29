@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project is twenty percent over budget and two months late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you bungled the allocation of resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bosses hate the word \"bungled.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2006-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'd like you to accompany Alan on a sales call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll explain how our product works with their current system.",
+        "Alan will crack jokes and collect a huge commission."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might sound unfair, but these are good jokes.",
+        "Like \"What can I do you for?\""
+      ]
+    }
+  ]
+}

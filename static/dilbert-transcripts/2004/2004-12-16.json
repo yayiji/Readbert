@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you own stock in the company you recommended?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I used my Blackberry to dump my shares as soon as they spiked from my recommendation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is very wrong.",
+        "Now I'm using the profit to buy a helicopter."
+      ]
+    }
+  ]
+}

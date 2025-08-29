@@ -1,0 +1,25 @@
+{
+  "date": "2003-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend that we break into subgroups to create a process for choosing our next meeting time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or we could just meet next week at our usual time.",
+        "You're a loose cannon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop labeling me with hackneyed phrases!",
+        "You're a \"cut now, measure later\" type."
+      ]
+    }
+  ]
+}

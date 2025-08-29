@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We got a complaint letter from a dog, chief."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He claims to represent fifty million dogs who oppose the \"obscene\" lyrics of our opera broadcasts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obscene? They don't even sing real words.",
+        "Apparently it's Italian, sir."
+      ]
+    }
+  ]
+}

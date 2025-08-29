@@ -1,0 +1,25 @@
+{
+  "date": "1998-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the crown for?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There aren't any charismatic leaders in the world lately.",
+        "I'm going to fill the void."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't charismatic leaders usually turn out to be egomaniacal, philandering sociopaths?",
+        "And they look good in hats!"
+      ]
+    }
+  ]
+}

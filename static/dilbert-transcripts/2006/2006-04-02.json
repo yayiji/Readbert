@@ -1,0 +1,61 @@
+{
+  "date": "2006-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Interview this candidate and make sure he isn't too old."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's illegal to ask his age."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just stall until you see the telltale signs of E.E.H.G."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "E.E.H.G?",
+        "Explosive ear hair growth."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hmm. No wrinkles.",
+        "But maybe he uses moisturizers and stays out of the sun."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wait...",
+        "Wait...",
+        "Can't hold out any longer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha!",
+        "Gaaa!!!",
+        "Look away!",
+        "Look away!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Then I waited and waited...",
+        "What?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you work well without supervision?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I need continuous supervision to keep me from stealin' and harassin'."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we're done here.",
+        "Do you mind if I show myself out?"
+      ]
+    }
+  ]
+}

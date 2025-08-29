@@ -1,0 +1,25 @@
+{
+  "date": "2002-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This weekend I cleaned out my tool shed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that for?",
+        "I keep a running tally of how much of my time you waste."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And I thought it was a frozen snake but it was actually a shovel!",
+        "Five years, one day."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1993-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, I need your help in my quest to conquer Earth.",
+        "What do I do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll use my powers of hypnosis to control everybody who sees me on television.",
+        "You must whack everybody else with your mighty tail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I ever mention that I have sensitive skin?",
+        "Start with accountants.",
+        "They're soft and you can build calluses."
+      ]
+    }
+  ]
+}

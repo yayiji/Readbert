@@ -1,0 +1,24 @@
+{
+  "date": "1998-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I discovered that the demand for engineers exceeds the supply."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I responded by increasing my insolence and decreasing my productivity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will never hire another engineer as long as I'm alive.",
+        "Equilibrium has been restored."
+      ]
+    }
+  ]
+}

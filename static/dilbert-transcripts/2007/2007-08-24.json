@@ -1,0 +1,26 @@
+{
+  "date": "2007-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you requested, I sorted the future product features into three priorities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me know which group I should stop working on.",
+        "Essential",
+        "Critical",
+        "Must-have"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is the part where you pretend to add value."
+      ]
+    }
+  ]
+}

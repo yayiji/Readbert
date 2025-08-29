@@ -1,0 +1,25 @@
+{
+  "date": "1997-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac the preventer, your liaison from the Information Technology Department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I come with tales of resource shortages.",
+        "Your request for our services is denied."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't request any of your services.",
+        "Don't try your reverse psychology on me."
+      ]
+    }
+  ]
+}

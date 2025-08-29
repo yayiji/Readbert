@@ -1,0 +1,27 @@
+{
+  "date": "2006-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh great wizard of landfill, can you show me how to go home?",
+        "Also, my pals need experience and ambition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're here because you ran out of good ideas.",
+        "Here are a few gems about the idiots who manage my company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no place like my home office...",
+        "There's no place like my home office...",
+        "He was creepy."
+      ]
+    }
+  ]
+}

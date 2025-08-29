@@ -1,0 +1,24 @@
+{
+  "date": "1995-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The \"Dogbert corporate art source\" will provide low-cost paintings for your walls."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our motto is \"If it's in a frame it will look like art to you.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much do the paintings cost?",
+        "Six dollars a pound."
+      ]
+    }
+  ]
+}

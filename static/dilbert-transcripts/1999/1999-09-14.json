@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working on a project that is too under-funded to succeed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every day is a slow but inevitable slide toward failure and humiliation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least I'll always have my mom's unconditional love.",
+        "Are you going to hold me to that?"
+      ]
+    }
+  ]
+}

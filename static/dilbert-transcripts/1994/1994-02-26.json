@@ -1,0 +1,27 @@
+{
+  "date": "1994-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to you, if I cut your budget the world will abruptly stop spinning and we'll be flung into space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whereas, the risk of cutting Dilbert's project is \"...a plague of locusts o'er the land.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll cut both projects.",
+        "With any luck, we'll fling the locusts into space.",
+        "Locusts.",
+        "Real",
+        "good."
+      ]
+    }
+  ]
+}

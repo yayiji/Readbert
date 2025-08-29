@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I say we elves have been pushed around too long!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's use our elf magic to conquer the world!!",
+        "Yeah! Elf magic!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "C'mon, pick a card -- any card!! And this time be serious!!",
+        "I'll take the forty-three of clubs."
+      ]
+    }
+  ]
+}

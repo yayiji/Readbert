@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I scheduled the meeting for 6:00 a.m. so everyone can make it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assume you'll show up at eight o'clock and blame traffic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The great thing about being a sociopath is that I always get enough sleep."
+      ]
+    }
+  ]
+}

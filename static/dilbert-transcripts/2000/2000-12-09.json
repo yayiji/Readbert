@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The jury verdict",
+        "We find the defendant guilty..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Of this crime and maybe a few others that didn't come up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lastly, do you have any brochures for the witness protection program?"
+      ]
+    }
+  ]
+}

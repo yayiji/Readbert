@@ -1,0 +1,26 @@
+{
+  "date": "1991-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's pay day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha!!",
+        "Dance for your paycheck!!",
+        "Ha ha ha!!",
+        "Mine is twice as big!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And they say money can't buy happiness."
+      ]
+    }
+  ]
+}

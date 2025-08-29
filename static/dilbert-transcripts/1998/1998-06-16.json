@@ -1,0 +1,26 @@
+{
+  "date": "1998-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Drug treatment program",
+        "The first step is to admit you have a drug problem.",
+        "I don't"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My pointy-haired boss forced me to be here because he thinks it makes him look proactive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hallucinations are common during withdrawal. Let's do an inkblotch test.",
+        "Aaagh!!"
+      ]
+    }
+  ]
+}

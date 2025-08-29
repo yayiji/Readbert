@@ -1,0 +1,24 @@
+{
+  "date": "2004-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "His name is Kudos, the bear-er of good morale!",
+        "Kudos"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's our new mascot. He'll attend all of our meetings until morale improves."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today is Asok's turn in the suit."
+      ]
+    }
+  ]
+}

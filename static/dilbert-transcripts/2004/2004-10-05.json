@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a buck-passer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's cheaper than a regular employee because he gets other people to do his work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you shake his hand for me, sport?",
+        "I don't have that kind of time."
+      ]
+    }
+  ]
+}

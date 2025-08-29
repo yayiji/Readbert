@@ -1,0 +1,25 @@
+{
+  "date": "1992-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You seem like a bright fellow; have you considered joining Mensa?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that the group with genius IQs?",
+        "Precisely correct. I'm president of the local chapter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we're so smart, why do we work here?",
+        "Intelligence has much less practical application than you'd think."
+      ]
+    }
+  ]
+}

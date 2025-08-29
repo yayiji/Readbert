@@ -1,0 +1,25 @@
+{
+  "date": "2001-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My home phone turns into a talking clock after midnight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah, I didn't believe it either until Wally taught me how to use it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's 3:14 in the morning you #%!*",
+        "Idiot!",
+        "Yup"
+      ]
+    }
+  ]
+}

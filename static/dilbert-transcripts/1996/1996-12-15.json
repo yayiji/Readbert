@@ -1,0 +1,56 @@
+{
+  "date": "1996-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made an upgrade to your product design."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This would make the product overheat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's try to look at the big picture."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay... let's see...",
+        "Your upgrade has no benefits and it costs more."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The overheating would start office fires and put all of our customers out of business."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If our sales are strong, we could create economic chaos and a global firestorm."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your \"upgrade\" would destroy civilization as we know it.",
+        "Keep me informed."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So you're going to end civilization as we know it?",
+        "I don't think I'll miss it, frankly."
+      ]
+    }
+  ]
+}

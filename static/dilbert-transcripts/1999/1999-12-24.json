@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbertmd.com had a successful IPO today, netting billions for Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company has no profit now and expects no profit later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The company issued a press release that says, \"Neener neener. Profits are for losers.\"",
+        "Succinct."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got to make the engineering newsletter more interesting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It needs pathos and human drama."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"How to cope with the loss of loved data...\"",
+        "Wait...",
+        "I better get some tissues."
+      ]
+    }
+  ]
+}

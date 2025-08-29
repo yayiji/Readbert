@@ -1,0 +1,25 @@
+{
+  "date": "2005-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to work for the cable company.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I enjoy giving people abusive service windows.",
+        "Oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, if you can't be home from March to October, then say goodbye to Regis and Kelly!"
+      ]
+    }
+  ]
+}

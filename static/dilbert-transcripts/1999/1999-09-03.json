@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac denies your request to add memory to your laptop!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you would replace it if it were damaged, right?",
+        "That is my policy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should rethink that policy."
+      ]
+    }
+  ]
+}

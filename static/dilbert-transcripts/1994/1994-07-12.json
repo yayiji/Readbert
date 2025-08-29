@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What makes you think you're qualified to be a technology columnist?",
+        "It's easy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In this article I explain why I'm smarter than the entire Microsoft Corporation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, they're mostly geniuses. And many are millionaires.",
+        "If they're so smart, why aren't they columnists?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2005-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's good P.R. for the company when the CEO is a fearless adventurer.",
+        "Sounds dangerous."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry.",
+        "I've asked your chief financial officer to be in charge of safety."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops",
+        "Okay, who estimated the length of the bungee cord?"
+      ]
+    }
+  ]
+}

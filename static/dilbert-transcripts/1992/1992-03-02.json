@@ -1,0 +1,26 @@
+{
+  "date": "1992-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The poll results are in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You still have low name-recognition outside of the living room...",
+        "but some guy in the kitchen thinks he's heard of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't be discouraged,",
+        "uh...uh...",
+        "Dogbert!"
+      ]
+    }
+  ]
+}

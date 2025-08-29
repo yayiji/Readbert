@@ -1,0 +1,24 @@
+{
+  "date": "2007-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have the ability to quantify the unquantifiable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is why they call me Dogbert the quantifier."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who calls you that?",
+        "Eight people."
+      ]
+    }
+  ]
+}

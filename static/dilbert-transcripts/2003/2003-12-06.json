@@ -1,0 +1,23 @@
+{
+  "date": "2003-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've never done this before, but may I have your phone number?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Home phone...cell phone...work phone...home e-mail...work e-mail...other home e-mail...personal web site."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And if that fax machine is out of paper, try the one down the hall, but leave me a voice mail if you do."
+      ]
+    }
+  ]
+}

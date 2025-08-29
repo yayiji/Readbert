@@ -1,0 +1,24 @@
+{
+  "date": "1998-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming to the meeting that has no real purpose."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe we could raise issues and then form action plans."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have an urge to stomp you to death.",
+        "That's not very professional of you."
+      ]
+    }
+  ]
+}

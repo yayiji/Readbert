@@ -1,0 +1,27 @@
+{
+  "date": "2004-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, little fella.",
+        "What's your name?",
+        "Will"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You look totally untamed.",
+        "I like a challenge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me one month and I'll have you wearing bicycle pants while you mow my lawn.",
+        "Hissss"
+      ]
+    }
+  ]
+}

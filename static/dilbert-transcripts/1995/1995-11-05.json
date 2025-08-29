@@ -1,0 +1,58 @@
+{
+  "date": "1995-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all night but I finished the presentation package you wanted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Put the presentation date on each page."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Those are color transparencies.",
+        "It would take hours and cost hundreds of dollars to reprint them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There's no reason to date them.",
+        "In fact, it would limit future use and clutter the page."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But since you're incapable of admitting error..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I eagerly await your bizarre, otherworldly explanation for putting the date on each page."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Some people might not have calendars.",
+        "And we have to make sure it's not a holiday.",
+        "Bam!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ouch. My brain exploded.",
+        "The first presentation is February 30th..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1993-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Erase all the formulas for making your \"happiness potion\" and we won't jail you.",
+        "Okay, okay..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You citizens only have the right to pursue happiness - you're not allowed to be happy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Citizens need discomfort in order to be productive and fulfilled.",
+        "Wedgie",
+        "Then you'll love this..."
+      ]
+    }
+  ]
+}

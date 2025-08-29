@@ -1,0 +1,24 @@
+{
+  "date": "1998-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I set up a date with the supermodel I met on the internet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Supermodels don't look good in person.",
+        "That's silly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to use a vase. Do you mind if I throw those in the trash?"
+      ]
+    }
+  ]
+}

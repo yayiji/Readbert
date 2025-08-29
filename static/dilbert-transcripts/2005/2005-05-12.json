@@ -1,0 +1,24 @@
+{
+  "date": "2005-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new guy",
+        "We have a strong culture of team-work here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While you're doing those easy tasks, I'll be off doing assignments of unimaginable difficulty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did anyone warn you that we have a strong culture of getting suckers to do our work?"
+      ]
+    }
+  ]
+}

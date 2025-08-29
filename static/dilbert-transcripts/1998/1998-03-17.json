@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This article says men are paid 25% more than women.",
+        "How do you explain that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, it says women make 75 cents for every dollar that men make.",
+        "That's 33% more for men."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I suppose there's almost no chance you'll praise me for my math skills right now."
+      ]
+    }
+  ]
+}

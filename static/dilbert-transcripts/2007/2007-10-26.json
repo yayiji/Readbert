@@ -1,0 +1,24 @@
+{
+  "date": "2007-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why does it seem as if most of the decisions in my workplace are made by drunken lemurs?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Decisions are made by people who have time, not people who have talent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are talented people so busy?",
+        "They're fixing the problems made by people who have time."
+      ]
+    }
+  ]
+}

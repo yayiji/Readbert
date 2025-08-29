@@ -1,0 +1,23 @@
+{
+  "date": "2005-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In order to avoid shoddy mistakes, everything we do from now on will be part of a documented process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What documented process did you use to decide what documented process to use?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or is this one of those shoddy mistakes I keep hearing about?"
+      ]
+    }
+  ]
+}

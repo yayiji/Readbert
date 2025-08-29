@@ -1,0 +1,24 @@
+{
+  "date": "1996-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had years of valuable experience as a rodent before I became vice president of marketing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My marketing plan is simple. Each of you will cling to the leg of a technology columnist until we get some good press."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like you're full.",
+        "You can cling to the cat until a space opens."
+      ]
+    }
+  ]
+}

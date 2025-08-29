@@ -1,0 +1,34 @@
+{
+  "date": "1996-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Clip",
+        "Clip",
+        "Clip",
+        "Clip",
+        "Clip",
+        "Clip",
+        "Oh, no... it's the maddening sound of Wally clipping his nails."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The sound makes me crazy, but I can't complain because it would sound silly.",
+        "Must...",
+        "Wait..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You made your own screen saver?",
+        "It's called \"Wally's 101 annoying cubicle sounds.\"",
+        "Slurp!",
+        "Mmm..."
+      ]
+    }
+  ]
+}

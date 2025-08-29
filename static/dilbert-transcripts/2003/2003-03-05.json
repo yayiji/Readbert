@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to add chronic lateness to my repertoire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll start with the classic excuses: car problems, traffic, and misplaced items.",
+        "Then I'll branch out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're the mayor of Loserville.",
+        "Don't jinx it."
+      ]
+    }
+  ]
+}

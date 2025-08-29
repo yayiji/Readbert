@@ -1,0 +1,56 @@
+{
+  "date": "1995-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you on the strategic planning team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like work but without the satisfaction of accomplishing anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're new, so let me explain how this works."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We have meetings and talk about the company's strategy in vague emotional terms."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In time, we convince ourselves that we're more than mediocre thinkers who sit around complaining."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We start believing our opinions will steer the company.",
+        "We feel important.",
+        "We feel alive!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then we snap out of it and make viewgraphs that say we should keep doing what we're doing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I like making viewgraphs.",
+        "Actually, we use last year's viewgraph."
+      ]
+    }
+  ]
+}

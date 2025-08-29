@@ -1,0 +1,25 @@
+{
+  "date": "2006-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that you're a certified project management zombie.",
+        "Is that true?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm an assertive and innovative professional, experienced in project and operations management methodology and process development."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He didn't seem dangerous.",
+        "I just sat through a three-hour project review meeting."
+      ]
+    }
+  ]
+}

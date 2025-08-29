@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Helen, I'm transferring you to the temporary zombie division."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will be with other people who are planning weddings, raising babies and divorcing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She took my dog.",
+        "All the good places are booked."
+      ]
+    }
+  ]
+}

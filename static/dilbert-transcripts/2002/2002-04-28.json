@@ -1,0 +1,54 @@
+{
+  "date": "2002-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, it's a meeting with our favorite customers!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's lucky I was passing by."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what this meeting is about but I'm sure it needs some management perspective."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Our top priority is quality. Our other top priority is price...and service...and..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "One hour later",
+        "And that's why circles are round."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We flew here for this meeting and you used up all of our time saying nothing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You stole a day of my life! I will hunt you to the end of time! Revenge will be mine!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it just me or is that phrase starting to be overused?"
+      ]
+    }
+  ]
+}

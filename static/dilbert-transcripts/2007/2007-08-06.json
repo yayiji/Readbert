@@ -1,0 +1,28 @@
+{
+  "date": "2007-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you get the note I left on your monitor?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you get my voicemail?",
+        "Did you get my e-mail?",
+        "Yes",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I tell you what the note and voicemail and e-mail said?",
+        "There's something wrong with you."
+      ]
+    }
+  ]
+}

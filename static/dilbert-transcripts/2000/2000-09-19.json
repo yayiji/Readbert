@@ -1,0 +1,26 @@
+{
+  "date": "2000-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the work-at-home person says",
+        "Don't disturb me unless the house is on fire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What the rest of the family hears",
+        "I am your servant. My specialty is killing spiders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What the spiders hear",
+        "The house is full of wounded flies."
+      ]
+    }
+  ]
+}

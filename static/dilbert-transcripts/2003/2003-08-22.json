@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lately, every person I deal with seems to disappoint me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every meeting starts late, every answer is misleading, every deadline is ignored, and all work is shoddily done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess what I'm saying is that today I need some empathy.",
+        "You are totally blocking my view of the wall."
+      ]
+    }
+  ]
+}

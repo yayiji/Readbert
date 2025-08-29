@@ -1,0 +1,31 @@
+{
+  "date": "2001-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got the roof off.",
+        "I'll be back next week to finish."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if it rains?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I'll work indoors."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My house will be ruined.",
+        "I can't control the weather."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1994-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Matt. How's our favorite management fast-tracker?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great! I've got two minutes to deliver my big report to our CEO. Can you tell me where the fax is?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops, I'm wrong.",
+        "That's the shredder.",
+        "Bzzzzp",
+        "He'll go far in this company."
+      ]
+    }
+  ]
+}

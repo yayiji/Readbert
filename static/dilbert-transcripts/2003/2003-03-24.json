@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's no budget for your project; you need to tin-cup it.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Be like a beggar and ask each department to give you a bit of their budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, now that you've laughed your guts out, do you feel better?",
+        "Erk!"
+      ]
+    }
+  ]
+}

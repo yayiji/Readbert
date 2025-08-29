@@ -1,0 +1,23 @@
+{
+  "date": "1999-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't know how to design a power supply, so I put a nail in a piece of wood."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm on vacation tomorrow, so I'll give you my files in case you need to make changes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Once I had the idea, it all came together pretty quickly."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You saved one million dollars by having programmers in Elbonia write software for us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we wasted four million dollars trying to debug the software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the entire staff of our quality assurance group quit to become mimes.",
+        "Let's blame the mimes; they won't talk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss says we need some eunuch programmers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think he means Unix not eunuchs.",
+        "And I already know Unix."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If the company nurse drops by,",
+        "tell her I said \"Never mind.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1992-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's our new \"strategic diversification fund.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our lawyers put your money in little bags, then we have trained dogs bury them around town."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do they bury the bags or the lawyers?",
+        "We've tried it both ways."
+      ]
+    }
+  ]
+}

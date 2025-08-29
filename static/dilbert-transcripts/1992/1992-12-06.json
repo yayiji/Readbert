@@ -1,0 +1,60 @@
+{
+  "date": "1992-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's home safety tips",
+        "It could save your life!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tip #1: Children can swallow anything smaller than a sofa. Attach boards to vulnerable appliances."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha!",
+        "Nice try, Billy!",
+        "Mmph!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tip #2: Your household may have a member who can legally vote but probably shouldn't.",
+        "Try tricking them into missing the election."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We're a communist regime now.",
+        "You don't have to vote.",
+        "Shoot!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Tip #3: Your television is trying to steal your life's savings.",
+        "I personally pray over every check you send."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your only hope is to push your television out a high window."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If everybody does it, we just might get lucky."
+      ]
+    }
+  ]
+}

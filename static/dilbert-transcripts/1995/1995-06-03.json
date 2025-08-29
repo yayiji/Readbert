@@ -1,0 +1,26 @@
+{
+  "date": "1995-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your latest budget cuts.",
+        "But please don't kill the messenger from finance, ha ha!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommended a 20% cut.",
+        "A quick glance around the room tells me you're not on the success vector.",
+        "Anyhoo, so nothing lost."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tough room."
+      ]
+    }
+  ]
+}

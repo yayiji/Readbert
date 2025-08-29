@@ -1,0 +1,26 @@
+{
+  "date": "2005-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope you don't mind that I'll be sharing your cubicle.",
+        "Umm...I don't mind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's only one chair. Do you mind if I sit on your lap?",
+        "Umm...I don't mind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't imagine how this could be better.",
+        "Which one of the Star Trek series did you like best?"
+      ]
+    }
+  ]
+}

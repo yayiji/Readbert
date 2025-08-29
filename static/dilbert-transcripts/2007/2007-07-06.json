@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm off to the executive golf tournament."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It just struck me how much contrast there is between your job and mine.",
+        "I gotta go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me know if anything else strikes you."
+      ]
+    }
+  ]
+}

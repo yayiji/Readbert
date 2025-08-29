@@ -1,0 +1,57 @@
+{
+  "date": "2005-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's anger management seminar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My goal is to transform you from angry nuts into..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Angry nuts who have paid me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I need a volunteer for our first demonstration.",
+        "You, come here."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Put your head about here."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now try to control your anger while I do this..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whap",
+        "Whap whap",
+        "Whap",
+        "Whap whap"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe you didn't get enough sleep last night."
+      ]
+    }
+  ]
+}

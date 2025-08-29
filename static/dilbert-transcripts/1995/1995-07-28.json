@@ -1,0 +1,39 @@
+{
+  "date": "1995-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob works in procurement.",
+        "Your duties are simple.",
+        "People will come to you",
+        "and ask for things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Assume all employees",
+        "are lying, treasure-",
+        "hunting thieves. Give",
+        "them low-cost sub-",
+        "stitutes and claim the",
+        "savings on your",
+        "accomplishments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I asked for a multimedia",
+        "laptop PC.",
+        "Nice try, Paul,",
+        "this is a",
+        "if that's your",
+        "\"Dymo\"",
+        "real name.",
+        "labeler."
+      ]
+    }
+  ]
+}

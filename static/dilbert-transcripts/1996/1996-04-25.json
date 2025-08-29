@@ -1,0 +1,26 @@
+{
+  "date": "1996-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experiment #1: I am exposing a rat to my company's marketing plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He seems to have no adverse response to the introduction and background."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is already far more exposure than humans could tolerate.",
+        "Sales projections...",
+        "Brain tumor...",
+        "Get Tylenol..."
+      ]
+    }
+  ]
+}

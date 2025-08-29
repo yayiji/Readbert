@@ -1,0 +1,57 @@
+{
+  "date": "1993-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You all know our president, Mister Goodenrich.",
+        "He's here to answer any questions you have."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why aren't there any women or minorities in senior management positions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We think women are for making babies.",
+        "As for minorities, we fear them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How can you justify your ten million dollar salary when profits are down?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Haha! The board of directors are friends of mine and it's not their money they're spending."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why does the company keep talking about employee training while at the same time slashing the training budget?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We think you're too dumb to train.",
+        "We'll hire people from the outside if we need talent."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I must say, your honesty is kind of refreshing.",
+        "And you're all fired for asking questions."
+      ]
+    }
+  ]
+}

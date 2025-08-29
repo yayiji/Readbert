@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's where you'll be working, Ratbert.",
+        "Call center"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This must be where people leave their shoes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it okay if I hang things on my wall?"
+      ]
+    }
+  ]
+}

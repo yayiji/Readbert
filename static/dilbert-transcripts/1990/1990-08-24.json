@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Working hard?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hardly working!",
+        "Giggle giggle snort!!",
+        "You snorted"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was my best line of the day... then I snorted.",
+        "The curse of the engineer."
+      ]
+    }
+  ]
+}

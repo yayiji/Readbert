@@ -1,0 +1,57 @@
+{
+  "date": "1991-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is this the meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mumble",
+        "Mumble",
+        "Good"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everybody take a copy of the agenda."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm in the wrong meeting... now it's too awkward to leave."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll casually stretch my arms, flick the lights off and escape under cover of dark."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ouch!",
+        "Ouch!",
+        "Ouch!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, sorry, wrong agenda."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm starting to think that the problem with our economy is deeper than high interest rates."
+      ]
+    }
+  ]
+}

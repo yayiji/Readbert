@@ -1,0 +1,24 @@
+{
+  "date": "2000-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Put together a demo of our new product.",
+        "Our CEO wants to see it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My partner is channeling the angry energy of a thousand dead souls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why can't you be more like that?"
+      ]
+    }
+  ]
+}

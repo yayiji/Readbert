@@ -1,0 +1,57 @@
+{
+  "date": "2002-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to join me on a daring commando raid?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want to know why?",
+        "Not really."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My internet provider won't let me cancel by phone or by e-mail."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The service agreement says I have to stage a daring commando raid on their headquarters."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Does this mask make me look fat?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That joke is overused, Bob.",
+        "Zap"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The stun gun is in good working order."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe I should carry the stun gun.",
+        "Don't worry; I'll do you last."
+      ]
+    }
+  ]
+}

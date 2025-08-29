@@ -1,0 +1,26 @@
+{
+  "date": "1991-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In world news, the tiny country of Elbonia has become a despotic monarchy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The new ruler is King Dogbert, who claims to be a descendant of the Elbonian deity \"Doug.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope this doesn't go to my head.",
+        "Whack",
+        "Whack",
+        "Whack"
+      ]
+    }
+  ]
+}

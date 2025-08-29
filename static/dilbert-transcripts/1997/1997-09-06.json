@@ -1,0 +1,24 @@
+{
+  "date": "1997-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can handle your investments so you can retire and live off the earnings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just sign this incomprehensible contract, hand all your money to total strangers and relax!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll need to know what your tolerance to risk is.",
+        "I think I just maxed out."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2002-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I came to apply for a server job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, tell me how you would handle an abusive drunken customer like this guy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "with kindness?",
+        "You might want to shield yourself with a tablecloth."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1992-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you work in marketing, you use the research well to test new ideas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Any day but Friday you can shout your question into the well and an answer will come back.",
+        "Why not Friday?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Friday is your day in the well."
+      ]
+    }
+  ]
+}

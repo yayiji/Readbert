@@ -1,0 +1,24 @@
+{
+  "date": "1992-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the top of the news: solar flares."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cnn correspondent Wolf Blitzer is on the scene."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's another hot day on the sun, Bernie.",
+        "Show-offs."
+      ]
+    }
+  ]
+}

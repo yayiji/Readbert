@@ -1,0 +1,54 @@
+{
+  "date": "1992-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Therefore, I recommend that we switch to the new technology... Any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, are you willing to bet your career on this?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, I would definitely bet my career."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You would too if you had my career."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I have a view graph which anticipated your question."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This chart tracks my declining sense of self-worth as my career progresses."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "At the low-point, here, I'm reduced to answering imbecilic questions while pointing a little stick at the wall."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did the presentation go?",
+        "There's such a thing as being too prepared."
+      ]
+    }
+  ]
+}

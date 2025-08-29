@@ -1,0 +1,27 @@
+{
+  "date": "1991-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I make them myself.",
+        "Each one is hand-painted.",
+        "Nose puppies",
+        "$1.00"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They weren't selling until I came up with the concept of sticking them up people's noses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not in it for the money.",
+        "I just want to leave this world a little better than I found it."
+      ]
+    }
+  ]
+}

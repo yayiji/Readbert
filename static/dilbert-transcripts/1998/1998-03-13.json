@@ -1,0 +1,24 @@
+{
+  "date": "1998-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my report on the hideous treatment of employees in our Elbonian factory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The employees are forced to wear huge clamps on their heads."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I said, \"The employees can't complain because they have no union.\"",
+        "Swift."
+      ]
+    }
+  ]
+}

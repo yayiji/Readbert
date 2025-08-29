@@ -1,0 +1,24 @@
+{
+  "date": "2002-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I'll take a job as a waiter until I can get a job as an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not qualified to wait on tables.",
+        "How hard could it be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The manager is over there slapping a drunk."
+      ]
+    }
+  ]
+}

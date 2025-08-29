@@ -1,0 +1,24 @@
+{
+  "date": "1992-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert is transferred to marketing.",
+        "You look lost."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I never knew that marketing was like this. Do you people do any work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, not on \"barbecue Tuesday.\" Are you staying for lunch? It's unicorn!"
+      ]
+    }
+  ]
+}

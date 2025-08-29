@@ -1,0 +1,21 @@
+{
+  "date": "1990-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gags!",
+        "You might be interested in our exploding cigars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll fire one up just to show you...",
+        "Kapow!!",
+        "Aren't they harmful?",
+        "Studies are inconclusive."
+      ]
+    }
+  ]
+}

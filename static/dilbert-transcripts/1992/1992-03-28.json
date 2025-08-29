@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Willy, there's a mouse in my office.",
+        "Please get rid of it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Haw haw! Twenty-five years of the so-called women's movement and nothing is different!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do it now, or I'll fire your butt.",
+        "This part is a little different."
+      ]
+    }
+  ]
+}

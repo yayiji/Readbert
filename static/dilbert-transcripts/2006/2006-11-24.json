@@ -1,0 +1,27 @@
+{
+  "date": "2006-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, this is Albert.",
+        "He's old but we need to call him mature."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Explain to him what the computers are, but don't let him touch anything.",
+        "The elderly like to fiddle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was a chip designer in my last job.",
+        "Really?",
+        "Choco-late or poker?"
+      ]
+    }
+  ]
+}

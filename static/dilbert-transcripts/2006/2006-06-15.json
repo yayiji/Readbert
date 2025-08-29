@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha ha ha! Now that you've implemented our product, you are at our mercy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We shall raise the price of upgrades and delay promised patches. There is nothing you can do about it. Nothing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. You're fast with those scissors.",
+        "I scrap."
+      ]
+    }
+  ]
+}

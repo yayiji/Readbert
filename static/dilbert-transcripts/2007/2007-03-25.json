@@ -1,0 +1,58 @@
+{
+  "date": "2007-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And now for another round of e-mail judo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... this guy wants me to attend a meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Eee-yah!",
+        "I'll tell him I'm booked."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This guy wants some information."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Eee-yah!",
+        "I'll tell him my hard drive crashed."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This idiot wants my input on his document."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Eee-yah!",
+        "I'll tell him the attachment won't open."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Who's winning today?",
+        "Not the people who sent me e-mail.",
+        "Eee-yah!."
+      ]
+    }
+  ]
+}

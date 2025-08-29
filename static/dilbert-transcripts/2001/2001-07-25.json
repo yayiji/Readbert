@@ -1,0 +1,26 @@
+{
+  "date": "2001-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evolution training",
+        "Zoltar is a graduate of this class.",
+        "He will demonstrate speed evolving."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unh... errr...",
+        "Hoo... ahh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you're staring at my new sideburns."
+      ]
+    }
+  ]
+}

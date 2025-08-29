@@ -1,0 +1,24 @@
+{
+  "date": "1998-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like someone has a bad case of unicornitis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got a pre-horn sample of your DNA in the truck. I could fix you up with my cell normalizer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you have my DNA in your truck?",
+        "It's for exactly this sort of situation."
+      ]
+    }
+  ]
+}

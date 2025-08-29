@@ -1,0 +1,23 @@
+{
+  "date": "1999-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I pretend to like you?",
+        "I hear it increases productivity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to go back to my cubicle now.",
+        "It's working!"
+      ]
+    }
+  ]
+}

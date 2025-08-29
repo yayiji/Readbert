@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're a successful engineer and I'm a failed CEO.",
+        "It's kind of funny that I'm worth $100 million and you're not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's funny because it's all reverse of how it should be."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's funny because your head wouldn't normally fit inside a glass."
+      ]
+    }
+  ]
+}

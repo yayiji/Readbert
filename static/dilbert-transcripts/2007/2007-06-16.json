@@ -1,0 +1,24 @@
+{
+  "date": "2007-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember to charge your time to the appropriate project code."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unless your project is unfunded, in which case the time codes won't work and you'll need to falsify your time report."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are any of our projects funded?",
+        "This is the embarrassing part."
+      ]
+    }
+  ]
+}

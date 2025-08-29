@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "An executive search firm is trying to find a new C.E.O. for us.",
+        "It'll be tough."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No ethical person would board a sinking ship just to plunder its treasure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you ready to take the challenge?",
+        "Oh, I'll take more than that!"
+      ]
+    }
+  ]
+}

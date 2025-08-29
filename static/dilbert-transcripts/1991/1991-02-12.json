@@ -1,0 +1,21 @@
+{
+  "date": "1991-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ah... a full week of hiking and exploring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're gonna be pretty tired of this place by the end of the week."
+      ]
+    }
+  ]
+}

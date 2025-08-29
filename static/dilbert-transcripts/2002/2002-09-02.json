@@ -1,0 +1,26 @@
+{
+  "date": "2002-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And I need a code for charging my project's expenses.",
+        "No. I hate your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It doesn't matter if you hate it. You're just the guy who assigns codes.",
+        "Get out of here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is everything in this company so freakin' hard?",
+        "Because of people like you."
+      ]
+    }
+  ]
+}

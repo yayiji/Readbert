@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If Dilbert wanted me to have this when he died, it must have been special to him.",
+        "But what is it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We dinosaurs have a method for handling things we don't understand.",
+        "Tell me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We stomp it to bits and evolve into birds who don't care."
+      ]
+    }
+  ]
+}

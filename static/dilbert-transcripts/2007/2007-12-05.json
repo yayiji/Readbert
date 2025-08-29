@@ -1,0 +1,23 @@
+{
+  "date": "2007-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I need an intern to test-pilot our new moon shuttle prototype."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't it be wiser to send a monkey on the first flight?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're thinking of the second flight."
+      ]
+    }
+  ]
+}

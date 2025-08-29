@@ -1,0 +1,58 @@
+{
+  "date": "1997-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As usual, I worked until midnight last night, Mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, at least you made some extra money.",
+        "I don't get paid for overtime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, at least it was important work.",
+        "Not really."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My boss made me change my \"power-point\" slides, but the changes make them worse."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, at least you're prepared for your meeting.",
+        "It was canceled."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But that's okay, because the project isn't funded anyway."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... you worked for free to worsen a presentation for a meeting that won't happen for a project that doesn't exist?",
+        "Yup."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well... at least you could travel back in time without having any impact on history.",
+        "Yeah, my glass is half full."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm Betty the bulldozer, and I always get what I want!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Drop everything and start doing my bidding now, intern!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This was just a test. Wait here until I need something.",
+        "Shiver"
+      ]
+    }
+  ]
+}

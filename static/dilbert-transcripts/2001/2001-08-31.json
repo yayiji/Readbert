@@ -1,0 +1,24 @@
+{
+  "date": "2001-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Parts",
+        "We don't give out parts anymore."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're trying to end the vicious cycle of reordering."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you mind filling out a brief survey of customer satisfaction?"
+      ]
+    }
+  ]
+}

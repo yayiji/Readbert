@@ -1,0 +1,25 @@
+{
+  "date": "1990-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh, carp!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been called for jury duty.",
+        "Me, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogs can't do jury duty. How did they get your name?",
+        "I've been betrayed by Ed McMahon."
+      ]
+    }
+  ]
+}

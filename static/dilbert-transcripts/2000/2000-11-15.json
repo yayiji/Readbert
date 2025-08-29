@@ -1,0 +1,25 @@
+{
+  "date": "2000-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert temp agency uses genetic engineering to grow our own workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't that dangerous?",
+        "I wear safety goggles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the new temp.",
+        "Um... I'm Alice."
+      ]
+    }
+  ]
+}

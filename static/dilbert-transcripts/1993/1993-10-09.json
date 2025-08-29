@@ -1,0 +1,25 @@
+{
+  "date": "1993-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert meets the company president.",
+        "You've made quite a name for yourself in the week you've worked here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was easy to grab power, once I realized the other executives were just imbeciles with good hair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you don't think that of me.",
+        "No, that looks like a toupee from here."
+      ]
+    }
+  ]
+}

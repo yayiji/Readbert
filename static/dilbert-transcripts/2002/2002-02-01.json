@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're fired for being a man."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one has ever called me a man before! This is the happiest day of my life!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop enjoying life!!",
+        "I'm a man!"
+      ]
+    }
+  ]
+}

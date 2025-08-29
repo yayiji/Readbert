@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a free sample of my work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So company \"A\" was managed by idiots with no web strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would you recommend for my company?",
+        "First, change its name to \"A\"."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1994-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want all of you to prepare reports explaining why your jobs shouldn't be outsourced to consultants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is my job to write this report. But if I were a consultant it would make no sense to compare me to myself. Outsourcing is illogical."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For some reason, I'm not taking as much pride in my work lately."
+      ]
+    }
+  ]
+}

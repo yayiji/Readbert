@@ -1,0 +1,25 @@
+{
+  "date": "2002-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a temp with a fear of commitment.",
+        "I keep one foot out the door."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whatever. Just take care of this for me.",
+        "It'll take ten minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zip"
+      ]
+    }
+  ]
+}

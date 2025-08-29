@@ -1,0 +1,23 @@
+{
+  "date": "2003-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally has been researching Greek words to name our new product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I have is Zeus, and Parthenon, and the word \"Greek\" itself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I understand they have a word for a sports event, too. I'm trying to track that down."
+      ]
+    }
+  ]
+}

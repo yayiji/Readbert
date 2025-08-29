@@ -1,0 +1,24 @@
+{
+  "date": "1996-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only employee suggestions that get accepted are the ones that are harmless and stupid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I submitted some harmless and stupid ideas to test my theory."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suggestion: Replace all #2 pencils with #4 pencils. The hard lead lasts longer yet costs the same.",
+        "That could work."
+      ]
+    }
+  ]
+}

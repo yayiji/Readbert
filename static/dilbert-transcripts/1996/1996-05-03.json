@@ -1,0 +1,25 @@
+{
+  "date": "1996-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll have to eliminate a few steps in order to hit the market window."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think we can get rid of market research and technical testing.",
+        "They're basically \"overhead.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gone! Now we'll hit the window!",
+        "...Like a bird."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1994-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As my documentary begins, we see the engineer hard at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Suddenly he leaps into action! Years of training and experience come into focus!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The screen saver has been deactivated.",
+        "But doubt sets in...",
+        "I should have moved the mouse.",
+        "Was there a better way?"
+      ]
+    }
+  ]
+}

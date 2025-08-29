@@ -1,0 +1,26 @@
+{
+  "date": "2007-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert Public Relations firm to get us some free publicity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've already told the media that your products are deadly and we're voluntarily recalling everything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But...",
+        "they aren't deadly.",
+        "Hey, I don't tell you how to be fat.",
+        "Snork"
+      ]
+    }
+  ]
+}

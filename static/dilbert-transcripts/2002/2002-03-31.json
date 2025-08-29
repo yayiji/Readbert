@@ -1,0 +1,56 @@
+{
+  "date": "2002-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, your performance this year was superior. I'm giving you a 10% raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it's not effective right away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It kicks in as soon as my budget increase gets approved."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When will that be?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "As soon as the economy improves and profits go up!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But my raise will be retroactive to today, right?",
+        "No."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You should be happy. Some people aren't getting any raises at all.",
+        "Must... control fist... of... death."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I got a 14% future raise just for showing up.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

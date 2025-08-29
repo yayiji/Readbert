@@ -1,0 +1,25 @@
+{
+  "date": "2004-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can't resist the shard-filled ultra-doughnuts even though you know the hazards.",
+        "Mmmpf"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Free will is an illusion. People always choose the perceived path of greatest pleasure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now rationalize your decision, you mindless pink robot!",
+        "I'm only having one."
+      ]
+    }
+  ]
+}

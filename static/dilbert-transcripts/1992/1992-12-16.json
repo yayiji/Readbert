@@ -1,0 +1,24 @@
+{
+  "date": "1992-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to sales training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you know, our company makes overpriced, inferior products. We try to compensate by setting high sales quotas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't ask you to act illegally, but it's pretty much the only way to reach quota.",
+        "Okay, that's it for training. Any questions?"
+      ]
+    }
+  ]
+}

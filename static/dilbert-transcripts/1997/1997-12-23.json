@@ -1,0 +1,24 @@
+{
+  "date": "1997-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi. I'm Dan, the illogical scientist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That idea won't work. I know because I've read many reports about ideas that didn't work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You haven't even looked at my idea.",
+        "Oh, I get it; you're one of those religious nuts."
+      ]
+    }
+  ]
+}

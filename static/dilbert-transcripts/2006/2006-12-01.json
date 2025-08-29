@@ -1,0 +1,24 @@
+{
+  "date": "2006-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And I work there as an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go away. I lost $3,000 when your company restated its earnings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tonight I was rejected for corporate malfeasance.",
+        "I'll add it to the list."
+      ]
+    }
+  ]
+}

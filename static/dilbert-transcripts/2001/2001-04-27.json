@@ -1,0 +1,26 @@
+{
+  "date": "2001-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It feels like everyone in the world is lying to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Congress is lying about the budget,",
+        "stock analysts are lying about their recommendations,",
+        "my boss is lying..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This therapy stuff is scientifically proven to work, right?",
+        "It's 100% effective."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1996-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found many areas for improvement in your document, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm only an intern, but these errors stand out like huge, red, blinking lights."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could put this on top of an ambulance as a warning.",
+        "I was thinking the same thing about you."
+      ]
+    }
+  ]
+}

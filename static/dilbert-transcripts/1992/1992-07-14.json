@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't help thinking that my new wealth will lead to tragedy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It seems like rich people always have horrible tragedies.",
+        "Like what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Like being struck by lightning on a clear day.",
+        "Incoming meteor!!"
+      ]
+    }
+  ]
+}

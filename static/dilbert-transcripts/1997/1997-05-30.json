@@ -1,0 +1,27 @@
+{
+  "date": "1997-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only way to get rid of your cloud of doom is to transfer it to a new host body.",
+        "Doom"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will accomplish this with the help of your pointy-haired boss and a clueless co-worker named Tim."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're secure.",
+        "Begin transfer.",
+        "Tim, your new job will be director of special projects.",
+        "Doom"
+      ]
+    }
+  ]
+}

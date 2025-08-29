@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, do you have the benchmark results?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want the ten-minute explanation of why the data are useless, or a simple \"here you go\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm in sales.",
+        "Here you go."
+      ]
+    }
+  ]
+}

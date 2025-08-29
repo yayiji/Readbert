@@ -1,0 +1,25 @@
+{
+  "date": "2001-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "High school reunion",
+        "I started with nothing. Now I have my own cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Say, now that we're both adults, would you like to... you know?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got to be more specific."
+      ]
+    }
+  ]
+}

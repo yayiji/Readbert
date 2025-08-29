@@ -1,0 +1,25 @@
+{
+  "date": "1998-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I should quit and work for myself from home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would miss all the human contact."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Same as now.",
+        "I'm testing my e-mail.",
+        "Did you get the \"e\" I sent?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you've taken sick days for unusual reasons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, one day you got sick because you \"...accidentally imagined what it would be like if you were a fly.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And today it's your hair?",
+        "I lathered and rinsed but I don't remember repeating."
+      ]
+    }
+  ]
+}

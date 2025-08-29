@@ -1,0 +1,24 @@
+{
+  "date": "1994-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting an interdisciplinary task force to study our decision-making process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, you're using a bad decision-making process to decide how to fix our bad decision-making process?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how else we could find the source of our problem.",
+        "X-ray your skull?"
+      ]
+    }
+  ]
+}

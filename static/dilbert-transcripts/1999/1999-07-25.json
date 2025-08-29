@@ -1,0 +1,54 @@
+{
+  "date": "1999-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...To our annual employee meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our theme this year is \"The Hindenburg.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...Which I'm told was a famous cigar-shaped balloon."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's all thank Alice for choosing the theme and planning the event."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now please enjoy this film clip of the Hindenburg."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Aaagh! The humanity!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He's coming for you. Detonate his costume.",
+        "One, two..."
+      ]
+    }
+  ]
+}

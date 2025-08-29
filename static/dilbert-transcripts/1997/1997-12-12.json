@@ -1,0 +1,25 @@
+{
+  "date": "1997-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished all of my work. Can I go home early?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're an \"exempt\" employee. That means you're exempt from having a life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess I could clench an unimportant document and shuffle around in quiet desperation.",
+        "That's the spirit!"
+      ]
+    }
+  ]
+}

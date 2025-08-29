@@ -1,0 +1,24 @@
+{
+  "date": "1997-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My guest today on \"Money Chatter\" is the head of the \"Dogbert Mutual Fund.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's reported that your fund is the highest performer of the decade. Tell us how you made that happen.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, this guy will read anything you hand him."
+      ]
+    }
+  ]
+}

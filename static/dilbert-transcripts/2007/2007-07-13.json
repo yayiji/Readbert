@@ -1,0 +1,23 @@
+{
+  "date": "2007-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're not allowed to have internal phone lists on your wall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are excellent reasons for this policy, and I hope to someday know what they are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're getting suspicious about the random policy generator."
+      ]
+    }
+  ]
+}

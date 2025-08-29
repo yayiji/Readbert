@@ -1,0 +1,26 @@
+{
+  "date": "1990-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert the vigilante",
+        "When I get home from work, we'll track down the man who robbed our house and make him pay!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No! It's the robber at my desk. He's stealing my job too!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's an impostor.",
+        "Look at his hair!",
+        "We thought you'd been in a street fight with Vidal Sassoon.."
+      ]
+    }
+  ]
+}

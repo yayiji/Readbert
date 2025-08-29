@@ -1,0 +1,26 @@
+{
+  "date": "1995-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you saying that you're an angel now?",
+        "And you have special powers to help people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Exactly. I instinctively know what people want and I can give it to them with a snap of the paw.",
+        "Snap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you having any trouble controlling it?",
+        "My aim stinks."
+      ]
+    }
+  ]
+}

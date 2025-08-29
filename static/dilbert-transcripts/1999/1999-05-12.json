@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fear I am not meeting my personal goal of self-actualization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put all of our outdated binders in alphabetical order as you requested, yet I feel unfulfilled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assume that in phase two of this project I will find meaning.",
+        "Now ship the binders to the dump."
+      ]
+    }
+  ]
+}

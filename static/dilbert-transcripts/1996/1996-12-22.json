@@ -1,0 +1,58 @@
+{
+  "date": "1996-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today is your ten-year service anniversary, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pick a gift from the service anniversary catalog."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there a ceremony?",
+        "Yeah. We just had it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "May I say a few words?",
+        "Anywhere but here."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The selection of gifts at the ten-year level is somewhat meager."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The golf ball is nice.",
+        "I'm leaning toward the \"I'm with stupid\" shirt."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All I see is a blank shirt.",
+        "It comes with a fabric pen."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can almost feel the love our company has for us.",
+        "What do you mean \"us\"?"
+      ]
+    }
+  ]
+}

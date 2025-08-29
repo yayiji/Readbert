@@ -1,0 +1,25 @@
+{
+  "date": "1995-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's talk radio",
+        "I'm the smartest creature in the universe and you are all dolts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today I'm taking calls from people who think they understand complex issues because they watch \"Crossfire\" on CNN."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So why not put all poor people in orphanages?",
+        "Put your head up to the speaker, Bob."
+      ]
+    }
+  ]
+}

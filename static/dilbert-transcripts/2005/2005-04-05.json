@@ -1,0 +1,26 @@
+{
+  "date": "2005-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, my nickname will be \"the wizard.\"",
+        "It speaks to my guru status."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think I'll call you \"the lizard.\"",
+        "It speaks to your small brain and lack of ambition."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't.",
+        "Let's see which one catches on quicker."
+      ]
+    }
+  ]
+}

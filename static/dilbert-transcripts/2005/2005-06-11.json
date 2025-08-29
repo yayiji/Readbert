@@ -1,0 +1,25 @@
+{
+  "date": "2005-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to cut your project's budget by ten percent.",
+        "Ten percent??"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the sort of round number you would pick if you did no thinking whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Anything can be cut by ten percent without affecting the result.",
+        "Cool! I'm cutting back to 36 hours per week!"
+      ]
+    }
+  ]
+}

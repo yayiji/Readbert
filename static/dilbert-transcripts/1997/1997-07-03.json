@@ -1,0 +1,32 @@
+{
+  "date": "1997-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, mom!",
+        "Guess what."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the process owner",
+        "for our benchmarking",
+        "initiative!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's",
+        "crying",
+        "with",
+        "joy ...",
+        "I used to",
+        "think that",
+        "too."
+      ]
+    }
+  ]
+}

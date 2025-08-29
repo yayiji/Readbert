@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our school system is a complete failure, Dogbert.",
+        "Why's that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The schools should be preparing these kids to be scientists and engineers. That's the only way our economy will prosper."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Instead, we'll be a nation of maids and janitors.",
+        "Yeah, but think how clean it will be."
+      ]
+    }
+  ]
+}

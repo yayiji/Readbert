@@ -1,0 +1,31 @@
+{
+  "date": "2002-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to demonstrate some things we can't do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't care about things you can't do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know, but it makes a better demonstration this way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I want my life to have meaning!",
+        "You came to the wrong place.",
+        "Can't do that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1991-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This authentic chunk of the Berlin Wall is the latest acquisition of my museum."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey! You must think we're a couple of hillbillies.",
+        "We saw a hole in your sidewalk in that exact shape."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obviously we had to trade a chunk of our sidewalk to Berlin so we could get this.",
+        "Apologize to the dog, Flossie."
+      ]
+    }
+  ]
+}

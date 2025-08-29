@@ -1,0 +1,23 @@
+{
+  "date": "2003-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wake up and trudge to work!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Earn money so I can leave on the lights in every room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your shower is ready. I turned it on last night."
+      ]
+    }
+  ]
+}

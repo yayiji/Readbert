@@ -1,0 +1,31 @@
+{
+  "date": "2002-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The training budget got slashed.",
+        "You have to cancel your class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We already paid for the class."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll look bad if you go."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So, our plan is to appear smart while secretly being stupid?",
+        "You can make anything sound bad."
+      ]
+    }
+  ]
+}

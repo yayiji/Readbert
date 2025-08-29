@@ -1,0 +1,25 @@
+{
+  "date": "2005-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I decided to give you a slight promotion!",
+        "Gasp! A slight promotion!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The pay will be the same but you can make your cubicle slightly larger by shaving the ragged fabric on the inside walls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your new title is spelled just like the old one but it's pronounced totally differently.",
+        "Zzzzz"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2005-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need Tuesday off because my son is having his tonsils removed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Since when do you know how to remove tonsils?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... I won't be performing the surgery myself."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you have a rare blood type that you need to donate?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No. Actually, I was planning on sitting in the waiting room to give him moral support."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So your kid is immoral and sick? He sounds like a real winner."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What I mean is that I plan to have a cold on Tuesday."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well, I can see where your kid gets it from."
+      ]
+    }
+  ]
+}

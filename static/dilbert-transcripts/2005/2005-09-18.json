@@ -1,0 +1,57 @@
+{
+  "date": "2005-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to get a good base tan before I take my vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That'll prevent me from getting a sunburn when I go to the beach."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it's a myth that a base tan can protect you from sunburns."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You are so wrong!",
+        "Let's make a bet.",
+        "The loser has to jump into that freezing pond."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Fine. I'll do a search on my wireless computer.",
+        "Here you go: A base tan provides only a negligible SPF 4 protection."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm not jumping into that freezing pond."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Push"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You were already ignorant and contentious.",
+        "I didn't want you to be a welcher too."
+      ]
+    }
+  ]
+}

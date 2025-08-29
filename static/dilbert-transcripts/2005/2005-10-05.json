@@ -1,0 +1,25 @@
+{
+  "date": "2005-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's a harpoon.",
+        "I see a lot of this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's caused by a combination of doughnut-eating and agitating a secretary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you remove it?",
+        "Yes, but it will just come back at annual review time."
+      ]
+    }
+  ]
+}

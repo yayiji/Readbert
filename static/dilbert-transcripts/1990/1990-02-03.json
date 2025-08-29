@@ -1,0 +1,25 @@
+{
+  "date": "1990-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's all the racket?",
+        "I'm singing the \"greens.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that like the \"blues\"?",
+        "Same beat, just not so darned depressing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oooh... My car needs a tune up and I overslept ten minutes. Baaaabee..."
+      ]
+    }
+  ]
+}

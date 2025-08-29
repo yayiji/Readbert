@@ -1,0 +1,26 @@
+{
+  "date": "1996-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gotta hurry.",
+        "One...two...",
+        "Three..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have twelve seconds to get to the shared laser printer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Guess who saved the Apollo 13 space mission.",
+        "Did you know that Wally invented the cursor?"
+      ]
+    }
+  ]
+}

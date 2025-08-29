@@ -1,0 +1,24 @@
+{
+  "date": "1990-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, uh... how do you like working at the library reference desk?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's pretty good, now that I've memorized all the books. No more flipping through pages..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm feeling a bit inadequate at the moment.",
+        "Don't worry. I'll just think about other things while you're talking."
+      ]
+    }
+  ]
+}

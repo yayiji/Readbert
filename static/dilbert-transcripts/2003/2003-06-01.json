@@ -1,0 +1,56 @@
+{
+  "date": "2003-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, can I have your revenue projections?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I'm reading my e-mail. I can't do two things at once."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I offer you this song instead."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ooh-waa-waa!",
+        "I'm single-task Bob",
+        "I'm single-task Bob"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't multitask",
+        "I only do one job"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Just give me the stupid binder that's on your desk!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Sure. And I guess my e-mail can just read itself, right?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Reading goes quickly when you don't slow down to comprehend."
+      ]
+    }
+  ]
+}

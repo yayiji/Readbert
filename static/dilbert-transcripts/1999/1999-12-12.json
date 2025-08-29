@@ -1,0 +1,54 @@
+{
+  "date": "1999-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, come meet the two new employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is Sophie, one of the best engineers in the business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The other one is her incompetent husband."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We had to hire him so Sophie would agree to relocate."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are you saying I didn't get hired for my talent?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You don't have any talent, honey.",
+        "Oh, that's right."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Dilbert, your job is to do his job in addition to your own."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you want to see my collection of squirrel heads?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm sending you to a communication class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because I've noticed that your words often say one thing while your body language says another."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Frankly, it's creepy.",
+        "Thank you. I appreciate the useful feedback."
+      ]
+    }
+  ]
+}

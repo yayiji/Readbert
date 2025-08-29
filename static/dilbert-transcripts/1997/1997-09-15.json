@@ -1,0 +1,30 @@
+{
+  "date": "1997-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac the refuser.",
+        "I am here to discuss your request for a computer upgrade."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Crinkle!",
+        "Mmphh!",
+        "Chomp",
+        "Chomp",
+        "Chomp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We lotht thuh pahper-wuhk.",
+        "That's a huge surprise.",
+        "Luckily I made seventy-five extra copies."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1991-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lunch with a top executive",
+        "I have these lunches to find out what the workers are thinking.",
+        "You may speak freely."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay... it seems like the company is lacking leadership and direction.",
+        "The executives squelch all initiative by punishing those who take risks and voice opinions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You leave me little choice but to fling this au gratin potato at your forehead."
+      ]
+    }
+  ]
+}

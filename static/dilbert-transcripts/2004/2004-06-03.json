@@ -1,0 +1,26 @@
+{
+  "date": "2004-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, let's go to lunch. I'll buy.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll have some wine, maybe talk about people that we both know.",
+        "Fun!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And what does Dilbert call me?",
+        "The Fertiliar! Ha ha!"
+      ]
+    }
+  ]
+}

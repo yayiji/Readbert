@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to take advantage of our new family friendly policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Three of my kids have bronchitis, two have dental appointments, one is in a school play, and one has a rugby game."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In all likelihood, you will never see me again.",
+        "We didn't think this through."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dorie, send an e-mail: employees are leaving work too early."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want to see more cars in the parking lot after 6 p.m. Otherwise, heads will roll!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You type your own e-mail.",
+        "I can't do that and do this menacing pose at the same time."
+      ]
+    }
+  ]
+}

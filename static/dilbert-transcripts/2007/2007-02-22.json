@@ -1,0 +1,23 @@
+{
+  "date": "2007-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope you don't expect me to write a favorable article about your company just because you bought me drinks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I expect you to publish my press release and act like you wrote it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can work or you can get drunk, but the pay is exactly the same."
+      ]
+    }
+  ]
+}

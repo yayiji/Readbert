@@ -1,0 +1,24 @@
+{
+  "date": "1995-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is it that I never have time to eat but you men are in here every day at 11:35?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because the hours we spent upgrading our PCs have finally paid off by greatly improving our efficiency."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought it was because we get hungry at 11:30.",
+        "We can't reveal all our secrets."
+      ]
+    }
+  ]
+}

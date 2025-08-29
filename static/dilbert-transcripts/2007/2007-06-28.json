@@ -1,0 +1,25 @@
+{
+  "date": "2007-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, career counselor",
+        "Do something you love."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I love not working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any loves that are less loserish?",
+        "I love to watch bowling!"
+      ]
+    }
+  ]
+}

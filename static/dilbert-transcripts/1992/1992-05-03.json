@@ -1,0 +1,56 @@
+{
+  "date": "1992-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All you can eat",
+        "$7.00"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey!",
+        "Stop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You owe us another $14."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You deliberately put more than you could eat on your plates."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Technically, our agreement is \"all you can eat,\" not \"all you can waste.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Mom wanted me to be a lawyer, but I said \"no, food services is where I'm needed.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I believe this is your department, Dogbert."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Technically, it's all you can eat, not all you do eat.",
+        "Ooh... he's good"
+      ]
+    }
+  ]
+}

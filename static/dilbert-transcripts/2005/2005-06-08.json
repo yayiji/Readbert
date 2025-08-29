@@ -1,0 +1,26 @@
+{
+  "date": "2005-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Keep a journal of everything you do.",
+        "That way you'll know where you need help."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I am writing in my journal.",
+        "I am still writing in my journal.",
+        "Now I am writing about writing in my journal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh. I think I felt a little personal growth there."
+      ]
+    }
+  ]
+}

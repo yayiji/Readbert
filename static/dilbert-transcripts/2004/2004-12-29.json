@@ -1,0 +1,26 @@
+{
+  "date": "2004-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How could you tell a vendor about our reorganization before you tell your own staff?!!",
+        "Scoot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Come into my office and we can discuss it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaaa!!!",
+        "It's a trick!",
+        "C'mon phone, ring!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's dating service",
+        "I'd like to sign up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Although deep down I know that all of the people in your service are men, I cling to the fantasy of meeting the woman who modeled for your brochure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's taken, but I can match you with somebody named \"Francis\" or \"Kris.\"",
+        "There's hope!"
+      ]
+    }
+  ]
+}

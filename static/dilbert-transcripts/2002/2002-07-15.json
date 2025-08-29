@@ -1,0 +1,23 @@
+{
+  "date": "2002-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, our records show that you forward an average of nineteen e-mail jokes per week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each joke goes to 30,000 employees, costing us ten million per year in lost productivity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We plan to blame you when we file for bankruptcy next week."
+      ]
+    }
+  ]
+}

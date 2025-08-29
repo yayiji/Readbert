@@ -1,0 +1,26 @@
+{
+  "date": "2001-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My life has no purpose.",
+        "Scratch my back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying the purpose of life is service to others?",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It does make me feel useful.",
+        "I think we both found something that works."
+      ]
+    }
+  ]
+}

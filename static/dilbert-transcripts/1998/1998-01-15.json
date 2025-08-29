@@ -1,0 +1,28 @@
+{
+  "date": "1998-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is this the \"skeptics association\"?",
+        "I need your help to prove my rat isn't psychic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name is Dilbert.",
+        "Yes, I can prove it; I have a passport and a driver's license.",
+        "Well, yeah, it's easy to get a fake ID, but..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hours later...",
+        "...Okay, what if I take a DNA test?",
+        "No, I can't prove I've never been cloned!!"
+      ]
+    }
+  ]
+}

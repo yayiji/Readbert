@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've had a bad year but management is committed to staying the course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Did you just say our leaders are receiving huge compensation packages to keep doing what doesn't work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. The way I said it, they're visionaries.",
+        "So... they keep doing what doesn't work... and they see visions?"
+      ]
+    }
+  ]
+}

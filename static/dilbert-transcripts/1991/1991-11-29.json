@@ -1,0 +1,26 @@
+{
+  "date": "1991-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At Dogbert's confirmation hearing for the Supreme Court...",
+        "Mister Ratbert, you've been called as a character witness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The nominee once called me a little hiney..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "News",
+        "Liar!",
+        "Probably nuts!!"
+      ]
+    }
+  ]
+}

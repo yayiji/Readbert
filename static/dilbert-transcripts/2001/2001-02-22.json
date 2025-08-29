@@ -1,0 +1,25 @@
+{
+  "date": "2001-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I inadvertently gave Alice verbal praise.",
+        "Is she addicted?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She's been lying and stealing to get more.",
+        "She leaves us no choice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have to promote you to management."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1996-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your product looks good, but you can't be our supplier unless your company is ISO 9000 certified."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... you don't care how bad our internal processes are, as long as they're well-documented and used consistently?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's right.",
+        "Our documented process says I must now laugh in your face and double our price."
+      ]
+    }
+  ]
+}

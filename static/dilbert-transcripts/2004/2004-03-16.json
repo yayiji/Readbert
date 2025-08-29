@@ -1,0 +1,25 @@
+{
+  "date": "2004-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There is an error on my tiny paycheck. It is four dollars too much.",
+        "Gasp!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now you must travel to the bowels of the bureaucracy to correct this injustice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or I could just keep it as a reward for my honesty.",
+        "Bowels I say!!!"
+      ]
+    }
+  ]
+}

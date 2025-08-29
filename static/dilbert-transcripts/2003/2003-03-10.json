@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to buy some life insurance?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Exclusions: self-inflicted wounds, pre-existing illness, criminal acts, war, dangerous sports, smoking..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Much later that day",
+        "...And pistol duels resulting from quilting bees.",
+        "No one reads it, freak!"
+      ]
+    }
+  ]
+}

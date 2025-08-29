@@ -1,0 +1,25 @@
+{
+  "date": "1990-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So... uh...",
+        "Why did you decide to take up witchcraft?",
+        "It comes in handy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, suppose I want to get rid of this annoying fly here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now be a luv..."
+      ]
+    }
+  ]
+}

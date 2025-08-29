@@ -1,0 +1,56 @@
+{
+  "date": "1991-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "'Twas the night before Christmas..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When a duck hit the sled...",
+        "Smack"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Santa fell out..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And dropped on his head..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He was barely alive, this jolly old elf..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "'Twas the holiday season, so I thought of myself...",
+        "Hey! I don't see any gifts here!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So I stole his hat and buried him in the back yard. The end."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Uh...this is interesting, Dogbert.",
+        "The sequel is titled \"Elf Wars: The Taste of Venison.\""
+      ]
+    }
+  ]
+}

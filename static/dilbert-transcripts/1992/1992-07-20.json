@@ -1,0 +1,24 @@
+{
+  "date": "1992-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm using my new supercomputer to create a model that can predict your entire life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You see, everything, including your brain chemistry, is subject to predictable patterns of cause and effect..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's ridiculous. It implies that we have no free will.",
+        "Next, you start getting really mad at me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought some \"smart pills\" for you.",
+        "They're made from Chinese herbs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I saw a news story about these...",
+        "and naturally I thought of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've discovered the perfect gift item."
+      ]
+    }
+  ]
+}

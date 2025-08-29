@@ -1,0 +1,36 @@
+{
+  "date": "1999-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The turnaround CEO",
+        "Tell me, mole,",
+        "who can I fire",
+        "without affecting",
+        "revenue?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In theory, you",
+        "could outsource",
+        "everything and",
+        "run the company",
+        "with one smart",
+        "employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And at the risk",
+        "of sounding",
+        "rude, only one",
+        "of us knew",
+        "that."
+      ]
+    }
+  ]
+}

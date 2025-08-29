@@ -1,0 +1,33 @@
+{
+  "date": "2007-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina the tech writer",
+        "As you requested,",
+        "I increased the",
+        "speed of my writing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My breakthrough",
+        "was realizing that",
+        "accuracy and clarity",
+        "are optional!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to",
+        "micromanage me by",
+        "reading it all and",
+        "pointing out the",
+        "errors?"
+      ]
+    }
+  ]
+}

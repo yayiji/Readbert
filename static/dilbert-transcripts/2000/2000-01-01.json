@@ -1,0 +1,24 @@
+{
+  "date": "2000-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the \"bait and switch\" consulting group because they're so smart."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm assigning Eddie to work on your account.",
+        "You will never see me again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, what is it that you do here?"
+      ]
+    }
+  ]
+}

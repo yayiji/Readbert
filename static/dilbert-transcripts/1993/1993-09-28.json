@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have I told you recently that I have a lucrative job offer from our competitor?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The pay is obscene, they wear casual clothes at work, and Wednesday through Friday is free beer and pizza."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As the new guy I get to date the masseuse until the company matches me with an attractive co-worker.",
+        "Sob"
+      ]
+    }
+  ]
+}

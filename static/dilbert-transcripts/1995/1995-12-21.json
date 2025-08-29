@@ -1,0 +1,24 @@
+{
+  "date": "1995-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It isn't ethical to hack into the payroll computer and give me a raise, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not ethical?? Is it ethical for them to make you work seventy hours a week and only pay you for forty??!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about a five percent raise?",
+        "Well, there is the issue of the quality of your work..."
+      ]
+    }
+  ]
+}

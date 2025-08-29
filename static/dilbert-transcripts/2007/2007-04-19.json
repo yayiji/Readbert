@@ -1,0 +1,25 @@
+{
+  "date": "2007-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My soul-o-meter is picking up a reincarnated soul.",
+        "It looks like you have had several previous lives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll cauterize your head so your soul stays in your dead body next time.",
+        "Zzzt!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I can."
+      ]
+    }
+  ]
+}

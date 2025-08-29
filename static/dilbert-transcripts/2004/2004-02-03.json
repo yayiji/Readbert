@@ -1,0 +1,25 @@
+{
+  "date": "2004-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's been a few hours since I've done anything managerish."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could criticize someone...nah.",
+        "I could have a meeting...nah."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm reorganizing the department!",
+        "Excuse me while I beat myself with my keyboard."
+      ]
+    }
+  ]
+}

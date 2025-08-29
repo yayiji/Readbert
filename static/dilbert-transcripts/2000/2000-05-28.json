@@ -1,0 +1,53 @@
+{
+  "date": "2000-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Psst"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes?",
+        "Come in and shut the door."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I bought a fake video surveillance camera."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Install it in the break room tonight."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's cheaper than a real camera and it will discourage thefts."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you treat employees like criminals, they'll leave."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Good point.",
+        "You'd better hide the fake camera so no one knows it's there."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

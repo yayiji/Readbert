@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our web site needs some dancing skeletons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally I'd suggest dinosaur pictures but they're too big for our disk drives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you getting this down, Ming?",
+        "How do you spell \"#%€3!\"?"
+      ]
+    }
+  ]
+}

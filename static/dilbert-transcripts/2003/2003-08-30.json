@@ -1,0 +1,23 @@
+{
+  "date": "2003-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My keyboard looks exactly like everyone else's."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need more of a management keyboard, with special keys and that sort of thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the \"[\" becomes the newly discovered letter \"G.\""
+      ]
+    }
+  ]
+}

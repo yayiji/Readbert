@@ -1,0 +1,23 @@
+{
+  "date": "2006-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're in charge of installing the system that lyin' John sold to our biggest customer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Lyin' John neglected to include the network and server in his sale. This is a financial sinkhole."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You take the joy out of delegating."
+      ]
+    }
+  ]
+}

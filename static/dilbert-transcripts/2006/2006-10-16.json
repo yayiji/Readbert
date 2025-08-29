@@ -1,0 +1,30 @@
+{
+  "date": "2006-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I stayed up all night working on Mindy's software because she threatened me if I didn't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? Threats make you work all night?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "No?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Work on this all night or I'll punch you."
+      ]
+    }
+  ]
+}

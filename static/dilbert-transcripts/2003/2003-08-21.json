@@ -1,0 +1,23 @@
+{
+  "date": "2003-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone named Tiffany sent me e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yagga wagga!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someone turned off the spam filter."
+      ]
+    }
+  ]
+}

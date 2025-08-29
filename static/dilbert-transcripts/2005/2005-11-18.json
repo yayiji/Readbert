@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to buy advertising in my new magazine called \"Gullible World\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have between one and two billion readers!",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I figured out how to make three readers sound like a lot."
+      ]
+    }
+  ]
+}

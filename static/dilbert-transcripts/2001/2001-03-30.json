@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And so you agree that the delays are your fault?",
+        "Yeh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won the meeting!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only a sore loser would trip someone on his victory lap.",
+        "He is so-o-o immature."
+      ]
+    }
+  ]
+}

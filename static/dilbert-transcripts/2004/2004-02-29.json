@@ -1,0 +1,58 @@
+{
+  "date": "2004-02-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!!! Our boss's boss is coming!",
+        "Where?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh.",
+        "Zoop!",
+        "Hello, head-count."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to run tons of work.",
+        "Why? Are you poorly managed?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No! We have everything we need! Everything is perfect!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So...was your boss confused, lying or misinformed when he asked me for more funding for your budget?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Nooo!!! Ignore me! I don't know anything!!!",
+        "Hmm."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Dilbert says you don't communicate with the staff, and you don't need money."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Phew! I'm glad that's over."
+      ]
+    }
+  ]
+}

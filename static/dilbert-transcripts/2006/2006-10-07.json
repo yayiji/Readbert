@@ -1,0 +1,23 @@
+{
+  "date": "2006-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to blame someone for the failure of project Alpha."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Use the plunger of blame. It's the latest technology for randomly distributing blame."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please tell me that someone is patting me on the back right now."
+      ]
+    }
+  ]
+}

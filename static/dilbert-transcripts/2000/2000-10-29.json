@@ -1,0 +1,57 @@
+{
+  "date": "2000-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you.",
+        "Have a nice day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She's flirting with me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...would you like to go out on Saturday?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I wasn't flirting.",
+        "This is my phony customer service smile."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Employees are required to smile."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, but now you're flirting, aren't you?",
+        "No, still phony."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wally has to see this."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hey, it looks like she's flirting with me!",
+        "Is this great or what?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's school of common sense.",
+        "This is the story of Clayton the auto mechanic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Clayton smoked cigars while working on gasoline engines. What problem did this cause?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was hit by lightning every time?",
+        "Does anybody beside Clayton have a guess?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "1993-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...Our pay is too low,",
+        "and there's no clear",
+        "leadership.",
+        "And we",
+        "want parking",
+        "spaces..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Flush"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All things",
+        "considered,",
+        "I think I",
+        "enjoy them",
+        "more when",
+        "they're",
+        "disgruntled."
+      ]
+    }
+  ]
+}

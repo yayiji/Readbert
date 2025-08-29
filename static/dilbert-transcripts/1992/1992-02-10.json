@@ -1,0 +1,25 @@
+{
+  "date": "1992-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What happened with the robot you were building?",
+        "Nobody can make a robot. It's impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm... a perfectly good robot. Probably just needs a neuro-spectrum field calibration."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That whole robot project was bad for my ego as an engineer.",
+        "Hey! Guess who's way smarter than you!"
+      ]
+    }
+  ]
+}

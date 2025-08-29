@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Office relocation.",
+        "Your new cubicle is less roomy than the old one. You will need this butter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apply it liberally to your torso area and you can slide right in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But don't stay in there for more than 10 minutes at a time because it attracts rats."
+      ]
+    }
+  ]
+}

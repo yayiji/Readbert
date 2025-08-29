@@ -1,0 +1,25 @@
+{
+  "date": "2006-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I begin my day, I'd like to see which of my thirty projects you still remember assigning to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "10 minutes later",
+        "...And thirty: Rename the projects so it's not so easy to spot our over-spending."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "None of those ring a bell, but they all seem critical now.",
+        "Ouch."
+      ]
+    }
+  ]
+}

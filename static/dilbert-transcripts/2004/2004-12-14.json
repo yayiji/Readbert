@@ -1,0 +1,25 @@
+{
+  "date": "2004-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't like the way he was looking at me.",
+        "This isn't good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He was the only stock analyst who had a \"buy\" recommendation on our company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we're a \"hold\" now.",
+        "Where will we find another one with so much conflict of interest??!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A pessimist says the glass is half empty.",
+        "An optimist says it's half full."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you put your lips on my glass again?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the engineer says...",
+        "It's a good thing I put half of my water in a redundant glass."
+      ]
+    }
+  ]
+}

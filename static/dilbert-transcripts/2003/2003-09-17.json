@@ -1,0 +1,23 @@
+{
+  "date": "2003-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to make a hundred million dollars for just showing up at work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My audio lessons teach you how to become an under-performing CEO."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Step one: become a CEO. Step two: be the sort of person who would buy these audio lessons."
+      ]
+    }
+  ]
+}

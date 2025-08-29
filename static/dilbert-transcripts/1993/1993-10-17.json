@@ -1,0 +1,56 @@
+{
+  "date": "1993-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't work up to my full potential today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Naturally, I'll be refunding a portion of my salary to the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... we don't really have a process for that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What? That's almost like saying it's okay to work below my potential."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hey guys! You were right! The pay's the same whether you try or not!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's great!",
+        "I didn't do squat today!",
+        "I played \"Tetris.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Thanks for the clarification.",
+        "It's a big time-saver."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hey, I actually got paid for that!"
+      ]
+    }
+  ]
+}

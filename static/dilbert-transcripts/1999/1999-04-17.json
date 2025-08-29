@@ -1,0 +1,26 @@
+{
+  "date": "1999-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a report that you threatened to kill a computer manufacturer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It freezes up five times a day.",
+        "I have to unplug it to turn it off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, we're with you.",
+        "When's it going down?",
+        "Is Tuesday good?"
+      ]
+    }
+  ]
+}

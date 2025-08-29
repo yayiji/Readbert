@@ -1,0 +1,23 @@
+{
+  "date": "1993-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing a short story for people who don't have much patience."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Blah, blah, blah. Whatever, blah, blah, etcetera, etcetera."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it's a commercial success, the sequel practically writes itself."
+      ]
+    }
+  ]
+}

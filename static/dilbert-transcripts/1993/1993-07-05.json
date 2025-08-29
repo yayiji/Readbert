@@ -1,0 +1,25 @@
+{
+  "date": "1993-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's start with a brainstorming exercise.",
+        "Alice, you go first."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I imagine myself not surrounded by dull, unattractive, and largely clueless men."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mmmm...",
+        "I think she just insulted you guys."
+      ]
+    }
+  ]
+}

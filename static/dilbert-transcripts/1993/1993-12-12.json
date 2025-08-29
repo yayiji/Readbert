@@ -1,0 +1,63 @@
+{
+  "date": "1993-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today you will learn how to deal with people who have personality defects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Case 1: Todd laughs nervously at every one of his own comments.",
+        "Don't hold it against me!",
+        "Hee hee",
+        "Haw haw!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remedy: Todd must be relocated to a distant planet.",
+        "It sure is lonely!",
+        "Hee hee!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Case 2: Allen stares at you like a zombie for long periods before responding to questions."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Remedy: Allen must be paired with Virginia (Case 3) who fills all quiet spots with inane chatter.",
+        "Yak yak",
+        "Yak"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Case 4: Matt speaks slowly about amazingly boring topics.",
+        "I... ate... a pickle..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Remedy: Matt's head can be outfitted with a reading stand.",
+        "I... like... pickles..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Case 5: An engineer.",
+        "Remedy: Very quietly seal him in his own cubicle."
+      ]
+    }
+  ]
+}

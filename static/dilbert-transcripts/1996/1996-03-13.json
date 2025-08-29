@@ -1,0 +1,30 @@
+{
+  "date": "1996-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It has come to my attention that some employees are running side businesses from their cubicles.",
+        "Really??"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to see any signs of that in my department.",
+        "Fair enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Software outlet",
+        "Sale",
+        "Palms read $25",
+        "Shoe world",
+        "What about \"yellow pages\" ads?",
+        "Walbert Inc."
+      ]
+    }
+  ]
+}

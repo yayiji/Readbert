@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This project needs your complete attention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally's right.",
+        "Forget the other projects and focus on that one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I miss anything at the meeting?",
+        "We got you a little helper for your project."
+      ]
+    }
+  ]
+}

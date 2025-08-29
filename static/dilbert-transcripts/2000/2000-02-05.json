@@ -1,0 +1,37 @@
+{
+  "date": "2000-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Step inside.",
+        "Limbo",
+        "a division",
+        "of Heck"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be sitting",
+        "in the career",
+        "limbo section.",
+        "Goodbye.",
+        "Please",
+        "wait to",
+        "be seated"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Jeepers! The",
+        "service here",
+        "is terrible!",
+        "Please",
+        "wait to",
+        "be seated"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1992-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I understand you've been going without sleep or food for days just to meet some artificial deadline.",
+        "Ergle, flumg"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As a result, your work has been muddle-brained and incomprehensible.",
+        "You leave me no choice, Tim.",
+        "Gleeb, nub"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tim got promoted to division manager.",
+        "I wonder if he knows it."
+      ]
+    }
+  ]
+}

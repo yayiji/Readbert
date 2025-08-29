@@ -1,0 +1,26 @@
+{
+  "date": "1992-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of my disguise?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to tell the media that I'm a space alien with unstoppable powers.",
+        "With luck, the nations of the world will surrender without a fight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You think people are idiots...",
+        "Don't you?",
+        "This is what I looked like before the disguise."
+      ]
+    }
+  ]
+}

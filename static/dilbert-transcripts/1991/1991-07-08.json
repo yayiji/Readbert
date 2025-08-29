@@ -1,0 +1,23 @@
+{
+  "date": "1991-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dog aerobics"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zzzzzz"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And a one..."
+      ]
+    }
+  ]
+}

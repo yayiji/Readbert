@@ -1,0 +1,24 @@
+{
+  "date": "1990-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fool! Why have you come to the accounting department?!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... I had some questions, sir... Ma'am... er, sir?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you a man or woman?",
+        "In accounting, it doesn't really matter."
+      ]
+    }
+  ]
+}

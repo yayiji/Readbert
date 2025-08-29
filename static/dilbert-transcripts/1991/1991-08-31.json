@@ -1,0 +1,23 @@
+{
+  "date": "1991-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've addressed your concern about the potential safety hazard of computer terminal radiation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Foomp!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Air bags -- their time has come."
+      ]
+    }
+  ]
+}

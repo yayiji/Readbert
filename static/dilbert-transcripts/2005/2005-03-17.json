@@ -1,0 +1,30 @@
+{
+  "date": "2005-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, this is Asok the intern.",
+        "I am trying to set up a conference call with your boss and 15 other people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Could you tell me all of the times he is available in the next six months?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only August sixth between 8:35 and 8:40."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So far, so good."
+      ]
+    }
+  ]
+}

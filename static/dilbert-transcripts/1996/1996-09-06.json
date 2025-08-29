@@ -1,0 +1,27 @@
+{
+  "date": "1996-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As network administrator I can take down the network with one keystroke."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aagh!!!",
+        "Waaa!!!!",
+        "Aeee!!",
+        "Eeek!!",
+        "My work!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's just like being a doctor but without getting gooky stuff on my paws."
+      ]
+    }
+  ]
+}

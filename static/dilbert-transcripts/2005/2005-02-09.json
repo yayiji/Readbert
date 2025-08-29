@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People think I'm worthless, but in fact I'm a subject-matter expert in a very narrow field."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's so narrow that it requires no knowledge whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What field is it?",
+        "There's no way to know for sure."
+      ]
+    }
+  ]
+}

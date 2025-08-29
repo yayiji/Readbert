@@ -1,0 +1,33 @@
+{
+  "date": "1995-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I declare myself \"King Dogbert,\"",
+        "the first ruler of the internet!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bow before me",
+        "or be expelled",
+        "from the kingdom",
+        "forever!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you aware that the",
+        "internet is comprised",
+        "of millions of individ-",
+        "uals and organizations",
+        "that operate independ-",
+        "ently?",
+        "Until now!"
+      ]
+    }
+  ]
+}

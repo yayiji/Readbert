@@ -1,0 +1,30 @@
+{
+  "date": "1991-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to start our \"Scientist Anti-Defamation League\" meeting with a film about stereotypes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do we have a volunteer to run the projector?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Me",
+        "Me",
+        "Me",
+        "Me",
+        "Me",
+        "Me",
+        "Me",
+        "Me"
+      ]
+    }
+  ]
+}

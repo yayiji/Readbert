@@ -1,0 +1,24 @@
+{
+  "date": "2005-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Milt, you have a wife and kids. How do you find time to do everything you need to do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to give up a few things, such as exercising and eating healthy food."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds dangerous.",
+        "Nah. The kids are trained to use the defibrillator."
+      ]
+    }
+  ]
+}

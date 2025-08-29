@@ -1,0 +1,55 @@
+{
+  "date": "2002-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I completed the feasibility analysis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It would take us two years to build a product that will be obsolete one year from now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, let's get started."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um...no, the point is that the project can't succeed."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We want people to think we're developing this sort of product, so we'll be credible in the market."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So our plan is to do stupid things until we appear credible?",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!! My life is a complete waste!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Tomorrow I'll ask him why he's behind schedule.",
+        "Very evil. Nicely done."
+      ]
+    }
+  ]
+}

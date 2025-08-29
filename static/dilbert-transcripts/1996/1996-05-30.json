@@ -1,0 +1,26 @@
+{
+  "date": "1996-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need this information today. Plus a complete analysis of the alternatives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Crinkle",
+        "Crinkle",
+        "Stuff"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That wasn't nice.",
+        "In today's lesson, you learn that you're my co-worker, not my boss."
+      ]
+    }
+  ]
+}

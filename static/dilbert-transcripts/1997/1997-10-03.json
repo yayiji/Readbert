@@ -1,0 +1,27 @@
+{
+  "date": "1997-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A mob of stupid people attack Dogbert's house.",
+        "Our plan to drink all of his hose water isn't working.",
+        "Down with Dogbert"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, careful! You're getting water all over the grass...",
+        "Wait, that gives me an idea!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's the attack going?",
+        "They tried to ruin our lawn by spraying water on it. But now it's turned into a hose fight."
+      ]
+    }
+  ]
+}

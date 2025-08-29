@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How much budget do I have for my project?",
+        "I can't tell you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you knew what your budget was, you'd spend it all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you at least tell me what our company strategy is?",
+        "No, I don't want you to lose hope."
+      ]
+    }
+  ]
+}

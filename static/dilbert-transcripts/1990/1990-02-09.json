@@ -1,0 +1,24 @@
+{
+  "date": "1990-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert performs a scientific test of so-called \"women's intuition.\"",
+        "I'm thinking of a number between one and ten."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "5.1362894... No, I'll say three."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wrong! The answer is 5.1362894... I'm beginning to wonder if you're really a woman."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2001-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to have an all-company meeting to talk about the layoffs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You might get some hostile questions owing to the fact that they found out about the layoffs by reading the newspaper."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I've never noticed that I leave a trail of reeking slime wherever I slither."
+      ]
+    }
+  ]
+}

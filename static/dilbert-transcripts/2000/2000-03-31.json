@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I cancelled our dumpster service to save money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I discovered an alternative that costs nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everyone tear off a piece and put it in your pocket."
+      ]
+    }
+  ]
+}

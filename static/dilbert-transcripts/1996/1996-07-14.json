@@ -1,0 +1,54 @@
+{
+  "date": "1996-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to this phone bill, you've been making personal calls."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's like stealing from the company, Alice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must... control... fist... of... death..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I spent eighty cents to tell my family I was working late."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Here's a dollar. The extra twenty cents is for the personal thought that I'm about to have on company time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Mmm"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And here's my bill for $40,000 in unpaid overtime that the company stole from me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's not stealing; that's being competitive.",
+        "I think I'll be competitive with a few bushels of office supplies later today."
+      ]
+    }
+  ]
+}

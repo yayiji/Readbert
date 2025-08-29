@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is it that the people with the least need for storage space have the biggest offices?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know! You're using your office as kind of a living monument to inefficiency!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this because I wouldn't let you get a file cabinet?",
+        "Where would I put it? My cubicle is full of stacks of proprietary documents."
+      ]
+    }
+  ]
+}

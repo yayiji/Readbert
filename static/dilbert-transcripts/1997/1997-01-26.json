@@ -1,0 +1,60 @@
+{
+  "date": "1997-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you want for your birthday this year, Mom?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, nothing.",
+        "I have everything I need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, c'mon.",
+        "There must be something you want.",
+        "Well, one thing.",
+        "But it's silly."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You just name it.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'd like a home entertainment theatre with a fifty-inch screen, \"THX\" surround sound and a 600 KBPS satellite link to the net so I can view adult pictures during the commercials."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I was thinking more along the lines of a new toaster oven."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, that's exciting.",
+        "I'll put it next to my other one and watch them fight it out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There's a real dark side to the information age.",
+        "Oh, and about the gift of life I gave you; you're welcome."
+      ]
+    }
+  ]
+}

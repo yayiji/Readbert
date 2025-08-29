@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a new job within the company before the window shuts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Catbert is already up to \"O.\" Next week he gets an \"S.\"",
+        "What's he spelling?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He wouldn't say, but it starts with an \"L.\""
+      ]
+    }
+  ]
+}

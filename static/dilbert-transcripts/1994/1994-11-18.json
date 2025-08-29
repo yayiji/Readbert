@@ -1,0 +1,24 @@
+{
+  "date": "1994-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is just great... We engineers have old IBM 286 PCs and you have a Sparc workstation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Correct me if I'm wrong, but the only thing you know how to do is stare at the screen saver."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does that ball keep bouncing?",
+        "If anybody needs me I'll be scrolling some text."
+      ]
+    }
+  ]
+}

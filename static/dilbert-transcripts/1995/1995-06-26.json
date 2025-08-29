@@ -1,0 +1,23 @@
+{
+  "date": "1995-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked Saint Dogbert to mediate our dispute over what kind of computers are allowed here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I shall go to the desert and seek enlightenment. When I return I will reveal the true path of computing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You call this an endorsement contract?! Go to the end of the line!"
+      ]
+    }
+  ]
+}

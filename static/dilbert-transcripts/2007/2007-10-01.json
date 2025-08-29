@@ -1,0 +1,23 @@
+{
+  "date": "2007-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did it take six months to complete this simple task?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because of your continuous changes, your unclear communication, and your short work days."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm looking for something more along the lines of you being lazy."
+      ]
+    }
+  ]
+}

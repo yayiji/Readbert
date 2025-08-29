@@ -1,0 +1,56 @@
+{
+  "date": "1995-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you all to meet our new co-op employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't pay him.",
+        "He works for free to gain valuable job experience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm putting you in charge of the PTG project!",
+        "Wow! What is it?!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "PTG stands for \"Paper towel guy.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If somebody spills coffee it's your job to throw your body on it before it reaches one of us."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oops"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fire in the hole!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How'd I do?",
+        "Not so good, kid. That was tea."
+      ]
+    }
+  ]
+}

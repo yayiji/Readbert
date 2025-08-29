@@ -1,0 +1,35 @@
+{
+  "date": "1990-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why have you come to the embassy of the nutty radical country of Pingo-Pongo?",
+        "I want a job as a diplomat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why?",
+        "I'm trying to get in on the \"diplomatic immunity\" scam."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want to drive cars over people's lawns...",
+        "I want to fire automatic weapons in any direction!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ha ha ha ha ha!!",
+        "I want to throw Jello at politicians!",
+        "How do we know we could trust you?",
+        "Sir! I am insulted by your question!"
+      ]
+    }
+  ]
+}

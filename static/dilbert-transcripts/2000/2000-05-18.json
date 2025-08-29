@@ -1,0 +1,25 @@
+{
+  "date": "2000-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Vp stalks alice",
+        "I brought you a bouquet, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a bunch of pencils, not a flower bouquet.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I use your phone? I need to fire my secretary."
+      ]
+    }
+  ]
+}

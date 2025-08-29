@@ -1,0 +1,26 @@
+{
+  "date": "1992-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can only speculate why aliens keep abducting people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They often probe people's body cavities.",
+        "Sometimes they implant small objects.",
+        "It must be some form of highly advanced medical research."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about another round of \"hide the pellet\"?",
+        "Okay. I can use my nose prober."
+      ]
+    }
+  ]
+}

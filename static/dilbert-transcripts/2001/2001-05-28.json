@@ -1,0 +1,24 @@
+{
+  "date": "2001-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'd like you to meet Incredulous Ed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No matter what question you ask him, he'll react as if you're inventing words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a family?",
+        "Do I have a what??"
+      ]
+    }
+  ]
+}

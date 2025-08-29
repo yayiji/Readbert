@@ -1,0 +1,23 @@
+{
+  "date": "1998-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Initiate launch sequence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have liftoff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I keep waiting for this to seem like a bad idea."
+      ]
+    }
+  ]
+}

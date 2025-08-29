@@ -1,0 +1,24 @@
+{
+  "date": "1999-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you to meet the little stubborn dumb guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If for any reason I cannot fulfill my duty to thwart your project, the L.S.D.G. will take over for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes you will!!",
+        "No, I won't."
+      ]
+    }
+  ]
+}

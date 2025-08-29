@@ -1,0 +1,25 @@
+{
+  "date": "1998-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Performance review",
+        "Alice, I had to ding you for not keeping me informed about your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I take a peek at your computer?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have twelve thousand unread messages.",
+        "Well, it's a little late for that now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it possible that you're prejudiced against rats because you once had a bad experience with a rat?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just out of curiosity, what would be a good experience with a rat?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I believe I've been insulted!",
+        "That was kind of a good experience."
+      ]
+    }
+  ]
+}

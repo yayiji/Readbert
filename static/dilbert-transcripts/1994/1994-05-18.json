@@ -1,0 +1,26 @@
+{
+  "date": "1994-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, would you like to be on my \"TTP\" project?",
+        "What does \"TTP\" stand for?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's short for the TTP project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I named it myself...",
+        "So, do you want to join?",
+        "I'd rather be your arch nemesis."
+      ]
+    }
+  ]
+}

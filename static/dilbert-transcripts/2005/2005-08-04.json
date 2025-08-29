@@ -1,0 +1,31 @@
+{
+  "date": "2005-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Police negotiator",
+        "Surrender now and you won't get hurt!!!",
+        "\\/\\/"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here he comes.",
+        "Bam",
+        "Bam",
+        "Bam"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll leave an evaluation form.",
+        "Please let us know how we're doing!",
+        "\\/\\/",
+        "Done deal."
+      ]
+    }
+  ]
+}

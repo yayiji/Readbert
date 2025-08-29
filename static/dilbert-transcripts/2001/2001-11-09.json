@@ -1,0 +1,25 @@
+{
+  "date": "2001-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to have a \"town hall\" meeting to improve communication."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it's not in an actual town hall.",
+        "And I'll have questions in advance, so it's not a meeting per se."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who do we give our questions to?",
+        "I think you'll find that it doesn't matter."
+      ]
+    }
+  ]
+}

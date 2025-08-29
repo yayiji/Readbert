@@ -1,0 +1,56 @@
+{
+  "date": "2005-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, the new manager hasn't hired an admin, so I said he could share you.",
+        "What?!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm drowning in work, and you want to double my load???!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's no big deal. Just prioritize your work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And I need you to fax this.",
+        "No can do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My top priority is getting the new guy all set up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hmm... I guess that's fair.",
+        "I'll send him over."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I can't order your business cards; I need to do a huge faxing project!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hee hee! Marmaduke is sitting on something again!"
+      ]
+    }
+  ]
+}

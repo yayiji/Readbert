@@ -1,0 +1,28 @@
+{
+  "date": "2002-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Zzzzz",
+        "Click",
+        "Click",
+        "Send"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Marketing",
+        "Someone named Wally is telling us to launch the new product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or it might say to eat lunch with a penguin. It has a few typos.",
+        "I already ate, so let's do the other thing."
+      ]
+    }
+  ]
+}

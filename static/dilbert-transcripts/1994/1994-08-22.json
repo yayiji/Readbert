@@ -1,0 +1,25 @@
+{
+  "date": "1994-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only way to finish the project on time is by adding four engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's one other option. You could make menacing statements about Dilbert's job security until he works five times as hard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just kidding.",
+        "Hee hee!",
+        "I've been thinking about reducing headcount."
+      ]
+    }
+  ]
+}

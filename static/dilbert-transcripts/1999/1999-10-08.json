@@ -1,0 +1,24 @@
+{
+  "date": "1999-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As a leader, I must listen to my customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are you hearing from our customers?",
+        "Not a peep."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our customers are defective."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2001-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our industry is in a slump. We need to make changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our current management style could be described as paternal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our new management style doesn't have a name yet.",
+        "Ooh ooh!",
+        "I have a suggestion."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The new management style could be called \"We hate our employees.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Not bad."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I need a volunteer to help with our \"Back to the nineties\" kick-off.",
+        "How is this like the nineties?",
+        "Stop wiggling!"
+      ]
+    }
+  ]
+}

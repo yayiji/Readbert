@@ -1,0 +1,37 @@
+{
+  "date": "2000-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on,",
+        "all teams will be",
+        "formed on the",
+        "basis of Myers-",
+        "Briggs personality",
+        "types."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you do not",
+        "have a person-",
+        "ality, one will",
+        "be assigned to",
+        "you by human",
+        "resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need a quiet",
+        "dumb guy to",
+        "pair with an",
+        "extroverted",
+        "thinker."
+      ]
+    }
+  ]
+}

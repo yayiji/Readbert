@@ -1,0 +1,24 @@
+{
+  "date": "1990-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wonder if Dogbert is enjoying his sky diving lessons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Crash!",
+        "Whump!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boy... no wonder they only charge six bucks."
+      ]
+    }
+  ]
+}

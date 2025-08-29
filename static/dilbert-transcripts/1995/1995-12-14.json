@@ -1,0 +1,26 @@
+{
+  "date": "1995-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wait-a-minute...",
+        "I'm starting to realize something."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My job title is senior associate, yet I spend my time doing clerical work... and unless I'm mistaken, I'm the lowest paid employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this a bad time?",
+        "Aaagh!!",
+        "I'm a secretary!"
+      ]
+    }
+  ]
+}

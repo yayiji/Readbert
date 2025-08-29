@@ -1,0 +1,56 @@
+{
+  "date": "1995-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We desperately need another person on my project!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're already over headcount. Get a contract employee.",
+        "Okay, but they cost twice as much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Plus we need to buy a computer.",
+        "Rent one. We're over our capital budget."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Renting is expensive. We'll go over our expense budget.",
+        "I'll fire Wally. That will free up some cash."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wally's on my project!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Forget it! I'll just work sixteen hours a day!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That worked out perfectly. I think I might be a genius or something."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wonder if I should have told him the project was cancelled last week."
+      ]
+    }
+  ]
+}

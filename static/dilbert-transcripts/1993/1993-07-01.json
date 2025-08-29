@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My patent will make fifty million dollars for the company, so I thought maybe you could afford to give me a raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unfortunately, the profit bucket is not connected to the budget bucket, so there's no money for a raise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think some recognition of a job well-done is appropriate here.",
+        "Thanks. It was one of my better excuses."
+      ]
+    }
+  ]
+}

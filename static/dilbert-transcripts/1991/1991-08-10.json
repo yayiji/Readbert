@@ -1,0 +1,25 @@
+{
+  "date": "1991-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate it when my dog just stares at me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is he plotting?",
+        "Does he know something I don't?",
+        "What is it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogs don't like to talk about it, but the instinct to look up people's noses is very strong."
+      ]
+    }
+  ]
+}

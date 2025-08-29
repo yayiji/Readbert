@@ -1,0 +1,24 @@
+{
+  "date": "2001-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have discovered the cause of our network outages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some idiot is using our network room for meetings and unplugging the server because it's too noisy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A server is like a waitress, right?",
+        "Yeah, a noisy one."
+      ]
+    }
+  ]
+}

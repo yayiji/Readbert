@@ -1,0 +1,57 @@
+{
+  "date": "2001-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, take this list of key employees to Catbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see my name on here.",
+        "Should I write it in?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...no.",
+        "You're not a key employee."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What?! Are you insane?!!",
+        "If I'm not key, who is?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do you think this list can walk to the H.R. department on its own?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, I could put it in an inter-office envelope and mail it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Basically, you have the same job as an envelope."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why do I need to down-size these employees?",
+        "Because they're funky, just like it says."
+      ]
+    }
+  ]
+}

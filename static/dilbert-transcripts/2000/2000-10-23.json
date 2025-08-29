@@ -1,0 +1,23 @@
+{
+  "date": "2000-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the...?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You still work here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's gonna take a bite out of my productivity."
+      ]
+    }
+  ]
+}

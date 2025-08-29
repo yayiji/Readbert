@@ -1,0 +1,28 @@
+{
+  "date": "1992-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Brett, what do you have there?",
+        "Hydrogen bomb!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Be careful.",
+        "You could kill people with that thing.",
+        "Really?",
+        "Cool!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a great suggestion!",
+        "I've done better..."
+      ]
+    }
+  ]
+}

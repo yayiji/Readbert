@@ -1,0 +1,23 @@
+{
+  "date": "2007-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of your e-mails this week were marked as highest priority."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I spent the entire week working on the first one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next week I plan to continue not feeding the squirrels by the east entrance."
+      ]
+    }
+  ]
+}

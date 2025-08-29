@@ -1,0 +1,27 @@
+{
+  "date": "1991-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're under arrest for killing a senior executive of your company with an ear of corn."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It... it was self-defense!",
+        "He started the food fight!",
+        "I had just seasoned my corn...",
+        "It was in my hand...",
+        "It was just a reflex!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The charge is \"A salt and buttering with intent to kill\""
+      ]
+    }
+  ]
+}

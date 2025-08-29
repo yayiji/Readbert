@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lately, I've been feeling a lot of pressure to do work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, do you realize this is your job?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There - that's exactly what I'm talking about."
+      ]
+    }
+  ]
+}

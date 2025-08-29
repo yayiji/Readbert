@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm predicting that the world will end in the year 2000."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The creator of the universe works in mysterious ways.",
+        "But he uses a base ten counting system and likes round numbers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you really want to avoid being, let's say, in mobile home number 1,000,000 in the year 2000.",
+        "I'm feeling anxiety."
+      ]
+    }
+  ]
+}

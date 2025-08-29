@@ -1,0 +1,25 @@
+{
+  "date": "1999-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wish we could wear jeans at work.",
+        "I'm wearing jeans right now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wear my work pants over the jeans so no one will know how comfortable I am."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why does Wally's butt look so good today?",
+        "I'm sworn to secrecy."
+      ]
+    }
+  ]
+}

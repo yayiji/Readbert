@@ -1,0 +1,25 @@
+{
+  "date": "1995-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's amazing how much we've changed since prehistoric times."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our ancestors just sat around in caves, grunting and drawing on the wall.",
+        "Not very productive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was just this, all day long.",
+        "Mmm. Yup."
+      ]
+    }
+  ]
+}

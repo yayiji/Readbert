@@ -1,0 +1,59 @@
+{
+  "date": "2003-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for testing my new invention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If this thing works, it will change forever the way that mothers use the telephone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We've been on the phone for half a minute.",
+        "The noise should start at any moment."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Here it comes.",
+        "Hey! What are you doing on the phone?!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can I eat ten cookies?",
+        "I think my arm is broken!",
+        "Where's my toy?!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Waaaaa!",
+        "Aaaaaa!",
+        "Aaaa!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now press the toddler noise cancellation button."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It stopped the noise, but you need to do something about the visual."
+      ]
+    }
+  ]
+}

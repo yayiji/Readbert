@@ -1,0 +1,25 @@
+{
+  "date": "2006-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet your new coworker, Mister Serdecisions.",
+        "Call me Lou."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you cover for me tomorrow while I put shelf paper in my kitchen cabinets?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tomorrow is our project kickoff meeting.",
+        "Good lord, man! I can't put dishes on wood?"
+      ]
+    }
+  ]
+}

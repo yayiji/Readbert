@@ -1,0 +1,23 @@
+{
+  "date": "2001-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to move you to another cubicle but my office moving budget is shot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I'm going to transfer you to Elbonia and then back so I can use the relocation budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He says the reloca- tion budget is shot but you can mail yourself home."
+      ]
+    }
+  ]
+}

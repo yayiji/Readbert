@@ -1,0 +1,27 @@
+{
+  "date": "2007-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Jeff, the human ashtray",
+        "Watch out for that hole in the ground!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not a hole.",
+        "It's just a dark spot on the floor from some of your ash falling there.",
+        "Oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell the difference between my ash and a hole in the ground.",
+        "Dilbert, did you meet your new boss?"
+      ]
+    }
+  ]
+}

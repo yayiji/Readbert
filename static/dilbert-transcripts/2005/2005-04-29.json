@@ -1,0 +1,31 @@
+{
+  "date": "2005-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just disable the local cache mode to fix the MAPI settings, and delete the duplicate messaging sub-system registry key."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if I don't understand anything you said right then?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good grief!",
+        "I can't make it any simpler!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gaaa!!!",
+        "It's funny because it's cruel."
+      ]
+    }
+  ]
+}

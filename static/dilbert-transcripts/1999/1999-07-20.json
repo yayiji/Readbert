@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Reorganizing didn't work.",
+        "We're going to try something new."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Synergistic realignment!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did I tell you about doing \"the wave\"?",
+        "I got swept up in the emotion."
+      ]
+    }
+  ]
+}

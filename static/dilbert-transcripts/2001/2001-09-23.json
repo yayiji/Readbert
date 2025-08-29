@@ -1,0 +1,59 @@
+{
+  "date": "2001-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've created a schematic of office politics in my company.",
+        "Nicely done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's say I want to ruin Ted's career..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could say bad things to Tina about Ted. Tina carpools with Ming and Ming takes yoga classes with Carol."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And Carol is a secretary for Ted's boss, so Ted would be history."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Of course it wouldn't be ethical to test the system.",
+        "Unless..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...You use the Phil-Alice-Larry circuit to get Ted rehired.",
+        "Yup yup."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...And that's why Ted is worthless.",
+        "Hey, where's Phil today?",
+        "He quit."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why do I listen to you?",
+        "Because of a little thing I call charisma."
+      ]
+    }
+  ]
+}

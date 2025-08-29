@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I convinced my boss to let me telecommute.",
+        "How?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, technically, I called in sick, which comes out of my time bank for total days off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, technically, I'm working for nothing, but I'm ahead in principle.",
+        "Way ahead, now that stupidity is a principle."
+      ]
+    }
+  ]
+}

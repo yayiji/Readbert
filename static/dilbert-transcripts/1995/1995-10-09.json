@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll succeed if we understand who our competitors really are!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My competition is Dilbert and Alice, with whom I compete for salary increases and rare promotion opportunities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I meant our external competition.",
+        "Tell me again what we make.",
+        "No raise for you, idiot boy."
+      ]
+    }
+  ]
+}

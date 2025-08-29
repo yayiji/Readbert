@@ -1,0 +1,23 @@
+{
+  "date": "2005-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations, Alice. You're one of my two candidates for a promotion to management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The other candidate has no qualifications except for his manager-sounding voice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And he doesn't make that face."
+      ]
+    }
+  ]
+}

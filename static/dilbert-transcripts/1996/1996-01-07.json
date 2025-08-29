@@ -1,0 +1,57 @@
+{
+  "date": "1996-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do I have a feeling of impending doom?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good news!",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You won't have to spend another lonely day in this tiny cubicle."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm getting an office?",
+        "Better! You're getting a roommate!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why??? We've got plenty of empty cubicles! Our company owns the whole building!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The finance department charges my budget for the square footage we use."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's a false savings! You're hurting the company!",
+        "All I hear is a faint buzzing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Oh, well. How bad could it be?",
+        "I hope you like baked beans and square-dancing as much as I do!"
+      ]
+    }
+  ]
+}

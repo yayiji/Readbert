@@ -1,0 +1,24 @@
+{
+  "date": "1995-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're announcing two new programs for employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The first is a new dignity enhancement program and the second is our new random drug testing initiative."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The clue meter is reading zero.",
+        "You each get a handsome coffee mug as part of the kick-off."
+      ]
+    }
+  ]
+}

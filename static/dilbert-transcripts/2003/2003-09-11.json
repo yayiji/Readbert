@@ -1,0 +1,25 @@
+{
+  "date": "2003-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In only one week my project team has created a time line and identified the resources we need."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Next week, we plan to revise the time line and re-examine our resource needs.",
+        "Good work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There must be a thousand ways to say I haven't done anything.",
+        "Wait..."
+      ]
+    }
+  ]
+}

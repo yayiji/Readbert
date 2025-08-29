@@ -1,0 +1,24 @@
+{
+  "date": "1993-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a seminar that will teach fire-walking as a way to build confidence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each of you will have to walk barefoot over burning coals while I watch!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But amazingly, we learn how to do it without injury, right?",
+        "No, that seminar costs a lot more."
+      ]
+    }
+  ]
+}

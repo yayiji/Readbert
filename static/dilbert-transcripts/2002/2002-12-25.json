@@ -1,0 +1,23 @@
+{
+  "date": "2002-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got an award!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The 'family-haters association' is proud to give you this award for your anti-family practices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope no one reads it."
+      ]
+    }
+  ]
+}

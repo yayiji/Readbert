@@ -1,0 +1,23 @@
+{
+  "date": "1994-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We could have our next all-day staff meeting at my house."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have actual furniture?",
+        "Somebody will have to sit in the bathroom.",
+        "I call bathroom."
+      ]
+    }
+  ]
+}

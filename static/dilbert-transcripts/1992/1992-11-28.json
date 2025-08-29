@@ -1,0 +1,27 @@
+{
+  "date": "1992-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The roof is leaking there.",
+        "Can you fix it tomorrow?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, like all members of my profession, I'm unreliable.",
+        "However, I could give you a quote and then never show up or return your calls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're hired.",
+        "Nobody else would even show up for the quote.",
+        "I depend on repeat customers."
+      ]
+    }
+  ]
+}

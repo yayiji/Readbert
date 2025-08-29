@@ -1,0 +1,24 @@
+{
+  "date": "2002-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Quit staring. I overslept and now I have a bad case of bed hair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm confused.",
+        "Surely it would have gone back to normal after your shower."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please do not unleash the unhygienic fist of death!"
+      ]
+    }
+  ]
+}

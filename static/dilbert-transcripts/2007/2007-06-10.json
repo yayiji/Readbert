@@ -1,0 +1,54 @@
+{
+  "date": "2007-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is your plan consistent with our corporate strategy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How would I know?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't you know our strategy?",
+        "No. Do you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Of course I do. It's something about leveraging our platforms."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Does your plan leverage our platforms?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, but I can rewrite my plan so it seems as if it does."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Good. Go back and do that."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There's no point in having a strategy if you aren't going to pretend to follow it."
+      ]
+    }
+  ]
+}

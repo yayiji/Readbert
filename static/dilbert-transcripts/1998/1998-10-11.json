@@ -1,0 +1,55 @@
+{
+  "date": "1998-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's not enough to \"serve\" our customers..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We must delight them!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean we have to stop price-gouging?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, I think we can still do that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ooh ooh!",
+        "I know!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We could stop selling products with known defects."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm talking about customers, not products!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you feel like delighting customers?",
+        "I barely have the empathy to pity them."
+      ]
+    }
+  ]
+}

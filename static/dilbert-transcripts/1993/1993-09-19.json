@@ -1,0 +1,54 @@
+{
+  "date": "1993-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just arranged to have my body cryogenically frozen before my death."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In a hundred years I'll be revived and cured. That way, future generations will get the benefits of knowing me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you have a good warm coat."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Coat? Nobody said anything about needing a coat."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Obviously you need a coat. It's freezing in that cryogenic chamber. You'd better wear long underwear too."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Don't let them tell you otherwise. Remember, the customer is always right!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I want a space heater in there too!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That wasn't nice.",
+        "I did it for future generations."
+      ]
+    }
+  ]
+}

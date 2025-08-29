@@ -1,0 +1,24 @@
+{
+  "date": "1994-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I suddenly realized that my job performance reflects on your career."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The balance of power has shifted. Unless I get what I want, I'll lower my performance until you get fired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha! There's no way you could lower your job performance.",
+        "Curse your eyes!"
+      ]
+    }
+  ]
+}

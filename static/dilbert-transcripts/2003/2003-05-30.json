@@ -1,0 +1,23 @@
+{
+  "date": "2003-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new product brochures have already won design awards!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's great, but our product won't do any of the things you claim here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, who should we believe — the award-winning designer or the guy who can't stop complaining?"
+      ]
+    }
+  ]
+}

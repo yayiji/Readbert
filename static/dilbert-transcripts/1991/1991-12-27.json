@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm using a new system for evaluating my dates.",
+        "I just check off boxes on this card throughout the night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There... I just dinged you a point for that nervous twitch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you say your head is more like a block or a bucket?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At long last, I finalized the budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is the budget for last year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop making it sound annual."
+      ]
+    }
+  ]
+}

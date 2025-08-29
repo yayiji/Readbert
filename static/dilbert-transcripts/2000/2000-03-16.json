@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's normal to have stress when a merger is pending."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Merger? What merger?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There I go again!"
+      ]
+    }
+  ]
+}

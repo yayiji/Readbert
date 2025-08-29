@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you the troll that handles our payroll system?",
+        "I have a problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Problems are handled by our automated sadistic phone system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For tech support, press the exact value of 22 divided by 7."
+      ]
+    }
+  ]
+}

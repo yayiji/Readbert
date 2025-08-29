@@ -1,0 +1,54 @@
+{
+  "date": "2007-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO's son is joining the department as an intern."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to be his mentor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by mentor, I mean don't let the little spy learn anything about us."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If he finds out what we do, he'll tell his dad we're doing it wrong."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Here's a list of compliments you can give him."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Tell him his assignment is to go someplace and study cool motorcycles."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If he asks more than three questions, kill him."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Where's my desk?",
+        "That's one."
+      ]
+    }
+  ]
+}

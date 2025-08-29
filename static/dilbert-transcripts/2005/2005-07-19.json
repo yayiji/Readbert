@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Elbonians are demanding bribes, or else they won't do business with us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hire them as over-paid consultants and don't ask them for anything. That way, it's all legal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by legal you mean won't get caught?",
+        "Po-tay-to, po-tah-to."
+      ]
+    }
+  ]
+}

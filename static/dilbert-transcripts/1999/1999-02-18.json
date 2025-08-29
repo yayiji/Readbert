@@ -1,0 +1,25 @@
+{
+  "date": "1999-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Anyone who takes more than thirty minutes for lunch is unprofessional."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's still too long!",
+        "I say you're unprofessional after six minutes!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a little too professional, Wally.",
+        "Death to those who eat!"
+      ]
+    }
+  ]
+}

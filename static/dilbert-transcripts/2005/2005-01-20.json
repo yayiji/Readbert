@@ -1,0 +1,25 @@
+{
+  "date": "2005-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina trains her boss",
+        "You'll find me in this chair, doing real work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job, as I understand it, is to make uninformed decisions and act like a sociopathic egomaniac."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll usually stand like this.",
+        "I also like to fidget and harrumph."
+      ]
+    }
+  ]
+}

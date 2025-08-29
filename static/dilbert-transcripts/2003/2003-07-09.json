@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you see anyone violating the new corporate code of ethics, report it immediately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to report our senior management for telling us to ship products that we know are defective."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes. I will take care of that.",
+        "Oooh! Oooh! Lying!!! I report you!!! \\||"
+      ]
+    }
+  ]
+}

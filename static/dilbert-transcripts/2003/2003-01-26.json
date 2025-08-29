@@ -1,0 +1,54 @@
+{
+  "date": "2003-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, come here for a minute."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to talk to you about...",
+        "Ring ring"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's giving me the \"wait signal."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have nothing to look at, nothing to fiddle with, nothing to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll try thinking about how my mind controls my muscles."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Uh-oh... I'm getting too conscious of my muscles and it's freaking me out."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! I've lost my mind-body connection!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The problem with engineers is that they don't idle well."
+      ]
+    }
+  ]
+}

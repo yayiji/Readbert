@@ -1,0 +1,25 @@
+{
+  "date": "2003-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we married, would you mind being a stay-at-home father?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I love children.",
+        "That would be a very rewarding lifestyle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, now imagine that there aren't any kids, and you're basically my unpaid servant.",
+        "Could I iron?"
+      ]
+    }
+  ]
+}

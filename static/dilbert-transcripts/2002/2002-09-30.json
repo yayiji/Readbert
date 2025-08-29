@@ -1,0 +1,24 @@
+{
+  "date": "2002-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to integrate our sales database with our inventory and finance systems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The managers of those systems are a nitwit, an ogre, and a $#!%, respectively."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And they know that two of them will be fired when it's complete.",
+        "I can get that done in thirty years."
+      ]
+    }
+  ]
+}

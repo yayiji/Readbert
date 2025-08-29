@@ -1,0 +1,23 @@
+{
+  "date": "2004-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO is giving a speech at the conference you're attending."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask his secretary if you can save money by riding together on the corporate jet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He doesn't want to inhale anything you've exhaled."
+      ]
+    }
+  ]
+}

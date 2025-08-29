@@ -1,0 +1,55 @@
+{
+  "date": "1993-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you're part of the company \"right sizing\" program, effective today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you! It's nice to get positive feedback from the boss!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not feedback. I'm saying your position has been \"management adjusted.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sounds great! Is there a raise involved?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Listen to me!! You're part of \"manager attrition\" starting right now!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wow! Is that the fast-track program for managers?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I heard that Ted got picked for the \"manager attrition\" program.",
+        "Why not us?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So unless you put us on the \"manager attrition\" program too, we quit!",
+        "There's never a flamethrower handy when you need it."
+      ]
+    }
+  ]
+}

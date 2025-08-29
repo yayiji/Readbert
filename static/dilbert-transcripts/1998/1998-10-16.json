@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, it's time to groom you for management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see too many bugs in your fur.",
+        "Can you lick the top of your own head?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I can't.",
+        "Then you can't be a manager."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the network systems administrator",
+        "Wally, did you know your e-mail system isn't private?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've compiled a binder with all of your off-color humor, unkind references to co-workers, naughty propositions, and admissions of theft."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where is this heading?",
+        "I'd like you to sing that question while hopping on one foot."
+      ]
+    }
+  ]
+}

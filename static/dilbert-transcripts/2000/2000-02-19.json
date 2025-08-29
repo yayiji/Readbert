@@ -1,0 +1,26 @@
+{
+  "date": "2000-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I created a prison morse code so we can communicate during the day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tap your secret messages on the cubicle wall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tap",
+        "Tap",
+        "Tap",
+        "I sent you email."
+      ]
+    }
+  ]
+}

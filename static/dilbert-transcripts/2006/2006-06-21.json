@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to work this weekend.",
+        "There's no work to do. I'm waiting for input."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That doesn't matter. Strong leaders make their people work on weekends."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then he asked me what the clueless leaders do, as if I would know that."
+      ]
+    }
+  ]
+}

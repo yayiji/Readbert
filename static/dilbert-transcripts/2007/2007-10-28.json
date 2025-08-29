@@ -1,0 +1,60 @@
+{
+  "date": "2007-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My brain is empty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It feels great!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stress is just another word for knowledge."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wait a minute.",
+        "How do I know that?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Gaaa!!!",
+        "Something got past the filters!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Must... do...",
+        "Mantra..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Lindsay Lohan...",
+        "Britney Spears...",
+        "Paris Hilton...",
+        "Ommmm."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you all good now?",
+        "Have we met?"
+      ]
+    }
+  ]
+}

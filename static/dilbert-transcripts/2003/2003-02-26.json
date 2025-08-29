@@ -1,0 +1,30 @@
+{
+  "date": "2003-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How often would you charge us this \"annual fee\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that a joke?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sadly, no."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Once a month.",
+        "Sounds fair."
+      ]
+    }
+  ]
+}

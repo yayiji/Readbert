@@ -1,0 +1,23 @@
+{
+  "date": "2007-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a job opening for an engineer in research and development!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a chance to escape the mis-managed futility of my current job and live the dream!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, there's an opening for a new manager of research and development!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2002-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all weekend to get the bugs out of the database."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But now the data make us look bad.",
+        "Put back the bugs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you teach me to be apathetic like you?",
+        "Only if you have a strong desire not to learn."
+      ]
+    }
+  ]
+}

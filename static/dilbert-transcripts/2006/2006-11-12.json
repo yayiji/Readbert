@@ -1,0 +1,54 @@
+{
+  "date": "2006-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before you energize my team with your proposal, let me introduce everyone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is Wally. He'll show no reaction because he hopes apathy will kill your idea before it creates work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is Alice. She'll leave halfway through your presentation to take a phone call."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This is Asok. He'll be enthusiastic because he doesn't understand how the real world works."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This is Dilbert. He'll tell you why your idea is impossible."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This is Carol. She'll spend the entire meeting wondering if that's your real hair."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And this is Ted. He gave his two-weeks notice last week."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And I like to keep my eyes closed the entire time because of my allergies.",
+        "Go."
+      ]
+    }
+  ]
+}

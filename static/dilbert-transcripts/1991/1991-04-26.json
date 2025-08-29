@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was attacked by a UFO.",
+        "They warned me not to talk about the circles they leave in wheat fields."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zzzt!",
+        "Zap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then they said \"or else.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our safety department has tested our drinking water and found no problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then why do you only drink bottled water?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because that's what the safety department drinks."
+      ]
+    }
+  ]
+}

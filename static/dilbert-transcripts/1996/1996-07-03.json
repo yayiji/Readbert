@@ -1,0 +1,24 @@
+{
+  "date": "1996-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My quality assurance review of your beta product turned up a few bugs, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've classified the bugs by severity: 1) Lethal, 2) Boneheaded, 3) Vexing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I see are lethal and vexing. Where's boneheaded?",
+        "I'm trying to rent a stadium to hold the printout."
+      ]
+    }
+  ]
+}

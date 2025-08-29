@@ -1,0 +1,23 @@
+{
+  "date": "2007-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert moving company to handle your relocation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It saves us money because they only send one huge guy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "After you load your couch on the truck, make me another sandwich or, again, I'll kill you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1992-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You joined what?",
+        "Mensa. It's a group of people with genius IQs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm hoping it will be a good way to network and enhance my career."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I heard you joined our Mensa group... I hope you can make it to the career expo."
+      ]
+    }
+  ]
+}

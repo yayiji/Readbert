@@ -1,0 +1,55 @@
+{
+  "date": "1993-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You remind me of my old boyfriend Jack."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not as funny or as handsome..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you are male, and that's just like Jack."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can wait this out. She'll stop talking about him eventually."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oooooh... Jack, Jack, Jack, Jack, Jack..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oops... I slipped into an \"old boyfriend coma\" for a minute there."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That wasn't too bad.",
+        "Are you ready to order?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It should be clear sailing from here on, with any luck at all.",
+        "Jack?"
+      ]
+    }
+  ]
+}

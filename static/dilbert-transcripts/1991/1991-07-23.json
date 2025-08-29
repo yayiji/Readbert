@@ -1,0 +1,26 @@
+{
+  "date": "1991-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What makes you think you can win the stand-up comedy competition?",
+        "It's just a matter of writing good jokes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's one: \"Why do women go to the restroom in pairs?\"",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because they're stapled to the chicken! Hee-hee!",
+        "It's been nice knowing you."
+      ]
+    }
+  ]
+}

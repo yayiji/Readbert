@@ -1,0 +1,67 @@
+{
+  "date": "2005-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good evening.",
+        "This is the Dogbert easy news channel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We bring you all the news that's easy to gather."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today's top story is about something that was first reported in a newspaper and later read by me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People in other countries want to kill us.",
+        "The rest of the article is mostly names I can't pronounce."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We thought about asking them why they want to kill us, but they don't have phones."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So here's the next best thing: a debate between two middle-aged white guys who also don't know why people want to kill us."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "They hate us because we are so wonderful."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Buy my book or you will all die!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Next on easy news, our panelists will discuss dumb crooks who keep getting stuck in chimneys."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Excellent."
+      ]
+    }
+  ]
+}

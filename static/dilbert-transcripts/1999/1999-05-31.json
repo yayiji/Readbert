@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "But then I...",
+        "Excuse me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does your story ever end? Or must I purchase your silence with my fist of death?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might have to go to a two-warning system."
+      ]
+    }
+  ]
+}

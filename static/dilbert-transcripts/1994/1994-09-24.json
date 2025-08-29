@@ -1,0 +1,26 @@
+{
+  "date": "1994-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I filled out the confidential questionnaire about your style of management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope it's useful for that management class you're taking.",
+        "Only your instructor sees those, right?",
+        "Right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I played that about right.",
+        "Ooh, good marks! And it says he trusts me too!"
+      ]
+    }
+  ]
+}

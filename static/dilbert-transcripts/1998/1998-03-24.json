@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can replace your cubicles with \"personal habitats.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They look exactly like cubicles, but we've made huge advances in what they're called.",
+        "Is it expensive?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If money is an issue, you could start with the \"hellhole junior\" model and upgrade later.",
+        "Do you have pictures?"
+      ]
+    }
+  ]
+}

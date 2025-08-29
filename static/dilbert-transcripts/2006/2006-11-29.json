@@ -1,0 +1,23 @@
+{
+  "date": "2006-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We might need to restate our earnings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It turns out that we're not allowed to make up numbers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know that \"frillion\" isn't an actual number?"
+      ]
+    }
+  ]
+}

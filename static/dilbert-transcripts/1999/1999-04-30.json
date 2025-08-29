@@ -1,0 +1,23 @@
+{
+  "date": "1999-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's been a rash of thefts from cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The suspect is described as fat and slow-witted, with pointy hair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The bulletin stops short of actually naming her Alice."
+      ]
+    }
+  ]
+}

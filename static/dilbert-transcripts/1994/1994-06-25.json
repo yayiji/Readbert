@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can tell that you like me because you don't quite know what to do with your hands."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To test my hypothesis I will hold this hand and observe the change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The \"control\" hand remains limp and clammy. Its twin loses control.",
+        "Hypothesis confirmed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gee, Tim, you look awful.",
+        "I've been working for five days without any sleep to finish this report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At first I had a mental block. But on the fourth day I was visited by an Incan monkey god who told me what to write."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow, lucky break.",
+        "Now I just have to find somebody who can translate his simple but beautiful language."
+      ]
+    }
+  ]
+}

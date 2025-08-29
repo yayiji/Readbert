@@ -1,0 +1,24 @@
+{
+  "date": "1996-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's get one thing straight before we start writing the department newsletter..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm an experienced technical writer. You are an intern and a rat, respectively. Therefore I will be the editor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no skills whatsoever. Therefore I'll be executive editor.",
+        "Is \"publisher\" taken?"
+      ]
+    }
+  ]
+}

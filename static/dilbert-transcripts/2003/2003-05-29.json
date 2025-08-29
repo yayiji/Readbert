@@ -1,0 +1,26 @@
+{
+  "date": "2003-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ring",
+        "Ring",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Emergency, you say?",
+        "Crisis?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm losing my faith in coincidences."
+      ]
+    }
+  ]
+}

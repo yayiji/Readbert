@@ -1,0 +1,54 @@
+{
+  "date": "2006-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my benchmark tests, our product is the worst one on the market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you can tweak the numbers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fake them?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Fake is such an ugly word."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just remember that your next raise depends on the sales of that product."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And mistakes happen. A decimal place can be either here or there."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All I'm asking is that you do the tests again...",
+        "While drinking."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I always wondered what job satisfaction felt like."
+      ]
+    }
+  ]
+}

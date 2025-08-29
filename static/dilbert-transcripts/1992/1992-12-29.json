@@ -1,0 +1,28 @@
+{
+  "date": "1992-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I notice that all you have is a pager and a calculator watch.",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's pathetic compared to my vast array of personal electronics.",
+        "Do you yield to my technical superiority?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When a male engineer challenges another for dominance of the pack, there is a brief ritualistic battle rarely seen by outsiders.",
+        "Stay back, I've got a compass!!",
+        "Wireless fax!",
+        "Aagh!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our executives have started their annual strategic planning sessions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This involves sitting in a room with inadequate data until an illusion of knowledge is attained."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then we'll reorganize, because that's all we know how to do!",
+        "Have you tried it with a magazine?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1995-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come to the dark side, Dilbert. Renounce engineering and become a manager.",
+        "Never!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your technical knowledge is getting stale.",
+        "You're becoming a generalist... take the easy path."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I brought you a suite of applications that all work together.",
+        "That's unnatural!!!",
+        "Be gone!!!"
+      ]
+    }
+  ]
+}

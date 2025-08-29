@@ -1,0 +1,27 @@
+{
+  "date": "1993-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take Bob with you, Noriko.",
+        "You'll need help saving the planet for your generation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a black belt in karate.",
+        "What skills do you bring to the party?",
+        "Wedgies, mostly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not as menacing as karate, but you have to love the expressions on their faces.",
+        "Turn him this way."
+      ]
+    }
+  ]
+}

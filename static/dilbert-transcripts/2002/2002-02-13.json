@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The tribunal of admin assistants has reached a decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert is not attractive enough to use the glass-walled conference room near the lobby."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I appeal?",
+        "Apparently not."
+      ]
+    }
+  ]
+}

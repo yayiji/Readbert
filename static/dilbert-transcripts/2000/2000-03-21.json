@@ -1,0 +1,25 @@
+{
+  "date": "2000-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Zzoop!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am you from the future.",
+        "Your time machine invention works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does my head get like that?",
+        "Stick a finger in this hole."
+      ]
+    }
+  ]
+}

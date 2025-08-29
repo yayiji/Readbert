@@ -1,0 +1,56 @@
+{
+  "date": "1993-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "Uh-oh, it's touchy-feely stuff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's going to happen to our department? The rumors are flying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What have you heard?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Rumor has it that flying lizards from the planet Zorb will buy the company."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They plan to turn the employees into giant corn dogs on sticks."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Don't worry about rumors. It's business as usual for now."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gulp",
+        "I think I handled that pretty well."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you sure this will impress the Zorbians?",
+        "I hear they like team players."
+      ]
+    }
+  ]
+}

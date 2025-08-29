@@ -1,0 +1,27 @@
+{
+  "date": "1999-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Webmistress Ming",
+        "You have a broken link.",
+        "I know, I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have a broken link.",
+        "I know, I know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The men are getting perverse pleasure from reporting my broken links.",
+        "Your graphics are slow, too."
+      ]
+    }
+  ]
+}

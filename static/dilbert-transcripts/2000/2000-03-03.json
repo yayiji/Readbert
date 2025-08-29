@@ -1,0 +1,25 @@
+{
+  "date": "2000-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, it's against company policy to date a skeleton you found in a closet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're just friends! I swear!",
+        "Eh!",
+        "Eh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's just as well; I think I chipped a tooth."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a typo in the budget spreadsheet... it's too late to fix it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We transferred one job to another group but accidentally kept the money and headcount."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So, we still pay you but you aren't allowed to do work.",
+        "This is the happiest day of my life."
+      ]
+    }
+  ]
+}

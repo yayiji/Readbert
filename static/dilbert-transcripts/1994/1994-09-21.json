@@ -1,0 +1,27 @@
+{
+  "date": "1994-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the trade show...",
+        "Uh-oh. A vendor is scanning me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm caught in a tractor beam!",
+        "Red alert! Red alert!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Losing life support systems...",
+        "Zzzz",
+        "...And it can even calculate fractions!"
+      ]
+    }
+  ]
+}

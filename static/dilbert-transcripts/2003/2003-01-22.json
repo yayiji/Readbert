@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your construction bid is the lowest, so I have to award you the job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When can your team of highly skilled craftsmen begin?",
+        "I'll call you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Day one: My ex-wife set my truck on fire."
+      ]
+    }
+  ]
+}

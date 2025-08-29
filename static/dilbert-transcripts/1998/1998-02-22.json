@@ -1,0 +1,56 @@
+{
+  "date": "1998-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy birthday, Alice!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was planning to get a gift..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But then I thought..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why not give the money to charity in Alice's name?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Really?",
+        "Which charity?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Umm... \"The United Society of poor people with major health problems.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...And Dilbert got me an ashtray, even though I don't smoke.",
+        "You don't?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They say this sort of thing builds team spirit.",
+        "It must be gradual."
+      ]
+    }
+  ]
+}

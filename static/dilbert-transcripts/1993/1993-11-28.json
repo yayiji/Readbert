@@ -1,0 +1,51 @@
+{
+  "date": "1993-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starving. Is there a meal on this flight?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's probably just a snack. The airline is cutting back on frills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you say \"snack,\" do you mean a small but well-balanced culinary experience?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's peanuts. We get nine peanuts apiece."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And a soda... but not a whole can, just a little cup... unless they cut back on that too."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now we just drink a soda ourselves and burp your seat number."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's actually kind of refreshing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our strategy is to grow revenue from new products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How obvious does an idea need to be before we'll stop calling it a strategy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And we plan to eliminate waste.",
+        "We'll miss you."
+      ]
+    }
+  ]
+}

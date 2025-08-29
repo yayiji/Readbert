@@ -1,0 +1,25 @@
+{
+  "date": "2006-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can do this feasibility analysis in two minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the worst idea in the world.",
+        "Numbers don't lie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our CEO loves the idea.",
+        "Luckily assumptions do lie."
+      ]
+    }
+  ]
+}

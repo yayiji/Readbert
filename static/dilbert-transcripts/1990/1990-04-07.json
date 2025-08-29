@@ -1,0 +1,23 @@
+{
+  "date": "1990-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The basic problem with your economy is that the only product you make is mud...",
+        "So?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nobody needs mud.",
+        "Who the heck is in charge of planning this economy, anyway?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

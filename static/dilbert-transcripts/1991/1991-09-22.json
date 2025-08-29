@@ -1,0 +1,54 @@
+{
+  "date": "1991-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "?",
+        "Howdy!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never seen a fish with legs.",
+        "I'm evolving into a higher life form."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That sounds like a lot of work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yeah... the hard part is finding a mate who isn't turned off by legs."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "With any luck, the kids will be mutants too."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm hoping they'll have arms but not look too much like Rodney Dangerfield."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "These legs are a natural advantage!",
+        "Oh, that's original."
+      ]
+    }
+  ]
+}

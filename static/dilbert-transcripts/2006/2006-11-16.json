@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, you were only supposed to document our project status, not rewrite the entire scope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our CEO loves the new project scope.",
+        "We'll expect you to do that without extra resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this a \"neener-neener\" situation or more of a \"who's your daddy\"?"
+      ]
+    }
+  ]
+}

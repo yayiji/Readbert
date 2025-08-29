@@ -1,0 +1,26 @@
+{
+  "date": "1997-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Analogy police",
+        "Open"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My boss said I was as important as a mink is to a mink coat.",
+        "That sounds fine to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But the mink dies.",
+        "I guess you won't be leaving a full fifteen percent tip."
+      ]
+    }
+  ]
+}

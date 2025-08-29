@@ -1,0 +1,51 @@
+{
+  "date": "1997-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This security system cost a fortune but it's worth it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put a camera in every room to deter any criminal activity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We may now go to the park knowing our fortress is protected."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't wait to show my kids what I do at work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can only think of one thing worse than having all of my stuff stolen."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And that is having some of it returned."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This thing is hideous in good light."
+      ]
+    }
+  ]
+}

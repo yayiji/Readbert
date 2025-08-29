@@ -1,0 +1,26 @@
+{
+  "date": "2001-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This will be your new motto..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dance like it hurts.",
+        "Love like you need money.",
+        "Work when people are watching."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't assign mottos to me.",
+        "You'd better read our contract."
+      ]
+    }
+  ]
+}

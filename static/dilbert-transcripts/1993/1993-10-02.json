@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So I knew it was either a layer three protocol error or else it was time to recalibrate the scope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! I'll avoid the obvious pun about D-channel packet addressing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think she's done with her knife.",
+        "I know. I lost three engineers this way."
+      ]
+    }
+  ]
+}

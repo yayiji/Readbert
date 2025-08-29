@@ -1,0 +1,23 @@
+{
+  "date": "2004-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Kudos to Ted for his suggestion to put motion sensors on the lights in the break room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hold it! I calculate that the energy savings are offset by the lost productivity of this meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We have to burn the plaque for heat just to break even."
+      ]
+    }
+  ]
+}

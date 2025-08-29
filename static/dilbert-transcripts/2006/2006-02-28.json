@@ -1,0 +1,28 @@
+{
+  "date": "2006-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I enrolled in a distance learning class to get my master's degree.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!",
+        "Gaaa!",
+        "Gaaa!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the online degree hard?",
+        "Not so much.",
+        "I'm taking my midterm exam as we speak."
+      ]
+    }
+  ]
+}

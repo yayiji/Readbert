@@ -1,0 +1,53 @@
+{
+  "date": "2004-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What? You have no accomplishments this month???"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What did you do for the past three months?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I spent much of that time correcting misconceptions that you gave to our customers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And I attended meetings with you to keep you from creating additional misconceptions."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I spent a month working on an objective that you forgot to tell me didn't matter."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I flew to the wrong city for a meeting because you confused Houston with Austin."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And I upgraded your home computer so you wouldn't have to pay someone to do it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Allow me to paraphrase: Blah, blah, blah, you didn't accomplish anything."
+      ]
+    }
+  ]
+}

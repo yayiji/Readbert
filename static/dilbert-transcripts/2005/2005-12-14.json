@@ -1,0 +1,25 @@
+{
+  "date": "2005-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "V.P. of engineering",
+        "Then I had the idea of saving money by combining our four databases."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excuse me. That was Alice's idea.",
+        "You said it was impossible, so she did it on her own time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carry on. I'll jump in if I notice any more errors."
+      ]
+    }
+  ]
+}

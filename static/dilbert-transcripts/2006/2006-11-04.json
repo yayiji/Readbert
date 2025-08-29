@@ -1,0 +1,23 @@
+{
+  "date": "2006-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to design our sales collateral."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The trick is to compare our product with things that are even worse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Prettier than a skunk sandwich and cooler than a hobo's mittens."
+      ]
+    }
+  ]
+}

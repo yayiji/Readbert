@@ -1,0 +1,25 @@
+{
+  "date": "1997-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't mention any problems when you do your presentation to senior management, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They might try to solve the problems during the meeting.",
+        "That would be a disaster."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As far as I can tell, every layer of management exists for the sole purpose of warning us about the layer above.",
+        "Are you saying they have a purpose?"
+      ]
+    }
+  ]
+}

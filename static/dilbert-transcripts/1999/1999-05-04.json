@@ -1,0 +1,26 @@
+{
+  "date": "1999-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Continue with your presentation while I take this quick call.",
+        "Ring ring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go ahead and ignore me, you vice presidential pile of stinkin' monkey...",
+        "Okay, bye."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Capital spending.",
+        "Look how small my phone is."
+      ]
+    }
+  ]
+}

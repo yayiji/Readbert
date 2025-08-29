@@ -1,0 +1,26 @@
+{
+  "date": "2007-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you have the highest salary in the department.",
+        "But don't tell anyone what it is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, you have the highest salary in the department.",
+        "But don't tell anyone what it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't believe I never thought of that before.",
+        "Yeah, especially since you're the highest paid manager."
+      ]
+    }
+  ]
+}

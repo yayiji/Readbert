@@ -1,0 +1,25 @@
+{
+  "date": "1990-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As your new supervisor, I want to discuss your career path."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're a secretary now, but what do you want to be in two years?",
+        "A famous actor... or maybe a doctor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... I don't think I can help you here...",
+        "Oh, right, but you'll expect me to work hard for you."
+      ]
+    }
+  ]
+}

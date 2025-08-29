@@ -1,0 +1,24 @@
+{
+  "date": "1992-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to host my own television show."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's called \"Dogbert's world of amazingly ignorant people.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course, I'll film you in shadows and alter your voice electronically.",
+        "That's very considerate."
+      ]
+    }
+  ]
+}

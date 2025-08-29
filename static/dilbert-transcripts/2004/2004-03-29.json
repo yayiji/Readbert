@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I plan to start my own television talk show."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll change my name to \"Doctor Dogbert\" so people think I'm qualified to call them lazy, immoral, fat morons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You already call people those names.",
+        "Yeah, but I want them to thank me for it."
+      ]
+    }
+  ]
+}

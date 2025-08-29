@@ -1,0 +1,24 @@
+{
+  "date": "1990-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can tell what my date is thinking by her body language."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Her body is telling me \"let's cuddle by a fireplace...\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"I'll get some firewood,\" she says...",
+        "Vrooom"
+      ]
+    }
+  ]
+}

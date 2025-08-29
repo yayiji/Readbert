@@ -1,0 +1,23 @@
+{
+  "date": "2005-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I don't know how to say this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need to lean up the process improvement process so I have to smartsize one resource."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. Usually it's just a figure of speech when people say, \"I don't know how to say this.\""
+      ]
+    }
+  ]
+}

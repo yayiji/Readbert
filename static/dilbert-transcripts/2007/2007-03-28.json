@@ -1,0 +1,24 @@
+{
+  "date": "2007-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just because my head is an ashtray, that doesn't mean I can't be a good manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask me any question and I will show you my managerial talent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The answer is six bags of potatoes!",
+        "May I ask the question first?"
+      ]
+    }
+  ]
+}

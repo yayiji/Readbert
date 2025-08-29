@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Profits are down, so we fired the sales department to reduce costs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This strategy heavily depends on people driving to our warehouse and begging for our products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think I should write a book?",
+        "I'd try reading one first."
+      ]
+    }
+  ]
+}

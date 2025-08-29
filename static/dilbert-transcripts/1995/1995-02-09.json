@@ -1,0 +1,27 @@
+{
+  "date": "1995-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On my fourth day of telecommuting I realize that clothes are totally unnecessary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Suddenly I am struck by a question: Why don't monkeys grow beards?",
+        "Hey!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I call a meeting to discuss the issue but attendance is low.",
+        "Issue one:",
+        "Monkey beards.",
+        "Let's go around the table and introduce ourselves."
+      ]
+    }
+  ]
+}

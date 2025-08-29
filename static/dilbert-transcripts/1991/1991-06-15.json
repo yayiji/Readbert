@@ -1,0 +1,24 @@
+{
+  "date": "1991-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been thinking about my goal of becoming the supreme ruler of earth..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know exactly how you feel. I once had a goal of growing a mustache... but it was beyond my grasp."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean, figuratively beyond my grasp. I could still reach my upper lip, you understand... but there was no reason to try.",
+        "Right, but back to me..."
+      ]
+    }
+  ]
+}

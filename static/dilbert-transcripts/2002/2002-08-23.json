@@ -1,0 +1,24 @@
+{
+  "date": "2002-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My morale sky-rocketed when I received my first-ever item of bulk mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have designated it \"WM1\" for \"Wally's Mail One\" and it shall remain forever unopened."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bulk mail is the same as junk mail.",
+        "Don't listen to his lies, WM1."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to have one more direct report and it will trigger an automatic promotion for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job is to be that employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's it feel to be part of the team?",
+        "Not as special as I'd hoped."
+      ]
+    }
+  ]
+}

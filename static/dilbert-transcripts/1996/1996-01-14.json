@@ -1,0 +1,54 @@
+{
+  "date": "1996-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to have a little talk..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You told me to finish my project in a week but it's taken two months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This doesn't look good for your ability to estimate resource requirements."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Frankly, it's not much of an endorsement of your leadership either. I was uninspired the whole time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And don't even get me started about your incompetence at budgeting. I spent way more than you predicted!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your incessant demands for status reports were like a rope that strangled my productivity!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bottom line, your performance did not meet my expectations."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So, Wally, do you still think the best defense is a good offense?",
+        "It seemed like such a good idea."
+      ]
+    }
+  ]
+}

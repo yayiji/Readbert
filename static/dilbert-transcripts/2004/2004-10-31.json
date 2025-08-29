@@ -1,0 +1,56 @@
+{
+  "date": "2004-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new senior vice president will be at my meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope to impress him with my leadership skills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh. Underling alert."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't be seen getting chummy with an intern."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Please don't try to make conversation.",
+        "Don't, don't, don't, don't, don't."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Did you do anything fun this weekend?",
+        "Here he comes!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Get back to work, you slacking slacker!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Waaa!!!",
+        "Good motivating! If he blows his nose with his necktie, you're my new vice president."
+      ]
+    }
+  ]
+}

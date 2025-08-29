@@ -1,0 +1,25 @@
+{
+  "date": "1993-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's seminar on management zombies.",
+        "The successful zombie knows how to squash the creativity of co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you hear a new idea, adopt a facial expression which conveys both fear and an utter lack of comprehension."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Those of you who work in marketing only need to add the fear part.",
+        "Why is that?"
+      ]
+    }
+  ]
+}

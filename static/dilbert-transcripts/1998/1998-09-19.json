@@ -1,0 +1,24 @@
+{
+  "date": "1998-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have any meetings today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll change all my software settings until something doesn't work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Keep up the good work.",
+        "Keep up the good managing."
+      ]
+    }
+  ]
+}

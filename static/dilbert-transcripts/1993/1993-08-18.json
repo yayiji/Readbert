@@ -1,0 +1,26 @@
+{
+  "date": "1993-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to read my boss's mind and tell me what he wants my group to work on.",
+        "Why don't you just ask him?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask him?? I can't do that. His calendar is booked for months.",
+        "And I never understand what he says anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He thinks you're an idiot, but it's easier to pay you than to fire you.",
+        "Whew! Job security."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2007-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your résumé is riddled with spelling errors.",
+        "Why should we hire a moron?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My poor performance would make you look good in comparison.",
+        "You'll get a bigger raise if I work here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you think of him?",
+        "Well, his interview skills are crazy good."
+      ]
+    }
+  ]
+}

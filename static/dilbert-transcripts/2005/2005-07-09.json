@@ -1,0 +1,23 @@
+{
+  "date": "2005-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've got a bad case of manager's elbow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's caused by patting yourself on the back and covering your butt at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend that you join the Cirque du Soleil. I'm giving you a prescription for a leotard."
+      ]
+    }
+  ]
+}

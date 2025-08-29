@@ -1,0 +1,24 @@
+{
+  "date": "1997-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you set up our off-site meeting so we can talk about how overworked you are?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was thinking we should invite the rest of the staff, too.",
+        "We can discuss our mission statement, maybe have a sack race."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know that if you're a state trooper, you can shoot any animal that's been hit by a car?"
+      ]
+    }
+  ]
+}

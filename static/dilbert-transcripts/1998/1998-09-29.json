@@ -1,0 +1,24 @@
+{
+  "date": "1998-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having an all-employee talent show for charity. Tickets are three dollars!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll give you three dollars apiece to forget the whole thing. It works out the same."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Deal.",
+        "Ironically, math is my only talent."
+      ]
+    }
+  ]
+}

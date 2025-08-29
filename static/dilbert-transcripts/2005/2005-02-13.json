@@ -1,0 +1,53 @@
+{
+  "date": "2005-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "La-la-la-la-la...oops."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I inadvertently erased our entire customer database and all of the backups."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can I explain this to our pointy-haired boss?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Grab your laptop and follow me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's only a prototype, so whatever you do, don't touch anything."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa!!! You erased the customer database!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All of the backups, too, you stupid, #*@!star!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I should have stopped before #*@!star!"
+      ]
+    }
+  ]
+}

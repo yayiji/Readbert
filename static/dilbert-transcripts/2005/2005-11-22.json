@@ -1,0 +1,27 @@
+{
+  "date": "2005-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to my seminar on dealing with difficult coworkers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Difficult coworkers generally fall into one of these groups.",
+        "Lazy",
+        "Mean",
+        "Smart crazy"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The only way to deal with them is to quit your job and become a syndicated cartoonist.",
+        "Thanks for coming."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming to this emergency board meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you know, all promotions to senior management are based on hair.",
+        "I think we all agree this is the best system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But have you noticed that I have a rich, lustrous coat, whereas our current president gets a little outside help?"
+      ]
+    }
+  ]
+}

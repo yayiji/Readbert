@@ -1,0 +1,57 @@
+{
+  "date": "1997-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll love your new assignment, Alice.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're going to redesign all of our brochures!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm an electrical engineer, not a graphic artist."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We can discuss your huge inadequacies during your annual review."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not inadequate.",
+        "I'm a highly skilled engineer.",
+        "And yet you can't make brochures."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, let me try to explain this in the simplest possible way..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You... are... an... idiot."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The simplest possible explanation isn't always the best.",
+        "Hey, it looks like a brochure, only uglier!"
+      ]
+    }
+  ]
+}

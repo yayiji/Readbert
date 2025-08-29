@@ -1,0 +1,23 @@
+{
+  "date": "1999-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I've chosen you to put our budget forecast together."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a hard job, but you'll get the satisfaction of making everyone hate your tiny guts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My guts are not tiny."
+      ]
+    }
+  ]
+}

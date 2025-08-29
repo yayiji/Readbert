@@ -1,0 +1,26 @@
+{
+  "date": "1995-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My consulting partner, Ratbert, will demonstrate how to inform employees that their jobs will be outsourced."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're history.",
+        "Scram.",
+        "Boot"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I get them all stooped over?",
+        "I recommend a program of very bad ergonomics."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I fill the gaps in our conversation with random observations?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, you got a little pillow there, eh?",
+        "Eh?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I say, \"Eh?\", that's your cue to answer."
+      ]
+    }
+  ]
+}

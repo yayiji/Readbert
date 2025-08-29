@@ -1,0 +1,54 @@
+{
+  "date": "2005-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My accomplishment this month was opening a file that someone e-mailed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That took an entire month?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It wasn't that easy. I didn't have the right software to open the file."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I tried to download the viewer from the internet but the web site didn't support my browser."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I couldn't upgrade my browser until I upgraded my operating system!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That required me to upgrade all of my applications software, too."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My hard disk got maxed out, so I had to upgrade my computer and transfer all of the files."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So, then you got to view the file?",
+        "Yeah... it was a funny one about a cat."
+      ]
+    }
+  ]
+}

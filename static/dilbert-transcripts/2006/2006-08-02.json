@@ -1,0 +1,25 @@
+{
+  "date": "2006-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My powerpoint presentation is a vision of beauty and persuasion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will make engineers weep, and profits will rain down from the sky."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Jeepers.",
+        "What kind of limping scrod is that?",
+        "The good kind!"
+      ]
+    }
+  ]
+}

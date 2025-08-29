@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This will be your cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In six weeks our I.T. people will connect you to the network so you can do your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll stop by every few minutes to see what you're doing."
+      ]
+    }
+  ]
+}

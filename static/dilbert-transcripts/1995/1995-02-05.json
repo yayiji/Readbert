@@ -1,0 +1,57 @@
+{
+  "date": "1995-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert explains leadership."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Leaders start their careers as morons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They are drawn to meetings like moths to a porch light."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The successful moron will have a very high bladder-to-brain ratio."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They prevail in all decisions because they are impervious to logic or coffee.",
+        "Let's do it my way!",
+        "Okay!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "These qualities are perceived as leadership.",
+        "You're promoted!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "After several promotions their job tends to match their talents.",
+        "I award you this award."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Conclusion: Leadership is nature's way of removing morons from the productive flow."
+      ]
+    }
+  ]
+}

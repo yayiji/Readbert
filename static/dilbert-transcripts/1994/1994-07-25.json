@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It seems almost unnatural for me to have an actual girlfriend.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like when the captain on \"Star Trek\" falls in love, and you know the woman will die in an unlikely accident."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! We just saw our first shooting star!"
+      ]
+    }
+  ]
+}

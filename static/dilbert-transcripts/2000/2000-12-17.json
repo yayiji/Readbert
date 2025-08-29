@@ -1,0 +1,60 @@
+{
+  "date": "2000-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everything is ready.",
+        "We just need the budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You did get the funding...",
+        "Didn't you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been very busy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This project has been your top priority for over a year!!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You only had one task: get funding."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What have you been doing for the past year?!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I remember attending meetings..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Aay-",
+        "iii-",
+        "Yiii-",
+        "Yiii!!",
+        "If you need anything,",
+        "just holler."
+      ]
+    }
+  ]
+}

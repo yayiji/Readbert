@@ -1,0 +1,53 @@
+{
+  "date": "1990-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The secrets of the universe will be revealed if you meditate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can't you just tell me the secrets?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To meditate you must clear your mind of all thoughts."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I have no thoughts how will I know if I'm meditating?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And how do I come out of it? I won't be able to think about stopping."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And shouldn't stupid people be the best meditators of all?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Perhaps you are not ready."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Perhaps you should spend more time with some thoughts."
+      ]
+    }
+  ]
+}

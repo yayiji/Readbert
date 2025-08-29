@@ -1,0 +1,25 @@
+{
+  "date": "1997-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't sign this performance review!",
+        "It's full of alleged misdeeds that you invented to lower my rating!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but I think it reflects the sort of things you might do.",
+        "I had to make all the reviews fit a bell curve."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am not selling crack from my cubicle!!!"
+      ]
+    }
+  ]
+}

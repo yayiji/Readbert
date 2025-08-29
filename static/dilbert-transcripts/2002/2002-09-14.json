@@ -1,0 +1,25 @@
+{
+  "date": "2002-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sending you to Elbonia for a meeting, but we're on a tight budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So there will be no limo service to the airport.",
+        "Go there in the cheapest possible way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then I started Brownie's barrel service.",
+        "He's a talker."
+      ]
+    }
+  ]
+}

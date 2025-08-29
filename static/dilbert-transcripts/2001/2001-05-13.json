@@ -1,0 +1,53 @@
+{
+  "date": "2001-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, your overall performance rating is \"good.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaag! Good is bad! What did I do to deserve this humiliation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, you gave me six hundred phone messages that said, \"It might have been Bob.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can't tell me that none of them were from a Bob!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You arranged for all of my flights to have connections in war zones."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Excuse me for trying to save the company some money."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You held a press conference to announce that I was the Parkside Strangler."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And he refuses to take any responsibility for giving me vague objectives."
+      ]
+    }
+  ]
+}

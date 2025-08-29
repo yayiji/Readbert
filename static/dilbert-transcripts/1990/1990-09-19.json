@@ -1,0 +1,26 @@
+{
+  "date": "1990-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, everybody off! Let's go, get off!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mother nature?",
+        "Move along now. Find another planet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But...",
+        "But...",
+        "Shoo! Come back when all the plastic is gone."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1993-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's take a ten-minute break.",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got to use the restroom and get back before all the mingle groups have solidified."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh no, it's an air dryer, an unexpected delay!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm too late. All the minglers have formed impenetrable groups."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll pretend to study the agenda so it looks like I have a reason to be alone."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Everybody knows it doesn't take this long to read an agenda. Now what do I do??"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've got to stand here alone, totally non-mingled, for five more minutes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Tough day at work?",
+        "Just the breaks."
+      ]
+    }
+  ]
+}

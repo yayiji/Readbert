@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert the salesman...",
+        "Your competitor was here an hour ago..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He promised me a massage from Helga if I buy from his company. What's your offer?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you my house for Helga.",
+        "You're new at this..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to end this charade, Zimbu!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your language skills are simple rote behavior. Monkeys are incapable of logic and reasoning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha! And that program you're writing --it's probably in \"Basic.\"",
+        "Do you ever work?"
+      ]
+    }
+  ]
+}

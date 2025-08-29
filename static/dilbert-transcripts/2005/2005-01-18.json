@@ -1,0 +1,23 @@
+{
+  "date": "2005-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to promote you, but the lowest salary band for the next level is 20% higher than your current pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Raises are capped at 5%, so there's no way to give you the promotion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I plan to hire someone from the outside that you can train to be your supervisor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1996-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I promoted Ted to be your new manager.",
+        "I used to think he looked boyish, but his new beard changed that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are either of you the least bit concerned that Ted's beard is growing from his forehead?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She made it sound as if it's wrong.",
+        "You can punish them for having bad opinions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought my kids to work because day care is closed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tess is a yeller and Smokey is a biter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is day care closed?",
+        "The townspeople torched it."
+      ]
+    }
+  ]
+}

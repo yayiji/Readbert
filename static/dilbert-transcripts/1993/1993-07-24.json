@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before you decide who wins this civil suit, remember this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't legally offer you large cash kick-backs for deciding in my favor. But please take a moment to complete a self-addressed stamped envelope."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you doing?",
+        "I'm trying to establish \"reasonable doubt.\""
+      ]
+    }
+  ]
+}

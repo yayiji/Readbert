@@ -1,0 +1,25 @@
+{
+  "date": "1992-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Marriage counselor",
+        "I can see your problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend massive plastic surgery for both of you... and your personalities are bad, too; pretend to be other people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we try to communicate more?",
+        "No, that's just begging for trouble."
+      ]
+    }
+  ]
+}

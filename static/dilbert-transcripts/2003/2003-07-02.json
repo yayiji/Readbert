@@ -1,0 +1,25 @@
+{
+  "date": "2003-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't touch the prototype or you'll get a shock.",
+        "Must touch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zap!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't touch it a second time.",
+        "Must... touch... second... time."
+      ]
+    }
+  ]
+}

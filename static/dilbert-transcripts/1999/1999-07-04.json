@@ -1,0 +1,54 @@
+{
+  "date": "1999-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you don't finish the project on time, I'll probably lose my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would happen to us?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We would get a better boss."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We might get a better project too!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There could be weeks of confusion with no work at all!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yay!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's all ours if we simply do less work!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Whoo! I've never felt my morale go up before.",
+        "I'm dizzy."
+      ]
+    }
+  ]
+}

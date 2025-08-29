@@ -1,0 +1,24 @@
+{
+  "date": "1995-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My hobby is geography.",
+        "Would you sign my book to each of the continents by name?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that my book recommends a twirling wedgie for people who ask for too much?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We find the line moves faster if I do this to the first customer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2002-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the investment banker",
+        "I hired a weasel to teach you how to answer media questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No matter what the reporters ask, always give the same answer: \"It will be good for stockholders.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it true that you ran over a stockholder in the parking lot?",
+        "It'll be good for him."
+      ]
+    }
+  ]
+}

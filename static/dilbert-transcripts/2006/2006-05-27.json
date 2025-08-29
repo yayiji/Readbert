@@ -1,0 +1,23 @@
+{
+  "date": "2006-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you've done a good job this quarter so I'm going to toss a little non-monetary compensation your way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell me some boring story about your life and I'll pretend to enjoy it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the story should involve pirates. Go."
+      ]
+    }
+  ]
+}

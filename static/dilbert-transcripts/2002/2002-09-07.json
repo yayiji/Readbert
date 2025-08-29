@@ -1,0 +1,24 @@
+{
+  "date": "2002-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our survey of customer satisfaction shows improvement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The focus group spontaneously attacked our researchers using number two pencils as shivs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's an improvement?",
+        "Last year the attack was premeditated."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1998-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "How may I abuse you?",
+        "The internet is slow. What causes that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That can only be caused by you looking at porn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need your name for our records.",
+        "Click"
+      ]
+    }
+  ]
+}

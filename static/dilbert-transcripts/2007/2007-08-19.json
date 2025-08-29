@@ -1,0 +1,54 @@
+{
+  "date": "2007-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I called this meeting to discuss the changes to the pension plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We already saw the company-wide e-mail about the changes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And we're all engineers, so we understand the details better than you do."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll bet you intend to waste our time by reading the e-mail to us."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can't stop yourself. It's some sort of compulsion."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you read that e-mail, it's proof that something is wrong with your brain."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can't... resist... reading... e-mail."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Best meeting ever.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2001-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!!",
+        "E-mail is down!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't panic...",
+        "Think... how would the ancients handle this?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got combustible materials... I can start some sort of fire."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "E-mail is down...",
+        "Hold me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll keep my arms straight out so I don't seem too eager."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This might be the least satisfying hug of my entire life."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "E-mail is working again."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So, do you want to have some coffee?",
+        "Sure! I'll be doing my e-mail. Just drop it off."
+      ]
+    }
+  ]
+}

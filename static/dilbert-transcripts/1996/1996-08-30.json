@@ -1,0 +1,25 @@
+{
+  "date": "1996-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've become one of those people who misinterprets everything you say.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why? Are you saying that nothing should ever change? Maybe you shouldn't be so rigid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This could be very annoying.",
+        "Maybe you should see a therapist for your emotional problem."
+      ]
+    }
+  ]
+}

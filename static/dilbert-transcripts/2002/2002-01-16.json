@@ -1,0 +1,25 @@
+{
+  "date": "2002-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can hire you back but not at your old job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's okay. I'll do anything but sales. I would be the worst salesperson on earth.",
+        "It's sales."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I just say worst when I meant best?",
+        "We'll have to train you to lie better."
+      ]
+    }
+  ]
+}

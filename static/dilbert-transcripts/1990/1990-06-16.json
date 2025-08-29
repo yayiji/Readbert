@@ -1,0 +1,24 @@
+{
+  "date": "1990-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One more clever move and I will have written the perfect computer program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!",
+        "Spike it in the end zone!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Another failure of the sports metaphor."
+      ]
+    }
+  ]
+}

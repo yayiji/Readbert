@@ -1,0 +1,24 @@
+{
+  "date": "2003-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project has no progress and no hope for progress."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I scheduled a meeting so I can fantasize that it will produce a breakthrough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend that we have a meeting next week so you can fantasize that you'll coach me to higher levels of performance.",
+        "Sounds good."
+      ]
+    }
+  ]
+}

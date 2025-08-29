@@ -1,0 +1,26 @@
+{
+  "date": "2002-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you should act as if you're your own boss.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My hair is pointy and I'm confused.",
+        "Suddenly I have no respect for myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must... golf... now.",
+        "That is so-o-o not funny."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2006-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "By now, you've noticed that your jobs are hideous nightmares of frustration and underpayment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But what you don't know is that every other company is exactly the same."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Reduce employee turnover... check."
+      ]
+    }
+  ]
+}

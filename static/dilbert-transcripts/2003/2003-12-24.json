@@ -1,0 +1,25 @@
+{
+  "date": "2003-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I scheduled your goodbye lunch for Tuesday.",
+        "I can't make it on Tuesday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's too late to change it. Everyone already bought your gag gifts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gag gifts?? I'm not retiring; I got downsized!",
+        "Congratulations, Alice! Hee-hee!!"
+      ]
+    }
+  ]
+}

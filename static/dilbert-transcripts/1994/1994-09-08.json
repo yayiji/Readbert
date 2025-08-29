@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like a job where I can telecommute every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It should be high-paying yet have goals which can't be measured."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, you'd stay home and we'd mail you checks?",
+        "I was hoping for direct deposit."
+      ]
+    }
+  ]
+}

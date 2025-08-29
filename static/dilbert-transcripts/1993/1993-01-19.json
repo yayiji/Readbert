@@ -1,0 +1,26 @@
+{
+  "date": "1993-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To protect our environment,",
+        "I've ordered that ink be removed from all copiers, printers and pens."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Research shows that many squids can be spared by reducing our ink usage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think we get our ink from squids, sir.",
+        "Oh, right...",
+        "Next you'll say we don't get our \"Elmer's\" glue from cows."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1994-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've never seen you do any real work around here, Irv.",
+        "How do you get away with it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wrote the code for our accounting system back in the mid-eighties.",
+        "It's a million lines of undocumented spaghetti logic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's the holy grail of technology!!",
+        "You boys may find a little extra in your envelopes this month."
+      ]
+    }
+  ]
+}

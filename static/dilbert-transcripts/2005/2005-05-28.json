@@ -1,0 +1,24 @@
+{
+  "date": "2005-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "You have a bad case of computer rot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your computer is designed to become slower and more unreliable over time so you have to upgrade."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But if you'd like some false hope, I can tell you how to defragment your disk drive."
+      ]
+    }
+  ]
+}

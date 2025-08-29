@@ -1,0 +1,25 @@
+{
+  "date": "1999-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Phil, you have taught me so much about life.",
+        "How can I repay you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can wax my huge spoon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you have a huge spoon?",
+        "I'm just lucky, I guess."
+      ]
+    }
+  ]
+}

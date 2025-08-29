@@ -1,0 +1,25 @@
+{
+  "date": "2003-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a description of your project and its projected cost.",
+        "That's impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The project uncertainty principle says that if you understand a project, you won't know its cost, and vice versa."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You just made that up.",
+        "That doesn't make it wrong."
+      ]
+    }
+  ]
+}

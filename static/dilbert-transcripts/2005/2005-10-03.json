@@ -1,0 +1,25 @@
+{
+  "date": "2005-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need five minutes on the pointy-haired boss's calendar.",
+        "No can do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I give you an appointment, I'll just have to cancel it later when something more important comes up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's he doing now?",
+        "Combing his knuckles."
+      ]
+    }
+  ]
+}

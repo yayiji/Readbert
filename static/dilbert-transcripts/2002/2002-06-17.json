@@ -1,0 +1,24 @@
+{
+  "date": "2002-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stockholders are worried that our profits are nothing but accounting gimmicks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm putting you in charge of destroying all of our accounting records."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's illegal.",
+        "Oh. Then just make them more confusing."
+      ]
+    }
+  ]
+}

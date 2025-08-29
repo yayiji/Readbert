@@ -1,0 +1,31 @@
+{
+  "date": "1995-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, your self-esteem might improve if you got a job.",
+        "As what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's an opening in our procurement department. You'd be perfect."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does procurement do?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Their job is to prevent us from getting the computers we want.",
+        "Can I hit people with my tail?"
+      ]
+    }
+  ]
+}

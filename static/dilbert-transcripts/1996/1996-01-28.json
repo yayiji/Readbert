@@ -1,0 +1,58 @@
+{
+  "date": "1996-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your help, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My company is downsizing. They told us to write our own job requirements then reapply for our jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you want to keep working for such a lame company?",
+        "Loyalty!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ha ha ha ha! Hee hee!",
+        "Good one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay. You must write your job requirements so you are the only one on earth who fits.",
+        "Right."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The candidate must have six years experience sitting in a big box being micromanaged by a nitwit."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The candidate must have a festering cynicism and an acquired fear of action.",
+        "Good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That narrows it to ten thousand employees.",
+        "We'll have to focus on your physical abnormalities."
+      ]
+    }
+  ]
+}

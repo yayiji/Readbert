@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, as you know, employees must share hotel rooms at the conference..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I was wondering if you'd like to... you know... be my roomie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll have to agree on some rules.",
+        "Sure.",
+        "I can only spoon on my right."
+      ]
+    }
+  ]
+}

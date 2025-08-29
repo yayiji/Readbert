@@ -1,0 +1,23 @@
+{
+  "date": "2005-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Um... why are you here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Originally I was seduced by the smell of your freshly brewed coffee and tempting pastries."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But now I'm all about cross-charging my time to your project."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to take a class to learn the new technology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our vendor's sales person will teach you everything he knows."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You only need three \"moist towlettes\" to give yourself a sponge bath."
+      ]
+    }
+  ]
+}

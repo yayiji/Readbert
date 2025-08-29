@@ -1,0 +1,24 @@
+{
+  "date": "1998-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Freeze!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You scheduled a four-hour meeting to find out why people are behind schedule!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, look at the agenda! The fourth hour is a discussion about why morale is low!",
+        "Shoot him."
+      ]
+    }
+  ]
+}

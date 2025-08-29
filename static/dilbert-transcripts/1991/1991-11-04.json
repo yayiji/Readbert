@@ -1,0 +1,25 @@
+{
+  "date": "1991-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Somebody left a pencil in the electric sharpener.",
+        "That's \"Excalibert.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Legend has it that whoever can remove Excalibert from the sharpener will become CEO."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Like this?",
+        "Continued..."
+      ]
+    }
+  ]
+}

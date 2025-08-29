@@ -1,0 +1,56 @@
+{
+  "date": "2005-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need more staff for Project Caribou.",
+        "Caribou? Is that the new chip?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, you're thinking of Project Caribbean."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Caribou is like Project Muskrat but with a lower P.R.O.R.C.",
+        "P.R.O.R.C.?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Projected return on research capital."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is Muskrat the enterprise software project?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um...no...that would be Project Meerkat."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Cancel Project Musk Ox, move the staff over to Project Zebra, delay Panda and Squirrel and give me a status report on Proboscis Monkey."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We don't have any projects with those names.",
+        "How's that my fault?"
+      ]
+    }
+  ]
+}

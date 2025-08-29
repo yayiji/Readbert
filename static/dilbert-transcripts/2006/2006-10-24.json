@@ -1,0 +1,27 @@
+{
+  "date": "2006-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been acting strangely lately.",
+        "Maybe you should cut down on the coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have failed me.",
+        "Feel the power of the force!",
+        "Erk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bad dream?",
+        "I wouldn't call it bad!"
+      ]
+    }
+  ]
+}

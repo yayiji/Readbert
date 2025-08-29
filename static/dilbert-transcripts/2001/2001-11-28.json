@@ -1,0 +1,24 @@
+{
+  "date": "2001-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert airlines",
+        "Attention travelers! Our hub at the South Pole is experiencing permafrost."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please form a primitive society, and live in the terminal forever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The good news is that you'll earn six \"Dogbert miles\" that can be used on the 35th of every month."
+      ]
+    }
+  ]
+}

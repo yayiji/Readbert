@@ -1,0 +1,23 @@
+{
+  "date": "1997-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A new fog is rolling in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This can only mean one thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carol, schedule a staff meeting. It's time to reorganize the department."
+      ]
+    }
+  ]
+}

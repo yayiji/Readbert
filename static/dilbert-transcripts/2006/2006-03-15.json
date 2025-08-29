@@ -1,0 +1,25 @@
+{
+  "date": "2006-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We canceled our plant maintenance contract to save money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each employee will adopt a nearby plant and water it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The unluckiest plant in the whole world",
+        "Now when I pour my coffee dregs on you, it will look like work!",
+        "Must... run..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2003-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Coffee rehab",
+        "State your name and how long you've been without coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am going to rip off your little beard and beat you to death with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't panic...",
+        "Wait...",
+        "Wait...",
+        "And then I'll... um...",
+        "Zzzzzzzz",
+        "Zzzzz",
+        "Zzz."
+      ]
+    }
+  ]
+}

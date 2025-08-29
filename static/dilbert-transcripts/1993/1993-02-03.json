@@ -1,0 +1,24 @@
+{
+  "date": "1993-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where are we now?",
+        "I can't tell you. That's part of the experiment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I read in \"Reader's Digest\" how a dog found his way home from a hundred miles away. I want to test your homing instinct."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I think we're ready to begin..."
+      ]
+    }
+  ]
+}

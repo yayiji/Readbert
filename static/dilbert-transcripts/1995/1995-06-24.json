@@ -1,0 +1,25 @@
+{
+  "date": "1995-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Computer holy wars",
+        "Hold it right there, buddy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That scruffy beard... those suspenders... that smug expression..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're one of those condescending Unix computer users!",
+        "Here's a nickel, kid. Get yourself a better computer."
+      ]
+    }
+  ]
+}

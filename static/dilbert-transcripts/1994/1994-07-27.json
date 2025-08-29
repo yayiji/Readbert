@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, twenty percent of your pay will depend on the company meeting its sales targets."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In effect, we'll cut your pay and tell you it's your own darn fault."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will the sales target be based on a complex formula and involve numbers that can't be accurately measured?",
+        "You broke the code!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1995-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a few suggestions on your document, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks",
+        "Bonk"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've made some upgrades to your document, Alice."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's just what it needed: a bunch of obtuse acronyms and jargon."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oooh, looky! You've also made elegant multi-topic sentences out of my stubby clear ones!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Thank you. And put me down as the author since I'm the boss."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe I should distribute little plastic statues of you with every copy. How about that?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Here's your copy, here's your statue, don't ask.",
+        "Our quality is low, but at least we don't get credit."
+      ]
+    }
+  ]
+}

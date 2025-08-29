@@ -1,0 +1,23 @@
+{
+  "date": "2000-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha ha! You never should have let me get a technical certification."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used my new power to get a better job at a different company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell me again why I hired you?"
+      ]
+    }
+  ]
+}

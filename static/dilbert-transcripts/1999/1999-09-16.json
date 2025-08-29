@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your wall is warm, Mom.",
+        "Is that bad?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no way to be sure unless you remove the sheetrock and look."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please stop finding defects in my house.",
+        "I smell propane."
+      ]
+    }
+  ]
+}

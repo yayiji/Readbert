@@ -1,0 +1,24 @@
+{
+  "date": "1994-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Describe how you used \"total quality\" methods on your last project.",
+        "We're applying for the Millard Bullrush Quality Award."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know I didn't use \"total quality.\" I'd have to lie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sadly, Millard passed away before he could invent the Millard Bullrush \"honesty\" award."
+      ]
+    }
+  ]
+}

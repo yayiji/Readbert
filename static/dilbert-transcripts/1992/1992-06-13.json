@@ -1,0 +1,25 @@
+{
+  "date": "1992-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's the CNN weather report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey! Don't just sit there watching TV all day! Give me thirty tummy crunches!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's been nothing but mixed messages since Ted married Jane.",
+        "One,",
+        "Two..."
+      ]
+    }
+  ]
+}

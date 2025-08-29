@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My market research indicates that 50% of your customers are above the median age."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But the shocking discovery was that 50% were below the median age."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What percent are exactly the median age?",
+        "I'm proposing to study that in phase two."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to heaven, mister Dogbert.",
+        "Wow, it looks like you guys relaxed your standards!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogs are automatic. No matter what you do, there's always a place in heaven for every little dog."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like that back now, if you don't mind!!",
+        "What kind of distance can you get with these little \"frisbees\"?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2006-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Drop the cell phone.",
+        "I darn you to heck.",
+        "Blah",
+        "Blah",
+        "Blah"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Seriously. Don't",
+        "make me use the",
+        "spoon.",
+        "Blah",
+        "Blah",
+        "Blah"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry",
+        "it had to",
+        "come to",
+        "this."
+      ]
+    }
+  ]
+}

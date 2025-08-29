@@ -1,0 +1,24 @@
+{
+  "date": "2004-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The real estate agent",
+        "The first property costs $10 million."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's covered with endangered frogs, and it's next to a banshee farm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The access road is a narrow path across a boiling cesspool of tormented souls."
+      ]
+    }
+  ]
+}

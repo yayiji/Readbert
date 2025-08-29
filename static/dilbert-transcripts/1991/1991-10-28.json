@@ -1,0 +1,26 @@
+{
+  "date": "1991-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ten dollars...",
+        "It's my final offer.",
+        "Okay, but you can only use one hand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pat pat"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't believe this is now standard in the dog industry.",
+        "Oh, right, I suppose the others give it away."
+      ]
+    }
+  ]
+}

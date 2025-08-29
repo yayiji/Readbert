@@ -1,0 +1,27 @@
+{
+  "date": "1996-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you three to write the department newsletter.",
+        "It's an important, high-profile assignment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am an experienced technical writer.",
+        "You have placed me on a project with an intern and a rodent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My next raise will depend on their performance.",
+        "I'll do the sports page!",
+        "I'll be the topless model on page two."
+      ]
+    }
+  ]
+}

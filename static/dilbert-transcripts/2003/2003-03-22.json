@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't start the project because the user won't give me his requirements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Start making something anyway.",
+        "Otherwise we'll look unhelpful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, our plan is to cleverly hide our competence.",
+        "You think too much."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I ask all prospective employees this question to test their reasoning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have one fox and two chickens that you need to get across a river. You can only take one at a time in the rowboat. The fox will eat the chickens if left alone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd buy livestock insurance, then barbecue the chickens and blame the fox.",
+        "Can you start today?"
+      ]
+    }
+  ]
+}

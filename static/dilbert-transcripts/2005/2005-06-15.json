@@ -1,0 +1,25 @@
+{
+  "date": "2005-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I keep paying you for consulting, but you never make any recommendations.",
+        "I'm what you call a \"feel good.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My job is to make you feel secure in the knowledge that someone brilliant is shaping your strategies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is weird; I hate you, but at the same time I feel good.",
+        "You're welcome."
+      ]
+    }
+  ]
+}

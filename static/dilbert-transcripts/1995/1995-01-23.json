@@ -1,0 +1,29 @@
+{
+  "date": "1995-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you know, I've been promoted to team leader."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will you decide raises?",
+        "No",
+        "Do you approve expenses?",
+        "No",
+        "Do you fire people?",
+        "No"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm a leader, not a manager.",
+        "Well, run along and we'll be right behind you."
+      ]
+    }
+  ]
+}

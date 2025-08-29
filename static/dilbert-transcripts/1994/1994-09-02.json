@@ -1,0 +1,25 @@
+{
+  "date": "1994-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know how you do it.",
+        "You work all day and now you take classes at night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's hard, but you're gaining knowledge that couldn't be obtained any other way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! I can hold eleven \"Cheerios\" in my nose!",
+        "And it's knowledge you can apply."
+      ]
+    }
+  ]
+}

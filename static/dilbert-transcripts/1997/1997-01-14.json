@@ -1,0 +1,28 @@
+{
+  "date": "1997-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't read all of the shrink-wrap license agreement on my new software until after I opened it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently I agreed to spend the rest of my life as a towel boy in Bill Gates' new mansion.",
+        "Call your lawyer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too late.",
+        "He opened software yesterday.",
+        "Now he's Bill's laundry boy.",
+        "It must be dangerous for lawyers to iron pants.",
+        "They'd always have one hand in a pocket."
+      ]
+    }
+  ]
+}

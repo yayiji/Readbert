@@ -1,0 +1,57 @@
+{
+  "date": "2003-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've expanded our customer disservice program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...doubled our unhelpful technical support advice.",
+        "Uh...reboot"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...stretched our telephone hold times to lethal durations...",
+        "So...hungry"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...and cleansed our online support database of all useful articles."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our goal is to force customers to form support groups."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Over time, with luck, we'll train customers to do our manufacturing and shipping, too."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "May I train a customer to do my job?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So...what do I do?",
+        "You're doing it."
+      ]
+    }
+  ]
+}

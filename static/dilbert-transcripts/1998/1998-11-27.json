@@ -1,0 +1,24 @@
+{
+  "date": "1998-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Then we need to PV the DCF and get the ROI to the EOC ASAP."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you our new CFO or a babbling idiot who just happened to wander by?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which one pays more?",
+        "The mystery deepens."
+      ]
+    }
+  ]
+}

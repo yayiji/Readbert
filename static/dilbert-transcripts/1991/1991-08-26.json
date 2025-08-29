@@ -1,0 +1,26 @@
+{
+  "date": "1991-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sale",
+        "Mister Dogbert, the tobacco lobby is very interested in buying your senator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've been taking a beating from the anti-smoking fascists.",
+        "I blame the media."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What we need is more attention on the positive aspects of smoking... like sex appeal.",
+        "Yes, sir."
+      ]
+    }
+  ]
+}

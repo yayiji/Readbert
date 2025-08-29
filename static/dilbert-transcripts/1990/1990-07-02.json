@@ -1,0 +1,26 @@
+{
+  "date": "1990-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a \"help wanted\" ad for a babysitter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could do that.",
+        "Kids love dinosaurs.",
+        "One problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your species is known to be carnivorous.",
+        "I'll put \"strict disciplinarian\" on my resume."
+      ]
+    }
+  ]
+}

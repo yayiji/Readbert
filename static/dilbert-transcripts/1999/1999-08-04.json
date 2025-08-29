@@ -1,0 +1,25 @@
+{
+  "date": "1999-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, I...",
+        "Shut up and reboot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, it work...",
+        "Shut up and hang up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My average call time is improving."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just heard that all our top executives got locked in a conference room and starved to death."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why didn't they use the phone to call for help?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One week ago...",
+        "It's agreed: we dial 8.3 to get an outside line.",
+        "Uh-oh. This one doesn't do decimals."
+      ]
+    }
+  ]
+}

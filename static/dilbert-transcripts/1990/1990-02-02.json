@@ -1,0 +1,28 @@
+{
+  "date": "1990-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for asking me out.",
+        "Would you like to see my operating manual?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Operating manual?",
+        "It's an aid to men.",
+        "It covers everything from \"buying flowers\" to \"opening doors.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like you're due to have your jewelry rotated.",
+        "Every thirty days.",
+        "Saves money in the long run."
+      ]
+    }
+  ]
+}

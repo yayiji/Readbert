@@ -1,0 +1,24 @@
+{
+  "date": "1990-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, we must become vigilantes and punish the man who robbed our house!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not justice we seek, it's revenge!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We must make him suffer.",
+        "Tell him one of your stories about work."
+      ]
+    }
+  ]
+}

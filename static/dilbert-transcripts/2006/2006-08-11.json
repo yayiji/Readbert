@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know what's funny? I'm getting paid to consult, but you're the smartest and most experienced person in the room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That must burn you like the heat of a thousand suns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's my favorite sound!",
+        "TWEeeeet"
+      ]
+    }
+  ]
+}

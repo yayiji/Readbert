@@ -1,0 +1,25 @@
+{
+  "date": "2004-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your blinding flashes of the obvious made me sightless for three days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope you didn't drive your car.",
+        "You're not supposed to do that when you're blind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!!",
+        "I'm upsetting you."
+      ]
+    }
+  ]
+}

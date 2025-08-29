@@ -1,0 +1,55 @@
+{
+  "date": "2006-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And then we'll send the draft for review..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bzzzzzt!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Greetings. I am Wally from the year 2040."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In the future, time travel will be possible but highly unethical."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But it's only unethical if you make the mistake of changing anything from the past."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I was out of coffee so I came here to get a fresh cup.",
+        "Ah, here we go."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I have to run.",
+        "Make sure nothing changes because of my visit or it will kill everyone in the future."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let me be the first to say that this feels awkward."
+      ]
+    }
+  ]
+}

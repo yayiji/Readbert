@@ -1,0 +1,26 @@
+{
+  "date": "2003-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is my nemesis, pointy-haired Carl.",
+        "He manages our software division."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write up some reasons why he should report to me.",
+        "I'll secretly give it to our vice president."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Start by saying there's no real difference between hardware and software.",
+        "I'm unclean!"
+      ]
+    }
+  ]
+}

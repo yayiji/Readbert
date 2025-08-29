@@ -1,0 +1,24 @@
+{
+  "date": "2000-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't pay enough to hire brilliant people for our web team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need webiot savants who don't know they should have better jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd expect stock options, of course.",
+        "Next!!"
+      ]
+    }
+  ]
+}

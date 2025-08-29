@@ -1,0 +1,29 @@
+{
+  "date": "1993-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your entire staff volunteered to work on my task force.",
+        "Now I want them and their budgets transferred to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I agree to that?",
+        "If you don't, I'll tell everybody you're not a team player...",
+        "Sign here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... now I'm on the team, right?",
+        "Yeah...",
+        "The losing team...",
+        "by yourself."
+      ]
+    }
+  ]
+}

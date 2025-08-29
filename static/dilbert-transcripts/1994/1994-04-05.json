@@ -1,0 +1,25 @@
+{
+  "date": "1994-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to teach me everything you know about corporate politics so I can get promoted to your level."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To truly understand office politics you must wear a waste basket on your head for one full day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "Does this really work?",
+        "It works for me."
+      ]
+    }
+  ]
+}

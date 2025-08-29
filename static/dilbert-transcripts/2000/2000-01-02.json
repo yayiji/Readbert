@@ -1,0 +1,53 @@
+{
+  "date": "2000-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The research supports my strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can read the research but don't make copies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can tell you about it but you can't read it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't remember the reason but I'm sure there is one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There's no reason."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Our strategy is a huge mistake but we have to do it anyway."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "After I fall asleep tonight, please smother me with a pillow."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My people love me because I manage with data."
+      ]
+    }
+  ]
+}

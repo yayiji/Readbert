@@ -1,0 +1,25 @@
+{
+  "date": "2007-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I give you some advice?",
+        "Not at all."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I roll my eyes, sigh deeply, and dismiss your advice as if it came from the village idiot?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might mind.",
+        "Well then, let me give you some advice..."
+      ]
+    }
+  ]
+}

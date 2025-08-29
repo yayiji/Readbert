@@ -1,0 +1,24 @@
+{
+  "date": "1991-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ten a.m. already?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great... now I've got one of those headaches from oversleeping.",
+        "Only one cure..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't get too much of a bad thing."
+      ]
+    }
+  ]
+}

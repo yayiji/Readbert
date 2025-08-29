@@ -1,0 +1,27 @@
+{
+  "date": "1995-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your new software is successfully installed. Do you want to send your registration info by modem?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The software has found your credit card number and is placing orders for new products it thinks you need... please wait.",
+        "Uh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Making room on your hard drive...",
+        "I can't tell if it's a virus or just excellent marketing.",
+        "Either way..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1990-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like the police found your trail, Dogbert. You'd better hide."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're looking for a dog who destroyed half of the city. Does this sketch look familiar?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah... it's \"Mister Potato Head\"... or maybe \"Ziggy.\"",
+        "We gotta get a better artist."
+      ]
+    }
+  ]
+}

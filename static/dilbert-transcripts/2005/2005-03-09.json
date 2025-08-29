@@ -1,0 +1,23 @@
+{
+  "date": "2005-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having a problem with rats in the office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You might want to upgrade your level of hygiene from \"rat bait\" to \"unwashed.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I just felt my first tingle of job satisfaction!"
+      ]
+    }
+  ]
+}

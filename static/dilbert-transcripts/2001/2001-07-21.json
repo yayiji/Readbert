@@ -1,0 +1,27 @@
+{
+  "date": "2001-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're a total sociopath, Ron.",
+        "I like that in a man."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh yes, rifle through my purse!",
+        "Yes!",
+        "Yes! Yes!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Call me?",
+        "Sure. But you'd better wait by the phone; I only ring once."
+      ]
+    }
+  ]
+}

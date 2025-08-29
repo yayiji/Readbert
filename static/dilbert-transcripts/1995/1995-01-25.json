@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate being team leader. It's so stressful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have responsibility but no authority. I feel like I'm an animal in some warped behavioral study.",
+        "Ding"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On the plus side, the pellets are excellent.",
+        "Take pellet"
+      ]
+    }
+  ]
+}

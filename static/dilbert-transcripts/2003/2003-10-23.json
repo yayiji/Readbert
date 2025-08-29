@@ -1,0 +1,28 @@
+{
+  "date": "2003-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who's today's guest cartoonist?",
+        "This isn't my cubicle.",
+        "Your horoscope says you'll have a \"mind-altering\" day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I feel oddly drawn to watch \"Days of our lives.\"",
+        "You look oddly drawn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going to go to the mall and try on black shoes!",
+        "Wow! Your life finally has a purpose.",
+        "* Answer: Go to dilbert.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1998-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My recommendations are based on an analysis of accountability.",
+        "Ooh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As a consultant, I'm not accountable to your stockholders.",
+        "So I can recommend anything that amuses me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend that you convert all of your U.S. dollars to Elbonian currency...",
+        "Whatever that is.",
+        "The eye-crud."
+      ]
+    }
+  ]
+}

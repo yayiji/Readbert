@@ -1,0 +1,25 @@
+{
+  "date": "2006-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday I had a great meeting about project wombat.",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been managing that project for six months! How can you have a meeting without inviting me?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you noticed that meetings go smoother without any knowledge or expertise?",
+        "Kinda."
+      ]
+    }
+  ]
+}

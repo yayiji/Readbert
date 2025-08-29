@@ -1,0 +1,25 @@
+{
+  "date": "1990-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You dinosaurs have probably never seen a computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This makes me so efficient I can save hours every day.",
+        "What do you do with all the spare time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I work on the computer.",
+        "Wow! Then you can save even more time!"
+      ]
+    }
+  ]
+}

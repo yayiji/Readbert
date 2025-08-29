@@ -1,0 +1,24 @@
+{
+  "date": "1999-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, what do you do for a living?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I slavishly obey the insane commands of a pointy-haired baboon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The sad thing is that you're the best catch at this party.",
+        "I work in a big box."
+      ]
+    }
+  ]
+}

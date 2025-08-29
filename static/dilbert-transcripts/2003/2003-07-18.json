@@ -1,0 +1,23 @@
+{
+  "date": "2003-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, did you tell a reporter that our products stink?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I promise on the honor of my family, and on all that is holy, that I did not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I guess you're calling my divining rod a liar."
+      ]
+    }
+  ]
+}

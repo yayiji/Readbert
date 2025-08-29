@@ -1,0 +1,24 @@
+{
+  "date": "1997-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time now for the Wally report, a weekly status update."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My income is 80% of industry average, enthusiasm is at 63% of capacity and my ego shield is holding at 15%."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your enthusiasm is up from last week.",
+        "Someone left the supply cabinet unlocked!"
+      ]
+    }
+  ]
+}

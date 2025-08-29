@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've got to focus on execution!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think he wants me to execute people.",
+        "Make it look like an accident."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "From now on, my staff meetings will be two hours long."
+      ]
+    }
+  ]
+}

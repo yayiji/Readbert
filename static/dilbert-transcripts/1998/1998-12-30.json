@@ -1,0 +1,33 @@
+{
+  "date": "1998-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, it's a little intern!",
+        "Please spare me, mister nut."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not cruel.",
+        "I'm honest!",
+        "No-o-o-o"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me tell you why you'll never be married.",
+        "No-o-o!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have to admit, it's fun to watch."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "1996-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert, the evil director of human resources",
+        "Wally, it's time for your mandatory blood test."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't take drugs.",
+        "I'm testing to see if you're stealing time from the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Time?",
+        "How can you test for that?",
+        "We test your general health.",
+        "If it's good, you're not working enough hours.",
+        "You thief."
+      ]
+    }
+  ]
+}

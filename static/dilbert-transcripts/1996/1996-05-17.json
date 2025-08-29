@@ -1,0 +1,25 @@
+{
+  "date": "1996-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "\"Due diligence\" before the merger.",
+        "You must reveal your secrets so my company knows what it's buying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of our projects are doomed. Most of the good employees left. Our customers are starting a class action suit..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least the building is worth something.",
+        "If you feel a tickle, that's asbestos."
+      ]
+    }
+  ]
+}

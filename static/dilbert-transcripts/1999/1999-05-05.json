@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, when I was your age I'd eat a huge breakfast, so I wouldn't have to stop working for lunch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I'd eat a huge lunch, so I could work all night, or until dinner, whichever came first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's how I got to be the man I am today.",
+        "Fat?"
+      ]
+    }
+  ]
+}

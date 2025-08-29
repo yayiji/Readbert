@@ -1,0 +1,25 @@
+{
+  "date": "2000-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The software isn't 100% complete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it had a user interface you would see something here...",
+        "here...and sometimes here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then you'd be saying, \"I gotta get me some of that.\"",
+        "Any questions?"
+      ]
+    }
+  ]
+}

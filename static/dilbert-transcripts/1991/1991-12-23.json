@@ -1,0 +1,26 @@
+{
+  "date": "1991-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, all employees are empowered to make their own decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Empowerment is the concept of the nineties.",
+        "You'll be happier and more productive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're fired, Dilbert.",
+        "No, you are!",
+        "I'll never work hard again!"
+      ]
+    }
+  ]
+}

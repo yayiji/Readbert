@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a text message from our boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Keep up wrk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does that mean?",
+        "You just got your annual performance review."
+      ]
+    }
+  ]
+}

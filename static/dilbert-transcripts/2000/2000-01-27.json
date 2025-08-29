@@ -1,0 +1,27 @@
+{
+  "date": "2000-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ed, the experts say managers should over-communicate during times of uncertainty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're fired,",
+        "You're fired,",
+        "You're fired,",
+        "You're fired,",
+        "You're fired!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll come back in ten minutes to do that again."
+      ]
+    }
+  ]
+}

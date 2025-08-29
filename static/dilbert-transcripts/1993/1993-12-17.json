@@ -1,0 +1,24 @@
+{
+  "date": "1993-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What happened to your clothes?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had them rolled up and stuffed in a \"Pringles\" potato chip can for a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a prototype for my tubular luggage invention.",
+        "Never speak to me again."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1990-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, have you been bored lately?",
+        "Yeah, why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I found this teeny-tiny little sweater knitted out of dental floss.",
+        "Oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is very bizarre.",
+        "I didn't use a pattern."
+      ]
+    }
+  ]
+}

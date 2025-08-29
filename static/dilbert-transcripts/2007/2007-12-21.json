@@ -1,0 +1,24 @@
+{
+  "date": "2007-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your staff meeting will take an hour of my life that I will never get back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you let me skip the meeting, I will agree to die an hour earlier to make up the difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He agreed?",
+        "Yes, and I'm going to use that extra hour of deadness to haunt him."
+      ]
+    }
+  ]
+}

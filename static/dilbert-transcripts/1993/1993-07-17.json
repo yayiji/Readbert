@@ -1,0 +1,26 @@
+{
+  "date": "1993-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I think I'm not reaching my full potential as a rat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're right. In the middle ages, disease-carrying rats wiped out half of the human population of Europe."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I've got a little temperature.",
+        "Feel my forehead.",
+        "Face it,",
+        "your glory days are past."
+      ]
+    }
+  ]
+}

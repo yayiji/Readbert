@@ -1,0 +1,57 @@
+{
+  "date": "1998-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy combined birthdays."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today we honor the employees who had birthdays within the past year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's Dilbert...",
+        "Alice... Asok... Did I miss anyone?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um...",
+        "You missed me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You too?",
+        "That's spooky."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'd cut the cake but it's a plastic prop."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's sing.",
+        "Does anyone know the words to \"Happy Birthday\"?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll bet those weren't the real words."
+      ]
+    }
+  ]
+}

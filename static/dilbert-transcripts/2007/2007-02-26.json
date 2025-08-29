@@ -1,0 +1,23 @@
+{
+  "date": "2007-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The facilities people tell me there's asbestos in the ceiling."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They say you don't need to worry about it unless it gets disturbed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They plan to disturb it today."
+      ]
+    }
+  ]
+}

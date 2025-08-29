@@ -1,0 +1,24 @@
+{
+  "date": "2007-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My pay is below market. Can I have a 20% raise?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I'll let you use two flat screen monitors in your cubicle so it feels like you're an evil genius in a secret lair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bu-waha!",
+        "Who got a second monitor?"
+      ]
+    }
+  ]
+}

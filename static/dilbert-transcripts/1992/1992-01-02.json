@@ -1,0 +1,25 @@
+{
+  "date": "1992-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, I want you to wear a disguise and infiltrate the elf gang that has been bothering us.",
+        "Check"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We haven't seen you before...",
+        "What's the secret handshake?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, but that's one heckuva good guess."
+      ]
+    }
+  ]
+}

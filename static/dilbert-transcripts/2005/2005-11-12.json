@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Board meeting",
+        "I recommend outsourcing your CEO's job and saving the company $26 million per year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For $4 per year you can hire an Elbonian CEO who is just as good as this guy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now do you understand why you should have renewed my consulting contract?"
+      ]
+    }
+  ]
+}

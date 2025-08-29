@@ -1,0 +1,24 @@
+{
+  "date": "1994-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our Elbonian division was the low bidder for launching French satellites into orbit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm putting you personally in charge. Make sure they use the right technology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops",
+        "I hope those things aren't expensive."
+      ]
+    }
+  ]
+}

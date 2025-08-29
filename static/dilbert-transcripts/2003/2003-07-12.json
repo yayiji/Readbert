@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our e-mail spam blocker is stopping all incoming and outgoing messages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently the software decided that everything we do is a bunch of worthless #$!30."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I fear that it's becoming a sentient being. Our only hope is for you to demoralize it to death.",
+        "Tell it to get on my calendar."
+      ]
+    }
+  ]
+}

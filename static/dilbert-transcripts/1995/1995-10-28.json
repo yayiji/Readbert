@@ -1,0 +1,29 @@
+{
+  "date": "1995-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like somebody is using binders to illegally increase the size of his cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You think your status will increase with your cubicle size, don't you! Well, it won't work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's a raise. I don't know why."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Pssst. Is he seeing anybody?"
+      ]
+    }
+  ]
+}

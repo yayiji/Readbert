@@ -1,0 +1,25 @@
+{
+  "date": "1991-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your lunch with the executive vice president?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything was fine until the food fight.",
+        "He started throwing au gratin potatoes...",
+        "I countered with an ear of corn to his head and ran for the exit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I left, he was face-down in the clam chowder and the kitchen staff was singing \"Ding-dong the witch is dead.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I put together a time line for your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I started by reasoning that anything I don't understand is easy to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Phase one: Design a client-server architecture for our world-wide operations.",
+        "Time: Six minutes."
+      ]
+    }
+  ]
+}

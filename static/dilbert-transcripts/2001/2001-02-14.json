@@ -1,0 +1,25 @@
+{
+  "date": "2001-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Smile, Alice.",
+        "It won't hurt."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaak!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I found out I can kill people by looking at them.",
+        "I wondered why you were smiling."
+      ]
+    }
+  ]
+}

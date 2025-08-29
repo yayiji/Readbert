@@ -1,0 +1,25 @@
+{
+  "date": "2002-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the \"amorphous ad company\" to do our campaign."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see a gaseous cloud and some music...no, just a noise.",
+        "Excellent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then we say the name of our company?",
+        "Sure, if you want to ruin the ad."
+      ]
+    }
+  ]
+}

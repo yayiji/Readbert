@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wish there were an easier way to fly in Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got to find Dogbert and convince him to stop being the despotic ruler of Elbonia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But, sire, this is the airport, not the skeet-shooting range.",
+        "Pull!"
+      ]
+    }
+  ]
+}

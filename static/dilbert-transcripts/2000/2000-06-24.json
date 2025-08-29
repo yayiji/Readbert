@@ -1,0 +1,25 @@
+{
+  "date": "2000-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yeah, I'm having the worst date ever.",
+        "I'll check."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that on the ground?",
+        "It looks interesting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not so good."
+      ]
+    }
+  ]
+}

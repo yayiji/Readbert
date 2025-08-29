@@ -1,0 +1,24 @@
+{
+  "date": "2004-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Meet with our huge retail distributor, Walgetco, and find out what they want now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Say yes, no matter how unreasonable they are, because we need them more than they need us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Special packaging, RFID tags, and grind your bones to make store brand foot powder.",
+        "Yes!"
+      ]
+    }
+  ]
+}

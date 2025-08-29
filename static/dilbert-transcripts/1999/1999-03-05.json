@@ -1,0 +1,26 @@
+{
+  "date": "1999-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This concludes my presentation.",
+        "Are there any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do I get the boredom out of my head?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The funny thing is that I'll list this on my annual accomplishments.",
+        "Air!",
+        "I need air!!!"
+      ]
+    }
+  ]
+}

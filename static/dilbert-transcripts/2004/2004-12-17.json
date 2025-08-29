@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your cousin Lauren just got her degree in English. Can you give her some career advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you enjoy scratching out a meager living in a frustrating work environment?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never thought about it.",
+        "Obviously."
+      ]
+    }
+  ]
+}

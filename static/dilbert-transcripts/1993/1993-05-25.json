@@ -1,0 +1,24 @@
+{
+  "date": "1993-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My productivity is shot. I can't stop daydreaming about Irene in accounting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do what I did. Try to phase out of it by daydreaming of Laura in engineering, then move to the ordinary-looking Betty in marketing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm daydreaming about all three of them.",
+        "Same thing happened to me."
+      ]
+    }
+  ]
+}

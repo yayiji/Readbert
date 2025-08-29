@@ -1,0 +1,25 @@
+{
+  "date": "1995-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If the department meets its goal for the quarter you can shave my head!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would be a big improvement.",
+        "He's trying to save money on a haircut."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we double our goal can we iron your shirt, too?",
+        "I need some less experienced employees."
+      ]
+    }
+  ]
+}

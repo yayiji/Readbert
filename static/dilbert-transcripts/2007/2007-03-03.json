@@ -1,0 +1,23 @@
+{
+  "date": "2007-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you've been accused of punching a crazy co-worker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In my defense, it did make her less crazy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know. Here's a list of additional crazy employees I'd like you to punch."
+      ]
+    }
+  ]
+}

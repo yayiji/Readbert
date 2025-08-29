@@ -1,0 +1,25 @@
+{
+  "date": "2006-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi everyone. Sorry I'm late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have the worst case of jet lag ever.",
+        "I'm still a baby in this time zone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think it works that way.",
+        "Hey, I just got a crazy idea."
+      ]
+    }
+  ]
+}

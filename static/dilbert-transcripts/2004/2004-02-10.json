@@ -1,0 +1,25 @@
+{
+  "date": "2004-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the prototype for the wireless hassock-buddy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It uses GPS navigation to stalk its owner and demand that he rest his feet.",
+        "Aaagh!!!",
+        "Stop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today I learned to avoid the words \"stalk\" and \"aaagh\" in my PowerPoint presentations."
+      ]
+    }
+  ]
+}

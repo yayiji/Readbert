@@ -1,0 +1,31 @@
+{
+  "date": "1993-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And our product has a thirty terabit RAM cache, just like your company needs.",
+        "Tell him,",
+        "Dilbert.",
+        "It has no RAM."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And it's capable of detecting tachion field emissions.",
+        "You're confusing us with \"Star Trek\" again,",
+        "Stan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll build that stuff into the next free upgrade.",
+        "We'll take it!",
+        "Beam me up, Spock.",
+        "There's no life on this planet."
+      ]
+    }
+  ]
+}

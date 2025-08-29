@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for volunteering for my task force on \"Palmtop personal multimedia.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sure that you all have a common vision about this project..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Specifically, you think it will look good on your resumes while being too futuristic to generate any real work.",
+        "Mother lode"
+      ]
+    }
+  ]
+}

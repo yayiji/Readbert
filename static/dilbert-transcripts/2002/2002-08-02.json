@@ -1,0 +1,24 @@
+{
+  "date": "2002-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our budget cuts are affecting customer service.",
+        "How much?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our customer service center spends all day making prank calls to the elderly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "According to our records, your neighbor has treasure buried under his lawn."
+      ]
+    }
+  ]
+}

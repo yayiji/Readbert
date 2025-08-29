@@ -1,0 +1,37 @@
+{
+  "date": "1994-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on,",
+        "I'm going to",
+        "charge anybody",
+        "who gives me",
+        "their opinion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People are idiots.",
+        "If I have to listen to",
+        "their opinions, I",
+        "deserve compen-",
+        "sation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're forgetting",
+        "that \"From the mouths",
+        "of babes... comes",
+        "something good.\"",
+        "That'll",
+        "cost you",
+        "a buck."
+      ]
+    }
+  ]
+}

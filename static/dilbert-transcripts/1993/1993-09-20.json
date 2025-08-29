@@ -1,0 +1,27 @@
+{
+  "date": "1993-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm adjusting the pointer.pen laser light for my presentation tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm boosting the power so it's easier to see.",
+        "Watch it while I get the phone.",
+        "R-r-ring"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The aliens appear hostile, captain.",
+        "Set phasers to full power!",
+        "Zzzzz"
+      ]
+    }
+  ]
+}

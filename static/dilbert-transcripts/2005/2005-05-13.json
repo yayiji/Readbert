@@ -1,0 +1,28 @@
+{
+  "date": "2005-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, new guy, that's quite a stress hump you have there.",
+        "Maybe I can fix it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Punch",
+        "Yaaa!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow!! It's gone!",
+        "Does that always work?",
+        "I dunno.",
+        "To be honest, I just wanted to punch it."
+      ]
+    }
+  ]
+}

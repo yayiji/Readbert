@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello. My Crashinbox computer keeps freezing up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are 25 possible fixes but they must be tried in every possible combination."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's 625 things I'd have to try with no guarantee that any of it will work.",
+        "So you're saying you're lazy?"
+      ]
+    }
+  ]
+}

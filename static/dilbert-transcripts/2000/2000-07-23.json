@@ -1,0 +1,55 @@
+{
+  "date": "2000-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you met the new CIO?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hear he's young."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hello."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We need to integrate our enterprise resource planning with our existing e-commerce platform."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now if you'll excuse me, nature calls."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaahhh..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then we'll decentralize the procurement function and...",
+        "Hold on a second."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gramps, could you do me a huge favor?"
+      ]
+    }
+  ]
+}

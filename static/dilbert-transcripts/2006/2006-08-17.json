@@ -1,0 +1,25 @@
+{
+  "date": "2006-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services",
+        "You have exceeded your e-mail storage limit!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To increase your limit, you must get approval from your VP, the CIO, and one nonexistent person to be named later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm thinking either a yeti or a bikini model who is also an engineer.",
+        "Erk!"
+      ]
+    }
+  ]
+}

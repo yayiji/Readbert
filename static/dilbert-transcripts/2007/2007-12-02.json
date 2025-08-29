@@ -1,0 +1,57 @@
+{
+  "date": "2007-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This will just take a second.",
+        "No it won't."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's real quick.",
+        "Never is."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have my word that it will take no longer than five seconds."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay.",
+        "Go."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, good. So, I was walking by and I thought maybe I should stop and ask you something because...",
+        "Time's up."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Jerk",
+        "Liar"
+      ]
+    }
+  ]
+}

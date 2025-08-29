@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You already own the \"Acorn Series\" of Dogbert's commemorative plates..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a limited time you may also purchase my new issue: the \"French Guy With A Hat\" series."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My acorn plates are missing.",
+        "Tomorrow I'll introduce my new series: \"Russian With French Hat.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1990-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's hard to express how I feel when I'm with you.",
+        "Try."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Imagine a field of golden wheat on a sunny spring day.",
+        "Birds are singing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There...",
+        "that wasn't too hard.",
+        "Now imagine a tractor on your chest..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1992-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Quality...",
+        "Quality...",
+        "Quality...",
+        "It's working. All the employees are brainwashed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've done it! I've transformed the very fabric of the corporate culture!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Things sure have changed around here.",
+        "Yeah, for example, my arms are tired."
+      ]
+    }
+  ]
+}

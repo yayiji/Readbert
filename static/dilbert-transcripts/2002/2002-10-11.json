@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have a suggestion for reducing our inventory?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's sell it to our customers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that work?",
+        "Feel free to tell the board that it's your idea."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1997-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's my job to integrate the bad technology that our idiot boss bought with the good technology we already own.",
+        "Your advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Throw away the bad technology.",
+        "Goof off until the next planned upgrade of the good technology.",
+        "Tell your boss the improvements are a result of his brilliant buying decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow.",
+        "That's almost pure evil.",
+        "You're welcome."
+      ]
+    }
+  ]
+}

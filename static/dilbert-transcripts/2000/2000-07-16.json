@@ -1,0 +1,52 @@
+{
+  "date": "2000-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This plan is impractical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My philosophy is that if it isn't hard, it isn't worth doing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's easy to say."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So according to your philosophy, you shouldn't have said it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And it's easy to walk around.",
+        "Maybe you should hop on one foot."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or would it be better to recant your absurd philosophy..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...and bow before my superior reasoning capabilities?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

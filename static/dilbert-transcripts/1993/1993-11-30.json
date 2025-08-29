@@ -1,0 +1,36 @@
+{
+  "date": "1993-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Matt is fresh out of engineering school.",
+        "You'll be his mentor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whatever you do,",
+        "don't crush his",
+        "spirit before",
+        "Wednesday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why",
+        "put it",
+        "off so",
+        "long?",
+        "Because I bet",
+        "ten bucks",
+        "we could",
+        "string him",
+        "along until",
+        "Thursday."
+      ]
+    }
+  ]
+}

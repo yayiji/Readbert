@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've decided to be more family friendly in our policies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To compensate for the lost productivity, we'll be openly hostile to single people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't seem fair.",
+        "Shut up and get back to work, eunuch!"
+      ]
+    }
+  ]
+}

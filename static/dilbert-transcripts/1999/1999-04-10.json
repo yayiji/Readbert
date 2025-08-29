@@ -1,0 +1,23 @@
+{
+  "date": "1999-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I downsized the \"ease of use\" lab because there's no budget for a staff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They have a budget. I put it on the back of these two-sided photocopies!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, they lived by the sword, and they died by the sword."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1998-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's start by introducing ourselves."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Susan Block from I.T.G. I work for Emily Wooten."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm Max Blumf. I work for Susan."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm Alice. I work for... Uh... I..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Aaagh!!! I'm filled with shame by association!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why me?",
+        "Why why why"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Please take me to your group!",
+        "I'm not tainted!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can we start over? I forgot who the first three people are.",
+        "Sob"
+      ]
+    }
+  ]
+}

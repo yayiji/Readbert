@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The prescription drugs make me happy, but I worry that it's not genuine happiness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask your doctor for a drug that cures worrying. Then you'll have it all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might make you grow an exoskeleton, but you won't care.",
+        "Cool."
+      ]
+    }
+  ]
+}

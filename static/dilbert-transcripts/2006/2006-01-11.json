@@ -1,0 +1,24 @@
+{
+  "date": "2006-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's retirement planning seminar",
+        "I'll show you how to spend your golden years on the golf course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get a job caddying for people who have better jobs than you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never pay rent again, thanks to the patented Dog-bert breathing tube for sand traps!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1990-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "About 400 women turned me down for dates this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can only conclude one thing..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not enough quality women?",
+        "Sadly."
+      ]
+    }
+  ]
+}

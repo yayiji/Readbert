@@ -1,0 +1,58 @@
+{
+  "date": "2006-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's deeply discounted motivational speakers bureau."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need a slightly motivational speaker and I don't have much budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want to inspire my employees to work harder, without motivating them to seek better jobs."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I recommend Robbie, the frightening hobo."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Does he talk about his difficult journey from the dumpster to success?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We're not sure.",
+        "He mumbles."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But no one has ever become an entrepreneur after hearing him speak."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Mumble",
+        "Mumble",
+        "Mumble",
+        "Must...",
+        "Keep... job."
+      ]
+    }
+  ]
+}

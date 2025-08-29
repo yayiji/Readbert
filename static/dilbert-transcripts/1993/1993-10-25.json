@@ -1,0 +1,23 @@
+{
+  "date": "1993-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my time report, in fifteen minute increments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And here's my monthly project status, my budget forecast, my key accomplishments, my jeopardy list..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never has so little been measured so much."
+      ]
+    }
+  ]
+}

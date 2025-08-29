@@ -1,0 +1,53 @@
+{
+  "date": "2006-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm like the story of the auto mechanic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A woman has her car towed into the shop. The mechanic opens the hood and takes a look."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "After about ten seconds he takes a hammer and taps the engine. It starts right up."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The mechanic says, \"That will be $100, please.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The woman says, \"$100??? All you did was tap the engine!\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The mechanic says, \"It's $90 for knowing where to tap and $10 for the tap.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Tap!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "20 years ago I wouldn't have known which one of you to tap."
+      ]
+    }
+  ]
+}

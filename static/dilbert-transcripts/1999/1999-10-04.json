@@ -1,0 +1,24 @@
+{
+  "date": "1999-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, technology is a young man's game."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I'm replacing you with this low-paid embryo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Teach him to do what you do.",
+        "He's already doing it."
+      ]
+    }
+  ]
+}

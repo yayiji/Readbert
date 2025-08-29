@@ -1,0 +1,57 @@
+{
+  "date": "1995-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you in charge of project \"Biff.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Biff\" stands for \"Big improvements for free.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your job is to recommend ways to increase profits without spending money or changing anything."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have to spend money to make money.",
+        "If we had money to spend we wouldn't need to make money.",
+        "Duh"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The point is that you can make more money than you spend."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm not following your so-called \"point.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Logically, anything I don't understand is unimportant.",
+        "Have your report tomorrow."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So, you recommend... replacing all managers with lava lamps.",
+        "Here's a few bucks for the lava lamps."
+      ]
+    }
+  ]
+}

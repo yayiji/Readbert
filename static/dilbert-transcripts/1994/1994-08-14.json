@@ -1,0 +1,68 @@
+{
+  "date": "1994-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "\"Friends\" explained",
+        "A very special \"Dilbert\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Close friends",
+        "May I borrow your gum?",
+        "Sure. Reach in and take what you need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Buddies\"",
+        "Can I borrow your hammer?",
+        "Why not use your forehead as usual?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Work friends",
+        "So, how's your wife?",
+        "Dead. Same as last week."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Boyfriend/girlfriend (stereotypical view)",
+        "Love",
+        "Lust"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Boyfriend/girlfriend (modern correct view)",
+        "Lust",
+        "Television"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Platonic friends",
+        "Television?",
+        "Lust"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Man's best friend",
+        "By my estimate there are 2.6 billion females who do not desire you.",
+        "Name them."
+      ]
+    }
+  ]
+}

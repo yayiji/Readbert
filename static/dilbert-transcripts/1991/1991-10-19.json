@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's a five-letter word beginning with \"I\"..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means \"an idiot who doesn't know a five-letter word for idiot that starts with 'I'?\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Idiot.",
+        "Will that fit?"
+      ]
+    }
+  ]
+}

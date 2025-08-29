@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the Dogbert one-hour executive MBA course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Notice that I took your money and I'm giving you almost nothing in return."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was a case study.",
+        "We have time for one more."
+      ]
+    }
+  ]
+}

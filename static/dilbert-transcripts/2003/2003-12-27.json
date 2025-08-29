@@ -1,0 +1,25 @@
+{
+  "date": "2003-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I signed you up for a product awareness class.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They'll give you hands-on training for every product we sell.",
+        "Ple-e-ease..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're hoping to fix this problem in the next version."
+      ]
+    }
+  ]
+}

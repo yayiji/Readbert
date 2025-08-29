@@ -1,0 +1,27 @@
+{
+  "date": "1996-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have too many passwords in my life. What if I forget them?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'd lose your job!",
+        "You wouldn't be able to withdraw money or check phone messages!",
+        "You'd be dead in a week!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would have been a good time to be quietly supportive, Dogbert.",
+        "Oh, yeah,",
+        "that's a lot of fun."
+      ]
+    }
+  ]
+}

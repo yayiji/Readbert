@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, you are accused of shooting the CIO's credenza five times."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm writing \"Tina was bad\" on this cardboard.",
+        "I order you to attach it to a special hat for two weeks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did it go?",
+        "I got a suspended sentence."
+      ]
+    }
+  ]
+}

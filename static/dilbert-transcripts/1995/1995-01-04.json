@@ -1,0 +1,24 @@
+{
+  "date": "1995-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your contributions to \"United Charity\" are below average for your pay level."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, I donate ten percent of my income and thousands of hours to local groups not on your approved list."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Not a team player.\"",
+        "I fund an agency that keeps people like you away from society."
+      ]
+    }
+  ]
+}

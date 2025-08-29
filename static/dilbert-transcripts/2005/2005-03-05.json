@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My business trip to Elbonia was a big success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If anyone tells you that I caused a civil war that plunged their society into darkness, it's a lie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you loot me anything?",
+        "I didn't know your size."
+      ]
+    }
+  ]
+}

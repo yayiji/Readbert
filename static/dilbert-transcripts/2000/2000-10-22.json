@@ -1,0 +1,56 @@
+{
+  "date": "2000-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes a manager must deliver bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily I enjoy it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our sales force failed to meet their goals."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So I have to fire an engineer to reduce expenses.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You should fire the incompetent sales people!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's immoral to punish innocent engineers for the sins of sales people!",
+        "I will fight this all the way!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm firing Ted, not you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Fair enough.",
+        "Can you wait until I borrow his hole puncher?"
+      ]
+    }
+  ]
+}

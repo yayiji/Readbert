@@ -1,0 +1,23 @@
+{
+  "date": "2005-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't worry that the company is moving to a high-crime area."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My experts assure me that you'll have a 90% chance of survival every time you walk outside."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That estimate depends on the assumption that the gang members become exhausted from beating you up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The jury has reached a decision in the case of \"Dogbert vs. a big corporation.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We award Dogbert fifty million dollars because we hate big companies and we like little dogs with glasses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate my life.",
+        "And we award a Maytag dryer to Juror Mindy for being \"best dressed.\""
+      ]
+    }
+  ]
+}

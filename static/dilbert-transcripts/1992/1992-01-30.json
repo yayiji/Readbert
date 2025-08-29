@@ -1,0 +1,23 @@
+{
+  "date": "1992-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the new guy doing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's extremely productive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We think he's one of those bureaucracy savants."
+      ]
+    }
+  ]
+}

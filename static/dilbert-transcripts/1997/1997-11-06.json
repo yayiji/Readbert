@@ -1,0 +1,24 @@
+{
+  "date": "1997-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Most problems go away if you wait long enough, Asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It might look like I'm standing motionless, but I'm actively waiting for our problems to go away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's been a reorganization...",
+        "I don't know why this works, but it does."
+      ]
+    }
+  ]
+}

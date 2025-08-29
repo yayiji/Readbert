@@ -1,0 +1,25 @@
+{
+  "date": "1993-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the fire-walking seminar for managers",
+        "I don't think you're ready."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fire-walking requires complete confidence. Anything less could be dangerous."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm just chilly.",
+        "Fine... do it with your socks on."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I realize that casual dress day isn't easy for you engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you've exceeded the bounds of good taste. I've got to send you home to change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shut up, Wally.",
+        "I heard they were back! I swear!"
+      ]
+    }
+  ]
+}

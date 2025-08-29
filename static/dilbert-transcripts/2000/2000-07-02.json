@@ -1,0 +1,57 @@
+{
+  "date": "2000-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We had fifteen system failures with the previous software.",
+        "15"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your data aren't actionable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your presentation has no practical value."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, if that's suddenly a crime then call me guilty!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now the meeting feels awkward.",
+        "Can we go back to acting interested?",
+        "I guess."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine. Let's put this ugly incident behind us."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And if you multiply the digits you get five.",
+        "15"
+      ]
+    }
+  ]
+}

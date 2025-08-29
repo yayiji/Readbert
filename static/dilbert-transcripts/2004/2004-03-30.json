@@ -1,0 +1,25 @@
+{
+  "date": "2004-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Doctor Dogbert show",
+        "Your problem is that you're a lazy, selfish, immoral moron."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shouldn't you listen to my story before passing judgment?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm adding \"time-waster\" to the list.",
+        "You're like a miracle worker!"
+      ]
+    }
+  ]
+}

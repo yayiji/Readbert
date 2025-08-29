@@ -1,0 +1,25 @@
+{
+  "date": "1999-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hammerhead Bob",
+        "Are you going to lunch? I'll join you!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...And that's why it's called a \"clean room.\"",
+        "But how clean is it really?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll speak louder in case the other tables want in on this."
+      ]
+    }
+  ]
+}

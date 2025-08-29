@@ -1,0 +1,54 @@
+{
+  "date": "1995-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We just hired Jack away from our competitor. He was their best manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Jack will be in charge of project \"Goosefood.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like you two to brief Jack on the project."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Project \"Goosefood\" has no budget and no management support."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your job is to build a global information network in two weeks."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Failure is certain. Soon you will leave the industry in disgrace."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...Just like the other \"best managers\" we hired from our competitors."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Just out of curiosity, how did the project get its name?",
+        "Let's just say that you're the Goose food..."
+      ]
+    }
+  ]
+}

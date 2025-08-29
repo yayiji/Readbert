@@ -1,0 +1,25 @@
+{
+  "date": "2007-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I order some pens?",
+        "No. It's impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need a pen to fill out the pen request form. And if you have a pen, you're not allowed to order one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could borrow your pen.",
+        "That sounds like some sort of parasitic arrangement."
+      ]
+    }
+  ]
+}

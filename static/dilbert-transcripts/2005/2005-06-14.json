@@ -1,0 +1,32 @@
+{
+  "date": "2005-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my bill for the consulting work I've done for you over the past year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What consulting? I haven't seen any reports."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I did it all in my head.",
+        "I don't like to waste paper."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What's your recommendation?",
+        "Status quo.",
+        "You're doing everything right."
+      ]
+    }
+  ]
+}

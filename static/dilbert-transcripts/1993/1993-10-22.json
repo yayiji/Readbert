@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You fool!",
+        "You are nothing compared to me!",
+        "Ha ha ha ha ha!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you been speed-reading my self-help books again?",
+        "The idiots should put warning labels on those things."
+      ]
+    }
+  ]
+}

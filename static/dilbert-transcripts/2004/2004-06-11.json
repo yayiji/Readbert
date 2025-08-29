@@ -1,0 +1,25 @@
+{
+  "date": "2004-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I want you to work for the prima donna.",
+        "Do whatever he tells you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I point out that he has never produced anything except arrogance and noise?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You will stand behind me, and when I end a sentence, you will either say, \"Ta-da\" or \"Case closed.\"",
+        "Ta-da"
+      ]
+    }
+  ]
+}

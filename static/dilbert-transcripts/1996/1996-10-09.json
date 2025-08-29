@@ -1,0 +1,26 @@
+{
+  "date": "1996-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our strategic alliance is working well.",
+        "My company provides amazing technical skill and your company..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...has a seemingly endless supply of three-ring binders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Resistance is futile.",
+        "You will be assimilated.",
+        "Is it true that if your name is written in a binder you lose your soul?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "1993-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The budget for education was cut ten million dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that a big percentage?",
+        "Does it make any difference?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Congress considered a music safety law after studies showed a ten percent increase in piano-related deaths."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How does that compare to other health risks?",
+        "Should I be concerned?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Lawmakers debated a bill to lower capital gains tax rates..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What do most economists think?",
+        "Would it stimulate the economy much?",
+        "Should I care?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "A new poll shows that many voters have strong opinions on these issues despite the fact that we provide no useful contextual data."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I've got to stop watching scary shows right before bedtime."
+      ]
+    }
+  ]
+}

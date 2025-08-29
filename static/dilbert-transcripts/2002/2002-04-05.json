@@ -1,0 +1,25 @@
+{
+  "date": "2002-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It works fine on my machine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but this call is about my PC.",
+        "May we talk about my problem now?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay. Your PC is defective and you're selfish.",
+        "That's an attractive package you've got going there."
+      ]
+    }
+  ]
+}

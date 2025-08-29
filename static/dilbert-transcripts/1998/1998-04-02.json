@@ -1,0 +1,23 @@
+{
+  "date": "1998-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Human resources is prescribing powerful antidepressants to improve morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The label says it may cause \"unwarranted optimism about your dead-end job.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I gotta get me some of that."
+      ]
+    }
+  ]
+}

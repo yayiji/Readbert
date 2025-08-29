@@ -1,0 +1,27 @@
+{
+  "date": "1998-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fashion headquarters",
+        "You could be our next supermodel. I love the tumor.",
+        "It's a beauty mark."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We prefer our supermodels to look unhealthy, in a sexy way.",
+        "Okay, it's a tumor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can add a few more. It's just \"silly putty.\"",
+        "No, it would be easy to overdo that sort of thing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1995-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm terrified about my performance review tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Men have it easier.",
+        "You've been conditioned by years of rejection and general disdain.",
+        "We're lucky that way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Overall, I rated your performance as \"simian.\"",
+        "Thanks!"
+      ]
+    }
+  ]
+}

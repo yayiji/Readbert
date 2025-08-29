@@ -1,0 +1,24 @@
+{
+  "date": "2001-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ed, I want you to crosstrain Asok on the accounting system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And don't worry that you'll lose respect and job security if Asok learns your whole job in one day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think \"accounts receivable\" is an expense.",
+        "No one has complained yet."
+      ]
+    }
+  ]
+}

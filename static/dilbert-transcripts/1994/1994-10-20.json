@@ -1,0 +1,28 @@
+{
+  "date": "1994-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great news--you're fired!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You get a generous severance package,",
+        "two weeks' vacation,",
+        "and we hire you back as a contractor for more money!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I can telecommute if I want, but since dress codes don't apply to me...",
+        "Aargh!",
+        "Bonk",
+        "Bonk"
+      ]
+    }
+  ]
+}

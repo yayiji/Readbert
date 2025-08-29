@@ -1,0 +1,24 @@
+{
+  "date": "1995-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, corporate jet pilot",
+        "This is your captain speaking..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you'd like to land safely, there's something I've always wanted to see a CEO do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is so not funny."
+      ]
+    }
+  ]
+}

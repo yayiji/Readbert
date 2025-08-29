@@ -1,0 +1,25 @@
+{
+  "date": "1997-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to work with our marketing people to design a product brochure.",
+        "Groan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember, what we do here might seem like criminal fraud but it's not. It's marketing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, as long as it's not wrong...",
+        "Here's a jar to keep your conscience in. I'll put it in the closet with mine."
+      ]
+    }
+  ]
+}

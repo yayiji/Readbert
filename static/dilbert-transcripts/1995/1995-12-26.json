@@ -1,0 +1,24 @@
+{
+  "date": "1995-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is a living document."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaaah!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next time, just say you plan to update it.",
+        "Mine's dead."
+      ]
+    }
+  ]
+}

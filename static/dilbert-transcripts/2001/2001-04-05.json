@@ -1,0 +1,24 @@
+{
+  "date": "2001-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! I've been selected for the \"Who's incredible\" list!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For seventy-five dollars I can buy a leather-bound book with my name in it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha! And people said I was too gullible to be a success!",
+        "\"Dear occupant\""
+      ]
+    }
+  ]
+}

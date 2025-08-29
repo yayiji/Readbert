@@ -1,0 +1,23 @@
+{
+  "date": "1993-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert has agreed to talk to the class about exciting careers in the field of engineering!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's more to being an engineer than just writing technical memos that nobody reads."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Once in a while, somebody reads one. Then you have to find a scapegoat, or use some vacation time and hope it all blows over."
+      ]
+    }
+  ]
+}

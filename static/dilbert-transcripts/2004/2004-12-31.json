@@ -1,0 +1,26 @@
+{
+  "date": "2004-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This department has nothing to fear about the reorganization but fear itself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't think about it...",
+        "Don't think about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I'm pretty sure that that doesn't mean anything.",
+        "Maybe less.",
+        "Dang"
+      ]
+    }
+  ]
+}

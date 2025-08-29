@@ -1,0 +1,23 @@
+{
+  "date": "1991-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've solved an ancient puzzle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I figured out how many angels can dance on the head of a pin!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't care what he thinks... the answer is six."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1990-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I need your help.",
+        "Check my computer to see if there is any way to reverse the spell and make me human!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm...",
+        "\"The only way to reverse a frog spell\" is a kiss from a dog or a princess..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What'd it say?!",
+        "Gargle.",
+        "You're gonna visit Lady Di."
+      ]
+    }
+  ]
+}

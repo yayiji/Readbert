@@ -1,0 +1,23 @@
+{
+  "date": "2006-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're too cute to work in engineering. I'm transferring you to sales."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one wants to hurt a baby. Use that to your advantage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if you buy the deluxe package I won't be emotionally scarred for life."
+      ]
+    }
+  ]
+}

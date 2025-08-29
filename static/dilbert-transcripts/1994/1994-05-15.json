@@ -1,0 +1,54 @@
+{
+  "date": "1994-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, guys. How are your families?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you pretending to be interested in our personal lives?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's a management technique to increase your job satisfaction without giving you more money."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My plan is to boost your intangible benefits while continuing to chisel away at your salaries."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But enough about me... how are those families of yours?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My wife divorced me because you make me work so many hours.",
+        "This job lowers my self-esteem too much to attract a mate."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Tell them I said \"hi.\""
+      ]
+    }
+  ]
+}

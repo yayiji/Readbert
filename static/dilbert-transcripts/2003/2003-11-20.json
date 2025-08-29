@@ -1,0 +1,25 @@
+{
+  "date": "2003-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I desperately need to take this training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can't spare you.",
+        "Send Wally and have him tell you what he learned."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm awed by the sheer artistry of your mismanagement skills.",
+        "Thank you."
+      ]
+    }
+  ]
+}

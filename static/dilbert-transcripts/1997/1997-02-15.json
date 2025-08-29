@@ -1,0 +1,27 @@
+{
+  "date": "1997-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Wendy, my new secretary.",
+        "I didn't know secretaries could have secretaries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now will you have time to process my pay increase? It's been on your desk for three months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha",
+        "Ha ha ha",
+        "Ha ha ha",
+        "Here's another case where more is not better."
+      ]
+    }
+  ]
+}

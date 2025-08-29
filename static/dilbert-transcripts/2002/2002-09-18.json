@@ -1,0 +1,24 @@
+{
+  "date": "2002-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In elbonia",
+        "Yes, my company is so broke that our dress code is barrels..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But what we lack in fashion we make up for in... umm..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I already say lack of fashion?"
+      ]
+    }
+  ]
+}

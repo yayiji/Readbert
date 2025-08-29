@@ -1,0 +1,23 @@
+{
+  "date": "2005-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new magazine is called \"Gullible World.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This month's cover story is \"Shed pounds by yelling at your children.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next month will be \"Eat your way to being a better parent.\""
+      ]
+    }
+  ]
+}

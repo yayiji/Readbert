@@ -1,0 +1,24 @@
+{
+  "date": "1997-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wish me luck. I'm off to get my performance review."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you been napping? You've got a bad case of keyboard face."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's wrong with your face?",
+        "I have Qwertyis. It's from working too hard."
+      ]
+    }
+  ]
+}

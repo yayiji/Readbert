@@ -1,0 +1,68 @@
+{
+  "date": "2006-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't start designing the product until someone tells us what features it should have."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's like saying you can't play on the beach unless you know how many grains of sand there are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... I don't think it's very much like that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Analogy police.",
+        "Come with me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are you taking me to jail for making a bad analogy?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The analogy police don't use a real jail.",
+        "We use something similar."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You'll be here with this beautiful woman."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Really?",
+        "That's not so bad."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "She's the one being punished."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Your necktie is like Hitler at an ice rink."
+      ]
+    }
+  ]
+}

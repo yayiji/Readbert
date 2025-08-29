@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're not welcome here, cat.",
+        "It's against house rules to eat Ratbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My work here is not done until I have pounced on my natural enemy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who are you, and what are you doing on my keyboard?"
+      ]
+    }
+  ]
+}

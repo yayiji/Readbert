@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only way to meet our sales target is by selling to customers who have bad credit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's okay. We'll get our bonuses before anyone realizes that the accounts receivables are worthless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The key to getting bonuses is acting surprised later.",
+        "I feel unclean."
+      ]
+    }
+  ]
+}

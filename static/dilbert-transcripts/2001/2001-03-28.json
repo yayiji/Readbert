@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, I'm starting a power utility company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be my director of marketing.",
+        "Your job is to increase revenue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Normally I'm an herbivore, Billy,",
+        "but when the lights go off..."
+      ]
+    }
+  ]
+}

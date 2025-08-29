@@ -1,0 +1,27 @@
+{
+  "date": "2005-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you died.",
+        "No, I feel great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sure you're dead.",
+        "Your head is a skull.",
+        "I cut back on carbs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your head isn't even attached to your body.",
+        "I take yoga."
+      ]
+    }
+  ]
+}

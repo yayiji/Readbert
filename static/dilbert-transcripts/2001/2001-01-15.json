@@ -1,0 +1,24 @@
+{
+  "date": "2001-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you to meet our ad agency's creative team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pete Peters, Robert Roberts, and Holly Hollister."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Witty remark, anyone?",
+        "I've got nothing."
+      ]
+    }
+  ]
+}

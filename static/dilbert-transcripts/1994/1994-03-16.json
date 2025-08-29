@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll need a name for the newly reorganized department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The name should reflect how I've seamlessly integrated engineering with food services and procurement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about \"chips and dips\"?",
+        "\"Blind ambition\"",
+        "\"The unleaded\""
+      ]
+    }
+  ]
+}

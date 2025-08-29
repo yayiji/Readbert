@@ -1,0 +1,24 @@
+{
+  "date": "1991-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're making a company commercial. Memorize these lines."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Wally! I was specially bred to serve you and take abuse, o magnificent customer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It sounds a little unnatural.",
+        "I'm Raquel. I'll be your love puppet if you buy from us."
+      ]
+    }
+  ]
+}

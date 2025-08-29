@@ -1,0 +1,25 @@
+{
+  "date": "2005-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I took the liberty of calculating how rich you'd have to be..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Before I'd be willing to date you.",
+        "The number is four trillion dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're happily married.",
+        "That's all factored in."
+      ]
+    }
+  ]
+}

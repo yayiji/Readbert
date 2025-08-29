@@ -1,0 +1,24 @@
+{
+  "date": "1992-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sending all of you to the \"rivers and trees\" management course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There you'll be asked to perform a variety of dangerous tasks in the woods. Your survival will depend on your creativity and ability to work together."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, so it's a team-building exercise.",
+        "I think of it more as a headcount reduction thing."
+      ]
+    }
+  ]
+}

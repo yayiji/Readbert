@@ -1,0 +1,25 @@
+{
+  "date": "2006-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your lawyer threatened to sue if I fire you for gross incompetence.",
+        "So I decided to let you stay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And we've moved to an alphabetical system for awarding \"employee of the month.\"",
+        "This is your month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stupid alphabet."
+      ]
+    }
+  ]
+}

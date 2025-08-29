@@ -1,0 +1,25 @@
+{
+  "date": "1993-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, would you add my name to your patent application?",
+        "Why should I?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would consider upgrading your status from \"co-worker\" to \"friend I never see outside of work.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would we eat lunch together?",
+        "No, but I'll pencil you in and cancel at the last minute."
+      ]
+    }
+  ]
+}

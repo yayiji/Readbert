@@ -1,0 +1,58 @@
+{
+  "date": "2007-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a cost estimate on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have no idea.",
+        "I haven't even gathered the user requirements."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't worry.",
+        "I won't hold you to the estimate."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes you will.",
+        "You will put it in the plan, forget we had this conversation, and fire me when I go over budget."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Give me a number or I'll fire you right now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, it will cost ten million dollars."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's too high.",
+        "If you already know the cost, why are you asking me?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So you'll feel like you had input.",
+        "Is input supposed to feel this bad?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1998-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm collecting for Ed's farewell gift."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ed, you treated me like dirt. I find you guilty and I fine you five dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just put that in there.",
+        "Come back if you get more."
+      ]
+    }
+  ]
+}

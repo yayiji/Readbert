@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you spare any office supplies? I'm on an underfunded project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about a three-ring binder with one ring?",
+        "Score!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll melt into the background and let you get back to your palace and your fancy coffee.",
+        "It's a mocha."
+      ]
+    }
+  ]
+}

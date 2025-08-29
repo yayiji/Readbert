@@ -1,0 +1,30 @@
+{
+  "date": "1998-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I must warn you, I'm one of those women who like to curse at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "%#*",
+        "!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was a warm-up."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My ears fell off!!"
+      ]
+    }
+  ]
+}

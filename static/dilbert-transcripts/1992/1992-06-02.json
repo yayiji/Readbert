@@ -1,0 +1,24 @@
+{
+  "date": "1992-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This video phone will be a big help for dating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This way I can weed out the unattractive prospects in seconds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't there a camera on your end too?",
+        "No system is perfect."
+      ]
+    }
+  ]
+}

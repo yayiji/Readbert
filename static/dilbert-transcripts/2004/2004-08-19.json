@@ -1,0 +1,27 @@
+{
+  "date": "2004-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Product designer",
+        "I bring you the future of product design for consumer electronics."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Behold nature's perfect shape!",
+        "Your customers will form an emotional bond."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think your ego influenced the design process?",
+        "Bah!",
+        "It's wagging."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Aaagh! I'm having a recovered memory of ritual abuse!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You had your annual performance review this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do the memories ever fade?",
+        "It takes about twelve months."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert is assigned to prepare the budget.",
+        "You'll have to learn our budget system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was developed 400 years ago by a crazed monk who sealed himself in a wine cask."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unfortunately, we still have him.",
+        "Hey, I've got another idea."
+      ]
+    }
+  ]
+}

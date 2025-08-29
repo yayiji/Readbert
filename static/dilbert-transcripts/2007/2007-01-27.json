@@ -1,0 +1,23 @@
+{
+  "date": "2007-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, your assignment is to buy a display case for our awards."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then go to the awards store and buy a bunch of awards because we don't have any."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The next one is for \"best unethical filling of an awards showcase.\""
+      ]
+    }
+  ]
+}

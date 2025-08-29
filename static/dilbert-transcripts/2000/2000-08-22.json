@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Employees waste too much time at funerals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "On a related note, our heating costs are too high."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As a matter of fact, I would mind being cremated in the company furnace."
+      ]
+    }
+  ]
+}

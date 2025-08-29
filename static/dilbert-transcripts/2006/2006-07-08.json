@@ -1,0 +1,29 @@
+{
+  "date": "2006-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I know your résumé was embellished, you need to talk to the VP of Human Resources."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you going to fire me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nah. I'll let you in on a little secret."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm the ficus tree that used to be in the lobby."
+      ]
+    }
+  ]
+}

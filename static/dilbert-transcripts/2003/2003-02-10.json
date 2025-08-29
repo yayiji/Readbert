@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My medication makes me happy despite my exoskeleton, bad job, and social life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If chemicals can change the way I think and what I enjoy, then free will must be an illusion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about your soul?",
+        "I'm an engineer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I call it \"Dogbert's reincarnation investment fund.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You give me your money now and I invest it until you reincarnate.",
+        "The compound interest will make you rich!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I come back as a cow?",
+        "You'll save a fortune in milk."
+      ]
+    }
+  ]
+}

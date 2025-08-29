@@ -1,0 +1,55 @@
+{
+  "date": "1999-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good idea, Dilbert.",
+        "I made a few changes and sent it out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You removed the parts that made it a visionary idea!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now it's just an unimaginative retread of an idea that has been widely discredited."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Gaaa! And it has my name on it!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That idea was the energizing force that gave me strength to work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now it's dead! You killed it!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd love to chat but I have to manage someone else now.",
+        "Gurgle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac the preventer of information services.",
+        "You have exceeded your server storage limit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's 25 cents so you can afford to double my storage space."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think my mystique just took a hit."
+      ]
+    }
+  ]
+}

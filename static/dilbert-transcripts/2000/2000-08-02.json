@@ -1,0 +1,25 @@
+{
+  "date": "2000-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I'm giving you a promotion in title.",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now you're the senior vice duke and imperial majesty of all engineering."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I have business cards now?",
+        "No, you're only a vice duke."
+      ]
+    }
+  ]
+}

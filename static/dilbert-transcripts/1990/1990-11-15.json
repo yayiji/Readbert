@@ -1,0 +1,25 @@
+{
+  "date": "1990-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm Dilbert's ego.",
+        "I'd like to update my image with a toupee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend the \"Roy Orbison\" model.",
+        "It comes with sunglasses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I won't have to rely so heavily on my personality."
+      ]
+    }
+  ]
+}

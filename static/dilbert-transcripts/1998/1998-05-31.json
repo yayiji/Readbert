@@ -1,0 +1,59 @@
+{
+  "date": "1998-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pharmacy"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this one line or two?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll hedge my bets by standing in the middle."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This guy is confused too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Get behind me...",
+        "Get behind me...",
+        "Get behind me...",
+        "Get behind me..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh-no! He's forming a new line behind the fast cashier!",
+        "#!%*"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "He's distracted!",
+        "I take the angle!",
+        "I win!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Stress medications are the other line."
+      ]
+    }
+  ]
+}

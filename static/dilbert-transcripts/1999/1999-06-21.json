@@ -1,0 +1,24 @@
+{
+  "date": "1999-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now move the thing next to the other thing and label it \"ram cache.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm your boss, so it stands to reason that I'm a better engineer than you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm telling you I'm working on my time-line chart.",
+        "No, I'm sure that's a circuit design."
+      ]
+    }
+  ]
+}

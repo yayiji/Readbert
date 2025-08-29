@@ -1,0 +1,53 @@
+{
+  "date": "2003-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What the...? These aren't even my objectives!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who said these things about me?!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if I make someone write a glowing e-mail about me?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Morale slipping away... hair... so... limp."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Whatever. There's no budget for raises anyway."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...Wool-covered pile of ignorant monkey spit."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "A falafel would hit the spot."
+      ]
+    }
+  ]
+}

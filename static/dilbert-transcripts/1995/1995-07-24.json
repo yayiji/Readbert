@@ -1,0 +1,27 @@
+{
+  "date": "1995-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As usual, the boss is late.",
+        "What do you want to do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's practice making small talk.",
+        "It'll come in handy when we meet with marketing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, Alice, haven't we seen that outfit a lot?",
+        "This chair is springy.",
+        "Do you think they're all springy?"
+      ]
+    }
+  ]
+}

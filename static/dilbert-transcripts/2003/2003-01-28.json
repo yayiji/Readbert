@@ -1,0 +1,23 @@
+{
+  "date": "2003-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In response to your continuous harping about not having enough funding..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hired an expensive consultant to analyze your budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll have to run some chaos and complexity simulations, but it looks as if you need more money."
+      ]
+    }
+  ]
+}

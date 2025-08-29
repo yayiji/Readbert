@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become an optometrist for near-sighted visionaries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're ideal customers because they never expect the worst."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which price am I most likely to charge you?",
+        "The low one!"
+      ]
+    }
+  ]
+}

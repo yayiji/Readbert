@@ -1,0 +1,25 @@
+{
+  "date": "1997-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you on a \"need to know\" basis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a complete list of the things I need to know.",
+        "If it's not on the list, I probably don't need to hear it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Number one: \"Run for it, Dogbert! The volcano is erupting!\"",
+        "Plurals will also be allowed."
+      ]
+    }
+  ]
+}

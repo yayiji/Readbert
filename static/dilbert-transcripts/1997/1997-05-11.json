@@ -1,0 +1,56 @@
+{
+  "date": "1997-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Carl, the cubicle dwellers' friend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I travel from cubicle to cubicle to tell people how hard I'm working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am working so-o-o-o hard.",
+        "Work, work, work. It's all I do."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How is that possible?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You walk around all day with that coffee cup resting on your belly."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Does your job description say \"Transport coffee cup on belly\"?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "He's a terrible conversationalist."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How many miles per gallon do you get?",
+        "Hypothetically, if you were downsized, how would the cup get around?",
+        "What's wrong with these people?"
+      ]
+    }
+  ]
+}

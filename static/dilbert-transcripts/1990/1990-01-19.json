@@ -1,0 +1,24 @@
+{
+  "date": "1990-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your first day as a substitute school teacher?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Imagine feeling completely powerless. Like a marble statue..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gosh... that sounds pretty bad.",
+        "Now imagine the biggest flock of pigeons you ever saw..."
+      ]
+    }
+  ]
+}

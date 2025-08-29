@@ -1,0 +1,54 @@
+{
+  "date": "2007-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're planning to outsource half of the department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't tell anyone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it true that half of the department will be outsourced?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Before you answer, I should tell you that I've made a list..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...of all the responses that mean the same as yes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "For example, if you say, \"ignore the rumors,\" that means yes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Also on the list are, \"Why do you ask?\" and, \"Who told you that?\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That list is stupid.",
+        "Gaaa!!! That's number 8 on my list!!!"
+      ]
+    }
+  ]
+}

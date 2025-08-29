@@ -1,0 +1,24 @@
+{
+  "date": "1993-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anybody have any questions about our plan?",
+        "Ask me anything-there are no \"stupid\" questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you crossed the international date line on your birthday, would you still get presents?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh great... there are stupid questions and I don't know the answers."
+      ]
+    }
+  ]
+}

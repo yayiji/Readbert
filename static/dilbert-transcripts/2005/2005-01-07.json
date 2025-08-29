@@ -1,0 +1,24 @@
+{
+  "date": "2005-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new strategy is to sell fewer units at higher margins."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: How's that different from saying our sales stink, so we're cutting costs?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I call it a strategy so you won't lose hope.",
+        "It's working great."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, after I left the meeting yesterday, did you blame me for the failure of the project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm getting a bad vibe from people today. That sort of rumor could stain my reputation and ruin my entire future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How dare you accuse me...",
+        "Well, well. Look who's impeding Wally again."
+      ]
+    }
+  ]
+}

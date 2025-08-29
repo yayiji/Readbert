@@ -1,0 +1,54 @@
+{
+  "date": "1998-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "While you toil in utter futility, I'm building my personal \"brand equity.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm increasing my skills and my contacts every day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My dream is to become the \"Kleenex\" of engineers!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "'Scuse me. I have real work to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ooh... sneeze coming."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaah..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Choo!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think of Wally as the \"Kleenex\" of engineers.",
+        "Me too."
+      ]
+    }
+  ]
+}

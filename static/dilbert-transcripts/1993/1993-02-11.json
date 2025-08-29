@@ -1,0 +1,26 @@
+{
+  "date": "1993-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is a creativity consultant.",
+        "We don't need any of your \"intuition\" mumbo jumbo.",
+        "We need quantitative data!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only way to make decisions is to pull numbers out of the air, call them \"assumptions,\" and calculate the net present value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course, you have to use the right discount rate, otherwise it's meaningless.",
+        "Go away."
+      ]
+    }
+  ]
+}

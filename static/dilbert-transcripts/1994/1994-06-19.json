@@ -1,0 +1,55 @@
+{
+  "date": "1994-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your new cubicle: the \"Cuborg 2000.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a self-sufficient work space and life-support system!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These tubes attach to various parts of your body so you never have to leave."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "\"Various parts\"?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's just say you don't want to get these two tubes mixed up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We'll monitor your vital signs from a central location.",
+        "The company nurse?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, the human resources department, in case we have to do some emergency hiring."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it upgradeable?",
+        "Yeah, the Cuborg 3000 is expected to have air holes."
+      ]
+    }
+  ]
+}

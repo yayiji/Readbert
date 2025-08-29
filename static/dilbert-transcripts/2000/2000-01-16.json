@@ -1,0 +1,53 @@
+{
+  "date": "2000-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, can you help me install an ethernet card?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tina, I am not your personal tech support."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you know how to do it and I don't."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well... that is true."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Could you carry the PC to my new cubicle? It's too heavy for me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Someday I'll repay you by teaching you about semicolons."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How come I have many useful skills and you have none?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I guess I'm just lucky."
+      ]
+    }
+  ]
+}

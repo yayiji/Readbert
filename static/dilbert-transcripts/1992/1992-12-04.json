@@ -1,0 +1,24 @@
+{
+  "date": "1992-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that you're the supreme ruler of Earth, will you become morally corrupt?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, that's my plan.",
+        "It's really the only way to enjoy a job like this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And of course I'll be raising taxes just to see the expressions on your faces."
+      ]
+    }
+  ]
+}

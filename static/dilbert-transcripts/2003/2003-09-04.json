@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mike the vegan",
+        "I use no animal products whatsoever!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your clothes were created on sewing machines that used electricity from coal and oil, and those come from dead dinosaurs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to start making exceptions."
+      ]
+    }
+  ]
+}

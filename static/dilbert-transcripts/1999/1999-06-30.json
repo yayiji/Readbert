@@ -1,0 +1,25 @@
+{
+  "date": "1999-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My cube farm has an excellent crop this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here you go, fella. This will fatten you up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you ever need salt, just lick this pretzel stick.",
+        "Mmm...",
+        "Ooh!"
+      ]
+    }
+  ]
+}

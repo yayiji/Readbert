@@ -1,0 +1,25 @@
+{
+  "date": "2005-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources.",
+        "I need help balancing my career with my personal life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend a book called \"No one will ever love you.\" It'll crush your hope for a personal life and free up more time for work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds unhealthy.",
+        "Take a pill, crybaby."
+      ]
+    }
+  ]
+}

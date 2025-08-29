@@ -1,0 +1,51 @@
+{
+  "date": "2000-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to start with a diagram."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a bunch of shapes connected by lines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I will say some impressive words."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Synchronized incremental digital integrated dynamic e-commerce space."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "May I have a copy of your presentation?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The results of my experiment are disturbing."
+      ]
+    }
+  ]
+}

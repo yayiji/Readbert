@@ -1,0 +1,35 @@
+{
+  "date": "1994-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, well, it looks like",
+        "Zimbu has designed",
+        "another commercially",
+        "viable product using",
+        "only his tail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could have done",
+        "that... if I hadn't",
+        "erased my hard drive",
+        "when I installed my",
+        "security software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't produce much,",
+        "but it's very secure.",
+        "Here's",
+        "another",
+        "one."
+      ]
+    }
+  ]
+}

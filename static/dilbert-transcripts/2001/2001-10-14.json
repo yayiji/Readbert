@@ -1,0 +1,57 @@
+{
+  "date": "2001-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, if anyone calls, say I'm in a meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What meeting?",
+        "It doesn't matter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Rrrring",
+        "#!*&? Vague instructions."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He's at his weekly meeting of \"Morons Anonymous.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's a long meeting.",
+        "They usually get into an argument about the definition of \"anonymous.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Half of them think it means \"angry.\"",
+        "Then someone throws a chair and it's pandemonium."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The whole thing usually ends with a shoe-sniffing contest."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Your mom called."
+      ]
+    }
+  ]
+}

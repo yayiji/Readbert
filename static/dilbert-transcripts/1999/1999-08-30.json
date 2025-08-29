@@ -1,0 +1,24 @@
+{
+  "date": "1999-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We like to promote from within the company, asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But what we like even more is yanking your chain and then hiring from the outside!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Explain why you work here if you're so smart.",
+        "I'm timid."
+      ]
+    }
+  ]
+}

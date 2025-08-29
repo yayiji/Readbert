@@ -1,0 +1,23 @@
+{
+  "date": "2007-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employees are getting all whiney about the asbestos in the ceiling."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I told them it wasn't dangerous, but apparently I'm not credible in this hazmat suit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think it's fair that they judge me by my clothes."
+      ]
+    }
+  ]
+}

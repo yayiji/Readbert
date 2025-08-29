@@ -1,0 +1,26 @@
+{
+  "date": "1997-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Visiting the customer",
+        "No one has ever been fired for buying our product!",
+        "That's true."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is the occasional savage beating...",
+        "and more than our share of suicides..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that has \"statistical clustering\" written all over it."
+      ]
+    }
+  ]
+}

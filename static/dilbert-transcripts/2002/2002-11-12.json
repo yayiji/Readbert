@@ -1,0 +1,25 @@
+{
+  "date": "2002-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, go get the short-timer and push his chair to my office.",
+        "Is he injured?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, he refuses to move his arms or legs until retirement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you a good example of what is called a \"piece of work\"?",
+        "Except for the \"work\" part."
+      ]
+    }
+  ]
+}

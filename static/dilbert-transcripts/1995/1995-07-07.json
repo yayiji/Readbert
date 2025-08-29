@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new dress policy at work allows casual clothes on Fridays."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's good, because studies have shown that Fridays are the only safe day to dress casually; any other day would cause a stock plunge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it just me or is that policy stupid?",
+        "That's not an \"or\" question."
+      ]
+    }
+  ]
+}

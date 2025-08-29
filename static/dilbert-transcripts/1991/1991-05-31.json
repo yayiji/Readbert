@@ -1,0 +1,25 @@
+{
+  "date": "1991-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is my new optical disk player for the computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I can instantly access the works of Shakespeare or study the history of Greece!",
+        "How often do you need to do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You just don't understand technology, do you?",
+        "I'm just a dog."
+      ]
+    }
+  ]
+}

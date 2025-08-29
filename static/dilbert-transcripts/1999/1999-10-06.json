@@ -1,0 +1,25 @@
+{
+  "date": "1999-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the new guy doing?",
+        "Not bad for an embryo in a jar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate the fact that he only got fertilized a week ago and he gets paid more than I do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In all fairness, he does obstruct progress less than you do.",
+        "Everyone sides with the cute one."
+      ]
+    }
+  ]
+}

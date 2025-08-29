@@ -1,0 +1,26 @@
+{
+  "date": "1995-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Terrible news:",
+        "My boss assigned me to a fun and valuable project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh. That means at least three morons will be assigned to similar projects. You must find them and crush them...",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carl, old buddy, whatcha workin' on these days?",
+        "Nothing fun and valuable. Shoo shoo!!"
+      ]
+    }
+  ]
+}

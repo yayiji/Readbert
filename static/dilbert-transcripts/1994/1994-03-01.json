@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Reengineering is simple. You start by questioning the employees who would get fired if you succeed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then you use that objective data to design a more efficient business process."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you say you use flying monkeys to deliver the finished design?",
+        "They're very fast."
+      ]
+    }
+  ]
+}

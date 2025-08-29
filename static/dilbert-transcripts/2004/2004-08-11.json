@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Send the salary spreadsheet to human resources."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't let anyone else see it.",
+        "That sort of information could sow the seeds of discontent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'd have massive disloyalty, fights, vandalism, maybe even riots."
+      ]
+    }
+  ]
+}

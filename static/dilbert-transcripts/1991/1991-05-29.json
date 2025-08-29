@@ -1,0 +1,23 @@
+{
+  "date": "1991-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should think about washing the car soon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're right... it's just so easy to get used to it being dirty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But lately it's been affecting my gas mileage."
+      ]
+    }
+  ]
+}

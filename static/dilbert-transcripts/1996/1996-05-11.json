@@ -1,0 +1,25 @@
+{
+  "date": "1996-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, career counselor",
+        "I'm a lowly technical writer now, but my goal is to become a famous novelist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to write witty and scathing e-mail messages about co-workers until a publisher gives me an advance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They might expect you to write a book at some point.",
+        "Blood suckers!"
+      ]
+    }
+  ]
+}

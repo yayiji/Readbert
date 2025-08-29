@@ -1,0 +1,24 @@
+{
+  "date": "1999-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This one has been on my desk for a month.",
+        "It's critical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll stick it back in the pile and see if that helps."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, I feel better already."
+      ]
+    }
+  ]
+}

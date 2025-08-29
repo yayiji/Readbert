@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO says we are poised for huge growth in earnings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In an unrelated move, he announced that he will leave the company before any of his stock options vest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The poor guy will miss all of our growth."
+      ]
+    }
+  ]
+}

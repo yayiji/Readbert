@@ -1,0 +1,24 @@
+{
+  "date": "1990-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't believe she agreed to have dinner with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm afraid to say anything to spoil this moment..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess I should say something to break the ice.",
+        "Did I mention that I'm a witch?"
+      ]
+    }
+  ]
+}

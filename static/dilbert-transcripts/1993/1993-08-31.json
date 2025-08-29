@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you realize the government takes half of all the money you make?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And the majority of people are too young to vote, or didn't bother to vote, or voted for the loser.",
+        "And nobody alive voted for our constitution."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's never good when you have these insights.",
+        "I've decided to levy my own tax on people."
+      ]
+    }
+  ]
+}

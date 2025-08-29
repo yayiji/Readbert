@@ -1,0 +1,26 @@
+{
+  "date": "1992-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everybody pick a straw.",
+        "The loser has to kill our abusive co-worker, Floyd."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert loses.",
+        "He picked the blue straw."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought the short straw loses.",
+        "You're already a murderer; don't be a cheater too."
+      ]
+    }
+  ]
+}

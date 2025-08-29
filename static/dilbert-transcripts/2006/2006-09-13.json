@@ -1,0 +1,23 @@
+{
+  "date": "2006-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Per your suggestion, I asked our customer to voluntarily pay us more money to cover our bidding error."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It might surprise you to learn that our customer doesn't like that idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You probably made it sound like a bad thing."
+      ]
+    }
+  ]
+}

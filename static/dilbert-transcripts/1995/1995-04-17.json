@@ -1,0 +1,25 @@
+{
+  "date": "1995-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going into business as a financial advisor.",
+        "Sounds hard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's easy. I'll tell all my clients to invest in the \"Dogbert deferred earnings fund.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that a conflict of interest?",
+        "Only if I show interest in the client."
+      ]
+    }
+  ]
+}

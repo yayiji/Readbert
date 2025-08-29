@@ -1,0 +1,24 @@
+{
+  "date": "1991-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Paper or plastic bag?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Paper that can be recycled ... or an evil, selfish, short-sighted, planet-destroying, stupid plastic bag?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Plastic.",
+        "Good. That's all we have."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sue was hired to run our new \"dignity enhancement\" program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Her charter is to help the employees feel good about themselves while they work harder for less money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can we afford to hire somebody new?",
+        "Do you remember those co-workers you used to have?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1993-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a brochure for \"Dogbert's seminar on management zombies.\"",
+        "I think you should go."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Learn how to use words like: utilize, paradigm, vertical empowerment, and proactive in every sentence.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not sure I want to talk like that.",
+        "Come...",
+        "Join us...",
+        "Don't be afraid..."
+      ]
+    }
+  ]
+}

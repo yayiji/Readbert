@@ -1,0 +1,23 @@
+{
+  "date": "2007-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should check with Ted to see if he knows about this sort of thing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll add that to my list of marginally useful things that other people have suggested I do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, agreeing isn't enough. You also need to say it a certain way."
+      ]
+    }
+  ]
+}

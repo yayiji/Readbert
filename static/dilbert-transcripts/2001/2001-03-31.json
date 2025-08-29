@@ -1,0 +1,24 @@
+{
+  "date": "2001-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And I have five years experience as a dot-com president."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're in luck.",
+        "We need someone who can burn through twenty million dollars without making a profit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really? The last nine interviewers said the same thing but they were joking."
+      ]
+    }
+  ]
+}

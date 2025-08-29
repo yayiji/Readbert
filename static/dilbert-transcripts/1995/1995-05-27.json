@@ -1,0 +1,26 @@
+{
+  "date": "1995-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In my dream I float over fields of heather.",
+        "Hi! I'm Heather."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The flying dream always predicts an important change.",
+        "I feel that my freedom will soon increase."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does somebody else have a question for our new CEO?",
+        "My finger is stuck."
+      ]
+    }
+  ]
+}

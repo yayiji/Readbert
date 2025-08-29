@@ -1,0 +1,25 @@
+{
+  "date": "2006-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My space defense shield detects an incoming threat.",
+        "I am launching intercept rockets."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently the boys at Google used a death ray to blast the International Space Station out of orbit and toward our house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you have a space defense shield?",
+        "Doesn't that seem like a stupid question now?"
+      ]
+    }
+  ]
+}

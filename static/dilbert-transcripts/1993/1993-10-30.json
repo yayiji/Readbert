@@ -1,0 +1,26 @@
+{
+  "date": "1993-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wish you'd realize that you're a garbage man, not an engineer.",
+        "I don't need your suggestions on my designs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are you writing?",
+        "Oh yeah, as if I care."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need help understanding that, the paper boy will be by soon.",
+        "I've been working with him."
+      ]
+    }
+  ]
+}

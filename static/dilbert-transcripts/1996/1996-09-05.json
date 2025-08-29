@@ -1,0 +1,27 @@
+{
+  "date": "1996-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Network administrator",
+        "I have forgotten my password.",
+        "I humbly beg for assistance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have no time for boring administrative tasks, you fool!",
+        "I'm busy upgrading the network!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could have given me a new password in the time it took to belittle me.",
+        "Yes, but which option would give me job satisfaction?"
+      ]
+    }
+  ]
+}

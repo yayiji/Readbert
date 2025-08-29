@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good leader listens to his employees..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No matter how much he is laughing on the inside."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe this isn't a good time."
+      ]
+    }
+  ]
+}

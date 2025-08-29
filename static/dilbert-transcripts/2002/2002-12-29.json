@@ -1,0 +1,53 @@
+{
+  "date": "2002-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, call the police. My car has been stolen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it like the last three times that you thought it had been stolen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And later you realized that you just forgot where you parked it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No. This time is different. My car is totally gone."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Watch me use my magic powers to make your car reappear in the parking lot."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Presto auto reappearo!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "After all the other cars leave the parking lot, your car will appear."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Freaky."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2006-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your comments on this before I submit it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just leave it here and hope I become the sort of boss who gets around to doing that sort of thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did someone tell you that hope works?"
+      ]
+    }
+  ]
+}

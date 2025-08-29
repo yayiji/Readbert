@@ -1,0 +1,23 @@
+{
+  "date": "2006-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina seems mad at you. What's that about?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She thought I did something rude, but when she found out I didn't, she still had residual anger."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder what it's like to have squirrels living in your skull."
+      ]
+    }
+  ]
+}

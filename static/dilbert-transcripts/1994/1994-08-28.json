@@ -1,0 +1,55 @@
+{
+  "date": "1994-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The image is fuzzy because the monitor has an acute design flaw."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Acute? That's an unusual choice of words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you have said \"acute\" to a male co-worker?",
+        "I think not."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It means crucial, that's all!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I know what the word means! Do you think I don't see right through your sexist puns?!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No! I swear, it was just a poor choice of words!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well... okay. I accept your apology. This time."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So, what's wrong with the other monitor?",
+        "Which?"
+      ]
+    }
+  ]
+}

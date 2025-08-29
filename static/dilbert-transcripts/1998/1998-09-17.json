@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I work too hard, I get stressed out.",
+        "But if I don't work hard, I get bored."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend submerging your head in icy water twice a day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that hurt?",
+        "Is there no end to your list of complaints?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you ever noticed that people continuously bother you when you're trying to work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I come here - to get away from those morons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm having an unpleasant realization.",
+        "They're all like that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're going to be an economic advisor to the president? What do you know about economics?",
+        "It's simple, Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The country needs to give all the money to dogs, thus stimulating the economy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why can't we spend the money ourselves?",
+        "You'd probably fritter it away on food and health care."
+      ]
+    }
+  ]
+}

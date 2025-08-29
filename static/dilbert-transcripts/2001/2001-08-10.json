@@ -1,0 +1,25 @@
+{
+  "date": "2001-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I have an ergonomic evaluation of my chair and keyboard?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Asok, work is supposed to hurt.",
+        "That's how you know you're doing it right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't feel my hands!",
+        "My whole body is numb!"
+      ]
+    }
+  ]
+}

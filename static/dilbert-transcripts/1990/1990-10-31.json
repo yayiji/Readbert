@@ -1,0 +1,26 @@
+{
+  "date": "1990-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert's new cleaning person",
+        "Why are you loading our possessions into your van?",
+        "Easier to vacuum."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I must warn you, I'm a skilled watch dog!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm going to watch you until you beg for mercy!",
+        "I hate this."
+      ]
+    }
+  ]
+}

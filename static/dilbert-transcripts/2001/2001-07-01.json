@@ -1,0 +1,58 @@
+{
+  "date": "2001-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your approval to buy a computer.",
+        "Eh!",
+        "Eh!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a freeze on the capital budget. Only our CEO can approve it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you ask him to...",
+        "Eh!",
+        "Eh!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't want to be known as the guy who always asks for things."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe you could assemble a computer from components that are each within my approval limit."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What's your approval limit?",
+        "Ten dollars."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you need me, I'll be in my cubicle, banging my head against the wall."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is why I keep them in soft-walled containers."
+      ]
+    }
+  ]
+}

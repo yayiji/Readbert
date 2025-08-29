@@ -1,0 +1,23 @@
+{
+  "date": "2006-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just saw a study that says the dull appearance of my cubicle is probably inhibiting the growth of neurons in my brain!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try sitting there for a few more hours and then tell me if you feel any different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I can't remember what I was complaining about."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2002-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your cost estimates for my bid proposal.",
+        "A billion dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds high for administrative overhead.",
+        "If you already know the cost, why ask me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll make us lose the bid.",
+        "I like to think of it as winning less work."
+      ]
+    }
+  ]
+}

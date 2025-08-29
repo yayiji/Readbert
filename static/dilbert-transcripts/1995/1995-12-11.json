@@ -1,0 +1,25 @@
+{
+  "date": "1995-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Send this by e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fax it, too, in case he doesn't check his e-mail.",
+        "And mail the original so he has a clean copy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Goodbye \"paperless,\"",
+        "hello \"clueless\""
+      ]
+    }
+  ]
+}

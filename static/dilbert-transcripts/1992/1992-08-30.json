@@ -1,0 +1,54 @@
+{
+  "date": "1992-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The problem with modern society is that we have no traditions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We should create some traditions for future generations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you create a tradition?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, you just do something ridiculous every year at the same time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Eventually other people join in and then it's a tradition."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ooh, how about \"Annual nose-sausage day\"? You dress in colorful robes and stick sausages in your nose!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes, yes... and we'll do a squirrel dance and shout \"Kaloo-Kalah\" at the sun!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Or maybe not.",
+        "You lost me with the squirrel dance."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2002-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project got off to a slow start."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First we had the reorganization."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then the merger.",
+        "And the layoffs."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Budget freeze.",
+        "Office relocation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "New CEO.",
+        "New consultants.",
+        "New strategy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Eventually the whole industry changed and the opportunity evaporated."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So we classified our unused budget as \"savings\" and gave everyone a shirt."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You said you'd show us your \"best practices.\"",
+        "What are you implying?"
+      ]
+    }
+  ]
+}

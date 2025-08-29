@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fred's driving school",
+        "Learn to drive in just five minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can you teach driving in just five minutes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a crash course."
+      ]
+    }
+  ]
+}

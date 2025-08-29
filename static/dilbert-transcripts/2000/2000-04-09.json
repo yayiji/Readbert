@@ -1,0 +1,54 @@
+{
+  "date": "2000-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fly to Austin and answer some questions for a big customer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Doesn't this customer have a telephone?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't call big customers!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um...",
+        "Why not?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You have to go in person to show that you care."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Actually, that would show that I don't understand the concept of the telephone."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Just go."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do they have these where you come from?"
+      ]
+    }
+  ]
+}

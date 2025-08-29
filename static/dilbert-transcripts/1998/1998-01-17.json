@@ -1,0 +1,24 @@
+{
+  "date": "1998-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ken the skeptic...",
+        "I alone know the contents of this envelope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a charcoal drawing of a woodchuck eating a small orange."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nice try, you little fraud, but that's a long way from an ink drawing of a beaver eating a tangerine."
+      ]
+    }
+  ]
+}

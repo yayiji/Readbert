@@ -1,0 +1,24 @@
+{
+  "date": "2006-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's stressful to be a contract employee. I only get paid for the hours I work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't enjoy my time off because it feels as if it costs me a fortune!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know what I mean?",
+        "Yeah, I had a feeling once."
+      ]
+    }
+  ]
+}

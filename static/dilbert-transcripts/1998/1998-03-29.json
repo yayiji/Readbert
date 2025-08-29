@@ -1,0 +1,55 @@
+{
+  "date": "1998-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can only give you a two percent raise this year, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because your job was not very challenging."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How could you possibly think it wasn't challenging?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You exceeded all your goals without complaining."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Compare that to Wally's performance.",
+        "He complained all year."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And he missed every goal!",
+        "Now that's a challenging job!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wally is a filthy weasel!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe his hygiene isn't the best, but he was right when he said you would stab him in the back."
+      ]
+    }
+  ]
+}

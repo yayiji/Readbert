@@ -1,0 +1,56 @@
+{
+  "date": "1995-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like somebody has a job interview.",
+        "Shhh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your résumé is impressive. I only have one question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you consider your biggest fault?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sometimes I work too hard.",
+        "Good one"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why is that a fault?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well... uh... I work so hard that I forget to eat and bathe for days. Eventually I starve to death at my desk."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I become a bloated, stinking corpse. Insects breed in my body. I spread disease to the entire company."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did it go?",
+        "They want somebody hungrier."
+      ]
+    }
+  ]
+}

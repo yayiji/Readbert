@@ -1,0 +1,23 @@
+{
+  "date": "1999-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone says you're a great turnaround CEO."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What does it take to turn around a company like this one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess it's better to not be noticed the first month."
+      ]
+    }
+  ]
+}

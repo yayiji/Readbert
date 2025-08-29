@@ -1,0 +1,25 @@
+{
+  "date": "2004-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a feral employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's inexpensive because he's totally untrained.",
+        "Ouch!",
+        "Chomp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So far he knows how to eat food and run away."
+      ]
+    }
+  ]
+}

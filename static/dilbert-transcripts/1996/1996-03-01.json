@@ -1,0 +1,26 @@
+{
+  "date": "1996-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to facilitate this meeting.",
+        "I alone will determine who can speak."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to begin with a raw display of my power.",
+        "You may not speak."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, Wally...",
+        "Did you ever hear of a thing called exercise?"
+      ]
+    }
+  ]
+}

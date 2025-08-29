@@ -1,0 +1,24 @@
+{
+  "date": "1991-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the government.",
+        "We're repaying insured depositors who lost money in \"Ethel's S+L.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're a little short on cash ourselves, so we're divvying up the items Ethel bought."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I got a senator."
+      ]
+    }
+  ]
+}

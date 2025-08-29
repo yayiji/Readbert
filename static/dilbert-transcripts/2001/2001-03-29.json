@@ -1,0 +1,23 @@
+{
+  "date": "2001-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Buy your electricity from the Dogbert Power Company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We generate all of our power with the help of California environmentalists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These are getting harder to find lately."
+      ]
+    }
+  ]
+}

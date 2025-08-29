@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your analysis disagrees with my intuition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your intuition also told you the internet would be replaced by modems...",
+        "Whatever that means."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm misunderstood, just like... um... what's-his-face.",
+        "Satan?"
+      ]
+    }
+  ]
+}

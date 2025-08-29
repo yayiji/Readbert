@@ -1,0 +1,26 @@
+{
+  "date": "1999-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director.",
+        "Asok, you have taken too many training classes.",
+        "Too many?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're too skilled now. There's a risk you'll leave for a better job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does the \"secret untraining method\" work every time?",
+        "I've never tried it before."
+      ]
+    }
+  ]
+}

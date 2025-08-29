@@ -1,0 +1,28 @@
+{
+  "date": "1994-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project requirements are forming in my mind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now they're changing...",
+        "Changing... changing",
+        "Changing... okay. No,",
+        "wait... changing.",
+        "Changing... done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Naturally, I won't be sharing any of these thoughts with engineering.",
+        "I budgeted for some goons to beat it out of you."
+      ]
+    }
+  ]
+}

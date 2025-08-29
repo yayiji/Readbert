@@ -1,0 +1,24 @@
+{
+  "date": "2007-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's password recovery service for morons",
+        "I don't remember my password."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it \"123\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's just spooky."
+      ]
+    }
+  ]
+}

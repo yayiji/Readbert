@@ -1,0 +1,59 @@
+{
+  "date": "2000-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Help me interview a candidate for engineering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think he's terrific!",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "According to your resumé, Paul, you invented e-commerce.",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm going to hire him right now!",
+        "Hold on."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Paul, you didn't really invent e-commerce, did you?",
+        "Well..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe I was... um... part of the team that invented it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No one invented e-commerce!",
+        "When can you start?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why am I here?",
+        "Maybe Paul can teach you how to invent things."
+      ]
+    }
+  ]
+}

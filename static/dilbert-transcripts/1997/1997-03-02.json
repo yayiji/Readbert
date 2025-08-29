@@ -1,0 +1,57 @@
+{
+  "date": "1997-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new CEO will be announced today, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rumor has it that they picked a tall Caucasian male with no experience in our industry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't wait to hear the bizarre logic behind this choice."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I like your necktie. Is it new?",
+        "Shut up."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our new CEO has never worked in our industry, but that's exactly what we were looking for."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Because we wanted a CEO who doesn't know what can't be done!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Other hand...",
+        "Other hand.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He looks a bit overqualified.",
+        "I really took the wrong approach on my résumé."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I suggest that you deal with the issue on a going forward basis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks for ruling out time travel.",
+        "You're usually not that helpful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying he understands the concept of \"time\" now?",
+        "Or he just got lucky on this one."
+      ]
+    }
+  ]
+}

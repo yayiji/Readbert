@@ -1,0 +1,25 @@
+{
+  "date": "2000-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, we have one vote for using CPR,",
+        "one vote for the Heimlich maneuver..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And two votes for sneaking up behind him and yelling \"Boo.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see how we can get behind him.",
+        "What if we drill a hole from below?"
+      ]
+    }
+  ]
+}

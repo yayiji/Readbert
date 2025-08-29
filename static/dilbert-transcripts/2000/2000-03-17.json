@@ -1,0 +1,24 @@
+{
+  "date": "2000-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should I be trying to discover a shared vision that will foster enrollment rather than compliance?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or should I modify my conceptual map to focus on organizational complexity?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is any of that the same as work?",
+        "It pays the same."
+      ]
+    }
+  ]
+}

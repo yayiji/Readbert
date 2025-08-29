@@ -1,0 +1,53 @@
+{
+  "date": "2006-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When do I need to give the specs to the programmers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They don't need them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why? Is it because they already know what to do?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes. Exactly. They know how to do that part."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, now I have a difficult choice."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I could call the programmers, prove you wrong, and suffer the consequences in a thousand subtle ways..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or I could do nothing and wait to get hosed for not providing the specs on time."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Geez. You complain when I don't give you choices too."
+      ]
+    }
+  ]
+}

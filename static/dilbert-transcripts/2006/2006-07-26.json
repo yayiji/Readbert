@@ -1,0 +1,24 @@
+{
+  "date": "2006-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I came to ask you for the new design specs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we both know you'll send me to someone who doesn't have them. And that person will refer me back to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I return, you will have escaped to your secret hiding place.",
+        "Ted has the specs."
+      ]
+    }
+  ]
+}

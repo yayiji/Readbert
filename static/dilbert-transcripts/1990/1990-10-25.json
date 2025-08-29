@@ -1,0 +1,22 @@
+{
+  "date": "1990-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Notice how the eyes seem to follow you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow, that's a weird effect.",
+        "It gets better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

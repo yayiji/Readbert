@@ -1,0 +1,24 @@
+{
+  "date": "1997-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The bold commando stealthily relocates his PC at night, thus thwarting burdensome union rules."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Freeze, miscreant."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope this works.",
+        "You don't look like Johnny Cash to me."
+      ]
+    }
+  ]
+}

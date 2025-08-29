@@ -1,0 +1,57 @@
+{
+  "date": "2004-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I talk to you after the mandatory meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whoa! Whoa! I didn't give you approval to attend that meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The meeting is mandatory.",
+        "Approval is mandatory, too."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, whatever.",
+        "May I go to the mandatory meeting?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "All requests must be in writing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's mandatory!",
+        "Man-duh-tory!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If people start bending the rules, before long, murder will be legal."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That was the finest mandatory meeting I've ever attended! They handed out cash!",
+        "Shut up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I signed up for an executive MBA program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's one-hour long and I get a degree from a prestigious university."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd better run.",
+        "I'm already a half-hour late."
+      ]
+    }
+  ]
+}

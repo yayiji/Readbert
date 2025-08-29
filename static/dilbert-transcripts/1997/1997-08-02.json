@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll need to share your cubicle with the Elbonian audit team until we get more space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is their holy week so I expect you to be open-minded and flexible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, how do you celebrate the holy week?",
+        "Wedgies, mostly."
+      ]
+    }
+  ]
+}

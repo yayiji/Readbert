@@ -1,0 +1,25 @@
+{
+  "date": "2000-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I was rendered useless by the stress of bad management.",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's something we only say in the cafeteria."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're doing a terrific job!",
+        "Try to find a middle range."
+      ]
+    }
+  ]
+}

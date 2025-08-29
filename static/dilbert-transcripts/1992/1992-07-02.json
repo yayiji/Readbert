@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Captain Bob, I think you're planning to eat the other survivors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! Too bad your only hope is to send a message to the village at the base of this mountain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you roll into town, tell them Dogbert sent you.",
+        "Whap!",
+        "Zing"
+      ]
+    }
+  ]
+}

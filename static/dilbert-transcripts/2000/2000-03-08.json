@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One out of ten research and development projects will succeed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend cancelling the other nine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder where he gets all these crazy ideas."
+      ]
+    }
+  ]
+}

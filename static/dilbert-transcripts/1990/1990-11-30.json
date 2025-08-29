@@ -1,0 +1,23 @@
+{
+  "date": "1990-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to have an egg!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are you hoping it will be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Something round and white, about yea big."
+      ]
+    }
+  ]
+}

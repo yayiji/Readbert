@@ -1,0 +1,23 @@
+{
+  "date": "1999-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A prospective client will be touring our marketing department in an hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need you to sit in a vacant cubicle so it looks as if work is done there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! That one is only pretending to work!"
+      ]
+    }
+  ]
+}

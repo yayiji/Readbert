@@ -1,0 +1,24 @@
+{
+  "date": "1994-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming to the project kick-off meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As project manager I've decided to not tell you the purpose of the project. That way it will be harder for you to sabotage it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does it require any super-fast micro-chips?",
+        "Good lord, no. Don't build any of those... by Tuesday."
+      ]
+    }
+  ]
+}

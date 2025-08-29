@@ -1,0 +1,23 @@
+{
+  "date": "1992-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dave, I hear that you've started cutting your own hair..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm afraid I'll have to drop you from the management fast-track program."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lucky we caught that one before he got too far."
+      ]
+    }
+  ]
+}

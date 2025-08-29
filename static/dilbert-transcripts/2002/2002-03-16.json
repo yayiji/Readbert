@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our numbers are way down. What should we do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Reorganize the department so there's no valid history for comparison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then we'll fire a few people and give ourselves awards for saving money.",
+        "El diablo"
+      ]
+    }
+  ]
+}

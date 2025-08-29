@@ -1,0 +1,26 @@
+{
+  "date": "2006-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You thought up your search engine idea before we fired you.",
+        "That means my company owns it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I used the lawyerpult to hurl our attorney onto you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm using the holograph device you invented.",
+        "That thing is making us billions.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

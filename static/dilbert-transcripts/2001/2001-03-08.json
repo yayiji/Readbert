@@ -1,0 +1,25 @@
+{
+  "date": "2001-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you have to see this vendor.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think he's telling the truth.",
+        "No way!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When the focus groups saw this product they were afraid to eat our sandwiches."
+      ]
+    }
+  ]
+}

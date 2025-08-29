@@ -1,0 +1,26 @@
+{
+  "date": "2004-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ethics hotline",
+        "This is Dogbert.",
+        "Please state your conundrum."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes I have naughty thoughts during work hours.",
+        "Should I reimburse the company for lost productivity?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang! This is costing me a fortune!"
+      ]
+    }
+  ]
+}

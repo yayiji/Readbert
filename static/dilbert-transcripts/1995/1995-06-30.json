@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to follow the advice of the Dogbert consulting company and form \"battlin' business units.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll spend most of our time cross-charging and undermining the other BBU's."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A little competition is healthy.",
+        "Whatever you do, don't tick off the janitorial BBU."
+      ]
+    }
+  ]
+}

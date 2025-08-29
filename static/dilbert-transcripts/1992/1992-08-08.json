@@ -1,0 +1,24 @@
+{
+  "date": "1992-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People have traveled from all over to see the miracle of the peanut butter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Step right up... just ten bucks to see the face of Saint Ted appearing in my jar of peanut butter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh! And I see Elvis in the jello!",
+        "Only the king moves like that!"
+      ]
+    }
+  ]
+}

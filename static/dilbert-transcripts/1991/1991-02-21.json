@@ -1,0 +1,34 @@
+{
+  "date": "1991-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, ABC News?",
+        "I've discovered",
+        "an anti-gravity formula."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?! It's not newsworthy?!",
+        "Tell him it lets",
+        "you lose weight",
+        "without exercising."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that misleading",
+        "and unethical?",
+        "There's a fine",
+        "line between",
+        "marketing",
+        "and grand",
+        "theft."
+      ]
+    }
+  ]
+}

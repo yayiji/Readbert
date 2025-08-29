@@ -1,0 +1,25 @@
+{
+  "date": "1996-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, my company is hiring for our quality assurance group. You'd be perfect.",
+        "What would I have to do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You would find flaws in our new product, thus making yourself an object of intense hatred and ridicule."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But then you'd fix those flaws... and your respect for me would grow into a special bond of friendship, right?!",
+        "No, then we ship."
+      ]
+    }
+  ]
+}

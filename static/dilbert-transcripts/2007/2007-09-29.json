@@ -1,0 +1,24 @@
+{
+  "date": "2007-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your choice of words leads us to think you are only pretending to be loyal to the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sorry, I'll try to appear more loyal in the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You did it again.",
+        "Don't be silly. I couldn't be more loyal."
+      ]
+    }
+  ]
+}

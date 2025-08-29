@@ -1,0 +1,24 @@
+{
+  "date": "2002-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can reverse the sheep effect by signing up for a kickboxing class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The change will happen quickly, so be prepared.",
+        "Umm...okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suddenly I realize he meant \"wear pants.\""
+      ]
+    }
+  ]
+}

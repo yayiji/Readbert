@@ -1,0 +1,57 @@
+{
+  "date": "2006-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to have an employee appreciation day on the 8th!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a Sunday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the best day for a potluck lunch.",
+        "You'll have all day Saturday to make a dish to share!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll need a volunteer to organize everything.",
+        "Let's see...",
+        "Which one of you is the woman?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Bring jackets.",
+        "It's supposed to be about 45 degrees in the park that day."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I won't be able to attend because I do personal stuff on weekends."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Take pictures!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope no one else brought a pine cone appetizer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1992-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha ha!",
+        "Now spin on your head! Ha ha ha!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's going on here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is Yergi.",
+        "He's visiting from Elbonia."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The economy in Elbonia is so bad he only earns three dollars a month as a doctor."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It takes a year to earn enough for a pair of shoes... it takes two years for a pound of meat."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Philanthropist that I am, I offered to give him an old boot if he would act like my trained monkey for a week."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Dogbert! I can't believe you would buy this man's dignity for an old boot!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I plan to tell the kids it's a pound of meat.",
+        "Quiet, Bobo."
+      ]
+    }
+  ]
+}

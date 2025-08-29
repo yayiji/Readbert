@@ -1,0 +1,56 @@
+{
+  "date": "1998-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're discontinuing technical support of all our products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A recorded message will explain it to the caller this way..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In order to serve customers better, we've discontinued technical support."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How does that serve customers better?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We'll redirect those resources to other areas.",
+        "What other areas?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Profits."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That makes your bonus larger.",
+        "Any other questions?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Apparently I'm engulfed in evil.",
+        "That's the spirit!"
+      ]
+    }
+  ]
+}

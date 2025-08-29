@@ -1,0 +1,29 @@
+{
+  "date": "1998-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that you've won the Nobel Prize, I guess you'll leave the garbage industry.",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd miss the action.",
+        "I'd miss the smells...",
+        "The sights... the people...",
+        "...the rats."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I accidentally threw out a paper plate last week.",
+        "Would you look for it?",
+        "I'm kidding about the people part."
+      ]
+    }
+  ]
+}

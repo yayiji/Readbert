@@ -1,0 +1,26 @@
+{
+  "date": "1991-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you're alone, you start thinking weird thoughts.",
+        "Do bugs sweat?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The longer you're alone, the weirder it gets.",
+        "I can levitate this pen with my mind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't stay alone too long.",
+        "How would it feel if I shaved my entire body?"
+      ]
+    }
+  ]
+}

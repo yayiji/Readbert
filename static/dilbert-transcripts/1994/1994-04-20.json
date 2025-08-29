@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bad news sir — our arch rivals are out-bidding us for control of DSN."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently they have even less creative investment ideas than we do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Quick! Give more money to our consultants!!",
+        "They're spending as fast as they can, sir!!"
+      ]
+    }
+  ]
+}

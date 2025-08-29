@@ -1,0 +1,26 @@
+{
+  "date": "1995-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to report that the \"excellence in teaming\" read-out is nearly ready."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's taken forty people from a dozen departments to complete the study.",
+        "We finally got complete buy-in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that the study of why we can't make decisions?",
+        "Originally.",
+        "But it evolved into more of a discussion of squirrel migration patterns."
+      ]
+    }
+  ]
+}

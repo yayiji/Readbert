@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had to promise the customer we could build the thing in a month even though you said it was impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll solve the timing problem by shifting blame to engineering while spending the huge bonus I got for the sale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your planning has improved.",
+        "Rrr",
+        "Beginning blame transfer now..."
+      ]
+    }
+  ]
+}

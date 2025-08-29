@@ -1,0 +1,24 @@
+{
+  "date": "1996-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert consulting company to add credibility to my decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As my analysis shows, it's much better to give your money to me than to waste it on future downsizees such as yourselves."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What analysis? This is a page ripped out of the magazine in our lobby.",
+        "Perhaps you should upgrade to my deluxe service."
+      ]
+    }
+  ]
+}

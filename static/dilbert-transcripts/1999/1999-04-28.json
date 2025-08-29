@@ -1,0 +1,23 @@
+{
+  "date": "1999-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I've been calling and calling, but you don't pick up your phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like you to meet a little something I call the \"Fist of Death.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like he gnawed through the wall to escape."
+      ]
+    }
+  ]
+}

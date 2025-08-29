@@ -1,0 +1,57 @@
+{
+  "date": "1990-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh no, it's Helena.",
+        "I had a bizarre dream about her last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, Dilbert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm always afraid that somehow people know when they've been in my dream."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gee... seeing you reminds me of something... but I can't quite put my finger on it..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hmm... it was something bizarre.",
+        "She knows."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Stop it! Stop it! I'm sorry I made you wear a cheerleading outfit and glue miniature horses to the couch!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There - it's out.",
+        "The pressure is lifted... I can live again..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Oh, now I remember -- I was wondering why you've never been married.",
+        "But now I understand."
+      ]
+    }
+  ]
+}

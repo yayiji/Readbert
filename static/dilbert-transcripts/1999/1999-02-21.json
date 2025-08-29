@@ -1,0 +1,54 @@
+{
+  "date": "1999-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time now for the weekly Wally report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By Tuesday the pointy-haired troll had dumped record levels of work on poor Wally."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally's happiness was in extreme jeopardy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It was a moral dilemma too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Would Wally disappoint the stockholders to save his own skin?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or would he fight with his last ounce of happiness to complete all the assignments?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In the end there was only one choice."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You wrote the Wally report instead of working?",
+        "Stop reading ahead!"
+      ]
+    }
+  ]
+}

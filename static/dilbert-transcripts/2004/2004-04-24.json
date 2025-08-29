@@ -1,0 +1,31 @@
+{
+  "date": "2004-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It feels unmanly to hire movers.",
+        "I should be able to do this with a few friends and a pickup truck."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The movers just pulled up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like feeling weak."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can walk by myself!",
+        "On those little legs?"
+      ]
+    }
+  ]
+}

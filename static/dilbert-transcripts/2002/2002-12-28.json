@@ -1,0 +1,24 @@
+{
+  "date": "2002-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can monitor all employee e-mail from here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for recently estranged lovers so I can promote one of them over the other."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is my new job title a long string of curse words?",
+        "I win."
+      ]
+    }
+  ]
+}

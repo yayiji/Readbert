@@ -1,0 +1,25 @@
+{
+  "date": "2004-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I forgot how many quarters are in a year.",
+        "Two"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unless it's a leap year; then you have two quarters plus a penny."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll say that at the board meeting to sound smart.",
+        "I'm free!!"
+      ]
+    }
+  ]
+}

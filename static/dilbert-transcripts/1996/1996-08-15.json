@@ -1,0 +1,29 @@
+{
+  "date": "1996-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Career counselor",
+        "I was fired once, but I came back as a contract employee.",
+        "Later I was rehired at a higher salary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I'm being down-sized again.",
+        "Do you think they'll be dumb enough to hire me a third time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your story reminds me of the parable of the ant and the spider.",
+        "Really?",
+        "How?",
+        "They're both boring."
+      ]
+    }
+  ]
+}

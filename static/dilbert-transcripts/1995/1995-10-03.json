@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your résumé doesn't list any experience as a jet pilot, Mister Dogbert.",
+        "How hard could it be?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could spend a lot of money on some pretty boy pilot with experience, or you can save a few bucks and have me drive the corporate jet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am under a lot of budget pressure... and I'm not allowed on the jet myself...",
+        "It has a pilot eject seat, right?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You eliminated the budget for automated test software. How are we going to test our new code?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go write some automated test software, you big baby. I already pay you, so it's free."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today I learned you can end any conversation by calling the other person a big baby.",
+        "Waa-waa! Do you want your bottle?"
+      ]
+    }
+  ]
+}

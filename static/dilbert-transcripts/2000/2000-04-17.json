@@ -1,0 +1,24 @@
+{
+  "date": "2000-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got huge severance packages from my last four employers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I get fired one more time I can retire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ken, we need to talk.",
+        "Ka-ching!"
+      ]
+    }
+  ]
+}

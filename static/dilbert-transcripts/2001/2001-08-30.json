@@ -1,0 +1,23 @@
+{
+  "date": "2001-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was here all night. Is it okay if I take tomorrow as a comp day?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to our security video you slept all night on a pile of debris in your cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it just me or is this conversation jumping all over the place?"
+      ]
+    }
+  ]
+}

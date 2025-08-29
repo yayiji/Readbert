@@ -1,0 +1,23 @@
+{
+  "date": "1993-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the four hour..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meeting from hell!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's rarely a good sign."
+      ]
+    }
+  ]
+}

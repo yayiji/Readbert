@@ -1,0 +1,23 @@
+{
+  "date": "2005-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the editor of the department newsletter. That makes you my cub reporter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cub reporter? I have an engineering degree from the India Institute of Technology – the most challenging university on the planet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That'll come in handy during the copying phase. We get some fierce paper jams."
+      ]
+    }
+  ]
+}

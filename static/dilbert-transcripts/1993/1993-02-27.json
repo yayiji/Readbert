@@ -1,0 +1,24 @@
+{
+  "date": "1993-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to pose for my new calendar, \"The men of engineering\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope to dispel the myth that engineers are out of shape and unaware of what others are thinking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm still kind of \"pumped\" from using the mouse.",
+        "Take off your shirt."
+      ]
+    }
+  ]
+}

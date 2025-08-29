@@ -1,0 +1,26 @@
+{
+  "date": "1993-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is a creativity consultant.",
+        "Here's my final report on your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've concluded that you're doomed.",
+        "You waste too much money on consultants."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're a consultant.",
+        "Ironic, isn't it?"
+      ]
+    }
+  ]
+}

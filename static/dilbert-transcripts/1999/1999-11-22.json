@@ -1,0 +1,26 @@
+{
+  "date": "1999-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is our new CEO.",
+        "He has a reputation as a turnaround expert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is a pleasure to meet you.",
+        "Do you favor TQM or more of a business process approach?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm partial to the value-based management method.",
+        "I'm not familiar with that one."
+      ]
+    }
+  ]
+}

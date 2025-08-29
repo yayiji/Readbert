@@ -1,0 +1,24 @@
+{
+  "date": "1993-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I be sure I'm a rat?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if I'm really something else — like a potato — and I just think I'm a rat?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think, therefore I'm a yam.",
+        "It would explain a lot."
+      ]
+    }
+  ]
+}

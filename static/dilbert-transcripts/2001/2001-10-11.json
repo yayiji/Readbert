@@ -1,0 +1,31 @@
+{
+  "date": "2001-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carl, you're only a contractor.",
+        "You have to stop using company resources."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mmn",
+        "Nph",
+        "Hbm",
+        "Mrm!",
+        "Yes, I know you bring your own air, but you still use our gravity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fbm",
+        "Gmp",
+        "Rkr!",
+        "If it's not too much to ask, could you hover?"
+      ]
+    }
+  ]
+}

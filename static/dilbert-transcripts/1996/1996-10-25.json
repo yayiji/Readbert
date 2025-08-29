@@ -1,0 +1,26 @@
+{
+  "date": "1996-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "Wally, you've been too busy to get the required forty hours of training this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hired a contract employee to help you out.",
+        "When does he start?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yesterday.",
+        "He already finished eight hours of your training."
+      ]
+    }
+  ]
+}

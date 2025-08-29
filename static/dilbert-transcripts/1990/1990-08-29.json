@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And I've had this irrational love for hardware stores as long as I can remember."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean... I love them.",
+        "I actually love them.",
+        "You gotta help me, Doc."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've heard of this...",
+        "I think the literature refers to it as \"a stupid guy-thing.\""
+      ]
+    }
+  ]
+}

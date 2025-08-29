@@ -1,0 +1,58 @@
+{
+  "date": "1991-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's find-a-friend service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to find a friend.",
+        "Have a seat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to ask a few questions, so I don't accidentally match you with somebody who's too good for you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "One: When a friend doesn't return a borrowed tool, do you?",
+        "A: Make sarcastic comments;",
+        "B: Buy a new tool;",
+        "C: Set a lethal trap."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "C: Set a lethal trap."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Later",
+        "I'm afraid you haven't qualified for a normal friend... I could set you up with somebody who's new in town, but it wouldn't last."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There's one option... two, if you count growing sea monkeys."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yes, I hate sea monkeys too. Who are you?"
+      ]
+    }
+  ]
+}

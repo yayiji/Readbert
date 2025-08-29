@@ -1,0 +1,24 @@
+{
+  "date": "1998-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to manipulate our stock price for personal gain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll spin off a few divisions, buy back some of our stock and announce massive budget cuts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... do you even know what products we make?",
+        "How would that be relevant?"
+      ]
+    }
+  ]
+}

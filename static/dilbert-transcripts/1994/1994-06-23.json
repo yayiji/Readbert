@@ -1,0 +1,23 @@
+{
+  "date": "1994-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert's headhunting service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got a job that pays a hundred thousand per year and requires no skill whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I didn't say it's available. I called to brag about my own job."
+      ]
+    }
+  ]
+}

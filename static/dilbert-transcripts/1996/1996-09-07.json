@@ -1,0 +1,27 @@
+{
+  "date": "1996-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The network administrator",
+        "Can you program the routers to block employees from all fun web sites?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why stop there? I can program the routers to block all useless activities.",
+        "How long will that take?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Done.",
+        "I've seen your business plan.",
+        "Poink"
+      ]
+    }
+  ]
+}

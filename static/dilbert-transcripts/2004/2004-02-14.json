@@ -1,0 +1,25 @@
+{
+  "date": "2004-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you ever think about selling our confidential database of customer information?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It would be massively profitable while virtually undetectable.",
+        "But highly unethical."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know you anymore.",
+        "I'm yanking your chain. When do we start?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "1997-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you like telecommuting, Alice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's good, except I've developed a tendency to snack."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Glug glug",
+        "Glug glug glug",
+        "Glug glug glug glug"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm sure you'll keep your discipline.",
+        "I love \"zesty Italian\" dressing",
+        "Burp"
+      ]
+    }
+  ]
+}

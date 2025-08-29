@@ -1,0 +1,25 @@
+{
+  "date": "2007-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "E-mail me with your comments on the design.",
+        "Can't I just tell you my comments now?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need it in writing because you're a huge liar and you'll change your story later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I might punch you for not shaving the back of your neck.",
+        "Well then, e-mail it is."
+      ]
+    }
+  ]
+}

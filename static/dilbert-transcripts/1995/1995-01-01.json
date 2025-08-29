@@ -1,0 +1,55 @@
+{
+  "date": "1995-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you never really answered the question I left on your voice-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this a case of simple incompetence or a preview of something far more sinister?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's the sinister one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've adopted a defensive strategy. I'm withholding information to make myself appear more valuable."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now I only return phone calls late at night and leave incomplete answers."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In person, I act overworked and irrational so people stop asking questions."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If cornered, I sigh deeply and recount old war stories that don't relate to the question."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Got it!",
+        "No co-worker can thwart me!",
+        "What if they team up?"
+      ]
+    }
+  ]
+}

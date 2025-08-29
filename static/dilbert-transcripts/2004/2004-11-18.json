@@ -1,0 +1,26 @@
+{
+  "date": "2004-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Blah, blah,",
+        "blah, blah,",
+        "blah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wasn't listening. I'll try some optimism. That works in every situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope we'll see record growth!",
+        "In my prostate?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every department is required to create a web page for our internal network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It should include enough information to be difficult to maintain, but not so much that it's useful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As a security precaution, we'll make it too dull and unorganized to read.",
+        "Is pornography in or out?"
+      ]
+    }
+  ]
+}

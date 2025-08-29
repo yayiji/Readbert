@@ -1,0 +1,53 @@
+{
+  "date": "2001-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you need to use your vacation time before the end of the year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have time. I need to finish my project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sure that a highly trained engineer like you can find a solution."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well... I could say I'm on vacation and come to work as usual."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No. I can't count it as vacation unless you're not in the building."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay... I could take home my computer and work there."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No... you're not allowed to access our network remotely."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "*!#% worst vacation ever..."
+      ]
+    }
+  ]
+}

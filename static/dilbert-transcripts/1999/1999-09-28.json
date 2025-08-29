@@ -1,0 +1,28 @@
+{
+  "date": "1999-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going for a fifty-mile run.",
+        "Would you like to join me?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I signed up for two triathlons this weekend.",
+        "Do you want the entry forms?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next week a few of us will be leaping into geosynchronous orbit...",
+        "Gaa!"
+      ]
+    }
+  ]
+}

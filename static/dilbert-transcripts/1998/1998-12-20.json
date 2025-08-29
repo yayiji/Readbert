@@ -1,0 +1,55 @@
+{
+  "date": "1998-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I ordered these direction signs for our conference tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But they all point to the right. I need left arrows."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is it too late to change the site of the conference to match the arrows?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, that would put us in the middle of the lake."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I suppose we could use helicopters to build a deep-water platform hotel...",
+        "By tomorrow."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, but get two bids...",
+        "What?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Spooky."
+      ]
+    }
+  ]
+}

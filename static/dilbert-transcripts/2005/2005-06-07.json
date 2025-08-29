@@ -1,0 +1,23 @@
+{
+  "date": "2005-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm Dogbert, your life coach. I'm here because you're an unmotivated, drifting, unorganized dolt."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Life coach? I didn't ask for a life coach."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which part of \"unmotivated, drifting, un-organized dolt\" is confusing you?"
+      ]
+    }
+  ]
+}

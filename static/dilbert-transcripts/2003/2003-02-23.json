@@ -1,0 +1,54 @@
+{
+  "date": "2003-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, come to my strategy meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're only a secretary, but I value your input."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm an administrative assistant!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Chimp.",
+        "Bad secretary."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Does anyone have any strategic ideas for global domination?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The engineers keep using our coffee filters as popcorn bags. That has got to stop."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you ordered enough filters, I wouldn't need to use the foot of my pantyhose to make coffee every day!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm adding that to the list of things I don't want to think about."
+      ]
+    }
+  ]
+}

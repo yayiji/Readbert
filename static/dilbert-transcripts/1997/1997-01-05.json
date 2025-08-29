@@ -1,0 +1,57 @@
+{
+  "date": "1997-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'd like your input on something."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh... my intuition is activating the fist of death.",
+        "Must... control..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our corporate culture is bad."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm trying to find the cause."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, obviously the problem isn't caused by managers who have no self-awareness...",
+        "So what could it be?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The culture problem must be coming from the other direction.",
+        "Some employee must be causing this problem!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think it's the guy in the mail room.",
+        "His bad culture is infecting the rest of us."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If this is about that conference room full of mail, I don't know how it got there."
+      ]
+    }
+  ]
+}

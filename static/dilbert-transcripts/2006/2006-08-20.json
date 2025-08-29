@@ -1,0 +1,54 @@
+{
+  "date": "2006-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet your new coworker, Phil O'Dendron."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Phil is a potted plant. He'll sit in your cubicle all day while you try to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does it talk?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He has three stories that he repeats in an infinite loop."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He'll begin with his reasons for why you should use his tax guy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then he'll do a recap of recent reality TV shows."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And last but not least, \"The way we did it at my last job.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do you plan to cut expenses?",
+        "Well, performance bonuses are under control."
+      ]
+    }
+  ]
+}

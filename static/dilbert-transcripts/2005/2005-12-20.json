@@ -1,0 +1,26 @@
+{
+  "date": "2005-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your resume says you're some kind of intermediate species.",
+        "That's right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm halfway between hominid and oyster.",
+        "Someday I hope my light-sensitive blob will become an eye!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think we can use you.",
+        "Oh, man, you're giving me a serious pearl."
+      ]
+    }
+  ]
+}

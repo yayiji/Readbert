@@ -1,0 +1,36 @@
+{
+  "date": "1996-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This taxi is yours.",
+        "Here's a description",
+        "of how he'll cheat you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It says you'll be",
+        "running the meter",
+        "despite the flat rate.",
+        "Then you'll feign poor",
+        "language skills when",
+        "I question you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't",
+        "fault your",
+        "efficiency,",
+        "though.",
+        "Whump",
+        "Whump",
+        "Whump"
+      ]
+    }
+  ]
+}

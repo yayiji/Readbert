@@ -1,0 +1,26 @@
+{
+  "date": "1996-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "I don't know much about computers so I compensate by being highly exuberant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!! Yes!! Computers!!",
+        "Wahoo!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey look! It's not my fault; it's some guy named \"General Protection.\"",
+        "It's time for your flying lessons."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2001-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now for the weekly Wally report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally struggled to maintain his morale despite the ninety percent drop in his stock options."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then he remembered that someone lost much, much, much more than he did."
+      ]
+    }
+  ]
+}

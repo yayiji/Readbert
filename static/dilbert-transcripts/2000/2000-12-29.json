@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A manager's brain is like a pump. If it becomes empty you must prime it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whatever he learns first will form the foundation for all of his future perceptions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This guy has been talking smack about you.",
+        "Unh..."
+      ]
+    }
+  ]
+}

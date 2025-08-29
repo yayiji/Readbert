@@ -1,0 +1,26 @@
+{
+  "date": "1996-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You haven't heard what the problem is yet;",
+        "How can you recommend building a database to solve it??"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We always build a database.",
+        "And we'll need coffee mugs for the project team."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The problem is that we have poor processes.",
+        "That could be the slogan on our mugs!"
+      ]
+    }
+  ]
+}

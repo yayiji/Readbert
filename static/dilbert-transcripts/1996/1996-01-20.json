@@ -1,0 +1,35 @@
+{
+  "date": "1996-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you were doing some baby-sitting, Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah! I did the Morton triplets last night."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not easy to juggle three screaming toddlers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When you say \"juggle\"..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's the Mortons with a question about their ceiling fan."
+      ]
+    }
+  ]
+}

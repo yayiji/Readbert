@@ -1,0 +1,23 @@
+{
+  "date": "2000-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new policy says you must drive carefully while using cell phones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This policy is just in time. I had planned to drive into a tree."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there anything there about handling poisonous snakes?"
+      ]
+    }
+  ]
+}

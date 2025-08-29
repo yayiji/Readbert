@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know that the Elbonians are simple people, but they can handle democracy if you let them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you know what the national bird of Elbonia is?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Condor?",
+        "Frisbee."
+      ]
+    }
+  ]
+}

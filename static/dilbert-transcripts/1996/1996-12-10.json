@@ -1,0 +1,25 @@
+{
+  "date": "1996-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "Let me do the talking when we meet with your boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you know, any idea from the pointy-haired wonder is crud, but when you add my ability, what do you have?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Crudability?",
+        "And good looks too!"
+      ]
+    }
+  ]
+}

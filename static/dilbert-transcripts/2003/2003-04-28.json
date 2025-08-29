@@ -1,0 +1,25 @@
+{
+  "date": "2003-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How many business cards should I order?",
+        "It depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I use a complex formula based on your burn rate and your likelihood of getting down-sized."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I use about three per week.",
+        "You'll need three cards."
+      ]
+    }
+  ]
+}

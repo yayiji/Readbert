@@ -1,0 +1,25 @@
+{
+  "date": "2002-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I call my idea \"Coffee with the boss.\"",
+        "Each employee will get one hour of quality time with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd rather staple a skunk to my forehead and go to a trade show for banjo makers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And yet, it's still better than working, so count me in.",
+        "That's the spirit!"
+      ]
+    }
+  ]
+}

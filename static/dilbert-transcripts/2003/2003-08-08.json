@@ -1,0 +1,26 @@
+{
+  "date": "2003-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The weather is getting worse.",
+        "Maybe we should close the office.",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The forecast is for blizzards, freezing rain, tsunamis, deadly lava flows, and precision-guided ball lightning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And radiation-enlarged swarms of killer bees.",
+        "Get some snow tires, you big baby."
+      ]
+    }
+  ]
+}

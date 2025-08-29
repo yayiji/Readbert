@@ -1,0 +1,25 @@
+{
+  "date": "1998-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to a very important conference.",
+        "What's it for?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The brochure says the goal is to \"create interaction around local and global issues of the coming century.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're being sarcastic with your ears again.",
+        "It sounds so exciting!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "1993-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My time machine is complete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess you'll be off to explore exotic and fascinating civilizations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would anybody want to do that?",
+        "Beats me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My plan is to send all of our trash to ourselves twenty years from now.",
+        "We'll have much better recycling methods by then."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I wonder what elegant methods we'll have for recycling in the future."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I bet we'll have a way that's quick and efficient and..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Uh-oh.",
+        "Are you thinking what I'm thinking?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We would send it back in time and wait for it to decompose.",
+        "I hate us."
+      ]
+    }
+  ]
+}

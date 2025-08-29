@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Juror eight, do you have any medical problems that would prevent you from serving?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I need jury duty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would it be fair to say you don't know what you need?",
+        "Why does everyone ask me that?"
+      ]
+    }
+  ]
+}

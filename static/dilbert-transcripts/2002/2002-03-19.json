@@ -1,0 +1,23 @@
+{
+  "date": "2002-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My theory is that consciousness is the ability to predict and then observe the results of actions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I think you could build a computer that would be fully conscious."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obviously you'd need an array of sensors to collect the data."
+      ]
+    }
+  ]
+}

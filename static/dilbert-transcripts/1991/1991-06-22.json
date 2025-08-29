@@ -1,0 +1,25 @@
+{
+  "date": "1991-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know that good feeling you get when you first put a q-tip in your ear?",
+        "Yeah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I freely enjoy it, or is it a sin?",
+        "I think it's okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good, because I used a whole box yesterday."
+      ]
+    }
+  ]
+}

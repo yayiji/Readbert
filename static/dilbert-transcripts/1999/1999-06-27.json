@@ -1,0 +1,57 @@
+{
+  "date": "1999-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone should take care of that problem!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could take care of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't do everything."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You don't do anything.",
+        "Not a single thing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's my job to angrily identify problems.",
+        "Wally..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That is not your job!",
+        "What?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Everything is so ambiguous here!",
+        "Someone should take care of that problem!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it just me, or is this meeting taking forever?"
+      ]
+    }
+  ]
+}

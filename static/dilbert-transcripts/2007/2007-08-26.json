@@ -1,0 +1,53 @@
+{
+  "date": "2007-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you ask me too many questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a sign that you can't do your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I anticipated your misperception and prepared for it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I saved all of my e-mails and matched them to your policies and procedures."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "For example, this is your e-mail saying we need your permission to buy software."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And here's my e-mail asking if I can buy some software."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Should I run through the other seven hundred documented examples?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There you go asking another question."
+      ]
+    }
+  ]
+}

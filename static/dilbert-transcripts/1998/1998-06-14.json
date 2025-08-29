@@ -1,0 +1,59 @@
+{
+  "date": "1998-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's first law of business",
+        "Example",
+        "Reality is always controlled by the people who are most insane."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks for agreeing to work on my project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I never agreed to work on your project."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can't change your mind now!",
+        "It's too late to get someone else!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Um... I'm not changing my mind.",
+        "I clearly said I would not work on your project."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You lying weasel! I'll ruin you!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay! Okay!",
+        "I'll work on your project!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wally, thanks for agreeing to donate your computer to my project.",
+        "What?"
+      ]
+    }
+  ]
+}

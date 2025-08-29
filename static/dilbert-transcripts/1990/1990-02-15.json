@@ -1,0 +1,25 @@
+{
+  "date": "1990-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You see, Dorgi, under our capitalist system anybody can become rich.",
+        "How?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Inheritance and crime are the most popular methods."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which is preferred method?",
+        "It's best to have your parents do the crime and let you inherit it."
+      ]
+    }
+  ]
+}

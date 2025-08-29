@@ -1,0 +1,24 @@
+{
+  "date": "1998-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The sales force was offered a retirement buyout package of fifty dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One hundred percent of the sales force elected to take the offer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder what they know that I don't know.",
+        "There's a hole with no bottom."
+      ]
+    }
+  ]
+}

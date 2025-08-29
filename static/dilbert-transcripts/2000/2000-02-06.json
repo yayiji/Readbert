@@ -1,0 +1,54 @@
+{
+  "date": "2000-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My tests prove our product is defective."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Customers expect delivery tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our corporate philosophy is \"Quality is our primary goal.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... you want me to delay shipment until we fix the problems?",
+        "No."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I want you to ship now so we can book the revenue."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa! That's the opposite of our philosophy!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now you know why there aren't any rich philosophers."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There used to be one, but he believed I was a Swiss bank."
+      ]
+    }
+  ]
+}

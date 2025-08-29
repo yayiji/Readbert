@@ -1,0 +1,24 @@
+{
+  "date": "1998-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is giving free flu shots, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The shots will be delivered by wealthy stockholders who will hunt you down and shoot you with flu darts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least I won't get the flu, right?",
+        "You're probably thinking of the flu prevention shots."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister garbage man, what is life?",
+        "Well, Dogbert..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Life is like old cantaloupe rinds wrapped in a faded newspaper and sprinkled with wet coffee grounds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Life is garbage?",
+        "Call me a romantic."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The future of the company depends on new product revenue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Is that why you slashed the research and development budget?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you're so smart, let's see you describe our future without using the word \"doomed.\""
+      ]
+    }
+  ]
+}

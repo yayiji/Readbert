@@ -1,0 +1,25 @@
+{
+  "date": "1994-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's in the jar?",
+        "It's the soul of Willy the mail boy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you shake it real hard and hold it up to the light you can see it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The union didn't do too well at the ol' bargaining table this year.",
+        "These aren't our glory years."
+      ]
+    }
+  ]
+}

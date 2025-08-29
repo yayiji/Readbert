@@ -1,0 +1,28 @@
+{
+  "date": "2007-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a dead horse.",
+        "He doesn't look like much,",
+        "but if you beat him long enough,",
+        "he does good work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you seen him do good work?",
+        "I haven't beaten him long enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Introduce yourself to the others!",
+        "Whap!"
+      ]
+    }
+  ]
+}

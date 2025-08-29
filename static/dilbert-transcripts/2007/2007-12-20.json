@@ -1,0 +1,24 @@
+{
+  "date": "2007-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I want you to move to a cubicle closer to the rest of the department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is there a reason that isn't apparent, or is this coming from the reptilian part of your brain?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would I know?",
+        "That's a surprisingly good point."
+      ]
+    }
+  ]
+}

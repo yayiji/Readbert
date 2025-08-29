@@ -1,0 +1,25 @@
+{
+  "date": "1991-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert lands in Elbonia without his suitcase.",
+        "Sploit"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You bagged a nice piece of luggage, m'lord."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to think this helps maintain the delicate balance of nature.",
+        "Yes, sire."
+      ]
+    }
+  ]
+}

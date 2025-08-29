@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everything went wrong in exactly the way I told you it would.",
+        "Cost"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the next phase you will experience something I call \"reverse amnesia for managers.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait a minute; I'm the one who told you that the project wouldn't succeed."
+      ]
+    }
+  ]
+}

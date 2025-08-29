@@ -1,0 +1,24 @@
+{
+  "date": "2001-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a clone of your boss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The procedure didn't exactly work. So you're not so much a human being as you are a..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "God?",
+        "Knickknack."
+      ]
+    }
+  ]
+}

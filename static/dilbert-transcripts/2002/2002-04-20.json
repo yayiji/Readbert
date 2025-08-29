@@ -1,0 +1,25 @@
+{
+  "date": "2002-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How about any Tuesday this year?",
+        "No, I'm booked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have the highest ratio of unavailability to usefulness I've ever seen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that sound like an insult?",
+        "If I could do math I wouldn't be working in human resources."
+      ]
+    }
+  ]
+}

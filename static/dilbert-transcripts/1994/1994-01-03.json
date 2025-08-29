@@ -1,0 +1,25 @@
+{
+  "date": "1994-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry Dave, but you're being transferred to marketing and there's no budget to train you as a marketer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where am I?",
+        "I need a drink.",
+        "This is a temporary fix... but you'll fit in now."
+      ]
+    }
+  ]
+}

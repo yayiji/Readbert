@@ -1,0 +1,24 @@
+{
+  "date": "1994-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Work harder or I'll have you put in the \"box.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? I thought I was already in the box."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the box bigger than my cubicle?",
+        "These people are totally unmanageable."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1990-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's go... it's time to renew your dog license."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Department of dogs"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder what happens if I fail the written test?"
+      ]
+    }
+  ]
+}

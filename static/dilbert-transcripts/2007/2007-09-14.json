@@ -1,0 +1,24 @@
+{
+  "date": "2007-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new VP of marketing promises to improve our revenues by ten billion percent!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is a ridiculous lie that only a gullible moron would believe."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh yeah? How do you explain the fact that he believed it?",
+        "Touché"
+      ]
+    }
+  ]
+}

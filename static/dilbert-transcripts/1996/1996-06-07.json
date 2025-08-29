@@ -1,0 +1,26 @@
+{
+  "date": "1996-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I found your father.",
+        "He's been at the \"All You Can Eat\" restaurant in the mall since 1989."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's so literal – he didn't want to leave until it was \"all he could eat.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When's he coming home?",
+        "I'm thinking of joining him.",
+        "He got a booth."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1995-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know where you're going."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're going to a meeting where equally uninformed managers will make decisions that neuter the work I did all week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You didn't do any work this week.",
+        "I think I've got this whole \"work\" concept figured out."
+      ]
+    }
+  ]
+}

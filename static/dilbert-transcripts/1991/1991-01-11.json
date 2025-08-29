@@ -1,0 +1,23 @@
+{
+  "date": "1991-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And in the news..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Body parts were strewn for miles..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So check your sandwich."
+      ]
+    }
+  ]
+}

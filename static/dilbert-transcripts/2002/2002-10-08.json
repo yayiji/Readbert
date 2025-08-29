@@ -1,0 +1,26 @@
+{
+  "date": "2002-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, I need you to dig a huge rat hole, so companies can throw money in it.",
+        "Yes!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I might share some of the money with you.",
+        "You had me at \"hole.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When should I stop digging?",
+        "When you smell feet."
+      ]
+    }
+  ]
+}

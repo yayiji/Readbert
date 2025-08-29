@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you're going to experience an involuntary separation from payroll.",
+        "I'm fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No-o-o-o. It's just that you won't be part of the payroll system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you're not allowed to touch anything."
+      ]
+    }
+  ]
+}

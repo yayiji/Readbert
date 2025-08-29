@@ -1,0 +1,24 @@
+{
+  "date": "1995-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I need your help dealing with a pathological liar at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're in luck. I happen to have a Ph.D. in liatology from the Massachusetts Institute of Technology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd love to see your diploma.",
+        "I'll mail it to you."
+      ]
+    }
+  ]
+}

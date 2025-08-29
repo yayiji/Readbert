@@ -1,0 +1,32 @@
+{
+  "date": "2002-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for the presentation.",
+        "Your department seems bloated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll eliminate half of your group in the next budget meeting.",
+        "Thank you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you going to do?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Nothing.",
+        "I told him we're the marketing department."
+      ]
+    }
+  ]
+}

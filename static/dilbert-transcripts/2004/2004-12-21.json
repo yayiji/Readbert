@@ -1,0 +1,28 @@
+{
+  "date": "2004-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Try to get through this meeting without telling our customers how stupid you think they're being.",
+        "I'll try."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But sometimes the pressure builds up in my head and it's unbearable.",
+        "Tough it out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is he okay?",
+        "He's fine.",
+        "Ignore him.",
+        "Mmm-mmm-"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new software will gently warm your keyboard so the keys are easier to press."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll bundle it with our software that makes your laptop lighter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In a word, we have become \"market driven.\"",
+        "Create a diversion. I'll run for help."
+      ]
+    }
+  ]
+}

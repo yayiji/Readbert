@@ -1,0 +1,27 @@
+{
+  "date": "2003-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tinkle",
+        "Tinkle",
+        "Tinkle",
+        "Boss approaching.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks for the magic management necklace! I have to admit that I doubted its powers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But since I've been wearing it, I haven't seen a single employee who wasn't hard at work."
+      ]
+    }
+  ]
+}

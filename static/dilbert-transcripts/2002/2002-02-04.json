@@ -1,0 +1,25 @@
+{
+  "date": "2002-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert tech support",
+        "Your software is worn out. You must be typing too hard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Switch to decaf, paint your walls pink and stop going to the gym."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never heard of holistic tech support.",
+        "Maybe you should read more."
+      ]
+    }
+  ]
+}

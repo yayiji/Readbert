@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I think these constant reorganizations are just excuses for getting rid of unwanted employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What job did you end up with?",
+        "Organ donor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My shoulder is acting up. Do I talk to you or is there a form to fill out?",
+        "I don't think that's an \"organ.\""
+      ]
+    }
+  ]
+}

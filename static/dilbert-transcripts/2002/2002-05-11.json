@@ -1,0 +1,24 @@
+{
+  "date": "2002-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can fix our incomprehensible user interface for a million dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or we can close our eyes and wish real hard that our users won't care."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's saving a million dollars.",
+        "What did you do today?"
+      ]
+    }
+  ]
+}

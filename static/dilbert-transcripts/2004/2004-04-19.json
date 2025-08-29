@@ -1,0 +1,26 @@
+{
+  "date": "2004-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I should sell this house and get a newer one.",
+        "I'll be the real estate agent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I said maybe.",
+        "A good real estate agent doesn't know the meaning of that word."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Things are moving too fast! I've lost control of the process!",
+        "Pack your stuff, waffler. Escrow closes in ten days."
+      ]
+    }
+  ]
+}

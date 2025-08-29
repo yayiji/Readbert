@@ -1,0 +1,24 @@
+{
+  "date": "2006-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm too busy to learn anything about the projects I'm managing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I barely have enough time to make critical decisions about them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you're lazy and stupid.",
+        "Let's go down to the pond and throw rocks at the ducks."
+      ]
+    }
+  ]
+}

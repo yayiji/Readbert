@@ -1,0 +1,25 @@
+{
+  "date": "2006-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the lobbyist",
+        "For a million dollars I can have the government include your industrial waste in the recommended food pyramid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For another million I'll have congress authorize huge tax breaks for soulless, blackberry-using weasels with coffee breath."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just want to hug you!",
+        "That's another million."
+      ]
+    }
+  ]
+}

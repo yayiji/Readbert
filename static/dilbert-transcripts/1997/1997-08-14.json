@@ -1,0 +1,27 @@
+{
+  "date": "1997-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a rumor that my company will move to South Dakota.",
+        "But I don't believe it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "South Dakota... isn't that where your CEO grew up?",
+        "Maybe he wants to be near his parents to get free baby-sitting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is the most cynical thought I have ever heard in my life.",
+        "Thanks.",
+        "I'm blushing under my fur."
+      ]
+    }
+  ]
+}

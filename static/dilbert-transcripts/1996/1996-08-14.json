@@ -1,0 +1,32 @@
+{
+  "date": "1996-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're on the layoff list, Wally.",
+        "Has anyone claimed your chair, yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I claimed it a few minutes ago.",
+        "Liar!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ow!",
+        "Pow!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I guess it's true what they say about layoffs being hard on the survivors."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1996-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have my poems and dances healed your soul yet, Alice?",
+        "The company cares about your total well being.",
+        "Excuse me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We want more money, not more dancing dogs!!!",
+        "M-o-n-e-y!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you're saying those primal screams are healthy?",
+        "Can you teach me to do it?",
+        "Here's my invoice-go wild."
+      ]
+    }
+  ]
+}

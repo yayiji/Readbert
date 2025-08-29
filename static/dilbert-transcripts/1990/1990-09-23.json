@@ -1,0 +1,54 @@
+{
+  "date": "1990-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided we need more structure in this household."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Things are out of control... we have no procedures... no rules... it's totally unmanageable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why I've developed a set of forms to guide our daily interactions."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, this P-38 form is a request for additional food."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The P-39 is for liquids and the P-40 is a convenient way to request both food and liquids."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Give me a P-39 form... I'm a little dry."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Later",
+        "Under \"purpose for distribution\" I put \"thirsty.\" I hope that's right."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Request denied... you used an outdated form."
+      ]
+    }
+  ]
+}

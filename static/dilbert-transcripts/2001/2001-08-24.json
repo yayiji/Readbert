@@ -1,0 +1,25 @@
+{
+  "date": "2001-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm dating a beautiful woman.",
+        "Do you have any advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A beautiful woman is like a heap of fresh garbage: exciting, mysterious and delightful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any advice that doesn't compare my girlfriend to garbage?",
+        "How about compost?"
+      ]
+    }
+  ]
+}

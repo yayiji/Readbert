@@ -1,0 +1,58 @@
+{
+  "date": "1993-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I gave five hundred dollars to charity this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe it's my moral duty to help those less fortunate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Five hundred dollars?",
+        "What kind of morality is that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People are starving and you still have plenty of money left for your hobbies."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "According to your moral code it's more important for you to have a new computer than for poor people to eat."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Morality? Ha!",
+        "You spent five hundred bucks to ease your own guilt!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And it worked.",
+        "I feel pretty good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How much did you give to charity?",
+        "A thousand.",
+        "That's why I'm so torqued."
+      ]
+    }
+  ]
+}

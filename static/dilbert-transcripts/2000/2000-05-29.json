@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My socks use an antimicrobial polymer to bond chlorine atoms to cotton."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can wear these babies for days before they start to stink."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was that other pick-up line we talked about?",
+        "It was \"hi.\""
+      ]
+    }
+  ]
+}

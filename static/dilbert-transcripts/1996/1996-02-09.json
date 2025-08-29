@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I've decided to move your project due date up a month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every time it looks like I'll reach an objective, you move it!",
+        "What does this prove about my performance?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It proves I'm better at setting objectives than you are at achieving them."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1991-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's an ethical dilemma...",
+        "I support my company's goal of discouraging drug use, but the random drug testing policy is a violation of my constitutional rights."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll get fired if I refuse the test. What is the ethical thing to do?",
+        "Hack into their computer and change your boss's test results."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes the straightest path is through the mud.",
+        "Good, rationalize it with an obtuse metaphor."
+      ]
+    }
+  ]
+}

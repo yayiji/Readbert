@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to stop everything and do this emergency budget exercise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Estimate the budget impact of replacing all the engineers with decorative plants."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later, I'll summarize everybody's inputs into a bullet point, like \"Oxygen is good.\"",
+        "Would these be rented plants?"
+      ]
+    }
+  ]
+}

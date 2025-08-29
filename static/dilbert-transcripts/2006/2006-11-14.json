@@ -1,0 +1,25 @@
+{
+  "date": "2006-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My first baby weighed 11 pounds.",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I once passed a kidney stone that was the size of a small horse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I find that hard to believe.",
+        "That kidney stone went on to win the Kentucky Derby!"
+      ]
+    }
+  ]
+}

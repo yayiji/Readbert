@@ -1,0 +1,57 @@
+{
+  "date": "2004-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our bonuses will depend on the results of the employee attitude survey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we boost our morale rank, we'll get bigger bonuses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get it? All you have to do is say you're happy and you get money.",
+        "Wink",
+        "Wink",
+        "Wink"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You want us to lie?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No-o-o-o! Heaven forbid. Absolutely no lying."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But if you did lie, imagine the things you could buy with that money."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll hand out the surveys and you can let your conscience guide you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is \"paradise\" too over the top?",
+        "I'm going to lie me up a new couch!"
+      ]
+    }
+  ]
+}

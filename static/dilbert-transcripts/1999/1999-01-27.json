@@ -1,0 +1,25 @@
+{
+  "date": "1999-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, have you ever noticed that the people with the most experience are the ones who die?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to spend the rest of my life in an old coffee can, experiencing nothing. Hence, immortality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your first week of immortality?",
+        "So far, it's overrated."
+      ]
+    }
+  ]
+}

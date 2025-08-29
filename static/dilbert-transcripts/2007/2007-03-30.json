@@ -1,0 +1,30 @@
+{
+  "date": "2007-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you're done researching new technology, I want you to inventory our furniture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When do you think you'll be done?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When will you forget you asked me, and assign the furniture project to someone else?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Two weeks.",
+        "I'll be done in 15 days."
+      ]
+    }
+  ]
+}

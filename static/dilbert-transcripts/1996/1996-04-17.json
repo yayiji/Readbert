@@ -1,0 +1,26 @@
+{
+  "date": "1996-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh my!",
+        "This is shocking!",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "40% of all sick days taken by your staff are Fridays and Mondays!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What kind of idiot do they think I am?",
+        "Not an idiot savant. They can do math."
+      ]
+    }
+  ]
+}

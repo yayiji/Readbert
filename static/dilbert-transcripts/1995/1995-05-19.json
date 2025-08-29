@@ -1,0 +1,25 @@
+{
+  "date": "1995-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to boost our return-on-assets ratio."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's eliminate the security department.",
+        "That would cut expenses while allowing for a brisk reduction in assets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When are you planning to tell him you were joking?",
+        "After I furnish my den."
+      ]
+    }
+  ]
+}

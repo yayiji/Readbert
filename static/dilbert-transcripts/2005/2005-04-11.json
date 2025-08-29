@@ -1,0 +1,25 @@
+{
+  "date": "2005-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I create a marketing campaign if my boss doesn't give me any resources?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try giving free samples to people who look like celebrities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you would be?",
+        "Donald Trump.",
+        "Give me some free stuff."
+      ]
+    }
+  ]
+}

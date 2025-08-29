@@ -1,0 +1,57 @@
+{
+  "date": "2005-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project deadline is next month, and I can't imagine you finishing on time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I dinged you on your annual performance review."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But... I will finish on time.",
+        "I always finish on time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, let's agree to disagree.",
+        "What?!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're basing my raise on what you imagine I won't do in the future!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Relax. If you do finish the project on time, I'll factor it into your next annual review."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well... okay.",
+        "I guess it all averages out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Remember the project that I finished last year?",
+        "No. But the new one looks like it will be late."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2001-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Leaving at seven?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of my work is done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then get some more work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That would make my life an exercise in futility.",
+        "Exercise is good for you."
+      ]
+    }
+  ]
+}

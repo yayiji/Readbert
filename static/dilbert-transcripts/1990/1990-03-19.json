@@ -1,0 +1,24 @@
+{
+  "date": "1990-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry, sir, but you've been \"bumped.\"",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got a ticket! I demand satisfaction! I'll call the president of your stupid company!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if there's really such a thing as the \"duct tape section.\""
+      ]
+    }
+  ]
+}

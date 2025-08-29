@@ -1,0 +1,27 @@
+{
+  "date": "1994-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like some chicken, Bob?",
+        "I told you I'm a vegetarian.",
+        "I eat vegetables."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about fish? Do you eat fish?",
+        "Fish are not vegetables."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about clams? Do you eat clams?",
+        "No, but you're starting to look good."
+      ]
+    }
+  ]
+}

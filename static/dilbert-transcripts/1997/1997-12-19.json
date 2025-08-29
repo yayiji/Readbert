@@ -1,0 +1,25 @@
+{
+  "date": "1997-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project has hit a little snag."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our North Elbonian contractors stole our military technology for their belligerent homeland.",
+        "They're building a huge laser to vaporize us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next year, remind me to include contract employees in the team-building workshop.",
+        "The floor is warm!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1993-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've completed the design for bioworld.",
+        "Have you selected the volunteers?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... these are the brave people whose lives will depend on my ability to engineer a balanced ecology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seven car salesmen plus Ratbert...",
+        "Coincidence"
+      ]
+    }
+  ]
+}

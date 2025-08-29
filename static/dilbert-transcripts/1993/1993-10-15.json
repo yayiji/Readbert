@@ -1,0 +1,25 @@
+{
+  "date": "1993-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saved the company a fortune by sending the headquarters staff on one-way business trips."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They haven't wasted money on any stupid projects all day...",
+        "Now I can leak my strategy to the media and exercise my stock options at the uptick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... I'm here for a meeting.",
+        "Did anybody see you?"
+      ]
+    }
+  ]
+}

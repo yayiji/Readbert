@@ -1,0 +1,24 @@
+{
+  "date": "1992-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember, the \"robot's code\" requires you to use your vast strength to serve, protect, and never harm humans."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha! I didn't sign any \"robot's code.\" In fact, with my vast strength I can make you serve me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I forgot to program in the \"robot's code.\"",
+        "Maybe I'll crush your head just for fun!"
+      ]
+    }
+  ]
+}

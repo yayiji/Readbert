@@ -1,0 +1,25 @@
+{
+  "date": "2001-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you're coming with me to an important meeting across the bridge.",
+        "Important!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My hard work as an intern is paying off.",
+        "Already I am invited to an important meeting!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, we get the carpool lane!"
+      ]
+    }
+  ]
+}

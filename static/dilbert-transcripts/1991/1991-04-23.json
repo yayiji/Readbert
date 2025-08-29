@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of those strange circles found in British wheat fields?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously, messages from highly intelligent aliens.",
+        "If they're so smart, why do they have to send messages by stomping on wheat?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe they underestimated our intelligence.",
+        "Or not."
+      ]
+    }
+  ]
+}

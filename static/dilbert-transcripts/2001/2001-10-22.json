@@ -1,0 +1,24 @@
+{
+  "date": "2001-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ask the trolls in accounting to explain this charge.",
+        "Gaa!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please don't make me talk to the trolls during budget season!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next"
+      ]
+    }
+  ]
+}

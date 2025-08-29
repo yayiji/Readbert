@@ -1,0 +1,24 @@
+{
+  "date": "2005-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have to have a leadership succession plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a freeze on hiring, so you'll need to pick someone from your staff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, if something horrible happened to you, I'd get a promotion?",
+        "This was a bad idea."
+      ]
+    }
+  ]
+}

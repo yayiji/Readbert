@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand how the new reorganization will help us \"focus on our core business.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did our core business change?",
+        "Or are you saying that every reorg prior to this was a misdirected failure?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, when a car gets a flat tire, what do you do?",
+        "Well, if I'm you, I rotate the tires and drive home."
+      ]
+    }
+  ]
+}

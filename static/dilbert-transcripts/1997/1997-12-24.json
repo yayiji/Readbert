@@ -1,0 +1,25 @@
+{
+  "date": "1997-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi. I'm Dan, the illogical scientist.",
+        "That software you're writing will never work, and I can prove it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't mean to be rude, but it's not logically possible to prove something can't be done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's impossible for most people, but I'm a trained scientist.",
+        "Did the training involve electric shocks?"
+      ]
+    }
+  ]
+}

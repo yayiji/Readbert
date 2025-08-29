@@ -1,0 +1,59 @@
+{
+  "date": "1995-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So... okay, great...",
+        "Alright then..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm trapped in the meeting that would not conclude!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm too polite to say \"We're done. Please leave.\"",
+        "Like I said before..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh no! I missed the window - he's reiterating!!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... okay, great...",
+        "Alright then..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe if I shake his hand he'll leave.",
+        "But like I said before..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Nooooo",
+        "Ooooo!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...Then there was sort of a long awkward pause...",
+        "So... okay, great..."
+      ]
+    }
+  ]
+}

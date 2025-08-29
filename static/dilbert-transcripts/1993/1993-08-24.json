@@ -1,0 +1,29 @@
+{
+  "date": "1993-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll go with you on your trip to Elbonia.",
+        "I can be your bodyguard!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not a good place for a rat.",
+        "The mud is quite...",
+        "You think I'm not tough enough?",
+        "I'll show you!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Elbonia",
+        "And that's your bodyguard?",
+        "I don't like the tone of your voice."
+      ]
+    }
+  ]
+}

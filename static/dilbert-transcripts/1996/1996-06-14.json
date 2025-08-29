@@ -1,0 +1,24 @@
+{
+  "date": "1996-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This company makes perfect sense, now that I'm insane."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, it might seem as though we're woefully understaffed, but I can compensate by working smarter not harder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, if I'm capable of working smarter, then why do I work here?",
+        "The healing has begun."
+      ]
+    }
+  ]
+}

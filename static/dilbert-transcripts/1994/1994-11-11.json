@@ -1,0 +1,27 @@
+{
+  "date": "1994-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "I recommend letting the engineers order their own supplies without management approval."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!!! I'm rich!! Ha ha ha ha ha ha!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I recommend buying \"put options\" in your stock.",
+        "Whoo!",
+        "Whoo!",
+        "Whoo!"
+      ]
+    }
+  ]
+}

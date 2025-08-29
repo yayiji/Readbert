@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll want our new server software after your reorganization.",
+        "Reorganization?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Next week you're having massive layoffs and eliminating three divisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your \"I haven't heard anything\" face needs work."
+      ]
+    }
+  ]
+}

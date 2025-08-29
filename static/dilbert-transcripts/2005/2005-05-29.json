@@ -1,0 +1,54 @@
+{
+  "date": "2005-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I show you something that I'm proud of?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I automated a task that used to take me three hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, well, well. Isn't that just like you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Resourceful?",
+        "Lazy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did you just turn my brilliant accomplishment into a character flaw?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Complainer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's just forget the whole thing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Quitter."
+      ]
+    }
+  ]
+}

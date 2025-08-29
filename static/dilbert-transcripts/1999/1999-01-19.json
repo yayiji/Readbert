@@ -1,0 +1,24 @@
+{
+  "date": "1999-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, tell our viewers how your internet start-up got so hot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Beats me. I was wondering how you got so hot. I'm burning up over here!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It says here you were an engineer.",
+        "Is my ponytail doing anything for you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's ad agency",
+        "I've developed a new slogan that captures the essence of this company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We abuse our employees and pass the savings to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll film actual employees in their squalid cubicles.",
+        "Wear that shirt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you requested, I benchmarked our company against five world-class companies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The comparisons are irrelevant because we're in different industries. But that didn't stop me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why can they make a potato chip in one second but it takes us months to develop software?",
+        "I think they oil the chips."
+      ]
+    }
+  ]
+}

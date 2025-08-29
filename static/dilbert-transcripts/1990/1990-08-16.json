@@ -1,0 +1,25 @@
+{
+  "date": "1990-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So... you've come to the accounting department for an explanation of the budget report, aye?",
+        "Unchain him, Bradley."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally we would torture and kill you for questioning our report."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you realized that my questions are valid?",
+        "No. I'm promoting Bradley. You're my new analyst."
+      ]
+    }
+  ]
+}

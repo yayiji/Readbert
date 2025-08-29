@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have the best employees in the world..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...not counting the people who refuse to work here because the pay is so low."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Improve morale...",
+        "Done."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's see... your defects are discussed in chapter 23."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll give you a photocopy so you can see how to fix yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Books are full of information."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "\"Tim will be leaving the company to pursue other opportunities.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Note the absence of key phrases such as \"we regret\" or \"years of dedicated service.\"",
+        "And notice that his new opportunity is not called \"exciting.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you're reading a little too much into that announcement.",
+        "No, I'm reading the footnote."
+      ]
+    }
+  ]
+}

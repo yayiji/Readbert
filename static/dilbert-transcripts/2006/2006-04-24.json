@@ -1,0 +1,25 @@
+{
+  "date": "2006-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reserved a mid-sized car.",
+        "Let's see what's left."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have any cars left. But I can let you borrow a glove from the lost-and-found bin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What good is one glove?",
+        "You wouldn't ask that if you had a frozen hand."
+      ]
+    }
+  ]
+}

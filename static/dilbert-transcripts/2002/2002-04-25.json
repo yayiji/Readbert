@@ -1,0 +1,25 @@
+{
+  "date": "2002-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What a day I'm having.",
+        "First my key card doesn't work, so I have to tailgate into the building."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then my network password doesn't work.",
+        "Now my voicemail doesn't work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it possible for anything else to stop working today?!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm reading the leadership secrets of the famous Roman general Dogbertious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a good one:",
+        "\"Put your friends in private offices and your wretched slaves in cubicles.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's another:",
+        "\"Don't read this book to your wretched slaves.\""
+      ]
+    }
+  ]
+}

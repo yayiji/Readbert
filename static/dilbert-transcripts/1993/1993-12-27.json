@@ -1,0 +1,24 @@
+{
+  "date": "1993-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like your biggest map of the world for my war room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like this for free. In return, after I conquer the world I'll make you ambassador to France."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that require travel? I get airsick.",
+        "No problem. You'll have diplomatic immunity."
+      ]
+    }
+  ]
+}

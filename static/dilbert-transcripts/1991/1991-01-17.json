@@ -1,0 +1,23 @@
+{
+  "date": "1991-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My museum is the only place you can see the remains of D.B. Cooper."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cooper hijacked a jet, demanded money and a parachute, then jumped."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He learned that you should never get your parachutes from the same people you're robbing."
+      ]
+    }
+  ]
+}

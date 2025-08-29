@@ -1,0 +1,26 @@
+{
+  "date": "1994-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No, \"C\" is a computer language, not the grade for my project.",
+        "What's happening?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He turned into a black hole, so dense that light cannot escape his field of gravity.",
+        "Ping"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unfortunately, only his ideas can escape the gravity because they lack substance.",
+        "What if you program in \"B\"?"
+      ]
+    }
+  ]
+}

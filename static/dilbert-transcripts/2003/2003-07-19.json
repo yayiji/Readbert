@@ -1,0 +1,25 @@
+{
+  "date": "2003-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Corporate witch-hunt",
+        "I've narrowed the list to seventeen suspects who might have talked to that reporter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now we'll check their e-mail archives, phone records and linguistic patterns until we identify the offender."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then we can punish all of them just for being on the list.",
+        "I like the way you stink."
+      ]
+    }
+  ]
+}

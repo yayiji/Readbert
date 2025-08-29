@@ -1,0 +1,24 @@
+{
+  "date": "2001-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't give your opinion on anything.",
+        "Are you spineless?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you create an environment in which giving an opinion is an invitation to unnecessary pain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great! You're making me cry in public!!"
+      ]
+    }
+  ]
+}

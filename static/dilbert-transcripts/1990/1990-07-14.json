@@ -1,0 +1,24 @@
+{
+  "date": "1990-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just a quick question: Is it necessary to change my oil..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Or can I just keep letting it run dry and then add new oil?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think the answer is going to be \"no\" to that second option.",
+        "AAAAEEEE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "1997-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have the results of the employee communications survey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The number one problem is \"fear of giving negative news to managers.\"",
+        "Negative news"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?! Why haven't I heard this before?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well... maybe because it's negative news?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do you have a solution or did you just come to insult me?",
+        "Don't get involved."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ooh. Um... maybe if we wait a few days it will take care of itself.",
+        "Fine. Next."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Happily, there are no other communication problems whatsoever.",
+        "Heh heh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wonder why so many problems go away on their own.",
+        "I have no comment at this time."
+      ]
+    }
+  ]
+}

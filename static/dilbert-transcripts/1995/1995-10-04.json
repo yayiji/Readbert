@@ -1,0 +1,26 @@
+{
+  "date": "1995-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Attention, passenger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Captain Dogbert.",
+        "This is my first flight.",
+        "I'll bet you wish you hadn't cut the corporate training budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For safety, keep an eye out the window...",
+        "If it looks like we're gonna hit the ground, try jumping up right before impact."
+      ]
+    }
+  ]
+}

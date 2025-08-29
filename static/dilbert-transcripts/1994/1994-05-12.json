@@ -1,0 +1,25 @@
+{
+  "date": "1994-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "It looks like you've all done your assignments for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your input is so important that I'll have it put in a big binder and stored in the same building that your president works!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'll put in a good word for you when I meet with your boss later today.",
+        "How about two good words?"
+      ]
+    }
+  ]
+}

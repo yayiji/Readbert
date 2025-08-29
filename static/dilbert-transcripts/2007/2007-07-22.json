@@ -1,0 +1,59 @@
+{
+  "date": "2007-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our pointy-haired boss is insisting we use old technology because he thinks it will be easier to get it funded."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should raise that issue at the meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll back you up.",
+        "Absolutely."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are there any issues?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're making us use old technology just to make your job easier."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Does anyone else think that?",
+        "No.",
+        "No.",
+        "No."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The old technology works fine.",
+        "New technology is too buggy."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What was that?!",
+        "It's just something we do."
+      ]
+    }
+  ]
+}

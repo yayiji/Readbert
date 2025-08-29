@@ -1,0 +1,31 @@
+{
+  "date": "2007-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you finish the detailed analysis?",
+        "No, I'm more of a big picture kind of guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why didn't you tell me that a week ago when I asked?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like to disappoint people."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What the %$%! Do you think I am now?!",
+        "Hey, I think I'm starting to like disappointing people!"
+      ]
+    }
+  ]
+}

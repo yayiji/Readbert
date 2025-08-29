@@ -1,0 +1,25 @@
+{
+  "date": "1992-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you're north of the equator, water swirls clockwise down the drain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "South of the equator, it swirls counter-clockwise.",
+        "What's it do right on the equator?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On the equator",
+        "Juan! It's just sitting there again!"
+      ]
+    }
+  ]
+}

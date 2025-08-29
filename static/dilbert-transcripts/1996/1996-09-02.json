@@ -1,0 +1,27 @@
+{
+  "date": "1996-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you want a job as our network administrator, Mister Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't like people.",
+        "This is a good opportunity to annoy idiots such as yourself for my own entertainment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. You're perfect.",
+        "Can you start tomorrow?",
+        "Sure, as far as you know.",
+        "I'll give you my pager number."
+      ]
+    }
+  ]
+}

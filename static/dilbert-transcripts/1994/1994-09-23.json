@@ -1,0 +1,25 @@
+{
+  "date": "1994-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired Bob the dinosaur to beat you with his tail until you give me the project requirements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha!!! I'll double your fee if you thump Dilbert instead.",
+        "I'll triple your fee!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He can't really pay you \"infinity plus one.\"",
+        "I wonder how much that is on an hourly basis."
+      ]
+    }
+  ]
+}

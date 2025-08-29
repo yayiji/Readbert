@@ -1,0 +1,24 @@
+{
+  "date": "2002-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm giving everyone on my staff this inspirational book about a successful fish market!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to be like the characters in the book."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The title characters get captured, tossed around and eaten.",
+        "Depressing."
+      ]
+    }
+  ]
+}

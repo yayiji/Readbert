@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My raise didn't go through because your secretary didn't do the paperwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I demand that you initiate disciplinary actions against her!",
+        "I'll try, but..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carol, could you get me one of those disciplinary action forms?",
+        "Sure, right after my ski trip to hell."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2001-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The master of delegation hears the footsteps of his prey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi",
+        "Gaaa!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Call this vendor and tell him I want the third thing he told me about."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay. That will save two minutes of your valuable time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When the vendor asks me dozens of questions should I just guess at the answers?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or would you prefer to spend an hour giving me enough background so you can avoid a two-minute call?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You know what's funny? This conversation lasted a minute... and there are two of us."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you done?",
+        "I think you wrote down your own phone number."
+      ]
+    }
+  ]
+}

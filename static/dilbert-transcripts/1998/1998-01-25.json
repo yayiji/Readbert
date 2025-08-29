@@ -1,0 +1,54 @@
+{
+  "date": "1998-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to go home. That means..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi.",
+        "Right on schedule."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait. Let me guess why you're here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You want to discuss a document that's been on your desk for a month."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's something that could easily wait until tomorrow."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But you'll insist that I handle it now because you're a sociopath."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wrong. I majored in anthropology."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "But that was a spookily accurate guess about the document."
+      ]
+    }
+  ]
+}

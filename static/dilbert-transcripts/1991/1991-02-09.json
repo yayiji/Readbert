@@ -1,0 +1,27 @@
+{
+  "date": "1991-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was thinking about going to \"Clyde Canyon\" for our vacation.",
+        "What is it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a big hole in the ground.",
+        "What do you do there?",
+        "You look at it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ah, life be my wild mistress.",
+        "There's some gusto out there with our names on it."
+      ]
+    }
+  ]
+}

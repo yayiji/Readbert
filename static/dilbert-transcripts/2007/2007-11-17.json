@@ -1,0 +1,26 @@
+{
+  "date": "2007-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services, and I bring you my newest biometric scanner."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead of a password, I put this on your head and squeeze until you scream in a way that only you can scream."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, that's not you.",
+        "Gaaa!",
+        "Gaaa!",
+        "Gaaa!"
+      ]
+    }
+  ]
+}

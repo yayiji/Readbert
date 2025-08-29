@@ -1,0 +1,24 @@
+{
+  "date": "2001-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My flight took all night but I still came to work on time as usual."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't want to jeopardize the company by missing work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not allowed to park in the lobby.",
+        "Since when?!"
+      ]
+    }
+  ]
+}

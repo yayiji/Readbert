@@ -1,0 +1,25 @@
+{
+  "date": "2004-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Product designer",
+        "Good design is essential to your success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I employ only the best artists and design professionals."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who ate all the crayons again?!",
+        "Intruders?"
+      ]
+    }
+  ]
+}

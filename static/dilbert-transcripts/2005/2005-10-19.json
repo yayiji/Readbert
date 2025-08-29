@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to delete all of our incriminating e-mails before the court sees them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That plan is no good because I'd be a witness to the crime... unless you had me killed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Phase two is none of your concern.",
+        "It has a phase???"
+      ]
+    }
+  ]
+}

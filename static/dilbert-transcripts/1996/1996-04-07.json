@@ -1,0 +1,60 @@
+{
+  "date": "1996-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Go home, Dilbert.",
+        "Relax! You're working too hard!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You told me to finish this by tomorrow.",
+        "You said it's urgent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Relax! Go home!",
+        "Shoo!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Suddenly Dilbert is sucked into the \"boss zone\" where time and logic do not apply."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How can I relax and do urgent work at the same time?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Work smarter, not harder.",
+        "Aaaeeii!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Mercifully, the angel of cynicism appears.",
+        "Slap something together in the morning.",
+        "He won't look at it anyway."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The inspirational moral...",
+        "Freedom's just another word for not caring about the quality of your work!"
+      ]
+    }
+  ]
+}

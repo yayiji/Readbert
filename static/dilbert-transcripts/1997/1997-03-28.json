@@ -1,0 +1,26 @@
+{
+  "date": "1997-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Profits are down.",
+        "Morale is low.",
+        "What is the root problem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's got to be those anti-management cartoons the employees hang on their cubicle walls!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And they aren't even funny.",
+        "This one has our mission statement."
+      ]
+    }
+  ]
+}

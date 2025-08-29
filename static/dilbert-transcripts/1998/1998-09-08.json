@@ -1,0 +1,24 @@
+{
+  "date": "1998-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come work for our consulting firm and you will get this bushel of money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All we want in return is twenty hours of work each day..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...With clients who hate you for a variety of good reasons.",
+        "At least there's no travel, right?"
+      ]
+    }
+  ]
+}

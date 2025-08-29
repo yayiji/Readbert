@@ -1,0 +1,25 @@
+{
+  "date": "2005-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's executive search firm",
+        "How would you like to be the CEO of a major corporation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'd be paid $100 million per year just for showing up.",
+        "I'd have to see the dental plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's not very effective during the day."
+      ]
+    }
+  ]
+}

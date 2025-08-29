@@ -1,0 +1,24 @@
+{
+  "date": "1998-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our pointy-haired boss won't tell me our company's strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I spend my days wandering from cubicle to cubicle, trying to deduce the strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So far I've ruled out \"first to market.\"",
+        "And \"premiere\" anything."
+      ]
+    }
+  ]
+}

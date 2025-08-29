@@ -1,0 +1,21 @@
+{
+  "date": "1991-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do not use if seal is broken."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great... how are you supposed to get the pills out?"
+      ]
+    }
+  ]
+}

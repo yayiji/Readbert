@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember: Knowledge is power."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So never tell people anything because they might use it to crush you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you understand?",
+        "I'm not saying."
+      ]
+    }
+  ]
+}

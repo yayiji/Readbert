@@ -1,0 +1,25 @@
+{
+  "date": "2003-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Career counseling",
+        "Apparently you're still mad about being down-sized."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to your resume, you're seeking a job that involves \"punching a short, stocky guy with pointy hair.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that the only job you'd consider?",
+        "I also like kicking."
+      ]
+    }
+  ]
+}

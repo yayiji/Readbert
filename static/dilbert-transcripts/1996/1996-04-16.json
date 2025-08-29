@@ -1,0 +1,25 @@
+{
+  "date": "1996-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This dog is specially trained to detect wasted resources."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll help me find out why your project is behind schedule even after adding me as manager.",
+        "Sniff",
+        "Sniff"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll begin as soon as he's done playing around."
+      ]
+    }
+  ]
+}

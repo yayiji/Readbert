@@ -1,0 +1,52 @@
+{
+  "date": "2004-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When our pointy-haired boss asks about your project, what should you say?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would inform him about any problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Big mistake. If he hears that you have a problem, he might try to help."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How can help be bad?",
+        "Asok, how's your project?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Good, but I need to upgrade my disk drive to store all of the image data."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Forget that. Just e-mail pieces of the database to employees who have extra disk space."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Please pull on this until I lose consciousness."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

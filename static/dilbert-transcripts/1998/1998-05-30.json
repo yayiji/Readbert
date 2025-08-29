@@ -1,0 +1,25 @@
+{
+  "date": "1998-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My dog slipped me a fertility drug.",
+        "How soon before I give birth?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... it's impossible to have babies unless a woman is involved in some way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh, right, for the diapers.",
+        "I'm going to give you a prescription for painful shots."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Frankly, I'm tired of hearing your little problems..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate my job...",
+        "I haven't had a decent date in a year...",
+        "My biological clock is ticking away..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would it be unethical to date one of your patients?",
+        "Yes, especially an ugly one."
+      ]
+    }
+  ]
+}

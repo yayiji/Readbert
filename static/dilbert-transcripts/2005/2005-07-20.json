@@ -1,0 +1,25 @@
+{
+  "date": "2005-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Elbonians won't do business with my company unless we bribe them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Offer to give them plans for building a nuclear weapon.",
+        "Then give them plans to build microwave ovens instead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that work?",
+        "Why do you think our garage is full of Persian rugs?"
+      ]
+    }
+  ]
+}

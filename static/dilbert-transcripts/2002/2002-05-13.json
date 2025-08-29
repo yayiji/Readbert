@@ -1,0 +1,23 @@
+{
+  "date": "2002-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO is visiting next week. Discontinue all real work immediately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have five days to create the illusion of productivity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's the diversity sign-up sheet. We still have a few open slots that only require a hat."
+      ]
+    }
+  ]
+}

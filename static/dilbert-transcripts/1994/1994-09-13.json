@@ -1,0 +1,25 @@
+{
+  "date": "1994-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, I'll yank the cat off of Ratbert's head and you stomp on it!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yank",
+        "Stomp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could have phrased that better.",
+        "I'm not an optimist anymore."
+      ]
+    }
+  ]
+}

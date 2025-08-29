@@ -1,0 +1,26 @@
+{
+  "date": "1993-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes, my client did accidentally slay a \"temp\" worker...",
+        "Emphasis on \"temp\"."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But who among us can say they haven't slain innocent people when the situation called for it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can.",
+        "Well, great...",
+        "So much for getting a fair trial."
+      ]
+    }
+  ]
+}

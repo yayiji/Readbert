@@ -1,0 +1,29 @@
+{
+  "date": "2000-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got the stress everyone talks about. What should I do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try using it as an excuse for not exercising."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... it's a good thing?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It made me the man I am today."
+      ]
+    }
+  ]
+}

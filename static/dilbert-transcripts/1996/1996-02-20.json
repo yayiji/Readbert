@@ -1,0 +1,27 @@
+{
+  "date": "1996-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I moved our software development work to the impoverished nation of Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm brilliant.",
+        "They write high-quality code for six cents a day!",
+        "There's no risk!",
+        "Red alert!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tomorrow,",
+        "you be the computer."
+      ]
+    }
+  ]
+}

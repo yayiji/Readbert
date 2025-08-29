@@ -1,0 +1,28 @@
+{
+  "date": "1998-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the conference",
+        "They have some great keynote speakers here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a CEO...",
+        "A politician...",
+        "Another CEO...",
+        "And a cartoonist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In this cartoon, Gilbert goes to a conference that has no useful content.",
+        "I know guys like that."
+      ]
+    }
+  ]
+}

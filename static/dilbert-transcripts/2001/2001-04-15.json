@@ -1,0 +1,57 @@
+{
+  "date": "2001-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is your most valuable asset?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees?",
+        "Hee!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your most valuable asset is rampant ignorance."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, you would never start a project if you knew how much it would really cost."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Employees stay here because they don't know there are better jobs across the street.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Customers buy your products because they don't know about all the bugs.",
+        "Good point."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I recommend wearing trash cans on your heads to avoid any accidental exposure to knowledge."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did he tell you he was a consultant?",
+        "He said he was selling trash cans."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent the entire day getting new assignments which left no time to actually work on anything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tomorrow I'll spend the entire day explaining why I didn't finish yesterday's work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes I don't know the difference between me and a hamster on a wheel.",
+        "Hamsters don't depress me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "1990-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a nice avocado dip for us, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate avocados."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you know, if you haven't tried them?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How do you know you don't like cramming potato chips up your nose?",
+        "You've never tried that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Fair enough...",
+        "I can't dispute your logic."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you try the dip,",
+        "I'll cram potato chips up my nose.",
+        "Deal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Crunch",
+        "Ouch",
+        "Crunch",
+        "Ouch",
+        "Hmm...",
+        "Good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Id feelth aboud like I thoughd id would.",
+        "I lied. I've liked avocados for years."
+      ]
+    }
+  ]
+}

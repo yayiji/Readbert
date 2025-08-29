@@ -1,0 +1,56 @@
+{
+  "date": "2000-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company is too good to have results this poor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "%*!* engineers.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you saying the laws of cause and effect do not apply?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Logically, if we were good, we would generate good results."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is it not more likely that we are pathetic losers who get exactly what we deserve?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes, individually you're all losers.",
+        "But together we're a great company.",
+        "Thanks to my leadership."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I feel like squirming but I don't have the energy."
+      ]
+    }
+  ]
+}

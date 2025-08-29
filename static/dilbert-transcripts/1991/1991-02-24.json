@@ -1,0 +1,62 @@
+{
+  "date": "1991-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take us to your leader."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What kind of leader do you want?",
+        "Spiritual?",
+        "Economic?",
+        "Political?",
+        "Military?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Political?",
+        "Try it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, do you want a city, county, state, federal or world political leader?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "World...",
+        "Definitely world.",
+        "Multiple choice is so easy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sorry... trick question.",
+        "There is no political leader of the world."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But over that hill is a grocery store that claims to be the price leader."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The strangest thing happened at the grocery store...",
+        "It's been a strange day."
+      ]
+    }
+  ]
+}

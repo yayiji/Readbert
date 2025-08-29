@@ -1,0 +1,57 @@
+{
+  "date": "1995-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you review my draft documentation yet?",
+        "Uh... I'll get to it soon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's what you've been saying since July!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know I'm only a lowly technical writer and you're a big important engineer..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But is it too much to ask for you to glance at the fruits of my labors?!!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Five lousy minutes is all it would take to validate my value on this planet! Read it, you fetid pile of compost!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, okay!",
+        "I'll read it right now!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "These pages are blank!",
+        "You've been bluffing for months!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think I'll go have a yummy compost salad with delicious fetid cheese.",
+        "I'm going to look up those words."
+      ]
+    }
+  ]
+}

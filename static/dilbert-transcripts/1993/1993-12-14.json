@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stan, you promised the customer things that engineering can't possibly deliver.",
+        "Do you know what this means?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It means I'm a great salesman and you're a putrid engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should consider taking classes at night.",
+        "Karate classes"
+      ]
+    }
+  ]
+}

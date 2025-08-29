@@ -1,0 +1,24 @@
+{
+  "date": "1991-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I'll never solve the mystery of why Dilbert's neckties curl up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes, Dogbert, life presents us with mysteries to fuel our sense of wonder. It stimulates us to reach beyond ourselves to something greater."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This isn't one of those times, is it?",
+        "Apparently not."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2002-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have any ideas for boosting morale?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oooh!",
+        "Oooh!",
+        "Oooh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The employee potluck lunch that we had last year was almost perfect."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But we only did it once and some people had schedule conflicts."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I call my idea the \"permanent virtual individual employee potluck\" or P.V.I.E.P. for short."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Every day, each employee brings a small meal in a bag and eats it whenever he gets hungry."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You already do that.",
+        "And look how happy I am!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay. Who is going to organize the P.V.I.E.P.?",
+        "Alice hasn't helped yet."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1996-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok the intern",
+        "I came in over the weekend and looked at the design you've been working with all year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It turns out that you could have built the unit at half the cost with just one minor change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it true I can win awards for this sort of thing?",
+        "Fetch the internapult."
+      ]
+    }
+  ]
+}

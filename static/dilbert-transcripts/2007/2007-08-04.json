@@ -1,0 +1,23 @@
+{
+  "date": "2007-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I narrowed down the options to an alternative that costs too much and another that won't work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't do any research. It's more of an experience sort of thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next week I plan to think about the option of using technology that isn't yet available."
+      ]
+    }
+  ]
+}

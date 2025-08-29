@@ -1,0 +1,27 @@
+{
+  "date": "1995-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My inspirational posters aren't working.",
+        "I need to do some animal research, Ratbert.",
+        "Ready!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In this beautiful scene we see a mighty eagle swooping down to capture its prey.",
+        "What is your reaction?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it's working.",
+        "Run for it, Mom!!!"
+      ]
+    }
+  ]
+}

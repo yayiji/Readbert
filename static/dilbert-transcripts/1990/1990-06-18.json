@@ -1,0 +1,26 @@
+{
+  "date": "1990-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Freeze!!!",
+        "I'm a dog catcher!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What, no collar?",
+        "You're going to the puppy penitentiary, pal!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your human turned you in?",
+        "He didn't think a pit bull should wear his hair this way."
+      ]
+    }
+  ]
+}

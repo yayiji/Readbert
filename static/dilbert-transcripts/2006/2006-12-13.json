@@ -1,0 +1,28 @@
+{
+  "date": "2006-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked on my own time to invent a room-temperature superconductor that could eliminate our need for oil."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You were supposed to be finding a new vendor for toner cartridges. What happened to that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must...",
+        "Not use...",
+        "Tele-",
+        "kinesis...",
+        "Why does my necktie seem so...",
+        "Erk!!!"
+      ]
+    }
+  ]
+}

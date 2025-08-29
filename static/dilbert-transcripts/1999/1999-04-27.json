@@ -1,0 +1,26 @@
+{
+  "date": "1999-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have those budget numbers from last month?",
+        "They're totally inaccurate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know, but those are the only numbers we have.",
+        "Actually, we have infinite inaccurate numbers to choose from."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's keep those in our back pocket in case we need them.",
+        "I'll encrypt them so no one else can use them."
+      ]
+    }
+  ]
+}

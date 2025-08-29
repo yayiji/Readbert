@@ -1,0 +1,27 @@
+{
+  "date": "1995-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I feel like tweaking some brittle people.",
+        "Do you know any brittle people?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try Tina the tech writer.",
+        "She believes that all forms of expression are an insult to her gender and her profession."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The statue of \"Venus de Milo\" has no arms.",
+        "Oh, I get it.",
+        "You're saying that women can't lift heavy objects."
+      ]
+    }
+  ]
+}

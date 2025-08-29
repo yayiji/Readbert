@@ -1,0 +1,43 @@
+{
+  "date": "2000-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what's the status of our vital records protection plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Think fast."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I... uh... formed a plan..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now all the records are digitized and stored with 512 bit encryption..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...At the center of the earth... on natural magnets."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I meant you should read the project team's status report.",
+        "They claim to have a plan.",
+        "Liars."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2007-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rebel negotiations",
+        "Your price to not attack our Elbonian factory is too high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can give you the senior citizen discount.",
+        "Snort"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's just mean.",
+        "Sorry.",
+        "I'll switch to more observational humor."
+      ]
+    }
+  ]
+}

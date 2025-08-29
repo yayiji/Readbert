@@ -1,0 +1,24 @@
+{
+  "date": "2005-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was the world's fastest worker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My big mistake was becoming a lawyer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think I need an estate plan?",
+        "Here's your will and here's my bill for 9 cents."
+      ]
+    }
+  ]
+}

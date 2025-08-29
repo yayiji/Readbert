@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonia has no landing strips, so you'll have to jump out of the plane."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try to flap your arms and aim for a plump Elbonian to cushion your fall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Airplane.",
+        "Dang"
+      ]
+    }
+  ]
+}

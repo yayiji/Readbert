@@ -1,0 +1,23 @@
+{
+  "date": "2004-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you recommend my company's product to your board, there might be a little something for you later."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Before you decide, look at this DVD titled, \"Is bribery right for you?\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The narrator might refer to you by name when she dances."
+      ]
+    }
+  ]
+}

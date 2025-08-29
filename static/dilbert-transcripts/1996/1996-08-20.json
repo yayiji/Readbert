@@ -1,0 +1,26 @@
+{
+  "date": "1996-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My idea is that everyone should be required to use small fonts.",
+        "That way we'll save disk space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I've noticed that many people use entire colons in situations where a semicolon would do just fine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're right.",
+        "That was fun.",
+        "The real fun is when he describes his new ideas at the next staff meeting."
+      ]
+    }
+  ]
+}

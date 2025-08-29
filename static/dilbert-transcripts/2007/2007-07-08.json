@@ -1,0 +1,51 @@
+{
+  "date": "2007-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should hire me as your management consultant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're a management consulting firm. We don't need a management consultant to consult us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying that management consulting is worthless?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, I'm saying we already know everything about management consulting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How can you be so sure I can't help you when you don't know what my advice will be?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, you're hired. What's your advice?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Beats me. I'll have to ask my management consultant."
+      ]
+    }
+  ]
+}

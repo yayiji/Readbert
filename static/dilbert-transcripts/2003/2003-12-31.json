@@ -1,0 +1,23 @@
+{
+  "date": "2003-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The office relocation project is proceeding without any problems whatsoever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! It's a lie!!! Our possessions will be lost and we will have no phone service!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't mean to worry anyone, but you should look for new jobs right away."
+      ]
+    }
+  ]
+}

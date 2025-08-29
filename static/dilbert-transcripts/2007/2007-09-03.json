@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired all of you because the project will take 300 man days to complete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are 300 of you, so I want you to finish by five o'clock and clean out your desks. You're all fired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it takes more than one meeting to manage a project, I lose interest."
+      ]
+    }
+  ]
+}

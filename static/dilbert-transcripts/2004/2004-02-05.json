@@ -1,0 +1,25 @@
+{
+  "date": "2004-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Never listen to your customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They were dumb enough to buy your product, so they have no credibility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That reminds me: thanks for buying my services. Don't talk. Shhhh.",
+        "Ooh."
+      ]
+    }
+  ]
+}

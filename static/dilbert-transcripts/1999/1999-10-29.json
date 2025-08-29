@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to enroll in Dogbert's accelerated management course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take out your checkbook and begin your final exam now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question one: What is today's date?"
+      ]
+    }
+  ]
+}

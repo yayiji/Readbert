@@ -1,0 +1,24 @@
+{
+  "date": "1991-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is a consultant.",
+        "I have an unorthodox plan for improving your image in the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shoot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lucky guess."
+      ]
+    }
+  ]
+}

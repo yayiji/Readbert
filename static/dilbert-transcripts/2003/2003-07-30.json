@@ -1,0 +1,26 @@
+{
+  "date": "2003-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You laugh at everything, whether it's funny or not.",
+        "Ha ha ha!! It's true."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're hired. You'll have a big impact on morale!",
+        "Ha ha ha!! Yes, I will!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must stay alive.",
+        "Ha ha ha!! Computers are funny! Ha ha!!"
+      ]
+    }
+  ]
+}

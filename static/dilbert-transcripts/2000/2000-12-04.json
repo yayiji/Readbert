@@ -1,0 +1,32 @@
+{
+  "date": "2000-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Aahh, one sweet week away from my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll have hours of quiet time to read my new book."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yadda",
+        "Yadda",
+        "Blah",
+        "Blah",
+        "There's a guy here with a book.",
+        "Blah",
+        "Yadda",
+        "Yack",
+        "Yack",
+        "Blah blah"
+      ]
+    }
+  ]
+}

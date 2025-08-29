@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a rumor the company is moving to South Dakota for tax reasons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you seriously think they would disrupt the lives of thousands of employees just to save money on taxes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think they'd kill us in our sleep and sell our organs if the return on investment was good.",
+        "Stop it. I'll be afraid to sleep in my cubicle now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to hire the best marketing expert we can find."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your résumé says you've won the Nobel prize in marketing, and five Olympic gold medals in the marketing biathlon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's a marketing biathlon?",
+        "You ski up to people who won't buy your crap and you shoot them."
+      ]
+    }
+  ]
+}

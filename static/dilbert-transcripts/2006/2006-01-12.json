@@ -1,0 +1,27 @@
+{
+  "date": "2006-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new guy used to be a free-ranger.",
+        "Let's go watch him get broken.",
+        "I'm there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They say he was a photographer.",
+        "Never been cubiculed.",
+        "He'll be tough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll lasso him with the neck-tie and you put the employee manual on his back."
+      ]
+    }
+  ]
+}

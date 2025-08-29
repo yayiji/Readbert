@@ -1,0 +1,27 @@
+{
+  "date": "2003-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our breakthrough came when we distributed the processor load."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's about time that you took my advice!",
+        "Hallelujah! Good for you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If laser pointers were light sabers, you'd be looking for your torso.",
+        "Ha ha!",
+        "You're using my joke!",
+        "Good one!"
+      ]
+    }
+  ]
+}

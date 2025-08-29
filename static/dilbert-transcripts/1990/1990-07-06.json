@@ -1,0 +1,22 @@
+{
+  "date": "1990-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Boo!",
+        "Eeek!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The good news is you'll handle better on corners..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2000-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I must return to the future now, your majesty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They don't call me majesty, yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll make it retroactive...",
+        "...So you could boss around the time travelers.",
+        "In that case, dance for me."
+      ]
+    }
+  ]
+}

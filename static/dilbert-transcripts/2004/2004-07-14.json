@@ -1,0 +1,25 @@
+{
+  "date": "2004-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Negotiating",
+        "I've been authorized to tell you that we have other offers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can tell from your phraseology that you've been ordered to lie and you're not good at it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What makes you think something like that?",
+        "There it is again!"
+      ]
+    }
+  ]
+}

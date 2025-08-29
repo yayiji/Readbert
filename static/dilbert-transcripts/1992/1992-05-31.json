@@ -1,0 +1,53 @@
+{
+  "date": "1992-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for your time, Dilbert. It's always good to get the technical perspective."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, it's lunchtime. Would you like to join me in the cafeteria?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh... no, I couldn't do that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm on the management track, so I can't be seen eating lunch with you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I'm seen with an ordinary employee then people will think I'm ordinary."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'd like to eat with the senior executives, but of course they don't want to be seen with me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So I've perfected a method of slipping quietly away at lunchtime."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The scary part is that someday that man will be my boss."
+      ]
+    }
+  ]
+}

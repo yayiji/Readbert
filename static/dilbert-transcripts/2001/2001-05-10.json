@@ -1,0 +1,25 @@
+{
+  "date": "2001-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally's in jail.",
+        "Can you help get him out?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell him to try the door.",
+        "The guards only pretend to lock them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I'd have to say it was the lifers who were the most embarrassed."
+      ]
+    }
+  ]
+}

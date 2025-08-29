@@ -1,0 +1,24 @@
+{
+  "date": "2000-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you finish this, I have more assignments for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Carol, you're the boss's secretary, not my boss. And this is a page from a magazine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Keep up the good work.",
+        "You didn't listen. That can only mean you're my new boss."
+      ]
+    }
+  ]
+}

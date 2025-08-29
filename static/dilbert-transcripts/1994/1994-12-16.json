@@ -1,0 +1,26 @@
+{
+  "date": "1994-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Since you won't go away, I'll make you an intern.",
+        "Great!",
+        "What's an intern?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll spend your day in a high-traffic cube trying to look busy.",
+        "Your main function is to make the rest of us glad we're not you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did people ever look busy before computers?"
+      ]
+    }
+  ]
+}

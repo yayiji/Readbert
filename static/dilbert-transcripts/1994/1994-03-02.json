@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should hire me as your process reengineering consultant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would be totally objective about what jobs to eliminate.",
+        "Frankly, I don't care about anybody at your company!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You've got the right attitude.",
+        "I think I'll wear a flowing robe and surround myself with cherubs."
+      ]
+    }
+  ]
+}

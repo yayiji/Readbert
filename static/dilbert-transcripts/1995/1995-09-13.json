@@ -1,0 +1,24 @@
+{
+  "date": "1995-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing an e-mail to protest the new policy of making the employees empty their own trash at night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's stupid to have highly paid engineers doing unproductive tasks when we could be inventing the future!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you coming to the \"quality faire\"?",
+        "No, this will take another hour."
+      ]
+    }
+  ]
+}

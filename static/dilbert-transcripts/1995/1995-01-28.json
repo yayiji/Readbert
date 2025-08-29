@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've only worked here one day but I thought of a great idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zip",
+        "Sploosh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first idea is always the toughest.",
+        "The urge eventually goes away."
+      ]
+    }
+  ]
+}

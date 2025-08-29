@@ -1,0 +1,57 @@
+{
+  "date": "1991-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Woooooooooo",
+        "Police?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You made an illegal u-turn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're giving me a ticket for that?!",
+        "A measly u-turn?!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't believe it!",
+        "The world is full of murderers and thugs,",
+        "but you stop me?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm wasting my taxes on your salary!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And frankly, those mustaches you guys all grow don't make you look any smarter."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Please step out of your car for the sobriety test."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...So, it turns out that the sobriety test involves flinging yourself down a muddy embankment."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "1997-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "Effective immediately,",
+        "the company will no",
+        "longer allow time off",
+        "for the death of a",
+        "family member."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This \"family friendly\"",
+        "policy will remove",
+        "your incentive to",
+        "extend vacations",
+        "by killing relatives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And more good news:",
+        "We're canceling your",
+        "life insurance so your",
+        "family won't try to",
+        "snuff you out either."
+      ]
+    }
+  ]
+}

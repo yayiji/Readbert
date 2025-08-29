@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your ignorance seems to have no limit. Your opinions are idiotic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your personal hygiene leaves much to be desired. Your family is ugly.",
+        "Send e-mail"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're mighty brave in cyberspace, flame-boy.",
+        "Step inside"
+      ]
+    }
+  ]
+}

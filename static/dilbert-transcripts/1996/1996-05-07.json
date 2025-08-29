@@ -1,0 +1,25 @@
+{
+  "date": "1996-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert, the evil director of human resources",
+        "We're moving to \"cafeteria style\" benefits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Under this system, if you need health care, you wander through the cafeteria asking \"Does anybody know what this red lump is?\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if it's a life-threatening problem?",
+        "That reminds me, the cafeteria won't be labeling the entrees anymore."
+      ]
+    }
+  ]
+}

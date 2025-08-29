@@ -1,0 +1,25 @@
+{
+  "date": "2002-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you get this done in thirty days?",
+        "Yes, absolutely."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll just travel faster than light to a black hole and discover a doorway in time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds iffy.",
+        "Excuse me for being flexible."
+      ]
+    }
+  ]
+}

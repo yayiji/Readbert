@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert sues Dilbert for petimony.",
+        "I call Ratbert as my first witness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it true that Dilbert is a secret cat lover who often betrayed the trust of his faithful dog?",
+        "It's true."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I often found him alone drinking root beer and reading \"Cat Fancy\" magazine in his underwear... it's a sickness."
+      ]
+    }
+  ]
+}

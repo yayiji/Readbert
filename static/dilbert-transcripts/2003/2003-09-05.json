@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, how do I handle the psychological pressure of a stalled career?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember that when you reach for the stars, they're too far away, so it's hopeless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But sometimes you can reach a star...can't you?",
+        "That would burn your hand clean off."
+      ]
+    }
+  ]
+}

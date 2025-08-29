@@ -1,0 +1,25 @@
+{
+  "date": "1990-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The great thing about dogs is their loyalty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I flushed all of your sweaters down the John, because it was fun."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogs are honest, too.",
+        "And I'll do it again",
+        "Ha ha ha!"
+      ]
+    }
+  ]
+}

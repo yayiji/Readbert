@@ -1,0 +1,27 @@
+{
+  "date": "1997-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You say this football was autographed by Jesus..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'm no fool.",
+        "This isn't a football.",
+        "It has no stitches.",
+        "They healed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow!",
+        "And I think I heard it oink."
+      ]
+    }
+  ]
+}

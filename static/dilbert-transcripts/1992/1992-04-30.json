@@ -1,0 +1,25 @@
+{
+  "date": "1992-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you working on?",
+        "I'm designing a line of cards for death occasions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know how sometimes you can't make it to the funeral, so you want to send a card instead..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry you're dead.",
+        "Is it too sentimental?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2005-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No assignment...",
+        "No computer...",
+        "No friends to",
+        "talk to..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's just me",
+        "and this huge",
+        "stress hump."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must...resist...",
+        "urge...to name",
+        "the hump... and",
+        "talk to it.",
+        "Wazzup?"
+      ]
+    }
+  ]
+}

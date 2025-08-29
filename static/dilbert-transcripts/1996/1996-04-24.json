@@ -1,0 +1,25 @@
+{
+  "date": "1996-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's the marketing plan.",
+        "Any comments?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It appears to be a bunch of obvious generalities and wishful thinking with no apparent business value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Marketing didn't turn out to be the glamour career I expected.",
+        "I circled all the words you won't find in any dictionary."
+      ]
+    }
+  ]
+}

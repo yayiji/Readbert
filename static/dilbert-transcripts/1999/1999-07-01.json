@@ -1,0 +1,24 @@
+{
+  "date": "1999-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My cube farm has an excellent yield this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I reckon I'll have to put this one down so he won't reproduce."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry.",
+        "No problem; I hear that a lot."
+      ]
+    }
+  ]
+}

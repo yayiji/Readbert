@@ -1,0 +1,25 @@
+{
+  "date": "1996-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to start smoking.",
+        "I'll be able to take more breaks that way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And frankly, I'm hoping it will add an interesting edge to my personality and help me socially."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not that I need any help.",
+        "I can only pray that your personal magnetism won't erase my hard drive."
+      ]
+    }
+  ]
+}

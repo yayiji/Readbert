@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you recommended, I canceled the software upgrade project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the exact opposite of what I recommended.",
+        "You only hear what you want to hear."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, I do look thinner.",
+        "It must be because of the sit-up I did yesterday."
+      ]
+    }
+  ]
+}

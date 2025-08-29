@@ -1,0 +1,26 @@
+{
+  "date": "2004-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Try working around the problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you for that valuable advice.",
+        "I had planned to stare at my screen until I starved to death."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gather data before making a decision.",
+        "Gaaa!!!",
+        "I've been blinded by the obvious!"
+      ]
+    }
+  ]
+}

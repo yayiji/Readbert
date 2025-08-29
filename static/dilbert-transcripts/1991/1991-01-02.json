@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well? What do you think of my book so far?",
+        "It reminds me of \"Moby Dick.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because of my creative metaphors and strong imagery?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it just seems to me that a big whale wouldn't smell too good, either."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, Dilbert, welcome to the sales department. I'm Tina, your new boss.",
+        "Hi"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As the new guy, you get the customers who despise our products and want to hurt us personally."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate you! I hate you!",
+        "You'll be selling to the small business market. He's your best account."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm prepared to offer you $120,000 per year plus a parking space for your gigantic hat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! It is I, Alice! I accept your offer for a higher-paying job!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha! It is I, Catbert! I'm not authorized to hire anyone!",
+        "#!*bing cat!"
+      ]
+    }
+  ]
+}

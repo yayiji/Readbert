@@ -1,0 +1,55 @@
+{
+  "date": "1996-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yo, Dil-man!",
+        "Uh-oh, it's Ken from sales."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I told our biggest customers how great our next product will be. Now nobody will buy our current product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When will the new version be available?",
+        "In a year or two."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hmm... I seem to have single-handedly destroyed an entire product line."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Luckily our biggest competitor is hiring sales people. And I'm betting they'll have brisk sales this year!",
+        "Commissions galore!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If there's justice in this world, the idiots will be punished..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...Before they get promoted.",
+        "Um... We need the new version by Tuesday."
+      ]
+    }
+  ]
+}

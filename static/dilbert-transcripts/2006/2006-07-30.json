@@ -1,0 +1,55 @@
+{
+  "date": "2006-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you fund the infrastructure project yet?",
+        "Nope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm playing budget chicken with the director of operations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm hoping that his department needs the infrastructure more than we do."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I can bluff him into funding the project with his budget instead of mine, I win."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He'll be reprimanded for exceeding his budget and I'll get a bonus for being under mine."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll use the bonus to buy a summer cabin by the lake."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then I'll e-mail him pictures of my cabin and say, \"I hope you're enjoying your infrastructure as much as I'm enjoying my cabin!\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You've reached a new low.",
+        "I've been thinking of firing you so I can get a fishing hat."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll admit, I should have asked more questions before booking our vacation to Clyde Canyon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it's not as if we're just throwing our vacation money into a... a..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hole in the ground?",
+        "Exactly."
+      ]
+    }
+  ]
+}

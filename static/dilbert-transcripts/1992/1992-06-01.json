@@ -1,0 +1,25 @@
+{
+  "date": "1992-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, look,",
+        "I got the first video phone in the city!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now we wait for somebody else to buy a compatible video phone and call us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The amazing thing is that society couldn't advance without people like you.",
+        "I think I saw something."
+      ]
+    }
+  ]
+}

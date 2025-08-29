@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm just a one-woman kind of guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some guys like to play the field. Not me. I'm happy with just one woman."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just one.",
+        "Uno. That's best for me.",
+        "You can take her for rides in the space shuttle you'll never have either."
+      ]
+    }
+  ]
+}

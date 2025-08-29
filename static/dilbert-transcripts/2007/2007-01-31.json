@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new philosophy is \"a bias for action.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are we eliminating our Six-Sigma program, the budget cycle, ISO certification, and our approval processes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I get back to you on that?",
+        "Sure.",
+        "No rush."
+      ]
+    }
+  ]
+}

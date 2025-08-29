@@ -1,0 +1,24 @@
+{
+  "date": "2005-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your CEO is the worst performer in the entire Fortune 500."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your best bet is to convince him to become a reckless adventurer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell me again why I'd want to bungee jump into an active volcano?",
+        "Because you can!"
+      ]
+    }
+  ]
+}

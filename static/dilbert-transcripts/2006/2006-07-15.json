@@ -1,0 +1,24 @@
+{
+  "date": "2006-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're in luck. I've lobbied the governments of several countries to attack your country and liberate you and your oil."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're already a democratic country!",
+        "You're confusing us with North Elbonia!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For a nitpicker, you sure dress poorly."
+      ]
+    }
+  ]
+}

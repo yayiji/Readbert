@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Day one: Dogbert's school for self-service gas station attendants.",
+        "Question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do service station employees qualify for military benefits?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think so.",
+        "Can we fool women with these uniforms?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2001-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, take care of this.",
+        "It's urgent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't read your handwriting.",
+        "What does it say?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have time to answer your questions."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't try to call me.",
+        "I don't return calls."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you come to my office I'll be away."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And then, like a bad odor on a windy day, the phantom manager vanished."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think it says, \"Floog smort qlak munta hawthnort.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What does it mean?",
+        "I think it involves monkeys and duct tape."
+      ]
+    }
+  ]
+}

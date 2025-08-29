@@ -1,0 +1,24 @@
+{
+  "date": "1994-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the Dogbert outplacement agency, or \"DOA\" as I call it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here, nobody is \"unemployed.\" You're freelance consultants who sit in cubicles and earn no money!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every cubicle is equipped with a phone and a refurbished ego.",
+        "I will not work with that thing."
+      ]
+    }
+  ]
+}

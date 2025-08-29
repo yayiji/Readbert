@@ -1,0 +1,53 @@
+{
+  "date": "2005-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The weekly Wally report is bristling with tales of success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I gave worthless input to marketing because they weren't specific about what they wanted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I missed Alice's project meeting because she never confirmed the location."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I gave harmful advice to the sales team because they rushed me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I ignored my e-mail for a week because you said to focus on priorities."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I didn't submit my budget estimates because Asok never told me what format to use."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How can you call any of that success ??"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well, I'd compare it to my written objectives, but you never gave me any."
+      ]
+    }
+  ]
+}

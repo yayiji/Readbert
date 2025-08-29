@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company will not buy PDA's for employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Will you still pay for business trips of no discernible value?",
+        "Of course."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A lot of people are traveling to Palm Pilot California lately."
+      ]
+    }
+  ]
+}

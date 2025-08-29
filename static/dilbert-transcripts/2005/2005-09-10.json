@@ -1,0 +1,23 @@
+{
+  "date": "2005-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You will no longer have access to code on any server but your own."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it my imagination, or are all of our rules designed for the sole purpose of being huge inconveniences?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And starting today, all passwords must contain letters, numbers, doodles, sign language and squirrel noises."
+      ]
+    }
+  ]
+}

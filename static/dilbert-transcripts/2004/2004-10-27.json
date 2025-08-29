@@ -1,0 +1,23 @@
+{
+  "date": "2004-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me again what the issue is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want the simple but misleading explanation or the one you won't understand?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Either one is good; I wasn't planning on listening."
+      ]
+    }
+  ]
+}

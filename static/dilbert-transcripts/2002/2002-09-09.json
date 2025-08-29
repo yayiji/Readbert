@@ -1,0 +1,25 @@
+{
+  "date": "2002-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is our new CEO, Rufus T. Skwerrel.",
+        "His first job was trailer park burglar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But thanks to a series of mergers and acquisitions, not to mention suspicious accounting, here we are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to say a few words?",
+        "Wallet and watch."
+      ]
+    }
+  ]
+}

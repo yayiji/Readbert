@@ -1,0 +1,24 @@
+{
+  "date": "2004-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can rob your small suppliers by making unauthorized deductions from their invoices."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When they complain, say it's a standard industry practice and threaten to take your business elsewhere!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then make them dance like chickens!",
+        "Ha ha!! Chickens are funny!"
+      ]
+    }
+  ]
+}

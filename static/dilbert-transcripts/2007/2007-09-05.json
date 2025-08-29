@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Which way is the microwave?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's getting harder to be open-minded."
+      ]
+    }
+  ]
+}

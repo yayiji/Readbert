@@ -1,0 +1,36 @@
+{
+  "date": "1990-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh good, Dogbert isn't around."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can read the Sunday paper without having to share."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ahhh... mine are the first hands to unfold its crisp little pages.",
+        "I alone will determine the order of reading."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Nobody will blurt out the punchlines before I read them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Were you finished with this section?"
+      ]
+    }
+  ]
+}

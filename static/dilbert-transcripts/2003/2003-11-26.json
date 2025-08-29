@@ -1,0 +1,26 @@
+{
+  "date": "2003-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello.",
+        "This is your lawyer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I think about you for a few minutes?",
+        "Um... no."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mmm... $400 an hour.",
+        "Wait... dear lord... noooo!!!"
+      ]
+    }
+  ]
+}

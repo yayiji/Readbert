@@ -1,0 +1,26 @@
+{
+  "date": "2001-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used to be preppy.",
+        "Then I was a dangerous-looking biker with a heart of gold."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I call my current look the \"psycho hillbilly.\"",
+        "What's your theme?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This isn't a theme.",
+        "Oh...sorry, man, I had no way of knowing."
+      ]
+    }
+  ]
+}

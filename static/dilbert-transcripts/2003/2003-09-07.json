@@ -1,0 +1,55 @@
+{
+  "date": "2003-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You never responded to my urgent request for engineering resources.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I told Alice to ask you!",
+        "She must have forgotten."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I sent you three e-mail messages."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You know I don't have time to read my e-mail.",
+        "And I sent you a voice-mail."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You know I don't have time for voice-mails.",
+        "That's why I also..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Tattooed it on your stinkin' chest!!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "As if I have time to read my torso."
+      ]
+    }
+  ]
+}

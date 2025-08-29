@@ -1,0 +1,26 @@
+{
+  "date": "1993-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not looking for romance.",
+        "No, I just want to be friends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's all?",
+        "But why??"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because you have a snout like a porpoise.",
+        "When you use reverse psychology, it's best to leave out unflattering references to other mammals."
+      ]
+    }
+  ]
+}

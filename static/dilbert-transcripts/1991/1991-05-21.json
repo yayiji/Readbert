@@ -1,0 +1,23 @@
+{
+  "date": "1991-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I can consider you as my pet turtle, you must complete this application."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, if that's your policy..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long have you lived in your current shell?"
+      ]
+    }
+  ]
+}

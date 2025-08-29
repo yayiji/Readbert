@@ -1,0 +1,25 @@
+{
+  "date": "1991-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the used car salesman.",
+        "How about this one?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to spend much.",
+        "I'm only going to take it apart and leave it on the lawn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I gotta be me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2002-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm moving to a new house next week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have lots of heavy objects that need to be moved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder who will help me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe it will be someone who cares about his career."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did you know that professional moving companies exist?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's true. You give them money and they move your heavy things."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's a wonderful system. You should look into it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And maybe you can bring your trailer.",
+        "It's a mobile home!"
+      ]
+    }
+  ]
+}

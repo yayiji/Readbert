@@ -1,0 +1,23 @@
+{
+  "date": "2001-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why aren't you signed up for the 401k?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd never be able to run that far."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I did a 10K wheelchair race once. The guy who pushed me still has whip marks."
+      ]
+    }
+  ]
+}

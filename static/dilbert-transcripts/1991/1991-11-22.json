@@ -1,0 +1,26 @@
+{
+  "date": "1991-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, mister, wake up!",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was all a dream! You're not a dumpy engineer -- you're really a playboy millionaire movie star!!",
+        "I... I am??"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love being the night janitor.",
+        "Then why do I dress like this?"
+      ]
+    }
+  ]
+}

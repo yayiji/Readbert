@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The boss's secretary",
+        "You must pass the challenge of death before I put you on the boss's calendar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bring me the head of Willy the mail boy!!!",
+        "Gasp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, Willy, would you like to see a trick?"
+      ]
+    }
+  ]
+}

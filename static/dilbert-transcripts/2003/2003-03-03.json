@@ -1,0 +1,24 @@
+{
+  "date": "2003-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't respond to my e-mail anymore."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When I reply to e-mail, it attracts more e-mail. I'm trying to break the vicious cycle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... I'll leave you voicemails.",
+        "Let me know how that works out for you."
+      ]
+    }
+  ]
+}

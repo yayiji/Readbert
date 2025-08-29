@@ -1,0 +1,26 @@
+{
+  "date": "1999-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what's your project budget code?",
+        "E473."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm switching you to E947, effective immediately.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's my new code for bald engineers.",
+        "It will grow back!"
+      ]
+    }
+  ]
+}

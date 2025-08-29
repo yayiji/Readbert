@@ -1,0 +1,27 @@
+{
+  "date": "1996-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your new logo might look like a simple coffee stain, but what does the image say about you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're sloppy and unimaginative?",
+        "We give lots of money to consultants and get little in return?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow.",
+        "This is almost too good.",
+        "Ooh ooh!",
+        "How about \"Our opinions don't matter\"?"
+      ]
+    }
+  ]
+}

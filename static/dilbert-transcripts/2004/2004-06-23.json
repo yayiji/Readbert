@@ -1,0 +1,23 @@
+{
+  "date": "2004-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you leave your last job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They told me that I have incredibly poor judgment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I sued them."
+      ]
+    }
+  ]
+}

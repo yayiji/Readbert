@@ -1,0 +1,24 @@
+{
+  "date": "2007-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stockholder meeting",
+        "Do we have any questions from gadflies?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You earned 72 million dollars while our stock price dropped nine percent. How can you sleep at night?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zzzzz"
+      ]
+    }
+  ]
+}

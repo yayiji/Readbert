@@ -1,0 +1,26 @@
+{
+  "date": "1992-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The guys in the office decided that somebody must kill Floyd the budget manager because he's so mean to us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They want me to kill him.",
+        "But I can't do it.",
+        "I'm a lover, not a killer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technically, you're neither.",
+        "Is that my fault?"
+      ]
+    }
+  ]
+}

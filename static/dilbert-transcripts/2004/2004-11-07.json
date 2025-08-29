@@ -1,0 +1,55 @@
+{
+  "date": "2004-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Go with our sales rep and answer the customer's technical questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whoa! You can't go looking like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is a nice suit!",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "A well-dressed engineer has no credibility!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll call my reverse makeover consultant."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm Bob, the straight eye for the queer-looking guy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's see... I'll give you my clothes... add ear hair... eyebrow extensions."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You seem highly credible and I don't know why.",
+        "Genius."
+      ]
+    }
+  ]
+}

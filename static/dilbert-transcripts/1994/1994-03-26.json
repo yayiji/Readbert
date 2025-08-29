@@ -1,0 +1,26 @@
+{
+  "date": "1994-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The end of the world is coming in year 2000.",
+        "Therefore, you should give me your money before it's too late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is written that money is evil.",
+        "I'll keep your money in Dogbert's special \"evil-be-gone\" device."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And it's completely deductible from your savings.",
+        "So I'm actually making money!"
+      ]
+    }
+  ]
+}

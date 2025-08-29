@@ -1,0 +1,23 @@
+{
+  "date": "1999-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My date tried to run away, but I attached a tracking device to her coat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I'll just compromise a spy satellite and a radio network."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So, if next weekend is good, nod once."
+      ]
+    }
+  ]
+}

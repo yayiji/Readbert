@@ -1,0 +1,27 @@
+{
+  "date": "1997-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bad news on your performance review, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everyone performed the same.",
+        "But I'm required to rank the group on a bell curve."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I had to make up some flaws to move you down the curve.",
+        "Here's a pen.",
+        "Sign it.",
+        "\"Employee does not wash hands after using the restroom\"."
+      ]
+    }
+  ]
+}

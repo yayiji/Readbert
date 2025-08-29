@@ -1,0 +1,25 @@
+{
+  "date": "2002-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi. My name is Michael T. Suit.",
+        "All my friends call me M.T."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I enhance core competencies by leveraging platforms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did we shake yet?",
+        "Sometimes I can't tell."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1994-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your \"buzzword bingo\" card for the meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If the boss uses a buzzword on your card, you check it off. The objective is to fill a row."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're all very attentive today.",
+        "My proactive leadership must be working!",
+        "Bingo, sir."
+      ]
+    }
+  ]
+}

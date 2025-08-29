@@ -1,0 +1,52 @@
+{
+  "date": "2003-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new batch of job applicants is more desperate than usual.",
+        "Excellent"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Five hundred qualified people applied for this position."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But who wants this job the most?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I plan to pummel each applicant with a variety of objects, beginning with very soft items."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I'll gradually move toward harder materials until only one person is left."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll begin with this soft sugar doughnut.",
+        "Zing",
+        "Piff!",
+        "Thank you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How are their attitudes?",
+        "Refreshingly upbeat!"
+      ]
+    }
+  ]
+}

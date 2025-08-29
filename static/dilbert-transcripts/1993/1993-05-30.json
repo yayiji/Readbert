@@ -1,0 +1,55 @@
+{
+  "date": "1993-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think the chemistry of the brain controls what people do?",
+        "Of course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then how can we blame people for their actions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because people have free will to do as they choose."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you saying that \"free will\" is not part of the brain?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Of course it is. But it's the part of the brain that's out there just being kind of free."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So, you're saying the \"free will\" part of the brain is exempt from the natural laws of physics."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Obviously. Otherwise we couldn't blame people for anything they do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you think the \"free will\" part of the brain is attached or does it just float nearby?",
+        "Shut up."
+      ]
+    }
+  ]
+}

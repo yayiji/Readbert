@@ -1,0 +1,25 @@
+{
+  "date": "1992-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the \"Rivers and Trees\" management course.",
+        "We'll start with a trust-building exercise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have one minute to decide to eat these donuts or to save your co-worker from the bear."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, who wants to be on the donut option working committee?",
+        "Oops... problem solved."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's because I'm making a sales call to the Vatican."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm told that sales people should dress one level above their customers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aren't you worried?",
+        "About what?"
+      ]
+    }
+  ]
+}

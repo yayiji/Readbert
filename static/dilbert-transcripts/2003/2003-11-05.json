@@ -1,0 +1,23 @@
+{
+  "date": "2003-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't do any more work on my project until you give your input, but you're too busy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no polite way to say this: Bill, you're a bottleneck."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your document is now saying hi to the bottom of the pile."
+      ]
+    }
+  ]
+}

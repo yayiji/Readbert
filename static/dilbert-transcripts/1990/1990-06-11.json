@@ -1,0 +1,24 @@
+{
+  "date": "1990-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a plan to deprogram you from the control of Dogbert's cult."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My theory is that the brain reflexively embraces the most ridiculous explanation of reality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, we just have to think of something more ridiculous than following a dog's commands.",
+        "Like listening to you?"
+      ]
+    }
+  ]
+}

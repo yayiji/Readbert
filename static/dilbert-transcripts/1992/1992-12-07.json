@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to use humor in the workplace."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts say humor eases tension which is important in times when the workforce is being trimmed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Knock-knock.",
+        "Who's there?",
+        "Not you anymore."
+      ]
+    }
+  ]
+}

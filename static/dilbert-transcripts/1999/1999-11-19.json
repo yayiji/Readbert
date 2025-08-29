@@ -1,0 +1,23 @@
+{
+  "date": "1999-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rrring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been watching you through your webcam and I don't think you're working hard enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, it wasn't much of a firewall. I'm using your mail server to spam my mah-jongg club."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2006-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please don't tell Ted I said bad things about his project.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey Ted, someone told me that your project is floundering!!!",
+        "GURK!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Act cool."
+      ]
+    }
+  ]
+}

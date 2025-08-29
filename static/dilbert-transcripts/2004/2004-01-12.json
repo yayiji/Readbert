@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your approval to..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...be exhausted, bored, stiff, headachey, annoyed and constipated for the next three days."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Also known as \"business travel.\"",
+        "I must be traveling right now!"
+      ]
+    }
+  ]
+}

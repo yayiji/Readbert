@@ -1,0 +1,58 @@
+{
+  "date": "1992-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The great thing about this country is that we have freedom of speech!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it okay to say that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm... let's see if it's on the free speech checklist..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, you didn't advocate overthrowing the government..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You were not obscene...",
+        "You did not generalize about a disadvantaged group.",
+        "You did not teach children anything useful or practical..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You didn't refer to anybody who can afford a lawyer to sue us..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And there's nobody within hearing distance who can harm us financially...",
+        "You're clear."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "God bless this country!",
+        "Whoa!",
+        "Whoa!"
+      ]
+    }
+  ]
+}

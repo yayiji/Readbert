@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I've been asked to counsel you about your abuse of co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The theory is that I can alter your personality by talking to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you feel a tingle, that's probably your DNA changing."
+      ]
+    }
+  ]
+}

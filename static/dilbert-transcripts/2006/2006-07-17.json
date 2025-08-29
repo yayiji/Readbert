@@ -1,0 +1,24 @@
+{
+  "date": "2006-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late.",
+        "I was behind a herd of slow walkers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I couldn't jog around them at the wide spots because my coffee cup was too full."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's all part of my can't-do approach to life."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1994-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Zimbu, you're not supposed to use your tail to operate the mouse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If tails were a natural advantage for engineers then evolution would provide us all with tails!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert, I don't believe you've met Rocky, our new C programmer."
+      ]
+    }
+  ]
+}

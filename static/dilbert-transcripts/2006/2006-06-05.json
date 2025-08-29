@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Yes, we do claim that our software is idiot-proof."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you bought it, that's proof you're an idiot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "High five!"
+      ]
+    }
+  ]
+}

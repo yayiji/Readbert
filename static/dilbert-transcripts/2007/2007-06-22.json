@@ -1,0 +1,26 @@
+{
+  "date": "2007-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, may I ask you a question?",
+        "Alice?",
+        "Alice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa! Am I so unimportant you feel no need to acknowledge my existence???"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I totally unimportant?",
+        "Hey, it's a bunch of talking clothes!"
+      ]
+    }
+  ]
+}

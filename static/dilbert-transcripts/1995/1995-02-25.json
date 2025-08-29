@@ -1,0 +1,25 @@
+{
+  "date": "1995-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've replaced the old rating system with a friendlier method.",
+        "Now I compare each of you to an animal with similar traits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I rated you \"tyrannosaurus rex.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "T. rex - the mightiest dinosaur!!",
+        "Think in terms of brain size."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information technology.",
+        "I have modified your screensaver security to lock up after two seconds of inactivity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! Unless you touch the keyboard every two seconds you will be forced to log-in again!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang your perpetually moving head-bobbing bird! Gaaa!!!"
+      ]
+    }
+  ]
+}

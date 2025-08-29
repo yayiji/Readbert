@@ -1,0 +1,26 @@
+{
+  "date": "2005-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The failure of my project can only be blamed on...",
+        "Beep",
+        "Boop",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be right there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That guy."
+      ]
+    }
+  ]
+}

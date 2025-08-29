@@ -1,0 +1,25 @@
+{
+  "date": "2006-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Loud howard",
+        "There's going to be a reorg!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not supposed to tell anyone!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Reorg?",
+        "Don't make me shush you!"
+      ]
+    }
+  ]
+}

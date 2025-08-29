@@ -1,0 +1,25 @@
+{
+  "date": "1992-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did anybody call on your new video phone yet?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't you think that the only people who will buy video phones are male techie dweebs like you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Therefore, wouldn't it be cheaper to buy a mirror?",
+        "It's hell being an early adopter."
+      ]
+    }
+  ]
+}

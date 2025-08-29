@@ -1,0 +1,26 @@
+{
+  "date": "2002-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We sure have a lot of vacant offices since the layoffs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wouldn't mind having a nice office with an actual door.",
+        "Why don't you let me have one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay.",
+        "Take one.",
+        "Stop toying with me!"
+      ]
+    }
+  ]
+}

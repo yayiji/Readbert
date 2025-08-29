@@ -1,0 +1,25 @@
+{
+  "date": "1995-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice sits in for the boss",
+        "I will approve your expense voucher on one condition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must slay the creature who stalks the office at night and eats our hidden snacks!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It has to be either you or the security guard.",
+        "Slay him first and see if the problem stops."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My astrologer tells me that someone here is plotting to rip me off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much is your astrologer charging you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you plotting to rip me off?",
+        "I prefer to call it hourly billing."
+      ]
+    }
+  ]
+}

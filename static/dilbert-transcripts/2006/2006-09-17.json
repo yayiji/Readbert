@@ -1,0 +1,43 @@
+{
+  "date": "2006-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't have enough chairs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do I always have to get the extra chair?",
+        "I need to borrow your guest chair.",
+        "No way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Punch punch",
+        "Punch punch",
+        "Punch gaaa!!!",
+        "Punch punch",
+        "Punch"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you aren't willing to punch a coworker for a chair, you don't belong in this business."
+      ]
+    }
+  ]
+}

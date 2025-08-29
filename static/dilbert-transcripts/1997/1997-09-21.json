@@ -1,0 +1,55 @@
+{
+  "date": "1997-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Another evil policy. I'm a happy cat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Casual clothes will not be allowed this Friday..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Because we had Hawaiian shirt day on Wednesday."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... can you explain the logic here?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We're only allowed one casual day per week.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If we had two casual days, obviously it would have an impact on earnings."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does stupidity have an impact on our earnings, too, or is it just bad clothes?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We're only sure about bad clothes.",
+        "Alice, you're killing us with that outfit."
+      ]
+    }
+  ]
+}

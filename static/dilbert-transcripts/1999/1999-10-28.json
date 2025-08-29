@@ -1,0 +1,24 @@
+{
+  "date": "1999-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It takes years of training to be an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you don't need any training whatsoever to be an engineer's boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's unskilled labor without the labor.",
+        "I could do that."
+      ]
+    }
+  ]
+}

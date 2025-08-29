@@ -1,0 +1,23 @@
+{
+  "date": "2002-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today is the three-year anniversary of our first meeting to discuss project requirements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And we're still discussing requirements. Does anyone else see a problem here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you're done, can we talk about requirements?"
+      ]
+    }
+  ]
+}

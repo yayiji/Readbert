@@ -1,0 +1,23 @@
+{
+  "date": "1999-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The boss is away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "An unscrupulous employee could send e-mail from his account."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The following employees have odd-looking nostrils."
+      ]
+    }
+  ]
+}

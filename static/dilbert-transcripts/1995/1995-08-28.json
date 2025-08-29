@@ -1,0 +1,24 @@
+{
+  "date": "1995-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, you'll have to have all the documentation written by next week so we can ship it when the software is done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I write instructions for something that doesn't exist yet?",
+        "You'll have to make logical guesses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"If you press any key your computer will lock up. If you call our tech support we'll blame 'Microsoft.'\""
+      ]
+    }
+  ]
+}

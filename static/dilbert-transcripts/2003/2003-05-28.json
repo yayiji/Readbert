@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our products got reviewed in the new issue of \"Extortion Magazine.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"If they had bought more ad space in this magazine, we would not compare their products to week-old spit.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's better than last month.",
+        "I'll bet we can get to \"day-old\" with another half-page ad."
+      ]
+    }
+  ]
+}

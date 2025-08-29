@@ -1,0 +1,23 @@
+{
+  "date": "2004-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has hired an ethics manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you have any ethics questions, call the hotline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's fine, as long as you get rid of the dental evidence."
+      ]
+    }
+  ]
+}

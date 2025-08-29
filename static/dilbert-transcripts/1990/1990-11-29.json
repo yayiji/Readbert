@@ -1,0 +1,26 @@
+{
+  "date": "1990-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think I'm going to have an egg, Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm having unusual cravings.",
+        "Yes!!",
+        "I did it!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Like right now I'm craving you will stop taking all the credit.",
+        "I'm number one!!"
+      ]
+    }
+  ]
+}

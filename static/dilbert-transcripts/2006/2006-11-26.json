@@ -1,0 +1,53 @@
+{
+  "date": "2006-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company has decided to try something new."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "New? Six sigma was developed in the 80s."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's new to us."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why don't we jump on a fad that hasn't already been widely discredited?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That way the false hope might sustain us."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "There's nothing wrong with Six Sigma. All it does is reduce defects!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's see... Fortune magazine says... Blah, blah... Most companies that used Six Sigma have trailed the S&P 500."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sorry I'm late. What did I miss while I was innovating?"
+      ]
+    }
+  ]
+}

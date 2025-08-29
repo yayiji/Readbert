@@ -1,0 +1,25 @@
+{
+  "date": "1997-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going back to my old job as a network systems administrator.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm attracted by the potential for reckless abuse of power."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This new ethernet card could solve your problem.",
+        "Would you like a sniff before I throw it in a big pile in my office?"
+      ]
+    }
+  ]
+}

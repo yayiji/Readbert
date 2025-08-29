@@ -1,0 +1,54 @@
+{
+  "date": "1998-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In order to improve communications...",
+        "Please don't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every morning I'll give you two pennies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every afternoon, you return them and \"give me your two cents' worth.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Get it?",
+        "It's cute."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So, I get to keep the money if I avoid seeing you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How much will you pay me to ignore your voice mail too?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll pretend you're dead for a nickel.",
+        "I hate them all."
+      ]
+    }
+  ]
+}

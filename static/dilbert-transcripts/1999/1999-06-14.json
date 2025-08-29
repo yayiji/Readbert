@@ -1,0 +1,23 @@
+{
+  "date": "1999-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Heh-heh... I'm using company resources to e-mail my résumé to a headhunter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the perfect crime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got mail!"
+      ]
+    }
+  ]
+}

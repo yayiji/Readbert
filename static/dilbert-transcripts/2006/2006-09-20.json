@@ -1,0 +1,24 @@
+{
+  "date": "2006-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's communication seminar",
+        "There's really no point in listening to other people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're either going to be agreeing with you or saying stupid stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That should cut down on the questions."
+      ]
+    }
+  ]
+}

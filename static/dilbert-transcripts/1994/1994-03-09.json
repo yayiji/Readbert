@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can assure you that the value of the average employee will continue to increase."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because there will be less of us, doing more work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm right, aren't I?",
+        "Except for the \"us\" part."
+      ]
+    }
+  ]
+}

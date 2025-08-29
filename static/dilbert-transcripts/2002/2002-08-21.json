@@ -1,0 +1,25 @@
+{
+  "date": "2002-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have mail!",
+        "I've never had mail in twelve years here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not addressed to me but it was in my box so I'm keeping it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No mail for twelve years?",
+        "If I hold it just right it glistens."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2002-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's why I need a management decision.",
+        "Hi, Bill!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you are too distracted to make an informed decision, so this will be random.",
+        "Bob!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And here it comes.",
+        "Would \"no\" be an answer to anything you said?"
+      ]
+    }
+  ]
+}

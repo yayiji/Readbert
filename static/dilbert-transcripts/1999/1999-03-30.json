@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, mom told Bill Gates she uses the \"Linux\" operating system!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm tracking four incoming missiles.",
+        "I'll launch our anti-Microsoft weapons to intercept."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wondered why a press conference was being held on a huge catapult."
+      ]
+    }
+  ]
+}

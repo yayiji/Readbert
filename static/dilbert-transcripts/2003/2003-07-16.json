@@ -1,0 +1,27 @@
+{
+  "date": "2003-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, this is Dilbert.",
+        "Hi, I'm a business reporter for the Wall Times Post Gazette."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm doing a story about how dumb...",
+        "I mean dynamic...",
+        "your new product line is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then he promised not to print the amusing nickname I have for our CEO.",
+        "You are so dynamic."
+      ]
+    }
+  ]
+}

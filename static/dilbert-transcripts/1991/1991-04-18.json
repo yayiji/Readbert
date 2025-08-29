@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate these restroom sinks where you have to keep holding the knob or it shuts off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who would make such a thing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Acme sink, inc.",
+        "Remember our motto:",
+        "\"One hand doesn't wash the other.\""
+      ]
+    }
+  ]
+}

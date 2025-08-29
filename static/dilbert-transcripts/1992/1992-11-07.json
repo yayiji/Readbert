@@ -1,0 +1,26 @@
+{
+  "date": "1992-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you so glum?",
+        "It's lonely when Dogbert is away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Lonely? Ha! Let me entertain you with a little dance number.",
+        "Then we'll bond and I'll replace Dogbert as your best friend!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm lonely and I have a dancing rat.",
+        "Kumbaya"
+      ]
+    }
+  ]
+}

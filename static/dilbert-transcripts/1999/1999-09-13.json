@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the bare minimum budget I need for my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What could you do with half this amount?",
+        "Fail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When can you start?",
+        "I think I just did."
+      ]
+    }
+  ]
+}

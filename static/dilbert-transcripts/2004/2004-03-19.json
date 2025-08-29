@@ -1,0 +1,25 @@
+{
+  "date": "2004-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I moved the meeting to Tuesday.",
+        "I can't make it on Tuesday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Somehow I think the marketing team can survive one meeting without engineering support."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll include a pet gerbil in every box.",
+        "We just need to make sure it's in a sealed plastic bag so it won't chew on the cables."
+      ]
+    }
+  ]
+}

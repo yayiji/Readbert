@@ -1,0 +1,25 @@
+{
+  "date": "1995-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The pundits in the press are nailing us for shipping a keyboard with no \"Q.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a public-relations fiasco. Obviously, we need an engineering solution.",
+        "I'm on the case."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Users could use a graphics program to draw a \"Q\" in the unlikely event that they need one.",
+        "Or we could replace the semi-colon; nobody uses them."
+      ]
+    }
+  ]
+}

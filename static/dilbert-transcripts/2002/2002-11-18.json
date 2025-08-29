@@ -1,0 +1,23 @@
+{
+  "date": "2002-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The marketing department wants you to build a device that turns customers into sheep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why? So they'll buy whatever we tell them to buy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To be honest, we haven't given it much thought beyond free wool."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1996-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I accept the software you wrote under contract, tell me what development methodology you use."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We hold village meetings to boast of our skills and curse the devil-spawned end-users.",
+        "Sometimes we juggle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At the last minute we slam out some code and go roller skating.",
+        "I would find this humorous if not for the pig on my back."
+      ]
+    }
+  ]
+}

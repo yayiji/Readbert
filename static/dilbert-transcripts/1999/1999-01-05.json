@@ -1,0 +1,26 @@
+{
+  "date": "1999-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't use the shredder today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I rigged it to kill our new sadistic nut co-worker.",
+        "Whoa!",
+        "Whoa!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that void the warranty?",
+        "I'll switch shredders with marketing tomorrow."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I cut your product development budget by 25%, what could you develop?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ulcers, heart disease and maybe mysterious pustules."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about the product itself?",
+        "It will envy me."
+      ]
+    }
+  ]
+}

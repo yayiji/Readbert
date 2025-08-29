@@ -1,0 +1,26 @@
+{
+  "date": "2006-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, the marketing department requested your help.",
+        "Me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our new product is worthless, much like yourself.",
+        "They figured you'd have some insight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All it does is occupy space and smell bad.",
+        "Well, it's definitely a gift item."
+      ]
+    }
+  ]
+}

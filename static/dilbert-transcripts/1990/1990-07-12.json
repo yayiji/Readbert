@@ -1,0 +1,26 @@
+{
+  "date": "1990-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss asked me to supervise the department secretary.",
+        "I don't really know how to manage people..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try positive reinforcement.",
+        "Praise the things he does right.",
+        "Trust him to make the right choices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I forgot to write down your messages, so I just put a bunch of gibberish on little pieces of paper."
+      ]
+    }
+  ]
+}

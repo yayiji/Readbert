@@ -1,0 +1,24 @@
+{
+  "date": "1992-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you're looking for a hit man to eliminate an inventor named Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a million dollars I can deliver his head on a platter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does it have to be on a platter?",
+        "I've tried using those Tupperware lettuce crispers, but it loses a lot of the drama."
+      ]
+    }
+  ]
+}

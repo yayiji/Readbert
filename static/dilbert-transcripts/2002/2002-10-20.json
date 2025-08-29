@@ -1,0 +1,55 @@
+{
+  "date": "2002-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You talked to my boss without my permission."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't remember reading a rule against that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's because it's an unwritten rule."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Unwritten you say?",
+        "Hmm...isn't that interesting?",
+        "I wonder why it's unwritten."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I would think you'd be proud to write down an excellent rule such as that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But if you prefer to keep transmitting rules by ESP, your skull seems to be blocking the outgoing signals."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If you're sending a new rule now, turn your head so it can come out your ear hole."
+      ]
+    }
+  ]
+}

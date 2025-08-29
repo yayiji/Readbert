@@ -1,0 +1,27 @@
+{
+  "date": "1990-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I have come for you.",
+        "Yow!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait, wait!",
+        "Don't I get to challenge you to some contest to play for my life!!?",
+        "(..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay... I throw this frisbee - you try to catch it in your mouth.",
+        "Did you have anything more degrading?"
+      ]
+    }
+  ]
+}

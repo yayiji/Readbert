@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evolution favors monkeys. Eventually, humans will be kept in cages as pets."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bah!",
+        "Impossible! We humans will never allow ourselves to be treated like that!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now get out of my cubicle!"
+      ]
+    }
+  ]
+}

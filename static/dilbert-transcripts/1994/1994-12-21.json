@@ -1,0 +1,25 @@
+{
+  "date": "1994-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to submit my project for a \"quality\" award.",
+        "I'll need your help on the dishonest parts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The real story is that the project lost its budget because its acronym was similar to a project that was canceled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Assume your project would have failed and claim the savings from avoiding it.",
+        "You're spooky."
+      ]
+    }
+  ]
+}

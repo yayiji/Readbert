@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm trying to find someone who can help me with a payroll problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're close. I'm the guy who forwards your call to the wrong person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like to speak with your supervisor.",
+        "I'll forward your call."
+      ]
+    }
+  ]
+}

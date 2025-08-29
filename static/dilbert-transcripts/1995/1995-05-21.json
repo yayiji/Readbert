@@ -1,0 +1,57 @@
+{
+  "date": "1995-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the company vision and business plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Vision: Empowered employees working toward a common plan.\"",
+        "Sounds good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But the business plan is blank.",
+        "It's confidential."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How am I supposed to know what to do?",
+        "I'll yell at you if you do the wrong thing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I thought I was empowered.",
+        "Don't be so literal."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll just keep doing what I was doing.",
+        "No!!! You fool!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We're doomed, aren't we?",
+        "I don't know. I haven't seen the plan."
+      ]
+    }
+  ]
+}

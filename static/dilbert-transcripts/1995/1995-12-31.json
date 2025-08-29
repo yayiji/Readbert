@@ -1,0 +1,57 @@
+{
+  "date": "1995-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got an idea!",
+        "We're doomed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why can't we run our inventory database over our e-mail system?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fact: That is the stupidest idea in the universe."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Fact: His comprehension is so limited that debate is futile."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Fact: We could spend hours unsuccessfully explaining why it's a stupid idea."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Fact: He would never know if we used his idea or not."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No problem.",
+        "We'll get right on it.",
+        "My work is done."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Stupidity is like nuclear power; it can be used for good or evil.",
+        "And you don't want to get any on you."
+      ]
+    }
+  ]
+}

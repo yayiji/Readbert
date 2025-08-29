@@ -1,0 +1,54 @@
+{
+  "date": "2001-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, I have to give you a performance rating of \"poor\" because you did no work this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wrote hundreds of technical documents this year!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I worked seventy hours a week!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I e-mailed every one of the documents to you..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...with instructions to forward them with your approval to the end users."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That reminds me: I don't know how to open attachments."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why didn't you tell me you never got my documents?",
+        "Who are you?"
+      ]
+    }
+  ]
+}

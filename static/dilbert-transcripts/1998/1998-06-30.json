@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "I don't know how to use my e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to upgrade your I.Q. a few points.",
+        "Try listening to classical music."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My old nemesis, mister radio, we meet again."
+      ]
+    }
+  ]
+}

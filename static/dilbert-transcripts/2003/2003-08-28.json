@@ -1,0 +1,27 @@
+{
+  "date": "2003-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a PhD, so obviously you should do what I say."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead of negotiating with vendors, let's just tell them how much money we have and ask them to do the right thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're probably feeling embarrassed for not thinking of the idea yourself.",
+        "Must...",
+        "Not...",
+        "Shave...",
+        "PhD."
+      ]
+    }
+  ]
+}

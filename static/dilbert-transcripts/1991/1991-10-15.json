@@ -1,0 +1,23 @@
+{
+  "date": "1991-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your highness, the Elbonian people demand free speech."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But don't worry, we'll still have societal and market pressures to squelch any original ideas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Frankly, all we want to do is make fun of your little hat."
+      ]
+    }
+  ]
+}

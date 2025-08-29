@@ -1,0 +1,24 @@
+{
+  "date": "1996-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my time sheet, including guesses for the next two days so I can meet your arbitrary clerical deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If anything important comes up, I'll ignore it to preserve the integrity of the time-reporting system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you finished annoying me yet?",
+        "According to my time sheet I'll be here for another 14 minutes."
+      ]
+    }
+  ]
+}

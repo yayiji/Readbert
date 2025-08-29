@@ -1,0 +1,25 @@
+{
+  "date": "1994-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Problem: Our product development process requires buy-in from managers who'd be happier if we all died."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My solution is to create executive oversight groups who don't understand the issues and don't have time to meet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm...",
+        "I'm blind!",
+        "You looked directly at the bulb again."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1996-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Groan.",
+        "Accounting"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I saved $500 in airfare by extending my business trip to Saturday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why won't you reimburse me for the Saturday hotel costs?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Saturday was not a business-related activity."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hmm... let me see if I understand this..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's not business-related to make sensible economic choices..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But it is business-related to waste money like an ugly, brain-dead troll..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Then he beat me up and took my lunch money.",
+        "Are you saying I can get free lunch money by beating you up?"
+      ]
+    }
+  ]
+}

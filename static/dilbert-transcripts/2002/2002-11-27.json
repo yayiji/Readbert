@@ -1,0 +1,27 @@
+{
+  "date": "2002-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The lower left part of my computer screen is defective.",
+        "May I order a replacement?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That part of the screen is overrated.",
+        "Try ignoring it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I vigorously bang my head on your desk?",
+        "Sure.",
+        "Knock yourself out."
+      ]
+    }
+  ]
+}

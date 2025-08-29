@@ -1,0 +1,26 @@
+{
+  "date": "2005-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good morning, Alice!",
+        "Uh-oh, a cubicle cockroach."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you working hard or hardly working? Ha ha!",
+        "I must find a way to kill it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a flame thrower?",
+        "I can't complain; no one would listen!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2000-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't invite marketing to the planning meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I don't, they'll sabotage the implementation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but if you do include them in the planning..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...They'll hose the plan?",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And they'll still botch the implementation."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If we know it's doomed, why do we bother?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's the same reason I had kids."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "At least there's a reason."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As part of our symbiotic relationship I'll shout a warning when danger approaches."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a hole in the ozone layer!",
+        "Consumer confidence is down a point!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Angry dinosaur with big tail!",
+        "You call that symbiotic??!"
+      ]
+    }
+  ]
+}

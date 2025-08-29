@@ -1,0 +1,62 @@
+{
+  "date": "1993-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey! Dilbert!",
+        "Is that your nerdmobile?",
+        "Ha ha ha !!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's my old high school nemesis, Chuck.",
+        "Maybe you'd like to race me in my Corvette.",
+        "Ha ha !"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, Chuck, if you had taken a science class you'd know this is a \"Seebeck effect\" power plant capable of 600 miles per hour."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Any idiot knows you can get massive power simply by using the sun to heat the junction of two dissimilar wires joined at both ends."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Apparently I'm faster and smarter than you.",
+        "And these tax forms show that I also earn more than you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Here's a picture of my new girlfriend.",
+        "She teaches aerobics."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "He's winning.",
+        "Help me out here, Dogbert.",
+        "Step aside."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I notice that your girlfriend has unusually large hands and a very pronounced Adam's apple.",
+        "So?"
+      ]
+    }
+  ]
+}

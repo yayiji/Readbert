@@ -1,0 +1,25 @@
+{
+  "date": "2002-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked sixty hours last week.",
+        "That's nothing.",
+        "I worked seventy hours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, wait... I just recognized the pattern."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1992-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's jail for the rich and famous",
+        "What are you in for?",
+        "I live here!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is my house!",
+        "My dog turned it into a jail-for-profit without my permission!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Man, you're the wrong guy to talk to during \"happy hour.\""
+      ]
+    }
+  ]
+}

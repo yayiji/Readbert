@@ -1,0 +1,53 @@
+{
+  "date": "1990-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm demanding a new wage and benefits package."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already give you everything you want..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And in return you give me disloyalty, verbal abuse and occasional legal problems."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, it's a good job, but I'm putting in twenty-four hours a day!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think I deserve some sort of special recognition for my good work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm positively giddy."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You edged out the toaster by two votes."
+      ]
+    }
+  ]
+}

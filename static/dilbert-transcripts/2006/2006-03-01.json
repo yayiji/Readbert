@@ -1,0 +1,26 @@
+{
+  "date": "2006-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What?! You only got a \"B\" taking the online ethics course for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one will believe you're me unless you get all perfect scores."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I...",
+        "was..",
+        "tired.",
+        "Why? You only did 300 push-ups for my online gym class!!!"
+      ]
+    }
+  ]
+}

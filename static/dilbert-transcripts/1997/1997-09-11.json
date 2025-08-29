@@ -1,0 +1,25 @@
+{
+  "date": "1997-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just heard that our pointy-haired boss's plane crashed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I must admit I have mixed feelings.",
+        "You don't know if you should mourn or celebrate, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I mean celebrate or leave early.",
+        "Hurry if you want some cake."
+      ]
+    }
+  ]
+}

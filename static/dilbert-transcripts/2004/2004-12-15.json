@@ -1,0 +1,25 @@
+{
+  "date": "2004-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll recommend your stock to the public, but first I need some conflicts of interest to make it worthwhile."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, I'll need to get your investment banking business.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you need to merge with my other client that makes poison waffles.",
+        "Okay."
+      ]
+    }
+  ]
+}

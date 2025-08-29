@@ -1,0 +1,23 @@
+{
+  "date": "2000-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saved some money by buying a used consulting report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're going to give the exclusive rights for something called DOS to something called Microsoft."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a good feeling about this."
+      ]
+    }
+  ]
+}

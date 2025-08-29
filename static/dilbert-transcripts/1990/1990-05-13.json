@@ -1,0 +1,70 @@
+{
+  "date": "1990-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert special!",
+        "Bob the dinosaur will rip the underpants off guys we hate!",
+        "Example",
+        "Rrrrip!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Case #1",
+        "...Bought my first house for 75 cents.",
+        "Sold it a year later for $400,000..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaaaaee!!",
+        "Now he drives a \"Beemer.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Case #2",
+        "It's a great movie.",
+        "You'll be surprised when you find out the parakeet is the murderer."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Aaaaaee!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I love surprises!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Case #3",
+        "Wait here and I'll try to convince my boss to sell the car at your price."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Aaaaaee!!",
+        "He's on your side!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Finally...",
+        "Only an idiot would think computers are confusing."
+      ]
+    }
+  ]
+}

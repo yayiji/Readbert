@@ -1,0 +1,44 @@
+{
+  "date": "2004-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see all of the typos in Dilbert's e-mail?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Were you confused about its meaning?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, that's not the point.",
+        "Then I don't know what your point is."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think he should be more professional, that's all."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So, instead of sending clear, efficient messages, he should follow your example and..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Be a gossipy, critical, time-waster who values appearance over function?",
+        "Are you done hurting me now?",
+        "I'm saving a scoffing sound for when you turn to leave."
+      ]
+    }
+  ]
+}

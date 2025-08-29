@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mom, I'll get fired unless you drop your lawsuit against my company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you work for a company that's managed by despicable weasels?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They tell me it's because I enjoy the challenge.",
+        "I demand a DNA test."
+      ]
+    }
+  ]
+}

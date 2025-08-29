@@ -1,0 +1,25 @@
+{
+  "date": "2004-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to go power shopping."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nice computer.",
+        "Did you just get it.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shopping always puts me in a good mood."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that you own a senator, what are you going to do with him?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll appreciate in value when a close vote comes up in the Senate. Then I'll sell him to a political action committee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is starting to affect my blind faith in the system.",
+        "He's hungry. Do we have any whiskey?"
+      ]
+    }
+  ]
+}

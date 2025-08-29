@@ -1,0 +1,28 @@
+{
+  "date": "1992-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Heh-heh",
+        "Heh",
+        "I"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop it, Dogbert! You're making that \"heh-heh\" sound so I'll think you've played some hideous prank."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No... not the maniacal laugh.",
+        "Hoo-ha-",
+        "Ha! Hoo-ha-",
+        "Ha-ha-ha!"
+      ]
+    }
+  ]
+}

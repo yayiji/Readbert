@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lacking clerical support, the highly trained, highly paid professionals line up at the copier."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Their amazing analytical skills are squandered in this mindless task."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No... it looks like the \"toner\" light doesn't turn off if you wait.",
+        "Let's give it another five minutes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet your new team member, Peri Noid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why haven't you invited me to a meeting? Who's filling your head with lies?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your hand is soft and clammy! Are you the undead?!",
+        "Engineer."
+      ]
+    }
+  ]
+}

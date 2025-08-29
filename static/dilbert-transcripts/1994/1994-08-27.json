@@ -1,0 +1,27 @@
+{
+  "date": "1994-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am the king of my cubicle, the absolute ruler of this tiny realm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And these are my loyal subjects:",
+        "Mister computer,",
+        "Mister stapler, and",
+        "the binder family."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who spilled coffee?",
+        "The barbarian is thwarted at the moat."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1999-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me what morale issues you have.",
+        "I'll summarize them under the appropriate categories."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My managers are incompetent,",
+        "arrogant, micro-",
+        "managing",
+        "misogynists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's one under \"time",
+        "of month.\""
+      ]
+    }
+  ]
+}

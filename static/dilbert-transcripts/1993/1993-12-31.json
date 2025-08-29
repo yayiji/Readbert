@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to sign this petition to end world hunger at no cost to you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "World hunger?",
+        "Why does it say \"I demand elimination of the government and the establishment of a Dogbert monarchy\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's standard boilerplate. The lawyers insisted.",
+        "Man, those guys are in a world of their own."
+      ]
+    }
+  ]
+}

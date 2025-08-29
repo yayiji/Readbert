@@ -1,0 +1,24 @@
+{
+  "date": "1996-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This next award goes to Kim for her exceptional work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Kim worked evenings and weekends to fix the problems that were caused by her own incompetence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And it looks like Kim has a full plate for the coming year, too.",
+        "Which side faces the wall?"
+      ]
+    }
+  ]
+}

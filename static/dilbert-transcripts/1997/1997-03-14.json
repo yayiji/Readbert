@@ -1,0 +1,24 @@
+{
+  "date": "1997-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm here to negotiate for more telecommuting days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My negotiating strategy is to have Ratbert say such illogical things that it drains your will to argue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't work at home because you might do unproductive things there.",
+        "I've lost my will to argue."
+      ]
+    }
+  ]
+}

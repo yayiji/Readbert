@@ -1,0 +1,24 @@
+{
+  "date": "1996-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You employees are the key to our economic success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Anytime we need a little stock-price boost, we just fire another batch of you. It's like printing money!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In fact, \"incompetence\" has become our most profitable product.",
+        "Wow. It beat out \"lying to customers.\""
+      ]
+    }
+  ]
+}

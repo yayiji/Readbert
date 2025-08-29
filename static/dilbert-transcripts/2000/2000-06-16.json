@@ -1,0 +1,24 @@
+{
+  "date": "2000-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our server named \"Pointy\" is overloaded."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we're moving some of the load to \"Haired\" and \"Idiot.\"",
+        "But we still need a new server."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He signed the purchase order for \"Clueless\"."
+      ]
+    }
+  ]
+}

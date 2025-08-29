@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you get all of the department heads to sign off on our business plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, they prefer to see us fail so they look good in comparison and there's more money in the budget for them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can we speed up this process?",
+        "I'm failing as fast as I can."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1998-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, we need to set measurable objectives for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a technical writer. How can you measure good writing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everything is measurable if you try hard enough."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is that your well-reasoned opinion?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or is it the dogmatic babbling of a manager in total cognitive surrender?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "For example, we could measure the number of words you type."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We'll have to subtract words you delete. That way we won't motivate the wrong behavior."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "In this edition of Tina's hourly newsletter, I compare our projects to various types of wood."
+      ]
+    }
+  ]
+}

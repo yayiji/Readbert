@@ -1,0 +1,26 @@
+{
+  "date": "2002-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The CEO visit",
+        "And now Dilbert and Alice will give you a presentation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm curious to hear why that requires two people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our department made impressive improvements in...",
+        "Efficiency!",
+        "+.01%"
+      ]
+    }
+  ]
+}

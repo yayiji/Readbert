@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've got to increase the budget for training!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I train you, then wouldn't you just leave the company to make more money working for our competitor?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess there is a downside.",
+        "And the downside would be...?"
+      ]
+    }
+  ]
+}

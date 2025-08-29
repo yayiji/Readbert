@@ -1,0 +1,24 @@
+{
+  "date": "1997-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, our business plan is in complete disarray so we're taking a three-hour lunch. Want to join us?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I've got to work harder than ever to turn this situation around!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes it's hard to distinguish between dedication and insanity.",
+        "Which one are we?"
+      ]
+    }
+  ]
+}

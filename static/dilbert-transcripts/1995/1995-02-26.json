@@ -1,0 +1,58 @@
+{
+  "date": "1995-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's some nice chocolate cake for you and Dogbert.",
+        "Thanks, Mom.",
+        "Thanks, Mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell me all about your job at the railroad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not a railroad.",
+        "I'm an engineer at a big corporation."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you fix the typewriters when they break?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No... today I debugged a TCP/IP driver for an application that runs over ISDN with bonding."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You mean, all you do is slap a BRI analyzer on a circuit and look for bad packets?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well... yeah.",
+        "But it's really hard."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I was doing okay until she offered to pay my tuition to typewriter repair school.",
+        "You shouldn't have compared her cake to packing foam."
+      ]
+    }
+  ]
+}

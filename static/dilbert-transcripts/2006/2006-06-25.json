@@ -1,0 +1,57 @@
+{
+  "date": "2006-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's accelerated sales training course."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today you will learn how a person can simultaneously drink and golf."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What will we learn tomorrow?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tomorrow? What part of \"accelerated\" is confusing you?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "As you know, the hard part about drinking and golfing is that they both require your hands."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's why I invented the sportsman's beer muzzle."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Give this to your client and the sale will practically make itself.",
+        "Ooh!",
+        "Ooh!",
+        "Ooh!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is the best day of my life!",
+        "I'll put you down for ten pallets of mouse pads."
+      ]
+    }
+  ]
+}

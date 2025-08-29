@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our shareholders are suing us for misleading them about our financial problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Since when is it illegal to shaft innocent people for personal gain?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't put that in the minutes.",
+        "I'll see what I can do."
+      ]
+    }
+  ]
+}

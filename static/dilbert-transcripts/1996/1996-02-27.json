@@ -1,0 +1,27 @@
+{
+  "date": "1996-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just got our consultant's report.",
+        "He's identified our biggest problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend that we build a tracking database.",
+        "We can put it on the network."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to hear what the problem is first?",
+        "I hate to dwell on the negative.",
+        "We like databases."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2006-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got the latest numbers from Yvonne."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How's Yvonne doing with the sextuplets now that her house burned down and she had shoulder surgery?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It didn't come up."
+      ]
+    }
+  ]
+}

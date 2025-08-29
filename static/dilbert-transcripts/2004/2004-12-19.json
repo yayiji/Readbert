@@ -1,0 +1,59 @@
+{
+  "date": "2004-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a job interview.",
+        "Wish me luck.",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you get extra luck then there might be less available for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think it works that way.",
+        "I can't take that chance."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell me, Dilbert, who would you consider your hero?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Albert Einstein.",
+        "That should be safe."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, really? He was an outspoken critic of war.",
+        "We design missile guidance systems."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How about Jeffrey Dahmer?",
+        "No?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I won the lottery!"
+      ]
+    }
+  ]
+}

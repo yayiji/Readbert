@@ -1,0 +1,24 @@
+{
+  "date": "1990-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pssst! Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I brought my date home for some coffee. Please don't make any comments about her... uh... looks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Brainella, this is Dogbert.",
+        "The queen bee of light bulbs?"
+      ]
+    }
+  ]
+}

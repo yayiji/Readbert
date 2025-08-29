@@ -1,0 +1,25 @@
+{
+  "date": "1997-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your annual performance review, Tina."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I focused on your performance for the past two weeks because I don't remember anything farther back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was on vacation for the past two weeks!!!",
+        "No time to chat.",
+        "I need to spread some motivation over here."
+      ]
+    }
+  ]
+}

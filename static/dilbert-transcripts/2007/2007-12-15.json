@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know you.",
+        "Why are you in this meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm creating the illusion of work by conflating the concepts of attendance and productivity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should leave.",
+        "And who should I say hates teamwork?"
+      ]
+    }
+  ]
+}

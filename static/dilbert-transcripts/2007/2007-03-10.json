@@ -1,0 +1,25 @@
+{
+  "date": "2007-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's speakers bureau",
+        "What topic would you be speaking about?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would speak about the folly of trying to satisfy other people's unreasonable expectations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you show up on time?",
+        "No. I doubt I would even prepare a speech."
+      ]
+    }
+  ]
+}

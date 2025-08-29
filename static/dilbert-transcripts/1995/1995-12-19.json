@@ -1,0 +1,28 @@
+{
+  "date": "1995-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company asked all employees to act as salespeople to friends and family.",
+        "I think you could use this, Mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I need a primary rate circuit?",
+        "I've already got a frame relay drop to my web server in the sewing room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is going to be a tough sale.",
+        "Hello-o-o!",
+        "Earth to Dilbert!",
+        "This is packet data..."
+      ]
+    }
+  ]
+}

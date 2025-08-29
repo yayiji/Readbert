@@ -1,0 +1,25 @@
+{
+  "date": "1998-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Somewhere on the moon.",
+        "So, you discovered where NASA hides the women who love male engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about a little drinking contest, tough guy? The loser can never return."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We probably shouldn't have insisted on entering the contest.",
+        "I'll miss them."
+      ]
+    }
+  ]
+}

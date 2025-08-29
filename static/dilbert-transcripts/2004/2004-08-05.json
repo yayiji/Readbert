@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My voice mailbox is full, and my spam filter rejects all incoming e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As soon as I build up a good load of ear wax, I'll be off the grid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, we need to talk.",
+        "Eh?"
+      ]
+    }
+  ]
+}

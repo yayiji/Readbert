@@ -1,0 +1,26 @@
+{
+  "date": "1998-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My sources tell me that you're not meeting your objectives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not true.",
+        "Who are these sources?",
+        "Name one objective I haven't met."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't even know what your objectives are.",
+        "Must... control... fists."
+      ]
+    }
+  ]
+}

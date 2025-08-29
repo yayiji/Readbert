@@ -1,0 +1,26 @@
+{
+  "date": "1996-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm paralyzed with fear because of the pending merger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks to your leadership I've gone from being unmotivated to being inert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I'm advancing to the next phase.",
+        "Hello, rigor mortis!!",
+        "Take me, I'm ready!!",
+        "It might be time for a morale-boosting potluck lunch."
+      ]
+    }
+  ]
+}

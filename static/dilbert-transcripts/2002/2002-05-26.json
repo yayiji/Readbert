@@ -1,0 +1,62 @@
+{
+  "date": "2002-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I quit. I got a better job with our competitor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, but remember the employment agreement you signed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You agreed to not take away knowledge or skills you acquired at this job.",
+        "Come with me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's crazy. How can I stop knowing what I learned?!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Will this hurt?",
+        "I hope so."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Clamp",
+        "Suck",
+        "Suck",
+        "Suck",
+        "Suck",
+        "Suck suck",
+        "Suck suck"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha ha!! I got your technical knowledge! And there go your verbal skills!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Great. Now what do I do?",
+        "I'd stay away from the golf course."
+      ]
+    }
+  ]
+}

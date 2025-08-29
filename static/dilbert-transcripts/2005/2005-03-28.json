@@ -1,0 +1,25 @@
+{
+  "date": "2005-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of your problems are caused by emotionally unstable coworkers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try prescribing meds from the internet to fix their defects."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, that one was the wrong choice.",
+        "Let's try something else.",
+        "Grrrr!"
+      ]
+    }
+  ]
+}

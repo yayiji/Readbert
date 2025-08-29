@@ -1,0 +1,25 @@
+{
+  "date": "1999-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll be destroying another healthy company via a process we call merging."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No engineers will be down-sized after the merger."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And tech writers...",
+        "Yes?!",
+        "Should write that down."
+      ]
+    }
+  ]
+}

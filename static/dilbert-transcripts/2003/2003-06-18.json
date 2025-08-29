@@ -1,0 +1,26 @@
+{
+  "date": "2003-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Folks, please stay in your seats.",
+        "We've been grabbed by a huge hand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope this has nothing to do with how I dressed for my sales meeting at the Vatican."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But it turned out to be a guy with a huge hand who said he \"thought it would be funny.\"",
+        "Hee hee!",
+        "Huge hand."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't understand anything you just said. Go away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our CEO doesn't like your idea. He didn't say why."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you ever feel like you're wallpapering fog?",
+        "I don't get that invested."
+      ]
+    }
+  ]
+}

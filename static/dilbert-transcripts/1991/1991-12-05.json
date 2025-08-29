@@ -1,0 +1,26 @@
+{
+  "date": "1991-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear that big layoffs are coming, nervous Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaah!!",
+        "Aaaah!!",
+        "Aaaah!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me try one.",
+        "Okay, but give him a minute."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1999-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: H.R. Director",
+        "My boss treats me like furniture!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd help you, but it might set a dangerous precedent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need a new position.",
+        "Have you tried crouching?"
+      ]
+    }
+  ]
+}

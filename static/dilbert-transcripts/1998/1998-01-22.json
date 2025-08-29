@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd quit and become an entrepreneur, but I don't know how they handle such huge risks.",
+        "Denial, probably."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We got bought by our archrival this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Their CEO says he plans to be as \"humane\" as possible.",
+        "He sounds nice.",
+        "Maybe we'll get bonuses!"
+      ]
+    }
+  ]
+}

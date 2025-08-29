@@ -1,0 +1,24 @@
+{
+  "date": "1999-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina the tech writer.",
+        "I grew tired of writing the same old stories for the newsletter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I started inventing stories of bizarre workplace crimes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes we in the media have to give the copycat criminals a little kick-start."
+      ]
+    }
+  ]
+}

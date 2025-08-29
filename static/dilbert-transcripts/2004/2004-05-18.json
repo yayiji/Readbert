@@ -1,0 +1,23 @@
+{
+  "date": "2004-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the secret society of executive secretaries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today we will wrest power from our evil overlords! Tomorrow we'll rule the world!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then Connie pointed out that we'd need our own secretaries, and the whole thing fell apart."
+      ]
+    }
+  ]
+}
