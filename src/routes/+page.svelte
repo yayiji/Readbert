@@ -1,9 +1,13 @@
 <script>
-  import { formatDate, loadTranscriptIndependently } from '$lib/comicsUtils.js';
-  import { loadRandomComicBrowser, loadComicBrowser } from '$lib/browserLoader.js';
-  import { isValidComicDateRange } from '$lib/comicsClient.js';
-  import { onMount } from 'svelte';
-  
+  import "@fontsource-variable/geist-mono";
+  import { formatDate, loadTranscriptIndependently } from "$lib/comicsUtils.js";
+  import {
+    loadRandomComicBrowser,
+    loadComicBrowser,
+  } from "$lib/browserLoader.js";
+  import { isValidComicDateRange } from "$lib/comicsClient.js";
+  import { onMount } from "svelte";
+
   // Browser-only state management
   let currentComic = $state(null);
   let previousComic = $state(null);
@@ -12,44 +16,50 @@
   let isLoading = $state(false);
   let isLoadingTranscript = $state(false);
 
-  const STORAGE_KEY = 'lastVisitedComic';
+  const STORAGE_KEY = "lastVisitedComic";
   const STORAGE_EXPIRY = 7 * 24 * 60 * 60 * 1000; // 7 days
 
   // Save comic data to localStorage
   function saveComicToStorage(comic, prevComic, nextComic, comicTranscript) {
-    if (typeof localStorage === 'undefined') return;
-    
+    if (typeof localStorage === "undefined") return;
+
     const comicData = {
       currentComic: comic,
       previousComic: prevComic,
       nextComic: nextComic,
       transcript: comicTranscript,
-      savedAt: Date.now()
+      savedAt: Date.now(),
     };
     localStorage.setItem(STORAGE_KEY, JSON.stringify(comicData));
   }
 
   // Load comic data from localStorage
   function loadComicFromStorage() {
-    if (typeof localStorage === 'undefined') return null;
-    
+    if (typeof localStorage === "undefined") return null;
+
     try {
       const saved = localStorage.getItem(STORAGE_KEY);
       if (!saved) return null;
-      
+
       const comicData = JSON.parse(saved);
-      if (comicData.savedAt && Date.now() - comicData.savedAt < STORAGE_EXPIRY) {
+      if (
+        comicData.savedAt &&
+        Date.now() - comicData.savedAt < STORAGE_EXPIRY
+      ) {
         // Validate that the saved comic date is within valid range
-        if (comicData.currentComic?.date && isValidComicDateRange(comicData.currentComic.date)) {
+        if (
+          comicData.currentComic?.date &&
+          isValidComicDateRange(comicData.currentComic.date)
+        ) {
           return comicData;
         } else {
           // Clear invalid cached data
           localStorage.removeItem(STORAGE_KEY);
-          console.log('Cleared invalid cached comic data');
+          console.log("Cleared invalid cached comic data");
         }
       }
     } catch (error) {
-      console.error('Error parsing saved comic data:', error);
+      console.error("Error parsing saved comic data:", error);
       // Clear corrupted data
       localStorage.removeItem(STORAGE_KEY);
     }
@@ -62,14 +72,14 @@
       transcript = null;
       return null;
     }
-    
+
     isLoadingTranscript = true;
     try {
       const transcriptData = await loadTranscriptIndependently(date);
       transcript = transcriptData;
       return transcriptData;
     } catch (error) {
-      console.error('Error loading transcript:', error);
+      console.error("Error loading transcript:", error);
       transcript = null;
       return null;
     } finally {
@@ -78,16 +88,20 @@
   }
 
   // Update comic state with transcript loading
-    async function updateComicStateWithTranscript(comic, prevComic, nextComicData) {
+  async function updateComicStateWithTranscript(
+    comic,
+    prevComic,
+    nextComicData
+  ) {
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
-    
+
     // Load transcript for current comic
     if (comic?.date) {
       await loadTranscript(comic.date);
     }
-    
+
     saveComicToStorage(comic, prevComic, nextComicData, transcript);
   }
 
@@ -109,7 +123,7 @@
         savedComic.previousComic,
         savedComic.nextComic
       );
-      
+
       // Restore saved transcript if available
       if (savedComic.transcript) {
         transcript = savedComic.transcript;
@@ -122,65 +136,76 @@
       await getRandomComic();
     }
   });
-  
+
   async function loadComic(date) {
     if (isLoading) return;
-    
+
     // Validate the date before proceeding
     if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
-      console.error('Invalid date format:', date);
+      console.error("Invalid date format:", date);
       return;
     }
-    
+
     isLoading = true;
     try {
       const result = await loadComicBrowser(date);
       if (result) {
-        await updateComicStateWithTranscript(result.comic, result.previousComic, result.nextComic);
+        await updateComicStateWithTranscript(
+          result.comic,
+          result.previousComic,
+          result.nextComic
+        );
       } else {
-        console.error('Failed to load comic for date:', date);
+        console.error("Failed to load comic for date:", date);
       }
     } catch (error) {
-      console.error('Error loading comic:', error);
+      console.error("Error loading comic:", error);
     } finally {
       isLoading = false;
     }
   }
-  
+
   async function getRandomComic() {
     if (isLoading) return;
-    
+
     isLoading = true;
     try {
       const result = await loadRandomComicBrowser();
       if (result) {
-        await updateComicStateWithTranscript(result.comic, result.previousComic, result.nextComic);
+        await updateComicStateWithTranscript(
+          result.comic,
+          result.previousComic,
+          result.nextComic
+        );
       } else {
-        console.error('Failed to load random comic');
+        console.error("Failed to load random comic");
       }
     } catch (error) {
-      console.error('Error loading random comic:', error);
+      console.error("Error loading random comic:", error);
     } finally {
       isLoading = false;
     }
   }
-  
+
   function goToPrevious() {
     if (previousComic && !isLoading) {
       // Additional validation to prevent unexpected jumps
-      if (!previousComic.date || !/^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)) {
-        console.error('Invalid previous comic date:', previousComic);
+      if (
+        !previousComic.date ||
+        !/^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)
+      ) {
+        console.error("Invalid previous comic date:", previousComic);
         return;
       }
       loadComic(previousComic.date);
     }
   }
-  
+
   function goToNext() {
     if (nextComic && !isLoading) {
       // Additional validation to prevent unexpected jumps
       if (!nextComic.date || !/^\d{4}-\d{2}-\d{2}$/.test(nextComic.date)) {
-        console.error('Invalid next comic date:', nextComic);
+        console.error("Invalid next comic date:", nextComic);
         return;
       }
       loadComic(nextComic.date);
@@ -190,73 +215,86 @@
 
 <svelte:head>
   <title>DILBERT COMICS - Complete Collection</title>
-  <meta name="description" content="Browse the complete DILBERT COMICS collection" />
+  <meta
+    name="description"
+    content="Browse the complete DILBERT COMICS collection"
+  />
 </svelte:head>
 
 <main class="container">
   <header class="header">
     <h1 class="title">DILBERT COMICS</h1>
-        <p class="subtitle">The Complete Collection of Scott Adams' Dilbert Comics</p>
+    <p class="subtitle">
+      The Complete Collection of Scott Adams' Dilbert Comics
+    </p>
   </header>
 
   {#if currentComic}
     <section class="comic-section">
-      
       <!-- Navigation buttons -->
       <div class="navigation">
-        <button 
-          class="nav-btn" 
+        <button
+          class="nav-btn"
           disabled={!previousComic || isLoading}
           onclick={goToPrevious}
         >
           ◄ PREV
         </button>
-        
-        <button 
-          class="nav-btn random" 
+
+        <button
+          class="nav-btn random"
           disabled={isLoading}
           onclick={getRandomComic}
         >
-          {isLoading ? 'LOADING...' : '⚀ RANDOM'}
+          {isLoading ? "LOADING..." : "⚀ RANDOM"}
         </button>
-        
-        <button 
-          class="nav-btn" 
+
+        <button
+          class="nav-btn"
           disabled={!nextComic || isLoading}
           onclick={goToNext}
         >
           NEXT ►
         </button>
       </div>
-      
+
       <div class="comic-date">{formatDate(currentComic.date)}</div>
-      
+
       <div class="comic-container">
-        <img 
-          src={currentComic.url} 
+        <img
+          src={currentComic.url}
           alt="Dilbert comic from {currentComic.date}"
           class="comic-image"
         />
       </div>
-      
-      <!-- Transcript content without title header -->
+
+      <!-- Transcript table -->
       {#if transcript}
-        <ol class="simple-transcript">
-          {#each transcript.panels as panel}
-            {#each panel.dialogue as dialogue}
-              <li>{dialogue}</li>
-            {/each}
-          {/each}
-        </ol>
+        <div class="transcript-container">
+          <table class="transcript-table">
+            <tbody>
+              {#each transcript.panels as panel}
+                <tr>
+                  <td class="dialogue-cell">
+                    {#each panel.dialogue as dialogue}
+                      <div class="dialogue-line">{dialogue}</div>
+                    {/each}
+                  </td>
+                </tr>
+              {/each}
+            </tbody>
+          </table>
+        </div>
       {/if}
-      
     </section>
   {/if}
-  
+
   <footer class="footer">
     <div class="footer-content">
       <p class="copyright">Dilbert © Scott Adams</p>
-      <p class="footer-note">All comics are displayed for educational and archival purposes</p>
+      <p class="footer-note">
+        All comics are displayed for educational and archival purposes
+      </p>
     </div>
   </footer>
 </main>
@@ -277,7 +315,7 @@
     --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     --max-width: 800px;
     --font-serif: "Times New Roman", Times, serif;
-    --font-mono: 'Courier New', 'Courier', monospace;
+    --font-mono: "Courier New", "Courier", monospace;
 
     width: 100%;
     margin: 0;
@@ -392,22 +430,52 @@
     background-color: var(--accent-color);
   }
 
-  .simple-transcript {
-    margin: 15px auto 0;
-    max-width: 500px;
+  .transcript-container {
+    margin: 20px auto 0;
+    max-width: 600px;
     width: 100%;
     padding: 0 20px;
-    line-height: 1.6;
-    text-align: left;
     box-sizing: border-box;
   }
 
-  .simple-transcript li {
-    margin: 8px 0;
+  .transcript-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f5f4f0;
+    border: 0px solid #ddd;
+    /* font-family: 'Geist Mono Variable', 'Geist Mono', 'JetBrains Mono', 'Monaco', 'Menlo', monospace; */
+    font-family: "Courier New",'Monaco', 'Menlo', monospace;
+    margin: 0 auto;
+  }
+
+  .transcript-table td {
+    padding: 7px 16px;
+    vertical-align: top;
+    text-align: left;
+  }
+
+  .transcript-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  .dialogue-cell {
+    line-height: 1.4;
+    text-align: left;
+  }
+
+  .dialogue-line {
+    margin: 3px 0;
     font-size: 14px;
     color: var(--main-color);
-    font-family: var(--font-mono);
     word-wrap: break-word;
+  }
+
+  .dialogue-line:last-child {
+    margin-bottom: 0;
+  }
+
+  .dialogue-line:first-child {
+    margin-top: 0;
   }
 
   .footer {
@@ -473,16 +541,15 @@
       padding: 10px;
     }
 
-    .simple-transcript {
-      margin: 10px auto 0;
-      max-width: 400px;
-      width: calc(100% - 20px);
+    .transcript-container {
+      margin: 15px auto 0;
+      max-width: calc(100% - 20px);
       padding: 0 10px;
     }
 
-    .simple-transcript li {
+    .dialogue-line {
       font-size: 13px;
-      margin: 6px 0;
+      margin: 2px 0;
     }
 
     .footer {
