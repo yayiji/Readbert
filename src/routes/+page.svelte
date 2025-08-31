@@ -15,7 +15,6 @@
   let transcript = $state(null);
   let isLoading = $state(false);
   let isLoadingTranscript = $state(false);
-  let showDatePicker = $state(false);
   let selectedDate = $state("");
 
   const STORAGE_KEY = "lastVisitedComic";
@@ -99,8 +98,9 @@
     previousComic = prevComic;
     nextComic = nextComicData;
 
-    // Load transcript for current comic
+    // Set the selected date to the current comic date
     if (comic?.date) {
+      selectedDate = comic.date;
       await loadTranscript(comic.date);
     }
 
@@ -112,6 +112,12 @@
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
+    
+    // Set the selected date to the current comic date
+    if (comic?.date) {
+      selectedDate = comic.date;
+    }
+    
     saveComicToStorage(comic, prevComic, nextComicData);
   }
 
@@ -214,33 +220,15 @@
     }
   }
 
-  function toggleDatePicker() {
-    if (showDatePicker) {
-      showDatePicker = false;
-      selectedDate = "";
-    } else {
-      // Set the current date as the default value
-      if (currentComic?.date) {
-        selectedDate = currentComic.date;
-      }
-      showDatePicker = true;
-    }
-  }
-
   function handleDateKeydown(event) {
     if (event.key === "Enter") {
       handleDateSubmit();
-    } else if (event.key === "Escape") {
-      showDatePicker = false;
-      selectedDate = "";
     }
   }
 
   function handleDateSubmit() {
     if (selectedDate && isValidComicDateRange(selectedDate)) {
       loadComic(selectedDate);
-      showDatePicker = false;
-      selectedDate = "";
     } else {
       alert("Please select a valid date. Comics are available from April 16, 1989 to present.");
     }
@@ -292,22 +280,15 @@
         </button>
       </div>
 
-      {#if showDatePicker}
-        <input
-          type="date"
-          bind:value={selectedDate}
-          min="1989-04-16"
-          max={new Date().toISOString().split('T')[0]}
-          class="comic-date-input"
-          onkeydown={handleDateKeydown}
-          onchange={handleDateSubmit}
-        />
-      {:else}
-        <button class="comic-date clickable" onclick={toggleDatePicker} type="button">
-          {formatDate(currentComic.date)}
-          <span class="date-picker-hint">📅</span>
-        </button>
-      {/if}
+      <input
+        type="date"
+        bind:value={selectedDate}
+        min="1989-04-16"
+        max="2023-03-12"
+        class="comic-date-input"
+        onkeydown={handleDateKeydown}
+        onchange={handleDateSubmit}
+      />
 
       <div class="comic-container">
         <img
@@ -418,34 +399,6 @@
     padding: 10px;
   }
 
-  .comic-date {
-    font-size: 14px;
-    font-weight: bold;
-    color: var(--accent-color);
-    margin: 8px 0 5px 0;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    padding: 8px 12px;
-    border-radius: 4px;
-    transition: all 0.2s ease;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-  }
-
-  .comic-date.clickable:hover {
-    background-color: var(--bg-light);
-    color: var(--main-color);
-  }
-
-  .date-picker-hint {
-    font-size: 12px;
-    opacity: 0.7;
-  }
-
   .comic-date-input {
     font-size: 14px;
     font-weight: bold;
@@ -453,8 +406,8 @@
     margin: 8px 0 5px 0;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background: var(--bg-white);
-    border: 2px solid var(--border-color);
+    background: transparent;
+    border: none;
     cursor: pointer;
     padding: 8px 12px;
     border-radius: 4px;
@@ -465,7 +418,6 @@
 
   .comic-date-input:focus {
     outline: none;
-    border-color: var(--accent-color);
     background-color: var(--bg-light);
   }
 
@@ -623,10 +575,6 @@
       padding: 8px 12px;
       font-size: 11px;
       min-width: 70px;
-    }
-
-    .comic-date {
-      font-size: 12px;
     }
 
     .comic-container {
