@@ -1,0 +1,23 @@
+{
+  "name": "VS-Dilbert",
+  "short_name": "VS-Dilbert",
+  "description": "A web application to browse the classic Dilbert comic strips, complete with AI-powered transcriptions. Featuring Dogbert, the evil genius!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
