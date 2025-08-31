@@ -23,7 +23,12 @@
     {
       "panel": 4,
       "dialogue": [
-        "Let's practice...",
+        "Let's practice..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
         "Dogbert, fetch me a brain!",
         "Like your present model, or one that works?"
       ]
