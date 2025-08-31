@@ -443,8 +443,7 @@
     border-collapse: collapse;
     background-color: #f5f4f0;
     border: 0px solid #ddd;
-    /* font-family: 'Geist Mono Variable', 'Geist Mono', 'JetBrains Mono', 'Monaco', 'Menlo', monospace; */
-    font-family: "Courier New",'Monaco', 'Menlo', monospace;
+    font-family: "SF Mono", "Cascadia Code", "Roboto Mono", "Courier New", monospace;
     margin: 0 auto;
   }
 
