@@ -21,8 +21,11 @@
 	"dependencies": {
 		"@fontsource-variable/geist-mono": "^5.0.1",
 		"@fontsource-variable/jetbrains-mono": "^5.1.2",
+		"@fontsource-variable/roboto-mono": "^5.2.6",
+		"@fontsource-variable/ubuntu-sans-mono": "^5.2.8",
 		"@fontsource/geist-sans": "^5.1.0",
 		"@fontsource/lato": "^5.1.1",
+		"@fontsource/ubuntu-mono": "^5.2.6",
 		"@google/genai": "^1.15.0",
 		"@google/generative-ai": "^0.24.1",
 		"@lucide/svelte": "^0.483.0",

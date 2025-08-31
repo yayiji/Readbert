@@ -1,5 +1,4 @@
 <script>
-  import "@fontsource-variable/geist-mono";
   import { formatDate, loadTranscriptIndependently } from "$lib/comicsUtils.js";
   import {
     loadRandomComicBrowser,
@@ -486,7 +485,8 @@
     border-collapse: collapse;
     background-color: #f5f4f0;
     border: 0px solid #ddd;
-    font-family: "SF Mono", "Cascadia Code", "Roboto Mono", "Courier New", monospace;
+    /* font-family: "SF Mono","Courier New", monospace; */
+    font-family: "Courier New", monospace;
     margin: 0 auto;
   }
 
