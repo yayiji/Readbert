@@ -230,7 +230,7 @@
     if (selectedDate && isValidComicDateRange(selectedDate)) {
       loadComic(selectedDate);
     } else {
-      alert("Please select a valid date. Comics are available from April 16, 1989 to present.");
+      selectedDate = currentComic?.date || "";
     }
   }
 </script>
