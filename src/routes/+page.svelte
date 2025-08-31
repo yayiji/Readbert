@@ -464,7 +464,7 @@
   }
 
   .dialogue-line {
-    margin: 3px 0;
+    margin: 4px 0;
     font-size: 14px;
     color: var(--main-color);
     word-wrap: break-word;
