@@ -1,23 +1,16 @@
 <script>
-  import { createEventDispatcher } from 'svelte';
+  let { value = $bindable(''), min = '1989-04-16', max = '2023-03-12' } = $props();
   
-  export let value = '';
-  export let min = '1989-04-16';
-  export let max = '2023-03-12';
-  
-  const dispatch = createEventDispatcher();
-  
-  let isOpen = false;
-  let currentYear = new Date().getFullYear();
-  let currentMonth = new Date().getMonth();
-  let isMobile = false;
+  let isOpen = $state(false);
+  let currentYear = $state(new Date().getFullYear());
+  let currentMonth = $state(new Date().getMonth());
   
   // Parse min/max dates
   const minDate = new Date(min + 'T00:00:00');
   const maxDate = new Date(max + 'T23:59:59');
   
   // Initialize with current value or today's date (within range)
-  $: {
+  $effect(() => {
     if (value) {
       const parts = value.split('-');
       currentYear = parseInt(parts[0]);
@@ -32,7 +25,7 @@
         currentMonth = minDate.getMonth();
       }
     }
-  }
+  });
   
   const monthNames = [
     'January', 'February', 'March', 'April', 'May', 'June',
@@ -68,7 +61,6 @@
     
     value = dateString;
     isOpen = false;
-    dispatch('change', dateString);
   }
   
   function previousMonth() {
@@ -80,11 +72,13 @@
   }
   
   function canGoToPreviousMonth() {
-    return new Date(currentYear - 1, 0, 1) >= minDate;
+    const minYear = minDate.getFullYear();
+    return currentYear > minYear;
   }
   
   function canGoToNextMonth() {
-    return new Date(currentYear + 1, 11, 31) <= maxDate;
+    const maxYear = maxDate.getFullYear();
+    return currentYear < maxYear;
   }
   
   function formatDisplayDate(dateString) {
@@ -99,9 +93,6 @@
   
   function togglePicker() {
     isOpen = !isOpen;
-    if (isOpen && typeof window !== 'undefined') {
-      isMobile = window.innerWidth <= 600;
-    }
   }
   
   function closePicker() {
@@ -121,7 +112,7 @@
   }
 </script>
 
-<svelte:window on:click={handleOutsideClick} on:keydown={handleKeydown} />
+<svelte:window onclick={handleOutsideClick} onkeydown={handleKeydown} />
 
 <div class="date-picker">
   <button 
@@ -134,18 +125,7 @@
   </button>
   
   {#if isOpen}
-    {#if isMobile}
-      <div 
-        class="mobile-backdrop" 
-        onclick={closePicker}
-        onkeydown={(e) => e.key === 'Enter' && closePicker()}
-        role="button"
-        tabindex="0"
-        aria-label="Close date picker"
-      ></div>
-    {/if}
-    
-    <div class="calendar-popup" class:mobile={isMobile}>
+    <div class="calendar-popup">
       <div class="calendar-header">
         <button 
           class="nav-btn" 
@@ -258,17 +238,6 @@
     background-color: var(--bg-light, #f8f6f0);
   }
 
-  .mobile-backdrop {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.5);
-    z-index: 999;
-    cursor: pointer;
-  }
-
   .calendar-popup {
     position: absolute;
     top: 100%;
@@ -281,16 +250,6 @@
     margin-top: 4px;
     padding: 16px;
     min-width: 280px;
-  }
-
-  .calendar-popup.mobile {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 90vw;
-    max-width: 400px;
-    margin: 0;
   }
   
   .calendar-header {
@@ -439,24 +398,5 @@
   
   .day.empty {
     cursor: default;
-  }
-  
-  @media (max-width: 600px) {
-    .date-input {
-      min-width: 160px;
-      font-size: 16px;
-      padding: 12px 16px;
-    }
-    
-    .calendar-popup:not(.mobile) {
-      right: 0;
-      left: auto;
-      transform: none;
-    }
-
-    .nav-btn, .month-btn, .day {
-      width: 44px;
-      height: 44px;
-    }
   }
 </style>

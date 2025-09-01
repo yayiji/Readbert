@@ -17,6 +17,17 @@
   let isLoadingTranscript = $state(false);
   let selectedDate = $state("");
 
+  // Watch for selectedDate changes and load the comic
+  let previousSelectedDate = "";
+  $effect(() => {
+    if (selectedDate && selectedDate !== previousSelectedDate && selectedDate !== currentComic?.date) {
+      previousSelectedDate = selectedDate;
+      if (isValidComicDateRange(selectedDate)) {
+        loadComic(selectedDate);
+      }
+    }
+  });
+
   const STORAGE_KEY = "lastVisitedComic";
   const STORAGE_EXPIRY = 7 * 24 * 60 * 60 * 1000; // 7 days
 
@@ -226,12 +237,9 @@
     }
   }
 
-  function handleDateSubmit(event) {
-    // Handle both direct calls and event objects from the custom DatePicker
-    const dateValue = event?.detail || selectedDate;
-    
-    if (dateValue && isValidComicDateRange(dateValue)) {
-      loadComic(dateValue);
+  function handleDateSubmit() {
+    if (selectedDate && isValidComicDateRange(selectedDate)) {
+      loadComic(selectedDate);
     } else {
       selectedDate = currentComic?.date || "";
     }
@@ -287,7 +295,6 @@
         bind:value={selectedDate}
         min="1989-04-16"
         max="2023-03-12"
-        on:change={handleDateSubmit}
       />
 
       <div class="comic-container">
