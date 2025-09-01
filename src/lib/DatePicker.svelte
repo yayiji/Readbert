@@ -229,8 +229,8 @@
   .calendar-popup {
     position: absolute;
     top: 100%;
-    left: 0;
-    right: 0;
+    left: 50%;
+    transform: translateX(-50%);
     z-index: 1000;
     background: var(--bg-white, #fff);
     border: 2px solid var(--border-color, #8b7d6b);
