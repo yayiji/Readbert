@@ -75,35 +75,23 @@
   }
   
   function previousMonth() {
-    if (currentMonth === 0) {
-      currentMonth = 11;
-      currentYear--;
-    } else {
-      currentMonth--;
-    }
+    currentYear--;
   }
   
   function nextMonth() {
-    if (currentMonth === 11) {
-      currentMonth = 0;
-      currentYear++;
-    } else {
-      currentMonth++;
-    }
+    currentYear++;
   }
   
   function canGoToPreviousMonth() {
-    const prevMonth = currentMonth === 0 ? 11 : currentMonth - 1;
-    const prevYear = currentMonth === 0 ? currentYear - 1 : currentYear;
-    const firstDayOfPrevMonth = new Date(prevYear, prevMonth, 1);
-    return firstDayOfPrevMonth >= minDate;
+    const prevYear = currentYear - 1;
+    const firstDayOfPrevYear = new Date(prevYear, 0, 1);
+    return firstDayOfPrevYear >= minDate;
   }
   
   function canGoToNextMonth() {
-    const nextMonth = currentMonth === 11 ? 0 : currentMonth + 1;
-    const nextYear = currentMonth === 11 ? currentYear + 1 : currentYear;
-    const lastDayOfNextMonth = new Date(nextYear, nextMonth + 1, 0);
-    return lastDayOfNextMonth <= maxDate;
+    const nextYear = currentYear + 1;
+    const lastDayOfNextYear = new Date(nextYear, 11, 31);
+    return lastDayOfNextYear <= maxDate;
   }
   
   function formatDisplayDate(dateString) {
@@ -146,19 +134,47 @@
           class="nav-btn" 
           onclick={previousMonth}
           disabled={!canGoToPreviousMonth()}
+          title="Previous Year"
         >
           ◄
         </button>
         <h3 class="month-year">
-          {monthNames[currentMonth]} {currentYear}
+          {currentYear}
         </h3>
         <button 
           class="nav-btn" 
           onclick={nextMonth}
           disabled={!canGoToNextMonth()}
+          title="Next Year"
         >
           ►
         </button>
+      </div>
+      
+      <!-- Month selection grid -->
+      <div class="month-selection">
+        <div class="month-row">
+          {#each Array(6) as _, index}
+            <button 
+              class="month-btn"
+              class:selected={index === currentMonth}
+              onclick={() => currentMonth = index}
+            >
+              {(index + 1).toString().padStart(2, '0')}
+            </button>
+          {/each}
+        </div>
+        <div class="month-row">
+          {#each Array(6) as _, index}
+            <button 
+              class="month-btn"
+              class:selected={index + 6 === currentMonth}
+              onclick={() => currentMonth = index + 6}
+            >
+              {(index + 7).toString().padStart(2, '0')}
+            </button>
+          {/each}
+        </div>
       </div>
       
       <div class="calendar-grid">
@@ -188,7 +204,7 @@
               onclick={() => selectDate(day)}
               disabled={!inRange}
             >
-              {day}
+              {day.toString().padStart(2, '0')}
             </button>
           {/each}
         </div>
@@ -271,16 +287,59 @@
     cursor: not-allowed;
   }
   
+  .month-selection {
+    margin-bottom: 16px;
+    border-bottom: 1px solid var(--border-color, #8b7d6b);
+    padding-bottom: 12px;
+  }
+  
+  .month-row {
+    display: flex;
+    gap: 2px;
+    margin-bottom: 2px;
+  }
+  
+  .month-row:last-child {
+    margin-bottom: 0;
+  }
+  
+  .month-btn {
+    flex: 1;
+    background: transparent;
+    border: 1px solid transparent;
+    padding: 8px 2px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--main-color, #333);
+    transition: all 0.2s ease;
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .month-btn:hover {
+    background: #ebe8e0;
+  }
+  
+  .month-btn.selected {
+    background: var(--accent-color, #6d5f4d);
+    color: white;
+    font-weight: bold;
+  }
+
   .month-year {
     margin: 0;
     font-size: 16px;
     font-weight: bold;
     color: var(--main-color, #333);
-    font-family: var(--font-serif, "Times New Roman", Times, serif);
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
   
   .calendar-grid {
-    font-family: var(--font-serif, "Times New Roman", Times, serif);
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
   
   .weekday-headers {
@@ -317,6 +376,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
   
   .day:hover:not(.disabled):not(.empty) {
