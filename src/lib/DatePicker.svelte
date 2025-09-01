@@ -65,10 +65,18 @@
   
   function previousMonth() {
     currentYear--;
+    // Remove focus to clear mobile button highlight
+    if (typeof document !== 'undefined') {
+      document.activeElement?.blur();
+    }
   }
   
   function nextMonth() {
     currentYear++;
+    // Remove focus to clear mobile button highlight
+    if (typeof document !== 'undefined') {
+      document.activeElement?.blur();
+    }
   }
   
   function canGoToPreviousMonth() {
@@ -154,7 +162,10 @@
             <button 
               class="month-btn"
               class:selected={index === currentMonth}
-              onclick={() => currentMonth = index}
+              onclick={(e) => {
+                currentMonth = index;
+                e.target.blur();
+              }}
             >
               {(index + 1).toString().padStart(2, '0')}
             </button>
@@ -165,7 +176,10 @@
             <button 
               class="month-btn"
               class:selected={index + 6 === currentMonth}
-              onclick={() => currentMonth = index + 6}
+              onclick={(e) => {
+                currentMonth = index + 6;
+                e.target.blur();
+              }}
             >
               {(index + 7).toString().padStart(2, '0')}
             </button>
