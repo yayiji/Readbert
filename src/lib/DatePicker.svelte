@@ -298,6 +298,7 @@
     display: flex;
     gap: 2px;
     margin-bottom: 2px;
+    justify-content: space-between;
   }
   
   .month-row:last-child {
@@ -305,16 +306,16 @@
   }
   
   .month-btn {
-    flex: 1;
     background: transparent;
     border: 1px solid transparent;
-    padding: 8px 2px;
+    padding: 0;
     cursor: pointer;
     font-size: 13px;
     font-weight: 600;
     color: var(--main-color, #333);
     transition: all 0.2s ease;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
+    width: 32px;
     height: 32px;
     display: flex;
     align-items: center;
