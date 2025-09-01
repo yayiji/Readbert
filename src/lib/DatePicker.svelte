@@ -279,8 +279,8 @@
   }
   
   .nav-btn:hover:not(:disabled) {
-    background: #ebe8e0;
-    color: var(--main-color, #333);
+    background: var(--bg-light, #f8f6f0);
+    border-color: var(--border-color, #8b7d6b);
   }
   
   .nav-btn:disabled {
@@ -322,7 +322,8 @@
   }
   
   .month-btn:hover {
-    background: #ebe8e0;
+    background: var(--bg-light, #f8f6f0);
+    border-color: var(--border-color, #8b7d6b);
   }
   
   .month-btn.selected {
