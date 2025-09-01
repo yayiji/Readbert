@@ -10,29 +10,18 @@
   let isOpen = false;
   let currentYear = new Date().getFullYear();
   let currentMonth = new Date().getMonth();
-  let calendarElement;
   let isMobile = false;
-  let touchStartX = 0;
-  let touchStartY = 0;
   
-  // Parse min/max dates (using date strings to avoid timezone issues)
+  // Parse min/max dates
   const minDate = new Date(min + 'T00:00:00');
   const maxDate = new Date(max + 'T23:59:59');
-  
-  // Check if device is mobile/small screen
-  function checkMobile() {
-    if (typeof window !== 'undefined') {
-      isMobile = window.innerWidth <= 768 || 'ontouchstart' in window;
-    }
-  }
   
   // Initialize with current value or today's date (within range)
   $: {
     if (value) {
-      // Parse date string directly to avoid timezone issues
       const parts = value.split('-');
       currentYear = parseInt(parts[0]);
-      currentMonth = parseInt(parts[1]) - 1; // Convert to 0-based month
+      currentMonth = parseInt(parts[1]) - 1;
     } else {
       const today = new Date();
       if (today >= minDate && today <= maxDate) {
@@ -59,14 +48,12 @@
   }
   
   function isDateInRange(year, month, day) {
-    // Create date string for comparison to avoid timezone issues
     const dateStr = `${year}-${(month + 1).toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
     return dateStr >= min && dateStr <= max;
   }
   
   function isSelectedDate(year, month, day) {
     if (!value) return false;
-    // Create date string for comparison to avoid timezone issues
     const dateStr = `${year}-${(month + 1).toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
     return value === dateStr;
   }
@@ -74,7 +61,6 @@
   function selectDate(day) {
     if (!isDateInRange(currentYear, currentMonth, day)) return;
     
-    // Create date string manually to avoid timezone issues
     const year = currentYear.toString();
     const month = (currentMonth + 1).toString().padStart(2, '0');
     const dayStr = day.toString().padStart(2, '0');
@@ -94,15 +80,11 @@
   }
   
   function canGoToPreviousMonth() {
-    const prevYear = currentYear - 1;
-    const firstDayOfPrevYear = new Date(prevYear, 0, 1);
-    return firstDayOfPrevYear >= minDate;
+    return new Date(currentYear - 1, 0, 1) >= minDate;
   }
   
   function canGoToNextMonth() {
-    const nextYear = currentYear + 1;
-    const lastDayOfNextYear = new Date(nextYear, 11, 31);
-    return lastDayOfNextYear <= maxDate;
+    return new Date(currentYear + 1, 11, 31) <= maxDate;
   }
   
   function formatDisplayDate(dateString) {
@@ -117,89 +99,41 @@
   
   function togglePicker() {
     isOpen = !isOpen;
-    if (isOpen) {
-      checkMobile();
-      // Prevent body scroll on mobile when picker is open
-      if (isMobile && typeof document !== 'undefined') {
-        document.body.style.overflow = 'hidden';
-      }
-    } else if (isMobile && typeof document !== 'undefined') {
-      document.body.style.overflow = '';
+    if (isOpen && typeof window !== 'undefined') {
+      isMobile = window.innerWidth <= 600;
     }
   }
   
   function closePicker() {
     isOpen = false;
-    if (isMobile && typeof document !== 'undefined') {
-      document.body.style.overflow = '';
-    }
   }
   
-  // Close picker when clicking outside
   function handleOutsideClick(event) {
     if (!event.target.closest('.date-picker')) {
       closePicker();
     }
   }
 
-  // Handle escape key to close picker
   function handleKeydown(event) {
     if (event.key === 'Escape' && isOpen) {
       closePicker();
     }
   }
-
-  // Handle window resize
-  function handleResize() {
-    checkMobile();
-  }
-
-  // Touch/swipe handling for mobile
-  function handleTouchStart(event) {
-    if (!isMobile) return;
-    touchStartX = event.touches[0].clientX;
-    touchStartY = event.touches[0].clientY;
-  }
-
-  function handleTouchEnd(event) {
-    if (!isMobile) return;
-    
-    const touchEndX = event.changedTouches[0].clientX;
-    const touchEndY = event.changedTouches[0].clientY;
-    const deltaX = touchEndX - touchStartX;
-    const deltaY = touchEndY - touchStartY;
-    
-    // Only trigger swipe if horizontal movement is greater than vertical
-    if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > 50) {
-      if (deltaX > 0 && canGoToPreviousMonth()) {
-        previousMonth();
-      } else if (deltaX < 0 && canGoToNextMonth()) {
-        nextMonth();
-      }
-    }
-  }
-
-  // Initialize mobile check on mount
-  if (typeof window !== 'undefined') {
-    checkMobile();
-  }
 </script>
 
-<svelte:window on:click={handleOutsideClick} on:keydown={handleKeydown} on:resize={handleResize} />
+<svelte:window on:click={handleOutsideClick} on:keydown={handleKeydown} />
 
 <div class="date-picker">
   <button 
     class="date-input" 
     onclick={togglePicker}
     aria-expanded={isOpen}
-    aria-haspopup="dialog"
     aria-label="Select date"
   >
     {formatDisplayDate(value)}
   </button>
   
   {#if isOpen}
-    <!-- Mobile overlay backdrop -->
     {#if isMobile}
       <div 
         class="mobile-backdrop" 
@@ -211,15 +145,7 @@
       ></div>
     {/if}
     
-    <div 
-      class="calendar-popup" 
-      class:mobile={isMobile}
-      bind:this={calendarElement}
-      role="dialog"
-      aria-label="Date picker"
-      ontouchstart={handleTouchStart}
-      ontouchend={handleTouchEnd}
-    >
+    <div class="calendar-popup" class:mobile={isMobile}>
       <div class="calendar-header">
         <button 
           class="nav-btn" 
@@ -242,7 +168,6 @@
         </button>
       </div>
       
-      <!-- Month selection grid -->
       <div class="month-selection">
         <div class="month-row">
           {#each Array(6) as _, index}
@@ -322,7 +247,6 @@
     font-family: var(--font-serif, "Times New Roman", Times, serif);
     text-align: center;
     min-width: 200px;
-    touch-action: manipulation; /* Prevents zoom on iOS */
   }
   
   .date-input:hover {
@@ -366,10 +290,7 @@
     transform: translate(-50%, -50%);
     width: 90vw;
     max-width: 400px;
-    max-height: 90vh;
-    overflow-y: auto;
     margin: 0;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
   }
   
   .calendar-header {
@@ -392,7 +313,6 @@
     align-items: center;
     justify-content: center;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
-    touch-action: manipulation;
   }
   
   .nav-btn:hover:not(:disabled) {
@@ -437,7 +357,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    touch-action: manipulation;
   }
   
   .month-btn:hover {
@@ -499,7 +418,6 @@
     align-items: center;
     justify-content: center;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
-    touch-action: manipulation;
   }
   
   .day:hover:not(.disabled):not(.empty) {
@@ -523,132 +441,22 @@
     cursor: default;
   }
   
-  /* Mobile-specific improvements */
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .date-input {
       min-width: 160px;
-      font-size: 16px; /* Prevents zoom on iOS */
+      font-size: 16px;
       padding: 12px 16px;
     }
     
     .calendar-popup:not(.mobile) {
-      min-width: 320px;
-      padding: 16px;
-      /* Ensure popup doesn't go off screen */
-      left: auto;
       right: 0;
+      left: auto;
       transform: none;
     }
 
-    .nav-btn {
-      width: 44px;
-      height: 44px;
-      font-size: 18px;
-    }
-
-    .month-btn {
-      width: 44px;
-      height: 44px;
-      font-size: 14px;
-    }
-
-    .day {
-      width: 44px;
-      height: 44px;
-      font-size: 14px;
-    }
-
-    .weekday {
-      padding: 8px 2px;
-      font-size: 11px;
-    }
-
-    .month-year {
-      font-size: 18px;
-    }
-
-    .month-row {
-      gap: 2px;
-    }
-
-    .days-grid {
-      gap: 2px;
-    }
-
-    .weekday-headers {
-      gap: 2px;
-    }
-  }
-
-  /* Very small screens */
-  @media (max-width: 480px) {
-    .date-input {
-      min-width: 140px;
-      font-size: 16px;
-      padding: 10px 12px;
-    }
-
-    .calendar-popup.mobile {
-      width: 95vw;
-      padding: 12px;
-    }
-
-    .nav-btn {
-      width: 40px;
-      height: 40px;
-    }
-
-    .month-btn {
-      width: 38px;
-      height: 38px;
-      font-size: 13px;
-    }
-
-    .day {
-      width: 38px;
-      height: 38px;
-      font-size: 13px;
-    }
-
-    .month-year {
-      font-size: 16px;
-    }
-  }
-
-  /* Landscape orientation on mobile */
-  @media (max-height: 500px) and (orientation: landscape) {
-    .calendar-popup.mobile {
-      max-height: 95vh;
-      width: 80vw;
-      max-width: 500px;
-    }
-
     .nav-btn, .month-btn, .day {
-      width: 36px;
-      height: 36px;
-    }
-  }
-
-  /* High DPI displays */
-  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-    .nav-btn, .month-btn, .day {
-      border-width: 0.5px;
-    }
-  }
-
-  /* Focus styles for better accessibility */
-  .date-input:focus-visible,
-  .nav-btn:focus-visible,
-  .month-btn:focus-visible,
-  .day:focus-visible {
-    outline: 2px solid var(--accent-color, #6d5f4d);
-    outline-offset: 2px;
-  }
-
-  /* Reduce motion for users who prefer it */
-  @media (prefers-reduced-motion: reduce) {
-    * {
-      transition: none !important;
+      width: 44px;
+      height: 44px;
     }
   }
 </style>
