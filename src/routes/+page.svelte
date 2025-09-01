@@ -487,7 +487,7 @@
 
   .dialogue-line {
     margin: 4px 0;
-    font-size: 14px;
+    font-size: 15px;
     color: var(--main-color);
     word-wrap: break-word;
   }
@@ -568,7 +568,7 @@
     }
 
     .dialogue-line {
-      font-size: 13px;
+      font-size: 14px;
       margin: 2px 0;
     }
 
