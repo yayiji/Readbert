@@ -10,10 +10,21 @@
   let isOpen = false;
   let currentYear = new Date().getFullYear();
   let currentMonth = new Date().getMonth();
+  let calendarElement;
+  let isMobile = false;
+  let touchStartX = 0;
+  let touchStartY = 0;
   
   // Parse min/max dates (using date strings to avoid timezone issues)
   const minDate = new Date(min + 'T00:00:00');
   const maxDate = new Date(max + 'T23:59:59');
+  
+  // Check if device is mobile/small screen
+  function checkMobile() {
+    if (typeof window !== 'undefined') {
+      isMobile = window.innerWidth <= 768 || 'ontouchstart' in window;
+    }
+  }
   
   // Initialize with current value or today's date (within range)
   $: {
@@ -106,10 +117,22 @@
   
   function togglePicker() {
     isOpen = !isOpen;
+    if (isOpen) {
+      checkMobile();
+      // Prevent body scroll on mobile when picker is open
+      if (isMobile && typeof document !== 'undefined') {
+        document.body.style.overflow = 'hidden';
+      }
+    } else if (isMobile && typeof document !== 'undefined') {
+      document.body.style.overflow = '';
+    }
   }
   
   function closePicker() {
     isOpen = false;
+    if (isMobile && typeof document !== 'undefined') {
+      document.body.style.overflow = '';
+    }
   }
   
   // Close picker when clicking outside
@@ -118,17 +141,85 @@
       closePicker();
     }
   }
+
+  // Handle escape key to close picker
+  function handleKeydown(event) {
+    if (event.key === 'Escape' && isOpen) {
+      closePicker();
+    }
+  }
+
+  // Handle window resize
+  function handleResize() {
+    checkMobile();
+  }
+
+  // Touch/swipe handling for mobile
+  function handleTouchStart(event) {
+    if (!isMobile) return;
+    touchStartX = event.touches[0].clientX;
+    touchStartY = event.touches[0].clientY;
+  }
+
+  function handleTouchEnd(event) {
+    if (!isMobile) return;
+    
+    const touchEndX = event.changedTouches[0].clientX;
+    const touchEndY = event.changedTouches[0].clientY;
+    const deltaX = touchEndX - touchStartX;
+    const deltaY = touchEndY - touchStartY;
+    
+    // Only trigger swipe if horizontal movement is greater than vertical
+    if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > 50) {
+      if (deltaX > 0 && canGoToPreviousMonth()) {
+        previousMonth();
+      } else if (deltaX < 0 && canGoToNextMonth()) {
+        nextMonth();
+      }
+    }
+  }
+
+  // Initialize mobile check on mount
+  if (typeof window !== 'undefined') {
+    checkMobile();
+  }
 </script>
 
-<svelte:window on:click={handleOutsideClick} />
+<svelte:window on:click={handleOutsideClick} on:keydown={handleKeydown} on:resize={handleResize} />
 
 <div class="date-picker">
-  <button class="date-input" onclick={togglePicker}>
+  <button 
+    class="date-input" 
+    onclick={togglePicker}
+    aria-expanded={isOpen}
+    aria-haspopup="dialog"
+    aria-label="Select date"
+  >
     {formatDisplayDate(value)}
   </button>
   
   {#if isOpen}
-    <div class="calendar-popup">
+    <!-- Mobile overlay backdrop -->
+    {#if isMobile}
+      <div 
+        class="mobile-backdrop" 
+        onclick={closePicker}
+        onkeydown={(e) => e.key === 'Enter' && closePicker()}
+        role="button"
+        tabindex="0"
+        aria-label="Close date picker"
+      ></div>
+    {/if}
+    
+    <div 
+      class="calendar-popup" 
+      class:mobile={isMobile}
+      bind:this={calendarElement}
+      role="dialog"
+      aria-label="Date picker"
+      ontouchstart={handleTouchStart}
+      ontouchend={handleTouchEnd}
+    >
       <div class="calendar-header">
         <button 
           class="nav-btn" 
@@ -231,6 +322,7 @@
     font-family: var(--font-serif, "Times New Roman", Times, serif);
     text-align: center;
     min-width: 200px;
+    touch-action: manipulation; /* Prevents zoom on iOS */
   }
   
   .date-input:hover {
@@ -241,7 +333,18 @@
     outline: none;
     background-color: var(--bg-light, #f8f6f0);
   }
-  
+
+  .mobile-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    cursor: pointer;
+  }
+
   .calendar-popup {
     position: absolute;
     top: 100%;
@@ -254,6 +357,19 @@
     margin-top: 4px;
     padding: 16px;
     min-width: 280px;
+  }
+
+  .calendar-popup.mobile {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90vw;
+    max-width: 400px;
+    max-height: 90vh;
+    overflow-y: auto;
+    margin: 0;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
   }
   
   .calendar-header {
@@ -270,17 +386,18 @@
     cursor: pointer;
     font-size: 16px;
     transition: all 0.2s ease;
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
+    touch-action: manipulation;
   }
   
   .nav-btn:hover:not(:disabled) {
     background: var(--bg-light, #f8f6f0);
-    border-color: var(--border-color, #8b7d6b);
+    border-color: var(--accent-color, #6d5f4d);
   }
   
   .nav-btn:disabled {
@@ -296,8 +413,8 @@
   
   .month-row {
     display: flex;
-    gap: 2px;
-    margin-bottom: 2px;
+    gap: 4px;
+    margin-bottom: 4px;
     justify-content: space-between;
   }
   
@@ -315,11 +432,12 @@
     color: var(--main-color, #333);
     transition: all 0.2s ease;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
+    touch-action: manipulation;
   }
   
   .month-btn:hover {
@@ -331,6 +449,7 @@
     background: var(--accent-color, #6d5f4d);
     color: white;
     font-weight: bold;
+    border-color: var(--accent-color, #6d5f4d);
   }
 
   .month-year {
@@ -348,7 +467,7 @@
   .weekday-headers {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 2px;
+    gap: 4px;
     margin-bottom: 8px;
   }
   
@@ -357,18 +476,18 @@
     font-size: 12px;
     font-weight: bold;
     color: var(--accent-color, #6d5f4d);
-    padding: 4px;
+    padding: 8px 4px;
   }
   
   .days-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 2px;
+    gap: 4px;
   }
   
   .day {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     border: 1px solid transparent;
     background: transparent;
     cursor: pointer;
@@ -380,6 +499,7 @@
     align-items: center;
     justify-content: center;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
+    touch-action: manipulation;
   }
   
   .day:hover:not(.disabled):not(.empty) {
@@ -391,6 +511,7 @@
     background: var(--accent-color, #6d5f4d);
     color: white;
     font-weight: bold;
+    border-color: var(--accent-color, #6d5f4d);
   }
   
   .day.disabled {
@@ -402,19 +523,132 @@
     cursor: default;
   }
   
-  @media (max-width: 600px) {
+  /* Mobile-specific improvements */
+  @media (max-width: 768px) {
     .date-input {
-      min-width: 180px;
-      font-size: 13px;
+      min-width: 160px;
+      font-size: 16px; /* Prevents zoom on iOS */
+      padding: 12px 16px;
     }
     
-    .calendar-popup {
-      min-width: 260px;
+    .calendar-popup:not(.mobile) {
+      min-width: 320px;
+      padding: 16px;
+      /* Ensure popup doesn't go off screen */
+      left: auto;
+      right: 0;
+      transform: none;
+    }
+
+    .nav-btn {
+      width: 44px;
+      height: 44px;
+      font-size: 18px;
+    }
+
+    .month-btn {
+      width: 44px;
+      height: 44px;
+      font-size: 14px;
+    }
+
+    .day {
+      width: 44px;
+      height: 44px;
+      font-size: 14px;
+    }
+
+    .weekday {
+      padding: 8px 2px;
+      font-size: 11px;
+    }
+
+    .month-year {
+      font-size: 18px;
+    }
+
+    .month-row {
+      gap: 2px;
+    }
+
+    .days-grid {
+      gap: 2px;
+    }
+
+    .weekday-headers {
+      gap: 2px;
+    }
+  }
+
+  /* Very small screens */
+  @media (max-width: 480px) {
+    .date-input {
+      min-width: 140px;
+      font-size: 16px;
+      padding: 10px 12px;
+    }
+
+    .calendar-popup.mobile {
+      width: 95vw;
       padding: 12px;
     }
-    
+
+    .nav-btn {
+      width: 40px;
+      height: 40px;
+    }
+
+    .month-btn {
+      width: 38px;
+      height: 38px;
+      font-size: 13px;
+    }
+
+    .day {
+      width: 38px;
+      height: 38px;
+      font-size: 13px;
+    }
+
     .month-year {
-      font-size: 14px;
+      font-size: 16px;
+    }
+  }
+
+  /* Landscape orientation on mobile */
+  @media (max-height: 500px) and (orientation: landscape) {
+    .calendar-popup.mobile {
+      max-height: 95vh;
+      width: 80vw;
+      max-width: 500px;
+    }
+
+    .nav-btn, .month-btn, .day {
+      width: 36px;
+      height: 36px;
+    }
+  }
+
+  /* High DPI displays */
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .nav-btn, .month-btn, .day {
+      border-width: 0.5px;
+    }
+  }
+
+  /* Focus styles for better accessibility */
+  .date-input:focus-visible,
+  .nav-btn:focus-visible,
+  .month-btn:focus-visible,
+  .day:focus-visible {
+    outline: 2px solid var(--accent-color, #6d5f4d);
+    outline-offset: 2px;
+  }
+
+  /* Reduce motion for users who prefer it */
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      transition: none !important;
     }
   }
 </style>
