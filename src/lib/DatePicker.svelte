@@ -399,4 +399,16 @@
   .day.empty {
     cursor: default;
   }
+  
+  @media (max-width: 600px) {
+    .calendar-popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 90vw;
+      max-width: 350px;
+      margin: 0;
+    }
+  }
 </style>

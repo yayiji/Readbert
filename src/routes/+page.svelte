@@ -539,7 +539,7 @@
 
   @media (max-width: 600px) {
     .container {
-      padding: 15px;
+      padding: 12px;
     }
 
     .title {
@@ -553,7 +553,7 @@
 
     .navigation {
       gap: 8px;
-      margin-bottom: 15px;
+      margin-bottom: 25px;
       padding: 5px;
       flex-wrap: wrap;
     }
