@@ -254,11 +254,16 @@
     cursor: pointer;
     font-size: 12px;
     transition: all 0.2s ease;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .nav-btn:hover:not(:disabled) {
-    background: var(--border-color, #8b7d6b);
-    color: white;
+    background: #ebe8e0;
+    color: var(--main-color, #333);
   }
   
   .nav-btn:disabled {
