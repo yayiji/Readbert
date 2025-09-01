@@ -395,7 +395,7 @@
     display: flex;
     justify-content: center;
     gap: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     padding: 10px;
   }
 
@@ -405,7 +405,7 @@
     padding: 15px;
     border: 2px solid #d4c5a9;
     box-shadow: var(--shadow);
-    margin-top: 20px;
+    margin-top: 3px;
   }
 
   .comic-image {
