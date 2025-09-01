@@ -268,13 +268,14 @@
     border: none;
     padding: 4px 8px;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 16px;
     transition: all 0.2s ease;
     width: 32px;
     height: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
   
   .nav-btn:hover:not(:disabled) {
