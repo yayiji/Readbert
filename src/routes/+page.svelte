@@ -6,6 +6,7 @@
   } from "$lib/browserLoader.js";
   import { isValidComicDateRange } from "$lib/comicsClient.js";
   import { onMount } from "svelte";
+  import DatePicker from "$lib/DatePicker.svelte";
 
   // Browser-only state management
   let currentComic = $state(null);
@@ -225,9 +226,12 @@
     }
   }
 
-  function handleDateSubmit() {
-    if (selectedDate && isValidComicDateRange(selectedDate)) {
-      loadComic(selectedDate);
+  function handleDateSubmit(event) {
+    // Handle both direct calls and event objects from the custom DatePicker
+    const dateValue = event?.detail || selectedDate;
+    
+    if (dateValue && isValidComicDateRange(dateValue)) {
+      loadComic(dateValue);
     } else {
       selectedDate = currentComic?.date || "";
     }
@@ -279,14 +283,11 @@
         </button>
       </div>
 
-      <input
-        type="date"
+      <DatePicker 
         bind:value={selectedDate}
         min="1989-04-16"
         max="2023-03-12"
-        class="comic-date-input"
-        onkeydown={handleDateKeydown}
-        onchange={handleDateSubmit}
+        on:change={handleDateSubmit}
       />
 
       <div class="comic-container">
@@ -398,34 +399,13 @@
     padding: 10px;
   }
 
-  .comic-date-input {
-    font-size: 14px;
-    font-weight: bold;
-    color: var(--accent-color);
-    margin: 8px 0 5px 0;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    background: transparent;
-    border: none;
-    cursor: pointer;
-    padding: 8px 12px;
-    border-radius: 4px;
-    transition: all 0.2s ease;
-    font-family: var(--font-serif);
-    text-align: center;
-  }
-
-  .comic-date-input:focus {
-    outline: none;
-    background-color: var(--bg-light);
-  }
-
   .comic-container {
     display: inline-block;
     background-color: var(--bg-white);
     padding: 15px;
     border: 2px solid #d4c5a9;
     box-shadow: var(--shadow);
+    margin-top: 20px;
   }
 
   .comic-image {
