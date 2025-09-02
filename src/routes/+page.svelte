@@ -402,7 +402,7 @@
     display: flex;
     justify-content: center;
     gap: 15px;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     padding: 10px;
   }
 
@@ -553,7 +553,6 @@
 
     .navigation {
       gap: 8px;
-      margin-bottom: 25px;
       padding: 5px;
       flex-wrap: wrap;
     }
