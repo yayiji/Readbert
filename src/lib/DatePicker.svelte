@@ -222,15 +222,17 @@
   }
   
   .date-input {
-    font-size: 14px;
-    font-weight: bold;
     color: var(--accent-color, #6d5f4d);
     background: transparent;
     border: none;
+    font-family: var(--font-serif);
+    font-size: 12px;
+    font-weight: bold;
     cursor: pointer;
-    padding: 8px 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 0px 8px;
     transition: all 0.2s ease;
-    font-family: var(--font-serif, "Times New Roman", Times, serif);
     text-align: center;
     min-width: 200px;
   }
