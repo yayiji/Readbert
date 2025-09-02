@@ -307,15 +307,15 @@
   }
   
   .month-selection {
-    margin-bottom: 16px;
+    margin-bottom: 20px;
     border-bottom: 1px solid var(--border-color, #8b7d6b);
-    padding-bottom: 12px;
+    padding-bottom: 16px;
   }
   
   .month-row {
     display: flex;
-    gap: 4px;
-    margin-bottom: 4px;
+    gap: 8px;
+    margin-bottom: 8px;
     justify-content: space-between;
   }
   
