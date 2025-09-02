@@ -31,6 +31,11 @@
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December'
   ];
+
+  const monthAbbrevs = [
+    'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN',
+    'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'
+  ];
   
   function getDaysInMonth(year, month) {
     return new Date(year, month + 1, 0).getDate();
@@ -159,7 +164,7 @@
                 e.target.blur();
               }}
             >
-              {(index + 1).toString().padStart(2, '0')}
+              {monthAbbrevs[index]}
             </button>
           {/each}
         </div>
@@ -173,7 +178,7 @@
                 e.target.blur();
               }}
             >
-              {(index + 7).toString().padStart(2, '0')}
+              {monthAbbrevs[index + 6]}
             </button>
           {/each}
         </div>
@@ -328,11 +333,12 @@
     color: var(--main-color, #333);
     transition: all 0.2s ease;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
-    width: 40px;
-    height: 40px;
+    width: 42px;
+    height: 28px;
     display: flex;
     align-items: center;
     justify-content: center;
+    letter-spacing: 1px;
   }
   
   @media (hover: hover) and (pointer: fine) {
