@@ -1,18 +1,22 @@
 <script>
-  let { value = $bindable(''), min = '1989-04-16', max = '2023-03-12' } = $props();
-  
+  let {
+    value = $bindable(""),
+    min = "1989-04-16",
+    max = "2023-03-12",
+  } = $props();
+
   let isOpen = $state(false);
   let currentYear = $state(new Date().getFullYear());
   let currentMonth = $state(new Date().getMonth());
-  
+
   // Parse min/max dates
-  const minDate = new Date(min + 'T00:00:00');
-  const maxDate = new Date(max + 'T23:59:59');
-  
+  const minDate = new Date(min + "T00:00:00");
+  const maxDate = new Date(max + "T23:59:59");
+
   // Initialize with current value or today's date (within range)
   $effect(() => {
     if (value) {
-      const parts = value.split('-');
+      const parts = value.split("-");
       currentYear = parseInt(parts[0]);
       currentMonth = parseInt(parts[1]) - 1;
     } else {
@@ -26,92 +30,112 @@
       }
     }
   });
-  
+
   const monthNames = [
-    'January', 'February', 'March', 'April', 'May', 'June',
-    'July', 'August', 'September', 'October', 'November', 'December'
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
   ];
 
   const monthAbbrevs = [
-    'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN',
-    'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL",
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC",
   ];
-  
+
   function getDaysInMonth(year, month) {
     return new Date(year, month + 1, 0).getDate();
   }
-  
+
   function getFirstDayOfMonth(year, month) {
     return new Date(year, month, 1).getDay();
   }
-  
+
   function isDateInRange(year, month, day) {
-    const dateStr = `${year}-${(month + 1).toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
+    const dateStr = `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
     return dateStr >= min && dateStr <= max;
   }
-  
+
   function isSelectedDate(year, month, day) {
     if (!value) return false;
-    const dateStr = `${year}-${(month + 1).toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
+    const dateStr = `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
     return value === dateStr;
   }
-  
+
   function selectDate(day) {
     if (!isDateInRange(currentYear, currentMonth, day)) return;
-    
+
     const year = currentYear.toString();
-    const month = (currentMonth + 1).toString().padStart(2, '0');
-    const dayStr = day.toString().padStart(2, '0');
+    const month = (currentMonth + 1).toString().padStart(2, "0");
+    const dayStr = day.toString().padStart(2, "0");
     const dateString = `${year}-${month}-${dayStr}`;
-    
+
     value = dateString;
     isOpen = false;
   }
-  
+
   function previousMonth() {
     currentYear--;
   }
-  
+
   function nextMonth() {
     currentYear++;
   }
-  
+
   function canGoToPreviousMonth() {
     const minYear = minDate.getFullYear();
     return currentYear > minYear;
   }
-  
+
   function canGoToNextMonth() {
     const maxYear = maxDate.getFullYear();
     return currentYear < maxYear;
   }
-  
+
   function formatDisplayDate(dateString) {
-    if (!dateString) return 'Select Date';
+    if (!dateString) return "Select Date";
     const date = new Date(dateString);
-    return date.toLocaleDateString('en-US', { 
-      year: 'numeric', 
-      month: 'long', 
-      day: 'numeric' 
+    return date.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
     });
   }
-  
+
   function togglePicker() {
     isOpen = !isOpen;
   }
-  
+
   function closePicker() {
     isOpen = false;
   }
-  
+
   function handleOutsideClick(event) {
-    if (!event.target.closest('.date-picker')) {
+    if (!event.target.closest(".date-picker")) {
       closePicker();
     }
   }
 
   function handleKeydown(event) {
-    if (event.key === 'Escape' && isOpen) {
+    if (event.key === "Escape" && isOpen) {
       closePicker();
     }
   }
@@ -120,20 +144,20 @@
 <svelte:window onclick={handleOutsideClick} onkeydown={handleKeydown} />
 
 <div class="date-picker">
-  <button 
-    class="date-input" 
+  <button
+    class="date-input"
     onclick={togglePicker}
     aria-expanded={isOpen}
     aria-label="Select date"
   >
     {formatDisplayDate(value)}
   </button>
-  
+
   {#if isOpen}
     <div class="calendar-popup">
       <div class="calendar-header">
-        <button 
-          class="nav-btn" 
+        <button
+          class="nav-btn"
           onclick={previousMonth}
           disabled={!canGoToPreviousMonth()}
           title="Previous Year"
@@ -143,8 +167,8 @@
         <h3 class="month-year">
           {currentYear}
         </h3>
-        <button 
-          class="nav-btn" 
+        <button
+          class="nav-btn"
           onclick={nextMonth}
           disabled={!canGoToNextMonth()}
           title="Next Year"
@@ -152,11 +176,11 @@
           ►
         </button>
       </div>
-      
+
       <div class="month-selection">
         <div class="month-row">
           {#each Array(6) as _, index}
-            <button 
+            <button
               class="month-btn"
               class:selected={index === currentMonth}
               onclick={(e) => {
@@ -170,7 +194,7 @@
         </div>
         <div class="month-row">
           {#each Array(6) as _, index}
-            <button 
+            <button
               class="month-btn"
               class:selected={index + 6 === currentMonth}
               onclick={(e) => {
@@ -183,7 +207,7 @@
           {/each}
         </div>
       </div>
-      
+
       <div class="calendar-grid">
         <div class="weekday-headers">
           <div class="weekday">Su</div>
@@ -194,24 +218,24 @@
           <div class="weekday">Fr</div>
           <div class="weekday">Sa</div>
         </div>
-        
+
         <div class="days-grid">
           {#each Array(getFirstDayOfMonth(currentYear, currentMonth)) as _}
             <div class="day empty"></div>
           {/each}
-          
+
           {#each Array(getDaysInMonth(currentYear, currentMonth)) as _, i}
             {@const day = i + 1}
             {@const inRange = isDateInRange(currentYear, currentMonth, day)}
             {@const selected = isSelectedDate(currentYear, currentMonth, day)}
-            <button 
+            <button
               class="day"
               class:disabled={!inRange}
-              class:selected={selected}
+              class:selected
               onclick={() => selectDate(day)}
               disabled={!inRange}
             >
-              {day.toString().padStart(2, '0')}
+              {day.toString().padStart(2, "0")}
             </button>
           {/each}
         </div>
@@ -225,13 +249,13 @@
     position: relative;
     display: inline-block;
   }
-  
+
   .date-input {
     color: var(--accent-color, #6d5f4d);
     background: transparent;
     border: none;
     font-family: var(--font-serif);
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bold;
     cursor: pointer;
     text-transform: uppercase;
@@ -241,14 +265,14 @@
     text-align: center;
     min-width: 200px;
   }
-  
+
   /* Hover feedback only for hover-capable devices */
   @media (hover: hover) and (pointer: fine) {
     .date-input:hover {
       background-color: var(--bg-light, #f8f6f0);
     }
   }
-  
+
   .date-input:focus-visible {
     outline: none;
     background-color: var(--bg-light, #f8f6f0);
@@ -267,14 +291,14 @@
     padding: 16px;
     min-width: 280px;
   }
-  
+
   .calendar-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 16px;
   }
-  
+
   .nav-btn {
     background: var(--bg-white, #fff);
     border: none;
@@ -293,27 +317,27 @@
     appearance: none;
     border-radius: 0;
   }
-  
+
   @media (hover: hover) and (pointer: fine) {
     .nav-btn:hover:not(:disabled) {
       background: var(--bg-light, #f8f6f0);
       border-color: var(--accent-color, #6d5f4d);
     }
   }
-  
+
   .nav-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
   }
-  
+
   .month-selection {
     margin-bottom: 10px;
     padding-bottom: 30px;
     position: relative;
   }
-  
+
   .month-selection::after {
-    content: '';
+    content: "";
     position: absolute;
     bottom: 8px;
     left: 50%;
@@ -322,18 +346,18 @@
     height: 0.5px;
     background-color: rgba(139, 125, 107, 0.3);
   }
-  
+
   .month-row {
     display: flex;
     gap: 8px;
     margin-bottom: 8px;
     justify-content: space-between;
   }
-  
+
   .month-row:last-child {
     margin-bottom: 0;
   }
-  
+
   .month-btn {
     background: transparent;
     border: 1px solid transparent;
@@ -351,14 +375,14 @@
     justify-content: center;
     letter-spacing: 1px;
   }
-  
+
   @media (hover: hover) and (pointer: fine) {
     .month-btn:hover {
       background: var(--bg-light, #f8f6f0);
       border-color: var(--border-color, #8b7d6b);
     }
   }
-  
+
   .month-btn.selected {
     background: var(--accent-color, #6d5f4d);
     color: white;
@@ -373,18 +397,18 @@
     color: var(--main-color, #333);
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
-  
+
   .calendar-grid {
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
-  
+
   .weekday-headers {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     gap: 4px;
     margin-bottom: 8px;
   }
-  
+
   .weekday {
     text-align: center;
     font-size: 12px;
@@ -392,13 +416,13 @@
     color: var(--accent-color, #6d5f4d);
     padding: 8px 4px;
   }
-  
+
   .days-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     gap: 4px;
   }
-  
+
   .day {
     width: 40px;
     height: 40px;
@@ -414,30 +438,30 @@
     justify-content: center;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
-  
+
   @media (hover: hover) and (pointer: fine) {
     .day:hover:not(.disabled):not(.empty) {
       background: var(--bg-light, #f8f6f0);
       border-color: var(--border-color, #8b7d6b);
     }
   }
-  
+
   .day.selected {
     background: var(--accent-color, #6d5f4d);
     color: white;
     font-weight: bold;
     border-color: var(--accent-color, #6d5f4d);
   }
-  
+
   .day.disabled {
     color: #ccc;
     cursor: not-allowed;
   }
-  
+
   .day.empty {
     cursor: default;
   }
-  
+
   @media (max-width: 600px) {
     .calendar-popup {
       position: fixed;
@@ -447,6 +471,9 @@
       width: 90vw;
       max-width: 350px;
       margin: 0;
+    }
+    .date-input {
+      font-size: 12px;
     }
   }
 </style>
