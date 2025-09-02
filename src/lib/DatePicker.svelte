@@ -111,10 +111,12 @@
 
   function previousMonth() {
     currentYear--;
+    tempValue = ""; // Clear temporary selection when year changes
   }
 
   function nextMonth() {
     currentYear++;
+    tempValue = ""; // Clear temporary selection when year changes
   }
 
   function canGoToPreviousMonth() {
@@ -203,6 +205,7 @@
               class:selected={index === currentMonth}
               onclick={(e) => {
                 currentMonth = index;
+                tempValue = ""; // Clear temporary selection when month changes
                 e.target.blur();
               }}
             >
@@ -217,6 +220,7 @@
               class:selected={index + 6 === currentMonth}
               onclick={(e) => {
                 currentMonth = index + 6;
+                tempValue = ""; // Clear temporary selection when month changes
                 e.target.blur();
               }}
             >
