@@ -114,7 +114,7 @@
     aria-expanded={isOpen}
     aria-label="Select date"
   >
-    {formatDisplayDate(value)}
+    <span class="date-text">{formatDisplayDate(value)}</span>
     <CalendarDays class="calendar-icon" size={15} />
   </button>
 
@@ -237,6 +237,10 @@
     align-items: center;
     justify-content: center;
     gap: 6px;
+  }
+
+  .date-text {
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
 
   .date-input :global(.calendar-icon) {
