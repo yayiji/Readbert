@@ -307,9 +307,20 @@
   }
   
   .month-selection {
-    margin-bottom: 20px;
-    border-bottom: 1px solid var(--border-color, #8b7d6b);
-    padding-bottom: 16px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+    position: relative;
+  }
+  
+  .month-selection::after {
+    content: '';
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    height: 0.5px;
+    background-color: rgba(139, 125, 107, 0.3);
   }
   
   .month-row {
