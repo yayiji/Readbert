@@ -422,7 +422,7 @@
   @media (max-width: 600px) {
     .calendar-popup {
       position: fixed;
-      top: 20%;
+      top: 16%;
       left: 50%;
       transform: translateX(-50%);
       width: 90vw;
