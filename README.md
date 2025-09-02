@@ -1,116 +1,96 @@
 # VS-Dilbert
 
-A web application to browse the classic Dilbert comic strips, complete with AI-powered transcriptions.
+A modern web application for browsing the complete collection of Dilbert comic strips (1989-2023) with AI-powered transcriptions for accessibility and searchability.
 
-## Features
+## ✨ Features
 
-- **Comic Browser**: View Dilbert comics by date.
-- **Navigation**: Easily navigate to the previous or next day's comic.
-- **Random Comic**: Jump to a random comic for a surprise laugh.
-- **Transcripts**: View AI-generated transcripts for each comic.
-- **AI Transcription**: Scripts to automatically transcribe comics using Gemini.
+- **📅 Date Navigation**: Browse comics by specific date with an intuitive date picker
+- **🎲 Random Comic**: Discover comics with the random comic feature
+- **⬅️➡️ Sequential Browse**: Navigate seamlessly between previous and next comics  
+- **📝 AI Transcriptions**: Access AI-generated text transcriptions of comic content
+- **💾 Smart Caching**: Automatic local storage of recently viewed comics
+- **📱 Responsive Design**: Optimized viewing experience across all devices
+- **⚡ Fast Loading**: Static deployment ready with efficient asset management
 
-## Tech Stack
+## 🗂️ Collection
 
-- **Frontend**: SvelteKit, Svelte 5
-- **Build Tool**: Vite
-- **Transcription**: Node.js, Google Gemini
+The app includes the complete Dilbert comic archive:
+- **Start Date**: April 16, 1989 (first Dilbert comic)
+- **End Date**: March 12, 2023 (final comic)
+- **Total Years**: 34 years of comics
+- **Format**: High-quality GIF images with corresponding transcriptions
 
-## Project Structure
+## 🛠️ Tech Stack
 
-```
-/
-├── source-data/            # Original comic strip image files
-│   └── dilbert-comics/
-├── static/
-│   ├── dilbert-comics/     # Processed/optimized comic images (if any)
-│   └── dilbert-transcripts/ # JSON transcripts for each comic
-├── src/                    # SvelteKit application source
-│   ├── lib/                # Utility functions and clients
-│   └── routes/             # Application pages
-├── transcribe-comics.js    # Transcription script using OpenRouter
-├── transcribe-comics-gemini.js # Transcription script using Google's Gemini API
-├── package.json            # Project dependencies and scripts
-└── svelte.config.js        # SvelteKit configuration
-```
+- **Framework**: SvelteKit with Svelte 5
+- **Build Tool**: Vite 7
+- **Styling**: Custom CSS with modern font stack
+- **AI Integration**: Google Generative AI for transcriptions
+- **Icons**: Lucide Svelte icons
+- **Deployment**: Vercel-ready with adapter-auto
 
-## Setup and Installation
+## 🚀 Getting Started
 
-1.  **Clone the repository:**
-    ```bash
-    git clone <repository-url>
-    cd vs-dilbert
-    ```
+### Prerequisites
+- Node.js 18+ 
+- npm or pnpm
 
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Set up environment variables:**
-
-    Create a `.env` file in the root of the project and add your API key for transcription:
-
-    ```
-    GEMINI_API_KEY="your_google_gemini_api_key"
-    ```
-    or
-    ```
-    OPENROUTER_API_KEY="your_openrouter_api_key"
-    ```
-
-## Usage
-
-### Running the Web Application
-
-To start the development server:
+### Installation
 
 ```bash
+# Clone the repository
+git clone [repository-url]
+cd VS-Dilbert-One
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
 ```
 
-This will start the application on `http://localhost:5173`.
-
 ### Building for Production
 
-To create a production version of the app:
-
 ```bash
+# Build the application
 npm run build
+
+# Preview the build
+npm run preview
 ```
 
-You can preview the production build with `npm run preview`.
+## 📁 Project Structure
 
-### Transcription Scripts
+```
+src/
+├── lib/
+│   ├── browserLoader.js     # Client-side comic loading
+│   ├── comicsClient.js      # Comic data management  
+│   ├── comicsUtils.js       # Utility functions
+│   └── DatePicker.svelte    # Date selection component
+├── routes/
+│   ├── +layout.svelte       # App layout
+│   └── +page.svelte         # Main comic viewer
+static/
+├── dilbert-comics/          # Comic image archive (1989-2023)
+└── dilbert-transcripts/     # AI-generated transcriptions
+```
 
-The project includes two scripts to generate comic transcriptions. The comics are located in `source-data/dilbert-comics` and the transcripts will be saved in `static/dilbert-transcripts`.
+## 🎨 Key Components
 
-**1. Using Google Gemini API (`transcribe-comics-gemini.js`)**
+- **Main Viewer**: Full-featured comic display with navigation controls
+- **Date Picker**: Calendar-based comic selection
+- **Transcript Display**: Toggle-able AI transcriptions for accessibility
+- **Smart Navigation**: Automatic handling of weekends and missing comics
 
-This script uses the official Google Gemini API for transcription.
+## 🔧 Scripts
 
-**Usage:**
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run transcribe` - Generate comic transcriptions (if available)
+- `npm run transcribe:gemini` - Generate transcriptions using Gemini AI
 
--   Transcribe a single year:
-    ```bash
-    node transcribe-comics-gemini.js 2008
-    ```
--   Transcribe a range of years:
-    ```bash
-    node transcribe-comics-gemini.js 2008 2010
-    ```
+## 📄 License
 
-**2. Using OpenRouter (`transcribe-comics.js`)**
-
-This script uses OpenRouter to access various models, including Gemini.
-
-**Usage:**
-
--   Transcribe a single year:
-    ```bash
-    node transcribe-comics.js 1999
-    ```
--   Transcribe a range of years:
-    ```bash
-    node transcribe-comics.js 1999 2005
-    ```
+This project is for educational and archival purposes. Dilbert comics are the property of their respective copyright holders.
