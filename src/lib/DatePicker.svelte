@@ -460,7 +460,7 @@
   .days-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 4px;
+    gap: 2px;
   }
 
   .day {
@@ -506,7 +506,7 @@
     display: flex;
     gap: 12px;
     justify-content: space-between;
-    margin-top: 0px;
+    margin-top: 4px;
     padding-top: 16px;
   }
 
