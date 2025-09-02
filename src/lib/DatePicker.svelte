@@ -336,6 +336,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: 2px;
     margin-bottom: 16px;
   }
 
