@@ -369,7 +369,7 @@
     transition: all 0.2s ease;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
     width: 42px;
-    height: 28px;
+    height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
