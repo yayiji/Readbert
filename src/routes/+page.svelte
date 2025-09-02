@@ -367,7 +367,7 @@
 
   .header {
     margin-top: 5px;
-    margin-bottom: 15px;
+    margin-bottom: 18px;
     text-align: center;
     padding: 10px 0;
     max-width: var(--max-width);
