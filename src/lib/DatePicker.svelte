@@ -281,6 +281,10 @@
     align-items: center;
     justify-content: center;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
+    color: var(--main-color, #333);
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 0;
   }
   
   @media (hover: hover) and (pointer: fine) {
