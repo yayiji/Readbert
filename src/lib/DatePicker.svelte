@@ -1,4 +1,6 @@
 <script>
+  import { Calendar, CalendarDays } from '@lucide/svelte';
+  
   let {
     value = $bindable(""),
     min = "1989-04-16",
@@ -113,6 +115,7 @@
     aria-label="Select date"
   >
     {formatDisplayDate(value)}
+    <CalendarDays class="calendar-icon" size={15} />
   </button>
 
   {#if isOpen}
@@ -230,12 +233,29 @@
     transition: all 0.2s ease;
     text-align: center;
     min-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+  }
+
+  .date-input :global(.calendar-icon) {
+    flex-shrink: 0;
+    opacity: 0.8;
+    transition: opacity 0.2s ease;
+    transform: translateY(-0.5px);
+    width: 15px;
+    height: 15px;
   }
 
   /* Hover feedback only for hover-capable devices */
   @media (hover: hover) and (pointer: fine) {
     .date-input:hover {
       background-color: var(--bg-light, #f8f6f0);
+    }
+    
+    .date-input:hover :global(.calendar-icon) {
+      opacity: 1;
     }
   }
 
@@ -453,6 +473,11 @@
     }
     .date-input {
       font-size: 12px;
+    }
+    
+    .date-input :global(.calendar-icon) {
+      width: 14px;
+      height: 14px;
     }
     
     .calendar-actions {
