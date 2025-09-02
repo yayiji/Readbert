@@ -346,8 +346,8 @@
     cursor: pointer;
     font-size: 16px;
     transition: all 0.2s ease;
-    width: 40px;
-    height: 40px;
+    width: 45px;
+    height: 35px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -361,7 +361,7 @@
   @media (hover: hover) and (pointer: fine) {
     .nav-btn:hover:not(:disabled) {
       background: var(--bg-light, #f8f6f0);
-      border-color: var(--accent-color, #6d5f4d);
+      border-color: var(--border-color, #8b7d6b);
     }
   }
 
