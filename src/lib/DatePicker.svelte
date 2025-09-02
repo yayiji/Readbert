@@ -243,8 +243,11 @@
     min-width: 200px;
   }
   
-  .date-input:hover {
-    background-color: var(--bg-light, #f8f6f0);
+  /* Hover feedback only for hover-capable devices */
+  @media (hover: hover) and (pointer: fine) {
+    .date-input:hover {
+      background-color: var(--bg-light, #f8f6f0);
+    }
   }
   
   .date-input:focus {
@@ -288,9 +291,11 @@
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
   
-  .nav-btn:hover:not(:disabled) {
-    background: var(--bg-light, #f8f6f0);
-    border-color: var(--accent-color, #6d5f4d);
+  @media (hover: hover) and (pointer: fine) {
+    .nav-btn:hover:not(:disabled) {
+      background: var(--bg-light, #f8f6f0);
+      border-color: var(--accent-color, #6d5f4d);
+    }
   }
   
   .nav-btn:disabled {
@@ -332,9 +337,11 @@
     justify-content: center;
   }
   
-  .month-btn:hover {
-    background: var(--bg-light, #f8f6f0);
-    border-color: var(--border-color, #8b7d6b);
+  @media (hover: hover) and (pointer: fine) {
+    .month-btn:hover {
+      background: var(--bg-light, #f8f6f0);
+      border-color: var(--border-color, #8b7d6b);
+    }
   }
   
   .month-btn.selected {
@@ -393,9 +400,11 @@
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
   
-  .day:hover:not(.disabled):not(.empty) {
-    background: var(--bg-light, #f8f6f0);
-    border-color: var(--border-color, #8b7d6b);
+  @media (hover: hover) and (pointer: fine) {
+    .day:hover:not(.disabled):not(.empty) {
+      background: var(--bg-light, #f8f6f0);
+      border-color: var(--border-color, #8b7d6b);
+    }
   }
   
   .day.selected {

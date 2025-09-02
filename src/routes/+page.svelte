@@ -438,9 +438,12 @@
     min-width: 80px;
   }
 
-  .nav-btn:hover:not(:disabled) {
-    background-color: var(--border-color);
-    color: var(--bg-light);
+  /* Apply hover styles only on hover-capable devices */
+  @media (hover: hover) and (pointer: fine) {
+    .nav-btn:hover:not(:disabled) {
+      background-color: var(--border-color);
+      color: var(--bg-light);
+    }
   }
 
   .nav-btn:disabled {
@@ -455,8 +458,10 @@
     color: var(--bg-light);
   }
 
-  .nav-btn.random:hover:not(:disabled) {
-    background-color: var(--accent-color);
+  @media (hover: hover) and (pointer: fine) {
+    .nav-btn.random:hover:not(:disabled) {
+      background-color: var(--accent-color);
+    }
   }
 
   .transcript-container {
