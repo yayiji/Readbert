@@ -76,9 +76,13 @@
   }
 
   function isSelectedDate(year, month, day) {
-    if (!value && !tempValue) return false;
     const dateStr = `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
-    return value === dateStr || tempValue === dateStr;
+    // If we have a temporary selection, only show that one
+    if (tempValue) {
+      return tempValue === dateStr;
+    }
+    // Otherwise, show the confirmed value
+    return value === dateStr;
   }
 
   function selectDate(day) {
@@ -498,7 +502,7 @@
     display: flex;
     gap: 12px;
     justify-content: space-between;
-    margin-top: 16px;
+    margin-top: 0px;
     padding-top: 16px;
   }
 
