@@ -366,8 +366,9 @@
   }
 
   .header {
+    margin-top: 5px;
+    margin-bottom: 15px;
     text-align: center;
-    margin-bottom: 30px;
     padding: 10px 0;
     max-width: var(--max-width);
     margin-left: auto;
@@ -378,7 +379,7 @@
     font-size: 32px;
     font-weight: bold;
     color: var(--main-color);
-    margin: 0 0 10px 0;
+    margin: 0 0 0px 0;
     letter-spacing: 2px;
     text-transform: uppercase;
   }
@@ -545,6 +546,7 @@
   @media (max-width: 600px) {
     .header {
       margin-top: 20px;
+      margin-bottom: 25px;
     }
     .container {
       padding: 12px;
