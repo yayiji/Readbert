@@ -8,6 +8,7 @@
   let isOpen = $state(false);
   let currentYear = $state(new Date().getFullYear());
   let currentMonth = $state(new Date().getMonth());
+  let tempValue = $state(""); // Store temporary selection before confirmation
 
   // Parse min/max dates
   const minDate = new Date(min + "T00:00:00");
@@ -75,9 +76,9 @@
   }
 
   function isSelectedDate(year, month, day) {
-    if (!value) return false;
+    if (!value && !tempValue) return false;
     const dateStr = `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
-    return value === dateStr;
+    return value === dateStr || tempValue === dateStr;
   }
 
   function selectDate(day) {
@@ -88,7 +89,19 @@
     const dayStr = day.toString().padStart(2, "0");
     const dateString = `${year}-${month}-${dayStr}`;
 
-    value = dateString;
+    tempValue = dateString; // Store temporarily instead of immediately setting value
+  }
+
+  function confirmSelection() {
+    if (tempValue) {
+      value = tempValue;
+    }
+    isOpen = false;
+    tempValue = "";
+  }
+
+  function cancelSelection() {
+    tempValue = "";
     isOpen = false;
   }
 
@@ -125,6 +138,7 @@
   }
 
   function closePicker() {
+    tempValue = ""; // Clear temporary selection when closing
     isOpen = false;
   }
 
@@ -239,6 +253,24 @@
             </button>
           {/each}
         </div>
+      </div>
+
+      <div class="calendar-actions">
+        <button 
+          class="action-btn cancel-btn" 
+          onclick={cancelSelection}
+          type="button"
+        >
+          Cancel
+        </button>
+        <button 
+          class="action-btn confirm-btn" 
+          onclick={confirmSelection}
+          type="button"
+          disabled={!tempValue}
+        >
+          Confirm
+        </button>
       </div>
     </div>
   {/if}
@@ -462,6 +494,58 @@
     cursor: default;
   }
 
+  .calendar-actions {
+    display: flex;
+    gap: 12px;
+    justify-content: space-between;
+    margin-top: 16px;
+    padding-top: 16px;
+  }
+
+  .action-btn {
+    background: transparent;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    min-width: 80px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .cancel-btn {
+    color: var(--main-color, #333);
+  }
+
+  .confirm-btn {
+    color: var(--accent-color, #6d5f4d);
+    font-weight: bold;
+  }
+
+  .confirm-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    color: #ccc;
+    font-weight: normal;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .action-btn:hover:not(:disabled) {
+      background: var(--bg-light, #f8f6f0);
+    }
+    
+    .cancel-btn:hover {
+      background: var(--bg-light, #f8f6f0);
+    }
+  }
+
   @media (max-width: 600px) {
     .calendar-popup {
       position: fixed;
@@ -474,6 +558,17 @@
     }
     .date-input {
       font-size: 12px;
+    }
+    
+    .calendar-actions {
+      gap: 8px;
+    }
+    
+    .action-btn {
+      font-size: 11px;
+      padding: 6px 12px;
+      min-width: 70px;
+      height: 32px;
     }
   }
 </style>
