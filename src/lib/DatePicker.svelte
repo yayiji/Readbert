@@ -14,6 +14,8 @@
   const minDate = new Date(min + "T00:00:00");
   const maxDate = new Date(max + "T23:59:59");
 
+  const monthAbbrevs = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+
   // Initialize with current value or today's date (within range)
   $effect(() => {
     if (value) {
@@ -22,142 +24,82 @@
       currentMonth = parseInt(parts[1]) - 1;
     } else {
       const today = new Date();
-      if (today >= minDate && today <= maxDate) {
-        currentYear = today.getFullYear();
-        currentMonth = today.getMonth();
-      } else {
-        currentYear = minDate.getFullYear();
-        currentMonth = minDate.getMonth();
-      }
+      const targetDate = today >= minDate && today <= maxDate ? today : minDate;
+      currentYear = targetDate.getFullYear();
+      currentMonth = targetDate.getMonth();
     }
   });
 
-  const monthNames = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
-  ];
-
-  const monthAbbrevs = [
-    "JAN",
-    "FEB",
-    "MAR",
-    "APR",
-    "MAY",
-    "JUN",
-    "JUL",
-    "AUG",
-    "SEP",
-    "OCT",
-    "NOV",
-    "DEC",
-  ];
-
-  function getDaysInMonth(year, month) {
-    return new Date(year, month + 1, 0).getDate();
-  }
-
-  function getFirstDayOfMonth(year, month) {
-    return new Date(year, month, 1).getDay();
-  }
+  // Utility functions
+  const getDaysInMonth = (year, month) => new Date(year, month + 1, 0).getDate();
+  const getFirstDayOfMonth = (year, month) => new Date(year, month, 1).getDay();
+  const formatDateString = (year, month, day) => `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
 
   function isDateInRange(year, month, day) {
-    const dateStr = `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
+    const dateStr = formatDateString(year, month, day);
     return dateStr >= min && dateStr <= max;
   }
 
   function isSelectedDate(year, month, day) {
-    const dateStr = `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
-    // If we have a temporary selection, only show that one
-    if (tempValue) {
-      return tempValue === dateStr;
-    }
-    // Otherwise, show the confirmed value
-    return value === dateStr;
+    const dateStr = formatDateString(year, month, day);
+    return tempValue ? tempValue === dateStr : value === dateStr;
   }
 
   function selectDate(day) {
     if (!isDateInRange(currentYear, currentMonth, day)) return;
-
-    const year = currentYear.toString();
-    const month = (currentMonth + 1).toString().padStart(2, "0");
-    const dayStr = day.toString().padStart(2, "0");
-    const dateString = `${year}-${month}-${dayStr}`;
-
-    tempValue = dateString; // Store temporarily instead of immediately setting value
+    tempValue = formatDateString(currentYear, currentMonth, day);
   }
 
   function confirmSelection() {
-    if (tempValue) {
-      value = tempValue;
-    }
-    isOpen = false;
-    tempValue = "";
+    if (tempValue) value = tempValue;
+    closePicker();
   }
 
   function cancelSelection() {
+    closePicker();
+  }
+
+  function clearTempSelection() {
     tempValue = "";
-    isOpen = false;
   }
 
   function previousMonth() {
     currentYear--;
-    tempValue = ""; // Clear temporary selection when year changes
+    clearTempSelection();
   }
 
   function nextMonth() {
     currentYear++;
-    tempValue = ""; // Clear temporary selection when year changes
+    clearTempSelection();
   }
 
-  function canGoToPreviousMonth() {
-    const minYear = minDate.getFullYear();
-    return currentYear > minYear;
+  function selectMonth(monthIndex) {
+    currentMonth = monthIndex;
+    clearTempSelection();
   }
 
-  function canGoToNextMonth() {
-    const maxYear = maxDate.getFullYear();
-    return currentYear < maxYear;
-  }
+  const canGoToPreviousMonth = () => currentYear > minDate.getFullYear();
+  const canGoToNextMonth = () => currentYear < maxDate.getFullYear();
 
   function formatDisplayDate(dateString) {
-    if (!dateString) return "Select Date";
-    const date = new Date(dateString);
-    return date.toLocaleDateString("en-US", {
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    });
+    return dateString ? new Date(dateString).toLocaleDateString("en-US", {
+      year: "numeric", month: "long", day: "numeric"
+    }) : "Select Date";
   }
 
-  function togglePicker() {
-    isOpen = !isOpen;
-  }
+  const togglePicker = () => isOpen = !isOpen;
 
   function closePicker() {
-    tempValue = ""; // Clear temporary selection when closing
+    tempValue = "";
     isOpen = false;
   }
 
   function handleOutsideClick(event) {
-    if (!event.target.closest(".date-picker")) {
-      closePicker();
-    }
+    if (!event.target.closest(".date-picker")) closePicker();
   }
 
   function handleKeydown(event) {
-    if (event.key === "Escape" && isOpen) {
-      closePicker();
-    }
+    if (event.key === "Escape" && isOpen) closePicker();
   }
 </script>
 
@@ -198,36 +140,20 @@
       </div>
 
       <div class="month-selection">
-        <div class="month-row">
-          {#each Array(6) as _, index}
-            <button
-              class="month-btn"
-              class:selected={index === currentMonth}
-              onclick={(e) => {
-                currentMonth = index;
-                tempValue = ""; // Clear temporary selection when month changes
-                e.target.blur();
-              }}
-            >
-              {monthAbbrevs[index]}
-            </button>
-          {/each}
-        </div>
-        <div class="month-row">
-          {#each Array(6) as _, index}
-            <button
-              class="month-btn"
-              class:selected={index + 6 === currentMonth}
-              onclick={(e) => {
-                currentMonth = index + 6;
-                tempValue = ""; // Clear temporary selection when month changes
-                e.target.blur();
-              }}
-            >
-              {monthAbbrevs[index + 6]}
-            </button>
-          {/each}
-        </div>
+        {#each [0, 1] as rowIndex}
+          <div class="month-row">
+            {#each Array(6) as _, colIndex}
+              {@const monthIndex = rowIndex * 6 + colIndex}
+              <button
+                class="month-btn"
+                class:selected={monthIndex === currentMonth}
+                onclick={() => selectMonth(monthIndex)}
+              >
+                {monthAbbrevs[monthIndex]}
+              </button>
+            {/each}
+          </div>
+        {/each}
       </div>
 
       <div class="calendar-grid">
@@ -340,38 +266,35 @@
     margin-bottom: 16px;
   }
 
+  /* Common button styles */
+  .nav-btn, .month-btn, .day, .action-btn {
+    background: transparent;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: var(--font-mono, "Courier New", "Courier", monospace);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
   .nav-btn {
     background: var(--bg-white, #fff);
     border: none;
     padding: 4px 8px;
-    cursor: pointer;
     font-size: 16px;
-    transition: all 0.2s ease;
     width: 45px;
     height: 35px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: var(--font-mono, "Courier New", "Courier", monospace);
     color: var(--main-color, #333);
     -webkit-appearance: none;
     appearance: none;
     border-radius: 0;
   }
 
-  @media (hover: hover) and (pointer: fine) {
-    .nav-btn:hover:not(:disabled) {
-      background: var(--bg-light, #f8f6f0);
-      border-color: var(--border-color, #8b7d6b);
-    }
-  }
-
   .nav-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-  }
-
-  .month-selection {
+  }  .month-selection {
     margin-bottom: 10px;
     padding-bottom: 30px;
     position: relative;
@@ -400,28 +323,13 @@
   }
 
   .month-btn {
-    background: transparent;
-    border: 1px solid transparent;
     padding: 0;
-    cursor: pointer;
     font-size: 13px;
     font-weight: 600;
     color: var(--main-color, #333);
-    transition: all 0.2s ease;
-    font-family: var(--font-mono, "Courier New", "Courier", monospace);
     width: 42px;
     height: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     letter-spacing: 1px;
-  }
-
-  @media (hover: hover) and (pointer: fine) {
-    .month-btn:hover {
-      background: var(--bg-light, #f8f6f0);
-      border-color: var(--border-color, #8b7d6b);
-    }
   }
 
   .month-btn.selected {
@@ -467,24 +375,9 @@
   .day {
     width: 40px;
     height: 40px;
-    border: 1px solid transparent;
-    background: transparent;
-    cursor: pointer;
     font-size: 13px;
     font-weight: normal;
     color: var(--main-color, #333);
-    transition: all 0.2s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: var(--font-mono, "Courier New", "Courier", monospace);
-  }
-
-  @media (hover: hover) and (pointer: fine) {
-    .day:hover:not(.disabled):not(.empty) {
-      background: var(--bg-light, #f8f6f0);
-      border-color: var(--border-color, #8b7d6b);
-    }
   }
 
   .day.selected {
@@ -512,21 +405,13 @@
   }
 
   .action-btn {
-    background: transparent;
-    border: none;
     padding: 8px 16px;
-    cursor: pointer;
     font-size: 12px;
     font-weight: 600;
-    font-family: var(--font-mono, "Courier New", "Courier", monospace);
     letter-spacing: 0.5px;
     text-transform: uppercase;
-    transition: all 0.2s ease;
     min-width: 80px;
     height: 36px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
 
   .cancel-btn {
@@ -545,13 +430,14 @@
     font-weight: normal;
   }
 
+  /* Hover styles */
   @media (hover: hover) and (pointer: fine) {
+    .nav-btn:hover:not(:disabled),
+    .month-btn:hover,
+    .day:hover:not(.disabled):not(.empty),
     .action-btn:hover:not(:disabled) {
       background: var(--bg-light, #f8f6f0);
-    }
-    
-    .cancel-btn:hover {
-      background: var(--bg-light, #f8f6f0);
+      border-color: var(--border-color, #8b7d6b);
     }
   }
 
