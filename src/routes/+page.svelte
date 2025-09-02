@@ -402,9 +402,9 @@
   .navigation {
     display: flex;
     justify-content: center;
-    gap: 15px;
-    margin-bottom: 20px;
-    padding: 10px;
+    gap: 12px;
+    margin-bottom: 15px;
+    padding: 5px;
   }
 
   .comic-container {
@@ -563,7 +563,6 @@
 
     .navigation {
       gap: 8px;
-      padding: 5px;
       flex-wrap: wrap;
     }
 
