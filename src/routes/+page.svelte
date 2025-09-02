@@ -20,7 +20,11 @@
   // Watch for selectedDate changes and load the comic
   let previousSelectedDate = "";
   $effect(() => {
-    if (selectedDate && selectedDate !== previousSelectedDate && selectedDate !== currentComic?.date) {
+    if (
+      selectedDate &&
+      selectedDate !== previousSelectedDate &&
+      selectedDate !== currentComic?.date
+    ) {
       previousSelectedDate = selectedDate;
       if (isValidComicDateRange(selectedDate)) {
         loadComic(selectedDate);
@@ -123,12 +127,12 @@
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
-    
+
     // Set the selected date to the current comic date
     if (comic?.date) {
       selectedDate = comic.date;
     }
-    
+
     saveComicToStorage(comic, prevComic, nextComicData);
   }
 
@@ -291,11 +295,7 @@
         </button>
       </div>
 
-      <DatePicker 
-        bind:value={selectedDate}
-        min="1989-04-16"
-        max="2023-03-12"
-      />
+      <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
 
       <div class="comic-container">
         <img
@@ -367,7 +367,7 @@
 
   .header {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     padding: 10px 0;
     max-width: var(--max-width);
     margin-left: auto;
@@ -543,6 +543,9 @@
   /* Date Picker Styles */
 
   @media (max-width: 600px) {
+    .header {
+      margin-top: 20px;
+    }
     .container {
       padding: 12px;
     }
