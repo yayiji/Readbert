@@ -466,7 +466,7 @@
   }
 
   .transcript-container {
-    margin: 20px auto 0;
+    margin: 5px auto 0;
     max-width: 600px;
     width: 100%;
     padding: 0 20px;
@@ -577,7 +577,6 @@
     }
 
     .transcript-container {
-      margin: 15px auto 0;
       max-width: calc(100% - 20px);
       padding: 0 10px;
     }
