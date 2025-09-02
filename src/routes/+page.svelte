@@ -403,7 +403,7 @@
     display: flex;
     justify-content: center;
     gap: 12px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     padding: 5px;
   }
 
