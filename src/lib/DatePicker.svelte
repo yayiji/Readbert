@@ -65,18 +65,10 @@
   
   function previousMonth() {
     currentYear--;
-    // Remove focus to clear mobile button highlight
-    if (typeof document !== 'undefined') {
-      document.activeElement?.blur();
-    }
   }
   
   function nextMonth() {
     currentYear++;
-    // Remove focus to clear mobile button highlight
-    if (typeof document !== 'undefined') {
-      document.activeElement?.blur();
-    }
   }
   
   function canGoToPreviousMonth() {
@@ -250,7 +242,7 @@
     }
   }
   
-  .date-input:focus {
+  .date-input:focus-visible {
     outline: none;
     background-color: var(--bg-light, #f8f6f0);
   }
