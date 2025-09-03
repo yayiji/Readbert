@@ -394,28 +394,12 @@
     display: flex;
     justify-content: center;
     gap: 12px;
-    margin-bottom: 25px;
+    margin-bottom: 27px;
     padding: 0px;
   }
 
-  .comic-container {
-    display: inline-block;
-    background-color: var(--bg-white);
-    padding: 15px;
-    border: 2px solid #d4c5a9;
-    box-shadow: var(--shadow);
-    margin-top: 3px;
-  }
-
-  .comic-image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    border: 1px solid #ccc;
-  }
-
   .nav-btn {
-    padding: 10px 16px;
+    padding: 9px 14px;
     background-color: var(--bg-light);
     border: 2px solid var(--border-color);
     font-family: var(--font-serif);
@@ -427,7 +411,7 @@
     transition: all 0.2s ease;
     color: #3a3a3a;
     white-space: nowrap;
-    min-width: 80px;
+    min-width: 74px;
   }
 
   /* Apply hover styles only on hover-capable devices */
@@ -454,6 +438,22 @@
     .nav-btn.random:hover:not(:disabled) {
       background-color: var(--accent-color);
     }
+  }
+
+  .comic-container {
+    display: inline-block;
+    background-color: var(--bg-white);
+    padding: 15px;
+    border: 2px solid #d4c5a9;
+    box-shadow: var(--shadow);
+    margin-top: 3px;
+  }
+
+  .comic-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid #ccc;
   }
 
   .transcript-container {
@@ -525,8 +525,8 @@
       font-size: 14px;
     }
 
-
     .navigation {
+      margin-bottom: 25px;
       gap: 8px;
       flex-wrap: wrap;
     }
