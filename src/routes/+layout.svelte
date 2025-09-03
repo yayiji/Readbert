@@ -1,11 +1,5 @@
 <script>
 	let { children } = $props();
-	
-	let showSearch = $state(false);
-	
-	function toggleSearch() {
-		showSearch = !showSearch;
-	}
 </script>
 
 <nav class="navbar">
@@ -15,32 +9,14 @@
 		</div>
 		
 		<div class="nav-right">
-			<button class="search-btn" onclick={toggleSearch} aria-label="Search">
+			<a href="/search" class="search-btn" aria-label="Search">
 				<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 					<circle cx="11" cy="11" r="8"></circle>
 					<path d="m21 21-4.35-4.35"></path>
 				</svg>
-			</button>
+			</a>
 		</div>
 	</div>
-	
-	{#if showSearch}
-		<div class="search-overlay">
-			<div class="search-container">
-				<input 
-					type="text" 
-					placeholder="Search Dilbert comics..." 
-					class="search-input"
-				/>
-				<button class="close-search" onclick={toggleSearch} aria-label="Close search">
-					<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-						<line x1="18" y1="6" x2="6" y2="18"></line>
-						<line x1="6" y1="6" x2="18" y2="18"></line>
-					</svg>
-				</button>
-			</div>
-		</div>
-	{/if}
 </nav>
 
 <main>
@@ -58,7 +34,7 @@
 
 <style>
 	:global(:root) {
-		--main-color: #333;
+		--main-color: #000;
 		--accent-color: #6d5f4d;
 		--border-color: #8b7d6b;
 		--bg-light: #f8f6f0;
@@ -73,8 +49,8 @@
 		background: var(--bg-light);
 		color: var(--main-color);
 		z-index: 100;
-		border-bottom: 0.1px solid var(--border-color);
-		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+		border-bottom: 0.1px solid rgba(139, 125, 107, 0.3);
+		box-shadow: 0 0px 0.3px rgba(0, 0, 0, 0.1);
 	}
 	
 	.nav-container {
@@ -82,7 +58,7 @@
 		justify-content: space-between;
 		align-items: center;
 		padding: 1.8rem 1.5rem;
-		max-width: 1200px;
+		max-width: 1000px;
 		margin: 0 auto;
 		height: 50px;
 	}
@@ -90,7 +66,7 @@
 	.nav-title {
 		font-size: 1.2rem;
 		font-weight: bold;
-		color: var(--accent-color);
+		color: #000;
 		text-decoration: none;
 		letter-spacing: 0.1em;
 		transition: opacity 0.2s ease;
@@ -113,69 +89,10 @@
 		align-items: center;
 		justify-content: center;
 		background-color: transparent;
+		text-decoration: none;
 	}
 	
 	.search-btn:hover {
-		background-color: var(--border-color);
-		color: var(--bg-light);
-	}
-	
-	.search-overlay {
-		position: fixed;
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		background: rgba(0, 0, 0, 0.6);
-		display: flex;
-		align-items: flex-start;
-		justify-content: center;
-		padding-top: 4rem;
-		z-index: 1000;
-	}
-	
-	.search-container {
-		background: var(--bg-white);
-		border: 2px solid var(--border-color);
-		border-radius: 0.25rem;
-		padding: 1rem;
-		width: 90%;
-		max-width: 600px;
-		display: flex;
-		align-items: center;
-		gap: 1rem;
-		box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-	}
-	
-	.search-input {
-		flex: 1;
-		border: none;
-		outline: none;
-		font-size: 1.1rem;
-		padding: 0.5rem;
-		background: transparent;
-		color: var(--main-color);
-	}
-	
-	.search-input::placeholder {
-		color: var(--border-color);
-	}
-	
-	.close-search {
-		background: none;
-		border: 2px solid var(--border-color);
-		cursor: pointer;
-		padding: 0.4rem;
-		border-radius: 0.25rem;
-		color: var(--main-color);
-		transition: all 0.2s ease;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		background-color: var(--bg-light);
-	}
-	
-	.close-search:hover {
 		background-color: var(--border-color);
 		color: var(--bg-light);
 	}
@@ -187,7 +104,7 @@
 
 	.footer {
 		margin-top: auto;
-		padding: 200px 0 20px 0;
+		padding: 250px 0 20px 0;
 		text-align: center;
 	}
 
@@ -214,23 +131,14 @@
 	}
 	
 	/* Responsive design */
-	@media (max-width: 768px) {
+	@media (max-width: 600px) {
 		.nav-container {
-			padding: 0.5rem 1rem;
+			padding: 1.5rem 1rem;
 			height: 45px;
 		}
 		
 		.nav-title {
 			font-size: 1.1rem;
-		}
-		
-		.search-container {
-			margin: 0 1rem;
-			padding: 0.8rem;
-		}
-		
-		.search-input {
-			font-size: 1rem;
 		}
 
 		.footer {
