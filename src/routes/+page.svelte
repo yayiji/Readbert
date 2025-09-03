@@ -347,7 +347,7 @@
 
     width: 100%;
     margin: 0;
-    padding: 20px;
+    padding: 0px 20px;
     font-family: var(--font-serif);
     background-color: #f5f4f0;
     min-height: 100vh;
@@ -357,10 +357,10 @@
   }
 
   .header {
-    margin-top: 5px;
-    margin-bottom: 18px;
+    margin-top: 40px;
+    margin-bottom: 42px;
     text-align: center;
-    padding: 10px 0;
+    padding: 0px;
     max-width: var(--max-width);
     margin-left: auto;
     margin-right: auto;
@@ -394,8 +394,8 @@
     display: flex;
     justify-content: center;
     gap: 12px;
-    margin-bottom: 20px;
-    padding: 5px;
+    margin-bottom: 25px;
+    padding: 0px;
   }
 
   .comic-container {
@@ -507,12 +507,13 @@
   /* Date Picker Styles */
 
   @media (max-width: 600px) {
-    .header {
-      margin-top: 20px;
-      margin-bottom: 25px;
-    }
     .container {
-      padding: 12px;
+      padding: 0px 12px;
+    }
+
+    .header {
+      margin-top: 25px;
+      margin-bottom: 32px;
     }
 
     .title {
@@ -523,6 +524,7 @@
     .subtitle {
       font-size: 14px;
     }
+
 
     .navigation {
       gap: 8px;
