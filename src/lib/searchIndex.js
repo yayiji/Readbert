@@ -26,7 +26,66 @@ class SearchIndex {
 	async _buildIndex() {
 		if (this.isLoaded) return;
 
-		console.log('Building search index...');
+		console.log('Loading search index...');
+		const startTime = Date.now();
+
+		// Try to load pregenerated index first
+		const pregenerated = await this._loadPregeneratedIndex();
+		if (pregenerated) {
+			this._loadFromPregenerated(pregenerated);
+			const duration = Date.now() - startTime;
+			console.log(`✅ Search index loaded from pregenerated file in ${duration}ms`);
+			console.log(`📊 ${this.comics.size} comics, ${this.index.size} words indexed`);
+			this.isLoaded = true;
+			return;
+		}
+
+		// Fallback: build index from scratch
+		console.log('⚠️ Pregenerated index not found, building from transcripts...');
+		await this._buildFromTranscripts();
+	}
+
+	/**
+	 * Try to load pregenerated search index
+	 */
+	async _loadPregeneratedIndex() {
+		try {
+			const response = await fetch('/search-index.min.json');
+			if (!response.ok) {
+				console.log('Pregenerated index file not found, will build from transcripts');
+				return null;
+			}
+			
+			const data = await response.json();
+			console.log(`Found pregenerated index (v${data.version}) from ${data.generatedAt}`);
+			return data;
+		} catch (error) {
+			console.warn('Failed to load pregenerated index:', error);
+			return null;
+		}
+	}
+
+	/**
+	 * Load index from pregenerated data
+	 */
+	_loadFromPregenerated(data) {
+		// Load word index: Object<word, Array<dates>> -> Map<word, Set<dates>>
+		this.index.clear();
+		for (const [word, dates] of Object.entries(data.wordIndex)) {
+			this.index.set(word, new Set(dates));
+		}
+
+		// Load comics: Object<date, comic> -> Map<date, comic>
+		this.comics.clear();
+		for (const [date, comic] of Object.entries(data.comics)) {
+			this.comics.set(date, comic);
+		}
+	}
+
+	/**
+	 * Fallback: build index from transcript files (original method)
+	 */
+	async _buildFromTranscripts() {
 		const startTime = Date.now();
 
 		// Years from 1989 to 2023
@@ -51,7 +110,7 @@ class SearchIndex {
 
 		this.isLoaded = true;
 		const duration = Date.now() - startTime;
-		console.log(`Search index built: ${loadedComics}/${totalComics} comics indexed in ${duration}ms`);
+		console.log(`🔨 Search index built from transcripts: ${loadedComics}/${totalComics} comics indexed in ${duration}ms`);
 	}
 
 	/**
