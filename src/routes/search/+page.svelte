@@ -1,5 +1,133 @@
 <script>
-	// Clean search page - search logic to be implemented
+	import { onMount } from 'svelte';
+	import { goto } from '$app/navigation';
+	import { page } from '$app/stores';
+	import { searchIndex, highlightText } from '$lib/searchIndex.js';
+
+	// State variables
+	let searchQuery = $state('');
+	let searchResults = $state([]);
+	let isSearching = $state(false);
+	let isIndexLoading = $state(false);
+	let indexLoaded = $state(false);
+	let searchInput;
+	let searchStats = $state({ totalComics: 0, totalWords: 0 });
+
+	// Initialize the search index and handle URL parameters
+	onMount(async () => {
+		// Start loading the search index
+		isIndexLoading = true;
+		try {
+			await searchIndex.load();
+			indexLoaded = true;
+			searchStats = searchIndex.getStats();
+			
+			// Check for search query in URL
+			const urlQuery = $page.url.searchParams.get('q');
+			if (urlQuery) {
+				searchQuery = urlQuery;
+				await performSearch(urlQuery);
+			}
+		} catch (error) {
+			console.error('Failed to load search index:', error);
+		} finally {
+			isIndexLoading = false;
+		}
+
+		// Focus the search input
+		if (searchInput) {
+			searchInput.focus();
+		}
+	});
+
+	// Update URL when search is performed
+	$effect(() => {
+		if (searchQuery && searchResults.length > 0) {
+			const url = new URL(window.location);
+			url.searchParams.set('q', searchQuery);
+			goto(url.toString(), { replaceState: true, noScroll: true });
+		}
+	});
+
+	/**
+	 * Perform search using the search index
+	 */
+	async function performSearch(query) {
+		if (!query.trim()) {
+			searchResults = [];
+			return;
+		}
+
+		if (!indexLoaded) {
+			console.warn('Search index not loaded yet');
+			return;
+		}
+
+		isSearching = true;
+		
+		try {
+			// Use the search index to find matching comics
+			const results = searchIndex.search(query, 20);
+			searchResults = results;
+		} catch (error) {
+			console.error('Search error:', error);
+			searchResults = [];
+		} finally {
+			isSearching = false;
+			
+			// Restore focus to search input
+			setTimeout(() => {
+				if (searchInput) {
+					searchInput.focus();
+				}
+			}, 0);
+		}
+	}
+
+	/**
+	 * Handle search form submission
+	 */
+	function handleSearchSubmit(event) {
+		event.preventDefault();
+		if (searchQuery.trim() && indexLoaded) {
+			performSearch(searchQuery);
+		}
+	}
+
+	/**
+	 * Handle search input changes
+	 */
+	function handleSearchInput(event) {
+		searchQuery = event.target.value;
+	}
+
+	/**
+	 * Navigate to a specific comic
+	 */
+	function goToComic(date) {
+		goto(`/?date=${date}`);
+	}
+
+	/**
+	 * Format date for display
+	 */
+	function formatDate(dateStr) {
+		const date = new Date(dateStr);
+		return date.toLocaleDateString('en-US', {
+			weekday: 'long',
+			year: 'numeric',
+			month: 'long',
+			day: 'numeric'
+		});
+	}
+
+	/**
+	 * Get the comic image URL
+	 */
+	function getComicImageUrl(date) {
+		const year = date.split('-')[0];
+		return `/dilbert-comics/${year}/${date}.gif`;
+	}
 </script>
 
 <svelte:head>
@@ -10,8 +138,115 @@
 <div class="search-page">
 	<div class="search-header">
 		<h1 class="page-title">Search Dilbert Comics</h1>
-		<p class="page-subtitle">Search functionality coming soon...</p>
+		{#if isIndexLoading}
+			<p class="page-subtitle">Loading search index...</p>
+		{:else if indexLoaded}
+			<p class="page-subtitle">
+				Search through {searchStats.totalComics.toLocaleString()} comics by dialogue and text
+			</p>
+		{:else}
+			<p class="page-subtitle">Search functionality unavailable</p>
+		{/if}
 	</div>
+
+	<form class="search-form" onsubmit={handleSearchSubmit}>
+		<div class="search-input-container">
+			<input
+				bind:this={searchInput}
+				type="text"
+				placeholder={indexLoaded ? "Search for text in comics..." : "Loading search index..."}
+				class="search-input"
+				value={searchQuery}
+				oninput={handleSearchInput}
+				disabled={!indexLoaded}
+			/>
+			<button 
+				type="submit" 
+				class="search-submit-btn" 
+				disabled={isSearching || !indexLoaded || !searchQuery.trim()}
+			>
+				{#if isSearching}
+					<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="spinner">
+						<path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+					</svg>
+					Searching...
+				{:else}
+					<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+						<path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+					</svg>
+					Search
+				{/if}
+			</button>
+		</div>
+	</form>
+
+	{#if isIndexLoading}
+		<div class="loading">
+			<div class="loading-spinner"></div>
+			<p>Building search index... This may take a moment.</p>
+		</div>
+	{:else if isSearching}
+		<div class="loading">
+			<div class="loading-spinner"></div>
+			<p>Searching comics...</p>
+		</div>
+	{:else if searchQuery && searchResults.length === 0 && indexLoaded}
+		<div class="no-results">
+			<p>No comics found for "{searchQuery}"</p>
+			<p class="no-results-help">
+				Try different keywords or check your spelling. 
+				<br>
+				<small>Searching through {searchStats.totalComics.toLocaleString()} comics from 1989-2023</small>
+			</p>
+		</div>
+	{:else if searchResults.length > 0}
+		<div class="search-results">
+			<div class="results-header">
+				<p class="results-count">
+					Found {searchResults.length} comic{searchResults.length !== 1 ? 's' : ''} 
+					matching "{searchQuery}"
+				</p>
+			</div>
+			
+			<div class="results-grid">
+				{#each searchResults as result}
+					<div class="result-card">
+						<button class="result-image-btn" onclick={() => goToComic(result.date)}>
+							<img 
+								src={getComicImageUrl(result.date)} 
+								alt={`Dilbert comic from ${formatDate(result.date)}`} 
+								loading="lazy" 
+							/>
+						</button>
+						<div class="result-content">
+							<h3 class="result-title">
+								<button onclick={() => goToComic(result.date)} class="title-link">
+									{formatDate(result.date)}
+								</button>
+							</h3>
+							<div class="result-transcript">
+								{#each result.comic.panels as panel, panelIndex}
+									<div class="panel">
+										<span class="panel-label">Panel {panel.panel}:</span>
+										{#each panel.dialogue as dialogue, dialogueIndex}
+											{@const hasMatch = result.matches.some(m => m.panelIndex === panelIndex && m.dialogueIndex === dialogueIndex)}
+											<div class="dialogue-line" class:highlighted={hasMatch}>
+												{#if hasMatch}
+													{@html highlightText(dialogue, searchQuery)}
+												{:else}
+													{dialogue}
+												{/if}
+											</div>
+										{/each}
+									</div>
+								{/each}
+							</div>
+						</div>
+					</div>
+				{/each}
+			</div>
+		</div>
+	{/if}
 </div>
 
 <style>
@@ -41,6 +276,227 @@
 		margin: 0;
 	}
 
+	/* Search Form */
+	.search-form {
+		margin-bottom: 2rem;
+	}
+
+	.search-input-container {
+		display: flex;
+		max-width: 600px;
+		margin: 0 auto;
+		border: 2px solid var(--border-color, #8b7d6b);
+		border-radius: 0.25rem;
+		background: var(--bg-white, #fff);
+		overflow: hidden;
+	}
+
+	.search-input {
+		flex: 1;
+		border: none;
+		outline: none;
+		padding: 1rem;
+		font-size: 1.1rem;
+		background: transparent;
+		color: var(--main-color, #333);
+	}
+
+	.search-input:disabled {
+		background: var(--bg-light, #f8f6f0);
+		color: var(--border-color, #8b7d6b);
+	}
+
+	.search-input::placeholder {
+		color: var(--border-color, #8b7d6b);
+	}
+
+	.search-submit-btn {
+		background: var(--accent-color, #6d5f4d);
+		border: none;
+		color: var(--bg-white, #fff);
+		padding: 1rem;
+		cursor: pointer;
+		transition: background-color 0.2s ease;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 0.5rem;
+		white-space: nowrap;
+		min-width: 120px;
+	}
+
+	.search-submit-btn:hover:not(:disabled) {
+		background: var(--border-color, #8b7d6b);
+	}
+
+	.search-submit-btn:disabled {
+		opacity: 0.6;
+		cursor: not-allowed;
+	}
+
+	.spinner {
+		animation: spin 1s linear infinite;
+	}
+
+	@keyframes spin {
+		from { transform: rotate(0deg); }
+		to { transform: rotate(360deg); }
+	}
+
+	/* Loading States */
+	.loading {
+		text-align: center;
+		padding: 3rem 2rem;
+		color: var(--border-color, #8b7d6b);
+	}
+
+	.loading-spinner {
+		width: 40px;
+		height: 40px;
+		border: 3px solid var(--bg-light, #f8f6f0);
+		border-top: 3px solid var(--accent-color, #6d5f4d);
+		border-radius: 50%;
+		animation: spin 1s linear infinite;
+		margin: 0 auto 1rem;
+	}
+
+	/* No Results */
+	.no-results {
+		text-align: center;
+		padding: 3rem 2rem;
+	}
+
+	.no-results p {
+		color: var(--main-color, #333);
+		margin: 0 0 0.5rem 0;
+		font-size: 1.1rem;
+	}
+
+	.no-results-help {
+		color: var(--border-color, #8b7d6b);
+		font-size: 0.9rem;
+	}
+
+	/* Search Results */
+	.search-results {
+		margin-top: 2rem;
+	}
+
+	.results-header {
+		margin-bottom: 1.5rem;
+		text-align: center;
+	}
+
+	.results-count {
+		color: var(--accent-color, #6d5f4d);
+		font-weight: bold;
+		margin: 0;
+		font-size: 1.1rem;
+	}
+
+	.results-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+		gap: 2rem;
+	}
+
+	.result-card {
+		background: var(--bg-white, #fff);
+		border: 2px solid var(--border-color, #8b7d6b);
+		border-radius: 0.5rem;
+		overflow: hidden;
+		transition: all 0.2s ease;
+	}
+
+	.result-card:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	}
+
+	/* Comic Image */
+	.result-image-btn {
+		width: 100%;
+		border: none;
+		background: none;
+		padding: 0;
+		cursor: pointer;
+		display: block;
+	}
+
+	.result-image-btn img {
+		width: 100%;
+		height: 200px;
+		object-fit: contain;
+		background: white;
+		display: block;
+	}
+
+	/* Result Content */
+	.result-content {
+		padding: 1.5rem;
+	}
+
+	.result-title {
+		margin: 0 0 1rem 0;
+	}
+
+	.title-link {
+		background: none;
+		border: none;
+		color: var(--accent-color, #6d5f4d);
+		font-size: 1.2rem;
+		font-weight: bold;
+		cursor: pointer;
+		text-decoration: underline;
+		padding: 0;
+	}
+
+	.title-link:hover {
+		color: var(--main-color, #333);
+	}
+
+	/* Transcript Display */
+	.result-transcript {
+		font-size: 0.9rem;
+		line-height: 1.5;
+	}
+
+	.panel {
+		margin-bottom: 1rem;
+	}
+
+	.panel-label {
+		font-weight: bold;
+		color: var(--accent-color, #6d5f4d);
+		display: block;
+		margin-bottom: 0.5rem;
+		font-size: 0.8rem;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+
+	.dialogue-line {
+		margin-bottom: 0.3rem;
+		padding: 0.3rem 0.5rem;
+		border-radius: 0.25rem;
+		color: var(--main-color, #333);
+	}
+
+	.dialogue-line.highlighted {
+		background: var(--bg-light, #f8f6f0);
+		border-left: 3px solid var(--accent-color, #6d5f4d);
+		padding-left: 0.7rem;
+	}
+
+	/* Text highlighting */
+	:global(.dialogue-line mark) {
+		background: #ffeb3b;
+		color: #000;
+		padding: 0.1em 0.2em;
+		border-radius: 0.2em;
+		font-weight: bold;
+	}
+
 	/* Responsive design */
 	@media (max-width: 768px) {
 		.search-page {
@@ -53,6 +509,39 @@
 
 		.page-subtitle {
 			font-size: 1rem;
+		}
+
+		.search-input {
+			padding: 0.8rem;
+			font-size: 1rem;
+		}
+
+		.search-submit-btn {
+			padding: 0.8rem;
+			min-width: 100px;
+		}
+
+		.results-grid {
+			grid-template-columns: 1fr;
+			gap: 1.5rem;
+		}
+
+		.result-content {
+			padding: 1rem;
+		}
+
+		.result-image-btn img {
+			height: 150px;
+		}
+	}
+
+	@media (max-width: 480px) {
+		.search-input-container {
+			flex-direction: column;
+		}
+
+		.search-submit-btn {
+			border-radius: 0;
 		}
 	}
 </style>
