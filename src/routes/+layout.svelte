@@ -49,8 +49,8 @@
 		background: var(--bg-light);
 		color: var(--main-color);
 		z-index: 100;
-		border-bottom: 0.1px solid rgba(139, 125, 107, 0.3);
-		box-shadow: 0 0px 0.3px rgba(0, 0, 0, 0.1);
+		border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
+		box-shadow: 0 0px 0.1px rgba(0, 0, 0, 0.1);
 	}
 	
 	.nav-container {
