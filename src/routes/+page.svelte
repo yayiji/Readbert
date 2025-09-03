@@ -542,7 +542,7 @@
     }
 
     .transcript-container {
-      margin: 10px auto 0;
+      margin: 5px auto 0;
       max-width: calc(100% - 20px);
       padding: 0 10px;
     }
