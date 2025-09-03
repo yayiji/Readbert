@@ -283,7 +283,7 @@
           disabled={isLoading}
           onclick={getRandomComic}
         >
-          {isLoading ? "LOADING..." : "⚀ RANDOM"}
+          {isLoading ? "LOADING..." : "RANDOM"}
         </button>
 
         <button
