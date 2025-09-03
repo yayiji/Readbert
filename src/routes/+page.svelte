@@ -325,15 +325,6 @@
       {/if}
     </section>
   {/if}
-
-  <footer class="footer">
-    <div class="footer-content">
-      <p class="copyright">Dilbert © Scott Adams</p>
-      <p class="footer-note">
-        All comics are displayed for educational and archival purposes
-      </p>
-    </div>
-  </footer>
 </main>
 
 <style>
@@ -513,34 +504,6 @@
     margin-top: 0;
   }
 
-  .footer {
-    margin-top: auto;
-    padding: 200px 0 20px 0;
-    text-align: center;
-  }
-
-  .footer-content {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 0 20px;
-  }
-
-  .copyright {
-    font-size: 14px;
-    font-weight: bold;
-    color: var(--accent-color);
-    margin: 0 0 8px 0;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-
-  .footer-note {
-    font-size: 12px;
-    color: var(--border-color);
-    margin: 0;
-    font-style: italic;
-  }
-
   /* Date Picker Styles */
 
   @media (max-width: 600px) {
@@ -584,18 +547,6 @@
     .dialogue-line {
       font-size: 14px;
       margin: 2px 0;
-    }
-
-    .footer {
-      padding: 100px 0 20px 0;
-    }
-
-    .copyright {
-      font-size: 13px;
-    }
-
-    .footer-note {
-      font-size: 11px;
     }
   }
 </style>
