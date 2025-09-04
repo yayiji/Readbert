@@ -1,0 +1,6 @@
+{
+  "files.readonlyInclude": {
+    "static/**/*": true,
+    "svelte5-llms.txt": true
+  }
+}

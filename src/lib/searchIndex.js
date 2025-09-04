@@ -14,7 +14,7 @@ class SearchIndex {
   }
 
   /**
-   * Load and build the search index from all transcript files
+   * Load the search index
    */
   async load() {
     if (this.loadPromise) {
