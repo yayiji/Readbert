@@ -4,501 +4,524 @@
  */
 
 class SearchIndex {
-	constructor() {
-		this.index = new Map(); // word -> Set of comic dates
-		this.comics = new Map(); // date -> comic data
-		this.isLoaded = false;
-		this.loadPromise = null;
-		this.cacheKey = 'dilbert-search-index';
-		this.metaCacheKey = 'dilbert-search-index-meta';
-	}
+  constructor() {
+    this.index = new Map(); // word -> Set of comic dates
+    this.comics = new Map(); // date -> comic data
+    this.isLoaded = false;
+    this.loadPromise = null;
+    this.cacheKey = "dilbert-search-index";
+    this.metaCacheKey = "dilbert-search-index-meta";
+  }
 
-	/**
-	 * Load and build the search index from all transcript files
-	 */
-	async load() {
-		if (this.loadPromise) {
-			return this.loadPromise;
-		}
+  /**
+   * Load and build the search index from all transcript files
+   */
+  async load() {
+    if (this.loadPromise) {
+      return this.loadPromise;
+    }
 
-		this.loadPromise = this._buildIndex();
-		return this.loadPromise;
-	}
+    this.loadPromise = this._buildIndex();
+    return this.loadPromise;
+  }
 
-	async _buildIndex() {
-		if (this.isLoaded) return;
+  async _buildIndex() {
+    if (this.isLoaded) return;
 
-		console.log('Loading search index...');
-		const startTime = Date.now();
+    console.log("Loading search index...");
+    const startTime = Date.now();
 
-		// Load pregenerated index
-		const pregenerated = await this._loadPregeneratedIndex();
-		if (pregenerated) {
-			this._loadFromPregenerated(pregenerated);
-			const duration = Date.now() - startTime;
-			console.log(`✅ Search index loaded in ${duration}ms`);
-			console.log(`📊 ${this.comics.size} comics, ${this.index.size} words indexed`);
-			this.isLoaded = true;
-			return;
-		}
+    // Load pregenerated index
+    const pregenerated = await this._loadPregeneratedIndex();
+    if (pregenerated) {
+      this._loadFromPregenerated(pregenerated);
+      const duration = Date.now() - startTime;
+      console.log(`✅ Search index loaded in ${duration}ms`);
+      console.log(
+        `📊 ${this.comics.size} comics, ${this.index.size} words indexed`
+      );
+      this.isLoaded = true;
+      return;
+    }
 
-		// No pregenerated index available
-		throw new Error('Search index not available. Please generate the search index first.');
-	}
+    // No pregenerated index available
+    throw new Error(
+      "Search index not available. Please generate the search index first."
+    );
+  }
 
-	/**
-	 * Try to load pregenerated search index with smart caching
-	 */
-	async _loadPregeneratedIndex() {
-		try {
-			// First, check if we have a cached version
-			const cachedData = await this._loadFromCache();
-			if (cachedData) {
-				console.log(`✅ Loaded search index from cache (v${cachedData.version})`);
-				return cachedData;
-			}
+  /**
+   * Try to load pregenerated search index with smart caching
+   */
+  async _loadPregeneratedIndex() {
+    try {
+      // First, check if we have a cached version
+      const cachedData = await this._loadFromCache();
+      if (cachedData) {
+        console.log(
+          `✅ Loaded search index from cache (v${cachedData.version})`
+        );
+        return cachedData;
+      }
 
-			// No cache or cache is stale, fetch from server
-			console.log('📥 Fetching search index from server...');
-			const response = await fetch('/search-index.min.json');
-			if (!response.ok) {
-				console.log('Pregenerated index file not found, will build from transcripts');
-				return null;
-			}
-			
-			const data = await response.json();
-			console.log(`📦 Downloaded search index (v${data.version}) from ${data.generatedAt}`);
-			
-			// Cache the new data
-			await this._saveToCache(data);
-			
-			return data;
-		} catch (error) {
-			console.warn('Failed to load pregenerated index:', error);
-			// Try to load from cache even if server fetch failed
-			const cachedData = await this._loadFromCache(true);
-			if (cachedData) {
-				console.log('⚠️ Using stale cached index due to server error');
-				return cachedData;
-			}
-			// No fallback available
-			throw new Error('Search index unavailable and no cached version found');
-		}
-	}
+      // No cache or cache is stale, fetch from server
+      console.log("📥 Fetching search index from server...");
+      const response = await fetch("/search-index.min.json");
+      if (!response.ok) {
+        console.log(
+          "Pregenerated index file not found, will build from transcripts"
+        );
+        return null;
+      }
 
-	/**
-	 * Load search index from browser cache (IndexedDB)
-	 */
-	async _loadFromCache(ignoreVersion = false) {
-		try {
-			if (!this._isIndexedDBSupported()) {
-				return null;
-			}
+      const data = await response.json();
+      console.log(
+        `📦 Downloaded search index (v${data.version}) from ${data.generatedAt}`
+      );
 
-			// Check cache metadata first
-			const cachedMeta = localStorage.getItem(this.metaCacheKey);
-			if (!cachedMeta) {
-				return null;
-			}
+      // Cache the new data
+      await this._saveToCache(data);
 
-			const meta = JSON.parse(cachedMeta);
-			
-			// Check if cache is still valid (unless ignoring version check)
-			if (!ignoreVersion) {
-				const isValid = await this._isCacheValid(meta);
-				if (!isValid) {
-					console.log('🔄 Cache is outdated, will fetch from server');
-					return null;
-				}
-			}
+      return data;
+    } catch (error) {
+      console.warn("Failed to load pregenerated index:", error);
+      // Try to load from cache even if server fetch failed
+      const cachedData = await this._loadFromCache(true);
+      if (cachedData) {
+        console.log("⚠️ Using stale cached index due to server error");
+        return cachedData;
+      }
+      // No fallback available
+      throw new Error("Search index unavailable and no cached version found");
+    }
+  }
 
-			// Load the actual data from IndexedDB
-			const cachedData = await this._getFromIndexedDB();
-			if (cachedData) {
-				console.log(`💾 Found cached index: ${meta.totalComics} comics, ${meta.totalWords} words`);
-				return cachedData;
-			}
+  /**
+   * Load search index from browser cache (IndexedDB)
+   */
+  async _loadFromCache(ignoreVersion = false) {
+    try {
+      if (!this._isIndexedDBSupported()) {
+        return null;
+      }
 
-			return null;
-		} catch (error) {
-			console.warn('Error loading from cache:', error);
-			return null;
-		}
-	}
+      // Check cache metadata first
+      const cachedMeta = localStorage.getItem(this.metaCacheKey);
+      if (!cachedMeta) {
+        return null;
+      }
 
-	/**
-	 * Save search index to browser cache
-	 */
-	async _saveToCache(data) {
-		try {
-			if (!this._isIndexedDBSupported()) {
-				console.log('IndexedDB not supported, skipping cache');
-				return;
-			}
+      const meta = JSON.parse(cachedMeta);
 
-			// Save metadata to localStorage for quick access
-			const meta = {
-				version: data.version,
-				generatedAt: data.generatedAt,
-				totalComics: data.stats.totalComics,
-				totalWords: data.stats.totalWords,
-				cachedAt: new Date().toISOString()
-			};
-			localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
+      // Check if cache is still valid (unless ignoring version check)
+      if (!ignoreVersion) {
+        const isValid = await this._isCacheValid(meta);
+        if (!isValid) {
+          console.log("🔄 Cache is outdated, will fetch from server");
+          return null;
+        }
+      }
 
-			// Save full data to IndexedDB
-			await this._saveToIndexedDB(data);
-			
-			console.log(`💾 Search index cached successfully (${(JSON.stringify(data).length / 1024 / 1024).toFixed(2)} MB)`);
-		} catch (error) {
-			console.warn('Failed to cache search index:', error);
-		}
-	}
+      // Load the actual data from IndexedDB
+      const cachedData = await this._getFromIndexedDB();
+      if (cachedData) {
+        console.log(
+          `💾 Found cached index: ${meta.totalComics} comics, ${meta.totalWords} words`
+        );
+        return cachedData;
+      }
 
-	/**
-	 * Check if cached version is still valid
-	 */
-	async _isCacheValid(meta) {
-		try {
-			// Check server for metadata without downloading full index
-			const response = await fetch('/search-index.min.json', { 
-				method: 'HEAD'
-			});
-			
-			if (!response.ok) {
-				// Server error, use cache if available
-				return true;
-			}
+      return null;
+    } catch (error) {
+      console.warn("Error loading from cache:", error);
+      return null;
+    }
+  }
 
-			// Check Last-Modified header
-			const lastModified = response.headers.get('Last-Modified');
-			if (lastModified) {
-				const serverTime = new Date(lastModified);
-				const cacheTime = new Date(meta.cachedAt);
-				return serverTime <= cacheTime;
-			}
+  /**
+   * Save search index to browser cache
+   */
+  async _saveToCache(data) {
+    try {
+      if (!this._isIndexedDBSupported()) {
+        console.log("IndexedDB not supported, skipping cache");
+        return;
+      }
 
-			// Fallback: cache is valid for 24 hours
-			const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
-			const maxAge = 24 * 60 * 60 * 1000; // 24 hours
-			return cacheAge < maxAge;
-			
-		} catch (error) {
-			// Network error, assume cache is valid
-			return true;
-		}
-	}
+      // Save metadata to localStorage for quick access
+      const meta = {
+        version: data.version,
+        generatedAt: data.generatedAt,
+        totalComics: data.stats.totalComics,
+        totalWords: data.stats.totalWords,
+        cachedAt: new Date().toISOString(),
+      };
+      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
 
-	/**
-	 * Check if IndexedDB is supported
-	 */
-	_isIndexedDBSupported() {
-		return typeof window !== 'undefined' && 
-			   'indexedDB' in window && 
-			   indexedDB !== null;
-	}
+      // Save full data to IndexedDB
+      await this._saveToIndexedDB(data);
 
-	/**
-	 * Save data to IndexedDB
-	 */
-	async _saveToIndexedDB(data) {
-		return new Promise((resolve, reject) => {
-			const request = indexedDB.open('DilbertSearchDB', 1);
-			
-			request.onerror = () => reject(request.error);
-			
-			request.onsuccess = () => {
-				const db = request.result;
-				const transaction = db.transaction(['searchIndex'], 'readwrite');
-				const store = transaction.objectStore('searchIndex');
-				
-				const putRequest = store.put(data, this.cacheKey);
-				putRequest.onsuccess = () => resolve();
-				putRequest.onerror = () => reject(putRequest.error);
-			};
-			
-			request.onupgradeneeded = () => {
-				const db = request.result;
-				if (!db.objectStoreNames.contains('searchIndex')) {
-					db.createObjectStore('searchIndex');
-				}
-			};
-		});
-	}
+      console.log(
+        `💾 Search index cached successfully (${(
+          JSON.stringify(data).length /
+          1024 /
+          1024
+        ).toFixed(2)} MB)`
+      );
+    } catch (error) {
+      console.warn("Failed to cache search index:", error);
+    }
+  }
 
-	/**
-	 * Get data from IndexedDB
-	 */
-	async _getFromIndexedDB() {
-		return new Promise((resolve, reject) => {
-			const request = indexedDB.open('DilbertSearchDB', 1);
-			
-			request.onerror = () => reject(request.error);
-			
-			request.onsuccess = () => {
-				const db = request.result;
-				const transaction = db.transaction(['searchIndex'], 'readonly');
-				const store = transaction.objectStore('searchIndex');
-				
-				const getRequest = store.get(this.cacheKey);
-				getRequest.onsuccess = () => resolve(getRequest.result);
-				getRequest.onerror = () => reject(getRequest.error);
-			};
-			
-			request.onupgradeneeded = () => {
-				const db = request.result;
-				if (!db.objectStoreNames.contains('searchIndex')) {
-					db.createObjectStore('searchIndex');
-				}
-			};
-		});
-	}
+  /**
+   * Check if cached version is still valid
+   */
+  async _isCacheValid(meta) {
+    try {
+      // Check server for metadata without downloading full index
+      const response = await fetch("/search-index.min.json", {
+        method: "HEAD",
+      });
 
-	/**
-	 * Clear cached search index (for debugging or manual refresh)
-	 */
-	async clearCache() {
-		try {
-			// Clear localStorage metadata
-			localStorage.removeItem(this.metaCacheKey);
-			
-			// Clear IndexedDB data
-			if (this._isIndexedDBSupported()) {
-				await this._clearIndexedDB();
-			}
-			
-			console.log('🗑️ Search index cache cleared');
-		} catch (error) {
-			console.warn('Error clearing cache:', error);
-		}
-	}
+      if (!response.ok) {
+        // Server error, use cache if available
+        return true;
+      }
 
-	/**
-	 * Clear IndexedDB data
-	 */
-	async _clearIndexedDB() {
-		return new Promise((resolve, reject) => {
-			const request = indexedDB.open('DilbertSearchDB', 1);
-			
-			request.onsuccess = () => {
-				const db = request.result;
-				const transaction = db.transaction(['searchIndex'], 'readwrite');
-				const store = transaction.objectStore('searchIndex');
-				
-				const deleteRequest = store.delete(this.cacheKey);
-				deleteRequest.onsuccess = () => resolve();
-				deleteRequest.onerror = () => reject(deleteRequest.error);
-			};
-			
-			request.onerror = () => reject(request.error);
-		});
-	}
+      // Check Last-Modified header
+      const lastModified = response.headers.get("Last-Modified");
+      if (lastModified) {
+        const serverTime = new Date(lastModified);
+        const cacheTime = new Date(meta.cachedAt);
+        return serverTime <= cacheTime;
+      }
 
-	/**
-	 * Load index from pregenerated data
-	 */
-	_loadFromPregenerated(data) {
-		// Load word index: Object<word, Array<dates>> -> Map<word, Set<dates>>
-		this.index.clear();
-		for (const [word, dates] of Object.entries(data.wordIndex)) {
-			this.index.set(word, new Set(dates));
-		}
+      // Fallback: cache is valid for 24 hours
+      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
+      const maxAge = 24 * 60 * 60 * 1000; // 24 hours
+      return cacheAge < maxAge;
+    } catch (error) {
+      // Network error, assume cache is valid
+      return true;
+    }
+  }
 
-		// Load comics: Object<date, comic> -> Map<date, comic>
-		this.comics.clear();
-		for (const [date, comic] of Object.entries(data.comics)) {
-			this.comics.set(date, comic);
-		}
-	}
+  /**
+   * Check if IndexedDB is supported
+   */
+  _isIndexedDBSupported() {
+    return (
+      typeof window !== "undefined" &&
+      "indexedDB" in window &&
+      indexedDB !== null
+    );
+  }
 
-	/**
-	 * Extract searchable words from text (used by search functionality)
-	 */
-	_extractWords(text) {
-		// Remove punctuation and split into words
-		return text
-			.replace(/[^\w\s]/g, ' ')
-			.split(/\s+/)
-			.filter(word => word.length > 2) // Skip very short words
-			.map(word => word.toLowerCase());
-	}
+  /**
+   * Save data to IndexedDB
+   */
+  async _saveToIndexedDB(data) {
+    return new Promise((resolve, reject) => {
+      const request = indexedDB.open("DilbertSearchDB", 1);
 
-	/**
-	 * Search for comics containing the query text
-	 */
-	search(query, maxResults = 50) {
-		if (!this.isLoaded) {
-			throw new Error('Search index not loaded. Call load() first.');
-		}
+      request.onerror = () => reject(request.error);
 
-		if (!query || query.trim().length === 0) {
-			return [];
-		}
+      request.onsuccess = () => {
+        const db = request.result;
+        const transaction = db.transaction(["searchIndex"], "readwrite");
+        const store = transaction.objectStore("searchIndex");
 
-		const queryLower = query.toLowerCase();
-		const queryWords = this._extractWords(queryLower);
-		
-		if (queryWords.length === 0) {
-			return [];
-		}
+        const putRequest = store.put(data, this.cacheKey);
+        putRequest.onsuccess = () => resolve();
+        putRequest.onerror = () => reject(putRequest.error);
+      };
 
-		// Find comics that contain any of the query words
-		const candidateComics = new Set();
-		
-		for (const word of queryWords) {
-			const comicsWithWord = this.index.get(word);
-			if (comicsWithWord) {
-				for (const date of comicsWithWord) {
-					candidateComics.add(date);
-				}
-			}
-		}
+      request.onupgradeneeded = () => {
+        const db = request.result;
+        if (!db.objectStoreNames.contains("searchIndex")) {
+          db.createObjectStore("searchIndex");
+        }
+      };
+    });
+  }
 
-		// Score and filter results
-		const results = [];
-		for (const date of candidateComics) {
-			const comic = this.comics.get(date);
-			if (!comic) continue;
+  /**
+   * Get data from IndexedDB
+   */
+  async _getFromIndexedDB() {
+    return new Promise((resolve, reject) => {
+      const request = indexedDB.open("DilbertSearchDB", 1);
 
-			const matches = this._findMatches(comic, queryLower);
-			if (matches.length > 0) {
-				results.push({
-					date,
-					comic,
-					matches,
-					score: this._scoreComic(comic, queryLower, matches)
-				});
-			}
-		}
+      request.onerror = () => reject(request.error);
 
-		// Sort by relevance score and return top results
-		results.sort((a, b) => b.score - a.score);
-		return results.slice(0, maxResults);
-	}
+      request.onsuccess = () => {
+        const db = request.result;
+        const transaction = db.transaction(["searchIndex"], "readonly");
+        const store = transaction.objectStore("searchIndex");
 
-	/**
-	 * Find exact matches in a comic for highlighting
-	 */
-	_findMatches(comic, query) {
-		const matches = [];
-		
-		for (let panelIndex = 0; panelIndex < comic.panels.length; panelIndex++) {
-			const panel = comic.panels[panelIndex];
-			
-			for (let dialogueIndex = 0; dialogueIndex < panel.dialogue.length; dialogueIndex++) {
-				const dialogue = panel.dialogue[dialogueIndex];
-				const dialogueLower = dialogue.toLowerCase();
-				
-				// Find all occurrences of the query in this dialogue
-				let startIndex = 0;
-				while (true) {
-					const index = dialogueLower.indexOf(query, startIndex);
-					if (index === -1) break;
-					
-					matches.push({
-						panelIndex,
-						dialogueIndex,
-						dialogue,
-						matchStart: index,
-						matchEnd: index + query.length,
-						matchText: dialogue.substring(index, index + query.length)
-					});
-					
-					startIndex = index + 1;
-				}
-			}
-		}
-		
-		return matches;
-	}
+        const getRequest = store.get(this.cacheKey);
+        getRequest.onsuccess = () => resolve(getRequest.result);
+        getRequest.onerror = () => reject(getRequest.error);
+      };
 
-	/**
-	 * Score a comic based on relevance to the query
-	 */
-	_scoreComic(comic, query, matches) {
-		let score = 0;
-		
-		// Base score for each match
-		score += matches.length * 10;
-		
-		// Bonus for exact phrase matches
-		const exactMatches = matches.filter(match => 
-			match.dialogue.toLowerCase().includes(query)
-		);
-		score += exactMatches.length * 20;
-		
-		// Bonus for matches in shorter dialogues (more specific)
-		for (const match of matches) {
-			const dialogueLength = match.dialogue.length;
-			if (dialogueLength < 50) score += 15;
-			else if (dialogueLength < 100) score += 10;
-			else score += 5;
-		}
-		
-		return score;
-	}
+      request.onupgradeneeded = () => {
+        const db = request.result;
+        if (!db.objectStoreNames.contains("searchIndex")) {
+          db.createObjectStore("searchIndex");
+        }
+      };
+    });
+  }
 
-	/**
-	 * Get a comic by date
-	 */
-	getComic(date) {
-		return this.comics.get(date);
-	}
+  /**
+   * Clear cached search index (for debugging or manual refresh)
+   */
+  async clearCache() {
+    try {
+      // Clear localStorage metadata
+      localStorage.removeItem(this.metaCacheKey);
 
-	/**
-	 * Check if the index is loaded
-	 */
-	isIndexLoaded() {
-		return this.isLoaded;
-	}
+      // Clear IndexedDB data
+      if (this._isIndexedDBSupported()) {
+        await this._clearIndexedDB();
+      }
 
-	/**
-	 * Get search statistics including cache info
-	 */
-	getStats() {
-		const cacheInfo = this._getCacheInfo();
-		return {
-			totalComics: this.comics.size,
-			totalWords: this.index.size,
-			isLoaded: this.isLoaded,
-			cache: cacheInfo
-		};
-	}
+      console.log("🗑️ Search index cache cleared");
+    } catch (error) {
+      console.warn("Error clearing cache:", error);
+    }
+  }
 
-	/**
-	 * Get cache information
-	 */
-	_getCacheInfo() {
-		try {
-			const cachedMeta = localStorage.getItem(this.metaCacheKey);
-			if (cachedMeta) {
-				const meta = JSON.parse(cachedMeta);
-				return {
-					hasCachedData: true,
-					version: meta.version,
-					cachedAt: meta.cachedAt,
-					generatedAt: meta.generatedAt
-				};
-			}
-		} catch (error) {
-			// Ignore errors
-		}
-		return {
-			hasCachedData: false
-		};
-	}
+  /**
+   * Clear IndexedDB data
+   */
+  async _clearIndexedDB() {
+    return new Promise((resolve, reject) => {
+      const request = indexedDB.open("DilbertSearchDB", 1);
 
-	/**
-	 * Force refresh the search index from server
-	 */
-	async forceRefresh() {
-		await this.clearCache();
-		this.isLoaded = false;
-		this.loadPromise = null;
-		this.index.clear();
-		this.comics.clear();
-		return this.load();
-	}
+      request.onsuccess = () => {
+        const db = request.result;
+        const transaction = db.transaction(["searchIndex"], "readwrite");
+        const store = transaction.objectStore("searchIndex");
+
+        const deleteRequest = store.delete(this.cacheKey);
+        deleteRequest.onsuccess = () => resolve();
+        deleteRequest.onerror = () => reject(deleteRequest.error);
+      };
+
+      request.onerror = () => reject(request.error);
+    });
+  }
+
+  /**
+   * Load index from pregenerated data
+   */
+  _loadFromPregenerated(data) {
+    // Load word index: Object<word, Array<dates>> -> Map<word, Set<dates>>
+    this.index.clear();
+    for (const [word, dates] of Object.entries(data.wordIndex)) {
+      this.index.set(word, new Set(dates));
+    }
+
+    // Load comics: Object<date, comic> -> Map<date, comic>
+    this.comics.clear();
+    for (const [date, comic] of Object.entries(data.comics)) {
+      this.comics.set(date, comic);
+    }
+  }
+
+  /**
+   * Extract searchable words from text (used by search functionality)
+   */
+  _extractWords(text) {
+    // Remove punctuation and split into words
+    return text
+      .replace(/[^\w\s]/g, " ")
+      .split(/\s+/)
+      .filter((word) => word.length > 2) // Skip very short words
+      .map((word) => word.toLowerCase());
+  }
+
+  /**
+   * Search for comics containing the query text
+   */
+  search(query, maxResults = 50) {
+    if (!this.isLoaded) {
+      throw new Error("Search index not loaded. Call load() first.");
+    }
+
+    if (!query || query.trim().length === 0) {
+      return [];
+    }
+
+    const queryLower = query.toLowerCase();
+    const queryWords = this._extractWords(queryLower);
+
+    if (queryWords.length === 0) {
+      return [];
+    }
+
+    // Find comics that contain any of the query words
+    const candidateComics = new Set();
+
+    for (const word of queryWords) {
+      const comicsWithWord = this.index.get(word);
+      if (comicsWithWord) {
+        for (const date of comicsWithWord) {
+          candidateComics.add(date);
+        }
+      }
+    }
+
+    // Score and filter results
+    const results = [];
+    for (const date of candidateComics) {
+      const comic = this.comics.get(date);
+      if (!comic) continue;
+
+      const matches = this._findMatches(comic, queryLower);
+      if (matches.length > 0) {
+        results.push({
+          date,
+          comic,
+          matches,
+          score: this._scoreComic(comic, queryLower, matches),
+        });
+      }
+    }
+
+    // Sort by relevance score and return top results
+    results.sort((a, b) => b.score - a.score);
+    return results.slice(0, maxResults);
+  }
+
+  /**
+   * Find exact matches in a comic for highlighting
+   */
+  _findMatches(comic, query) {
+    const matches = [];
+
+    for (let panelIndex = 0; panelIndex < comic.panels.length; panelIndex++) {
+      const panel = comic.panels[panelIndex];
+
+      for (
+        let dialogueIndex = 0;
+        dialogueIndex < panel.dialogue.length;
+        dialogueIndex++
+      ) {
+        const dialogue = panel.dialogue[dialogueIndex];
+        const dialogueLower = dialogue.toLowerCase();
+
+        // Find all occurrences of the query in this dialogue
+        let startIndex = 0;
+        while (true) {
+          const index = dialogueLower.indexOf(query, startIndex);
+          if (index === -1) break;
+
+          matches.push({
+            panelIndex,
+            dialogueIndex,
+            dialogue,
+            matchStart: index,
+            matchEnd: index + query.length,
+            matchText: dialogue.substring(index, index + query.length),
+          });
+
+          startIndex = index + 1;
+        }
+      }
+    }
+
+    return matches;
+  }
+
+  /**
+   * Score a comic based on relevance to the query
+   */
+  _scoreComic(comic, query, matches) {
+    let score = 0;
+
+    // Base score for each match
+    score += matches.length * 10;
+
+    // Bonus for exact phrase matches
+    const exactMatches = matches.filter((match) =>
+      match.dialogue.toLowerCase().includes(query)
+    );
+    score += exactMatches.length * 20;
+
+    // Bonus for matches in shorter dialogues (more specific)
+    for (const match of matches) {
+      const dialogueLength = match.dialogue.length;
+      if (dialogueLength < 50) score += 15;
+      else if (dialogueLength < 100) score += 10;
+      else score += 5;
+    }
+
+    return score;
+  }
+
+  /**
+   * Get a comic by date
+   */
+  getComic(date) {
+    return this.comics.get(date);
+  }
+
+  /**
+   * Check if the index is loaded
+   */
+  isIndexLoaded() {
+    return this.isLoaded;
+  }
+
+  /**
+   * Get search statistics including cache info
+   */
+  getStats() {
+    const cacheInfo = this._getCacheInfo();
+    return {
+      totalComics: this.comics.size,
+      totalWords: this.index.size,
+      isLoaded: this.isLoaded,
+      cache: cacheInfo,
+    };
+  }
+
+  /**
+   * Get cache information
+   */
+  _getCacheInfo() {
+    try {
+      const cachedMeta = localStorage.getItem(this.metaCacheKey);
+      if (cachedMeta) {
+        const meta = JSON.parse(cachedMeta);
+        return {
+          hasCachedData: true,
+          version: meta.version,
+          cachedAt: meta.cachedAt,
+          generatedAt: meta.generatedAt,
+        };
+      }
+    } catch (error) {
+      // Ignore errors
+    }
+    return {
+      hasCachedData: false,
+    };
+  }
+
+  /**
+   * Force refresh the search index from server
+   */
+  async forceRefresh() {
+    await this.clearCache();
+    this.isLoaded = false;
+    this.loadPromise = null;
+    this.index.clear();
+    this.comics.clear();
+    return this.load();
+  }
 }
 
 // Create and export a singleton instance
@@ -506,34 +529,34 @@ export const searchIndex = new SearchIndex();
 
 // Helper function to highlight matches in text
 export function highlightText(text, query) {
-	if (!query || !text) return text;
-	
-	const queryLower = query.toLowerCase();
-	const textLower = text.toLowerCase();
-	
-	let result = '';
-	let lastIndex = 0;
-	let currentIndex = 0;
-	
-	while (currentIndex < text.length) {
-		const index = textLower.indexOf(queryLower, currentIndex);
-		if (index === -1) {
-			// No more matches, append the rest of the text
-			result += text.substring(lastIndex);
-			break;
-		}
-		
-		// Add text before the match
-		result += text.substring(lastIndex, index);
-		
-		// Add the highlighted match
-		const match = text.substring(index, index + query.length);
-		result += '<mark>' + match + '</mark>';
-		
-		// Update indices
-		lastIndex = index + query.length;
-		currentIndex = index + query.length;
-	}
-	
-	return result;
+  if (!query || !text) return text;
+
+  const queryLower = query.toLowerCase();
+  const textLower = text.toLowerCase();
+
+  let result = "";
+  let lastIndex = 0;
+  let currentIndex = 0;
+
+  while (currentIndex < text.length) {
+    const index = textLower.indexOf(queryLower, currentIndex);
+    if (index === -1) {
+      // No more matches, append the rest of the text
+      result += text.substring(lastIndex);
+      break;
+    }
+
+    // Add text before the match
+    result += text.substring(lastIndex, index);
+
+    // Add the highlighted match
+    const match = text.substring(index, index + query.length);
+    result += "<mark>" + match + "</mark>";
+
+    // Update indices
+    lastIndex = index + query.length;
+    currentIndex = index + query.length;
+  }
+
+  return result;
 }
