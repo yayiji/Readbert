@@ -232,20 +232,23 @@
 			<div class="results-grid">
 				{#each searchResults as result}
 					<div class="result-card">
-						<button class="result-image-btn" onclick={() => goToComic(result.date)}>
-							<img 
-								src={getComicImageUrl(result.date)} 
-								alt={`Dilbert comic from ${formatDate(result.date)}`} 
-								loading="lazy" 
-							/>
-						</button>
-						<div class="result-content">
-							<h3 class="result-title">
-								<button onclick={() => goToComic(result.date)} class="title-link">
-									{formatDate(result.date)}
-								</button>
-							</h3>
-							<div class="result-transcript">
+						<div class="comic-header">
+							<button onclick={() => goToComic(result.date)} class="date-link">
+								{formatDate(result.date)}
+							</button>
+						</div>
+						<div class="comic-container">
+							<button class="result-image-btn" onclick={() => goToComic(result.date)}>
+								<img 
+									src={getComicImageUrl(result.date)} 
+									alt={`Dilbert comic from ${formatDate(result.date)}`} 
+									loading="lazy"
+									class="comic-image"
+								/>
+							</button>
+						</div>
+						<div class="transcript-container">
+							<div class="transcript-content">
 								{#each result.comic.panels as panel, panelIndex}
 									<div class="panel">
 										<span class="panel-label">Panel {panel.panel}:</span>
@@ -271,10 +274,28 @@
 </div>
 
 <style>
+	:global(body) {
+		background-color: #f5f4f0;
+		margin: 0;
+		padding: 0;
+	}
+
 	.search-page {
+		--main-color: #333;
+		--accent-color: #6d5f4d;
+		--border-color: #8b7d6b;
+		--bg-light: #f8f6f0;
+		--bg-white: #fff;
+		--shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+		--font-serif: "Times New Roman", Times, serif;
+		--font-mono: "Courier New", "Courier", monospace;
+
 		max-width: 1200px;
 		margin: 0 auto;
 		padding: 2rem;
+		font-family: var(--font-serif);
+		background-color: #f5f4f0;
+		min-height: 100vh;
 	}
 
 	.search-header {
@@ -285,10 +306,11 @@
 	.page-title {
 		font-size: 2rem;
 		font-weight: bold;
-		color: var(--accent-color, #6d5f4d);
+		color: var(--main-color);
 		margin: 0 0 0.5rem 0;
 		text-transform: uppercase;
-		letter-spacing: 0.1em;
+		letter-spacing: 2px;
+		font-family: var(--font-serif);
 	}
 
 	.page-subtitle {
@@ -458,24 +480,51 @@
 
 	.results-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
 		gap: 2rem;
+		max-width: 1200px;
+		margin: 0 auto;
 	}
 
 	.result-card {
-		background: var(--bg-white, #fff);
-		border: 2px solid var(--border-color, #8b7d6b);
-		border-radius: 0.5rem;
-		overflow: hidden;
-		transition: all 0.2s ease;
+		background: transparent;
+		margin-bottom: 2rem;
+		text-align: center;
 	}
 
-	.result-card:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	/* Comic Header */
+	.comic-header {
+		margin-bottom: 0.5rem;
 	}
 
-	/* Comic Image */
+	.date-link {
+		background: none;
+		border: none;
+		color: var(--accent-color, #6d5f4d);
+		font-size: 1.2rem;
+		font-weight: bold;
+		cursor: pointer;
+		text-decoration: underline;
+		padding: 0;
+		font-family: var(--font-serif, "Times New Roman", Times, serif);
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+
+	.date-link:hover {
+		color: var(--main-color, #333);
+	}
+
+	/* Comic Container - matching main page */
+	.comic-container {
+		display: inline-block;
+		background-color: var(--bg-white, #fff);
+		padding: 15px;
+		border: 2px solid #d4c5a9;
+		box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
+		margin-bottom: 1rem;
+	}
+
 	.result-image-btn {
 		width: 100%;
 		border: none;
@@ -485,69 +534,67 @@
 		display: block;
 	}
 
-	.result-image-btn img {
-		width: 100%;
-		height: 200px;
-		object-fit: contain;
-		background: white;
+	.comic-image {
+		max-width: 100%;
+		height: auto;
 		display: block;
+		border: 1px solid #ccc;
 	}
 
-	/* Result Content */
-	.result-content {
-		padding: 1.5rem;
+	/* Transcript Container - matching main page */
+	.transcript-container {
+		margin: 0 auto;
+		max-width: 550px;
+		width: 100%;
+		box-sizing: border-box;
 	}
 
-	.result-title {
-		margin: 0 0 1rem 0;
-	}
-
-	.title-link {
-		background: none;
-		border: none;
-		color: var(--accent-color, #6d5f4d);
-		font-size: 1.2rem;
-		font-weight: bold;
-		cursor: pointer;
-		text-decoration: underline;
-		padding: 0;
-	}
-
-	.title-link:hover {
-		color: var(--main-color, #333);
-	}
-
-	/* Transcript Display */
-	.result-transcript {
-		font-size: 0.9rem;
-		line-height: 1.5;
+	.transcript-content {
+		background-color: #f5f4f0;
+		border: 1px solid #ddd;
+		font-family: "Courier New", monospace;
+		padding: 10px 16px;
+		text-align: left;
+		border-radius: 0.25rem;
 	}
 
 	.panel {
-		margin-bottom: 1rem;
+		margin-bottom: 0.8rem;
 	}
 
 	.panel-label {
 		font-weight: bold;
 		color: var(--accent-color, #6d5f4d);
 		display: block;
-		margin-bottom: 0.5rem;
+		margin-bottom: 0.3rem;
 		font-size: 0.8rem;
 		text-transform: uppercase;
 		letter-spacing: 0.05em;
+		font-family: var(--font-serif, "Times New Roman", Times, serif);
 	}
 
 	.dialogue-line {
-		margin-bottom: 0.3rem;
-		padding: 0.3rem 0.5rem;
-		border-radius: 0.25rem;
+		margin: 4px 0;
+		font-size: 15px;
 		color: var(--main-color, #333);
+		word-wrap: break-word;
+		line-height: 1.4;
+	}
+
+	.dialogue-line:last-child {
+		margin-bottom: 0;
+	}
+
+	.dialogue-line:first-child {
+		margin-top: 0;
 	}
 
 	.dialogue-line.highlighted {
-		background: var(--bg-light, #f8f6f0);
+		background: rgba(255, 235, 59, 0.3);
+		padding: 0.2em 0.3em;
+		border-radius: 0.2em;
 		border-left: 3px solid var(--accent-color, #6d5f4d);
-		padding-left: 0.7rem;
+		padding-left: 0.5em;
 	}
 
 	/* Text highlighting */
@@ -588,12 +635,17 @@
 			gap: 1.5rem;
 		}
 
-		.result-content {
-			padding: 1rem;
+		.comic-container {
+			padding: 10px;
 		}
 
-		.result-image-btn img {
-			height: 150px;
+		.transcript-container {
+			max-width: calc(100% - 20px);
+		}
+
+		.dialogue-line {
+			font-size: 14px;
+			margin: 2px 0;
 		}
 	}
 
