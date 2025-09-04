@@ -42,15 +42,6 @@
 		}
 	});
 
-	// Update URL when search is performed
-	$effect(() => {
-		if (searchQuery && searchResults.length > 0) {
-			const url = new URL(window.location);
-			url.searchParams.set('q', searchQuery);
-			goto(url.toString(), { replaceState: true, noScroll: true });
-		}
-	});
-
 	/**
 	 * Perform search using the search index
 	 */
@@ -76,13 +67,6 @@
 			searchResults = [];
 		} finally {
 			isSearching = false;
-			
-			// Restore focus to search input
-			setTimeout(() => {
-				if (searchInput) {
-					searchInput.focus();
-				}
-			}, 0);
 		}
 	}
 
@@ -94,13 +78,6 @@
 		if (searchQuery.trim() && indexLoaded) {
 			performSearch(searchQuery);
 		}
-	}
-
-	/**
-	 * Handle search input changes
-	 */
-	function handleSearchInput(event) {
-		searchQuery = event.target.value;
 	}
 
 	/**
@@ -201,7 +178,7 @@
 				placeholder={indexLoaded ? "Search for text in comics..." : "Loading search index..."}
 				class="search-input"
 				value={searchQuery}
-				oninput={handleSearchInput}
+				oninput={(e) => searchQuery = e.target.value}
 				disabled={!indexLoaded}
 			/>
 			<button 
