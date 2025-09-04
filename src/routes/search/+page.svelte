@@ -11,7 +11,8 @@
 	let isIndexLoading = $state(false);
 	let indexLoaded = $state(false);
 	let searchInput;
-	let searchStats = $state({ totalComics: 0, totalWords: 0 });
+	let searchStats = $state({ totalComics: 0, totalWords: 0, cache: { hasCachedData: false } });
+	let isRefreshing = $state(false);
 
 	// Initialize the search index and handle URL parameters
 	onMount(async () => {
@@ -128,6 +129,38 @@
 		const year = date.split('-')[0];
 		return `/dilbert-comics/${year}/${date}.gif`;
 	}
+
+	/**
+	 * Force refresh the search index
+	 */
+	async function refreshIndex() {
+		if (isRefreshing) return;
+		
+		isRefreshing = true;
+		try {
+			await searchIndex.forceRefresh();
+			searchStats = searchIndex.getStats();
+			console.log('Search index refreshed successfully');
+		} catch (error) {
+			console.error('Failed to refresh search index:', error);
+		} finally {
+			isRefreshing = false;
+		}
+	}
+
+	/**
+	 * Format cache date for display
+	 */
+	function formatCacheDate(dateStr) {
+		if (!dateStr) return '';
+		const date = new Date(dateStr);
+		return date.toLocaleDateString('en-US', {
+			month: 'short',
+			day: 'numeric',
+			hour: '2-digit',
+			minute: '2-digit'
+		});
+	}
 </script>
 
 <svelte:head>
@@ -143,6 +176,14 @@
 		{:else if indexLoaded}
 			<p class="page-subtitle">
 				Search through {searchStats.totalComics.toLocaleString()} comics by dialogue and text
+				{#if searchStats.cache.hasCachedData}
+					<br><small class="cache-info">
+						💾 Cached locally • Last updated: {formatCacheDate(searchStats.cache.cachedAt)}
+						<button class="refresh-btn" onclick={refreshIndex} disabled={isRefreshing}>
+							{isRefreshing ? '🔄 Refreshing...' : '🔄 Refresh'}
+						</button>
+					</small>
+				{/if}
 			</p>
 		{:else}
 			<p class="page-subtitle">Search functionality unavailable</p>
@@ -274,6 +315,35 @@
 		font-size: 1.1rem;
 		color: var(--main-color, #333);
 		margin: 0;
+	}
+
+	.cache-info {
+		color: var(--border-color, #8b7d6b);
+		font-size: 0.9rem;
+		display: block;
+		margin-top: 0.5rem;
+	}
+
+	.refresh-btn {
+		background: none;
+		border: 1px solid var(--border-color, #8b7d6b);
+		color: var(--border-color, #8b7d6b);
+		padding: 0.2rem 0.5rem;
+		margin-left: 0.5rem;
+		border-radius: 0.25rem;
+		font-size: 0.8rem;
+		cursor: pointer;
+		transition: all 0.2s ease;
+	}
+
+	.refresh-btn:hover:not(:disabled) {
+		background: var(--border-color, #8b7d6b);
+		color: var(--bg-white, #fff);
+	}
+
+	.refresh-btn:disabled {
+		opacity: 0.6;
+		cursor: not-allowed;
 	}
 
 	/* Search Form */

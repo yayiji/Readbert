@@ -9,6 +9,8 @@ class SearchIndex {
 		this.comics = new Map(); // date -> comic data
 		this.isLoaded = false;
 		this.loadPromise = null;
+		this.cacheKey = 'dilbert-search-index';
+		this.metaCacheKey = 'dilbert-search-index-meta';
 	}
 
 	/**
@@ -46,10 +48,19 @@ class SearchIndex {
 	}
 
 	/**
-	 * Try to load pregenerated search index
+	 * Try to load pregenerated search index with smart caching
 	 */
 	async _loadPregeneratedIndex() {
 		try {
+			// First, check if we have a cached version
+			const cachedData = await this._loadFromCache();
+			if (cachedData) {
+				console.log(`✅ Loaded search index from cache (v${cachedData.version})`);
+				return cachedData;
+			}
+
+			// No cache or cache is stale, fetch from server
+			console.log('📥 Fetching search index from server...');
 			const response = await fetch('/search-index.min.json');
 			if (!response.ok) {
 				console.log('Pregenerated index file not found, will build from transcripts');
@@ -57,12 +68,230 @@ class SearchIndex {
 			}
 			
 			const data = await response.json();
-			console.log(`Found pregenerated index (v${data.version}) from ${data.generatedAt}`);
+			console.log(`📦 Downloaded search index (v${data.version}) from ${data.generatedAt}`);
+			
+			// Cache the new data
+			await this._saveToCache(data);
+			
 			return data;
 		} catch (error) {
 			console.warn('Failed to load pregenerated index:', error);
+			// Try to load from cache even if server fetch failed
+			const cachedData = await this._loadFromCache(true);
+			if (cachedData) {
+				console.log('⚠️ Using stale cached index due to server error');
+				return cachedData;
+			}
 			return null;
 		}
+	}
+
+	/**
+	 * Load search index from browser cache (IndexedDB)
+	 */
+	async _loadFromCache(ignoreVersion = false) {
+		try {
+			if (!this._isIndexedDBSupported()) {
+				return null;
+			}
+
+			// Check cache metadata first
+			const cachedMeta = localStorage.getItem(this.metaCacheKey);
+			if (!cachedMeta) {
+				return null;
+			}
+
+			const meta = JSON.parse(cachedMeta);
+			
+			// Check if cache is still valid (unless ignoring version check)
+			if (!ignoreVersion) {
+				const isValid = await this._isCacheValid(meta);
+				if (!isValid) {
+					console.log('🔄 Cache is outdated, will fetch from server');
+					return null;
+				}
+			}
+
+			// Load the actual data from IndexedDB
+			const cachedData = await this._getFromIndexedDB();
+			if (cachedData) {
+				console.log(`💾 Found cached index: ${meta.totalComics} comics, ${meta.totalWords} words`);
+				return cachedData;
+			}
+
+			return null;
+		} catch (error) {
+			console.warn('Error loading from cache:', error);
+			return null;
+		}
+	}
+
+	/**
+	 * Save search index to browser cache
+	 */
+	async _saveToCache(data) {
+		try {
+			if (!this._isIndexedDBSupported()) {
+				console.log('IndexedDB not supported, skipping cache');
+				return;
+			}
+
+			// Save metadata to localStorage for quick access
+			const meta = {
+				version: data.version,
+				generatedAt: data.generatedAt,
+				totalComics: data.stats.totalComics,
+				totalWords: data.stats.totalWords,
+				cachedAt: new Date().toISOString()
+			};
+			localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
+
+			// Save full data to IndexedDB
+			await this._saveToIndexedDB(data);
+			
+			console.log(`💾 Search index cached successfully (${(JSON.stringify(data).length / 1024 / 1024).toFixed(2)} MB)`);
+		} catch (error) {
+			console.warn('Failed to cache search index:', error);
+		}
+	}
+
+	/**
+	 * Check if cached version is still valid
+	 */
+	async _isCacheValid(meta) {
+		try {
+			// Check server for metadata without downloading full index
+			const response = await fetch('/search-index.min.json', { 
+				method: 'HEAD'
+			});
+			
+			if (!response.ok) {
+				// Server error, use cache if available
+				return true;
+			}
+
+			// Check Last-Modified header
+			const lastModified = response.headers.get('Last-Modified');
+			if (lastModified) {
+				const serverTime = new Date(lastModified);
+				const cacheTime = new Date(meta.cachedAt);
+				return serverTime <= cacheTime;
+			}
+
+			// Fallback: cache is valid for 24 hours
+			const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
+			const maxAge = 24 * 60 * 60 * 1000; // 24 hours
+			return cacheAge < maxAge;
+			
+		} catch (error) {
+			// Network error, assume cache is valid
+			return true;
+		}
+	}
+
+	/**
+	 * Check if IndexedDB is supported
+	 */
+	_isIndexedDBSupported() {
+		return typeof window !== 'undefined' && 
+			   'indexedDB' in window && 
+			   indexedDB !== null;
+	}
+
+	/**
+	 * Save data to IndexedDB
+	 */
+	async _saveToIndexedDB(data) {
+		return new Promise((resolve, reject) => {
+			const request = indexedDB.open('DilbertSearchDB', 1);
+			
+			request.onerror = () => reject(request.error);
+			
+			request.onsuccess = () => {
+				const db = request.result;
+				const transaction = db.transaction(['searchIndex'], 'readwrite');
+				const store = transaction.objectStore('searchIndex');
+				
+				const putRequest = store.put(data, this.cacheKey);
+				putRequest.onsuccess = () => resolve();
+				putRequest.onerror = () => reject(putRequest.error);
+			};
+			
+			request.onupgradeneeded = () => {
+				const db = request.result;
+				if (!db.objectStoreNames.contains('searchIndex')) {
+					db.createObjectStore('searchIndex');
+				}
+			};
+		});
+	}
+
+	/**
+	 * Get data from IndexedDB
+	 */
+	async _getFromIndexedDB() {
+		return new Promise((resolve, reject) => {
+			const request = indexedDB.open('DilbertSearchDB', 1);
+			
+			request.onerror = () => reject(request.error);
+			
+			request.onsuccess = () => {
+				const db = request.result;
+				const transaction = db.transaction(['searchIndex'], 'readonly');
+				const store = transaction.objectStore('searchIndex');
+				
+				const getRequest = store.get(this.cacheKey);
+				getRequest.onsuccess = () => resolve(getRequest.result);
+				getRequest.onerror = () => reject(getRequest.error);
+			};
+			
+			request.onupgradeneeded = () => {
+				const db = request.result;
+				if (!db.objectStoreNames.contains('searchIndex')) {
+					db.createObjectStore('searchIndex');
+				}
+			};
+		});
+	}
+
+	/**
+	 * Clear cached search index (for debugging or manual refresh)
+	 */
+	async clearCache() {
+		try {
+			// Clear localStorage metadata
+			localStorage.removeItem(this.metaCacheKey);
+			
+			// Clear IndexedDB data
+			if (this._isIndexedDBSupported()) {
+				await this._clearIndexedDB();
+			}
+			
+			console.log('🗑️ Search index cache cleared');
+		} catch (error) {
+			console.warn('Error clearing cache:', error);
+		}
+	}
+
+	/**
+	 * Clear IndexedDB data
+	 */
+	async _clearIndexedDB() {
+		return new Promise((resolve, reject) => {
+			const request = indexedDB.open('DilbertSearchDB', 1);
+			
+			request.onsuccess = () => {
+				const db = request.result;
+				const transaction = db.transaction(['searchIndex'], 'readwrite');
+				const store = transaction.objectStore('searchIndex');
+				
+				const deleteRequest = store.delete(this.cacheKey);
+				deleteRequest.onsuccess = () => resolve();
+				deleteRequest.onerror = () => reject(deleteRequest.error);
+			};
+			
+			request.onerror = () => reject(request.error);
+		});
 	}
 
 	/**
@@ -350,14 +579,51 @@ class SearchIndex {
 	}
 
 	/**
-	 * Get search statistics
+	 * Get search statistics including cache info
 	 */
 	getStats() {
+		const cacheInfo = this._getCacheInfo();
 		return {
 			totalComics: this.comics.size,
 			totalWords: this.index.size,
-			isLoaded: this.isLoaded
+			isLoaded: this.isLoaded,
+			cache: cacheInfo
 		};
+	}
+
+	/**
+	 * Get cache information
+	 */
+	_getCacheInfo() {
+		try {
+			const cachedMeta = localStorage.getItem(this.metaCacheKey);
+			if (cachedMeta) {
+				const meta = JSON.parse(cachedMeta);
+				return {
+					hasCachedData: true,
+					version: meta.version,
+					cachedAt: meta.cachedAt,
+					generatedAt: meta.generatedAt
+				};
+			}
+		} catch (error) {
+			// Ignore errors
+		}
+		return {
+			hasCachedData: false
+		};
+	}
+
+	/**
+	 * Force refresh the search index from server
+	 */
+	async forceRefresh() {
+		await this.clearCache();
+		this.isLoaded = false;
+		this.loadPromise = null;
+		this.index.clear();
+		this.comics.clear();
+		return this.load();
 	}
 }
 
