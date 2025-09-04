@@ -31,6 +31,7 @@
 			}
 		} catch (error) {
 			console.error('Failed to load search index:', error);
+			indexLoaded = false;
 		} finally {
 			isIndexLoading = false;
 		}
@@ -186,7 +187,9 @@
 				{/if}
 			</p>
 		{:else}
-			<p class="page-subtitle">Search functionality unavailable</p>
+			<p class="page-subtitle error">
+				Search index unavailable. Please run: <code>npm run generate-search-index</code>
+			</p>
 		{/if}
 	</div>
 
@@ -344,6 +347,18 @@
 	.refresh-btn:disabled {
 		opacity: 0.6;
 		cursor: not-allowed;
+	}
+
+	.error {
+		color: #d32f2f;
+	}
+
+	.error code {
+		background: #f5f5f5;
+		padding: 0.2rem 0.4rem;
+		border-radius: 0.25rem;
+		font-family: 'Monaco', 'Consolas', monospace;
+		font-size: 0.9em;
 	}
 
 	/* Search Form */

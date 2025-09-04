@@ -31,20 +31,19 @@ class SearchIndex {
 		console.log('Loading search index...');
 		const startTime = Date.now();
 
-		// Try to load pregenerated index first
+		// Load pregenerated index
 		const pregenerated = await this._loadPregeneratedIndex();
 		if (pregenerated) {
 			this._loadFromPregenerated(pregenerated);
 			const duration = Date.now() - startTime;
-			console.log(`✅ Search index loaded from pregenerated file in ${duration}ms`);
+			console.log(`✅ Search index loaded in ${duration}ms`);
 			console.log(`📊 ${this.comics.size} comics, ${this.index.size} words indexed`);
 			this.isLoaded = true;
 			return;
 		}
 
-		// Fallback: build index from scratch
-		console.log('⚠️ Pregenerated index not found, building from transcripts...');
-		await this._buildFromTranscripts();
+		// No pregenerated index available
+		throw new Error('Search index not available. Please generate the search index first.');
 	}
 
 	/**
@@ -82,7 +81,8 @@ class SearchIndex {
 				console.log('⚠️ Using stale cached index due to server error');
 				return cachedData;
 			}
-			return null;
+			// No fallback available
+			throw new Error('Search index unavailable and no cached version found');
 		}
 	}
 
@@ -312,133 +312,7 @@ class SearchIndex {
 	}
 
 	/**
-	 * Fallback: build index from transcript files (original method)
-	 */
-	async _buildFromTranscripts() {
-		const startTime = Date.now();
-
-		// Years from 1989 to 2023
-		const years = Array.from({ length: 2023 - 1989 + 1 }, (_, i) => 1989 + i);
-		
-		let totalComics = 0;
-		let loadedComics = 0;
-
-		for (const year of years) {
-			try {
-				// Try to load comics for this year
-				const comics = await this._loadYear(year);
-				for (const comic of comics) {
-					this._indexComic(comic);
-					loadedComics++;
-				}
-				totalComics += comics.length;
-			} catch (error) {
-				console.warn(`Failed to load comics for year ${year}:`, error);
-			}
-		}
-
-		this.isLoaded = true;
-		const duration = Date.now() - startTime;
-		console.log(`🔨 Search index built from transcripts: ${loadedComics}/${totalComics} comics indexed in ${duration}ms`);
-	}
-
-	/**
-	 * Load all comics for a specific year
-	 */
-	async _loadYear(year) {
-		const comics = [];
-		
-		// Generate all possible dates for the year
-		const dates = this._generateDatesForYear(year);
-		
-		// Load comics in smaller batches to avoid overwhelming the browser
-		const batchSize = 20;
-		for (let i = 0; i < dates.length; i += batchSize) {
-			const batch = dates.slice(i, i + batchSize);
-			const batchPromises = batch.map(date => this._loadComic(date));
-			const batchResults = await Promise.allSettled(batchPromises);
-			
-			for (const result of batchResults) {
-				if (result.status === 'fulfilled' && result.value) {
-					comics.push(result.value);
-				}
-			}
-			
-			// Add a small delay between batches to prevent overwhelming the server
-			if (i + batchSize < dates.length) {
-				await new Promise(resolve => setTimeout(resolve, 50));
-			}
-		}
-		
-		return comics;
-	}
-
-	/**
-	 * Generate all possible dates for a year (avoiding weekends for most years)
-	 */
-	_generateDatesForYear(year) {
-		const dates = [];
-		const startDate = year === 1989 ? new Date('1989-04-16') : new Date(`${year}-01-01`);
-		const endDate = year === 2023 ? new Date('2023-03-12') : new Date(`${year}-12-31`);
-		
-		const currentDate = new Date(startDate);
-		while (currentDate <= endDate) {
-			// Most Dilbert comics are published Monday-Saturday
-			const dayOfWeek = currentDate.getDay();
-			if (dayOfWeek !== 0) { // Skip Sundays (0)
-				const dateStr = currentDate.toISOString().split('T')[0];
-				dates.push(dateStr);
-			}
-			currentDate.setDate(currentDate.getDate() + 1);
-		}
-		
-		return dates;
-	}
-
-	/**
-	 * Load a single comic transcript
-	 */
-	async _loadComic(date) {
-		try {
-			const year = date.split('-')[0];
-			const response = await fetch(`/dilbert-transcripts/${year}/${date}.json`);
-			if (!response.ok) return null;
-			
-			const comic = await response.json();
-			return comic;
-		} catch (error) {
-			return null;
-		}
-	}
-
-	/**
-	 * Add a comic to the search index
-	 */
-	_indexComic(comic) {
-		this.comics.set(comic.date, comic);
-		
-		// Extract all text from the comic
-		const allText = [];
-		for (const panel of comic.panels) {
-			for (const dialogue of panel.dialogue) {
-				allText.push(dialogue);
-			}
-		}
-		
-		// Index all words
-		const text = allText.join(' ').toLowerCase();
-		const words = this._extractWords(text);
-		
-		for (const word of words) {
-			if (!this.index.has(word)) {
-				this.index.set(word, new Set());
-			}
-			this.index.get(word).add(comic.date);
-		}
-	}
-
-	/**
-	 * Extract searchable words from text
+	 * Extract searchable words from text (used by search functionality)
 	 */
 	_extractWords(text) {
 		// Remove punctuation and split into words
