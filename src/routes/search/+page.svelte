@@ -292,7 +292,6 @@
               <div class="transcript-content">
                 {#each result.comic.panels as panel, panelIndex}
                   <div class="panel">
-                    <span class="panel-label">Panel {panel.panel}:</span>
                     {#each panel.dialogue as dialogue, dialogueIndex}
                       {@const hasMatch = result.matches.some(
                         (m) =>
@@ -536,9 +535,12 @@
   }
 
   .result-card {
-    background: transparent;
+    background: var(--bg-white, #fff);
     margin-bottom: 2rem;
     text-align: center;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
   }
 
   /* Comic Header */
@@ -599,8 +601,7 @@
   }
 
   .transcript-content {
-    background-color: #f5f4f0;
-    border: 1px solid #ddd;
+    background-color: var(--bg-white, #fff);
     font-family: "Courier New", monospace;
     padding: 10px 16px;
     text-align: left;
@@ -608,18 +609,7 @@
   }
 
   .panel {
-    margin-bottom: 0.8rem;
-  }
-
-  .panel-label {
-    font-weight: bold;
-    color: var(--accent-color, #6d5f4d);
-    display: block;
-    margin-bottom: 0.3rem;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-family: var(--font-serif, "Times New Roman", Times, serif);
+    margin-bottom: 1.2rem;
   }
 
   .dialogue-line {
