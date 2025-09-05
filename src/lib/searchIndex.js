@@ -3,6 +3,8 @@
  * Builds and manages a searchable index of all comic transcripts
  */
 
+import { openDB } from 'idb';
+
 class SearchIndex {
   constructor() {
     this.index = new Map(); // word -> Set of comic dates
@@ -11,6 +13,26 @@ class SearchIndex {
     this.loadPromise = null;
     this.cacheKey = "dilbert-search-index";
     this.metaCacheKey = "dilbert-search-index-meta";
+    this.dbName = "DilbertSearchDB";
+    this.dbVersion = 1;
+    this.storeName = "searchIndex";
+  }
+
+  /**
+   * Initialize IndexedDB database
+   */
+  async _initDB() {
+    if (!this._isIndexedDBSupported()) {
+      return null;
+    }
+
+    return openDB(this.dbName, this.dbVersion, {
+      upgrade(db) {
+        if (!db.objectStoreNames.contains('searchIndex')) {
+          db.createObjectStore('searchIndex');
+        }
+      },
+    });
   }
 
   /**
@@ -218,59 +240,33 @@ class SearchIndex {
   }
 
   /**
-   * Save data to IndexedDB
+   * Save data to IndexedDB using idb library
    */
   async _saveToIndexedDB(data) {
-    return new Promise((resolve, reject) => {
-      const request = indexedDB.open("DilbertSearchDB", 1);
+    try {
+      const db = await this._initDB();
+      if (!db) return;
 
-      request.onerror = () => reject(request.error);
-
-      request.onsuccess = () => {
-        const db = request.result;
-        const transaction = db.transaction(["searchIndex"], "readwrite");
-        const store = transaction.objectStore("searchIndex");
-
-        const putRequest = store.put(data, this.cacheKey);
-        putRequest.onsuccess = () => resolve();
-        putRequest.onerror = () => reject(putRequest.error);
-      };
-
-      request.onupgradeneeded = () => {
-        const db = request.result;
-        if (!db.objectStoreNames.contains("searchIndex")) {
-          db.createObjectStore("searchIndex");
-        }
-      };
-    });
+      await db.put(this.storeName, data, this.cacheKey);
+    } catch (error) {
+      console.warn('Failed to save to IndexedDB:', error);
+      throw error;
+    }
   }
 
   /**
-   * Get data from IndexedDB
+   * Get data from IndexedDB using idb library
    */
   async _getFromIndexedDB() {
-    return new Promise((resolve, reject) => {
-      const request = indexedDB.open("DilbertSearchDB", 1);
+    try {
+      const db = await this._initDB();
+      if (!db) return null;
 
-      request.onerror = () => reject(request.error);
-
-      request.onsuccess = () => {
-        const db = request.result;
-        const transaction = db.transaction(["searchIndex"], "readonly");
-        const store = transaction.objectStore("searchIndex");
-
-        const getRequest = store.get(this.cacheKey);
-        getRequest.onsuccess = () => resolve(getRequest.result);
-        getRequest.onerror = () => reject(getRequest.error);
-      };
-
-      request.onupgradeneeded = () => {
-        const db = request.result;
-        if (!db.objectStoreNames.contains("searchIndex")) {
-          db.createObjectStore("searchIndex");
-        }
-      };
-    });
+      return await db.get(this.storeName, this.cacheKey);
+    } catch (error) {
+      console.warn('Failed to get from IndexedDB:', error);
+      return null;
+    }
   }
 
   /**
@@ -293,24 +289,18 @@ class SearchIndex {
   }
 
   /**
-   * Clear IndexedDB data
+   * Clear IndexedDB data using idb library
    */
   async _clearIndexedDB() {
-    return new Promise((resolve, reject) => {
-      const request = indexedDB.open("DilbertSearchDB", 1);
+    try {
+      const db = await this._initDB();
+      if (!db) return;
 
-      request.onsuccess = () => {
-        const db = request.result;
-        const transaction = db.transaction(["searchIndex"], "readwrite");
-        const store = transaction.objectStore("searchIndex");
-
-        const deleteRequest = store.delete(this.cacheKey);
-        deleteRequest.onsuccess = () => resolve();
-        deleteRequest.onerror = () => reject(deleteRequest.error);
-      };
-
-      request.onerror = () => reject(request.error);
-    });
+      await db.delete(this.storeName, this.cacheKey);
+    } catch (error) {
+      console.warn('Failed to clear IndexedDB:', error);
+      throw error;
+    }
   }
 
   /**
