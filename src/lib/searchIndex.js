@@ -25,11 +25,11 @@ class SearchIndex {
     if (!this._isIndexedDBSupported()) {
       return null;
     }
-
+    
     return openDB(this.dbName, this.dbVersion, {
       upgrade(db) {
-        if (!db.objectStoreNames.contains('searchIndex')) {
-          db.createObjectStore('searchIndex');
+        if (!db.objectStoreNames.contains(this.storeName)) {
+          db.createObjectStore(this.storeName);
         }
       },
     });
