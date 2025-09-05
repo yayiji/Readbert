@@ -573,9 +573,8 @@
   .comic-container {
     display: inline-block;
     background-color: var(--bg-white, #fff);
-    padding: 15px;
-    border: 2px solid #d4c5a9;
-    box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
+    padding: 10px;
+    border: 1px solid #d4c5a9;
     margin-bottom: 1rem;
   }
 
@@ -606,18 +605,18 @@
   .transcript-content {
     background-color: var(--bg-white, #fff);
     font-family: "Courier New", monospace;
-    padding: 10px 16px;
+    padding: 0px 20px;
     text-align: left;
     border-radius: 0.25rem;
   }
 
   .panel {
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
   }
 
   .dialogue-line {
-    margin: 4px 0;
-    font-size: 15px;
+    margin: 3px 0;
+    font-size: 14px;
     color: var(--main-color, #333);
     word-wrap: break-word;
     line-height: 1.4;
@@ -688,7 +687,7 @@
     }
 
     .dialogue-line {
-      font-size: 14px;
+      font-size: 13px;
       margin: 2px 0;
     }
   }
