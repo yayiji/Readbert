@@ -298,7 +298,7 @@
                           m.panelIndex === panelIndex &&
                           m.dialogueIndex === dialogueIndex
                       )}
-                      <div class="dialogue-line" class:highlighted={hasMatch}>
+                      <div class="dialogue-line">
                         {#if hasMatch}
                           {@html highlightText(dialogue, searchQuery)}
                         {:else}
@@ -626,14 +626,6 @@
 
   .dialogue-line:first-child {
     margin-top: 0;
-  }
-
-  .dialogue-line.highlighted {
-    background: rgba(255, 235, 59, 0.3);
-    padding: 0.2em 0.3em;
-    border-radius: 0.2em;
-    border-left: 3px solid var(--accent-color, #6d5f4d);
-    padding-left: 0.5em;
   }
 
   /* Text highlighting */
