@@ -546,11 +546,11 @@
   }
 
   .date-text {
-    color: var(--border-color, #8b7d6b);
+    color: var(--main-color, #333);
     font-size: 0.9rem;
     font-weight: bold;
-    font-family: var(--font-serif, "Times New Roman", Times, serif);
-    letter-spacing: 0.1em;
+    font-family: "Courier New", monospace;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
   }
 
