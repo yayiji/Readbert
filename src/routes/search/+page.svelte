@@ -97,7 +97,6 @@
   function formatDate(dateStr) {
     const date = new Date(dateStr);
     return date.toLocaleDateString("en-US", {
-      weekday: "long",
       year: "numeric",
       month: "long",
       day: "numeric",
@@ -271,22 +270,17 @@
         {#each searchResults as result}
           <div class="result-card">
             <div class="comic-header">
-              <button onclick={() => goToComic(result.date)} class="date-link">
+              <span class="date-text">
                 {formatDate(result.date)}
-              </button>
+              </span>
             </div>
             <div class="comic-container">
-              <button
-                class="result-image-btn"
-                onclick={() => goToComic(result.date)}
-              >
-                <img
-                  src={getComicImageUrl(result.date)}
-                  alt={`Dilbert comic from ${formatDate(result.date)}`}
-                  loading="lazy"
-                  class="comic-image"
-                />
-              </button>
+              <img
+                src={getComicImageUrl(result.date)}
+                alt={`Dilbert comic from ${formatDate(result.date)}`}
+                loading="lazy"
+                class="comic-image"
+              />
             </div>
             <div class="transcript-container">
               <div class="transcript-content">
@@ -551,22 +545,13 @@
     margin-bottom: 0.5rem;
   }
 
-  .date-link {
-    background: none;
-    border: none;
-    color: var(--accent-color, #6d5f4d);
-    font-size: 1.2rem;
+  .date-text {
+    color: var(--border-color, #8b7d6b);
+    font-size: 0.9rem;
     font-weight: bold;
-    cursor: pointer;
-    text-decoration: underline;
-    padding: 0;
     font-family: var(--font-serif, "Times New Roman", Times, serif);
+    letter-spacing: 0.1em;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-
-  .date-link:hover {
-    color: var(--main-color, #333);
   }
 
   /* Comic Container - matching main page */
@@ -576,15 +561,6 @@
     padding: 10px;
     border: 1px solid #d4c5a9;
     margin-bottom: 1rem;
-  }
-
-  .result-image-btn {
-    width: 100%;
-    border: none;
-    background: none;
-    padding: 0;
-    cursor: pointer;
-    display: block;
   }
 
   .comic-image {
