@@ -27,11 +27,25 @@
       indexLoaded = true;
       searchStats = searchIndex.getStats();
 
-      // Check for search query in URL
+      // Check for search query in URL first
       const urlQuery = $page.url.searchParams.get("q");
       if (urlQuery) {
         searchQuery = urlQuery;
         await performSearch(urlQuery);
+      } else {
+        // If no URL query, try to restore last search from localStorage
+        try {
+          const lastSearch = localStorage.getItem("dilbert-last-search");
+          if (lastSearch) {
+            const { query, results } = JSON.parse(lastSearch);
+            if (query && results) {
+              searchQuery = query;
+              searchResults = results;
+            }
+          }
+        } catch (error) {
+          console.warn("Failed to restore last search:", error);
+        }
       }
     } catch (error) {
       console.error("Failed to load search index:", error);
@@ -52,6 +66,12 @@
   async function performSearch(query) {
     if (!query.trim()) {
       searchResults = [];
+      // Clear saved search when query is empty
+      try {
+        localStorage.removeItem("dilbert-last-search");
+      } catch (error) {
+        // Ignore localStorage errors
+      }
       return;
     }
 
@@ -66,6 +86,16 @@
       // Use the search index to find matching comics
       const results = searchIndex.search(query, 20);
       searchResults = results;
+      
+      // Save search query and results to localStorage
+      try {
+        localStorage.setItem("dilbert-last-search", JSON.stringify({
+          query: query.trim(),
+          results: results
+        }));
+      } catch (error) {
+        console.warn("Failed to save search to localStorage:", error);
+      }
     } catch (error) {
       console.error("Search error:", error);
       searchResults = [];
