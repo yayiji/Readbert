@@ -527,20 +527,23 @@
   }
 
   .results-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
-    gap: 2rem;
+    column-count: 2;
+    column-gap: 1.5rem;
     max-width: 1200px;
     margin: 0 auto;
   }
 
   .result-card {
     background: var(--bg-white, #fff);
-    margin-bottom: 2rem;
     text-align: center;
     padding: 1.5rem;
     border-radius: 0.5rem;
     box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
+    break-inside: avoid;
+    margin-bottom: 1.5rem;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   /* Comic Header */
@@ -638,6 +641,12 @@
   }
 
   /* Responsive design */
+  @media (max-width: 1024px) {
+    .results-grid {
+      column-count: 2;
+    }
+  }
+
   @media (max-width: 768px) {
     .search-page {
       padding: 1rem;
@@ -662,8 +671,12 @@
     }
 
     .results-grid {
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
+      column-count: 1;
+      column-gap: 0;
+    }
+
+    .result-card {
+      margin-bottom: 1.5rem;
     }
 
     .comic-container {
