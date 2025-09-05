@@ -531,8 +531,8 @@
     background: var(--bg-white, #fff);
     text-align: center;
     padding: 1.5rem;
-    border-radius: 0.5rem;
-    box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
+    border-radius: 0rem;
+    /* box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1)); */
     break-inside: avoid;
     margin-bottom: 1.5rem;
     display: inline-block;
