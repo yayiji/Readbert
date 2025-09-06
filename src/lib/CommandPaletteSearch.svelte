@@ -457,7 +457,8 @@
     transition: all 0.2s ease;
     margin-bottom: 0;
     border: 2px solid transparent;
-    background: #f9fafb;
+    /* background: #f9fafb; */
+    background: white;
     text-align: left;
     width: 100%;
     font-family: inherit;
@@ -471,6 +472,7 @@
   .result-item.selected {
     background: white;
     border-color: #667eea;
+    border: 2px solid #667eea;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     transform: translateY(-2px);
   }
@@ -536,11 +538,11 @@
   }
 
   :global(.result-text mark) {
-    background: #fef3c7;
-    color: #92400e;
+    background: #fbbf24;
+    color: #000000;
     padding: 1px 2px;
     border-radius: 2px;
-    font-weight: 500;
+    font-weight: bold;
   }
 
   .empty-state,
