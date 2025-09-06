@@ -36,16 +36,45 @@
   function handleResultsKeydown(event) {
     if (!isOpen || searchResults.length === 0) return;
 
+    // Calculate grid dimensions
+    const containerWidth = resultsContainer?.offsetWidth || 900;
+    const itemMinWidth = 350; // Based on grid-template-columns minmax value
+    const padding = 32; // 16px on each side
+    const gap = 16;
+    const availableWidth = containerWidth - padding;
+    const columnsPerRow = Math.max(1, Math.floor((availableWidth + gap) / (itemMinWidth + gap)));
+    const totalRows = Math.ceil(searchResults.length / columnsPerRow);
+
     switch (event.key) {
       case "ArrowDown":
         event.preventDefault();
-        selectedIndex = (selectedIndex + 1) % searchResults.length;
-        scrollToSelected();
+        const nextRowIndex = selectedIndex + columnsPerRow;
+        if (nextRowIndex < searchResults.length) {
+          selectedIndex = nextRowIndex;
+          scrollToSelected();
+        }
         break;
       case "ArrowUp":
         event.preventDefault();
-        selectedIndex = selectedIndex === 0 ? searchResults.length - 1 : selectedIndex - 1;
-        scrollToSelected();
+        const prevRowIndex = selectedIndex - columnsPerRow;
+        if (prevRowIndex >= 0) {
+          selectedIndex = prevRowIndex;
+          scrollToSelected();
+        }
+        break;
+      case "ArrowRight":
+        event.preventDefault();
+        if (selectedIndex < searchResults.length - 1) {
+          selectedIndex = selectedIndex + 1;
+          scrollToSelected();
+        }
+        break;
+      case "ArrowLeft":
+        event.preventDefault();
+        if (selectedIndex > 0) {
+          selectedIndex = selectedIndex - 1;
+          scrollToSelected();
+        }
         break;
       case "Enter":
         event.preventDefault();
@@ -60,7 +89,11 @@
     setTimeout(() => {
       const selectedElement = resultsContainer?.querySelector(`[data-index="${selectedIndex}"]`);
       if (selectedElement) {
-        selectedElement.scrollIntoView({ block: "nearest" });
+        selectedElement.scrollIntoView({ 
+          block: "nearest", 
+          inline: "nearest",
+          behavior: "smooth"
+        });
       }
     }, 0);
   }
@@ -226,33 +259,35 @@
                 aria-selected={index === selectedIndex}
                 tabindex="0"
               >
-                <div class="result-preview">
-                  <img
-                    src={getComicImageUrl(result.date)}
-                    alt={`Dilbert comic from ${formatDate(result.date)}`}
-                    class="result-thumbnail"
-                    loading="lazy"
-                  />
-                </div>
                 <div class="result-content">
                   <div class="result-date">{formatDate(result.date)}</div>
-                  <div class="result-text">
-                    {#each result.comic.panels as panel, panelIndex}
-                      {#each panel.dialogue as dialogue, dialogueIndex}
-                        {@const hasMatch = result.matches.some(
-                          (m) => m.panelIndex === panelIndex && m.dialogueIndex === dialogueIndex
-                        )}
-                        {#if hasMatch}
-                          <span class="dialogue-excerpt">
-                            {@html highlightText(dialogue.slice(0, 120) + (dialogue.length > 120 ? "..." : ""), searchQuery)}
-                          </span>
-                          {#if panelIndex < result.comic.panels.length - 1 || dialogueIndex < panel.dialogue.length - 1}
-                            <br />
-                          {/if}
-                        {/if}
-                      {/each}
-                    {/each}
+                </div>
+                <div class="result-preview">
+                  <div class="comic-container">
+                    <img
+                      src={getComicImageUrl(result.date)}
+                      alt={`Dilbert comic from ${formatDate(result.date)}`}
+                      class="comic-image"
+                      loading="lazy"
+                    />
                   </div>
+                </div>
+                <div class="result-text">
+                  {#each result.comic.panels as panel, panelIndex}
+                    {#each panel.dialogue as dialogue, dialogueIndex}
+                      {@const hasMatch = result.matches.some(
+                        (m) => m.panelIndex === panelIndex && m.dialogueIndex === dialogueIndex
+                      )}
+                      {#if hasMatch}
+                        <span class="dialogue-excerpt">
+                          {@html highlightText(dialogue.slice(0, 120) + (dialogue.length > 120 ? "..." : ""), searchQuery)}
+                        </span>
+                        {#if panelIndex < result.comic.panels.length - 1 || dialogueIndex < panel.dialogue.length - 1}
+                          <br />
+                        {/if}
+                      {/if}
+                    {/each}
+                  {/each}
                 </div>
               </button>
             {/each}
@@ -276,7 +311,10 @@
       <div class="command-palette-footer">
         <div class="shortcuts">
           <span class="shortcut">
-            <kbd>↑</kbd><kbd>↓</kbd> to navigate
+            <kbd>↑</kbd><kbd>↓</kbd> rows
+          </span>
+          <span class="shortcut">
+            <kbd>←</kbd><kbd>→</kbd> columns
           </span>
           <span class="shortcut">
             <kbd>↵</kbd> to select
@@ -405,6 +443,8 @@
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 16px;
     align-items: start;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .result-item {
@@ -424,6 +464,7 @@
     font-size: inherit;
     height: auto;
     min-height: 200px;
+    box-sizing: border-box;
   }
 
   .result-item:hover,
@@ -436,35 +477,43 @@
 
   .result-preview {
     flex-shrink: 0;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: white;
-    border-radius: 6px;
-    padding: 8px;
-    border: 1px solid #e5e7eb;
+    box-sizing: border-box;
   }
 
-  .result-thumbnail {
-    width: 120px;
+  /* Comic Container - matching search page */
+  .comic-container {
+    display: inline-block;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #d4c5a9;
+    margin-bottom: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .comic-image {
+    max-width: 100%;
     height: auto;
-    border-radius: 4px;
-    border: 1px solid #e5e7eb;
-    object-fit: contain;
-    max-height: 80px;
+    display: block;
+    border: 1px solid #ccc;
   }
 
   .result-content {
-    flex: 1;
+    flex-shrink: 0;
     min-width: 0;
     text-align: center;
+    margin-bottom: 8px;
   }
 
   .result-date {
     font-weight: 600;
     color: #374151;
-    font-size: 15px;
-    margin-bottom: 8px;
+    font-size: 12px;
+    margin-bottom: 0;
     font-family: "SF Mono", "Monaco", "Consolas", monospace;
   }
 
@@ -474,12 +523,12 @@
     line-height: 1.5;
     word-break: break-word;
     text-align: left;
-    background: white;
-    padding: 8px;
+    background: transparent;
+    padding: 8px 0;
     border-radius: 4px;
-    border: 1px solid #f3f4f6;
     max-height: 100px;
     overflow-y: auto;
+    flex: 1;
   }
 
   .dialogue-excerpt {
@@ -581,11 +630,6 @@
       min-height: 180px;
       padding: 12px;
     }
-
-    .result-thumbnail {
-      width: 100px;
-      max-height: 70px;
-    }
   }
 
   @media (max-width: 640px) {
@@ -602,11 +646,6 @@
     .result-item {
       padding: 8px;
       min-height: 160px;
-    }
-
-    .result-thumbnail {
-      width: 80px;
-      max-height: 60px;
     }
 
     .shortcuts {
