@@ -450,8 +450,8 @@
   .result-item {
     display: flex;
     flex-direction: column;
-    gap: 12px;
-    padding: 16px;
+    gap: 6px;
+    padding: 12px;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.2s ease;
@@ -463,7 +463,7 @@
     font-family: inherit;
     font-size: inherit;
     height: auto;
-    min-height: 200px;
+    min-height: 180px;
     box-sizing: border-box;
   }
 
@@ -490,7 +490,7 @@
     background-color: #fff;
     padding: 10px;
     border: 1px solid #d4c5a9;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
     width: 100%;
     box-sizing: border-box;
   }
@@ -506,7 +506,7 @@
     flex-shrink: 0;
     min-width: 0;
     text-align: center;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
   }
 
   .result-date {
@@ -524,7 +524,7 @@
     word-break: break-word;
     text-align: left;
     background: transparent;
-    padding: 8px 0;
+    padding: 12px 8px 8px 8px;
     border-radius: 4px;
     max-height: 100px;
     overflow-y: auto;
