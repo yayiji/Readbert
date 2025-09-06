@@ -1,5 +1,12 @@
 <script>
+  import CommandPaletteSearch from "$lib/CommandPaletteSearch.svelte";
+  
   let { children } = $props();
+  let isCommandPaletteOpen = $state(false);
+  
+  function openSearch() {
+    isCommandPaletteOpen = true;
+  }
 </script>
 
 <nav class="navbar">
@@ -9,7 +16,7 @@
     </div>
 
     <div class="nav-right">
-      <a href="/search" class="search-btn" aria-label="Search">
+      <button onclick={openSearch} class="search-btn" aria-label="Search">
         <svg
           width="20"
           height="20"
@@ -23,7 +30,7 @@
           <circle cx="11" cy="11" r="8"></circle>
           <path d="m21 21-4.35-4.35"></path>
         </svg>
-      </a>
+      </button>
     </div>
   </div>
 </nav>
@@ -40,6 +47,9 @@
     </p>
   </div>
 </footer>
+
+<!-- Command Palette -->
+<CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} />
 
 <style>
   :global(:root) {
