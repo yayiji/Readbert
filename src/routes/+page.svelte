@@ -226,15 +226,14 @@
 
 <nav class="navbar">
   <div class="nav-container">
-    <div class="nav-left">
-      <a href="/" class="nav-title">DILBERT</a>
+    <div class="nav-brand">
+      <h1>Dilbert Comics</h1>
     </div>
-
-    <div class="nav-right">
+    <div class="nav-buttons">
       <button onclick={openSearch} class="search-btn" aria-label="Search">
         <svg
-          width="20"
-          height="20"
+          width="18"
+          height="18"
           viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
@@ -349,65 +348,61 @@
   }
 
   :global(body) {
-    background-color: #f5f4f0;
+    background-color: #fafafa;
     margin: 0;
     padding: 0;
   }
 
   .navbar {
     position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background: var(--bg-light);
-    color: var(--main-color);
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
     z-index: 100;
-    border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
-    box-shadow: 0 0px 0.1px rgba(0, 0, 0, 0.1);
+    width: calc(100% - 40px);
+    max-width: 800px;
   }
 
   .nav-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.8rem 1.5rem;
-    max-width: 1000px;
-    margin: 0 auto;
-    height: 50px;
+    padding: 12px 32px;
+    width: 100%;
   }
 
-  .nav-title {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #000;
-    text-decoration: none;
-    letter-spacing: 0.1em;
-    transition: opacity 0.2s ease;
-    text-transform: uppercase;
+  .nav-brand h1 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+    font-weight: 600;
   }
 
-  .nav-title:hover {
-    opacity: 0.8;
+  .nav-buttons {
+    display: flex;
+    gap: 12px;
   }
 
   .search-btn {
-    background: none;
-    border: none;
-    color: var(--main-color);
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 8px;
     cursor: pointer;
-    padding: 0.4rem;
-    border-radius: 0.25rem;
+    color: #333;
     transition: all 0.2s ease;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: transparent;
-    text-decoration: none;
   }
 
   .search-btn:hover {
-    background-color: var(--border-color);
-    color: var(--bg-light);
+    background: #e5e5e5;
+    border-color: #ccc;
   }
 
   .footer {
@@ -446,9 +441,9 @@
 
     width: 100%;
     margin: 0;
-    padding: 60px 20px 0 20px; /* Account for fixed navbar height */
+    padding: 120px 20px 0 20px; /* Account for fixed navbar with margin */
     font-family: var(--font-serif);
-    background-color: #f5f4f0;
+    background-color: #fafafa;
     min-height: 100vh;
     box-sizing: border-box;
     display: flex;
@@ -640,24 +635,26 @@
       padding: 10px;
     }
 
-    .transcript-container {
-      margin: 5px auto 0;
-      max-width: calc(100% - 20px);
-      padding: 0 10px;
-    }
-
-    .dialogue-line {
-      font-size: 14px;
-      margin: 2px 0;
-    }
-
     .nav-container {
-      padding: 1.5rem 1rem;
-      height: 45px;
+      padding: 8px 16px;
     }
 
-    .nav-title {
-      font-size: 1.1rem;
+    .navbar {
+      width: calc(100% - 20px);
+      top: 10px;
+    }
+
+    .nav-brand h1 {
+      font-size: 16px;
+    }
+
+    .nav-buttons {
+      gap: 8px;
+    }
+
+    .nav-buttons button {
+      padding: 6px 12px;
+      font-size: 13px;
     }
 
     .footer {
