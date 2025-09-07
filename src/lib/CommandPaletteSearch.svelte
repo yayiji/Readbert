@@ -1,9 +1,11 @@
 <script>
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
-  import { goto } from "$app/navigation";
 
   // Props
-  let { isOpen = $bindable(false) } = $props();
+  let { 
+    isOpen = $bindable(false),
+    selectedDate = $bindable("")
+  } = $props();
 
   // State variables
   let searchQuery = $state("");
@@ -146,7 +148,7 @@
     isOpen = false;
     searchQuery = "";
     searchResults = [];
-    goto(`/?date=${result.date}`);
+    selectedDate = result.date; // Update the bound selectedDate instead of using goto
   }
 
   // Format date for display

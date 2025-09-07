@@ -393,7 +393,7 @@
 </footer>
 
 <!-- Command Palette -->
-<CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} />
+<CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate={selectedDate} />
 
 <style>
   :global(:root) {
