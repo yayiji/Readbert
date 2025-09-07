@@ -355,7 +355,7 @@
   }
 
   .command-palette {
-    background: white;
+    background: #f5f4f0;
     border-radius: 12px;
     box-shadow: 
       0 20px 25px -5px rgba(0, 0, 0, 0.1),
@@ -381,7 +381,7 @@
   }
 
   .search-section {
-    padding: 16px;
+    padding: 16px 16px;
     border-bottom: 1px solid #e5e7eb;
   }
 
@@ -405,7 +405,7 @@
     border: none;
     outline: none;
     font-size: 16px;
-    background: #f9fafb;
+    background: white;
     border-radius: 8px;
     color: #111827;
   }
