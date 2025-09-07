@@ -269,8 +269,8 @@
   }
 
   .calendar-popup {
-    position: absolute;
-    top: 100%;
+    position: fixed;
+    top: 16%;
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000;
@@ -280,6 +280,8 @@
     margin-top: 4px;
     padding: 16px;
     min-width: 280px;
+    width: 90vw;
+    max-width: 350px;
   }
 
   .calendar-header {
@@ -466,15 +468,6 @@
   }
 
   @media (max-width: 600px) {
-    .calendar-popup {
-      position: fixed;
-      top: 16%;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 90vw;
-      max-width: 350px;
-      margin: 0;
-    }
     .date-input {
       font-size: 12px;
     }
