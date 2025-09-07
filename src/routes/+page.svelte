@@ -21,7 +21,9 @@
 
   // Derived state
   let initialized = $state(false);
-  let hasValidComic = $derived(currentComic && isValidComicDateRange(currentComic.date));
+  let hasValidComic = $derived(
+    currentComic && isValidComicDateRange(currentComic.date)
+  );
 
   function openSearch() {
     isCommandPaletteOpen = true;
@@ -53,7 +55,8 @@
       if (!saved) return null;
 
       const comicData = JSON.parse(saved);
-      const isValid = comicData.savedAt && 
+      const isValid =
+        comicData.savedAt &&
         Date.now() - comicData.savedAt < STORAGE_EXPIRY &&
         comicData.currentComic?.date &&
         isValidComicDateRange(comicData.currentComic.date);
@@ -93,7 +96,12 @@
   }
 
   // Update comic state and save to storage
-  async function updateComicState(comic, prevComic, nextComicData, shouldLoadTranscript = true) {
+  async function updateComicState(
+    comic,
+    prevComic,
+    nextComicData,
+    shouldLoadTranscript = true
+  ) {
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
@@ -118,7 +126,11 @@
     try {
       const result = await loadComicBrowser(date);
       if (result) {
-        await updateComicState(result.comic, result.previousComic, result.nextComic);
+        await updateComicState(
+          result.comic,
+          result.previousComic,
+          result.nextComic
+        );
       } else {
         console.error("Failed to load comic for date:", date);
       }
@@ -136,7 +148,11 @@
     try {
       const result = await loadRandomComicBrowser();
       if (result) {
-        await updateComicState(result.comic, result.previousComic, result.nextComic);
+        await updateComicState(
+          result.comic,
+          result.previousComic,
+          result.nextComic
+        );
       } else {
         console.error("Failed to load random comic");
       }
@@ -149,13 +165,21 @@
 
   // Navigation functions
   function goToPrevious() {
-    if (previousComic?.date && !isLoading && /^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)) {
+    if (
+      previousComic?.date &&
+      !isLoading &&
+      /^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)
+    ) {
       loadComic(previousComic.date);
     }
   }
 
   function goToNext() {
-    if (nextComic?.date && !isLoading && /^\d{4}-\d{2}-\d{2}$/.test(nextComic.date)) {
+    if (
+      nextComic?.date &&
+      !isLoading &&
+      /^\d{4}-\d{2}-\d{2}$/.test(nextComic.date)
+    ) {
       loadComic(nextComic.date);
     }
   }
@@ -176,9 +200,13 @@
   // Watch for URL parameter changes (for search result navigation)
   $effect(() => {
     if (!initialized) return;
-    
+
     const urlDate = $page.url.searchParams.get("date");
-    if (urlDate && isValidComicDateRange(urlDate) && urlDate !== currentComic?.date) {
+    if (
+      urlDate &&
+      isValidComicDateRange(urlDate) &&
+      urlDate !== currentComic?.date
+    ) {
       loadComic(urlDate);
     }
   });
@@ -186,7 +214,7 @@
   // Initialize comic data on mount (run once)
   $effect(() => {
     if (initialized) return;
-    
+
     const initializeComic = async () => {
       // Check for date parameter in URL first
       const urlDate = $page.url.searchParams.get("date");
@@ -216,7 +244,7 @@
         // Load random comic if no saved data
         await getRandomComic();
       }
-      
+
       initialized = true;
     };
 
@@ -336,13 +364,14 @@
 </footer>
 
 <!-- Command Palette -->
-<CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate={selectedDate} />
+<CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
 <style>
   :global(:root) {
-    --main-color: #000;
+    --main-color: #fafafa;
     --accent-color: #6d5f4d;
     --border-color: #8b7d6b;
+    --bg-main: #fafafa;
     --bg-light: #f8f6f0;
     --bg-white: #fff;
   }
@@ -355,16 +384,16 @@
 
   .navbar {
     position: fixed;
-    top: 10px;
+    top: 12px;
     left: 50%;
     transform: translateX(-50%);
-    background: var(--bg-light);
-    border: 0.0px solid #ccc;
+    background: var(--bg-main);
+    border: 0.05px solid #ccc;
     border-radius: 12px;
-    box-shadow: 0px 0.2px 0.2px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
     z-index: 100;
     width: calc(100% - 40px);
-    max-width: 900px;
+    max-width: 820px;
   }
 
   .nav-container {
@@ -378,7 +407,7 @@
   .nav-brand h1 {
     margin: 0;
     font-size: 18px;
-    color: #333;
+    color: black;
     padding: 0px 0px;
     font-weight: 600;
   }
@@ -399,6 +428,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  .nav-buttons button {
+    padding: 8px;
   }
 
   .search-btn:hover {
@@ -442,7 +475,7 @@
 
     width: 100%;
     margin: 0;
-    padding: 120px 20px 0 20px; /* Account for fixed navbar with margin */
+    padding: 80px 20px 0 20px; /* Account for fixed navbar with margin */
     font-family: var(--font-serif);
     background-color: #fafafa;
     min-height: 100vh;
@@ -464,7 +497,7 @@
   .title {
     font-size: 32px;
     font-weight: bold;
-    color: var(--main-color);
+    color: black;
     margin: 0 0 0px 0;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -587,7 +620,7 @@
   .dialogue-line {
     margin: 4px 0;
     font-size: 15px;
-    color: var(--main-color);
+    color: black;
     word-wrap: break-word;
   }
 
@@ -604,6 +637,7 @@
   @media (max-width: 600px) {
     .container {
       padding: 0px 12px;
+      padding: 70px 12px 0 12px;
     }
 
     .header {
@@ -654,8 +688,7 @@
     }
 
     .nav-buttons button {
-      padding: 6px 12px;
-      font-size: 13px;
+      padding: 8px;
     }
 
     .footer {
