@@ -9,7 +9,7 @@
   import CommandPaletteSearch from "$lib/CommandPaletteSearch.svelte";
   import { page } from "$app/stores";
 
-  // Browser-only state management
+  // State management using $state rune
   let currentComic = $state(null);
   let previousComic = $state(null);
   let nextComic = $state(null);
@@ -17,39 +17,21 @@
   let isLoading = $state(false);
   let isLoadingTranscript = $state(false);
   let selectedDate = $state("");
-  let initialized = $state(false);
   let isCommandPaletteOpen = $state(false);
+
+  // Derived state
+  let initialized = $state(false);
+  let hasValidComic = $derived(currentComic && isValidComicDateRange(currentComic.date));
 
   function openSearch() {
     isCommandPaletteOpen = true;
   }
 
-  // Watch for selectedDate changes and load the comic (only after initialization)
-  $effect(() => {
-    if (
-      initialized &&
-      selectedDate &&
-      selectedDate !== currentComic?.date &&
-      isValidComicDateRange(selectedDate)
-    ) {
-      loadComic(selectedDate);
-    }
-  });
-
-  // Watch for URL parameter changes (for search result navigation)
-  $effect(() => {
-    if (!initialized) return;
-    
-    const urlDate = $page.url.searchParams.get("date");
-    if (urlDate && isValidComicDateRange(urlDate) && urlDate !== currentComic?.date) {
-      loadComic(urlDate);
-    }
-  });
-
+  // Constants
   const STORAGE_KEY = "lastVisitedComic";
   const STORAGE_EXPIRY = 7 * 24 * 60 * 60 * 1000; // 7 days
 
-  // Save comic data to localStorage
+  // Storage utilities
   function saveComicToStorage(comic, prevComic, nextComic, comicTranscript) {
     if (typeof localStorage === "undefined") return;
 
@@ -63,7 +45,6 @@
     localStorage.setItem(STORAGE_KEY, JSON.stringify(comicData));
   }
 
-  // Load comic data from localStorage
   function loadComicFromStorage() {
     if (typeof localStorage === "undefined") return null;
 
@@ -72,28 +53,22 @@
       if (!saved) return null;
 
       const comicData = JSON.parse(saved);
-      if (
-        comicData.savedAt &&
-        Date.now() - comicData.savedAt < STORAGE_EXPIRY
-      ) {
-        // Validate that the saved comic date is within valid range
-        if (
-          comicData.currentComic?.date &&
-          isValidComicDateRange(comicData.currentComic.date)
-        ) {
-          return comicData;
-        } else {
-          // Clear invalid cached data
-          localStorage.removeItem(STORAGE_KEY);
-          console.log("Cleared invalid cached comic data");
-        }
+      const isValid = comicData.savedAt && 
+        Date.now() - comicData.savedAt < STORAGE_EXPIRY &&
+        comicData.currentComic?.date &&
+        isValidComicDateRange(comicData.currentComic.date);
+
+      if (isValid) {
+        return comicData;
+      } else {
+        localStorage.removeItem(STORAGE_KEY);
+        return null;
       }
     } catch (error) {
       console.error("Error parsing saved comic data:", error);
-      // Clear corrupted data
       localStorage.removeItem(STORAGE_KEY);
+      return null;
     }
-    return null;
   }
 
   // Load transcript for a given date
@@ -117,85 +92,25 @@
     }
   }
 
-  // Update comic state with transcript loading
-  async function updateComicStateWithTranscript(
-    comic,
-    prevComic,
-    nextComicData
-  ) {
+  // Update comic state and save to storage
+  async function updateComicState(comic, prevComic, nextComicData, shouldLoadTranscript = true) {
     currentComic = comic;
     previousComic = prevComic;
     nextComic = nextComicData;
 
-    // Set the selected date to the current comic date
     if (comic?.date) {
       selectedDate = comic.date;
-      await loadTranscript(comic.date);
+      if (shouldLoadTranscript) {
+        await loadTranscript(comic.date);
+      }
     }
 
     saveComicToStorage(comic, prevComic, nextComicData, transcript);
   }
 
-  // Update comic state
-  function updateComicState(comic, prevComic, nextComicData) {
-    currentComic = comic;
-    previousComic = prevComic;
-    nextComic = nextComicData;
-
-    // Set the selected date to the current comic date
-    if (comic?.date) {
-      selectedDate = comic.date;
-    }
-
-    saveComicToStorage(comic, prevComic, nextComicData);
-  }
-
-  // Initialize comic data on mount (run once)
-  $effect(() => {
-    if (initialized) return; // Prevent re-running
-    
-    const initializeComic = async () => {
-      // Check for date parameter in URL first
-      const urlDate = $page.url.searchParams.get("date");
-      if (urlDate && isValidComicDateRange(urlDate)) {
-        await loadComic(urlDate);
-        initialized = true;
-        return;
-      }
-
-      const savedComic = loadComicFromStorage();
-      if (savedComic) {
-        // Load saved comic state
-        updateComicState(
-          savedComic.currentComic,
-          savedComic.previousComic,
-          savedComic.nextComic
-        );
-
-        // Restore saved transcript if available
-        if (savedComic.transcript) {
-          transcript = savedComic.transcript;
-        } else if (savedComic.currentComic?.date) {
-          // Load transcript for saved comic
-          await loadTranscript(savedComic.currentComic.date);
-        }
-      } else {
-        // Load random comic using browser-only logic
-        await getRandomComic();
-      }
-      
-      initialized = true;
-    };
-
-    initializeComic();
-  });
-
   async function loadComic(date) {
-    if (isLoading) return;
-
-    // Validate the date before proceeding
-    if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
-      console.error("Invalid date format:", date);
+    if (isLoading || !date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+      console.error("Invalid date format or already loading:", date);
       return;
     }
 
@@ -203,11 +118,7 @@
     try {
       const result = await loadComicBrowser(date);
       if (result) {
-        await updateComicStateWithTranscript(
-          result.comic,
-          result.previousComic,
-          result.nextComic
-        );
+        await updateComicState(result.comic, result.previousComic, result.nextComic);
       } else {
         console.error("Failed to load comic for date:", date);
       }
@@ -225,11 +136,7 @@
     try {
       const result = await loadRandomComicBrowser();
       if (result) {
-        await updateComicStateWithTranscript(
-          result.comic,
-          result.previousComic,
-          result.nextComic
-        );
+        await updateComicState(result.comic, result.previousComic, result.nextComic);
       } else {
         console.error("Failed to load random comic");
       }
@@ -240,44 +147,81 @@
     }
   }
 
+  // Navigation functions
   function goToPrevious() {
-    if (previousComic && !isLoading) {
-      // Additional validation to prevent unexpected jumps
-      if (
-        !previousComic.date ||
-        !/^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)
-      ) {
-        console.error("Invalid previous comic date:", previousComic);
-        return;
-      }
+    if (previousComic?.date && !isLoading && /^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)) {
       loadComic(previousComic.date);
     }
   }
 
   function goToNext() {
-    if (nextComic && !isLoading) {
-      // Additional validation to prevent unexpected jumps
-      if (!nextComic.date || !/^\d{4}-\d{2}-\d{2}$/.test(nextComic.date)) {
-        console.error("Invalid next comic date:", nextComic);
-        return;
-      }
+    if (nextComic?.date && !isLoading && /^\d{4}-\d{2}-\d{2}$/.test(nextComic.date)) {
       loadComic(nextComic.date);
     }
   }
 
-  function handleDateKeydown(event) {
-    if (event.key === "Enter") {
-      handleDateSubmit();
-    }
-  }
-
-  function handleDateSubmit() {
-    if (selectedDate && isValidComicDateRange(selectedDate)) {
+  // Effects for reactive behavior
+  // Watch for selectedDate changes and load the comic (only after initialization)
+  $effect(() => {
+    if (
+      initialized &&
+      selectedDate &&
+      selectedDate !== currentComic?.date &&
+      isValidComicDateRange(selectedDate)
+    ) {
       loadComic(selectedDate);
-    } else {
-      selectedDate = currentComic?.date || "";
     }
-  }
+  });
+
+  // Watch for URL parameter changes (for search result navigation)
+  $effect(() => {
+    if (!initialized) return;
+    
+    const urlDate = $page.url.searchParams.get("date");
+    if (urlDate && isValidComicDateRange(urlDate) && urlDate !== currentComic?.date) {
+      loadComic(urlDate);
+    }
+  });
+
+  // Initialize comic data on mount (run once)
+  $effect(() => {
+    if (initialized) return;
+    
+    const initializeComic = async () => {
+      // Check for date parameter in URL first
+      const urlDate = $page.url.searchParams.get("date");
+      if (urlDate && isValidComicDateRange(urlDate)) {
+        await loadComic(urlDate);
+        initialized = true;
+        return;
+      }
+
+      const savedComic = loadComicFromStorage();
+      if (savedComic) {
+        // Load saved comic state
+        await updateComicState(
+          savedComic.currentComic,
+          savedComic.previousComic,
+          savedComic.nextComic,
+          false // Don't load transcript yet
+        );
+
+        // Restore saved transcript if available, otherwise load it
+        if (savedComic.transcript) {
+          transcript = savedComic.transcript;
+        } else if (savedComic.currentComic?.date) {
+          await loadTranscript(savedComic.currentComic.date);
+        }
+      } else {
+        // Load random comic if no saved data
+        await getRandomComic();
+      }
+      
+      initialized = true;
+    };
+
+    initializeComic();
+  });
 </script>
 
 <nav class="navbar">
@@ -322,7 +266,7 @@
     </p>
   </header>
 
-  {#if currentComic}
+  {#if hasValidComic}
     <section class="comic-section">
       <!-- Navigation buttons -->
       <div class="navigation">
@@ -362,7 +306,7 @@
       </div>
 
       <!-- Transcript table -->
-      {#if transcript}
+      {#if transcript?.panels}
         <div class="transcript-container">
           <table class="transcript-table">
             <tbody>

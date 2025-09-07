@@ -15,8 +15,25 @@
   let indexLoaded = $state(false);
   let searchInput = $state();
   let resultsContainer = $state();
+  let searchTimeout;
 
-  // Handle keyboard shortcuts
+  // Derived state
+  let hasResults = $derived(searchResults.length > 0);
+  let hasQuery = $derived(searchQuery.trim().length > 0);
+  let showNoResults = $derived(hasQuery && !hasResults && !isSearching);
+  let showEmptyState = $derived(!hasQuery);
+
+  // Grid calculation utilities
+  function calculateGridDimensions() {
+    const containerWidth = resultsContainer?.offsetWidth || 900;
+    const itemMinWidth = 350;
+    const padding = 32;
+    const gap = 16;
+    const availableWidth = containerWidth - padding;
+    return Math.max(1, Math.floor((availableWidth + gap) / (itemMinWidth + gap)));
+  }
+
+  // Keyboard handlers
   function handleKeydown(event) {
     if (event.metaKey && event.key === "k") {
       event.preventDefault();
@@ -27,25 +44,15 @@
     }
 
     if (event.key === "Escape") {
-      isOpen = false;
-      searchQuery = "";
-      searchResults = [];
+      closeModal();
     }
   }
 
-  // Handle navigation within results
   function handleResultsKeydown(event) {
-    if (!isOpen || searchResults.length === 0) return;
+    if (!isOpen || !hasResults) return;
 
-    // Calculate grid dimensions
-    const containerWidth = resultsContainer?.offsetWidth || 900;
-    const itemMinWidth = 350; // Based on grid-template-columns minmax value
-    const padding = 32; // 16px on each side
-    const gap = 16;
-    const availableWidth = containerWidth - padding;
-    const columnsPerRow = Math.max(1, Math.floor((availableWidth + gap) / (itemMinWidth + gap)));
-    const totalRows = Math.ceil(searchResults.length / columnsPerRow);
-
+    const columnsPerRow = calculateGridDimensions();
+    
     switch (event.key) {
       case "ArrowDown":
         event.preventDefault();
@@ -66,14 +73,14 @@
       case "ArrowRight":
         event.preventDefault();
         if (selectedIndex < searchResults.length - 1) {
-          selectedIndex = selectedIndex + 1;
+          selectedIndex++;
           scrollToSelected();
         }
         break;
       case "ArrowLeft":
         event.preventDefault();
         if (selectedIndex > 0) {
-          selectedIndex = selectedIndex - 1;
+          selectedIndex--;
           scrollToSelected();
         }
         break;
@@ -89,18 +96,48 @@
   function scrollToSelected() {
     setTimeout(() => {
       const selectedElement = resultsContainer?.querySelector(`[data-index="${selectedIndex}"]`);
-      if (selectedElement) {
-        selectedElement.scrollIntoView({ 
-          block: "nearest", 
-          inline: "nearest",
-          behavior: "smooth"
-        });
-      }
+      selectedElement?.scrollIntoView({ 
+        block: "nearest", 
+        inline: "nearest",
+        behavior: "smooth"
+      });
     }, 0);
   }
 
+  // Modal control
+  function closeModal() {
+    isOpen = false;
+    searchQuery = "";
+    searchResults = [];
+    selectedIndex = 0;
+  }
+
+  function selectResult(result) {
+    selectedDate = result.date;
+    closeModal();
+  }
+
+  // Utility functions
+  function formatDate(dateStr) {
+    return new Date(dateStr).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+    });
+  }
+
+  function getComicImageUrl(date) {
+    const year = date.split("-")[0];
+    return `/dilbert-comics/${year}/${date}.gif`;
+  }
+
+  function handleBackdropClick(event) {
+    if (event.target === event.currentTarget) {
+      closeModal();
+    }
+  }
+
   // Perform search with debouncing
-  let searchTimeout;
   async function performSearch(query) {
     clearTimeout(searchTimeout);
     
@@ -117,16 +154,12 @@
       try {
         // Ensure search index is loaded first
         if (!indexLoaded) {
-          console.log("Loading search index...");
           await searchIndex.load();
           indexLoaded = true;
-          console.log("Search index loaded successfully");
         }
 
         // Use the search index to find matching comics
-        const results = searchIndex.search(query, 10); // Limit to 10 results for performance
-        searchResults = results;
-        console.log(`Found ${results.length} results for "${query}"`);
+        searchResults = searchIndex.search(query, 10); // Limit to 10 results for performance
       } catch (error) {
         console.error("Search error:", error);
         searchResults = [];
@@ -143,53 +176,18 @@
     }
   });
 
-  // Select a result and navigate
-  function selectResult(result) {
-    isOpen = false;
-    searchQuery = "";
-    searchResults = [];
-    selectedDate = result.date; // Update the bound selectedDate instead of using goto
-  }
-
-  // Format date for display
-  function formatDate(dateStr) {
-    const date = new Date(dateStr);
-    return date.toLocaleDateString("en-US", {
-      year: "numeric",
-      month: "short",
-      day: "numeric",
-    });
-  }
-
-  // Get the comic image URL
-  function getComicImageUrl(date) {
-    const year = date.split("-")[0];
-    return `/dilbert-comics/${year}/${date}.gif`;
-  }
-
-  // Close on outside click
-  function handleBackdropClick(event) {
-    if (event.target === event.currentTarget) {
-      isOpen = false;
-      searchQuery = "";
-      searchResults = [];
-    }
-  }
-
   // Setup keyboard listeners and preload search index using effects
+  // Setup and cleanup effect
   $effect(() => {
-    // Add global keyboard event listener
     document.addEventListener("keydown", handleKeydown);
     
     // Preload the search index in the background
     searchIndex.load().then(() => {
       indexLoaded = true;
-      console.log("Search index preloaded for command palette");
     }).catch(error => {
       console.error("Failed to preload search index:", error);
     });
     
-    // Cleanup function
     return () => {
       document.removeEventListener("keydown", handleKeydown);
       clearTimeout(searchTimeout);
@@ -235,7 +233,7 @@
 
       <!-- Results Section -->
       <div class="results-section" bind:this={resultsContainer}>
-        {#if searchQuery && searchResults.length === 0 && !isSearching}
+        {#if showNoResults}
           <div class="no-results">
             <div class="no-results-icon">🔍</div>
             <div class="no-results-text">No comics found</div>
@@ -247,7 +245,7 @@
               {/if}
             </div>
           </div>
-        {:else if searchResults.length > 0}
+        {:else if hasResults}
           <div class="results-list">
             {#each searchResults as result, index}
               <button 
@@ -293,7 +291,7 @@
               </button>
             {/each}
           </div>
-        {:else if !searchQuery}
+        {:else if showEmptyState}
           <div class="empty-state">
             <div class="empty-state-icon">⌘K</div>
             <div class="empty-state-text">Search Dilbert Comics</div>
