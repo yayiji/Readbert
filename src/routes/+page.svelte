@@ -227,7 +227,7 @@
 <nav class="navbar">
   <div class="nav-container">
     <div class="nav-brand">
-      <h1>Dilbert Comics</h1>
+      <h1>READBERT</h1>
     </div>
     <div class="nav-buttons">
       <button onclick={openSearch} class="search-btn" aria-label="Search">
@@ -355,23 +355,23 @@
 
   .navbar {
     position: fixed;
-    top: 20px;
+    top: 10px;
     left: 50%;
     transform: translateX(-50%);
-    background: #fff;
-    border: 1px solid #ccc;
+    background: var(--bg-light);
+    border: 0.0px solid #ccc;
     border-radius: 12px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0.2px 0.2px rgba(0, 0, 0, 0.1);
     z-index: 100;
     width: calc(100% - 40px);
-    max-width: 800px;
+    max-width: 900px;
   }
 
   .nav-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 32px;
+    padding: 12px 16px 12px 24px;
     width: 100%;
   }
 
@@ -379,6 +379,7 @@
     margin: 0;
     font-size: 18px;
     color: #333;
+    padding: 0px 0px;
     font-weight: 600;
   }
 
@@ -388,8 +389,8 @@
   }
 
   .search-btn {
-    background: #f5f5f5;
-    border: 1px solid #ddd;
+    background: transparent;
+    border: 0px solid #ddd;
     border-radius: 8px;
     padding: 8px;
     cursor: pointer;
@@ -636,7 +637,7 @@
     }
 
     .nav-container {
-      padding: 8px 16px;
+      padding: 8px 8px 8px 16px;
     }
 
     .navbar {
