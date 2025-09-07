@@ -5,7 +5,6 @@
     loadComicBrowser,
   } from "$lib/browserLoader.js";
   import { isValidComicDateRange } from "$lib/comicsClient.js";
-  import { onMount } from "svelte";
   import DatePicker from "$lib/DatePicker.svelte";
 
   // Browser-only state management
@@ -18,17 +17,13 @@
   let selectedDate = $state("");
 
   // Watch for selectedDate changes and load the comic
-  let previousSelectedDate = "";
   $effect(() => {
     if (
       selectedDate &&
-      selectedDate !== previousSelectedDate &&
-      selectedDate !== currentComic?.date
+      selectedDate !== currentComic?.date &&
+      isValidComicDateRange(selectedDate)
     ) {
-      previousSelectedDate = selectedDate;
-      if (isValidComicDateRange(selectedDate)) {
-        loadComic(selectedDate);
-      }
+      loadComic(selectedDate);
     }
   });
 
@@ -136,28 +131,33 @@
     saveComicToStorage(comic, prevComic, nextComicData);
   }
 
-  // Initialize comic data on mount
-  onMount(async () => {
-    const savedComic = loadComicFromStorage();
-    if (savedComic) {
-      // Load saved comic state
-      updateComicState(
-        savedComic.currentComic,
-        savedComic.previousComic,
-        savedComic.nextComic
-      );
+  // Initialize comic data on mount using effect
+  $effect(() => {
+    // This effect runs once when the component mounts
+    const initializeComic = async () => {
+      const savedComic = loadComicFromStorage();
+      if (savedComic) {
+        // Load saved comic state
+        updateComicState(
+          savedComic.currentComic,
+          savedComic.previousComic,
+          savedComic.nextComic
+        );
 
-      // Restore saved transcript if available
-      if (savedComic.transcript) {
-        transcript = savedComic.transcript;
-      } else if (savedComic.currentComic?.date) {
-        // Load transcript for saved comic
-        await loadTranscript(savedComic.currentComic.date);
+        // Restore saved transcript if available
+        if (savedComic.transcript) {
+          transcript = savedComic.transcript;
+        } else if (savedComic.currentComic?.date) {
+          // Load transcript for saved comic
+          await loadTranscript(savedComic.currentComic.date);
+        }
+      } else {
+        // Load random comic using browser-only logic
+        await getRandomComic();
       }
-    } else {
-      // Load random comic using browser-only logic
-      await getRandomComic();
-    }
+    };
+
+    initializeComic();
   });
 
   async function loadComic(date) {

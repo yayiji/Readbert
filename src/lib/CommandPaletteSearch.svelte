@@ -1,5 +1,4 @@
 <script>
-  import { onMount, onDestroy } from "svelte";
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
   import { goto } from "$app/navigation";
 
@@ -175,7 +174,9 @@
     }
   }
 
-  onMount(() => {
+  // Setup keyboard listeners and preload search index using effects
+  $effect(() => {
+    // Add global keyboard event listener
     document.addEventListener("keydown", handleKeydown);
     
     // Preload the search index in the background
@@ -186,13 +187,11 @@
       console.error("Failed to preload search index:", error);
     });
     
+    // Cleanup function
     return () => {
       document.removeEventListener("keydown", handleKeydown);
+      clearTimeout(searchTimeout);
     };
-  });
-
-  onDestroy(() => {
-    clearTimeout(searchTimeout);
   });
 </script>
 

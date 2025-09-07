@@ -1,5 +1,4 @@
 <script>
-  import { onMount } from "svelte";
   import { goto } from "$app/navigation";
   import { page } from "$app/stores";
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
@@ -18,8 +17,8 @@
   });
   let isRefreshing = $state(false);
 
-  // Initialize the search index and handle URL parameters
-  onMount(async () => {
+  // Initialize the search index and handle URL parameters using effect
+  $effect(async () => {
     // Start loading the search index
     isIndexLoading = true;
     try {
