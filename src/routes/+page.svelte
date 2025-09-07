@@ -6,6 +6,7 @@
   } from "$lib/browserLoader.js";
   import { isValidComicDateRange } from "$lib/comicsClient.js";
   import DatePicker from "$lib/DatePicker.svelte";
+  import { page } from "$app/stores";
 
   // Browser-only state management
   let currentComic = $state(null);
@@ -15,15 +16,27 @@
   let isLoading = $state(false);
   let isLoadingTranscript = $state(false);
   let selectedDate = $state("");
+  let initialized = $state(false);
 
-  // Watch for selectedDate changes and load the comic
+  // Watch for selectedDate changes and load the comic (only after initialization)
   $effect(() => {
     if (
+      initialized &&
       selectedDate &&
       selectedDate !== currentComic?.date &&
       isValidComicDateRange(selectedDate)
     ) {
       loadComic(selectedDate);
+    }
+  });
+
+  // Watch for URL parameter changes (for search result navigation)
+  $effect(() => {
+    if (!initialized) return;
+    
+    const urlDate = $page.url.searchParams.get("date");
+    if (urlDate && isValidComicDateRange(urlDate) && urlDate !== currentComic?.date) {
+      loadComic(urlDate);
     }
   });
 
@@ -131,10 +144,19 @@
     saveComicToStorage(comic, prevComic, nextComicData);
   }
 
-  // Initialize comic data on mount using effect
+  // Initialize comic data on mount (run once)
   $effect(() => {
-    // This effect runs once when the component mounts
+    if (initialized) return; // Prevent re-running
+    
     const initializeComic = async () => {
+      // Check for date parameter in URL first
+      const urlDate = $page.url.searchParams.get("date");
+      if (urlDate && isValidComicDateRange(urlDate)) {
+        await loadComic(urlDate);
+        initialized = true;
+        return;
+      }
+
       const savedComic = loadComicFromStorage();
       if (savedComic) {
         // Load saved comic state
@@ -155,6 +177,8 @@
         // Load random comic using browser-only logic
         await getRandomComic();
       }
+      
+      initialized = true;
     };
 
     initializeComic();
