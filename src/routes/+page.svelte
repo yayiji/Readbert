@@ -438,7 +438,7 @@
   .nav-brand h1 {
     margin: 0;
     padding: 0;
-    padding-left: 8px;
+    padding-left: 6px;
     font-size: 18px;
     font-weight: 600;
     color: var(--text-color);
