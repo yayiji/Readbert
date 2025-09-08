@@ -403,7 +403,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 16px 12px 24px;
+    padding: 12px 20px 12px 28px;
     width: 100%;
   }
 
@@ -679,7 +679,7 @@
     }
 
     .nav-container {
-      padding: 8px 10px 8px 18px;
+      padding: 8px 12px 8px 20px;
     }
 
     .nav-brand h1 {
