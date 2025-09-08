@@ -387,13 +387,16 @@
     top: 12px;
     left: 50%;
     transform: translateX(-50%);
-    background: var(--bg-main);
-    border: 0.05px solid #ccc;
+    background: rgba(248, 246, 240, 0.5);
+    /* border: 2px solid rgba(220, 215, 200, 1); */
+    border: 2px solid rgba(139, 125, 107, 0.1);
     border-radius: 12px;
-    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.0px 0.0px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     z-index: 100;
     width: calc(100% - 40px);
-    max-width: 820px;
+    max-width: 700px;
   }
 
   .nav-container {
@@ -671,7 +674,7 @@
     }
 
     .nav-container {
-      padding: 8px 8px 8px 16px;
+      padding: 8px 10px 8px 18px;
     }
 
     .navbar {
