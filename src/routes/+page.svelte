@@ -412,7 +412,7 @@
   .nav-brand h1 {
     margin: 0;
     font-size: 18px;
-    color: var(--accent-color);
+    color: black;
     padding: 0;
     font-weight: 600;
   }
@@ -428,7 +428,7 @@
     border-radius: 6px;
     padding: 8px;
     cursor: pointer;
-    color: var(--accent-color);
+    color: black;
     transition: all 0.2s ease;
     display: flex;
     align-items: center;
@@ -671,10 +671,6 @@
 
     .nav-container {
       padding: 8px 16px;
-    }
-
-    .nav-brand h1 {
-      font-size: 16px;
     }
 
     .nav-brand h1 {
