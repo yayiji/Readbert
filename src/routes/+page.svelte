@@ -370,14 +370,15 @@
   /* ===== CSS VARIABLES ===== */
   :global(:root) {
     /* Colors */
-    --main-color: #fafafa;
+    --main-color: #F5F6EE;
     --accent-color: #6d5f4d;
     --border-color: #8b7d6b;
     --text-color: #000;
     --text-muted: #666;
 
     /* Backgrounds */
-    --bg-main: #fafafa;
+    /* --bg-main: #fafafa; */
+    --bg-main: #F5F6EE;
     --bg-light: #f8f6f0;
     --bg-white: #fff;
     --bg-transcript: #f5f4f0;
