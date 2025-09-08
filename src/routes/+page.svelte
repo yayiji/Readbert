@@ -367,182 +367,170 @@
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
 <style>
+  /* ===== CSS VARIABLES ===== */
   :global(:root) {
+    /* Colors */
     --main-color: #fafafa;
     --accent-color: #6d5f4d;
     --border-color: #8b7d6b;
+    --text-color: #000;
+    --text-muted: #666;
+    
+    /* Backgrounds */
     --bg-main: #fafafa;
     --bg-light: #f8f6f0;
     --bg-white: #fff;
+    --bg-transcript: #f5f4f0;
+    --bg-disabled: #ebe8e0;
+    
+    /* Layout */
+    --max-width: 800px;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    --navbar-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    --border-radius: 6px;
+    
+    /* Typography */
+    --font-serif: "Times New Roman", Times, serif;
+    --font-mono: "Courier New", monospace;
+    
+    /* Spacing */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 12px;
+    --spacing-lg: 20px;
+    --spacing-xl: 24px;
   }
 
+  /* ===== GLOBAL STYLES ===== */
   :global(body) {
-    background-color: #fafafa;
+    background-color: var(--bg-main);
     margin: 0;
     padding: 0;
   }
 
+  /* ===== NAVBAR STYLES ===== */
   .navbar {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
+    width: 100%;
+    z-index: 100;
+    
+    /* Appearance */
     background: rgba(248, 246, 240, 0.1);
-    border: none;
     border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
-    border-radius: 0;
-    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--navbar-shadow);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
-    z-index: 100;
-    width: 100%;
-    max-width: none;
   }
 
   .nav-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 24px;
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
+    padding: var(--spacing-md) var(--spacing-xl);
   }
 
   .nav-brand h1 {
     margin: 0;
-    font-size: 18px;
-    color: black;
     padding: 0;
+    font-size: 18px;
     font-weight: 600;
+    color: var(--text-color);
   }
 
   .nav-buttons {
     display: flex;
-    gap: 12px;
+    gap: var(--spacing-md);
   }
 
   .search-btn {
-    background: transparent;
-    border: none;
-    border-radius: 6px;
-    padding: 8px;
-    cursor: pointer;
-    color: black;
-    transition: all 0.2s ease;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: var(--spacing-sm);
+    background: transparent;
+    border: none;
+    border-radius: var(--border-radius);
+    color: var(--text-color);
+    cursor: pointer;
+    transition: all 0.2s ease;
   }
 
   .search-btn:hover {
     background: rgba(109, 95, 77, 0.1);
   }
 
-  .footer {
-    margin-top: auto;
-    padding: 250px 0 20px 0;
-    text-align: center;
-  }
-
-  .footer-content {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-  }
-
-  .copyright {
-    font-size: 14px;
-    font-weight: bold;
-    color: var(--accent-color);
-    margin: 0 0 8px 0;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-
-  .footer-note {
-    font-size: 12px;
-    color: var(--border-color);
-    margin: 0;
-    font-style: italic;
-  }
-
+  /* ===== LAYOUT STYLES ===== */
   .container {
-    --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    --max-width: 800px;
-    --font-serif: "Times New Roman", Times, serif;
-    --font-mono: "Courier New", "Courier", monospace;
-
     width: 100%;
-    margin: 0;
-    padding: 60px 20px 0 20px; /* Account for fixed navbar */
-    font-family: var(--font-serif);
-    background-color: #fafafa;
     min-height: 100vh;
+    margin: 0;
+    padding: 60px var(--spacing-lg) 0;
+    font-family: var(--font-serif);
+    background-color: var(--bg-main);
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
   }
 
   .header {
-    margin-top: 40px;
-    margin-bottom: 42px;
+    margin: 40px auto 42px;
     text-align: center;
-    padding: 0px;
     max-width: var(--max-width);
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .title {
+    margin: 0;
     font-size: 32px;
     font-weight: bold;
-    color: black;
-    margin: 0 0 0px 0;
+    color: var(--text-color);
     letter-spacing: 2px;
     text-transform: uppercase;
   }
 
   .subtitle {
-    font-size: 16px;
-    color: #666;
     margin: 0;
+    font-size: 16px;
+    color: var(--text-muted);
     font-style: italic;
   }
 
+  /* ===== COMIC SECTION STYLES ===== */
   .comic-section {
     text-align: center;
-    margin-bottom: 30px;
+    margin: 0 auto 30px;
     max-width: var(--max-width);
-    margin-left: auto;
-    margin-right: auto;
   }
 
+  /* Navigation Buttons */
   .navigation {
     display: flex;
     justify-content: center;
-    gap: 12px;
+    gap: var(--spacing-md);
     margin-bottom: 27px;
-    padding: 0px;
   }
 
   .nav-btn {
     padding: 9px 14px;
+    min-width: 74px;
     background-color: var(--bg-light);
     border: 2px solid var(--border-color);
     font-family: var(--font-serif);
     font-size: 12px;
     font-weight: bold;
-    cursor: pointer;
+    color: var(--text-color);
     text-transform: uppercase;
     letter-spacing: 1px;
-    transition: all 0.2s ease;
-    color: #3a3a3a;
     white-space: nowrap;
-    min-width: 74px;
+    cursor: pointer;
+    transition: all 0.2s ease;
   }
 
-  /* Apply hover styles only on hover-capable devices */
   @media (hover: hover) and (pointer: fine) {
     .nav-btn:hover:not(:disabled) {
       background-color: var(--border-color);
@@ -553,8 +541,8 @@
   .nav-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-    background-color: #ebe8e0;
-    color: #999;
+    background-color: var(--bg-disabled);
+    color: var(--text-muted);
   }
 
   .nav-btn.random {
@@ -568,11 +556,12 @@
     }
   }
 
+  /* Comic Container */
   .comic-container {
     display: inline-block;
     background-color: var(--bg-white);
     padding: 15px;
-    border: 2px solid #d4c5a9;
+    border: 2px solid var(--border-color);
     box-shadow: var(--shadow);
     margin-top: 3px;
   }
@@ -581,25 +570,24 @@
     max-width: 100%;
     height: auto;
     display: block;
-    border: 1px solid #ccc;
+    border: 1px solid var(--border-color);
   }
 
+  /* ===== TRANSCRIPT STYLES ===== */
   .transcript-container {
     margin: 10px auto 0;
     max-width: 550px;
     width: 100%;
-    padding: 0 20px;
+    padding: 0 var(--spacing-lg);
     box-sizing: border-box;
   }
 
   .transcript-table {
     width: 100%;
-    border-collapse: collapse;
-    background-color: #f5f4f0;
-    border: 0px solid #ddd;
-    /* font-family: "SF Mono","Courier New", monospace; */
-    font-family: "Courier New", monospace;
     margin: 0 auto;
+    border-collapse: collapse;
+    background-color: var(--bg-transcript);
+    font-family: var(--font-mono);
   }
 
   .transcript-table td {
@@ -608,40 +596,63 @@
     text-align: left;
   }
 
-  .transcript-table tr:last-child td {
-    border-bottom: none;
-  }
-
   .dialogue-cell {
     line-height: 1.4;
     text-align: left;
   }
 
   .dialogue-line {
-    margin: 4px 0;
+    margin: var(--spacing-xs) 0;
     font-size: 15px;
-    color: black;
+    color: var(--text-color);
     word-wrap: break-word;
-  }
-
-  .dialogue-line:last-child {
-    margin-bottom: 0;
   }
 
   .dialogue-line:first-child {
     margin-top: 0;
   }
 
-  /* Date Picker Styles */
+  .dialogue-line:last-child {
+    margin-bottom: 0;
+  }
 
+  /* ===== FOOTER STYLES ===== */
+  .footer {
+    margin-top: auto;
+    padding: 250px 0 var(--spacing-lg) 0;
+    text-align: center;
+  }
+
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--spacing-lg);
+  }
+
+  .copyright {
+    margin: 0 0 var(--spacing-sm) 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .footer-note {
+    margin: 0;
+    font-size: 12px;
+    color: var(--border-color);
+    font-style: italic;
+  }
+
+  /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .container {
-      padding: 60px 12px 0 12px;
+      padding: 60px var(--spacing-md) 0;
     }
 
     .header {
-      margin-top: 25px;
-      margin-bottom: 32px;
+      margin: 25px auto 32px;
     }
 
     .title {
@@ -655,12 +666,12 @@
 
     .navigation {
       margin-bottom: 25px;
-      gap: 8px;
+      gap: var(--spacing-sm);
       flex-wrap: wrap;
     }
 
     .nav-btn {
-      padding: 8px 12px;
+      padding: var(--spacing-sm) var(--spacing-md);
       font-size: 11px;
       min-width: 70px;
     }
@@ -670,23 +681,15 @@
     }
 
     .nav-container {
-      padding: 8px 16px;
+      padding: var(--spacing-sm) 16px;
     }
 
     .nav-brand h1 {
       font-size: 16px;
     }
 
-    .nav-buttons {
-      gap: 8px;
-    }
-
-    .nav-buttons button {
-      padding: 8px;
-    }
-
     .footer {
-      padding: 100px 0 20px 0;
+      padding: 100px 0 var(--spacing-lg) 0;
     }
 
     .copyright {

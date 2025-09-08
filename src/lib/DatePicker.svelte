@@ -300,6 +300,7 @@
     transition: all 0.2s ease;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
     display: flex;
+    color: var(--text-color);
     align-items: center;
     justify-content: center;
   }
@@ -311,7 +312,7 @@
     font-size: 16px;
     width: 45px;
     height: 35px;
-    color: var(--main-color, #333);
+    color: var(--text-color);
     -webkit-appearance: none;
     appearance: none;
     border-radius: 0;
@@ -352,7 +353,7 @@
     padding: 0;
     font-size: 13px;
     font-weight: 600;
-    color: var(--main-color, #333);
+    color: var(--text-color);;
     width: 42px;
     height: 30px;
     letter-spacing: 1px;
@@ -369,7 +370,7 @@
     margin: 0;
     font-size: 16px;
     font-weight: bold;
-    color: var(--main-color, #333);
+    color: var(--text-color);
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
 
@@ -388,7 +389,7 @@
     text-align: center;
     font-size: 12px;
     font-weight: bold;
-    color: var(--accent-color, #6d5f4d);
+    color: var(--text-color);
     padding: 8px 4px;
   }
 
@@ -403,7 +404,7 @@
     height: 40px;
     font-size: 13px;
     font-weight: normal;
-    color: var(--main-color, #333);
+    color: var(--text-color);
   }
 
   .day.selected {
@@ -441,11 +442,12 @@
   }
 
   .cancel-btn {
-    color: var(--main-color, #333);
+    color: var(--text-color);
+    font-weight: bold;
   }
 
   .confirm-btn {
-    color: var(--accent-color, #6d5f4d);
+    color: var(--text-color);
     font-weight: bold;
   }
 
@@ -464,6 +466,8 @@
     .action-btn:hover:not(:disabled) {
       background: var(--bg-light, #f8f6f0);
       border-color: var(--border-color, #8b7d6b);
+      font-weight: bold;
+      color: var(--text-color);
     }
   }
 
