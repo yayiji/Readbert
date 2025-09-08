@@ -384,35 +384,36 @@
 
   .navbar {
     position: fixed;
-    top: 16px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(248, 246, 240, 0.5);
-    /* border: 2px solid rgba(220, 215, 200, 1); */
-    /* border: 2px solid rgba(139, 125, 107, 0.1); */
-    border: 1.8px solid rgba(0, 0, 0, 0.5);
-    border-radius: 12px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(248, 246, 240, 0.1);
+    border: none;
+    border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
+    border-radius: 0;
     box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     z-index: 100;
-    width: calc(100% - 40px);
-    max-width: 750px;
+    width: 100%;
+    max-width: none;
   }
 
   .nav-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 20px 12px 28px;
+    padding: 12px 24px;
     width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
   }
 
   .nav-brand h1 {
     margin: 0;
     font-size: 18px;
-    color: black;
-    padding: 0px 0px;
+    color: var(--accent-color);
+    padding: 0;
     font-weight: 600;
   }
 
@@ -423,24 +424,19 @@
 
   .search-btn {
     background: transparent;
-    border: 0px solid #ddd;
-    border-radius: 8px;
+    border: none;
+    border-radius: 6px;
     padding: 8px;
     cursor: pointer;
-    color: #333;
+    color: var(--accent-color);
     transition: all 0.2s ease;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .nav-buttons button {
-    padding: 8px;
-  }
-
   .search-btn:hover {
-    background: #e5e5e5;
-    border-color: #ccc;
+    background: rgba(109, 95, 77, 0.1);
   }
 
   .footer {
@@ -479,7 +475,7 @@
 
     width: 100%;
     margin: 0;
-    padding: 82px 20px 0 20px; /* Account for fixed navbar with margin */
+    padding: 60px 20px 0 20px; /* Account for fixed navbar */
     font-family: var(--font-serif);
     background-color: #fafafa;
     min-height: 100vh;
@@ -640,8 +636,7 @@
 
   @media (max-width: 600px) {
     .container {
-      padding: 0px 12px;
-      padding: 72px 12px 0 12px;
+      padding: 60px 12px 0 12px;
     }
 
     .header {
@@ -674,13 +669,12 @@
       padding: 10px;
     }
 
-    .navbar {
-      width: calc(100% - 30px);
-      top: 12px;
+    .nav-container {
+      padding: 8px 16px;
     }
 
-    .nav-container {
-      padding: 8px 12px 8px 20px;
+    .nav-brand h1 {
+      font-size: 16px;
     }
 
     .nav-brand h1 {
