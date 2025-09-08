@@ -430,7 +430,7 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    max-width: 1200px;
+    /* max-width: 1200px; */
     margin: 0 auto;
     padding: var(--spacing-md) var(--spacing-xl);
   }
@@ -587,7 +587,7 @@
     width: 100%;
     margin: 0 auto;
     border-collapse: collapse;
-    background-color: var(--bg-transcript);
+    background-color: transparent;
     font-family: var(--font-mono);
   }
 
