@@ -390,7 +390,7 @@
     background: rgba(248, 246, 240, 0.5);
     /* border: 2px solid rgba(220, 215, 200, 1); */
     /* border: 2px solid rgba(139, 125, 107, 0.1); */
-    border: 1.5px solid rgba(0, 0, 0, 0.5);
+    border: 1.8px solid rgba(0, 0, 0, 0.5);
     border-radius: 12px;
     box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10px);
