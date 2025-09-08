@@ -384,19 +384,19 @@
 
   .navbar {
     position: fixed;
-    top: 12px;
+    top: 16px;
     left: 50%;
     transform: translateX(-50%);
     background: rgba(248, 246, 240, 0.5);
     /* border: 2px solid rgba(220, 215, 200, 1); */
     border: 2px solid rgba(139, 125, 107, 0.1);
     border-radius: 12px;
-    box-shadow: 0 0.0px 0.0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     z-index: 100;
     width: calc(100% - 40px);
-    max-width: 700px;
+    max-width: 750px;
   }
 
   .nav-container {
@@ -478,7 +478,7 @@
 
     width: 100%;
     margin: 0;
-    padding: 80px 20px 0 20px; /* Account for fixed navbar with margin */
+    padding: 82px 20px 0 20px; /* Account for fixed navbar with margin */
     font-family: var(--font-serif);
     background-color: #fafafa;
     min-height: 100vh;
@@ -640,7 +640,7 @@
   @media (max-width: 600px) {
     .container {
       padding: 0px 12px;
-      padding: 70px 12px 0 12px;
+      padding: 72px 12px 0 12px;
     }
 
     .header {
@@ -673,13 +673,13 @@
       padding: 10px;
     }
 
-    .nav-container {
-      padding: 8px 10px 8px 18px;
+    .navbar {
+      width: calc(100% - 30px);
+      top: 12px;
     }
 
-    .navbar {
-      width: calc(100% - 20px);
-      top: 10px;
+    .nav-container {
+      padding: 8px 10px 8px 18px;
     }
 
     .nav-brand h1 {
