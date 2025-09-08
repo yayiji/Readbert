@@ -1,6 +1,6 @@
 <script>
-  import { Calendar, CalendarDays } from '@lucide/svelte';
-  
+  import { Calendar, CalendarDays } from "@lucide/svelte";
+
   let {
     value = $bindable(""),
     min = "1989-04-16",
@@ -16,7 +16,20 @@
   const minDate = new Date(min + "T00:00:00");
   const maxDate = new Date(max + "T23:59:59");
 
-  const monthAbbrevs = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+  const monthAbbrevs = [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL",
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC",
+  ];
 
   // Initialize with current value or today's date (within range)
   $effect(() => {
@@ -33,9 +46,11 @@
   });
 
   // Utility functions
-  const getDaysInMonth = (year, month) => new Date(year, month + 1, 0).getDate();
+  const getDaysInMonth = (year, month) =>
+    new Date(year, month + 1, 0).getDate();
   const getFirstDayOfMonth = (year, month) => new Date(year, month, 1).getDay();
-  const formatDateString = (year, month, day) => `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
+  const formatDateString = (year, month, day) =>
+    `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
 
   function isDateInRange(year, month, day) {
     const dateStr = formatDateString(year, month, day);
@@ -84,12 +99,16 @@
   const canGoToNextMonth = () => currentYear < maxDate.getFullYear();
 
   function formatDisplayDate(dateString) {
-    return dateString ? new Date(dateString).toLocaleDateString("en-US", {
-      year: "numeric", month: "long", day: "numeric"
-    }) : "Select Date";
+    return dateString
+      ? new Date(dateString).toLocaleDateString("en-US", {
+          year: "numeric",
+          month: "long",
+          day: "numeric",
+        })
+      : "Select Date";
   }
 
-  const togglePicker = () => isOpen = !isOpen;
+  const togglePicker = () => (isOpen = !isOpen);
 
   function closePicker() {
     tempValue = "";
@@ -193,15 +212,15 @@
       </div>
 
       <div class="calendar-actions">
-        <button 
-          class="action-btn cancel-btn" 
+        <button
+          class="action-btn cancel-btn"
           onclick={cancelSelection}
           type="button"
         >
           Cancel
         </button>
-        <button 
-          class="action-btn confirm-btn" 
+        <button
+          class="action-btn confirm-btn"
           onclick={confirmSelection}
           type="button"
           disabled={!tempValue}
@@ -257,7 +276,7 @@
     .date-input:hover {
       background-color: var(--bg-light, #f8f6f0);
     }
-    
+
     .date-input:hover :global(.calendar-icon) {
       opacity: 1;
     }
@@ -274,9 +293,11 @@
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000;
-    background: var(--bg-white, #fff);
-    border: 2px solid var(--border-color, #8b7d6b);
+    background: rgba(248, 246, 240, 0.7);
+    border: 3px solid rgba(139, 125, 107, 0.3);
     box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     margin-top: 4px;
     padding: 16px;
     min-width: 280px;
@@ -293,7 +314,10 @@
   }
 
   /* Common button styles */
-  .nav-btn, .month-btn, .day, .action-btn {
+  .nav-btn,
+  .month-btn,
+  .day,
+  .action-btn {
     background: transparent;
     border: 1px solid transparent;
     cursor: pointer;
@@ -306,12 +330,12 @@
   }
 
   .nav-btn {
-    background: var(--bg-white, #fff);
-    border: none;
-    padding: 4px 8px;
+    /* background: transparent;
+    border: none; */
+    /* padding: 4px 4px; */
     font-size: 16px;
-    width: 45px;
-    height: 35px;
+    width: 36px;
+    height: 36px;
     color: var(--text-color);
     -webkit-appearance: none;
     appearance: none;
@@ -321,7 +345,8 @@
   .nav-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-  }  .month-selection {
+  }
+  .month-selection {
     margin-bottom: 10px;
     padding-bottom: 30px;
     position: relative;
@@ -353,7 +378,7 @@
     padding: 0;
     font-size: 13px;
     font-weight: 600;
-    color: var(--text-color);;
+    color: var(--text-color);
     width: 42px;
     height: 30px;
     letter-spacing: 1px;
@@ -475,16 +500,16 @@
     .date-input {
       font-size: 12px;
     }
-    
+
     .date-input :global(.calendar-icon) {
       width: 14px;
       height: 14px;
     }
-    
+
     .calendar-actions {
       gap: 8px;
     }
-    
+
     .action-btn {
       font-size: 11px;
       padding: 6px 12px;
