@@ -334,7 +334,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(4px);
     display: flex;
     align-items: flex-start;
@@ -356,6 +356,8 @@
   .command-palette {
     background: var(--bg-main);
     border-radius: 12px;
+    /* border-radius: 0px; */
+    border: 3px solid var(--border-color);
     box-shadow: 
       0 20px 25px -5px rgba(0, 0, 0, 0.1),
       0 10px 10px -5px rgba(0, 0, 0, 0.04);
@@ -458,6 +460,7 @@
     border: 2px solid transparent;
     /* background: #f9fafb; */
     background: white;
+    /* background: rgba(248, 246, 240, 0.5); */
     text-align: left;
     width: 100%;
     font-family: inherit;
