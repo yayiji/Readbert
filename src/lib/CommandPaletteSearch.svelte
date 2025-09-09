@@ -380,7 +380,7 @@
 
   .search-section {
     padding: 4px 8px;
-    border-bottom: 1px solid rgba(139, 125, 107, 0.2);
+    border-bottom: 1px solid rgba(139, 125, 107, 0.3);
   }
 
   .search-input-wrapper {
