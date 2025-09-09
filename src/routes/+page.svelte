@@ -378,6 +378,7 @@
 
     /* Backgrounds */
     /* --bg-main: #fafafa; */
+    /* --bg-main: #F8F7F5; */
     --bg-main: #F5F6EE;
     --bg-light: #f8f6f0;
     --bg-white: #fff;
