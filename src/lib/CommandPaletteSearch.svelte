@@ -354,12 +354,12 @@
   }
 
   .command-palette {
-    background: #f5f4f0;
+    background: var(--bg-main);
     border-radius: 12px;
     box-shadow: 
       0 20px 25px -5px rgba(0, 0, 0, 0.1),
       0 10px 10px -5px rgba(0, 0, 0, 0.04);
-    max-width: 900px;
+    max-width: 800px;
     width: 90vw;
     height: 600px;
     display: flex;
@@ -380,7 +380,7 @@
   }
 
   .search-section {
-    padding: 16px 16px;
+    padding: 4px 8px;
     border-bottom: 1px solid #e5e7eb;
   }
 
@@ -400,11 +400,11 @@
   .search-input {
     width: 100%;
     height: 48px;
-    padding: 0 48px 0 44px;
+    padding: 0 48px 0 40px;
     border: none;
     outline: none;
     font-size: 16px;
-    background: white;
+    background: transparent;
     border-radius: 8px;
     color: #111827;
   }
@@ -577,9 +577,11 @@
   }
 
   .command-palette-footer {
-    padding: 12px 16px;
+    display: none;
+    padding: 9px 16px;
     border-top: 1px solid #e5e7eb;
-    background: #f9fafb;
+    /* background: var(--bg-light); */
+    background: #F8F7F5;
   }
 
   .shortcuts {
