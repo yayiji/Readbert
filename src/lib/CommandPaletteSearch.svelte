@@ -352,7 +352,7 @@
     background: rgba(248, 246, 240, 0.7);
     border-radius: 12px;
     /* border-radius: 0px; */
-    border: 1px solid rgba(139, 125, 107, 0.3);
+    border: 3px solid rgba(139, 125, 107, 0.3);
     box-shadow: 
       0 20px 25px -5px rgba(0, 0, 0, 0.1),
       0 10px 10px -5px rgba(0, 0, 0, 0.04);
@@ -360,7 +360,7 @@
     -webkit-backdrop-filter: blur(20px);
     max-width: 800px;
     width: 90vw;
-    height: 600px;
+    height: 550px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
