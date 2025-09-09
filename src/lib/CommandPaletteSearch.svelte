@@ -210,10 +210,6 @@
       <!-- Search Input -->
       <div class="search-section">
         <div class="search-input-wrapper">
-          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <circle cx="11" cy="11" r="8"></circle>
-            <path d="M21 21l-4.35-4.35"></path>
-          </svg>
           <input
             bind:this={searchInput}
             type="text"
@@ -392,17 +388,10 @@
     align-items: center;
   }
 
-  .search-icon {
-    position: absolute;
-    left: 12px;
-    color: #6b7280;
-    pointer-events: none;
-  }
-
   .search-input {
     width: 100%;
     height: 48px;
-    padding: 0 48px 0 40px;
+    padding: 0 48px 0 12px;
     border: none;
     outline: none;
     font-size: 16px;
