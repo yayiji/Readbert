@@ -395,7 +395,7 @@
     padding: 0 48px 0 12px;
     border: none;
     outline: none;
-    font-size: 16px;
+    font-size: 17px;
     background: transparent;
     border-radius: 8px;
     color: #111827;
