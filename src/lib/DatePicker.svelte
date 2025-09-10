@@ -407,8 +407,8 @@
   .weekday-headers {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 4px;
-    margin-bottom: 8px;
+    gap: 2px;
+    margin-bottom: 4px;
   }
 
   .weekday {
@@ -416,7 +416,11 @@
     font-size: 12px;
     font-weight: bold;
     color: var(--text-color);
-    padding: 8px 4px;
+    width: 40px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .days-grid {
@@ -431,6 +435,8 @@
     font-size: 13px;
     font-weight: normal;
     color: var(--text-color);
+    margin: 0;
+    padding: 0;
   }
 
   .day.selected {
