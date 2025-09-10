@@ -293,9 +293,9 @@
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000;
-    border-radius: 12px;
-    background: rgba(248, 246, 240, 0.7);
-    border: 3px solid rgba(139, 125, 107, 0.3);
+    /* border-radius: 12px; */
+    background: rgba(248, 246, 240, 0.8);
+    border: 3px solid rgba(139, 125, 107, 0.4);
     box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
