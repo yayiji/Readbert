@@ -293,24 +293,20 @@
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000;
-    /* border-radius: 12px; */
+    border-radius: 20px;
     background: rgba(248, 246, 240, 0.8);
     border: 3px solid rgba(139, 125, 107, 0.4);
     box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
-    margin-top: 4px;
-    padding: 16px;
-    min-width: 280px;
-    width: 90vw;
-    max-width: 350px;
+    margin-top: 0px;
+    padding: 25px 25px 25px;
   }
 
   .calendar-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 2px;
     margin-bottom: 16px;
   }
 
