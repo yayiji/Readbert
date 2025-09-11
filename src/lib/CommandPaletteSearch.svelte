@@ -447,7 +447,7 @@
     cursor: pointer;
     transition: all 0.2s ease;
     margin-bottom: 0;
-    border: 2px solid transparent;
+    border: 3px solid transparent;
     /* background: white; */
     background: rgba(255, 255, 255, 0.6);
     text-align: left;
