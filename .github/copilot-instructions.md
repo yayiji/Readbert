@@ -19,7 +19,7 @@ This project uses **modern Svelte 5 syntax** - avoid legacy patterns:
 - Event handlers are `onclick={}` not `on:click={}`
 - NO `onMount`/`onDestroy` - use `$effect()` with cleanup returns
 
-See `svelte5-llms.txt` for migration details.
+See `svelte5-llms.txt` for more details.
 
 ## Key Files & Responsibilities
 
