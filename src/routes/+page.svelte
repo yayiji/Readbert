@@ -1,5 +1,5 @@
 <script>
-  import { formatDate, loadTranscriptIndependently } from "$lib/comicsUtils.js";
+  import { formatDate } from "$lib/comicsUtils.js";
   import {
     loadRandomComicBrowser,
     loadComicBrowser,
@@ -7,6 +7,7 @@
   import { isValidComicDateRange } from "$lib/comicsClient.js";
   import DatePicker from "$lib/DatePicker.svelte";
   import CommandPaletteSearch from "$lib/CommandPaletteSearch.svelte";
+  import { transcriptDatabase } from "$lib/transcriptDatabase.js";
   import { page } from "$app/stores";
 
   // State management using $state rune
@@ -74,7 +75,7 @@
     }
   }
 
-  // Load transcript for a given date
+  // Load transcript for a given date using transcript database
   async function loadTranscript(date) {
     if (!date) {
       transcript = null;
@@ -83,7 +84,12 @@
 
     isLoadingTranscript = true;
     try {
-      const transcriptData = await loadTranscriptIndependently(date);
+      // Ensure transcript database is loaded
+      if (!transcriptDatabase.isDatabaseLoaded()) {
+        await transcriptDatabase.load();
+      }
+
+      const transcriptData = transcriptDatabase.getTranscript(date);
       transcript = transcriptData;
       return transcriptData;
     } catch (error) {
@@ -249,6 +255,21 @@
     };
 
     initializeComic();
+  });
+
+  // Initialize transcript database early (run once)
+  $effect(() => {
+    const initializeTranscriptDatabase = async () => {
+      try {
+        console.log("🚀 Initializing transcript database...");
+        await transcriptDatabase.load();
+        console.log("✅ Transcript database ready");
+      } catch (error) {
+        console.error("❌ Failed to load transcript database:", error);
+      }
+    };
+
+    initializeTranscriptDatabase();
   });
 </script>
 

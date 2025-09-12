@@ -1,6 +1,14 @@
 /**
- * Script to pregenerate the search index and save it to a JSON file
- * Run this script whenever transcripts are updated
+ * Script to pregenerate the search index and transcript database
+ * 
+ * This script creates two optimized files:
+ * 1. search-index.min.json - Word-to-date mappings for search functionality
+ * 2. transcript-database.min.json - Complete transcript database for instant access
+ * 
+ * Run this script whenever transcripts are updated:
+ * npm run generate-search-index
+ * OR
+ * npm run generate-databases
  */
 
 import fs from 'fs';
@@ -14,15 +22,17 @@ class SearchIndexGenerator {
 	constructor() {
 		this.index = new Map(); // word -> Set of comic dates
 		this.comics = new Map(); // date -> comic data
+		this.transcripts = new Map(); // date -> transcript data (full transcript objects)
 		this.transcriptsPath = path.join(__dirname, '../static/dilbert-transcripts');
-		this.outputPath = path.join(__dirname, '../static/search-index.json');
+		this.searchIndexOutputPath = path.join(__dirname, '../static/search-index.json');
+		this.transcriptDbOutputPath = path.join(__dirname, '../static/transcript-database.json');
 	}
 
 	/**
-	 * Generate the complete search index
+	 * Generate the complete search index and transcript database
 	 */
 	async generate() {
-		console.log('🔍 Generating search index...');
+		console.log('🔍 Generating search index and transcript database...');
 		const startTime = Date.now();
 
 		// Years from 1989 to 2023
@@ -37,6 +47,7 @@ class SearchIndexGenerator {
 				const comics = await this._loadYear(year);
 				for (const comic of comics) {
 					this._indexComic(comic);
+					this.transcripts.set(comic.date, comic); // Store full transcript data
 					loadedComics++;
 				}
 				totalComics += comics.length;
@@ -46,18 +57,22 @@ class SearchIndexGenerator {
 			}
 		}
 
-		// Convert Maps to serializable format
-		const serializedIndex = this._serializeIndex();
+		// Convert Maps to serializable format and save both files
+		const serializedSearchIndex = this._serializeSearchIndex();
+		const serializedTranscriptDb = this._serializeTranscriptDatabase();
 		
-		// Save to file
-		await this._saveIndex(serializedIndex);
+		// Save both files
+		await this._saveSearchIndex(serializedSearchIndex);
+		await this._saveTranscriptDatabase(serializedTranscriptDb);
 
 		const duration = Date.now() - startTime;
-		console.log(`🎉 Search index generated successfully!`);
+		console.log(`🎉 Search index and transcript database generated successfully!`);
 		console.log(`   📊 ${loadedComics}/${totalComics} comics indexed`);
 		console.log(`   🔤 ${this.index.size} unique words indexed`);
+		console.log(`   📄 ${this.transcripts.size} transcripts stored`);
 		console.log(`   ⏱️ Generated in ${duration}ms`);
-		console.log(`   💾 Saved to: ${this.outputPath}`);
+		console.log(`   💾 Search index saved to: ${this.searchIndexOutputPath}`);
+		console.log(`   💾 Transcript database saved to: ${this.transcriptDbOutputPath}`);
 	}
 
 	/**
@@ -127,20 +142,19 @@ class SearchIndexGenerator {
 	}
 
 	/**
-	 * Convert Maps and Sets to serializable format
+	 * Convert Maps and Sets to serializable format for search index
 	 */
-	_serializeIndex() {
+	_serializeSearchIndex() {
 		const serializedIndex = {
-			version: '1.0',
+			version: '2.0', // Updated version to indicate new format
 			generatedAt: new Date().toISOString(),
 			stats: {
 				totalComics: this.comics.size,
 				totalWords: this.index.size
 			},
 			// Convert word index: Map<word, Set<dates>> -> Object<word, Array<dates>>
-			wordIndex: {},
-			// Convert comics: Map<date, comic> -> Object<date, comic>
-			comics: {}
+			wordIndex: {}
+			// Note: comics are no longer included here, they're in the transcript database
 		};
 
 		// Serialize word index
@@ -148,32 +162,69 @@ class SearchIndexGenerator {
 			serializedIndex.wordIndex[word] = Array.from(dates);
 		}
 
-		// Serialize comics
-		for (const [date, comic] of this.comics) {
-			serializedIndex.comics[date] = comic;
-		}
-
 		return serializedIndex;
 	}
 
 	/**
-	 * Save the serialized index to a JSON file
+	 * Convert transcript Map to serializable format for transcript database
 	 */
-	async _saveIndex(serializedIndex) {
+	_serializeTranscriptDatabase() {
+		const serializedDatabase = {
+			version: '1.0',
+			generatedAt: new Date().toISOString(),
+			stats: {
+				totalTranscripts: this.transcripts.size,
+			},
+			// Convert transcripts: Map<date, transcript> -> Object<date, transcript>
+			transcripts: {}
+		};
+
+		// Serialize transcripts
+		for (const [date, transcript] of this.transcripts) {
+			serializedDatabase.transcripts[date] = transcript;
+		}
+
+		return serializedDatabase;
+	}
+
+	/**
+	 * Save the serialized search index to a JSON file
+	 */
+	async _saveSearchIndex(serializedIndex) {
 		const json = JSON.stringify(serializedIndex, null, 2);
-		fs.writeFileSync(this.outputPath, json, 'utf8');
+		fs.writeFileSync(this.searchIndexOutputPath, json, 'utf8');
 		
 		// Also create a compressed version
 		const compressedJson = JSON.stringify(serializedIndex);
-		const compressedPath = this.outputPath.replace('.json', '.min.json');
+		const compressedPath = this.searchIndexOutputPath.replace('.json', '.min.json');
 		fs.writeFileSync(compressedPath, compressedJson, 'utf8');
 		
 		// Log file sizes
-		const originalSize = (fs.statSync(this.outputPath).size / 1024 / 1024).toFixed(2);
+		const originalSize = (fs.statSync(this.searchIndexOutputPath).size / 1024 / 1024).toFixed(2);
 		const compressedSize = (fs.statSync(compressedPath).size / 1024 / 1024).toFixed(2);
 		
-		console.log(`   📁 Index file: ${originalSize} MB (formatted)`);
-		console.log(`   📁 Compressed: ${compressedSize} MB (minified)`);
+		console.log(`   📁 Search index file: ${originalSize} MB (formatted)`);
+		console.log(`   📁 Search index compressed: ${compressedSize} MB (minified)`);
+	}
+
+	/**
+	 * Save the serialized transcript database to a JSON file
+	 */
+	async _saveTranscriptDatabase(serializedDatabase) {
+		const json = JSON.stringify(serializedDatabase, null, 2);
+		fs.writeFileSync(this.transcriptDbOutputPath, json, 'utf8');
+		
+		// Also create a compressed version
+		const compressedJson = JSON.stringify(serializedDatabase);
+		const compressedPath = this.transcriptDbOutputPath.replace('.json', '.min.json');
+		fs.writeFileSync(compressedPath, compressedJson, 'utf8');
+		
+		// Log file sizes
+		const originalSize = (fs.statSync(this.transcriptDbOutputPath).size / 1024 / 1024).toFixed(2);
+		const compressedSize = (fs.statSync(compressedPath).size / 1024 / 1024).toFixed(2);
+		
+		console.log(`   📁 Transcript database file: ${originalSize} MB (formatted)`);
+		console.log(`   📁 Transcript database compressed: ${compressedSize} MB (minified)`);
 	}
 }
 

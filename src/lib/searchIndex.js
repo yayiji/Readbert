@@ -1,14 +1,14 @@
 /**
  * Search Index Builder and Manager for Dilbert Comics
- * Builds and manages a searchable index of all comic transcripts
+ * Builds and manages a searchable index using the transcript database
  */
 
 import { openDB } from 'idb';
+import { transcriptDatabase } from './transcriptDatabase.js';
 
 class SearchIndex {
   constructor() {
     this.index = new Map(); // word -> Set of comic dates
-    this.comics = new Map(); // date -> comic data
     this.isLoaded = false;
     this.loadPromise = null;
     this.cacheKey = "dilbert-search-index";
@@ -53,23 +53,32 @@ class SearchIndex {
     console.log("Loading search index...");
     const startTime = Date.now();
 
-    // Load pregenerated index
+    // Ensure transcript database is loaded first
+    await transcriptDatabase.load();
+
+    // Try to load pregenerated search index
     const pregenerated = await this._loadPregeneratedIndex();
     if (pregenerated) {
       this._loadFromPregenerated(pregenerated);
       const duration = Date.now() - startTime;
       console.log(`✅ Search index loaded in ${duration}ms`);
       console.log(
-        `📊 ${this.comics.size} comics, ${this.index.size} words indexed`
+        `📊 ${transcriptDatabase.getStats().totalTranscripts} comics, ${this.index.size} words indexed`
       );
       this.isLoaded = true;
       return;
     }
 
-    // No pregenerated index available
-    throw new Error(
-      "Search index not available. Please generate the search index first."
+    // Fallback: build index from transcript database
+    console.log("📝 Building search index from transcript database...");
+    this._buildFromTranscriptDatabase();
+    
+    const duration = Date.now() - startTime;
+    console.log(`✅ Search index built from transcript database in ${duration}ms`);
+    console.log(
+      `📊 ${transcriptDatabase.getStats().totalTranscripts} comics, ${this.index.size} words indexed`
     );
+    this.isLoaded = true;
   }
 
   /**
@@ -115,6 +124,46 @@ class SearchIndex {
       }
       // No fallback available
       throw new Error("Search index unavailable and no cached version found");
+    }
+  }
+
+  /**
+   * Build search index from transcript database (fallback method)
+   */
+  _buildFromTranscriptDatabase() {
+    this.index.clear();
+    
+    const availableDates = transcriptDatabase.getAvailableDates();
+    
+    for (const date of availableDates) {
+      const transcript = transcriptDatabase.getTranscript(date);
+      if (transcript) {
+        this._indexTranscript(transcript);
+      }
+    }
+  }
+
+  /**
+   * Add a transcript to the search index
+   */
+  _indexTranscript(transcript) {
+    // Extract all text from the transcript
+    const allText = [];
+    for (const panel of transcript.panels) {
+      for (const dialogue of panel.dialogue) {
+        allText.push(dialogue);
+      }
+    }
+    
+    // Index all words
+    const text = allText.join(' ').toLowerCase();
+    const words = this._extractWords(text);
+    
+    for (const word of words) {
+      if (!this.index.has(word)) {
+        this.index.set(word, new Set());
+      }
+      this.index.get(word).add(transcript.date);
     }
   }
 
@@ -304,19 +353,13 @@ class SearchIndex {
   }
 
   /**
-   * Load index from pregenerated data
+   * Load index from pregenerated data (search index only, transcripts come from transcript database)
    */
   _loadFromPregenerated(data) {
     // Load word index: Object<word, Array<dates>> -> Map<word, Set<dates>>
     this.index.clear();
     for (const [word, dates] of Object.entries(data.wordIndex)) {
       this.index.set(word, new Set(dates));
-    }
-
-    // Load comics: Object<date, comic> -> Map<date, comic>
-    this.comics.clear();
-    for (const [date, comic] of Object.entries(data.comics)) {
-      this.comics.set(date, comic);
     }
   }
 
@@ -338,6 +381,10 @@ class SearchIndex {
   search(query, maxResults = 50) {
     if (!this.isLoaded) {
       throw new Error("Search index not loaded. Call load() first.");
+    }
+
+    if (!transcriptDatabase.isDatabaseLoaded()) {
+      throw new Error("Transcript database not loaded. Please wait for it to load.");
     }
 
     if (!query || query.trim().length === 0) {
@@ -366,7 +413,7 @@ class SearchIndex {
     // Score and filter results
     const results = [];
     for (const date of candidateComics) {
-      const comic = this.comics.get(date);
+      const comic = transcriptDatabase.getTranscript(date);
       if (!comic) continue;
 
       const matches = this._findMatches(comic, queryLower);
@@ -452,10 +499,10 @@ class SearchIndex {
   }
 
   /**
-   * Get a comic by date
+   * Get a comic by date (uses transcript database)
    */
   getComic(date) {
-    return this.comics.get(date);
+    return transcriptDatabase.getTranscript(date);
   }
 
   /**
@@ -470,11 +517,13 @@ class SearchIndex {
    */
   getStats() {
     const cacheInfo = this._getCacheInfo();
+    const transcriptStats = transcriptDatabase.getStats();
     return {
-      totalComics: this.comics.size,
+      totalComics: transcriptStats.totalTranscripts,
       totalWords: this.index.size,
       isLoaded: this.isLoaded,
       cache: cacheInfo,
+      transcriptDatabase: transcriptStats,
     };
   }
 
@@ -506,10 +555,10 @@ class SearchIndex {
    */
   async forceRefresh() {
     await this.clearCache();
+    await transcriptDatabase.forceRefresh();
     this.isLoaded = false;
     this.loadPromise = null;
     this.index.clear();
-    this.comics.clear();
     return this.load();
   }
 }

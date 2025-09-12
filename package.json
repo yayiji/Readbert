@@ -10,7 +10,8 @@
 		"prepare": "svelte-kit sync || echo ''",
 		"transcribe": "node transcribe-comics.js",
 		"transcribe:gemini": "node transcribe-comics-gemini.js",
-		"generate-search-index": "node scripts/generateSearchIndex.js"
+		"generate-search-index": "node scripts/generateSearchIndex.js",
+		"generate-databases": "node scripts/generateSearchIndex.js"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^6.0.0",
