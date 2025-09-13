@@ -1,5 +1,6 @@
 {
   "files.readonlyInclude": {
+    "node_modules/**/*":true,
     "static/**/*": true,
     "svelte5-llms.txt": true
   }
