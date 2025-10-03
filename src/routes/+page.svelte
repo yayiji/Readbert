@@ -101,6 +101,13 @@
     }
   }
 
+  // Handler for when comic image loads successfully
+  function handleImageLoad() {
+    if (currentComic?.date && !transcript) {
+      loadTranscript(currentComic.date);
+    }
+  }
+
   // Update comic state and save to storage
   async function updateComicState(
     comic,
@@ -112,11 +119,13 @@
     previousComic = prevComic;
     nextComic = nextComicData;
 
+    // Clear previous transcript when loading new comic
+    transcript = null;
+
     if (comic?.date) {
       selectedDate = comic.date;
-      if (shouldLoadTranscript) {
-        await loadTranscript(comic.date);
-      }
+      // Don't load transcript here - wait for image to load successfully
+      // The image onload handler will trigger transcript loading
     }
 
     saveComicToStorage(comic, prevComic, nextComicData, transcript);
@@ -350,6 +359,7 @@
           src={currentComic.url}
           alt="Dilbert comic from {currentComic.date}"
           class="comic-image"
+          onload={handleImageLoad}
         />
       </div>
 
