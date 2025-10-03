@@ -330,7 +330,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.0);
+    background: rgba(0, 0, 0, 0.1);
     z-index: 1000;
     animation: backdrop-fade-in 0.15s ease-out;
     display: flex;
@@ -354,8 +354,8 @@
     /* border-radius: 0px; */
     border: 3px solid rgba(139, 125, 107, 0.4);
     box-shadow: 
-      0 20px 25px -5px rgba(0, 0, 0, 0.1),
-      0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      0 20px 25px -5px rgba(0, 0, 0, 0.3),
+      0 10px 10px -5px rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     max-width: 800px;
