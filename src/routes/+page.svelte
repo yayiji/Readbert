@@ -743,7 +743,7 @@
     }
 
     .dialogue-line {
-      font-size: 16px;
+      font-size: 15px;
     }
 
     .footer {
