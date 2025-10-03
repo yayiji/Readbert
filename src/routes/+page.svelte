@@ -669,7 +669,7 @@
   /* ===== FOOTER STYLES ===== */
   .footer {
     margin-top: auto;
-    padding: 250px 0 var(--spacing-lg) 0;
+    padding: 200px 0 var(--spacing-lg) 0;
     text-align: center;
   }
 
@@ -706,7 +706,7 @@
     }
 
     .container {
-      padding: 60px var(--spacing-md) 0;
+      padding: 60px var(--spacing-sm) 0;
     }
 
     .header {
@@ -735,7 +735,7 @@
     }
 
     .comic-container {
-      padding: 10px;
+      padding: 8px;
     }
 
     .transcript-table td {
@@ -747,7 +747,7 @@
     }
 
     .footer {
-      padding: 100px 0 var(--spacing-lg) 0;
+      padding: 50px 0 var(--spacing-lg) 0;
     }
 
     .copyright {
