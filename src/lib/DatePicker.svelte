@@ -134,7 +134,7 @@
     aria-label="Select date"
   >
     <span class="date-text">{formatDisplayDate(value)}</span>
-    <CalendarDays class="calendar-icon" size={15} />
+    <CalendarDays class="calendar-icon" size={16} />
   </button>
 
   {#if isOpen}
@@ -243,7 +243,7 @@
     background: transparent;
     border: none;
     font-family: var(--font-serif);
-    font-size: 13px;
+    font-size: 14px;
     font-weight: bold;
     cursor: pointer;
     text-transform: uppercase;
