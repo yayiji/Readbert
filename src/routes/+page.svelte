@@ -103,7 +103,8 @@
 
   // Handler for when comic image loads successfully
   function handleImageLoad() {
-    if (currentComic?.date && !transcript) {
+    if (currentComic?.date) {
+      // Always load transcript when image is ready, even if one already exists
       loadTranscript(currentComic.date);
     }
   }
@@ -119,8 +120,8 @@
     previousComic = prevComic;
     nextComic = nextComicData;
 
-    // Clear previous transcript when loading new comic
-    // transcript = null;
+    // Don't clear previous transcript - keep it visible until new one loads
+    // This provides a better user experience with no blank state
 
     if (comic?.date) {
       selectedDate = comic.date;
