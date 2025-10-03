@@ -104,7 +104,7 @@
   // Handler for when comic image loads successfully
   function handleImageLoad() {
     if (currentComic?.date) {
-      // Always load transcript when image is ready, even if one already exists
+      // Load transcript immediately when image is ready
       loadTranscript(currentComic.date);
     }
   }
@@ -140,6 +140,14 @@
 
     isLoading = true;
     try {
+      // Add artificial delay for local testing to see loading effect
+      // TODO: Remove or set to 0 for production
+      const TESTING_DELAY = 0; // milliseconds
+      
+      if (TESTING_DELAY > 0) {
+        await new Promise(resolve => setTimeout(resolve, TESTING_DELAY));
+      }
+      
       const result = await loadComicBrowser(date);
       if (result) {
         await updateComicState(
@@ -364,24 +372,33 @@
         />
       </div>
 
-      <!-- Transcript table -->
-      {#if transcript?.panels}
-        <div class="transcript-container">
-          <table class="transcript-table">
-            <tbody>
-              {#each transcript.panels as panel}
-                <tr>
-                  <td class="dialogue-cell">
-                    {#each panel.dialogue as dialogue}
-                      <div class="dialogue-line">{dialogue}</div>
-                    {/each}
-                  </td>
-                </tr>
-              {/each}
-            </tbody>
-          </table>
-        </div>
-      {/if}
+      <!-- Transcript section with loading state -->
+      <div class="transcript-section">
+        {#if isLoadingTranscript}
+          <div class="transcript-loading">
+            <div class="loading-spinner"></div>
+            <p class="loading-text">Loading transcript...</p>
+          </div>
+        {/if}
+        
+        {#if transcript?.panels}
+          <div class="transcript-container" class:loading={isLoadingTranscript}>
+            <table class="transcript-table">
+              <tbody>
+                {#each transcript.panels as panel}
+                  <tr>
+                    <td class="dialogue-cell">
+                      {#each panel.dialogue as dialogue}
+                        <div class="dialogue-line">{dialogue}</div>
+                      {/each}
+                    </td>
+                  </tr>
+                {/each}
+              </tbody>
+            </table>
+          </div>
+        {/if}
+      </div>
     </section>
   {/if}
 </main>
@@ -609,12 +626,54 @@
   }
 
   /* ===== TRANSCRIPT STYLES ===== */
+  .transcript-section {
+    position: relative;
+    min-height: 60px;
+  }
+
+  .transcript-loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--spacing-xl) 0;
+    gap: var(--spacing-md);
+  }
+
+  .loading-spinner {
+    width: 32px;
+    height: 32px;
+    border: 3px solid var(--bg-disabled);
+    border-top: 3px solid var(--border-color);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .loading-text {
+    margin: 0;
+    font-size: 14px;
+    color: var(--text-muted);
+    font-family: var(--font-serif);
+    font-style: italic;
+  }
+
   .transcript-container {
     margin: 10px auto 0;
     max-width: 550px;
     width: 100%;
     padding: 0 var(--spacing-lg);
     box-sizing: border-box;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .transcript-container.loading {
+    opacity: 0.5;
   }
 
   .transcript-table {
