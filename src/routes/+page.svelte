@@ -141,11 +141,11 @@
       // Add artificial delay for local testing to see loading effect
       // TODO: Remove or set to 0 for production
       const TESTING_DELAY = 0; // milliseconds
-      
+
       if (TESTING_DELAY > 0) {
-        await new Promise(resolve => setTimeout(resolve, TESTING_DELAY));
+        await new Promise((resolve) => setTimeout(resolve, TESTING_DELAY));
       }
-      
+
       const result = await loadComicBrowser(date);
       if (result) {
         await updateComicState(
@@ -411,7 +411,7 @@
   /* ===== CSS VARIABLES ===== */
   :global(:root) {
     /* Colors */
-    --main-color: #F5F6EE;
+    --main-color: #f5f6ee;
     --accent-color: #6d5f4d;
     --border-color: #8b7d6b;
     --text-color: #000;
@@ -420,7 +420,7 @@
     /* Backgrounds */
     /* --bg-main: #fafafa; */
     /* --bg-main: #F8F7F5; */
-    --bg-main: #F5F6EE;
+    --bg-main: #f5f6ee;
     --bg-light: #f8f6f0;
     --bg-white: #fff;
     --bg-transcript: #f5f4f0;
@@ -565,7 +565,7 @@
     background-color: var(--bg-light);
     border: 2px solid var(--border-color);
     font-family: var(--font-serif);
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bold;
     color: var(--text-color);
     text-transform: uppercase;
@@ -653,7 +653,7 @@
 
   .dialogue-line {
     margin: var(--spacing-xs) 0;
-    font-size: 15px;
+    font-size: 16px;
     color: var(--text-color);
     word-wrap: break-word;
   }
@@ -681,7 +681,7 @@
 
   .copyright {
     margin: 0 0 var(--spacing-sm) 0;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
     color: var(--accent-color);
     text-transform: uppercase;
@@ -690,7 +690,7 @@
 
   .footer-note {
     margin: 0;
-    font-size: 12px;
+    font-size: 14px;
     color: var(--border-color);
     font-style: italic;
   }
@@ -730,7 +730,7 @@
 
     .nav-btn {
       padding: var(--spacing-sm) var(--spacing-md);
-      font-size: 11px;
+      font-size: 13px;
       min-width: 70px;
     }
 
@@ -738,8 +738,12 @@
       padding: 10px;
     }
 
+    .transcript-table td {
+      padding: 7px 4px;
+    }
+
     .dialogue-line {
-      font-size: 14px;
+      font-size: 16px;
     }
 
     .footer {
@@ -747,11 +751,11 @@
     }
 
     .copyright {
-      font-size: 13px;
+      font-size: 15px;
     }
 
     .footer-note {
-      font-size: 11px;
+      font-size: 13px;
     }
   }
 </style>
