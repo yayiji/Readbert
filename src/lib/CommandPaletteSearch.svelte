@@ -223,6 +223,10 @@
           />
           {#if isSearching}
             <div class="loading-spinner"></div>
+          {:else}
+            <div class="keyboard-shortcut">
+              <kbd>⌘</kbd><kbd>K</kbd>
+            </div>
           {/if}
         </div>
       </div>
@@ -403,6 +407,34 @@
 
   .search-input::placeholder {
     color: #6b7280;
+  }
+
+  .keyboard-shortcut {
+    position: absolute;
+    right: 12px;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    pointer-events: none;
+  }
+
+  .keyboard-shortcut kbd {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(139, 125, 107, 0.3);
+    border-radius: 8px;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #6b7280;
+    box-shadow: 0 1px 0 rgba(139, 125, 107, 0.2);
+    font-weight: 500;
+    padding: 0;
+    line-height: 1;
+    text-align: center;
   }
 
   .loading-spinner {
@@ -618,6 +650,10 @@
       width: 95vw;
       height: 80vh;
       max-height: 600px;
+    }
+
+    .keyboard-shortcut {
+      display: none;
     }
 
     .results-list {
