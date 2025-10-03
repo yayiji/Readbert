@@ -16,7 +16,6 @@
   let nextComic = $state(null);
   let transcript = $state(null);
   let isLoading = $state(false);
-  let isLoadingTranscript = $state(false);
   let selectedDate = $state("");
   let isCommandPaletteOpen = $state(false);
 
@@ -82,7 +81,6 @@
       return null;
     }
 
-    isLoadingTranscript = true;
     try {
       // Ensure transcript database is loaded
       if (!transcriptDatabase.isDatabaseLoaded()) {
@@ -96,8 +94,6 @@
       console.error("Error loading transcript:", error);
       transcript = null;
       return null;
-    } finally {
-      isLoadingTranscript = false;
     }
   }
 
@@ -142,7 +138,7 @@
     try {
       // Add artificial delay for local testing to see loading effect
       // TODO: Remove or set to 0 for production
-      const TESTING_DELAY = 0; // milliseconds
+      const TESTING_DELAY = 800; // milliseconds
       
       if (TESTING_DELAY > 0) {
         await new Promise(resolve => setTimeout(resolve, TESTING_DELAY));
@@ -372,33 +368,24 @@
         />
       </div>
 
-      <!-- Transcript section with loading state -->
-      <div class="transcript-section">
-        {#if isLoadingTranscript}
-          <div class="transcript-loading">
-            <div class="loading-spinner"></div>
-            <p class="loading-text">Loading transcript...</p>
-          </div>
-        {/if}
-        
-        {#if transcript?.panels}
-          <div class="transcript-container" class:loading={isLoadingTranscript}>
-            <table class="transcript-table">
-              <tbody>
-                {#each transcript.panels as panel}
-                  <tr>
-                    <td class="dialogue-cell">
-                      {#each panel.dialogue as dialogue}
-                        <div class="dialogue-line">{dialogue}</div>
-                      {/each}
-                    </td>
-                  </tr>
-                {/each}
-              </tbody>
-            </table>
-          </div>
-        {/if}
-      </div>
+      <!-- Transcript section -->
+      {#if transcript?.panels}
+        <div class="transcript-container">
+          <table class="transcript-table">
+            <tbody>
+              {#each transcript.panels as panel}
+                <tr>
+                  <td class="dialogue-cell">
+                    {#each panel.dialogue as dialogue}
+                      <div class="dialogue-line">{dialogue}</div>
+                    {/each}
+                  </td>
+                </tr>
+              {/each}
+            </tbody>
+          </table>
+        </div>
+      {/if}
     </section>
   {/if}
 </main>
