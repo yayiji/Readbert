@@ -120,7 +120,7 @@
     nextComic = nextComicData;
 
     // Clear previous transcript when loading new comic
-    transcript = null;
+    // transcript = null;
 
     if (comic?.date) {
       selectedDate = comic.date;

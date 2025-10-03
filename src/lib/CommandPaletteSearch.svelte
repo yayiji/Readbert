@@ -350,7 +350,7 @@
 
   .command-palette {
     background: rgba(248, 246, 240, 0.8);
-    border-radius: 12px;
+    border-radius: 18px;
     /* border-radius: 0px; */
     border: 3px solid rgba(139, 125, 107, 0.4);
     box-shadow: 
