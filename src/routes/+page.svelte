@@ -138,7 +138,7 @@
     try {
       // Add artificial delay for local testing to see loading effect
       // TODO: Remove or set to 0 for production
-      const TESTING_DELAY = 800; // milliseconds
+      const TESTING_DELAY = 0; // milliseconds
       
       if (TESTING_DELAY > 0) {
         await new Promise(resolve => setTimeout(resolve, TESTING_DELAY));
