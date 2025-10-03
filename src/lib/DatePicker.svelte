@@ -458,7 +458,7 @@
 
   .action-btn {
     padding: 8px 16px;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 600;
     letter-spacing: 0.5px;
     text-transform: uppercase;
