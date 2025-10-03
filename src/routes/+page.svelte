@@ -359,7 +359,12 @@
 
       <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
 
-      <div class="comic-container">
+      <div class="comic-container" class:loading={isLoading}>
+        {#if isLoading}
+          <div class="comic-loading-overlay">
+            <div class="loading-spinner"></div>
+          </div>
+        {/if}
         <img
           src={currentComic.url}
           alt="Dilbert comic from {currentComic.date}"
@@ -597,6 +602,7 @@
 
   /* Comic Container */
   .comic-container {
+    position: relative;
     display: inline-block;
     background-color: var(--bg-white);
     padding: 15px;
@@ -605,28 +611,35 @@
     margin-top: 3px;
   }
 
+  .comic-container.loading .comic-image {
+    opacity: 0.4;
+    transition: opacity 0.2s ease;
+  }
+
+  .comic-loading-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(245, 246, 238, 0.5);
+    z-index: 10;
+    pointer-events: none;
+  }
+
   .comic-image {
     max-width: 100%;
     height: auto;
     display: block;
     border: 1px solid var(--border-color);
+    opacity: 1;
+    transition: opacity 0.2s ease;
   }
 
   /* ===== TRANSCRIPT STYLES ===== */
-  .transcript-section {
-    position: relative;
-    min-height: 60px;
-  }
-
-  .transcript-loading {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: var(--spacing-xl) 0;
-    gap: var(--spacing-md);
-  }
-
   .loading-spinner {
     width: 32px;
     height: 32px;
@@ -641,26 +654,12 @@
     100% { transform: rotate(360deg); }
   }
 
-  .loading-text {
-    margin: 0;
-    font-size: 14px;
-    color: var(--text-muted);
-    font-family: var(--font-serif);
-    font-style: italic;
-  }
-
   .transcript-container {
     margin: 10px auto 0;
     max-width: 550px;
     width: 100%;
     padding: 0 var(--spacing-lg);
     box-sizing: border-box;
-    opacity: 1;
-    transition: opacity 0.3s ease-in-out;
-  }
-
-  .transcript-container.loading {
-    opacity: 0.5;
   }
 
   .transcript-table {
