@@ -239,7 +239,7 @@
   }
 
   .date-input {
-    color: var(--accent-color, #6d5f4d);
+    color: black;
     background: transparent;
     border: none;
     font-family: var(--font-serif);
@@ -258,9 +258,6 @@
     gap: 6px;
   }
 
-  .date-text {
-    font-family: var(--font-mono, "Courier New", "Courier", monospace);
-  }
 
   .date-input :global(.calendar-icon) {
     flex-shrink: 0;
