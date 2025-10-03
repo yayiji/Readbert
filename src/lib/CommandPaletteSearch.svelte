@@ -235,7 +235,6 @@
       <div class="results-section" bind:this={resultsContainer}>
         {#if showNoResults}
           <div class="no-results">
-            <div class="no-results-icon">🔍</div>
             <div class="no-results-text">No comics found</div>
             <div class="no-results-subtitle">
               {#if !indexLoaded}
@@ -293,7 +292,6 @@
           </div>
         {:else if showEmptyState}
           <div class="empty-state">
-            <div class="empty-state-icon">⌘K</div>
             <div class="empty-state-text">Search Dilbert Comics</div>
             <div class="empty-state-subtitle">
               {#if indexLoaded}
@@ -578,20 +576,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 48px 24px;
+    padding: 100px 24px 0px;
     text-align: center;
   }
 
-  .empty-state-icon,
-  .no-results-icon {
-    font-size: 48px;
-    margin-bottom: 16px;
-    opacity: 0.6;
-  }
+
 
   .empty-state-text,
   .no-results-text {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 600;
     color: #374151;
     margin-bottom: 8px;
@@ -599,9 +592,8 @@
 
   .empty-state-subtitle,
   .no-results-subtitle {
-    font-size: 14px;
+    font-size: 16px;
     color: #6b7280;
-    max-width: 300px;
   }
 
   .command-palette-footer {
