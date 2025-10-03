@@ -370,7 +370,7 @@
 
   .month-btn {
     padding: 0;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     color: var(--text-color);
     width: 42px;
@@ -387,7 +387,7 @@
 
   .month-year {
     margin: 0;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: bold;
     color: var(--text-color);
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
@@ -406,7 +406,7 @@
 
   .weekday {
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     color: var(--text-color);
     width: 40px;
@@ -425,7 +425,7 @@
   .day {
     width: 40px;
     height: 40px;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: normal;
     color: var(--text-color);
     margin: 0;
@@ -458,7 +458,7 @@
 
   .action-btn {
     padding: 8px 16px;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 600;
     letter-spacing: 0.5px;
     text-transform: uppercase;
@@ -497,24 +497,6 @@
   }
 
   @media (max-width: 600px) {
-    .date-input {
-      font-size: 12px;
-    }
 
-    .date-input :global(.calendar-icon) {
-      width: 14px;
-      height: 14px;
-    }
-
-    .calendar-actions {
-      gap: 8px;
-    }
-
-    .action-btn {
-      font-size: 11px;
-      padding: 6px 12px;
-      min-width: 70px;
-      height: 32px;
-    }
   }
 </style>
