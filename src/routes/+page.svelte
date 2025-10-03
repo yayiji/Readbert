@@ -103,6 +103,8 @@
       // Load transcript immediately when image is ready
       loadTranscript(currentComic.date);
     }
+    // Clear loading state now that image has loaded
+    isLoading = false;
   }
 
   // Update comic state and save to storage
@@ -153,12 +155,13 @@
         );
       } else {
         console.error("Failed to load comic for date:", date);
+        isLoading = false; // Only clear on error
       }
     } catch (error) {
       console.error("Error loading comic:", error);
-    } finally {
-      isLoading = false;
+      isLoading = false; // Only clear on error
     }
+    // Don't set isLoading = false here - let handleImageLoad do it when image actually loads
   }
 
   async function getRandomComic() {
@@ -175,12 +178,13 @@
         );
       } else {
         console.error("Failed to load random comic");
+        isLoading = false; // Only clear on error
       }
     } catch (error) {
       console.error("Error loading random comic:", error);
-    } finally {
-      isLoading = false;
+      isLoading = false; // Only clear on error
     }
+    // Don't set isLoading = false here - let handleImageLoad do it
   }
 
   // Navigation functions
