@@ -349,7 +349,7 @@
           disabled={isLoading}
           onclick={getRandomComic}
         >
-          {isLoading ? "LOADING..." : "RANDOM"}
+          {isLoading ? "LOADING" : "RANDOM"}
         </button>
 
         <button
@@ -363,16 +363,12 @@
 
       <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
 
-      <div class="comic-container" class:loading={isLoading}>
-        {#if isLoading}
-          <div class="comic-loading-overlay">
-            <div class="loading-spinner"></div>
-          </div>
-        {/if}
+      <div class="comic-container">
         <img
           src={currentComic.url}
           alt="Dilbert comic from {currentComic.date}"
           class="comic-image"
+          class:loading={isLoading}
           onload={handleImageLoad}
         />
       </div>
@@ -606,7 +602,6 @@
 
   /* Comic Container */
   .comic-container {
-    position: relative;
     display: inline-block;
     background-color: var(--bg-white);
     padding: 15px;
@@ -615,49 +610,20 @@
     margin-top: 3px;
   }
 
-  .comic-container.loading .comic-image {
-    opacity: 0.4;
-    transition: opacity 0.2s ease;
-  }
-
-  .comic-loading-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: rgba(245, 246, 238, 0.5);
-    z-index: 10;
-    pointer-events: none;
-  }
-
   .comic-image {
     max-width: 100%;
     height: auto;
     display: block;
     border: 1px solid var(--border-color);
     opacity: 1;
-    transition: opacity 0.2s ease;
+    transition: opacity 0.3s ease;
+  }
+
+  .comic-image.loading {
+    opacity: 0.5;
   }
 
   /* ===== TRANSCRIPT STYLES ===== */
-  .loading-spinner {
-    width: 32px;
-    height: 32px;
-    border: 3px solid var(--bg-disabled);
-    border-top: 3px solid var(--border-color);
-    border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-  }
-
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
   .transcript-container {
     margin: 10px auto 0;
     max-width: 550px;
