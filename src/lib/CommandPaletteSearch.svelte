@@ -443,7 +443,7 @@
     flex-direction: column;
     gap: 6px;
     padding: 12px;
-    border-radius: 8px;
+    border-radius: 16px;
     cursor: pointer;
     transition: all 0.2s ease;
     margin-bottom: 0;
