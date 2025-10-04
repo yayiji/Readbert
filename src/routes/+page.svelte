@@ -604,7 +604,7 @@
   .comic-container {
     display: inline-block;
     background-color: var(--bg-white);
-    padding: 15px;
+    padding: 12px;
     border: 2px solid var(--border-color);
     box-shadow: var(--shadow);
     margin-top: 3px;
