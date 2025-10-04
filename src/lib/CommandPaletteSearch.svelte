@@ -201,6 +201,13 @@
     }
   });
 
+  // Focus input when modal opens
+  $effect(() => {
+    if (isOpen && searchInput) {
+      setTimeout(() => searchInput.focus(), 10);
+    }
+  });
+
   // Setup keyboard listeners and preload search index using effects
   // Setup and cleanup effect
   $effect(() => {
