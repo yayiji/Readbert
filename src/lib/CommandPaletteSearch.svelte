@@ -95,6 +95,29 @@
 
   function scrollToSelected() {
     setTimeout(() => {
+      const columnsPerRow = calculateGridDimensions();
+      const currentRow = Math.floor(selectedIndex / columnsPerRow);
+      const totalRows = Math.ceil(searchResults.length / columnsPerRow);
+      
+      // If on first row, scroll to top
+      if (currentRow === 0) {
+        resultsContainer?.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+        return;
+      }
+      
+      // If on last row, scroll to bottom
+      if (currentRow === totalRows - 1) {
+        resultsContainer?.scrollTo({
+          top: resultsContainer.scrollHeight,
+          behavior: "smooth",
+        });
+        return;
+      }
+      
+      // Otherwise, scroll the selected element into view
       const selectedElement = resultsContainer?.querySelector(
         `[data-index="${selectedIndex}"]`
       );
