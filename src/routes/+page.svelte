@@ -408,49 +408,6 @@
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
 <style>
-  /* ===== CSS VARIABLES ===== */
-  :global(:root) {
-    /* Colors */
-    --main-color: #f5f6ee;
-    --accent-color: #6d5f4d;
-    --border-color: #8b7d6b;
-    --text-color: #000;
-    --text-muted: #666;
-
-    /* Backgrounds */
-    /* --bg-main: #fafafa; */
-    /* --bg-main: #F8F7F5; */
-    --bg-main: #f5f6ee;
-    --bg-light: #f8f6f0;
-    --bg-white: #fff;
-    --bg-transcript: #f5f4f0;
-    --bg-disabled: #ebe8e0;
-
-    /* Layout */
-    --max-width: 800px;
-    --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    --navbar-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
-    --border-radius: 6px;
-
-    /* Typography */
-    --font-serif: "Times New Roman", Times, serif;
-    --font-mono: "Courier New", monospace;
-
-    /* Spacing */
-    --spacing-xs: 4px;
-    --spacing-sm: 8px;
-    --spacing-md: 12px;
-    --spacing-lg: 20px;
-    --spacing-xl: 24px;
-  }
-
-  /* ===== GLOBAL STYLES ===== */
-  :global(body) {
-    background-color: var(--bg-main);
-    margin: 0;
-    padding: 0;
-  }
-
   /* ===== NAVBAR STYLES ===== */
   .navbar {
     position: fixed;

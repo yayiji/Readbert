@@ -2,10 +2,7 @@
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
 
   // Props
-  let { 
-    isOpen = $bindable(false),
-    selectedDate = $bindable("")
-  } = $props();
+  let { isOpen = $bindable(false), selectedDate = $bindable("") } = $props();
 
   // State variables
   let searchQuery = $state("");
@@ -30,7 +27,10 @@
     const padding = 32;
     const gap = 16;
     const availableWidth = containerWidth - padding;
-    return Math.max(1, Math.floor((availableWidth + gap) / (itemMinWidth + gap)));
+    return Math.max(
+      1,
+      Math.floor((availableWidth + gap) / (itemMinWidth + gap))
+    );
   }
 
   // Keyboard handlers
@@ -52,7 +52,7 @@
     if (!isOpen || !hasResults) return;
 
     const columnsPerRow = calculateGridDimensions();
-    
+
     switch (event.key) {
       case "ArrowDown":
         event.preventDefault();
@@ -95,11 +95,13 @@
 
   function scrollToSelected() {
     setTimeout(() => {
-      const selectedElement = resultsContainer?.querySelector(`[data-index="${selectedIndex}"]`);
-      selectedElement?.scrollIntoView({ 
-        block: "nearest", 
+      const selectedElement = resultsContainer?.querySelector(
+        `[data-index="${selectedIndex}"]`
+      );
+      selectedElement?.scrollIntoView({
+        block: "nearest",
         inline: "nearest",
-        behavior: "smooth"
+        behavior: "smooth",
       });
     }, 0);
   }
@@ -140,7 +142,7 @@
   // Perform search with debouncing
   async function performSearch(query) {
     clearTimeout(searchTimeout);
-    
+
     if (!query.trim()) {
       searchResults = [];
       selectedIndex = 0;
@@ -180,14 +182,17 @@
   // Setup and cleanup effect
   $effect(() => {
     document.addEventListener("keydown", handleKeydown);
-    
+
     // Preload the search index in the background
-    searchIndex.load().then(() => {
-      indexLoaded = true;
-    }).catch(error => {
-      console.error("Failed to preload search index:", error);
-    });
-    
+    searchIndex
+      .load()
+      .then(() => {
+        indexLoaded = true;
+      })
+      .catch((error) => {
+        console.error("Failed to preload search index:", error);
+      });
+
     return () => {
       document.removeEventListener("keydown", handleKeydown);
       clearTimeout(searchTimeout);
@@ -197,8 +202,8 @@
 
 <!-- Command Palette Modal -->
 {#if isOpen}
-  <div 
-    class="command-palette-backdrop" 
+  <div
+    class="command-palette-backdrop"
     onclick={handleBackdropClick}
     onkeydown={handleKeydown}
     role="dialog"
@@ -213,7 +218,9 @@
           <input
             bind:this={searchInput}
             type="text"
-            placeholder={indexLoaded ? "Search Dilbert comics..." : "Loading search index..."}
+            placeholder={indexLoaded
+              ? "Search Dilbert comics..."
+              : "Loading search index..."}
             class="search-input"
             bind:value={searchQuery}
             onkeydown={handleResultsKeydown}
@@ -247,7 +254,7 @@
         {:else if hasResults}
           <div class="results-list">
             {#each searchResults as result, index}
-              <button 
+              <button
                 class="result-item"
                 class:selected={index === selectedIndex}
                 data-index={index}
@@ -274,11 +281,17 @@
                   {#each result.comic.panels as panel, panelIndex}
                     {#each panel.dialogue as dialogue, dialogueIndex}
                       {@const hasMatch = result.matches.some(
-                        (m) => m.panelIndex === panelIndex && m.dialogueIndex === dialogueIndex
+                        (m) =>
+                          m.panelIndex === panelIndex &&
+                          m.dialogueIndex === dialogueIndex
                       )}
                       {#if hasMatch}
                         <span class="dialogue-excerpt">
-                          {@html highlightText(dialogue.slice(0, 120) + (dialogue.length > 120 ? "..." : ""), searchQuery)}
+                          {@html highlightText(
+                            dialogue.slice(0, 120) +
+                              (dialogue.length > 120 ? "..." : ""),
+                            searchQuery
+                          )}
                         </span>
                         {#if panelIndex < result.comic.panels.length - 1 || dialogueIndex < panel.dialogue.length - 1}
                           <br />
@@ -355,7 +368,7 @@
     border-radius: 18px;
     /* border-radius: 0px; */
     border: 3px solid rgba(139, 125, 107, 0.4);
-    box-shadow: 
+    box-shadow:
       0 20px 25px -5px rgba(0, 0, 0, 0.3),
       0 10px 10px -5px rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(20px);
@@ -426,7 +439,7 @@
     align-items: center;
     justify-content: center;
     font-size: 15px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: var(--font-sans);
     color: #6b7280;
     box-shadow: 0 1px 0 rgba(139, 125, 107, 0.2);
     font-weight: 500;
@@ -482,7 +495,7 @@
     background: rgba(255, 255, 255, 0.6);
     text-align: left;
     width: 100%;
-    font-family: inherit;
+    font-family: var(--font-sans);
     font-size: inherit;
     height: auto;
     min-height: 180px;
@@ -541,7 +554,7 @@
     color: #374151;
     font-size: 12px;
     margin-bottom: 0;
-    font-family: "SF Mono", "Monaco", "Consolas", monospace;
+    font-family: var(--font-mono);
   }
 
   .result-text {
@@ -559,7 +572,7 @@
   }
 
   .dialogue-excerpt {
-    font-family: "Courier New", monospace;
+    font-family: var(--font-mono);
   }
 
   :global(.result-text mark) {
@@ -576,15 +589,14 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 100px 24px 0px;
+    padding: 80px 24px 0px;
     text-align: center;
+    font-family: var(--font-sans);
   }
-
-
 
   .empty-state-text,
   .no-results-text {
-    font-size: 24px;
+    font-size: 32px;
     font-weight: 600;
     color: #374151;
     margin-bottom: 8px;
@@ -601,7 +613,7 @@
     padding: 9px 16px;
     border-top: 1px solid #e5e7eb;
     /* background: var(--bg-light); */
-    background: #F8F7F5;
+    background: #f8f7f5;
   }
 
   .shortcuts {
@@ -624,7 +636,7 @@
     border-radius: 4px;
     padding: 2px 6px;
     font-size: 11px;
-    font-family: inherit;
+    font-family: var(--font-sans);
     color: #374151;
     box-shadow: 0 1px 0 #d1d5db;
   }
@@ -664,6 +676,11 @@
       width: 95vw;
       margin: 0 auto;
       height: 85vh;
+    }
+
+    .empty-state-text,
+    .no-results-text {
+      font-size: 24px;
     }
 
     .search-input {
