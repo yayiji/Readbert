@@ -49,6 +49,13 @@
   }
 
   function handleResultsKeydown(event) {
+    // Handle ⌘K to close modal
+    if (event.metaKey && event.key === "k") {
+      event.preventDefault();
+      closeModal();
+      return;
+    }
+
     if (!isOpen || !hasResults) return;
 
     const columnsPerRow = calculateGridDimensions();
