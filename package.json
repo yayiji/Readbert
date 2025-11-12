@@ -8,10 +8,11 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
-		"transcribe": "node transcribe-comics.js",
-		"transcribe:gemini": "node transcribe-comics-gemini.js",
-		"generate-search-index": "node scripts/generateSearchIndex.js",
-		"generate-databases": "node scripts/generateSearchIndex.js"
+		"transcribe": "node scripts/transcribe-comics.js",
+		"transcribe:gemini": "node scripts/transcribe-comics-gemini.js",
+		"generate-databases": "node scripts/generateDatabases.js",
+		"generate-transcript-index": "node scripts/generateTranscriptIndex.js",
+		"generate-search-index": "node scripts/generateSearchIndex.js"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^6.0.0",
@@ -28,8 +29,7 @@
 		"@fontsource/geist-sans": "^5.1.0",
 		"@fontsource/lato": "^5.1.1",
 		"@fontsource/ubuntu-mono": "^5.2.6",
-		"@google/genai": "^1.15.0",
-		"@google/generative-ai": "^0.24.1",
+		"@google/genai": "^1.29.0",
 		"@lucide/svelte": "^0.483.0",
 		"dotenv": "^17.2.1",
 		"idb": "^8.0.3"
