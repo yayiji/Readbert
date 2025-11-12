@@ -191,9 +191,11 @@ export async function getComicByDate(date) {
     return null;
   }
   
+  const url_01 = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${filename}`
+  const url_02 = `/dilbert-comics/${year}/${filename}`
   return {
     ...comic,
-    url: `/dilbert-comics/${year}/${filename}`
+    url: url_01,
   };
 }
 

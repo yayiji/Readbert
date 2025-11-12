@@ -85,7 +85,8 @@ class TranscriptDatabase {
 
       // No cache or cache is stale, fetch from server
       console.log("📥 Fetching transcript database from server...");
-      const response = await fetch("/dilbert-index/transcript-index.min.json");
+      // const response = await fetch("/dilbert-index/transcript-index.min.json");
+      const response = await fetch("https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json");
       if (!response.ok) {
         console.log(
           "Pregenerated transcript database file not found"
