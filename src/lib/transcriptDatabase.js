@@ -85,7 +85,7 @@ class TranscriptDatabase {
 
       // No cache or cache is stale, fetch from server
       console.log("📥 Fetching transcript database from server...");
-      const response = await fetch("/transcript-database.min.json");
+      const response = await fetch("/dilbert-index/transcript-index.min.json");
       if (!response.ok) {
         console.log(
           "Pregenerated transcript database file not found"
@@ -197,7 +197,7 @@ class TranscriptDatabase {
   async _isCacheValid(meta) {
     try {
       // Check server for metadata without downloading full database
-      const response = await fetch("/transcript-database.min.json", {
+      const response = await fetch("/dilbert-index/transcript-index.min.json", {
         method: "HEAD",
       });
 

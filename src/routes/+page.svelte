@@ -18,9 +18,9 @@
   let isLoading = $state(false);
   let selectedDate = $state("");
   let isCommandPaletteOpen = $state(false);
+  let initialized = $state(false);
 
   // Derived state
-  let initialized = $state(false);
   let hasValidComic = $derived(
     currentComic && isValidComicDateRange(currentComic.date)
   );
@@ -34,7 +34,7 @@
   const STORAGE_EXPIRY = 7 * 24 * 60 * 60 * 1000; // 7 days
 
   // Storage utilities
-  function saveComicToStorage(comic, prevComic, nextComic, comicTranscript) {
+  function saveLastVisitedComic(comic, prevComic, nextComic, comicTranscript) {
     if (typeof localStorage === "undefined") return;
 
     const comicData = {
@@ -47,7 +47,7 @@
     localStorage.setItem(STORAGE_KEY, JSON.stringify(comicData));
   }
 
-  function loadComicFromStorage() {
+  function loadLastVisitedComic() {
     if (typeof localStorage === "undefined") return null;
 
     try {
@@ -127,7 +127,7 @@
       // The image onload handler will trigger transcript loading
     }
 
-    saveComicToStorage(comic, prevComic, nextComicData, transcript);
+    saveLastVisitedComic(comic, prevComic, nextComicData, transcript);
   }
 
   async function loadComic(date) {
@@ -139,7 +139,6 @@
     isLoading = true;
     try {
       // Add artificial delay for local testing to see loading effect
-      // TODO: Remove or set to 0 for production
       const TESTING_DELAY = 0; // milliseconds
 
       if (TESTING_DELAY > 0) {
@@ -248,7 +247,7 @@
         return;
       }
 
-      const savedComic = loadComicFromStorage();
+      const savedComic = loadLastVisitedComic();
       if (savedComic) {
         // Load saved comic state
         await updateComicState(
@@ -291,6 +290,14 @@
   });
 </script>
 
+<svelte:head>
+  <title>DILBERT COMICS - Complete Collection</title>
+  <meta
+    name="description"
+    content="Browse the complete DILBERT COMICS collection"
+  />
+</svelte:head>
+
 <nav class="navbar">
   <div class="nav-container">
     <div class="nav-brand">
@@ -316,17 +323,11 @@
   </div>
 </nav>
 
-<svelte:head>
-  <title>DILBERT COMICS - Complete Collection</title>
-  <meta
-    name="description"
-    content="Browse the complete DILBERT COMICS collection"
-  />
-</svelte:head>
+
 
 <main class="container">
   <header class="header">
-    <h1 class="title">DILBERT COMICS</h1>
+    <h1 class="title">Dilbert Comics Reader</h1>
     <p class="subtitle">
       The Complete Collection of Scott Adams' Dilbert Comics
     </p>
@@ -474,6 +475,7 @@
     padding: 60px var(--spacing-lg) 0;
     font-family: var(--font-serif);
     background-color: var(--bg-main);
+    color: var(--text-color);
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -487,11 +489,11 @@
 
   .title {
     margin: 0;
-    font-size: 32px;
-    font-weight: bold;
+    font-size: 2rem;
+    font-weight: 600;
     color: var(--text-color);
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    letter-spacing: 0px;
+    /* text-transform: uppercase; */
   }
 
   .subtitle {
@@ -640,7 +642,6 @@
     margin: 0 0 var(--spacing-sm) 0;
     font-size: 16px;
     font-weight: bold;
-    color: var(--accent-color);
     text-transform: uppercase;
     letter-spacing: 1px;
   }
@@ -648,7 +649,6 @@
   .footer-note {
     margin: 0;
     font-size: 14px;
-    color: var(--border-color);
     font-style: italic;
   }
 

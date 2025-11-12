@@ -97,7 +97,7 @@ class SearchIndex {
 
       // No cache or cache is stale, fetch from server
       console.log("📥 Fetching search index from server...");
-      const response = await fetch("/search-index.min.json");
+      const response = await fetch("/dilbert-index/search-index.min.json");
       if (!response.ok) {
         console.log(
           "Pregenerated index file not found, will build from transcripts"
@@ -250,7 +250,7 @@ class SearchIndex {
   async _isCacheValid(meta) {
     try {
       // Check server for metadata without downloading full index
-      const response = await fetch("/search-index.min.json", {
+      const response = await fetch("/dilbert-index/search-index.min.json", {
         method: "HEAD",
       });
 
