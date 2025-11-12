@@ -1,11 +1,11 @@
 /**
- * Script to generate the search index
+ * Script to generate the transcript index
  *
- * This script creates the search index file:
- * - static/dilbert-index/search-index.min.json - Word-to-date mappings for search functionality
+ * This script creates the transcript index file:
+ * - static/dilbert-index/transcript-index.min.json - Complete transcript index for instant access
  *
  * Usage:
- * npm run generate-search-index
+ * npm run generate-transcript-index
  */
 
 import fs from 'fs';
@@ -15,32 +15,28 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-class SearchIndexGenerator {
+class TranscriptIndexGenerator {
 	constructor() {
 		this.transcripts = new Map(); // date -> transcript data
-		this.searchIndex = new Map(); // word -> Set of comic dates
 		this.transcriptsPath = path.join(__dirname, '../static/dilbert-transcripts');
-		this.outputPath = path.join(__dirname, '../static/dilbert-index/search-index.json');
+		this.outputPath = path.join(__dirname, '../static/dilbert-index/transcript-index.json');
 	}
 
 	/**
-	 * Main entry point: Generate search index
+	 * Main entry point: Generate transcript index
 	 */
 	async generate() {
-		console.log('🚀 Generating search index...\n');
+		console.log('🚀 Generating transcript index...\n');
 		const startTime = Date.now();
 
 		// Step 1: Load all transcripts
 		await this._loadAllTranscripts();
 
-		// Step 2: Build search index
-		await this._buildSearchIndex();
-
-		// Step 3: Save search index
-		await this._saveSearchIndex();
+		// Step 2: Generate and save index
+		await this._saveIndex();
 
 		const duration = Date.now() - startTime;
-		console.log(`✅ Search index generated successfully in ${duration}ms\n`);
+		console.log(`✅ Transcript index generated successfully in ${duration}ms\n`);
 	}
 
 	/**
@@ -73,57 +69,24 @@ class SearchIndexGenerator {
 	}
 
 	/**
-	 * Build search index from loaded transcripts
+	 * Generate and save the index
 	 */
-	async _buildSearchIndex() {
-		console.log('🔍 Building search index...');
+	async _saveIndex() {
+		console.log('💾 Saving transcript index...');
 		const startTime = Date.now();
 
-		for (const [date, comic] of this.transcripts) {
-			// Extract all text from the comic
-			const allText = [];
-			for (const panel of comic.panels) {
-				for (const dialogue of panel.dialogue) {
-					allText.push(dialogue);
-				}
-			}
-
-			// Index all words
-			const text = allText.join(' ').toLowerCase();
-			const words = this._extractWords(text);
-
-			for (const word of words) {
-				if (!this.searchIndex.has(word)) {
-					this.searchIndex.set(word, new Set());
-				}
-				this.searchIndex.get(word).add(date);
-			}
-		}
-
-		const duration = Date.now() - startTime;
-		console.log(`   🔤 ${this.searchIndex.size} unique words indexed in ${duration}ms\n`);
-	}
-
-	/**
-	 * Save the search index
-	 */
-	async _saveSearchIndex() {
-		console.log('💾 Saving search index...');
-		const startTime = Date.now();
-
-		const searchIndex = {
-			version: '2.0',
+		const index = {
+			version: '1.0',
 			generatedAt: new Date().toISOString(),
 			stats: {
-				totalComics: this.transcripts.size,
-				totalWords: this.searchIndex.size
+				totalTranscripts: this.transcripts.size,
 			},
-			wordIndex: {}
+			transcripts: {}
 		};
 
-		// Convert Map of Sets to object of arrays
-		for (const [word, dates] of this.searchIndex) {
-			searchIndex.wordIndex[word] = Array.from(dates);
+		// Convert Map to object
+		for (const [date, transcript] of this.transcripts) {
+			index.transcripts[date] = transcript;
 		}
 
 		// Ensure output directory exists
@@ -133,11 +96,11 @@ class SearchIndexGenerator {
 		}
 
 		// Save formatted version
-		const json = JSON.stringify(searchIndex, null, 2);
+		const json = JSON.stringify(index, null, 2);
 		fs.writeFileSync(this.outputPath, json, 'utf8');
 
 		// Save minified version
-		const compressedJson = JSON.stringify(searchIndex);
+		const compressedJson = JSON.stringify(index);
 		const compressedPath = this.outputPath.replace('.json', '.min.json');
 		fs.writeFileSync(compressedPath, compressedJson, 'utf8');
 
@@ -150,17 +113,6 @@ class SearchIndexGenerator {
 
 		const duration = Date.now() - startTime;
 		console.log(`   ✅ Saved in ${duration}ms\n`);
-	}
-
-	/**
-	 * Extract searchable words from text
-	 */
-	_extractWords(text) {
-		return text
-			.replace(/[^\w\s]/g, ' ')
-			.split(/\s+/)
-			.filter(word => word.length > 2) // Skip very short words
-			.map(word => word.toLowerCase());
 	}
 
 	/**
@@ -189,8 +141,8 @@ class SearchIndexGenerator {
 }
 
 // Run the generator
-const generator = new SearchIndexGenerator();
+const generator = new TranscriptIndexGenerator();
 generator.generate().catch(error => {
-	console.error('❌ Failed to generate search index:', error);
+	console.error('❌ Failed to generate transcript index:', error);
 	process.exit(1);
 });
