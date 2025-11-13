@@ -86,9 +86,9 @@ export function formatDate(dateString) {
  * @returns {string} Image URL
  */
 export function getComicImageUrl(year, filename) {
-  const url_01 = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${filename}`
-  const url_02 = `/dilbert-comics/${year}/${filename}`
-  return url_01;
+  const cdnUrl = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${filename}`
+  const localUrl = `/dilbert-comics/${year}/${filename}`
+  return cdnUrl; // Primary URL
 }
 
 /**

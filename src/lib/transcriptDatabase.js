@@ -85,18 +85,37 @@ class TranscriptDatabase {
 
       // No cache or cache is stale, fetch from server
       console.log("📥 Fetching transcript database from server...");
-      // const response = await fetch("/dilbert-index/transcript-index.min.json");
-      const response = await fetch("https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json");
-      if (!response.ok) {
-        console.log(
-          "Pregenerated transcript database file not found"
-        );
-        return null;
+      const cdnUrl = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json";
+      const localUrl = "/dilbert-index/transcript-index.min.json";
+
+      let response;
+      let source = "CDN";
+
+      // Try CDN first
+      try {
+        response = await fetch(cdnUrl);
+        if (!response.ok) {
+          throw new Error(`CDN fetch failed with status ${response.status}`);
+        }
+      } catch (cdnError) {
+        console.warn("CDN fetch failed, trying local URL:", cdnError.message);
+        // Fall back to local URL
+        try {
+          response = await fetch(localUrl);
+          source = "local";
+          if (!response.ok) {
+            throw new Error(`Local fetch failed with status ${response.status}`);
+          }
+        } catch (localError) {
+          console.warn("Local fetch also failed:", localError.message);
+          console.log("Pregenerated transcript database file not found");
+          return null;
+        }
       }
 
       const data = await response.json();
       console.log(
-        `📦 Downloaded transcript database (v${data.version}) from ${data.generatedAt}`
+        `📦 Downloaded transcript database (v${data.version}) from ${source} (generated ${data.generatedAt})`
       );
 
       // Cache the new data
