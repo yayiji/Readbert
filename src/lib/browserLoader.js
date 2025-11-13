@@ -3,7 +3,7 @@
  * Complete client-side comic management for Vercel deployment
  */
 import { loadTranscriptIndependently } from './comicsUtils.js';
-import { getComicByDate, getPreviousComic, getNextComic, getRandomComicFromYear, getAvailableYearsBrowser, getAllComicsSorted } from './comicsClient.js';
+import { getComicByDate, getPreviousComic, getNextComic, getRandomComicFromYear, getAvailableYearsBrowser, getAllComicsSorted, getFirstComicDate, getLastComicDate } from './comicsClient.js';
 
 /**
  * Load comic with navigation data (browser-side)
@@ -43,16 +43,23 @@ export async function loadComicBrowser(date) {
  */
 export async function loadRandomComicBrowser() {
   try {
-    // Get all valid comics and select randomly from them
-    const allComics = await getAllComicsSorted();
-    
-    if (allComics.length === 0) {
+    // Get date range boundaries
+    const firstDate = getFirstComicDate();
+    const lastDate = getLastComicDate();
+
+    if (!firstDate || !lastDate) {
       throw new Error('No comics available');
     }
-    
-    const randomIndex = Math.floor(Math.random() * allComics.length);
-    const comic = allComics[randomIndex];
-    
+
+    // Pick a random date between first and last comic
+    const firstTimestamp = new Date(firstDate).getTime();
+    const lastTimestamp = new Date(lastDate).getTime();
+    const randomTimestamp = firstTimestamp + Math.random() * (lastTimestamp - firstTimestamp);
+    const randomDate = new Date(randomTimestamp).toISOString().split('T')[0];
+
+    // Get the comic for this random date
+    const comic = await getComicByDate(randomDate);
+
     if (!comic) {
       throw new Error('No comics found');
     }
