@@ -97,14 +97,33 @@
     }
   }
 
+  // Preload comic images for faster navigation
+  async function preloadComicImages() {
+    // Preload previous comic image
+    if (previousComic?.url) {
+      const prevImg = new Image();
+      prevImg.src = previousComic.url;
+    }
+
+    // Preload next comic image
+    if (nextComic?.url) {
+      const nextImg = new Image();
+      nextImg.src = nextComic.url;
+    }
+  }
+
   // Handler for when comic image loads successfully
   function handleImageLoad() {
     if (currentComic?.date) {
       // Load transcript immediately when image is ready
       loadTranscript(currentComic.date);
     }
+
     // Clear loading state now that image has loaded
     isLoading = false;
+
+    // Preload adjacent comic images for instant navigation
+    preloadComicImages();
   }
 
   // Update comic state and save to storage
