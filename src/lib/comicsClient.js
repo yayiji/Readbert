@@ -2,7 +2,7 @@
  * Browser-side comic utilities - No file system dependencies
  * Perfect for Vercel and static deployment
  */
-import { parseComicFilename, getAvailableYears, isValidComicDate,getComicImageUrl } from './comicsUtils.js';
+import { parseComicFilename, getAvailableYears, isValidComicDate, getComicImageUrl } from './comicsUtils.js';
 
 /**
  * Define the actual date ranges for comics by year
@@ -70,12 +70,12 @@ function generateComicDatesForYear(year) {
   const dates = [];
   const startDate = new Date(dateRange.start);
   const endDate = new Date(dateRange.end);
-  
+
   for (let date = new Date(startDate); date <= endDate; date.setDate(date.getDate() + 1)) {
     const dateString = date.toISOString().split('T')[0];
     dates.push(dateString);
   }
-  
+
   return dates;
 }
 
@@ -88,7 +88,7 @@ export async function getComicsForYear(year) {
   try {
     // Generate all possible dates for the year
     const allDates = generateComicDatesForYear(year);
-    
+
     // Create comic objects for all dates
     const comics = allDates.map(date => {
       const filename = `${date}.gif`;
@@ -98,7 +98,7 @@ export async function getComicsForYear(year) {
         url: `/dilbert-comics/${year}/${filename}`
       };
     }).filter(comic => comic !== null);
-    
+
     return comics;
   } catch (error) {
     console.error(`Error generating comics for year ${year}:`, error);
@@ -121,7 +121,7 @@ export async function getAvailableYearsBrowser() {
 export function getFirstComicDate() {
   const years = Object.keys(COMIC_DATE_RANGES).sort();
   if (years.length === 0) return null;
-  
+
   const firstYear = years[0];
   return COMIC_DATE_RANGES[firstYear].start;
 }
@@ -133,7 +133,7 @@ export function getFirstComicDate() {
 export function getLastComicDate() {
   const years = Object.keys(COMIC_DATE_RANGES).sort();
   if (years.length === 0) return null;
-  
+
   const lastYear = years[years.length - 1];
   return COMIC_DATE_RANGES[lastYear].end;
 }
@@ -146,9 +146,9 @@ export function getLastComicDate() {
 export function isValidComicDateRange(date) {
   const firstDate = getFirstComicDate();
   const lastDate = getLastComicDate();
-  
+
   if (!firstDate || !lastDate) return false;
-  
+
   return date >= firstDate && date <= lastDate;
 }
 
@@ -160,7 +160,7 @@ export function isValidComicDateRange(date) {
 export async function getRandomComicFromYear(year) {
   const comics = await getComicsForYear(year);
   if (comics.length === 0) return null;
-  
+
   const randomIndex = Math.floor(Math.random() * comics.length);
   return comics[randomIndex];
 }
@@ -176,16 +176,16 @@ export async function getComicByDate(date) {
     console.warn('getComicByDate: Invalid date format:', date);
     return null;
   }
-  
+
   if (!isValidComicDateRange(date)) {
     console.warn('getComicByDate: Date outside valid range:', date);
     return null;
   }
-  
+
   const year = date.split('-')[0];
   const filename = `${date}.gif`;
   const comic = parseComicFilename(filename);
-  
+
   if (!comic) {
     console.warn('getComicByDate: Could not parse comic filename for date:', date);
     return null;
@@ -193,7 +193,7 @@ export async function getComicByDate(date) {
 
   return {
     ...comic,
-    url: getComicImageUrl(year,filename)
+    url: getComicImageUrl(year, date)
   };
 }
 
@@ -208,18 +208,18 @@ export async function getPreviousComic(currentDate) {
     if (!firstDate || currentDate <= firstDate) {
       return null; // Already at the first comic
     }
-    
+
     const current = new Date(currentDate);
     const previous = new Date(current);
     previous.setDate(previous.getDate() - 1);
-    
+
     const previousDateString = previous.toISOString().split('T')[0];
-    
+
     // Ensure we don't go before the first comic date
     if (previousDateString < firstDate) {
       return null;
     }
-    
+
     return await getComicByDate(previousDateString);
   } catch (error) {
     console.error('Error getting previous comic:', error);
@@ -238,18 +238,18 @@ export async function getNextComic(currentDate) {
     if (!lastDate || currentDate >= lastDate) {
       return null; // Already at the last comic
     }
-    
+
     const current = new Date(currentDate);
     const next = new Date(current);
     next.setDate(next.getDate() + 1);
-    
+
     const nextDateString = next.toISOString().split('T')[0];
-    
+
     // Ensure we don't go beyond the last comic date
     if (nextDateString > lastDate) {
       return null;
     }
-    
+
     return await getComicByDate(nextDateString);
   } catch (error) {
     console.error('Error getting next comic:', error);
@@ -264,12 +264,12 @@ export async function getNextComic(currentDate) {
 export async function getAllComicsSorted() {
   const availableYears = await getAvailableYearsBrowser();
   const allComics = [];
-  
+
   for (const year of availableYears) {
     const yearComics = await getComicsForYear(year);
     allComics.push(...yearComics);
   }
-  
+
   return allComics.sort((a, b) => a.date.localeCompare(b.date));
 }
 
@@ -281,18 +281,18 @@ export async function getAllComicsSorted() {
  */
 export async function searchComics(searchTerm, limit = 50) {
   if (!searchTerm) return [];
-  
+
   // If it's a complete date, try direct lookup
   if (/^\d{4}-\d{2}-\d{2}$/.test(searchTerm)) {
     const comic = await getComicByDate(searchTerm);
     return comic ? [comic] : [];
   }
-  
+
   // For partial dates, search all comics
   const allComics = await getAllComicsSorted();
   const filteredComics = allComics
     .filter(comic => comic.date.includes(searchTerm))
     .slice(0, limit);
-  
+
   return filteredComics;
 }

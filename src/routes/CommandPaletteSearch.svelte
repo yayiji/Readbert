@@ -162,7 +162,7 @@
 
   function getComicUrl(date) {
     const year = date.split("-")[0];
-    return getComicImageUrl(year, `${date}.gif`);
+    return getComicImageUrl(year, `${date}`);
   }
 
   function handleBackdropClick(event) {
