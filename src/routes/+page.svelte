@@ -5,8 +5,8 @@
     loadComicBrowser,
   } from "$lib/browserLoader.js";
   import { isValidComicDateRange } from "$lib/comicsClient.js";
-  import DatePicker from "$lib/DatePicker.svelte";
-  import CommandPaletteSearch from "$lib/CommandPaletteSearch.svelte";
+  import DatePicker from "./DatePicker.svelte";
+  import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import { transcriptDatabase } from "$lib/transcriptDatabase.js";
   import { page } from "$app/stores";
 

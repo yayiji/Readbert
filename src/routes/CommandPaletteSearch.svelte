@@ -1,6 +1,6 @@
 <script>
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
-  import { getComicImageUrl } from './comicsUtils.js';
+  import { getComicImageUrl } from '$lib/comicsUtils.js';
 
 
   // Props
