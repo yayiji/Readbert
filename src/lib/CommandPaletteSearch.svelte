@@ -1,5 +1,7 @@
 <script>
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
+  import { getComicImageUrl } from './comicsUtils.js';
+
 
   // Props
   let { isOpen = $bindable(false), selectedDate = $bindable("") } = $props();
@@ -158,9 +160,9 @@
     });
   }
 
-  function getComicImageUrl(date) {
+  function getComicUrl(date) {
     const year = date.split("-")[0];
-    return `/dilbert-comics/${year}/${date}.gif`;
+    return getComicImageUrl(year, `${date}.gif`);
   }
 
   function handleBackdropClick(event) {
@@ -307,7 +309,7 @@
                 <div class="result-preview">
                   <div class="comic-container">
                     <img
-                      src={getComicImageUrl(result.date)}
+                      src={getComicUrl(result.date)}
                       alt={`Dilbert comic from ${formatDate(result.date)}`}
                       class="comic-image"
                       loading="lazy"

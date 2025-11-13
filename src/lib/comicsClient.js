@@ -2,7 +2,7 @@
  * Browser-side comic utilities - No file system dependencies
  * Perfect for Vercel and static deployment
  */
-import { parseComicFilename, getAvailableYears, isValidComicDate } from './comicsUtils.js';
+import { parseComicFilename, getAvailableYears, isValidComicDate,getComicImageUrl } from './comicsUtils.js';
 
 /**
  * Define the actual date ranges for comics by year
@@ -190,12 +190,10 @@ export async function getComicByDate(date) {
     console.warn('getComicByDate: Could not parse comic filename for date:', date);
     return null;
   }
-  
-  const url_01 = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${filename}`
-  const url_02 = `/dilbert-comics/${year}/${filename}`
+
   return {
     ...comic,
-    url: url_01,
+    url: getComicImageUrl(year,filename)
   };
 }
 
