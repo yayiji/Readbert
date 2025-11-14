@@ -4,6 +4,7 @@
 
 // Import validation function (note: this creates a circular import, but it should work in this case)
 import { isValidComicDateRange } from './comicsClient.js';
+import { imageUrlDatabase } from './imageUrlDatabase.js';
 
 /**
  * Parse a comic filename to extract the date and format it
@@ -80,15 +81,29 @@ export function formatDate(dateString) {
 }
 
 /**
- * Get comic image URL
  * @param {string} year - Year folder
- * @param {string} filename - Comic filename
+ * @param {string} date - Date in YYYY-MM-DD format
  * @returns {string} Image URL
  */
 export function getComicImageUrl(year, date) {
-  const cdnUrl = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${date}.gif`
-  const localUrl = `/dilbert-comics/${year}/${date}.gif`
-  return cdnUrl; // Primary URL
+  
+  // Try to get URL from the image URL database first
+  if (imageUrlDatabase.isDatabaseLoaded()) {
+    const urlData = imageUrlDatabase.getImageUrl(date);
+    if (urlData && urlData.imageUrl) {
+      return urlData.imageUrl;
+    }
+  } else {
+    // Trigger database load in background for future calls (fire and forget)
+    imageUrlDatabase.load().catch(err => {
+      console.warn('Background image URL database load failed:', err);
+    });
+  }
+
+  const cdnUrl = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${date}.gif`;
+  const localUrl = `/dilbert-comics/${year}/${date}.gif`;
+
+  return cdnUrl;
 }
 
 /**

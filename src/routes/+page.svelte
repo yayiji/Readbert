@@ -391,14 +391,17 @@
 
       <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
 
-      <div class="comic-container">
-        <img
-          src={currentComic.url}
-          alt="Dilbert comic from {currentComic.date}"
-          class="comic-image"
-          class:loading={isLoading}
-          onload={handleImageLoad}
-        />
+      <!-- Comic image section -->
+      <div class="comic-container-wrapper">
+        <div class="comic-container">
+          <img
+            src={currentComic.url}
+            alt="Dilbert comic from {currentComic.date}"
+            class="comic-image"
+            class:loading={isLoading}
+            onload={handleImageLoad}
+          />
+        </div>
       </div>
 
       <!-- Transcript section -->
