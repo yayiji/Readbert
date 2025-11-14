@@ -8,6 +8,7 @@
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import { transcriptDatabase } from "$lib/transcriptDatabase.js";
+  import { imageUrlDatabase } from "$lib/imageUrlDatabase.js";
   import { page } from "$app/stores";
 
   // State management using $state rune
@@ -293,19 +294,26 @@
     initializeComic();
   });
 
-  // Initialize transcript database early (run once)
+  // Initialize databases early (run once)
   $effect(() => {
-    const initializeTranscriptDatabase = async () => {
+    const initializeDatabases = async () => {
       try {
-        console.log("🚀 Initializing transcript database...");
-        await transcriptDatabase.load();
+        console.log("🚀 Initializing databases...");
+
+        // Load both databases in parallel for better performance
+        await Promise.all([
+          transcriptDatabase.load(),
+          imageUrlDatabase.load()
+        ]);
+
         console.log("✅ Transcript database ready");
+        console.log("✅ Image URL database ready");
       } catch (error) {
-        console.error("❌ Failed to load transcript database:", error);
+        console.error("❌ Failed to load databases:", error);
       }
     };
 
-    initializeTranscriptDatabase();
+    initializeDatabases();
   });
 </script>
 
