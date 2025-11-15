@@ -139,16 +139,14 @@ export class Comic {
    * Determine the preferred comic image URL (IndexedDB index first, CDN fallback).
    */
   static #resolveImageUrl(year, date) {
-    const urlData = imageUrlDatabase.getImageUrl(date);
-    if (urlData?.imageUrl) {
-      return urlData.imageUrl;
-    }
+    // const urlData = imageUrlDatabase.getImageUrl(date);
+    // if (urlData?.imageUrl) {
+    //   return urlData.imageUrl;
+    // }
 
-
-    // Fallback to CDN URL
     const cdnUrl = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${date}.gif`;
     const localUrl = `/dilbert-comics/${year}/${date}.gif`;
-
+    
     return cdnUrl;
   }
 }
