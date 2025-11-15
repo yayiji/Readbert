@@ -45,7 +45,7 @@
   }
 
   .transcript-table td {
-    padding: 7px 16px;
+    padding: 0.6rem 1rem;
     vertical-align: top;
     text-align: left;
   }
@@ -73,7 +73,7 @@
   /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .transcript-table td {
-      padding: 7px 4px;
+      padding: 0.6rem 0.5rem;
     }
 
     .dialogue-line {
