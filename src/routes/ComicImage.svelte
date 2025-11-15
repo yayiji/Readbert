@@ -30,7 +30,6 @@
     max-width: 100%;
     height: auto;
     display: block;
-    border: 1px solid var(--border-color);
     opacity: 1;
     transition: opacity 0.3s ease;
   }
@@ -41,7 +40,7 @@
 
   @media (max-width: 768px) {
     .comic-container {
-      padding: 13px;
+      padding: 12px;
     }
   }
 
