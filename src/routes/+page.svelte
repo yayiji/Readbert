@@ -5,6 +5,7 @@
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
+  import ComicImage from "./ComicImage.svelte";
   import { page } from "$app/stores";
 
   // State management using $state rune
@@ -362,17 +363,7 @@
       <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
 
       <!-- Comic image section -->
-      <div class="comic-container-wrapper">
-        <div class="comic-container">
-          <img
-            src={currentComic.url}
-            alt="Dilbert comic from {currentComic.date}"
-            class="comic-image"
-            class:loading={isLoading}
-            onload={handleImageLoad}
-          />
-        </div>
-      </div>
+      <ComicImage {currentComic} {isLoading} onImageLoad={handleImageLoad} />
 
       <!-- Transcript section -->
       <TranscriptPanel {transcript} />
@@ -543,29 +534,6 @@
     }
   }
 
-  /* Comic Container */
-  .comic-container {
-    display: inline-block;
-    background-color: var(--bg-white);
-    padding: 12px;
-    border: 2px solid var(--border-color);
-    box-shadow: var(--shadow);
-    margin-top: 3px;
-  }
-
-  .comic-image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    border: 1px solid var(--border-color);
-    opacity: 1;
-    transition: opacity 0.3s ease;
-  }
-
-  .comic-image.loading {
-    opacity: 0.5;
-  }
-
   /* ===== FOOTER STYLES ===== */
   .footer {
     margin-top: auto;
@@ -630,10 +598,6 @@
       padding: var(--spacing-sm) var(--spacing-md);
       font-size: 13px;
       min-width: 70px;
-    }
-
-    .comic-container {
-      padding: 8px;
     }
 
     .footer {
