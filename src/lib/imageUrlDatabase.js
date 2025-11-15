@@ -302,7 +302,7 @@ class ImageUrlDatabase {
    */
   getImageUrl(date) {
     if (!this.isLoaded) {
-      console.warn("Image URL database not loaded. Call load() first.");
+      this.load();
       return null;
     }
     return this.imageUrls.get(date) || null;

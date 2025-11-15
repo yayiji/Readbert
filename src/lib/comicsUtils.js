@@ -14,14 +14,14 @@ import { imageUrlDatabase } from './imageUrlDatabase.js';
 export function parseComicFilename(filename) {
   // Remove file extension
   const nameWithoutExt = filename.replace(/\.[^/.]+$/, '');
-  
+
   // Date is now the full filename
   const date = nameWithoutExt;
-  
+
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
     return null;
   }
-  
+
   return {
     date,
     formattedDate: formatDate(date),
@@ -47,22 +47,22 @@ export function isValidComicDate(date) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
     return false;
   }
-  
+
   const [year, month, day] = date.split('-').map(Number);
   const comicDate = new Date(year, month - 1, day);
-  
+
   // Check if the date is valid
-  if (comicDate.getFullYear() !== year || 
-      comicDate.getMonth() !== month - 1 || 
-      comicDate.getDate() !== day) {
+  if (comicDate.getFullYear() !== year ||
+    comicDate.getMonth() !== month - 1 ||
+    comicDate.getDate() !== day) {
     return false;
   }
-  
+
   // Dilbert started in 1989
   if (year < 1989) {
     return false;
   }
-  
+
   return true;
 }
 
@@ -87,17 +87,9 @@ export function formatDate(dateString) {
  */
 export function getComicImageUrl(year, date) {
   
-  // Try to get URL from the image URL database first
-  if (imageUrlDatabase.isDatabaseLoaded()) {
-    const urlData = imageUrlDatabase.getImageUrl(date);
-    if (urlData && urlData.imageUrl) {
-      return urlData.imageUrl;
-    }
-  } else {
-    // Trigger database load in background for future calls (fire and forget)
-    imageUrlDatabase.load().catch(err => {
-      console.warn('Background image URL database load failed:', err);
-    });
+  const urlData = imageUrlDatabase.getImageUrl(date);
+  if (urlData && urlData.imageUrl) {
+    return urlData.imageUrl;
   }
 
   const cdnUrl = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${date}.gif`;
@@ -127,7 +119,7 @@ export function getAvailableYears() {
     '2019', '2020', '2021', '2022', '2023'
   ];
   // const TRANSCRIBED_YEARS = ['2020'];
-  
+
   return TRANSCRIBED_YEARS.sort(); // Keep them sorted chronologically
 }
 
@@ -140,14 +132,14 @@ export async function fetchTranscriptByDate(date) {
   try {
     const year = date.split('-')[0];
     const transcriptUrl = `/dilbert-transcripts/${year}/${date}.json`;
-    
+
     const response = await fetch(transcriptUrl);
-    
+
     if (!response.ok) {
       // Transcript file doesn't exist or can't be accessed
       return null;
     }
-    
+
     const transcript = await response.json();
     return transcript;
   } catch (error) {
@@ -165,7 +157,7 @@ export async function fetchTranscriptViaAPI(date) {
   try {
     const response = await fetch(`/api/transcript?date=${date}`);
     const result = await response.json();
-    
+
     if (result.success && result.transcriptUrl) {
       // API now returns URL for client-side fetching
       const transcriptResponse = await fetch(result.transcriptUrl);
@@ -173,7 +165,7 @@ export async function fetchTranscriptViaAPI(date) {
         return await transcriptResponse.json();
       }
     }
-    
+
     console.log(`Transcript not found for ${date}:`, result.error);
     return null;
   } catch (error) {
@@ -203,14 +195,14 @@ export async function loadTranscriptIndependently(date, method = 'direct') {
   switch (method) {
     case 'direct':
       return await fetchTranscriptByDate(date);
-    
+
     case 'api':
       return await fetchTranscriptViaAPI(date);
-    
+
     case 'auto':
       // Direct loading only for browser-first approach
       return await fetchTranscriptByDate(date);
-    
+
     default:
       return await fetchTranscriptByDate(date);
   }
