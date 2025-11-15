@@ -1,10 +1,16 @@
 <script>
   let { onSearchClick = () => {} } = $props();
+
+  function handleBrandClick() {
+    window.location.href = '/';
+  }
 </script>
 
 <nav class="navbar">
   <div class="nav-container">
-    <div class="nav-brand">
+    <!-- svelte-ignore a11y_click_events_have_key_events -->
+    <!-- svelte-ignore a11y_no_static_element_interactions -->
+    <div class="nav-brand" onclick={handleBrandClick}>
       <h1>READBERT</h1>
     </div>
     <div class="nav-buttons">
@@ -52,6 +58,10 @@
     /* max-width: 1200px; */
     margin: 0 auto;
     padding: var(--spacing-md) var(--spacing-xl);
+  }
+
+  .nav-brand {
+    cursor: pointer;
   }
 
   .nav-brand h1 {
