@@ -20,7 +20,7 @@
   .comic-container {
     display: inline-block;
     background-color: var(--bg-white);
-    padding: 12px;
+    padding: 15px;
     border: 2px solid var(--border-color);
     box-shadow: var(--shadow);
     margin-top: 3px;
@@ -39,9 +39,15 @@
     opacity: 0.5;
   }
 
+  @media (max-width: 768px) {
+    .comic-container {
+      padding: 13px;
+    }
+  }
+
   @media (max-width: 600px) {
     .comic-container {
-      padding: 8px;
+      padding: 10px;
     }
   }
 </style>
