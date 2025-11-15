@@ -7,6 +7,10 @@
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
   import ComicImage from "./ComicImage.svelte";
+  import Navbar from "./Navbar.svelte";
+  import NavigationButtons from "./NavigationButtons.svelte";
+  import Footer from "./Footer.svelte";
+  import Header from "./Header.svelte";
   import { page } from "$app/stores";
 
   // State management using $state rune
@@ -320,75 +324,24 @@
 
 <svelte:head>
   <title>DILBERT COMICS - Complete Collection</title>
-  <meta
-    name="description"
-    content="Browse the complete DILBERT COMICS collection"
-  />
 </svelte:head>
 
-<nav class="navbar">
-  <div class="nav-container">
-    <div class="nav-brand">
-      <h1>READBERT</h1>
-    </div>
-    <div class="nav-buttons">
-      <button onclick={openSearch} class="search-btn" aria-label="Search">
-        <svg
-          width="18"
-          height="18"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        >
-          <circle cx="11" cy="11" r="8"></circle>
-          <path d="m21 21-4.35-4.35"></path>
-        </svg>
-      </button>
-    </div>
-  </div>
-</nav>
-
-
+<Navbar onSearchClick={openSearch} />
 
 <main class="container">
-  <header class="header">
-    <h1 class="title">Dilbert Comics Reader</h1>
-    <p class="subtitle">
-      The Complete Collection of Scott Adams' Dilbert Comics
-    </p>
-  </header>
+  <Header />
 
   {#if hasValidComic}
     <section class="comic-section">
       <!-- Navigation buttons -->
-      <div class="navigation">
-        <button
-          class="nav-btn"
-          disabled={!previousComic || isLoading}
-          onclick={goToPrevious}
-        >
-          ◄ PREV
-        </button>
-
-        <button
-          class="nav-btn random"
-          disabled={isLoading}
-          onclick={getRandomComic}
-        >
-          {isLoading ? "LOADING..." : "RANDOM"}
-        </button>
-
-        <button
-          class="nav-btn"
-          disabled={!nextComic || isLoading}
-          onclick={goToNext}
-        >
-          NEXT ►
-        </button>
-      </div>
+      <NavigationButtons
+        {previousComic}
+        {nextComic}
+        {isLoading}
+        onPrevious={goToPrevious}
+        onNext={goToNext}
+        onRandom={getRandomComic}
+      />
 
       <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
 
@@ -401,77 +354,12 @@
   {/if}
 </main>
 
-<footer class="footer">
-  <div class="footer-content">
-    <p class="copyright">Dilbert © Scott Adams</p>
-    <p class="footer-note">
-      All comics are displayed for educational and archival purposes
-    </p>
-  </div>
-</footer>
+<Footer />
 
 <!-- Command Palette -->
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
 <style>
-  /* ===== NAVBAR STYLES ===== */
-  .navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    z-index: 100;
-
-    /* Appearance */
-    background: rgba(248, 246, 240, 0.1);
-    border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
-    box-shadow: var(--navbar-shadow);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-  }
-
-  .nav-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    /* max-width: 1200px; */
-    margin: 0 auto;
-    padding: var(--spacing-md) var(--spacing-xl);
-  }
-
-  .nav-brand h1 {
-    margin: 0;
-    padding: 0;
-    padding-left: 8px;
-    font-size: 18px;
-    font-weight: 600;
-    color: var(--text-color);
-  }
-
-  .nav-buttons {
-    display: flex;
-    gap: var(--spacing-md);
-  }
-
-  .search-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: var(--spacing-sm);
-    background: transparent;
-    border: none;
-    border-radius: var(--border-radius);
-    color: var(--text-color);
-    cursor: pointer;
-    transition: all 0.2s ease;
-  }
-
-  .search-btn:hover {
-    background: rgba(109, 95, 77, 0.1);
-  }
-
   /* ===== LAYOUT STYLES ===== */
   .container {
     width: 100%;
@@ -486,28 +374,6 @@
     flex-direction: column;
   }
 
-  .header {
-    margin: 40px auto 42px;
-    text-align: center;
-    max-width: var(--max-width);
-  }
-
-  .title {
-    margin: 0;
-    font-size: 2rem;
-    font-weight: 600;
-    color: var(--text-color);
-    letter-spacing: 0px;
-    /* text-transform: uppercase; */
-  }
-
-  .subtitle {
-    margin: 0;
-    font-size: 16px;
-    color: var(--text-muted);
-    font-style: italic;
-  }
-
   /* ===== COMIC SECTION STYLES ===== */
   .comic-section {
     text-align: center;
@@ -515,131 +381,10 @@
     max-width: var(--max-width);
   }
 
-  /* Navigation Buttons */
-  .navigation {
-    display: flex;
-    justify-content: center;
-    gap: var(--spacing-md);
-    margin-bottom: 27px;
-  }
-
-  .nav-btn {
-    padding: 9px 14px;
-    min-width: 74px;
-    background-color: var(--bg-light);
-    border: 2px solid var(--border-color);
-    font-family: var(--font-serif);
-    font-size: 13px;
-    font-weight: bold;
-    color: var(--text-color);
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    white-space: nowrap;
-    cursor: pointer;
-    transition: all 0.2s ease;
-  }
-
-  @media (hover: hover) and (pointer: fine) {
-    .nav-btn:hover:not(:disabled) {
-      background-color: var(--border-color);
-      color: var(--bg-light);
-    }
-  }
-
-  .nav-btn:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-    background-color: var(--bg-disabled);
-    color: var(--text-muted);
-  }
-
-  .nav-btn.random {
-    background-color: var(--border-color);
-    color: var(--bg-light);
-  }
-
-  @media (hover: hover) and (pointer: fine) {
-    .nav-btn.random:hover:not(:disabled) {
-      background-color: var(--accent-color);
-    }
-  }
-
-  /* ===== FOOTER STYLES ===== */
-  .footer {
-    margin-top: auto;
-    padding: 200px 0 var(--spacing-lg) 0;
-    text-align: center;
-  }
-
-  .footer-content {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 var(--spacing-lg);
-  }
-
-  .copyright {
-    margin: 0 0 var(--spacing-sm) 0;
-    font-size: 16px;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-
-  .footer-note {
-    margin: 0;
-    font-size: 14px;
-    font-style: italic;
-  }
-
   /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
-    .nav-container {
-      padding: var(--spacing-sm) 16px;
-    }
-
-    .nav-brand h1 {
-      font-size: 17px;
-    }
-
     .container {
       padding: 60px var(--spacing-sm) 0;
-    }
-
-    .header {
-      margin: 25px auto 32px;
-    }
-
-    .title {
-      font-size: 24px;
-      letter-spacing: 1px;
-    }
-
-    .subtitle {
-      font-size: 14px;
-    }
-
-    .navigation {
-      margin-bottom: 25px;
-      gap: var(--spacing-sm);
-      flex-wrap: wrap;
-    }
-
-    .nav-btn {
-      padding: var(--spacing-sm) var(--spacing-md);
-      font-size: 13px;
-      min-width: 70px;
-    }
-
-    .footer {
-      padding: 50px 0 var(--spacing-lg) 0;
-    }
-
-    .copyright {
-      font-size: 15px;
-    }
-
-    .footer-note {
-      font-size: 13px;
     }
   }
 </style>
