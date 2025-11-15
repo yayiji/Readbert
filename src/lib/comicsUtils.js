@@ -34,15 +34,6 @@ export function parseComicFilename(filename) {
   };
 }
 
-/**
- * Generate comic filename from date
- * @param {string} date - Date in YYYY-MM-DD format
- * @returns {string} Comic filename (e.g., "2023-01-15.gif")
- */
-export function generateComicFilename(date) {
-  return `${date}.gif`;
-}
-
 // ============================================================================
 // IMAGE URL UTILITIES
 // ============================================================================
@@ -65,16 +56,4 @@ export function getComicImageUrl(year, date) {
   const localUrl = `/dilbert-comics/${year}/${date}.gif`;
 
   return cdnUrl;
-}
-
-// ============================================================================
-// AVAILABLE YEARS
-// ============================================================================
-
-/**
- * Get all available years that have completed transcripts
- * @returns {string[]} Array of year strings (sorted chronologically)
- */
-export function getAvailableYears() {
-  return [...TRANSCRIBED_YEARS].sort(); // Return a sorted copy
 }
