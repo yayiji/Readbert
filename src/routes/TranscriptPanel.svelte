@@ -57,7 +57,7 @@
 
   .dialogue-line {
     margin: var(--spacing-xs) 0;
-    font-size: 16px;
+    font-size: 1rem;
     color: var(--text-color);
     word-wrap: break-word;
   }
@@ -77,7 +77,7 @@
     }
 
     .dialogue-line {
-      font-size: 15px;
+      font-size: 0.95rem;
     }
   }
 </style>
