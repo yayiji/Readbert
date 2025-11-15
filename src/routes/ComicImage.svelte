@@ -20,10 +20,10 @@
   .comic-container {
     display: inline-block;
     background-color: var(--bg-white);
-    padding: 15px;
+    padding: 0.9rem;
     border: 2px solid var(--border-color);
     box-shadow: var(--shadow);
-    margin-top: 3px;
+    margin-top: 0.5rem;
   }
 
   .comic-image {
@@ -40,13 +40,13 @@
 
   @media (max-width: 768px) {
     .comic-container {
-      padding: 12px;
+      padding: 0.8rem;
     }
   }
 
   @media (max-width: 600px) {
     .comic-container {
-      padding: 10px;
+      padding: 0.6rem;
     }
   }
 </style>
