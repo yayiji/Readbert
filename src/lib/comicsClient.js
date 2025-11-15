@@ -5,6 +5,7 @@
  */
 
 import { Comic } from './Comic.js';
+import { getFirstComicDate, getLastComicDate } from './dateUtils.js';
 
 // ============================================================================
 // COMIC RETRIEVAL BY DATE
@@ -69,7 +70,7 @@ export async function getNextComic(currentDate) {
 // ============================================================================
 
 /**
- * Load comic with navigation data (browser-side)
+ * Fetch comic with navigation data (browser-side)
  * @param {string} date - Date in YYYY-MM-DD format
  * @returns {Promise<Object>} Comic data with navigation
  */
@@ -102,11 +103,77 @@ export async function loadComicBrowser(date) {
  * Load random comic (browser-side)
  * @returns {Promise<Object>} Random comic data with navigation
  */
-export async function loadRandomComicBrowser() {
+export async function loadRandomComic() {
   try {
     const comic = Comic.random();
     if (!comic) {
       throw new Error('No comics available');
+    }
+
+    const previousComic = comic.getPrevious();
+    const nextComic = comic.getNext();
+
+    return {
+      success: true,
+      comic,
+      previousComic,
+      nextComic
+    };
+  } catch (error) {
+    return {
+      success: false,
+      error: error.message
+    };
+  }
+}
+
+/**
+ * Load first comic (browser-side)
+ * @returns {Promise<Object>} First comic data with navigation
+ */
+export async function loadFirstComic() {
+  try {
+    const firstDate = getFirstComicDate();
+    if (!firstDate) {
+      throw new Error('First comic date not available');
+    }
+
+    const comic = Comic.fromDate(firstDate);
+    if (!comic) {
+      throw new Error('First comic not found');
+    }
+
+    const previousComic = comic.getPrevious();
+    const nextComic = comic.getNext();
+
+    return {
+      success: true,
+      comic,
+      previousComic,
+      nextComic
+    };
+  } catch (error) {
+    return {
+      success: false,
+      error: error.message
+    };
+  }
+}
+
+/**
+ * Load last comic (browser-side)
+ * @returns {Promise<Object>} Last comic data with navigation
+ */
+export async function loadLastComic() {
+  try {
+    const lastDate = getLastComicDate();
+    if (!lastDate) {
+      throw new Error('Last comic date not available');
+    }
+
+    const comic = Comic.fromDate(lastDate);
+    if (!comic) {
+      throw new Error('Last comic not found');
     }
 
     const previousComic = comic.getPrevious();

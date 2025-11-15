@@ -1,6 +1,6 @@
 <script>
   import { isValidComicDateRange, isValidComicDate } from "$lib/dateUtils.js";
-  import { loadRandomComicBrowser, loadComicBrowser } from "$lib/comicsClient.js";
+  import { loadRandomComic, loadComicBrowser } from "$lib/comicsClient.js";
   import { loadTranscript, initializeDatabases } from "$lib/databases.js";
   import { Comic } from "$lib/Comic.js";
   import { saveLastVisitedComic, loadLastVisitedComic } from "$lib/comicStorage.js";
@@ -149,7 +149,7 @@
 
     isLoading = true;
     try {
-      const result = await loadRandomComicBrowser();
+      const result = await loadRandomComic();
       if (result) {
         await updateComicState(
           result.comic,
