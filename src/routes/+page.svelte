@@ -1,5 +1,5 @@
 <script>
-  import { isValidComicDateRange } from "$lib/dateUtils.js";
+  import { isValidComicDateRange, isValidComicDate } from "$lib/dateUtils.js";
   import { loadRandomComicBrowser, loadComicBrowser } from "$lib/comicsClient.js";
   import { loadTranscript, initializeDatabases } from "$lib/databases.js";
   import { Comic } from "$lib/Comic.js";
@@ -112,7 +112,7 @@
   }
 
   async function loadComic(date) {
-    if (isLoading || !date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    if (isLoading || !date || !isValidComicDate(date)) {
       console.error("Invalid date format or already loading:", date);
       return;
     }
@@ -169,21 +169,13 @@
 
   // Navigation functions
   function goToPrevious() {
-    if (
-      previousComic?.date &&
-      !isLoading &&
-      /^\d{4}-\d{2}-\d{2}$/.test(previousComic.date)
-    ) {
+    if (previousComic?.date && !isLoading) {
       loadComic(previousComic.date);
     }
   }
 
   function goToNext() {
-    if (
-      nextComic?.date &&
-      !isLoading &&
-      /^\d{4}-\d{2}-\d{2}$/.test(nextComic.date)
-    ) {
+    if (nextComic?.date && !isLoading) {
       loadComic(nextComic.date);
     }
   }
