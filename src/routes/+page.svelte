@@ -1,10 +1,10 @@
 <script>
-  import { formatDate } from "$lib/comicsUtils.js";
+  import { formatDate } from "$lib/dateUtils.js";
   import {
     loadRandomComicBrowser,
     loadComicBrowser,
   } from "$lib/browserLoader.js";
-  import { isValidComicDateRange } from "$lib/comicsClient.js";
+  import { isValidComicDateRange } from "$lib/dateUtils.js";
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
