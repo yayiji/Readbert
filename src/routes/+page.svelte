@@ -1,7 +1,8 @@
 <script>
-  import { formatDate, isValidComicDateRange } from "$lib/dateUtils.js";
+  import { isValidComicDateRange } from "$lib/dateUtils.js";
   import { loadRandomComicBrowser, loadComicBrowser } from "$lib/comicsClient.js";
   import { loadTranscript, initializeDatabases } from "$lib/databases.js";
+  import { Comic } from "$lib/Comic.js";
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
@@ -31,14 +32,23 @@
   const STORAGE_KEY = "lastVisitedComic";
   const STORAGE_EXPIRY = 7 * 24 * 60 * 60 * 1000; // 7 days
 
+  function serializeComic(comic) {
+    if (!comic) return null;
+    return typeof comic.toJSON === "function" ? comic.toJSON() : comic;
+  }
+
+  function hydrateComic(comic) {
+    return Comic.fromSerialized(comic);
+  }
+
   // Storage utilities
   function saveLastVisitedComic(comic, prevComic, nextComic, comicTranscript) {
     if (typeof localStorage === "undefined") return;
 
     const comicData = {
-      currentComic: comic,
-      previousComic: prevComic,
-      nextComic: nextComic,
+      currentComic: serializeComic(comic),
+      previousComic: serializeComic(prevComic),
+      nextComic: serializeComic(nextComic),
       transcript: comicTranscript,
       savedAt: Date.now(),
     };
@@ -60,7 +70,18 @@
         isValidComicDateRange(comicData.currentComic.date);
 
       if (isValid) {
-        return comicData;
+        const hydratedCurrent = hydrateComic(comicData.currentComic);
+        if (!hydratedCurrent) {
+          localStorage.removeItem(STORAGE_KEY);
+          return null;
+        }
+
+        return {
+          ...comicData,
+          currentComic: hydratedCurrent,
+          previousComic: hydrateComic(comicData.previousComic),
+          nextComic: hydrateComic(comicData.nextComic),
+        };
       } else {
         localStorage.removeItem(STORAGE_KEY);
         return null;
@@ -120,20 +141,29 @@
     nextComicData,
     shouldLoadTranscript = true
   ) {
-    currentComic = comic;
-    previousComic = prevComic;
-    nextComic = nextComicData;
+    const normalizedCurrent = hydrateComic(comic);
+    const normalizedPrevious = hydrateComic(prevComic);
+    const normalizedNext = hydrateComic(nextComicData);
+
+    currentComic = normalizedCurrent;
+    previousComic = normalizedPrevious;
+    nextComic = normalizedNext;
 
     // Don't clear previous transcript - keep it visible until new one loads
     // This provides a better user experience with no blank state
 
-    if (comic?.date) {
-      selectedDate = comic.date;
+    if (normalizedCurrent?.date) {
+      selectedDate = normalizedCurrent.date;
       // Don't load transcript here - wait for image to load successfully
       // The image onload handler will trigger transcript loading
     }
 
-    saveLastVisitedComic(comic, prevComic, nextComicData, transcript);
+    saveLastVisitedComic(
+      normalizedCurrent,
+      normalizedPrevious,
+      normalizedNext,
+      transcript
+    );
   }
 
   async function loadComic(date) {

@@ -1,6 +1,6 @@
 <script>
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
-  import { getComicImageUrl } from '$lib/comicsUtils.js';
+  import { Comic } from "$lib/Comic.js";
 
 
   // Props
@@ -160,11 +160,6 @@
     });
   }
 
-  function getComicUrl(date) {
-    const year = date.split("-")[0];
-    return getComicImageUrl(year, `${date}`);
-  }
-
   function handleBackdropClick(event) {
     if (event.target === event.currentTarget) {
       closeModal();
@@ -193,7 +188,12 @@
         }
 
         // Use the search index to find matching comics
-        searchResults = searchIndex.search(query, 10); // Limit to 10 results for performance
+        searchResults = searchIndex.search(query, 10).map((result) => {
+          return {
+            ...result,
+            comicEntity: Comic.fromDate(result.date)
+          };
+        }); // Limit to 10 results for performance
       } catch (error) {
         console.error("Search error:", error);
         searchResults = [];
@@ -306,16 +306,16 @@
                 <div class="result-content">
                   <div class="result-date">{formatDate(result.date)}</div>
                 </div>
-                <div class="result-preview">
-                  <div class="comic-container">
-                    <img
-                      src={getComicUrl(result.date)}
-                      alt={`Dilbert comic from ${formatDate(result.date)}`}
-                      class="comic-image"
-                      loading="lazy"
-                    />
-                  </div>
-                </div>
+                    <div class="result-preview">
+                      <div class="comic-container">
+                        <img
+                          src={result.comicEntity?.url ?? ""}
+                          alt={`Dilbert comic from ${formatDate(result.date)}`}
+                          class="comic-image"
+                          loading="lazy"
+                        />
+                      </div>
+                    </div>
                 <div class="result-text">
                   {#each result.comic.panels as panel, panelIndex}
                     {#each panel.dialogue as dialogue, dialogueIndex}
