@@ -8,13 +8,11 @@ import {
   isValidComicDate,
   isValidComicDateRange,
   getFirstComicDate,
-  getLastComicDate,
-  generateComicDatesForYear
+  getLastComicDate
 } from './dateUtils.js';
 import {
   parseComicFilename,
-  getComicImageUrl,
-  getAvailableYears
+  getComicImageUrl
 } from './comicsUtils.js';
 
 // ============================================================================
@@ -197,108 +195,4 @@ export async function loadRandomComicBrowser() {
       error: error.message
     };
   }
-}
-
-// ============================================================================
-// COMICS BY YEAR
-// ============================================================================
-
-/**
- * Get all comics for a specific year (browser-side)
- * @param {string} year - Year to get comics for
- * @returns {Promise<Array>} Array of comic objects
- */
-export async function getComicsForYear(year) {
-  try {
-    // Generate all possible dates for the year
-    const allDates = generateComicDatesForYear(year);
-
-    // Create comic objects for all dates
-    const comics = allDates.map(date => {
-      const filename = `${date}.gif`;
-      const comic = parseComicFilename(filename);
-      return {
-        ...comic,
-        url: `/dilbert-comics/${year}/${filename}`
-      };
-    }).filter(comic => comic !== null);
-
-    return comics;
-  } catch (error) {
-    console.error(`Error generating comics for year ${year}:`, error);
-    return [];
-  }
-}
-
-/**
- * Get all available years (browser-side)
- * @returns {Promise<Array>} Array of year strings
- */
-export async function getAvailableYearsBrowser() {
-  return getAvailableYears();
-}
-
-// ============================================================================
-// RANDOM COMICS
-// ============================================================================
-
-/**
- * Get a random comic from a specific year (browser-side)
- * @param {string} year - Year to get random comic from
- * @returns {Promise<Object|null>} Random comic object or null
- */
-export async function getRandomComicFromYear(year) {
-  const comics = await getComicsForYear(year);
-  if (comics.length === 0) return null;
-
-  const randomIndex = Math.floor(Math.random() * comics.length);
-  return comics[randomIndex];
-}
-
-// ============================================================================
-// BULK OPERATIONS
-// ============================================================================
-
-/**
- * Get all comics sorted by date (browser-side)
- * @returns {Promise<Array>} Array of all comic objects sorted by date
- */
-export async function getAllComicsSorted() {
-  const availableYears = await getAvailableYearsBrowser();
-  const allComics = [];
-
-  for (const year of availableYears) {
-    const yearComics = await getComicsForYear(year);
-    allComics.push(...yearComics);
-  }
-
-  return allComics.sort((a, b) => a.date.localeCompare(b.date));
-}
-
-// ============================================================================
-// SEARCH
-// ============================================================================
-
-/**
- * Search comics by date pattern (browser-side)
- * @param {string} searchTerm - Date pattern to search for
- * @param {number} limit - Maximum results to return
- * @returns {Promise<Array>} Array of matching comics
- */
-export async function searchComics(searchTerm, limit = 50) {
-  if (!searchTerm) return [];
-
-  // If it's a complete date, try direct lookup
-  if (/^\d{4}-\d{2}-\d{2}$/.test(searchTerm)) {
-    const comic = await getComicByDate(searchTerm);
-    return comic ? [comic] : [];
-  }
-
-  // For partial dates, search all comics
-  const allComics = await getAllComicsSorted();
-  const filteredComics = allComics
-    .filter(comic => comic.date.includes(searchTerm))
-    .slice(0, limit);
-
-  return filteredComics;
 }
