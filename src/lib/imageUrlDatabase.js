@@ -70,6 +70,17 @@ class ImageUrlDatabase {
   }
 
   /**
+   * Get URLs for loading the image URL database
+   * @returns {Object} Object with cdnUrl and localUrl
+   */
+  _getLoadingUrl() {
+    return {
+      cdnUrl: "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/image-url-index.json",
+      localUrl: "/dilbert-index/image-url-index.json"
+    };
+  }
+
+  /**
    * Try to load pregenerated image URL database with smart caching
    */
   async _loadPregeneratedDatabase() {
@@ -77,46 +88,22 @@ class ImageUrlDatabase {
       // First, check if we have a cached version
       const cachedData = await this._loadFromCache();
       if (cachedData) {
-        console.log(
-          `✅ Loaded image URL database from cache`
-        );
+        console.log(`✅ Loaded image URL database from cache`);
         return cachedData;
       }
 
       // No cache or cache is stale, fetch from server
       console.log("📥 Fetching image URL database from server...");
-      const cdnUrl = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/image-url-index.json";
-      const localUrl = "/dilbert-index/image-url-index.json";
 
-      let response;
-      let source = "CDN";
-
-      // Try CDN first
-      try {
-        response = await fetch(cdnUrl);
-        if (!response.ok) {
-          throw new Error(`CDN fetch failed with status ${response.status}`);
-        }
-      } catch (cdnError) {
-        console.warn("CDN fetch failed, trying local URL:", cdnError.message);
-        // Fall back to local URL
-        try {
-          response = await fetch(localUrl);
-          source = "local";
-          if (!response.ok) {
-            throw new Error(`Local fetch failed with status ${response.status}`);
-          }
-        } catch (localError) {
-          console.warn("Local fetch also failed:", localError.message);
-          console.log("Pregenerated image URL database file not found");
-          return null;
-        }
+      // Try CDN first, fallback to local
+      const response = await this._fetchWithFallback();
+      if (!response) {
+        console.log("Pregenerated image URL database file not found");
+        return null;
       }
 
-      const data = await response.json();
-      console.log(
-        `📦 Downloaded image URL database from ${source}`
-      );
+      const data = await response.data;
+      console.log(`📦 Downloaded image URL database from ${response.source}`);
 
       // Cache the new data
       await this._saveToCache(data);
@@ -132,6 +119,38 @@ class ImageUrlDatabase {
       }
       // No fallback available
       throw new Error("Image URL database unavailable and no cached version found");
+    }
+  }
+
+  /**
+   * Fetch from CDN with fallback to local
+   * Gets URLs from _getLoadingUrl() internally
+   * @returns {Promise<{data: any, source: string}|null>} Response data and source, or null if both fail
+   */
+  async _fetchWithFallback() {
+    const { cdnUrl, localUrl } = this._getLoadingUrl();
+
+    // Try CDN first
+    try {
+      const response = await fetch(cdnUrl);
+      if (response.ok) {
+        return { data: await response.json(), source: "CDN" };
+      }
+      throw new Error(`CDN fetch failed with status ${response.status}`);
+    } catch (cdnError) {
+      console.warn("CDN fetch failed, trying local URL:", cdnError.message);
+    }
+
+    // Fall back to local URL
+    try {
+      const response = await fetch(localUrl);
+      if (response.ok) {
+        return { data: await response.json(), source: "local" };
+      }
+      throw new Error(`Local fetch failed with status ${response.status}`);
+    } catch (localError) {
+      console.warn("Local fetch also failed:", localError.message);
+      return null;
     }
   }
 
@@ -217,8 +236,10 @@ class ImageUrlDatabase {
    */
   async _isCacheValid(meta) {
     try {
+      const { localUrl } = this._getLoadingUrl();
+
       // Check server for metadata without downloading full database
-      const response = await fetch("/dilbert-index/image-url-index.json", {
+      const response = await fetch(localUrl, {
         method: "HEAD",
       });
 
