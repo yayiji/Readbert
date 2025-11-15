@@ -1,14 +1,10 @@
 <script>
   import { formatDate, isValidComicDateRange } from "$lib/dateUtils.js";
-  import {
-    loadRandomComicBrowser,
-    loadComicBrowser,
-  } from "$lib/comicsClient.js";
+  import { loadRandomComicBrowser, loadComicBrowser } from "$lib/comicsClient.js";
+  import { loadTranscript, initializeDatabases } from "$lib/databases.js";
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
-  import { transcriptDatabase } from "$lib/transcriptDatabase.js";
-  import { imageUrlDatabase } from "$lib/imageUrlDatabase.js";
   import { page } from "$app/stores";
 
   // State management using $state rune
@@ -75,27 +71,16 @@
     }
   }
 
-  // Load transcript for a given date using transcript database
-  async function loadTranscript(date) {
+  // Load transcript for a given date
+  async function loadTranscriptForComic(date) {
     if (!date) {
       transcript = null;
       return null;
     }
 
-    try {
-      // Ensure transcript database is loaded
-      if (!transcriptDatabase.isDatabaseLoaded()) {
-        await transcriptDatabase.load();
-      }
-
-      const transcriptData = transcriptDatabase.getTranscript(date);
-      transcript = transcriptData;
-      return transcriptData;
-    } catch (error) {
-      console.error("Error loading transcript:", error);
-      transcript = null;
-      return null;
-    }
+    const transcriptData = await loadTranscript(date);
+    transcript = transcriptData;
+    return transcriptData;
   }
 
   // Preload comic images for faster navigation
@@ -117,7 +102,7 @@
   function handleImageLoad() {
     if (currentComic?.date) {
       // Load transcript immediately when image is ready
-      loadTranscript(currentComic.date);
+      loadTranscriptForComic(currentComic.date);
     }
 
     // Clear loading state now that image has loaded
@@ -281,7 +266,7 @@
         if (savedComic.transcript) {
           transcript = savedComic.transcript;
         } else if (savedComic.currentComic?.date) {
-          await loadTranscript(savedComic.currentComic.date);
+          await loadTranscriptForComic(savedComic.currentComic.date);
         }
       } else {
         // Load random comic if no saved data
@@ -294,26 +279,11 @@
     initializeComic();
   });
 
-  // Initialize databases early (run once)
+  // Initialize databases early for better performance (optional but recommended)
   $effect(() => {
-    const initializeDatabases = async () => {
-      try {
-        console.log("🚀 Initializing databases...");
-
-        // Load both databases in parallel for better performance
-        await Promise.all([
-          transcriptDatabase.load(),
-          imageUrlDatabase.load()
-        ]);
-
-        console.log("✅ Transcript database ready");
-        console.log("✅ Image URL database ready");
-      } catch (error) {
-        console.error("❌ Failed to load databases:", error);
-      }
-    };
-
-    initializeDatabases();
+    initializeDatabases().catch(error => {
+      console.error("Failed to initialize databases:", error);
+    });
   });
 </script>
 
