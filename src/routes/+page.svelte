@@ -15,7 +15,9 @@
   import Footer from "./Footer.svelte";
   import Header from "./Header.svelte";
   import { page } from "$app/stores";
-
+  
+  const DILBERT_ALL_BASE = "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
+  
   // ===== STATE =====
   let currentComic = $state(null);
   let previousComic = $state(null);
@@ -117,6 +119,36 @@
     }
   }
 
+  // ===== SHORTCUTS =====
+  function shouldIgnoreShortcut(target) {
+    if (!target) return false;
+    const tagName = target.tagName;
+    return (
+      tagName === "INPUT" ||
+      tagName === "TEXTAREA" ||
+      target?.isContentEditable ||
+      target?.closest?.("input, textarea, [contenteditable='true']")
+    );
+  }
+
+  function openDilbertAllAsset(extension) {
+    if (!currentComic?.date) return;
+    const year = currentComic.date.split("-")[0];
+    const targetUrl = `${DILBERT_ALL_BASE}/${year}/${currentComic.date}.${extension}`;
+    window.open(targetUrl, "_blank", "noopener,noreferrer");
+  }
+
+  function handleShortcutKeydown(event) {
+    if (isCommandPaletteOpen || shouldIgnoreShortcut(event.target)) return;
+    if (event.key === "w") {
+      event.preventDefault();
+      openDilbertAllAsset("gif");
+    } else if (event.key === "e") {
+      event.preventDefault();
+      openDilbertAllAsset("json");
+    }
+  }
+
   // ===== REACTIVE EFFECTS =====
 
   // Initialize on mount
@@ -180,6 +212,15 @@
     ) {
       loadComic(urlDate);
     }
+  });
+
+  // Register keyboard shortcuts for diving into GitHub sources
+  $effect(() => {
+    if (typeof document === "undefined") return;
+    document.addEventListener("keydown", handleShortcutKeydown);
+    return () => {
+      document.removeEventListener("keydown", handleShortcutKeydown);
+    };
   });
 </script>
 
