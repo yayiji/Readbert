@@ -326,7 +326,7 @@ class TranscriptDatabase {
    */
   getTranscript(date) {
     if (!this.isLoaded) {
-      console.warn("Transcript database not loaded. Call load() first.");
+      this.load();
       return null;
     }
     return this.transcripts.get(date) || null;

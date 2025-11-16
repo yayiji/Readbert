@@ -47,18 +47,7 @@ export async function loadTranscript(date) {
   if (!date) {
     return null;
   }
-
-  try {
-    // Ensure transcript database is loaded
-    if (!transcriptDatabase.isDatabaseLoaded()) {
-      await transcriptDatabase.load();
-    }
-
-    return transcriptDatabase.getTranscript(date);
-  } catch (error) {
-    console.error("Error loading transcript:", error);
-    return null;
-  }
+  return transcriptDatabase.getTranscript(date);
 }
 
 /**

@@ -19,16 +19,12 @@ export class Comic {
     this.url = url ?? Comic.#resolveImageUrl(this.year, date);
   }
 
-  /**
-   * Convenience getter for the four-digit year extracted from the date string.
-   */
+  // Convenience getter for the four-digit year extracted from the date string.
   get year() {
     return this.date.split('-')[0];
   }
 
-  /**
-   * Validate if a date string can represent a comic in our collection.
-   */
+  // Validate if a date string can represent a comic in our collection.
   static isValid(date) {
     if (!date || typeof date !== 'string') {
       return false;
@@ -36,9 +32,7 @@ export class Comic {
     return isValidComicDate(date) && isValidComicDateRange(date);
   }
 
-  /**
-   * Create a Comic instance from a YYYY-MM-DD string.
-   */
+  // Create a Comic instance from a YYYY-MM-DD string.
   static fromDate(date) {
     if (!Comic.isValid(date)) {
       return null;
@@ -46,9 +40,7 @@ export class Comic {
     return new Comic({ date });
   }
 
-  /**
-   * Rehydrate a Comic instance from a serialized/plain object.
-   */
+  // Rehydrate a Comic instance from a serialized/plain object.
   static fromSerialized(value) {
     if (!value) return null;
     if (value instanceof Comic) return value;
@@ -63,25 +55,19 @@ export class Comic {
     });
   }
 
-  /**
-   * Return the previous comic if it exists.
-   */
+  // Return the previous comic if it exists.
   getPrevious() {
     const previousDate = Comic.#shiftDateWithinRange(this.date, -1);
     return previousDate ? Comic.fromDate(previousDate) : null;
   }
 
-  /**
-   * Return the next comic if it exists.
-   */
+  // Return the next comic if it exists.
   getNext() {
     const nextDate = Comic.#shiftDateWithinRange(this.date, 1);
     return nextDate ? Comic.fromDate(nextDate) : null;
   }
 
-  /**
-   * Pick a random comic within the known date range.
-   */
+  // Pick a random comic within the known date range.
   static random() {
     const firstDate = getFirstComicDate();
     const lastDate = getLastComicDate();
@@ -98,9 +84,7 @@ export class Comic {
     return Comic.fromDate(randomDate);
   }
 
-  /**
-   * Provide a stable JSON representation for storage.
-   */
+  // Provide a stable JSON representation for storage.
   toJSON() {
     return {
       date: this.date,
@@ -109,9 +93,8 @@ export class Comic {
     };
   }
 
-  /**
-   * Shift a date by delta days while respecting global boundaries.
-   */
+
+  // Shift a date by delta days while respecting global boundaries.
   static #shiftDateWithinRange(date, delta) {
     const firstDate = getFirstComicDate();
     const lastDate = getLastComicDate();
@@ -135,18 +118,15 @@ export class Comic {
     return shifted;
   }
 
-  /**
-   * Determine the preferred comic image URL (IndexedDB index first, CDN fallback).
-   */
   static #resolveImageUrl(year, date) {
-    // const urlData = imageUrlDatabase.getImageUrl(date);
-    // if (urlData?.imageUrl) {
-    //   return urlData.imageUrl;
-    // }
+    const urlData = imageUrlDatabase.getImageUrl(date);
+    if (urlData?.imageUrl) {
+      return urlData.imageUrl;
+    }
 
     const cdnUrl = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-comics/${year}/${date}.gif`;
     const localUrl = `/dilbert-comics/${year}/${date}.gif`;
-    
+
     return cdnUrl;
   }
 }
