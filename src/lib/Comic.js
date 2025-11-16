@@ -18,7 +18,7 @@ export class Comic {
     this.date = date;
     this.formattedDate = formattedDate ?? formatDate(date);
     this.url = url ?? Comic.#resolveImageUrl(this.year, date);
-    this.transcript = transcript ?? Comic.#resolveTranscript(date);
+    this.transcript = transcript ?? Comic.#resolveTranscript(this.date);
   }
 
   // Convenience getter for the four-digit year extracted from the date string.

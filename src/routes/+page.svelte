@@ -1,7 +1,7 @@
 <script>
   import { isValidComicDateRange, isValidComicDate } from "$lib/dateUtils.js";
   import { loadRandomComic, loadComicBrowser } from "$lib/comicsClient.js";
-  import { loadTranscript, initializeDatabases } from "$lib/databases.js";
+  import { initializeDatabases } from "$lib/databases.js";
   import { Comic } from "$lib/Comic.js";
   import { saveLastVisitedComic, loadLastVisitedComic } from "$lib/comicStorage.js";
   import DatePicker from "./DatePicker.svelte";
@@ -38,18 +38,6 @@
     return Comic.fromSerialized(comic);
   }
 
-  // Load transcript for a given date
-  async function loadTranscriptForComic(date) {
-    if (!date) {
-      transcript = null;
-      return null;
-    }
-
-    const transcriptData = await loadTranscript(date);
-    transcript = transcriptData;
-    return transcriptData;
-  }
-
   // Preload comic images for faster navigation
   async function preloadComicImages() {
     // Preload previous comic image
@@ -67,9 +55,9 @@
 
   // Handler for when comic image loads successfully
   function handleImageLoad() {
-    if (currentComic?.date) {
-      // Load transcript immediately when image is ready
-      loadTranscriptForComic(currentComic.date);
+    // Load transcript after image has loaded
+    if (currentComic) {
+      transcript = currentComic.transcript;
     }
 
     // Clear loading state now that image has loaded
@@ -99,8 +87,6 @@
 
     if (normalizedCurrent?.date) {
       selectedDate = normalizedCurrent.date;
-      // Don't load transcript here - wait for image to load successfully
-      // The image onload handler will trigger transcript loading
     }
 
     saveLastVisitedComic(
@@ -230,11 +216,9 @@
           false // Don't load transcript yet
         );
 
-        // Restore saved transcript if available, otherwise load it
+        // Restore saved transcript if available
         if (savedComic.transcript) {
           transcript = savedComic.transcript;
-        } else if (savedComic.currentComic?.date) {
-          await loadTranscriptForComic(savedComic.currentComic.date);
         }
       } else {
         // Load random comic if no saved data
