@@ -5,7 +5,7 @@
     saveLastVisitedComic,
     loadLastVisitedComic,
   } from "$lib/databases.js";
-  import { Comic, loadRandomComic, loadComicBrowser } from "$lib/Comic.js";
+  import { Comic } from "$lib/Comic.js";
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
@@ -73,7 +73,7 @@
 
     isLoading = true;
     try {
-      const result = await loadComicBrowser(date);
+      const result = await Comic.load(date);
       if (result) {
         updateComicState(result.comic, result.previousComic, result.nextComic);
       } else {
@@ -91,7 +91,7 @@
 
     isLoading = true;
     try {
-      const result = await loadRandomComic();
+      const result = await Comic.loadRandom();
       if (result) {
         updateComicState(result.comic, result.previousComic, result.nextComic);
       } else {
