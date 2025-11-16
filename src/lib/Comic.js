@@ -10,8 +10,8 @@ import {
   getFirstComicDate,
   getLastComicDate
 } from './dateUtils.js';
-import { imageUrlDatabase } from './imageUrlDatabase.js';
-import { transcriptDatabase } from './transcriptDatabase.js';
+import { imageUrlIndex } from './imageUrlIndex.js';
+import { transcriptIndex } from './transcriptIndex.js';
 
 // Constants
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static';
@@ -57,7 +57,7 @@ export class Comic {
   }
 
   async #fetchTranscript() {
-    const dbTranscript = transcriptDatabase.getTranscript(this.date);
+    const dbTranscript = transcriptIndex.getTranscript(this.date);
     if (dbTranscript) return dbTranscript;
 
     try {
@@ -231,13 +231,13 @@ export class Comic {
   }
 
   static #resolveImageUrl(year, date) {
-    const urlData = imageUrlDatabase.getImageUrl(date);
+    const urlData = imageUrlIndex.getImageUrl(date);
     if (urlData?.imageUrl) return urlData.imageUrl;
 
     return `${CDN_BASE}/dilbert-comics/${year}/${date}.gif`;
   }
 
   static #resolveTranscript(date) {
-    return transcriptDatabase.getTranscript(date);
+    return transcriptIndex.getTranscript(date);
   }
 }

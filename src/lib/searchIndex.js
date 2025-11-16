@@ -1,10 +1,10 @@
 /**
  * Search Index for Dilbert Comics
- * Builds and manages searchable index using transcript database
+ * Builds and manages searchable index using the transcript index.
  */
 
 import { indexedDB, STORES } from './indexedDBManager.js';
-import { transcriptDatabase } from './transcriptDatabase.js';
+import { transcriptIndex } from './transcriptIndex.js';
 
 class SearchIndex {
   constructor() {
@@ -26,8 +26,8 @@ class SearchIndex {
     if (!this.isLoaded) {
       throw new Error('Search index not loaded');
     }
-    if (!transcriptDatabase.isDatabaseLoaded()) {
-      throw new Error('Transcript database not loaded');
+    if (!transcriptIndex.isDatabaseLoaded()) {
+      throw new Error('Transcript index not loaded');
     }
     if (!query?.trim()) return [];
 
@@ -47,7 +47,7 @@ class SearchIndex {
 
     const results = [];
     for (const date of candidateComics) {
-      const comic = transcriptDatabase.getTranscript(date);
+      const comic = transcriptIndex.getTranscript(date);
       if (!comic) continue;
 
       const matches = this._findMatches(comic, queryLower);
@@ -66,7 +66,7 @@ class SearchIndex {
   }
 
   getComic(date) {
-    return transcriptDatabase.getTranscript(date);
+    return transcriptIndex.getTranscript(date);
   }
 
   isIndexLoaded() {
@@ -74,12 +74,12 @@ class SearchIndex {
   }
 
   getStats() {
-    const transcriptStats = transcriptDatabase.getStats();
+    const transcriptStats = transcriptIndex.getStats();
     return {
       totalComics: transcriptStats.totalTranscripts,
       totalWords: this.index.size,
       isLoaded: this.isLoaded,
-      transcriptDatabase: transcriptStats
+      transcriptIndex: transcriptStats
     };
   }
 
@@ -94,7 +94,7 @@ class SearchIndex {
 
   async forceRefresh() {
     await this.clearCache();
-    await transcriptDatabase.forceRefresh();
+    await transcriptIndex.forceRefresh();
     this.isLoaded = false;
     this.loadPromise = null;
     this.index.clear();
@@ -108,28 +108,28 @@ class SearchIndex {
 
     console.log('Loading search index...');
     const startTime = Date.now();
-    await transcriptDatabase.load();
+    await transcriptIndex.load();
 
     const cachedIndex = await this._loadFromCache();
     if (cachedIndex) {
       this._loadCachedIndex(cachedIndex);
     } else {
-      console.log('📝 Building search index from transcript database...');
-      this._buildFromTranscriptDatabase();
+      console.log('📝 Building search index from transcript index...');
+      this._buildFromTranscriptIndex();
       await this._saveToCache();
     }
 
     console.log(`✅ Search index loaded in ${Date.now() - startTime}ms`);
-    console.log(`📊 ${transcriptDatabase.getStats().totalTranscripts} comics, ${this.index.size} words indexed`);
+    console.log(`📊 ${transcriptIndex.getStats().totalTranscripts} comics, ${this.index.size} words indexed`);
     this.isLoaded = true;
   }
 
-  _buildFromTranscriptDatabase() {
+  _buildFromTranscriptIndex() {
     this.index.clear();
-    const availableDates = transcriptDatabase.getAvailableDates();
+    const availableDates = transcriptIndex.getAvailableDates();
 
     for (const date of availableDates) {
-      const transcript = transcriptDatabase.getTranscript(date);
+      const transcript = transcriptIndex.getTranscript(date);
       if (transcript) {
         this._indexTranscript(transcript);
       }

@@ -1,20 +1,20 @@
 /**
- * Image URL Database Manager for Dilbert Comics
- * Manages preloaded image URLs with smart caching (IndexedDB + localStorage)
+ * Transcript Index Manager for Dilbert Comics
+ * Loads and caches the pregenerated transcript index for instant access.
  */
 
 import { indexedDB, STORES } from './indexedDBManager.js';
 
 // Constants
-const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/image-url-index.json";
-const LOCAL_URL = "/dilbert-index/image-url-index.json";
+const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json";
+const LOCAL_URL = "/dilbert-index/transcript-index.min.json";
 
-class ImageUrlDatabase {
+class TranscriptIndex {
   constructor() {
-    this.imageUrls = new Map();
+    this.transcripts = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
-    this.cacheKey = "dilbert-image-urls";
+    this.cacheKey = "dilbert-transcripts";
   }
 
   // ===== PUBLIC API =====
@@ -25,20 +25,20 @@ class ImageUrlDatabase {
     return this.loadPromise;
   }
 
-  getImageUrl(date) {
+  getTranscript(date) {
     if (!this.isLoaded) {
       this.load();
       return null;
     }
-    return this.imageUrls.get(date) || null;
+    return this.transcripts.get(date) || null;
   }
 
-  hasImageUrl(date) {
-    return this.isLoaded && this.imageUrls.has(date);
+  hasTranscript(date) {
+    return this.isLoaded && this.transcripts.has(date);
   }
 
   getAvailableDates() {
-    return this.isLoaded ? Array.from(this.imageUrls.keys()).sort() : [];
+    return this.isLoaded ? Array.from(this.transcripts.keys()).sort() : [];
   }
 
   isDatabaseLoaded() {
@@ -47,17 +47,17 @@ class ImageUrlDatabase {
 
   getStats() {
     return {
-      totalUrls: this.imageUrls.size,
+      totalTranscripts: this.transcripts.size,
       isLoaded: this.isLoaded
     };
   }
 
   async clearCache() {
     try {
-      await indexedDB.delete(STORES.IMAGE_URLS, this.cacheKey);
-      console.log("🗑️ Image URL database cache cleared");
+      await indexedDB.delete(STORES.TRANSCRIPTS, this.cacheKey);
+      console.log("🗑️ Transcript index cache cleared");
     } catch (error) {
-      console.warn("Error clearing image URL database cache:", error);
+      console.warn("Error clearing transcript index cache:", error);
     }
   }
 
@@ -65,7 +65,7 @@ class ImageUrlDatabase {
     await this.clearCache();
     this.isLoaded = false;
     this.loadPromise = null;
-    this.imageUrls.clear();
+    this.transcripts.clear();
     return this.load();
   }
 
@@ -74,17 +74,17 @@ class ImageUrlDatabase {
   async _loadDatabase() {
     if (this.isLoaded) return;
 
-    console.log("Loading image URL database...");
+    console.log("Loading transcript index...");
     const startTime = Date.now();
 
     const data = await this._loadPregeneratedDatabase();
     if (!data) {
-      throw new Error("Image URL database not available");
+      throw new Error("Transcript index not available");
     }
 
     this._loadFromPregenerated(data);
-    console.log(`✅ Image URL database loaded in ${Date.now() - startTime}ms`);
-    console.log(`📊 ${this.imageUrls.size} image URLs loaded`);
+    console.log(`✅ Transcript index loaded in ${Date.now() - startTime}ms`);
+    console.log(`📊 ${this.transcripts.size} transcripts loaded`);
     this.isLoaded = true;
   }
 
@@ -93,31 +93,31 @@ class ImageUrlDatabase {
       // Try cache first
       const cachedData = await this._loadFromCache();
       if (cachedData) {
-        console.log(`✅ Loaded image URL database from cache`);
+        console.log(`✅ Loaded transcript index from cache (v${cachedData.version})`);
         return cachedData;
       }
 
       // Fetch from server
-      console.log("📥 Fetching image URL database from server...");
+      console.log("📥 Fetching transcript index from server...");
       const response = await this._fetchWithFallback();
       if (!response) return null;
 
       const data = await response.data;
-      console.log(`📦 Downloaded image URL database from ${response.source}`);
+      console.log(`📦 Downloaded transcript index (v${data.version}) from ${response.source} (generated ${data.generatedAt})`);
 
       await this._saveToCache(data);
       return data;
     } catch (error) {
-      console.warn("Failed to load pregenerated image URL database:", error);
+      console.warn("Failed to load pregenerated transcript index:", error);
 
       // Fallback to stale cache
       const cachedData = await this._loadFromCache();
       if (cachedData) {
-        console.log("⚠️ Using stale cached image URL database due to server error");
+        console.log("⚠️ Using stale cached transcript index due to server error");
         return cachedData;
       }
 
-      throw new Error("Image URL database unavailable and no cached version found");
+      throw new Error("Transcript index unavailable and no cached version found");
     }
   }
 
@@ -146,9 +146,9 @@ class ImageUrlDatabase {
   }
 
   _loadFromPregenerated(data) {
-    this.imageUrls.clear();
-    for (const [date, urlData] of Object.entries(data)) {
-      this.imageUrls.set(date, urlData);
+    this.transcripts.clear();
+    for (const [date, transcript] of Object.entries(data.transcripts)) {
+      this.transcripts.set(date, transcript);
     }
   }
 
@@ -156,31 +156,30 @@ class ImageUrlDatabase {
 
   async _loadFromCache() {
     try {
-      const cachedData = await indexedDB.get(STORES.IMAGE_URLS, this.cacheKey);
+      const cachedData = await indexedDB.get(STORES.TRANSCRIPTS, this.cacheKey);
       if (cachedData) {
-        const totalUrls = Object.keys(cachedData).length;
-        console.log(`💾 Found cached image URL database: ${totalUrls} image URLs`);
+        const totalTranscripts = cachedData.stats?.totalTranscripts ?? Object.keys(cachedData.transcripts || {}).length;
+        console.log(`💾 Found cached transcript index: ${totalTranscripts} transcripts`);
       }
 
       return cachedData;
     } catch (error) {
-      console.warn("Error loading image URL database from cache:", error);
+      console.warn("Error loading transcript index from cache:", error);
       return null;
     }
   }
 
   async _saveToCache(data) {
     try {
-      await indexedDB.put(STORES.IMAGE_URLS, data, this.cacheKey);
+      await indexedDB.put(STORES.TRANSCRIPTS, data, this.cacheKey);
 
       const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
-      console.log(`💾 Image URL database cached successfully (${sizeMB} MB)`);
+      console.log(`💾 Transcript index cached successfully (${sizeMB} MB)`);
     } catch (error) {
-      console.warn("Failed to cache image URL database:", error);
+      console.warn("Failed to cache transcript index:", error);
     }
   }
-
 }
 
 // Export singleton instance
-export const imageUrlDatabase = new ImageUrlDatabase();
+export const transcriptIndex = new TranscriptIndex();
