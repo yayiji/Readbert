@@ -11,12 +11,14 @@ import {
   getLastComicDate
 } from './dateUtils.js';
 import { imageUrlDatabase } from './imageUrlDatabase.js';
+import { transcriptDatabase } from './transcriptDatabase.js';
 
 export class Comic {
-  constructor({ date, formattedDate, url }) {
+  constructor({ date, formattedDate, url, transcript }) {
     this.date = date;
     this.formattedDate = formattedDate ?? formatDate(date);
     this.url = url ?? Comic.#resolveImageUrl(this.year, date);
+    this.transcript = transcript ?? Comic.#resolveTranscript(date);
   }
 
   // Convenience getter for the four-digit year extracted from the date string.
@@ -51,7 +53,8 @@ export class Comic {
     return new Comic({
       date: value.date,
       formattedDate: value.formattedDate,
-      url: value.url
+      url: value.url,
+      transcript: value.transcript
     });
   }
 
@@ -89,7 +92,8 @@ export class Comic {
     return {
       date: this.date,
       formattedDate: this.formattedDate,
-      url: this.url
+      url: this.url,
+      transcript: this.transcript
     };
   }
 
@@ -128,5 +132,10 @@ export class Comic {
     const localUrl = `/dilbert-comics/${year}/${date}.gif`;
 
     return cdnUrl;
+  }
+
+  static #resolveTranscript(date) {
+    const transcript = transcriptDatabase.getTranscript(date);
+    return transcript || null;
   }
 }
