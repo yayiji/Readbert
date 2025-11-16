@@ -17,8 +17,8 @@ export class Comic {
   constructor({ date, formattedDate, url, transcript }) {
     this.date = date;
     this.formattedDate = formattedDate ?? formatDate(date);
-    this.url = url ?? Comic.#resolveImageUrl(this.year, date);
-    this.transcript = transcript ?? Comic.#resolveTranscript(this.date);
+    this.url = url ?? Comic.#resolveImageUrl(this.year, this.date);
+    this.transcript = transcript ?? Comic.#resolveTranscript(this.year, this.date);
   }
 
   // Convenience getter for the four-digit year extracted from the date string.
@@ -134,8 +134,16 @@ export class Comic {
     return cdnUrl;
   }
 
-  static #resolveTranscript(date) {
+  static #resolveTranscript(year, date) {
+    // Try to get from database first
     const transcript = transcriptDatabase.getTranscript(date);
-    return transcript || null;
+    if (transcript) {
+      return transcript;
+    }
+
+    // Fallback: return null
+    // Individual transcript files exist at /dilbert-transcripts/${year}/${date}.json
+    // but transcripts are complex objects that should be loaded from the database
+    return null;
   }
 }
