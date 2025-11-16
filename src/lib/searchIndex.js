@@ -6,16 +6,13 @@
 import { indexedDB, STORES } from './indexedDBManager.js';
 import { transcriptDatabase } from './transcriptDatabase.js';
 
-// Constants
-const CACHE_MAX_AGE = 24 * 60 * 60 * 1000;
-
 class SearchIndex {
   constructor() {
     this.index = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
     this.cacheKey = 'dilbert-search-index';
-    this.metaCacheKey = 'dilbert-search-index-meta';
+    this.cacheInfo = { hasCachedData: false };
   }
 
   // ===== PUBLIC API =====
@@ -90,8 +87,8 @@ class SearchIndex {
 
   async clearCache() {
     try {
-      localStorage.removeItem(this.metaCacheKey);
       await indexedDB.delete(STORES.SEARCH_INDEX, this.cacheKey);
+      this.cacheInfo = { hasCachedData: false };
       console.log('🗑️ Search index cache cleared');
     } catch (error) {
       console.warn('Error clearing cache:', error);
@@ -172,20 +169,14 @@ class SearchIndex {
 
   async _loadFromCache() {
     try {
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (!cachedMeta) return null;
-
-      const meta = JSON.parse(cachedMeta);
-      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
-
-      if (cacheAge >= CACHE_MAX_AGE) {
-        console.log('🔄 Cache is outdated, will rebuild index');
-        return null;
-      }
-
       const cachedData = await indexedDB.get(STORES.SEARCH_INDEX, this.cacheKey);
       if (cachedData) {
-        console.log(`💾 Loaded search index from cache (${meta.totalWords} words)`);
+        const totalWords = Object.keys(cachedData).length;
+        console.log(`💾 Loaded search index from cache (${totalWords} words)`);
+        this.cacheInfo = {
+          hasCachedData: true,
+          totalWords
+        };
       }
       return cachedData;
     } catch (error) {
@@ -201,13 +192,11 @@ class SearchIndex {
         indexData[word] = Array.from(dates);
       }
 
-      const meta = {
-        totalWords: this.index.size,
-        cachedAt: new Date().toISOString()
-      };
-      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
-
       await indexedDB.put(STORES.SEARCH_INDEX, indexData, this.cacheKey);
+      this.cacheInfo = {
+        hasCachedData: true,
+        totalWords: this.index.size
+      };
 
       const sizeMB = (JSON.stringify(indexData).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Search index cached successfully (${sizeMB} MB)`);
@@ -217,18 +206,7 @@ class SearchIndex {
   }
 
   _getCacheInfo() {
-    try {
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (cachedMeta) {
-        const meta = JSON.parse(cachedMeta);
-        return {
-          hasCachedData: true,
-          cachedAt: meta.cachedAt,
-          totalWords: meta.totalWords
-        };
-      }
-    } catch (error) {}
-    return { hasCachedData: false };
+    return { ...this.cacheInfo };
   }
 
   // ===== SEARCH UTILITIES =====

@@ -8,7 +8,6 @@ import { indexedDB, STORES } from './indexedDBManager.js';
 // Constants
 const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json";
 const LOCAL_URL = "/dilbert-index/transcript-index.min.json";
-const CACHE_MAX_AGE = 24 * 60 * 60 * 1000;
 
 class TranscriptDatabase {
   constructor() {
@@ -16,7 +15,7 @@ class TranscriptDatabase {
     this.isLoaded = false;
     this.loadPromise = null;
     this.cacheKey = "dilbert-transcripts";
-    this.metaCacheKey = "dilbert-transcripts-meta";
+    this.cacheInfo = { hasCachedData: false };
   }
 
   // ===== PUBLIC API =====
@@ -57,8 +56,8 @@ class TranscriptDatabase {
 
   async clearCache() {
     try {
-      localStorage.removeItem(this.metaCacheKey);
       await indexedDB.delete(STORES.TRANSCRIPTS, this.cacheKey);
+      this.cacheInfo = { hasCachedData: false };
       console.log("🗑️ Transcript database cache cleared");
     } catch (error) {
       console.warn("Error clearing transcript database cache:", error);
@@ -115,7 +114,7 @@ class TranscriptDatabase {
       console.warn("Failed to load pregenerated transcript database:", error);
 
       // Fallback to stale cache
-      const cachedData = await this._loadFromCache(true);
+      const cachedData = await this._loadFromCache();
       if (cachedData) {
         console.log("⚠️ Using stale cached transcript database due to server error");
         return cachedData;
@@ -158,21 +157,18 @@ class TranscriptDatabase {
 
   // ===== CACHE MANAGEMENT =====
 
-  async _loadFromCache(ignoreValidation = false) {
+  async _loadFromCache() {
     try {
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (!cachedMeta) return null;
-
-      const meta = JSON.parse(cachedMeta);
-
-      if (!ignoreValidation && !(await this._isCacheValid(meta))) {
-        console.log("🔄 Transcript database cache is outdated, will fetch from server");
-        return null;
-      }
-
       const cachedData = await indexedDB.get(STORES.TRANSCRIPTS, this.cacheKey);
       if (cachedData) {
-        console.log(`💾 Found cached transcript database: ${meta.totalTranscripts} transcripts`);
+        const totalTranscripts = cachedData.stats?.totalTranscripts ?? Object.keys(cachedData.transcripts || {}).length;
+        console.log(`💾 Found cached transcript database: ${totalTranscripts} transcripts`);
+        this.cacheInfo = {
+          hasCachedData: true,
+          version: cachedData.version ?? null,
+          generatedAt: cachedData.generatedAt ?? null,
+          totalTranscripts
+        };
       }
 
       return cachedData;
@@ -184,15 +180,15 @@ class TranscriptDatabase {
 
   async _saveToCache(data) {
     try {
-      const meta = {
-        version: data.version,
-        generatedAt: data.generatedAt,
-        totalTranscripts: data.stats.totalTranscripts,
-        cachedAt: new Date().toISOString(),
-      };
-      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
-
       await indexedDB.put(STORES.TRANSCRIPTS, data, this.cacheKey);
+
+      const totalTranscripts = data.stats?.totalTranscripts ?? Object.keys(data.transcripts || {}).length;
+      this.cacheInfo = {
+        hasCachedData: true,
+        version: data.version ?? null,
+        generatedAt: data.generatedAt ?? null,
+        totalTranscripts
+      };
 
       const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Transcript database cached successfully (${sizeMB} MB)`);
@@ -201,43 +197,9 @@ class TranscriptDatabase {
     }
   }
 
-  async _isCacheValid(meta) {
-    try {
-      const response = await fetch(LOCAL_URL, { method: "HEAD" });
-      if (!response.ok) return true; // Server error, use cache
-
-      // Check Last-Modified header
-      const lastModified = response.headers.get("Last-Modified");
-      if (lastModified) {
-        return new Date(lastModified) <= new Date(meta.cachedAt);
-      }
-
-      // Fallback: 24-hour expiry
-      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
-      return cacheAge < CACHE_MAX_AGE;
-    } catch (error) {
-      return true; // Network error, assume cache is valid
-    }
-  }
-
   _getCacheInfo() {
-    try {
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (cachedMeta) {
-        const meta = JSON.parse(cachedMeta);
-        return {
-          hasCachedData: true,
-          version: meta.version,
-          cachedAt: meta.cachedAt,
-          generatedAt: meta.generatedAt,
-        };
-      }
-    } catch (error) {
-      // Ignore
-    }
-    return { hasCachedData: false };
+    return { ...this.cacheInfo };
   }
-
 }
 
 // Export singleton instance

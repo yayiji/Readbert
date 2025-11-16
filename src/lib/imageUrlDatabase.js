@@ -8,7 +8,6 @@ import { indexedDB, STORES } from './indexedDBManager.js';
 // Constants
 const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/image-url-index.json";
 const LOCAL_URL = "/dilbert-index/image-url-index.json";
-const CACHE_MAX_AGE = 24 * 60 * 60 * 1000;
 
 class ImageUrlDatabase {
   constructor() {
@@ -16,7 +15,7 @@ class ImageUrlDatabase {
     this.isLoaded = false;
     this.loadPromise = null;
     this.cacheKey = "dilbert-image-urls";
-    this.metaCacheKey = "dilbert-image-urls-meta";
+    this.cacheInfo = { hasCachedData: false };
   }
 
   // ===== PUBLIC API =====
@@ -57,8 +56,8 @@ class ImageUrlDatabase {
 
   async clearCache() {
     try {
-      localStorage.removeItem(this.metaCacheKey);
       await indexedDB.delete(STORES.IMAGE_URLS, this.cacheKey);
+      this.cacheInfo = { hasCachedData: false };
       console.log("🗑️ Image URL database cache cleared");
     } catch (error) {
       console.warn("Error clearing image URL database cache:", error);
@@ -115,7 +114,7 @@ class ImageUrlDatabase {
       console.warn("Failed to load pregenerated image URL database:", error);
 
       // Fallback to stale cache
-      const cachedData = await this._loadFromCache(true);
+      const cachedData = await this._loadFromCache();
       if (cachedData) {
         console.log("⚠️ Using stale cached image URL database due to server error");
         return cachedData;
@@ -158,21 +157,16 @@ class ImageUrlDatabase {
 
   // ===== CACHE MANAGEMENT =====
 
-  async _loadFromCache(ignoreValidation = false) {
+  async _loadFromCache() {
     try {
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (!cachedMeta) return null;
-
-      const meta = JSON.parse(cachedMeta);
-
-      if (!ignoreValidation && !(await this._isCacheValid(meta))) {
-        console.log("🔄 Image URL database cache is outdated, will fetch from server");
-        return null;
-      }
-
       const cachedData = await indexedDB.get(STORES.IMAGE_URLS, this.cacheKey);
       if (cachedData) {
-        console.log(`💾 Found cached image URL database: ${meta.totalUrls} image URLs`);
+        const totalUrls = Object.keys(cachedData).length;
+        console.log(`💾 Found cached image URL database: ${totalUrls} image URLs`);
+        this.cacheInfo = {
+          hasCachedData: true,
+          totalUrls
+        };
       }
 
       return cachedData;
@@ -184,13 +178,13 @@ class ImageUrlDatabase {
 
   async _saveToCache(data) {
     try {
-      const meta = {
-        totalUrls: Object.keys(data).length,
-        cachedAt: new Date().toISOString(),
-      };
-      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
-
       await indexedDB.put(STORES.IMAGE_URLS, data, this.cacheKey);
+
+      const totalUrls = Object.keys(data).length;
+      this.cacheInfo = {
+        hasCachedData: true,
+        totalUrls
+      };
 
       const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Image URL database cached successfully (${sizeMB} MB)`);
@@ -199,40 +193,8 @@ class ImageUrlDatabase {
     }
   }
 
-  async _isCacheValid(meta) {
-    try {
-      const response = await fetch(LOCAL_URL, { method: "HEAD" });
-      if (!response.ok) return true; // Server error, use cache
-
-      // Check Last-Modified header
-      const lastModified = response.headers.get("Last-Modified");
-      if (lastModified) {
-        return new Date(lastModified) <= new Date(meta.cachedAt);
-      }
-
-      // Fallback: 24-hour expiry
-      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
-      return cacheAge < CACHE_MAX_AGE;
-    } catch (error) {
-      return true; // Network error, assume cache is valid
-    }
-  }
-
   _getCacheInfo() {
-    try {
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (cachedMeta) {
-        const meta = JSON.parse(cachedMeta);
-        return {
-          hasCachedData: true,
-          cachedAt: meta.cachedAt,
-          totalUrls: meta.totalUrls,
-        };
-      }
-    } catch (error) {
-      // Ignore
-    }
-    return { hasCachedData: false };
+    return { ...this.cacheInfo };
   }
 
 }
