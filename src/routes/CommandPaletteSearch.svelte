@@ -2,11 +2,10 @@
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
   import { Comic } from "$lib/Comic.js";
 
-
-  // Props
+  // ===== PROPS =====
   let { isOpen = $bindable(false), selectedDate = $bindable("") } = $props();
 
-  // State variables
+  // ===== STATE =====
   let searchQuery = $state("");
   let searchResults = $state([]);
   let selectedIndex = $state(0);
@@ -16,42 +15,55 @@
   let resultsContainer = $state();
   let searchTimeout;
 
-  // Derived state
   let hasResults = $derived(searchResults.length > 0);
   let hasQuery = $derived(searchQuery.trim().length > 0);
   let showNoResults = $derived(hasQuery && !hasResults && !isSearching);
   let showEmptyState = $derived(!hasQuery);
 
-  // Grid calculation utilities
+  // ===== GRID UTILITIES =====
+
   function calculateGridDimensions() {
     const containerWidth = resultsContainer?.offsetWidth || 900;
     const itemMinWidth = 350;
     const padding = 32;
     const gap = 16;
     const availableWidth = containerWidth - padding;
-    return Math.max(
-      1,
-      Math.floor((availableWidth + gap) / (itemMinWidth + gap))
-    );
+    return Math.max(1, Math.floor((availableWidth + gap) / (itemMinWidth + gap)));
   }
 
-  // Keyboard handlers
+  function scrollToSelected() {
+    setTimeout(() => {
+      const columnsPerRow = calculateGridDimensions();
+      const currentRow = Math.floor(selectedIndex / columnsPerRow);
+      const totalRows = Math.ceil(searchResults.length / columnsPerRow);
+
+      if (currentRow === 0) {
+        resultsContainer?.scrollTo({ top: 0, behavior: "smooth" });
+        return;
+      }
+
+      if (currentRow === totalRows - 1) {
+        resultsContainer?.scrollTo({ top: resultsContainer.scrollHeight, behavior: "smooth" });
+        return;
+      }
+
+      const selectedElement = resultsContainer?.querySelector(`[data-index="${selectedIndex}"]`);
+      selectedElement?.scrollIntoView({ block: "nearest", inline: "nearest", behavior: "smooth" });
+    }, 0);
+  }
+
+  // ===== KEYBOARD HANDLERS =====
+
   function handleKeydown(event) {
     if (event.metaKey && event.key === "k") {
       event.preventDefault();
       isOpen = !isOpen;
-      if (isOpen) {
-        setTimeout(() => searchInput?.focus(), 10);
-      }
+      if (isOpen) setTimeout(() => searchInput?.focus(), 10);
     }
-
-    if (event.key === "Escape") {
-      closeModal();
-    }
+    if (event.key === "Escape") closeModal();
   }
 
   function handleResultsKeydown(event) {
-    // Handle ⌘K to close modal
     if (event.metaKey && event.key === "k") {
       event.preventDefault();
       closeModal();
@@ -95,50 +107,13 @@
         break;
       case "Enter":
         event.preventDefault();
-        if (searchResults[selectedIndex]) {
-          selectResult(searchResults[selectedIndex]);
-        }
+        if (searchResults[selectedIndex]) selectResult(searchResults[selectedIndex]);
         break;
     }
   }
 
-  function scrollToSelected() {
-    setTimeout(() => {
-      const columnsPerRow = calculateGridDimensions();
-      const currentRow = Math.floor(selectedIndex / columnsPerRow);
-      const totalRows = Math.ceil(searchResults.length / columnsPerRow);
-      
-      // If on first row, scroll to top
-      if (currentRow === 0) {
-        resultsContainer?.scrollTo({
-          top: 0,
-          behavior: "smooth",
-        });
-        return;
-      }
-      
-      // If on last row, scroll to bottom
-      if (currentRow === totalRows - 1) {
-        resultsContainer?.scrollTo({
-          top: resultsContainer.scrollHeight,
-          behavior: "smooth",
-        });
-        return;
-      }
-      
-      // Otherwise, scroll the selected element into view
-      const selectedElement = resultsContainer?.querySelector(
-        `[data-index="${selectedIndex}"]`
-      );
-      selectedElement?.scrollIntoView({
-        block: "nearest",
-        inline: "nearest",
-        behavior: "smooth",
-      });
-    }, 0);
-  }
+  // ===== MODAL CONTROL =====
 
-  // Modal control
   function closeModal() {
     isOpen = false;
     searchQuery = "";
@@ -151,22 +126,12 @@
     closeModal();
   }
 
-  // Utility functions
-  function formatDate(dateStr) {
-    return new Date(dateStr).toLocaleDateString("en-US", {
-      year: "numeric",
-      month: "short",
-      day: "numeric",
-    });
-  }
-
   function handleBackdropClick(event) {
-    if (event.target === event.currentTarget) {
-      closeModal();
-    }
+    if (event.target === event.currentTarget) closeModal();
   }
 
-  // Perform search with debouncing
+  // ===== SEARCH =====
+
   async function performSearch(query) {
     clearTimeout(searchTimeout);
 
@@ -181,56 +146,50 @@
       selectedIndex = 0;
 
       try {
-        // Ensure search index is loaded first
         if (!indexLoaded) {
           await searchIndex.load();
           indexLoaded = true;
         }
 
-        // Use the search index to find matching comics
-        searchResults = searchIndex.search(query, 10).map((result) => {
-          return {
-            ...result,
-            comicEntity: Comic.fromDate(result.date)
-          };
-        }); // Limit to 10 results for performance
+        searchResults = searchIndex.search(query, 10).map((result) => ({
+          ...result,
+          comicEntity: Comic.fromDate(result.date)
+        }));
       } catch (error) {
         console.error("Search error:", error);
         searchResults = [];
       } finally {
         isSearching = false;
       }
-    }, 150); // Debounce delay
+    }, 150);
   }
 
-  // Handle search input changes
+  // ===== UTILITIES =====
+
+  function formatDate(dateStr) {
+    return new Date(dateStr).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+    });
+  }
+
+  // ===== EFFECTS =====
+
   $effect(() => {
-    if (searchQuery !== undefined) {
-      performSearch(searchQuery);
-    }
+    if (searchQuery !== undefined) performSearch(searchQuery);
   });
 
-  // Focus input when modal opens
   $effect(() => {
-    if (isOpen && searchInput) {
-      setTimeout(() => searchInput.focus(), 10);
-    }
+    if (isOpen && searchInput) setTimeout(() => searchInput.focus(), 10);
   });
 
-  // Setup keyboard listeners and preload search index using effects
-  // Setup and cleanup effect
   $effect(() => {
     document.addEventListener("keydown", handleKeydown);
 
-    // Preload the search index in the background
-    searchIndex
-      .load()
-      .then(() => {
-        indexLoaded = true;
-      })
-      .catch((error) => {
-        console.error("Failed to preload search index:", error);
-      });
+    searchIndex.load()
+      .then(() => { indexLoaded = true; })
+      .catch((error) => { console.error("Failed to preload search index:", error); });
 
     return () => {
       document.removeEventListener("keydown", handleKeydown);
@@ -239,7 +198,6 @@
   });
 </script>
 
-<!-- Command Palette Modal -->
 {#if isOpen}
   <div
     class="command-palette-backdrop"
@@ -251,15 +209,12 @@
     tabindex="-1"
   >
     <div class="command-palette">
-      <!-- Search Input -->
       <div class="search-section">
         <div class="search-input-wrapper">
           <input
             bind:this={searchInput}
             type="text"
-            placeholder={indexLoaded
-              ? "Search Dilbert comics..."
-              : "Loading search index..."}
+            placeholder={indexLoaded ? "Search Dilbert comics..." : "Loading search index..."}
             class="search-input"
             bind:value={searchQuery}
             onkeydown={handleResultsKeydown}
@@ -277,7 +232,6 @@
         </div>
       </div>
 
-      <!-- Results Section -->
       <div class="results-section" bind:this={resultsContainer}>
         {#if showNoResults}
           <div class="no-results">
@@ -306,29 +260,26 @@
                 <div class="result-content">
                   <div class="result-date">{formatDate(result.date)}</div>
                 </div>
-                    <div class="result-preview">
-                      <div class="comic-container">
-                        <img
-                          src={result.comicEntity?.url ?? ""}
-                          alt={`Dilbert comic from ${formatDate(result.date)}`}
-                          class="comic-image"
-                          loading="lazy"
-                        />
-                      </div>
-                    </div>
+                <div class="result-preview">
+                  <div class="comic-container">
+                    <img
+                      src={result.comicEntity?.url ?? ""}
+                      alt={`Dilbert comic from ${formatDate(result.date)}`}
+                      class="comic-image"
+                      loading="lazy"
+                    />
+                  </div>
+                </div>
                 <div class="result-text">
                   {#each result.comic.panels as panel, panelIndex}
                     {#each panel.dialogue as dialogue, dialogueIndex}
                       {@const hasMatch = result.matches.some(
-                        (m) =>
-                          m.panelIndex === panelIndex &&
-                          m.dialogueIndex === dialogueIndex
+                        (m) => m.panelIndex === panelIndex && m.dialogueIndex === dialogueIndex
                       )}
                       {#if hasMatch}
                         <span class="dialogue-excerpt">
                           {@html highlightText(
-                            dialogue.slice(0, 120) +
-                              (dialogue.length > 120 ? "..." : ""),
+                            dialogue.slice(0, 120) + (dialogue.length > 120 ? "..." : ""),
                             searchQuery
                           )}
                         </span>
@@ -356,21 +307,12 @@
         {/if}
       </div>
 
-      <!-- Footer -->
       <div class="command-palette-footer">
         <div class="shortcuts">
-          <span class="shortcut">
-            <kbd>↑</kbd><kbd>↓</kbd> rows
-          </span>
-          <span class="shortcut">
-            <kbd>←</kbd><kbd>→</kbd> columns
-          </span>
-          <span class="shortcut">
-            <kbd>↵</kbd> to select
-          </span>
-          <span class="shortcut">
-            <kbd>esc</kbd> to close
-          </span>
+          <span class="shortcut"><kbd>↑</kbd><kbd>↓</kbd> rows</span>
+          <span class="shortcut"><kbd>←</kbd><kbd>→</kbd> columns</span>
+          <span class="shortcut"><kbd>↵</kbd> to select</span>
+          <span class="shortcut"><kbd>esc</kbd> to close</span>
         </div>
       </div>
     </div>
@@ -378,6 +320,8 @@
 {/if}
 
 <style>
+  /* ===== BACKDROP & PALETTE ===== */
+
   .command-palette-backdrop {
     position: fixed;
     top: 0;
@@ -394,22 +338,15 @@
   }
 
   @keyframes backdrop-fade-in {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 
   .command-palette {
     background: rgba(248, 246, 240, 0.8);
     border-radius: 18px;
-    /* border-radius: 0px; */
     border: 3px solid rgba(139, 125, 107, 0.4);
-    box-shadow:
-      0 20px 25px -5px rgba(0, 0, 0, 0.3),
-      0 10px 10px -5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 10px 10px -5px rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     max-width: 800px;
@@ -422,15 +359,11 @@
   }
 
   @keyframes palette-slide-in {
-    from {
-      opacity: 0;
-      transform: scale(0.95) translateY(-10px);
-    }
-    to {
-      opacity: 1;
-      transform: scale(1) translateY(0);
-    }
+    from { opacity: 0; transform: scale(0.95) translateY(-10px); }
+    to { opacity: 1; transform: scale(1) translateY(0); }
   }
+
+  /* ===== SEARCH INPUT ===== */
 
   .search-section {
     padding: 4px 8px;
@@ -499,10 +432,10 @@
   }
 
   @keyframes spin {
-    to {
-      transform: rotate(360deg);
-    }
+    to { transform: rotate(360deg); }
   }
+
+  /* ===== RESULTS ===== */
 
   .results-section {
     flex: 1;
@@ -530,7 +463,6 @@
     transition: all 0.2s ease;
     margin-bottom: 0;
     border: 3px solid transparent;
-    /* background: white; */
     background: rgba(255, 255, 255, 0.6);
     text-align: left;
     width: 100%;
@@ -543,7 +475,6 @@
 
   .result-item:hover,
   .result-item.selected {
-    /* border: 3px solid #667eea; */
     background: rgba(255, 255, 255, 1);
     border: 3px solid rgba(139, 125, 107, 1);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -563,7 +494,6 @@
     box-sizing: border-box;
   }
 
-  /* Comic Container - matching search page */
   .comic-container {
     display: inline-block;
     background-color: #fff;
@@ -622,6 +552,8 @@
     font-weight: bold;
   }
 
+  /* ===== EMPTY STATES ===== */
+
   .empty-state,
   .no-results {
     display: flex;
@@ -647,11 +579,12 @@
     color: #6b7280;
   }
 
+  /* ===== FOOTER ===== */
+
   .command-palette-footer {
     display: none;
     padding: 9px 16px;
     border-top: 1px solid #e5e7eb;
-    /* background: var(--bg-light); */
     background: #f8f7f5;
   }
 
@@ -680,7 +613,8 @@
     box-shadow: 0 1px 0 #d1d5db;
   }
 
-  /* Responsive adjustments */
+  /* ===== RESPONSIVE ===== */
+
   @media (max-width: 1024px) {
     .results-list {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -723,7 +657,7 @@
     }
 
     .search-input {
-      font-size: 16px; /* Prevent zoom on iOS */
+      font-size: 16px;
     }
 
     .result-item {
