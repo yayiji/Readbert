@@ -1,326 +1,37 @@
 /**
  * Image URL Database Manager for Dilbert Comics
- * Manages preloaded image URLs for all comics
+ * Manages preloaded image URLs with smart caching (IndexedDB + localStorage)
  */
 
 import { openDB } from 'idb';
 
+// Constants
+const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/image-url-index.json";
+const LOCAL_URL = "/dilbert-index/image-url-index.json";
+const CACHE_MAX_AGE = 24 * 60 * 60 * 1000; // 24 hours
+
 class ImageUrlDatabase {
   constructor() {
-    this.imageUrls = new Map(); // date -> { imageUrl, archiveUrl }
+    this.imageUrls = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
-    this.cacheKey = "dilbert-image-urls-db";
-    this.metaCacheKey = "dilbert-image-urls-meta";
+
+    // IndexedDB configuration
     this.dbName = "DilbertImageUrlDB";
     this.dbVersion = 1;
     this.storeName = "imageUrls";
+    this.cacheKey = "dilbert-image-urls-db";
+    this.metaCacheKey = "dilbert-image-urls-meta";
   }
 
-  /**
-   * Initialize IndexedDB database
-   */
-  async _initDB() {
-    if (!this._isIndexedDBSupported()) {
-      return null;
-    }
+  // ===== PUBLIC API =====
 
-    return openDB(this.dbName, this.dbVersion, {
-      upgrade(db) {
-        if (!db.objectStoreNames.contains(this.storeName)) {
-          db.createObjectStore(this.storeName);
-        }
-      },
-    });
-  }
-
-  /**
-   * Load all image URLs from the pregenerated database
-   */
   async load() {
-    if (this.loadPromise) {
-      return this.loadPromise;
-    }
-
+    if (this.loadPromise) return this.loadPromise;
     this.loadPromise = this._loadDatabase();
     return this.loadPromise;
   }
 
-  async _loadDatabase() {
-    if (this.isLoaded) return;
-
-    console.log("Loading image URL database...");
-    const startTime = Date.now();
-
-    // Load pregenerated image URL database
-    const pregenerated = await this._loadPregeneratedDatabase();
-    if (pregenerated) {
-      this._loadFromPregenerated(pregenerated);
-      const duration = Date.now() - startTime;
-      console.log(`✅ Image URL database loaded in ${duration}ms`);
-      console.log(`📊 ${this.imageUrls.size} image URLs loaded`);
-      this.isLoaded = true;
-      return;
-    }
-
-    // No pregenerated database available
-    throw new Error(
-      "Image URL database not available. Please generate the image URL database first."
-    );
-  }
-
-  /**
-   * Get URLs for loading the image URL database
-   * @returns {Object} Object with cdnUrl and localUrl
-   */
-  _getLoadingUrl() {
-    return {
-      cdnUrl: "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/image-url-index.json",
-      localUrl: "/dilbert-index/image-url-index.json"
-    };
-  }
-
-  /**
-   * Try to load pregenerated image URL database with smart caching
-   */
-  async _loadPregeneratedDatabase() {
-    try {
-      // First, check if we have a cached version
-      const cachedData = await this._loadFromCache();
-      if (cachedData) {
-        console.log(`✅ Loaded image URL database from cache`);
-        return cachedData;
-      }
-
-      // No cache or cache is stale, fetch from server
-      console.log("📥 Fetching image URL database from server...");
-
-      // Try CDN first, fallback to local
-      const response = await this._fetchWithFallback();
-      if (!response) {
-        console.log("Pregenerated image URL database file not found");
-        return null;
-      }
-
-      const data = await response.data;
-      console.log(`📦 Downloaded image URL database from ${response.source}`);
-
-      // Cache the new data
-      await this._saveToCache(data);
-
-      return data;
-    } catch (error) {
-      console.warn("Failed to load pregenerated image URL database:", error);
-      // Try to load from cache even if server fetch failed
-      const cachedData = await this._loadFromCache(true);
-      if (cachedData) {
-        console.log("⚠️ Using stale cached image URL database due to server error");
-        return cachedData;
-      }
-      // No fallback available
-      throw new Error("Image URL database unavailable and no cached version found");
-    }
-  }
-
-  /**
-   * Fetch from CDN with fallback to local
-   * Gets URLs from _getLoadingUrl() internally
-   * @returns {Promise<{data: any, source: string}|null>} Response data and source, or null if both fail
-   */
-  async _fetchWithFallback() {
-    const { cdnUrl, localUrl } = this._getLoadingUrl();
-
-    // Try CDN first
-    try {
-      const response = await fetch(cdnUrl);
-      if (response.ok) {
-        return { data: await response.json(), source: "CDN" };
-      }
-      throw new Error(`CDN fetch failed with status ${response.status}`);
-    } catch (cdnError) {
-      console.warn("CDN fetch failed, trying local URL:", cdnError.message);
-    }
-
-    // Fall back to local URL
-    try {
-      const response = await fetch(localUrl);
-      if (response.ok) {
-        return { data: await response.json(), source: "local" };
-      }
-      throw new Error(`Local fetch failed with status ${response.status}`);
-    } catch (localError) {
-      console.warn("Local fetch also failed:", localError.message);
-      return null;
-    }
-  }
-
-  /**
-   * Load image URL database from browser cache (IndexedDB)
-   */
-  async _loadFromCache(ignoreVersion = false) {
-    try {
-      if (!this._isIndexedDBSupported()) {
-        return null;
-      }
-
-      // Check cache metadata first
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (!cachedMeta) {
-        return null;
-      }
-
-      const meta = JSON.parse(cachedMeta);
-
-      // Check if cache is still valid (unless ignoring version check)
-      if (!ignoreVersion) {
-        const isValid = await this._isCacheValid(meta);
-        if (!isValid) {
-          console.log("🔄 Image URL database cache is outdated, will fetch from server");
-          return null;
-        }
-      }
-
-      // Load the actual data from IndexedDB
-      const cachedData = await this._getFromIndexedDB();
-      if (cachedData) {
-        console.log(
-          `💾 Found cached image URL database: ${meta.totalUrls} image URLs`
-        );
-        return cachedData;
-      }
-
-      return null;
-    } catch (error) {
-      console.warn("Error loading image URL database from cache:", error);
-      return null;
-    }
-  }
-
-  /**
-   * Save image URL database to browser cache
-   */
-  async _saveToCache(data) {
-    try {
-      if (!this._isIndexedDBSupported()) {
-        console.log("IndexedDB not supported, skipping image URL database cache");
-        return;
-      }
-
-      // Count total URLs
-      const totalUrls = Object.keys(data).length;
-
-      // Save metadata to localStorage for quick access
-      const meta = {
-        totalUrls: totalUrls,
-        cachedAt: new Date().toISOString(),
-      };
-      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
-
-      // Save full data to IndexedDB
-      await this._saveToIndexedDB(data);
-
-      console.log(
-        `💾 Image URL database cached successfully (${(
-          JSON.stringify(data).length /
-          1024 /
-          1024
-        ).toFixed(2)} MB)`
-      );
-    } catch (error) {
-      console.warn("Failed to cache image URL database:", error);
-    }
-  }
-
-  /**
-   * Check if cached version is still valid
-   */
-  async _isCacheValid(meta) {
-    try {
-      const { localUrl } = this._getLoadingUrl();
-
-      // Check server for metadata without downloading full database
-      const response = await fetch(localUrl, {
-        method: "HEAD",
-      });
-
-      if (!response.ok) {
-        // Server error, use cache if available
-        return true;
-      }
-
-      // Check Last-Modified header
-      const lastModified = response.headers.get("Last-Modified");
-      if (lastModified) {
-        const serverTime = new Date(lastModified);
-        const cacheTime = new Date(meta.cachedAt);
-        return serverTime <= cacheTime;
-      }
-
-      // Fallback: cache is valid for 24 hours
-      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
-      const maxAge = 24 * 60 * 60 * 1000; // 24 hours
-      return cacheAge < maxAge;
-    } catch (error) {
-      // Network error, assume cache is valid
-      return true;
-    }
-  }
-
-  /**
-   * Check if IndexedDB is supported
-   */
-  _isIndexedDBSupported() {
-    return (
-      typeof window !== "undefined" &&
-      "indexedDB" in window &&
-      indexedDB !== null
-    );
-  }
-
-  /**
-   * Save data to IndexedDB using idb library
-   */
-  async _saveToIndexedDB(data) {
-    try {
-      const db = await this._initDB();
-      if (!db) return;
-
-      await db.put(this.storeName, data, this.cacheKey);
-    } catch (error) {
-      console.warn('Failed to save image URL database to IndexedDB:', error);
-      throw error;
-    }
-  }
-
-  /**
-   * Get data from IndexedDB using idb library
-   */
-  async _getFromIndexedDB() {
-    try {
-      const db = await this._initDB();
-      if (!db) return null;
-
-      return await db.get(this.storeName, this.cacheKey);
-    } catch (error) {
-      console.warn('Failed to get image URL database from IndexedDB:', error);
-      return null;
-    }
-  }
-
-  /**
-   * Load image URLs from pregenerated data
-   */
-  _loadFromPregenerated(data) {
-    // Load image URLs: Object<date, {imageUrl, archiveUrl}> -> Map<date, {imageUrl, archiveUrl}>
-    this.imageUrls.clear();
-    for (const [date, urlData] of Object.entries(data)) {
-      this.imageUrls.set(date, urlData);
-    }
-  }
-
-  /**
-   * Get image URL data by date
-   */
   getImageUrl(date) {
     if (!this.isLoaded) {
       this.load();
@@ -329,48 +40,209 @@ class ImageUrlDatabase {
     return this.imageUrls.get(date) || null;
   }
 
-  /**
-   * Check if an image URL exists for the given date
-   */
   hasImageUrl(date) {
-    if (!this.isLoaded) {
-      return false;
-    }
-    return this.imageUrls.has(date);
+    return this.isLoaded && this.imageUrls.has(date);
   }
 
-  /**
-   * Get all available image URL dates
-   */
   getAvailableDates() {
-    if (!this.isLoaded) {
-      return [];
-    }
-    return Array.from(this.imageUrls.keys()).sort();
+    return this.isLoaded ? Array.from(this.imageUrls.keys()).sort() : [];
   }
 
-  /**
-   * Check if the database is loaded
-   */
   isDatabaseLoaded() {
     return this.isLoaded;
   }
 
-  /**
-   * Get image URL database statistics
-   */
   getStats() {
-    const cacheInfo = this._getCacheInfo();
     return {
       totalUrls: this.imageUrls.size,
       isLoaded: this.isLoaded,
-      cache: cacheInfo,
+      cache: this._getCacheInfo(),
     };
   }
 
-  /**
-   * Get cache information
-   */
+  async clearCache() {
+    try {
+      localStorage.removeItem(this.metaCacheKey);
+      if (this._isIndexedDBSupported()) {
+        const db = await this._initDB();
+        if (db) await db.delete(this.storeName, this.cacheKey);
+      }
+      console.log("🗑️ Image URL database cache cleared");
+    } catch (error) {
+      console.warn("Error clearing image URL database cache:", error);
+    }
+  }
+
+  async forceRefresh() {
+    await this.clearCache();
+    this.isLoaded = false;
+    this.loadPromise = null;
+    this.imageUrls.clear();
+    return this.load();
+  }
+
+  // ===== LOADING =====
+
+  async _loadDatabase() {
+    if (this.isLoaded) return;
+
+    console.log("Loading image URL database...");
+    const startTime = Date.now();
+
+    const data = await this._loadPregeneratedDatabase();
+    if (!data) {
+      throw new Error("Image URL database not available");
+    }
+
+    this._loadFromPregenerated(data);
+    console.log(`✅ Image URL database loaded in ${Date.now() - startTime}ms`);
+    console.log(`📊 ${this.imageUrls.size} image URLs loaded`);
+    this.isLoaded = true;
+  }
+
+  async _loadPregeneratedDatabase() {
+    try {
+      // Try cache first
+      const cachedData = await this._loadFromCache();
+      if (cachedData) {
+        console.log(`✅ Loaded image URL database from cache`);
+        return cachedData;
+      }
+
+      // Fetch from server
+      console.log("📥 Fetching image URL database from server...");
+      const response = await this._fetchWithFallback();
+      if (!response) return null;
+
+      const data = await response.data;
+      console.log(`📦 Downloaded image URL database from ${response.source}`);
+
+      await this._saveToCache(data);
+      return data;
+    } catch (error) {
+      console.warn("Failed to load pregenerated image URL database:", error);
+
+      // Fallback to stale cache
+      const cachedData = await this._loadFromCache(true);
+      if (cachedData) {
+        console.log("⚠️ Using stale cached image URL database due to server error");
+        return cachedData;
+      }
+
+      throw new Error("Image URL database unavailable and no cached version found");
+    }
+  }
+
+  async _fetchWithFallback() {
+    // Try CDN first
+    try {
+      const response = await fetch(CDN_URL);
+      if (response.ok) {
+        return { data: await response.json(), source: "CDN" };
+      }
+    } catch (error) {
+      console.warn("CDN fetch failed, trying local URL:", error.message);
+    }
+
+    // Fallback to local
+    try {
+      const response = await fetch(LOCAL_URL);
+      if (response.ok) {
+        return { data: await response.json(), source: "local" };
+      }
+    } catch (error) {
+      console.warn("Local fetch also failed:", error.message);
+    }
+
+    return null;
+  }
+
+  _loadFromPregenerated(data) {
+    this.imageUrls.clear();
+    for (const [date, urlData] of Object.entries(data)) {
+      this.imageUrls.set(date, urlData);
+    }
+  }
+
+  // ===== CACHE MANAGEMENT =====
+
+  async _loadFromCache(ignoreValidation = false) {
+    try {
+      if (!this._isIndexedDBSupported()) return null;
+
+      const cachedMeta = localStorage.getItem(this.metaCacheKey);
+      if (!cachedMeta) return null;
+
+      const meta = JSON.parse(cachedMeta);
+
+      // Validate cache freshness
+      if (!ignoreValidation && !(await this._isCacheValid(meta))) {
+        console.log("🔄 Image URL database cache is outdated, will fetch from server");
+        return null;
+      }
+
+      // Load data from IndexedDB
+      const db = await this._initDB();
+      if (!db) return null;
+
+      const cachedData = await db.get(this.storeName, this.cacheKey);
+      if (cachedData) {
+        console.log(`💾 Found cached image URL database: ${meta.totalUrls} image URLs`);
+      }
+
+      return cachedData;
+    } catch (error) {
+      console.warn("Error loading image URL database from cache:", error);
+      return null;
+    }
+  }
+
+  async _saveToCache(data) {
+    try {
+      if (!this._isIndexedDBSupported()) {
+        console.log("IndexedDB not supported, skipping image URL database cache");
+        return;
+      }
+
+      // Save metadata to localStorage
+      const meta = {
+        totalUrls: Object.keys(data).length,
+        cachedAt: new Date().toISOString(),
+      };
+      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
+
+      // Save data to IndexedDB
+      const db = await this._initDB();
+      if (db) {
+        await db.put(this.storeName, data, this.cacheKey);
+      }
+
+      const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
+      console.log(`💾 Image URL database cached successfully (${sizeMB} MB)`);
+    } catch (error) {
+      console.warn("Failed to cache image URL database:", error);
+    }
+  }
+
+  async _isCacheValid(meta) {
+    try {
+      const response = await fetch(LOCAL_URL, { method: "HEAD" });
+      if (!response.ok) return true; // Server error, use cache
+
+      // Check Last-Modified header
+      const lastModified = response.headers.get("Last-Modified");
+      if (lastModified) {
+        return new Date(lastModified) <= new Date(meta.cachedAt);
+      }
+
+      // Fallback: 24-hour expiry
+      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
+      return cacheAge < CACHE_MAX_AGE;
+    } catch (error) {
+      return true; // Network error, assume cache is valid
+    }
+  }
+
   _getCacheInfo() {
     try {
       const cachedMeta = localStorage.getItem(this.metaCacheKey);
@@ -383,58 +255,29 @@ class ImageUrlDatabase {
         };
       }
     } catch (error) {
-      // Ignore errors
+      // Ignore
     }
-    return {
-      hasCachedData: false,
-    };
+    return { hasCachedData: false };
   }
 
-  /**
-   * Clear cached image URL database (for debugging or manual refresh)
-   */
-  async clearCache() {
-    try {
-      // Clear localStorage metadata
-      localStorage.removeItem(this.metaCacheKey);
+  // ===== INDEXEDDB =====
 
-      // Clear IndexedDB data
-      if (this._isIndexedDBSupported()) {
-        await this._clearIndexedDB();
-      }
+  async _initDB() {
+    if (!this._isIndexedDBSupported()) return null;
 
-      console.log("🗑️ Image URL database cache cleared");
-    } catch (error) {
-      console.warn("Error clearing image URL database cache:", error);
-    }
+    return openDB(this.dbName, this.dbVersion, {
+      upgrade(db) {
+        if (!db.objectStoreNames.contains("imageUrls")) {
+          db.createObjectStore("imageUrls");
+        }
+      },
+    });
   }
 
-  /**
-   * Clear IndexedDB data using idb library
-   */
-  async _clearIndexedDB() {
-    try {
-      const db = await this._initDB();
-      if (!db) return;
-
-      await db.delete(this.storeName, this.cacheKey);
-    } catch (error) {
-      console.warn('Failed to clear image URL database from IndexedDB:', error);
-      throw error;
-    }
-  }
-
-  /**
-   * Force refresh the image URL database from server
-   */
-  async forceRefresh() {
-    await this.clearCache();
-    this.isLoaded = false;
-    this.loadPromise = null;
-    this.imageUrls.clear();
-    return this.load();
+  _isIndexedDBSupported() {
+    return typeof window !== "undefined" && "indexedDB" in window && indexedDB !== null;
   }
 }
 
-// Create and export a singleton instance
+// Export singleton instance
 export const imageUrlDatabase = new ImageUrlDatabase();
