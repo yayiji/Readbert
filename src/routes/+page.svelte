@@ -3,7 +3,10 @@
   import { loadRandomComic, loadComicBrowser } from "$lib/comicsClient.js";
   import { initializeDatabases } from "$lib/databases.js";
   import { Comic } from "$lib/Comic.js";
-  import { saveLastVisitedComic, loadLastVisitedComic } from "$lib/comicStorage.js";
+  import {
+    saveLastVisitedComic,
+    loadLastVisitedComic,
+  } from "$lib/comicStorage.js";
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
@@ -14,7 +17,7 @@
   import Header from "./Header.svelte";
   import { page } from "$app/stores";
 
-  // State management using $state rune
+  // ===== STATE =====
   let currentComic = $state(null);
   let previousComic = $state(null);
   let nextComic = $state(null);
@@ -24,75 +27,43 @@
   let isCommandPaletteOpen = $state(false);
   let initialized = $state(false);
 
-  // Derived state
   let hasValidComic = $derived(
-    currentComic && isValidComicDateRange(currentComic.date)
+    currentComic && isValidComicDateRange(currentComic.date),
   );
 
+  // ===== UI HANDLERS =====
   function openSearch() {
     isCommandPaletteOpen = true;
   }
 
-  // Helper function to hydrate comic instances
-  function hydrateComic(comic) {
-    return Comic.fromSerialized(comic);
-  }
-
-  // Preload comic images for faster navigation
-  async function preloadComicImages() {
-    // Preload previous comic image
-    if (previousComic?.url) {
-      const prevImg = new Image();
-      prevImg.src = previousComic.url;
-    }
-
-    // Preload next comic image
-    if (nextComic?.url) {
-      const nextImg = new Image();
-      nextImg.src = nextComic.url;
-    }
-  }
-
-  // Handler for when comic image loads successfully
   function handleImageLoad() {
-    // Load transcript after image has loaded
     if (currentComic) {
       transcript = currentComic.transcript;
     }
-
-    // Clear loading state now that image has loaded
     isLoading = false;
-
-    // Preload adjacent comic images for instant navigation
     preloadComicImages();
   }
 
-  // Update comic state and save to storage
-  async function updateComicState(
-    comic,
-    prevComic,
-    nextComicData
-  ) {
-    const normalizedCurrent = hydrateComic(comic);
-    const normalizedPrevious = hydrateComic(prevComic);
-    const normalizedNext = hydrateComic(nextComicData);
+  function preloadComicImages() {
+    if (previousComic?.url) {
+      new Image().src = previousComic.url;
+    }
+    if (nextComic?.url) {
+      new Image().src = nextComic.url;
+    }
+  }
 
-    currentComic = normalizedCurrent;
-    previousComic = normalizedPrevious;
-    nextComic = normalizedNext;
+  // ===== COMIC LOADING =====
+  function updateComicState(comic, prevComic, nextComicData) {
+    currentComic = Comic.fromSerialized(comic);
+    previousComic = Comic.fromSerialized(prevComic);
+    nextComic = Comic.fromSerialized(nextComicData);
 
-    // Don't clear previous transcript - keep it visible until new one loads
-    // This provides a better user experience with no blank state
-
-    if (normalizedCurrent?.date) {
-      selectedDate = normalizedCurrent.date;
+    if (currentComic?.date) {
+      selectedDate = currentComic.date;
     }
 
-    saveLastVisitedComic(
-      normalizedCurrent,
-      normalizedPrevious,
-      normalizedNext
-    );
+    saveLastVisitedComic(currentComic, previousComic, nextComic);
   }
 
   async function loadComic(date) {
@@ -103,29 +74,17 @@
 
     isLoading = true;
     try {
-      // Add artificial delay for local testing to see loading effect
-      const TESTING_DELAY = 0; // milliseconds
-
-      if (TESTING_DELAY > 0) {
-        await new Promise((resolve) => setTimeout(resolve, TESTING_DELAY));
-      }
-
       const result = await loadComicBrowser(date);
       if (result) {
-        await updateComicState(
-          result.comic,
-          result.previousComic,
-          result.nextComic
-        );
+        updateComicState(result.comic, result.previousComic, result.nextComic);
       } else {
         console.error("Failed to load comic for date:", date);
-        isLoading = false; // Only clear on error
+        isLoading = false;
       }
     } catch (error) {
       console.error("Error loading comic:", error);
-      isLoading = false; // Only clear on error
+      isLoading = false;
     }
-    // Don't set isLoading = false here - let handleImageLoad do it when image actually loads
   }
 
   async function getRandomComic() {
@@ -135,23 +94,18 @@
     try {
       const result = await loadRandomComic();
       if (result) {
-        await updateComicState(
-          result.comic,
-          result.previousComic,
-          result.nextComic
-        );
+        updateComicState(result.comic, result.previousComic, result.nextComic);
       } else {
         console.error("Failed to load random comic");
-        isLoading = false; // Only clear on error
+        isLoading = false;
       }
     } catch (error) {
       console.error("Error loading random comic:", error);
-      isLoading = false; // Only clear on error
+      isLoading = false;
     }
-    // Don't set isLoading = false here - let handleImageLoad do it
   }
 
-  // Navigation functions
+  // ===== NAVIGATION =====
   function goToPrevious() {
     if (previousComic?.date && !isLoading) {
       loadComic(previousComic.date);
@@ -164,8 +118,46 @@
     }
   }
 
-  // Effects for reactive behavior
-  // Watch for selectedDate changes and load the comic (only after initialization)
+  // ===== REACTIVE EFFECTS =====
+
+  // Initialize on mount
+  $effect(() => {
+    if (initialized) return;
+
+    (async () => {
+      const urlDate = $page.url.searchParams.get("date");
+      if (urlDate && isValidComicDateRange(urlDate)) {
+        await loadComic(urlDate);
+        initialized = true;
+        return;
+      }
+
+      const savedComic = loadLastVisitedComic();
+      if (savedComic) {
+        updateComicState(
+          savedComic.currentComic,
+          savedComic.previousComic,
+          savedComic.nextComic,
+        );
+        if (savedComic.currentComic?.transcript) {
+          transcript = savedComic.currentComic.transcript;
+        }
+      } else {
+        await getRandomComic();
+      }
+
+      initialized = true;
+    })();
+  });
+
+  // Initialize databases early for better performance
+  $effect(() => {
+    initializeDatabases().catch((error) => {
+      console.error("Failed to initialize databases:", error);
+    });
+  });
+
+  // Watch for selectedDate changes (from date picker)
   $effect(() => {
     if (
       initialized &&
@@ -177,7 +169,7 @@
     }
   });
 
-  // Watch for URL parameter changes (for search result navigation)
+  // Watch for URL parameter changes (from search)
   $effect(() => {
     if (!initialized) return;
 
@@ -189,50 +181,6 @@
     ) {
       loadComic(urlDate);
     }
-  });
-
-  // Initialize comic data on mount (run once)
-  $effect(() => {
-    if (initialized) return;
-
-    const initializeComic = async () => {
-      // Check for date parameter in URL first
-      const urlDate = $page.url.searchParams.get("date");
-      if (urlDate && isValidComicDateRange(urlDate)) {
-        await loadComic(urlDate);
-        initialized = true;
-        return;
-      }
-
-      const savedComic = loadLastVisitedComic();
-      if (savedComic) {
-        // Load saved comic state
-        await updateComicState(
-          savedComic.currentComic,
-          savedComic.previousComic,
-          savedComic.nextComic
-        );
-
-        // Restore saved transcript if available (from Comic object)
-        if (savedComic.currentComic?.transcript) {
-          transcript = savedComic.currentComic.transcript;
-        }
-      } else {
-        // Load random comic if no saved data
-        await getRandomComic();
-      }
-
-      initialized = true;
-    };
-
-    initializeComic();
-  });
-
-  // Initialize databases early for better performance (optional but recommended)
-  $effect(() => {
-    initializeDatabases().catch(error => {
-      console.error("Failed to initialize databases:", error);
-    });
   });
 </script>
 
@@ -247,7 +195,6 @@
 
   {#if hasValidComic}
     <section class="comic-section">
-      <!-- Navigation buttons -->
       <NavigationButtons
         {previousComic}
         {nextComic}
@@ -259,10 +206,8 @@
 
       <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
 
-      <!-- Comic image section -->
       <ComicImage {currentComic} {isLoading} onImageLoad={handleImageLoad} />
 
-      <!-- Transcript section -->
       <TranscriptPanel {transcript} />
     </section>
   {/if}
@@ -270,11 +215,9 @@
 
 <Footer />
 
-<!-- Command Palette -->
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
 <style>
-  /* ===== LAYOUT STYLES ===== */
   .container {
     width: 100%;
     min-height: 100vh;
@@ -288,14 +231,12 @@
     flex-direction: column;
   }
 
-  /* ===== COMIC SECTION STYLES ===== */
   .comic-section {
     text-align: center;
     margin: 0 auto 30px;
     max-width: var(--max-width);
   }
 
-  /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .container {
       padding: 60px var(--spacing-sm) 0;
