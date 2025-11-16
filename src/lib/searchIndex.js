@@ -12,7 +12,6 @@ class SearchIndex {
     this.isLoaded = false;
     this.loadPromise = null;
     this.cacheKey = 'dilbert-search-index';
-    this.cacheInfo = { hasCachedData: false };
   }
 
   // ===== PUBLIC API =====
@@ -80,7 +79,6 @@ class SearchIndex {
       totalComics: transcriptStats.totalTranscripts,
       totalWords: this.index.size,
       isLoaded: this.isLoaded,
-      cache: this._getCacheInfo(),
       transcriptDatabase: transcriptStats
     };
   }
@@ -88,7 +86,6 @@ class SearchIndex {
   async clearCache() {
     try {
       await indexedDB.delete(STORES.SEARCH_INDEX, this.cacheKey);
-      this.cacheInfo = { hasCachedData: false };
       console.log('🗑️ Search index cache cleared');
     } catch (error) {
       console.warn('Error clearing cache:', error);
@@ -173,10 +170,6 @@ class SearchIndex {
       if (cachedData) {
         const totalWords = Object.keys(cachedData).length;
         console.log(`💾 Loaded search index from cache (${totalWords} words)`);
-        this.cacheInfo = {
-          hasCachedData: true,
-          totalWords
-        };
       }
       return cachedData;
     } catch (error) {
@@ -193,20 +186,12 @@ class SearchIndex {
       }
 
       await indexedDB.put(STORES.SEARCH_INDEX, indexData, this.cacheKey);
-      this.cacheInfo = {
-        hasCachedData: true,
-        totalWords: this.index.size
-      };
 
       const sizeMB = (JSON.stringify(indexData).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Search index cached successfully (${sizeMB} MB)`);
     } catch (error) {
       console.warn('Failed to cache search index:', error);
     }
-  }
-
-  _getCacheInfo() {
-    return { ...this.cacheInfo };
   }
 
   // ===== SEARCH UTILITIES =====

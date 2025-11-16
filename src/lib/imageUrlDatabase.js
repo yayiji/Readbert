@@ -15,7 +15,6 @@ class ImageUrlDatabase {
     this.isLoaded = false;
     this.loadPromise = null;
     this.cacheKey = "dilbert-image-urls";
-    this.cacheInfo = { hasCachedData: false };
   }
 
   // ===== PUBLIC API =====
@@ -49,15 +48,13 @@ class ImageUrlDatabase {
   getStats() {
     return {
       totalUrls: this.imageUrls.size,
-      isLoaded: this.isLoaded,
-      cache: this._getCacheInfo(),
+      isLoaded: this.isLoaded
     };
   }
 
   async clearCache() {
     try {
       await indexedDB.delete(STORES.IMAGE_URLS, this.cacheKey);
-      this.cacheInfo = { hasCachedData: false };
       console.log("🗑️ Image URL database cache cleared");
     } catch (error) {
       console.warn("Error clearing image URL database cache:", error);
@@ -163,10 +160,6 @@ class ImageUrlDatabase {
       if (cachedData) {
         const totalUrls = Object.keys(cachedData).length;
         console.log(`💾 Found cached image URL database: ${totalUrls} image URLs`);
-        this.cacheInfo = {
-          hasCachedData: true,
-          totalUrls
-        };
       }
 
       return cachedData;
@@ -180,21 +173,11 @@ class ImageUrlDatabase {
     try {
       await indexedDB.put(STORES.IMAGE_URLS, data, this.cacheKey);
 
-      const totalUrls = Object.keys(data).length;
-      this.cacheInfo = {
-        hasCachedData: true,
-        totalUrls
-      };
-
       const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Image URL database cached successfully (${sizeMB} MB)`);
     } catch (error) {
       console.warn("Failed to cache image URL database:", error);
     }
-  }
-
-  _getCacheInfo() {
-    return { ...this.cacheInfo };
   }
 
 }

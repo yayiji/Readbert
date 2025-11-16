@@ -15,7 +15,6 @@ class TranscriptDatabase {
     this.isLoaded = false;
     this.loadPromise = null;
     this.cacheKey = "dilbert-transcripts";
-    this.cacheInfo = { hasCachedData: false };
   }
 
   // ===== PUBLIC API =====
@@ -49,15 +48,13 @@ class TranscriptDatabase {
   getStats() {
     return {
       totalTranscripts: this.transcripts.size,
-      isLoaded: this.isLoaded,
-      cache: this._getCacheInfo(),
+      isLoaded: this.isLoaded
     };
   }
 
   async clearCache() {
     try {
       await indexedDB.delete(STORES.TRANSCRIPTS, this.cacheKey);
-      this.cacheInfo = { hasCachedData: false };
       console.log("🗑️ Transcript database cache cleared");
     } catch (error) {
       console.warn("Error clearing transcript database cache:", error);
@@ -163,12 +160,6 @@ class TranscriptDatabase {
       if (cachedData) {
         const totalTranscripts = cachedData.stats?.totalTranscripts ?? Object.keys(cachedData.transcripts || {}).length;
         console.log(`💾 Found cached transcript database: ${totalTranscripts} transcripts`);
-        this.cacheInfo = {
-          hasCachedData: true,
-          version: cachedData.version ?? null,
-          generatedAt: cachedData.generatedAt ?? null,
-          totalTranscripts
-        };
       }
 
       return cachedData;
@@ -182,23 +173,11 @@ class TranscriptDatabase {
     try {
       await indexedDB.put(STORES.TRANSCRIPTS, data, this.cacheKey);
 
-      const totalTranscripts = data.stats?.totalTranscripts ?? Object.keys(data.transcripts || {}).length;
-      this.cacheInfo = {
-        hasCachedData: true,
-        version: data.version ?? null,
-        generatedAt: data.generatedAt ?? null,
-        totalTranscripts
-      };
-
       const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Transcript database cached successfully (${sizeMB} MB)`);
     } catch (error) {
       console.warn("Failed to cache transcript database:", error);
     }
-  }
-
-  _getCacheInfo() {
-    return { ...this.cacheInfo };
   }
 }
 
