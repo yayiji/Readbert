@@ -1,0 +1,25 @@
+{
+  "date": "2022-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I need you to help me reach a box on a high shelf."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't reach that high.",
+        "Stand on this unstable office chair.",
+        "I'll hold it still."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, he never should have trusted me."
+      ]
+    }
+  ]
+}

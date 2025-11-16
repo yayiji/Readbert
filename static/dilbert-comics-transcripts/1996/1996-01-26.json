@@ -1,0 +1,26 @@
+{
+  "date": "1996-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've reduced your service costs by giving the technical-support group an unlisted phone number."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And a flaw in your product disables the customer's e-mail; they can't even write to you for help!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if they ask a friend to e-mail us?",
+        "People who use our product don't have friends.",
+        "Really?",
+        "I use it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2016-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you were an Uber driver, did any passengers ever get sick in your car?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They all did."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first few had motion sickness, but the last hundred lost it when they smelled the carpet."
+      ]
+    }
+  ]
+}

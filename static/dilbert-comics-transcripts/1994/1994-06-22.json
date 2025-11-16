@@ -1,0 +1,25 @@
+{
+  "date": "1994-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the headhunter",
+        "The job pays a hundred thousand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you'll have to move to a place that's so cold that mercury freezes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll take it. How bad could it be?",
+        "Keep your drivers license on you so you can look up your gender if you forget."
+      ]
+    }
+  ]
+}

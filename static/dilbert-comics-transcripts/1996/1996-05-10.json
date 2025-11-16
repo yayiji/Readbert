@@ -1,0 +1,25 @@
+{
+  "date": "1996-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, career counselor",
+        "According to your occupational preference test, you like to remove vital organs from helpless people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That narrows the career choices to doctor or serial killer. Do you get along with other people?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Other people are insignificant insects.",
+        "We'll have to go to a tie-breaker question."
+      ]
+    }
+  ]
+}

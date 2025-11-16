@@ -1,0 +1,57 @@
+{
+  "date": "2005-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "I need to hire an assistant manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want someone similar to me, but slightly worse in every way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Worse than you???"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, but only slightly.",
+        "Hmm..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The ideal candidate wouldn't be a threat to replace me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll check my database of applicants who are both hideous and criminally insane."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I said slightly worse.",
+        "Exactly. I found one."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can pretend to read in five languages.",
+        "I hate cats."
+      ]
+    }
+  ]
+}

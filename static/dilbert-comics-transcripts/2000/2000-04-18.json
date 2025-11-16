@@ -1,0 +1,30 @@
+{
+  "date": "2000-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been taking a self-paced online training course to \"sharpen my saw.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the subject?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How could you not know?!",
+        "What part of \"self-paced\" is confusing you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I updated my job description to be more accurate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I try to do something and then I get interrupted a jillion times until the thing no longer matters."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like you need some extra micromanaging.",
+        "I have to take this call."
+      ]
+    }
+  ]
+}

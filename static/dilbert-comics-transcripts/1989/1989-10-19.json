@@ -1,0 +1,24 @@
+{
+  "date": "1989-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I died tomorrow, what would you write on my tombstone?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I always assumed there would be no tombstone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ah... you would have me cremated.",
+        "Or stuffed, whichever is cheaper."
+      ]
+    }
+  ]
+}

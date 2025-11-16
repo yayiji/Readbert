@@ -1,0 +1,26 @@
+{
+  "date": "2022-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Bob, from Elbonia.",
+        "I interviewed him by phone and liked what I heard.",
+        "This is his first day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Glib nobba ug frapajama bing bong bam."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you interview a guy who doesn't speak your language?",
+        "To be honest, I did most of the talking."
+      ]
+    }
+  ]
+}

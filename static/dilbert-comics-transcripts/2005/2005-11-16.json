@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need three more programmers.",
+        "Use agile programming methods."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Agile programming doesn't just mean doing more work with fewer people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Find me some words that do mean that and ask again."
+      ]
+    }
+  ]
+}

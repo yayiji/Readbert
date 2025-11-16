@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Keep talking. I can multitask."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies show that multitasking with interruptions can lower I.Q. by ten points. You don't have that much to spare."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I disagree with whatever you said.",
+        "I said you're competent."
+      ]
+    }
+  ]
+}

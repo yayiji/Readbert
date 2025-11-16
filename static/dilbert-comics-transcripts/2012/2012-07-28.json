@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Siri, how can I avoid blame for our server outage?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Foomp!",
+        "Deploying coccyx air bag."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So your tailbone isn't vestigial?",
+        "Nope. And apparently it has Bluetooth."
+      ]
+    }
+  ]
+}

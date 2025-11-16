@@ -1,0 +1,25 @@
+{
+  "date": "2013-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your first test on the management fast track involves rescuing a plastic baby and a bag of money from a weasel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must punch the weasel then catch the money and the baby before they reach the ground."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I found our next CEO.",
+        "Wait...",
+        "Say those instructions again."
+      ]
+    }
+  ]
+}

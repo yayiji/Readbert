@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What kind of engineer are you?",
+        "I'm a personal lifestyle engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I engineer my career to achieve an ideal balance of work and leisure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many hours per week do you work?",
+        "I don't think you know what \"ideal\" means."
+      ]
+    }
+  ]
+}

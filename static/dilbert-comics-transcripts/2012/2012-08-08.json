@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is my new intern. I haven't bothered to name him yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been treated poorly as an intern, and I'm anxious to perpetuate the cycle of abuse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a name!",
+        "He's feisty. I like that."
+      ]
+    }
+  ]
+}

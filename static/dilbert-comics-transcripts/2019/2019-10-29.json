@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't hire you because we already have an employee named Carl."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It would confuse people, and we don't need that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about my skills?",
+        "People with better names have skills, too."
+      ]
+    }
+  ]
+}

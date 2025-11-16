@@ -1,0 +1,27 @@
+{
+  "date": "1995-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to interview successful people and write a book of their tips.",
+        "I'll start with you, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Set your alarm clock to go off every hour.",
+        "Keep a big vat of \"Jell-o\" by the bed.",
+        "When the alarm goes off, stick your head in the \"Jell-o\" and yell \"Boy, I'm tired!\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks!",
+        "Beware the advice of successful people; they do not seek company."
+      ]
+    }
+  ]
+}

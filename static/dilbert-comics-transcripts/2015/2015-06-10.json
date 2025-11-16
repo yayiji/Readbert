@@ -1,0 +1,26 @@
+{
+  "date": "2015-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll be in charge of our smart watch project.",
+        "...That is doomed from the start."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop being such a pessimist.",
+        "Said General Custer to his horse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would he talk to his horse?",
+        "Because even the horse knew something was wrong!"
+      ]
+    }
+  ]
+}

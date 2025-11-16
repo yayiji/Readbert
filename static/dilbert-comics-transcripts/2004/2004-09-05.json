@@ -1,0 +1,59 @@
+{
+  "date": "2004-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our budget won't cover all of the product development."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can only do two-thirds of the features for that amount."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Reduce the scope of the project by one-third.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But... theoretically..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No... dear lord, no."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I later give you a change request to add one feature, could you do it for the same budget.",
+        "One?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Data goes in; management comes out.",
+        "One?",
+        "Sure.",
+        "Changes are free."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Where do I put the change requests?"
+      ]
+    }
+  ]
+}

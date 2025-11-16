@@ -1,0 +1,54 @@
+{
+  "date": "2004-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're out of space, boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've had a big upswing in people who use cell phones in bathrooms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang. I've got a new guy coming in today. Where will I put him?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you could ask your brother.",
+        "Hmm..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, I suppose you could put him in a cubicle."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "His crime wasn't that heinous."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, if you blindfold him, he won't know he's in a cubicle."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So then I find out that it's not okay to eat carbs."
+      ]
+    }
+  ]
+}

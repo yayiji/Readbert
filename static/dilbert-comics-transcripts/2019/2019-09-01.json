@@ -1,0 +1,66 @@
+{
+  "date": "2019-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Run this by Tina before you send it out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already did."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Make sure legal signs off on it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They did."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Add the revenue graph from Alice's slide deck."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's in the exhibits in the back."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You need to compare this plan to the \"do nothing\" option."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's on the next page."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I need you to change something on this document so my life has meaning."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "I put a misspelled word on page seven for you.",
+        "Fix it."
+      ]
+    }
+  ]
+}

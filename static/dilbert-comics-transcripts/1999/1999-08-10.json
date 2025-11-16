@@ -1,0 +1,24 @@
+{
+  "date": "1999-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One of us will have to read this gigantic product requirements document."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unless it gets destroyed in a freak accident."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's like watching Thomas Edison work.",
+        "I have some oily rags in my cube."
+      ]
+    }
+  ]
+}

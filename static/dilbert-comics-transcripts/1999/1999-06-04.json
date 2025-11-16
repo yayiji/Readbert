@@ -1,0 +1,25 @@
+{
+  "date": "1999-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Spray this Teflon (tm) on your body to better ignore the input of your subordinates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sploit!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next time, shake well before using.",
+        "Who cares what you say?!"
+      ]
+    }
+  ]
+}

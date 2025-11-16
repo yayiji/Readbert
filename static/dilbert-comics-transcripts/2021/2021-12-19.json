@@ -1,0 +1,54 @@
+{
+  "date": "2021-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry, is my description of the problem boring you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? No. I'm totally engaged."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just have a bad case of \"resting bored face,\" or RBF for short."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... no matter what I say, you always look like that?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You make it sound like a bad thing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're sucking the life force right out of my body!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'd rather be dead than spend another second with you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can you teach me the RBF?",
+        "I'd love to, but I probably look like I wouldn't."
+      ]
+    }
+  ]
+}

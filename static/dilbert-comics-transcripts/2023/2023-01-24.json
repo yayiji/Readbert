@@ -1,0 +1,25 @@
+{
+  "date": "2023-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Relationship advice",
+        "The most important decision you will ever make is who you marry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sadly, you will be limited to potential partners who are roughly as defective as you, so good luck with that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I trick someone?",
+        "They usually catch on after a baby or two."
+      ]
+    }
+  ]
+}

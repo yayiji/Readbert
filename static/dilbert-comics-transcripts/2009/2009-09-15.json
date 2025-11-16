@@ -1,0 +1,23 @@
+{
+  "date": "2009-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't tell if my pay is excessive enough."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I created a lab to test the reaction of hobos to my different pay scenarios."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's your turn to find the next hobo."
+      ]
+    }
+  ]
+}

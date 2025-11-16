@@ -1,0 +1,24 @@
+{
+  "date": "1998-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new product is a database of famous serial killers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can search the database by name, weapon or tattoo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me guess, Wally:",
+        "Six months ago our young intern asked you what the term \"killer application\" meant."
+      ]
+    }
+  ]
+}

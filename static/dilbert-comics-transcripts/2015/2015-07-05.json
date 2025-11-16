@@ -1,0 +1,53 @@
+{
+  "date": "2015-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you tell me our biggest vendor pulled out of the deal?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I told you my problems, you would suggest solutions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your solutions generally don't make sense."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But you are my boss, so I would be obliged to waste time looking into your suggestions."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So if you try to solve my problem, I will have two problems instead of one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sometimes my ideas are good!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Right?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That is a dangerous way to think."
+      ]
+    }
+  ]
+}

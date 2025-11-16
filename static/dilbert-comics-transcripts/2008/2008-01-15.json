@@ -1,0 +1,23 @@
+{
+  "date": "2008-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that you're out of the loop, your new cubicle will be a giant mushroom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a pleasant environment except when the mushroom gets its nutrients."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nutrients?"
+      ]
+    }
+  ]
+}

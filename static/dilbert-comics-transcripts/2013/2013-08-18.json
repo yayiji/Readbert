@@ -1,0 +1,54 @@
+{
+  "date": "2013-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, this is my brother, Phil, the prince of insufficient light."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I asked him to interpret your accomplishments for this quarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have 25 alleged accomplishments."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Eight of these accomplishments involved simply being on a project team that did something."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Nine accomplishments involved fixing problems you created."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Five of these are just buzzwords that don't mean anything."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And three are duplicates that you reworded to appear different."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd recommend harvesting his organs, but those probably don't work either.",
+        "That's just mean."
+      ]
+    }
+  ]
+}

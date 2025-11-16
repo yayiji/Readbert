@@ -1,0 +1,25 @@
+{
+  "date": "2011-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become more aggressive in blaming others for my lack of success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, you're keeping me from working right now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "I'm not.",
+        "I don't have time to stand here and argue with you all day!"
+      ]
+    }
+  ]
+}

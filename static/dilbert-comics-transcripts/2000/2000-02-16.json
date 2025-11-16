@@ -1,0 +1,24 @@
+{
+  "date": "2000-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management is like an organism that needs to survive and grow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees are your fertilizer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I'm like a well-fertilized plant?",
+        "No, and sadly, weasels don't need fertilizer."
+      ]
+    }
+  ]
+}

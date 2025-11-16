@@ -1,0 +1,25 @@
+{
+  "date": "2017-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you get the file I sent by email?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I open email, I'll see thirty urgent messages that will ruin my entire day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you open it tomorrow?",
+        "You should try to live in the moment."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's go around the table, and each of you tell us a little bit about yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My first job was night janitor in a zoo, but I got fired for petting the monkeys too hard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "Oh, sorry.",
+        "I didn't think anyone would be listening."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "1991-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend a trip to \"Clyde Canyon\" for your vacation.",
+        "France",
+        "Spain",
+        "Bermuda"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would I do there?",
+        "You could look at the scenery...",
+        "Take some pictures."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can't I just look at the brochure and stay home?",
+        "Yeah, that's what I do.",
+        "Free"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should I waste my time doing tasks that are not in my job description?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or should I be a mindless zombie that shuns teamwork and never shows initiative?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Take your time.",
+        "I'm good either way."
+      ]
+    }
+  ]
+}

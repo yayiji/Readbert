@@ -1,0 +1,23 @@
+{
+  "date": "2009-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My productivity software turned on me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It keeps crashing my computer. But that's okay because I don't need a computer to do my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any assignments that are sort of pre-industrial?"
+      ]
+    }
+  ]
+}

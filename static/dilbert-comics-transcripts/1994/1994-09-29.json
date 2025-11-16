@@ -1,0 +1,25 @@
+{
+  "date": "1994-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new strategy is to make defective products and charge for technical support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heh-heh... Our user manual is totally incomprehensible.",
+        "We didn't plan it that way - we were lucky."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm so proud to be here.",
+        "It all came together when I realized I hate our customers."
+      ]
+    }
+  ]
+}

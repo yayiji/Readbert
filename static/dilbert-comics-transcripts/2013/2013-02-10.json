@@ -1,0 +1,61 @@
+{
+  "date": "2013-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working at home today. It will be as if we're co-workers.",
+        "Ugh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This madness must stop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should check your Facebook page to see what's new."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Two hours later",
+        "You should check Twitter.",
+        "I'm almost finished with Facebook."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Two hours later",
+        "Did you get my LinkedIn request?",
+        "I'll check."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Two hours later",
+        "I sent you some links to funny websites.",
+        "Cool!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I just spent ten hours at my computer and I can't remember why I was sitting there in the first place."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You were going to check your stocks.",
+        "Okay. That sounds right."
+      ]
+    }
+  ]
+}

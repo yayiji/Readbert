@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm back from vacation. Did you have any problems covering for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem at all. I saved all of your work for when you got back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate you with the heat of a thousand suns!",
+        "How was your vacation? Was it relaxing?"
+      ]
+    }
+  ]
+}

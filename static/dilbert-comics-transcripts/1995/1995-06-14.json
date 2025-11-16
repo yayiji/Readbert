@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great news! I've reengineered your job to make you more fulfilled!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll no longer be limited to one little part of the value chain. You'll be involved in all stages of production!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh lord, you fired all the secretaries!!",
+        "Dust my credenza."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2002-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, research this expense and find out what it's for."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's only $2.37."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It could take all day to track it down!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm a highly trained engineer, not a clerk."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How can you justify wasting a valuable employee like me on a trivial task like this?!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That reminds me: your project got canceled. This is your only assignment."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Woo-hoo!",
+        "In your face!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wonder if he'll find out I spent $2.37 on his \"kudos\" award."
+      ]
+    }
+  ]
+}

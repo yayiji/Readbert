@@ -1,0 +1,28 @@
+{
+  "date": "1995-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can create the illusion that you work long hours by leaving voice mails for your boss at 4 a.m."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, this is Dilbert.",
+        "It's 4 a.m. and I'm in my underwear and I thought of you... oops...",
+        "Erase... oops.",
+        "Beep",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just send an obscene message to your boss?",
+        "No... I think I hit the group code."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And then I need you to...",
+        "Excuse me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally is needed elsewhere to do something unspecified that has an implied high priority."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seriously? You have a wingman for laziness?",
+        "I think of him as a productivity retardant."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1993-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations, Mister Dogbert.",
+        "You submitted the lowest bid for creating our corporate fitness program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The other bidders wanted money.",
+        "You're the only one who offered to do it just for the laughs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Although I don't see what's so funny about it.",
+        "Engineers...",
+        "Aerobics...",
+        "Think about it."
+      ]
+    }
+  ]
+}

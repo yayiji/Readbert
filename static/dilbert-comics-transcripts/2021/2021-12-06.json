@@ -1,0 +1,23 @@
+{
+  "date": "2021-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You say you learned to code at the \"prestigious university of Elbonia.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never heard of that \"prestigious\" school. So either you are lying, or I'm an idiot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm hoping it's both."
+      ]
+    }
+  ]
+}

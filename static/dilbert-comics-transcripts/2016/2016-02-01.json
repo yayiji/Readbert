@@ -1,0 +1,30 @@
+{
+  "date": "2016-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've been tracking an accused terrorist named Asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We believe he was radicalized here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did you do to him?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Leadership?",
+        "Yup. That's the top cause."
+      ]
+    }
+  ]
+}

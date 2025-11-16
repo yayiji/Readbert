@@ -1,0 +1,24 @@
+{
+  "date": "1989-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay then, suppose you had everything you wanted. What would you do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gloat. Make everybody else feel like failures. Live a garish and decadent life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And when that gets boring?",
+        "Maybe start my own perfume company."
+      ]
+    }
+  ]
+}

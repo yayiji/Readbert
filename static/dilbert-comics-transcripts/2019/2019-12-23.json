@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The product is ready to ship as soon as the new user guide is complete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ship it with the old model's user guide."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The user interface is totally different.",
+        "Don't let perfect be the enemy of shipping."
+      ]
+    }
+  ]
+}

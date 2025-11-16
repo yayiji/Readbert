@@ -1,0 +1,26 @@
+{
+  "date": "1993-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for letting me borrow your phaser.",
+        "I recharged the batteries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope you didn't use it in anger."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I was laughing most of the time.",
+        "And I probably won't stop wagging until Tuesday.",
+        "Good."
+      ]
+    }
+  ]
+}

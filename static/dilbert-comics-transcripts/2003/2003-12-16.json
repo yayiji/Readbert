@@ -1,0 +1,23 @@
+{
+  "date": "2003-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The woods are full of people who want your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These days you can't shake a tree without three or four engineers falling out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd love to stay and chat but I need to go motivate the other headcounts."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2014-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, downtrodden employee.",
+        "I am one of you, and not an awesome person in disguise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put spider eggs in my boss's coffee in the hope that some survive and burrow out of his body."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What have you learned so far?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I learned that knowledge is overrated."
+      ]
+    }
+  ]
+}

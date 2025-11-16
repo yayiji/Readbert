@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to have the same emotional investment in this company as you have with your families."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm divorced.",
+        "I'm single.",
+        "I have never been kissed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mission accomplished."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2005-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today I got a bonus for selling stuff to a customer who probably can't pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does your soda taste any less delicious?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Congratulations; you're a sociopath.",
+        "It feels kinda good."
+      ]
+    }
+  ]
+}

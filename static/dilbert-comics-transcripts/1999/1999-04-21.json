@@ -1,0 +1,25 @@
+{
+  "date": "1999-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Eliminate phone support for your product. Provide help only via the internet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then discourage people by making them answer an ominous list of personal questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "1. What is your home address?",
+        "2. When do you shower?"
+      ]
+    }
+  ]
+}

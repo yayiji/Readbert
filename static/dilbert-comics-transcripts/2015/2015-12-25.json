@@ -1,0 +1,24 @@
+{
+  "date": "2015-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I improve my reputation at work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The easiest way is to make your co-workers look worse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't they notice?",
+        "You didn't."
+      ]
+    }
+  ]
+}

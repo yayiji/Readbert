@@ -1,0 +1,24 @@
+{
+  "date": "2000-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I work harder than you.",
+        "Why do I get paid a fifth of what you make?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because there are many people like you but few people like me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe that's because the people like me eventually kill the people like you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someday soon I will take your job. Buwhahaha!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I programmed you to self-destruct if that ever happens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait, what?",
+        "Is that legal?",
+        "I'm adding some code to make your head explode if you laugh at me again."
+      ]
+    }
+  ]
+}

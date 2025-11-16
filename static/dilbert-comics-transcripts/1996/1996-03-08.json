@@ -1,0 +1,26 @@
+{
+  "date": "1996-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new VP is coming.",
+        "Is the demo of our holographic interface ready?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything should be fine... unless we're suddenly visited by the dark angel of product demos..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hello-o-o, Wally.",
+        "Did somebody say \"demo\"?",
+        "I'm Dilbert; loyal peon."
+      ]
+    }
+  ]
+}

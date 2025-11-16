@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you respond to Ted's long email?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I judged it to be a manifestation of his mental issues and not something I need to address."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing will ever get done around here unless you start pretending your co-workers are sane.",
+        "Will do."
+      ]
+    }
+  ]
+}

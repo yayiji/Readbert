@@ -1,0 +1,55 @@
+{
+  "date": "2009-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Finish this project in two weeks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And make sure you get input from all the executive stakeholders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's impossible.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's call one of the ten stakeholders and I'll show you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This is Ed Bigston's voice mail. I'm not available... ever."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I am either on vacation, or sick, or traveling, or in a meeting."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I do not check e-mail or return phone calls. Like the horizon, I am more of a concept than a corporeal being."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Despair is your only option.",
+        "Try faxing him."
+      ]
+    }
+  ]
+}

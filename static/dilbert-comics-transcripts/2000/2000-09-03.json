@@ -1,0 +1,55 @@
+{
+  "date": "2000-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it okay if I take naps during the day?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or would you prefer that I make important decisions while groggy and delusional?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Either way is okay with me.",
+        "It's your call."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He looks funny all purple."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Must... stay... awake.",
+        "Make... important... decisions."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Must replace optical switches with dancing lemurs."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa! French people are touching me with cigarettes!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope that's how engineers design missile defense networks."
+      ]
+    }
+  ]
+}

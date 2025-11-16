@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss sent me to represent him at this meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fuh-fuh-fuh everything costs too much.",
+        "Fuh-fuh-fuh we don't have enough resources!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't help us.",
+        "Hey, I'm not the one who invited him."
+      ]
+    }
+  ]
+}

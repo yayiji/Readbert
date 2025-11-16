@@ -1,0 +1,30 @@
+{
+  "date": "2014-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Last week, I did my corporate charity work by teaching unemployed people how to interview for jobs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't they also need job skills?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nah. I taught them how to look busy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No boss will be fooled by that.",
+        "Do you believe I trained unemployed people last week?"
+      ]
+    }
+  ]
+}

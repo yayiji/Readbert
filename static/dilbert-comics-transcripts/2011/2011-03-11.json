@@ -1,0 +1,23 @@
+{
+  "date": "2011-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your competitors are faster because they have meetings where everyone has to stand up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll top that by having meetings where everyone does jumping jacks while I pelt them with office supplies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's working!"
+      ]
+    }
+  ]
+}

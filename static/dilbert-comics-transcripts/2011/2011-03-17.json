@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My best friend from college keeps bugging me to visit her.",
+        "The flight will cost a small fortune."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try offering her a cash payment of half the estimated cost of the trip if she agrees to stop inviting you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't have any friends, do you?",
+        "I hear they're expensive."
+      ]
+    }
+  ]
+}

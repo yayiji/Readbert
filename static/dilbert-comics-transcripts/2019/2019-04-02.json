@@ -1,0 +1,25 @@
+{
+  "date": "2019-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I engineered a totally safe design for nuclear power plants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How sure are you that it is safe?",
+        "One hundred percent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just keep it away from my town.",
+        "Maybe it wasn't an engineering problem after all."
+      ]
+    }
+  ]
+}

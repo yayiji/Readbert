@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employee engagement survey results are in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaand... not a single person answered the survey."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like we have room to improve.",
+        "Have you considered bribery?"
+      ]
+    }
+  ]
+}

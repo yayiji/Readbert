@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our plan for reducing turnover is to encourage smoking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way, everyone gets a relaxing smoke break several times per day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or non-smokers could take breaks.",
+        "Now I wish you had been in the meeting when we planned this."
+      ]
+    }
+  ]
+}

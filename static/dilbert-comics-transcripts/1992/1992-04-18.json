@@ -1,0 +1,25 @@
+{
+  "date": "1992-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whap!",
+        "The mighty hunter strikes his wily prey!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The hunter is awash in manly hormones.",
+        "He has mastered his sport and conquered one of nature's best."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I used to feel guilty about this until I realized it's a sport."
+      ]
+    }
+  ]
+}

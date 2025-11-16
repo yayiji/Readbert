@@ -1,0 +1,25 @@
+{
+  "date": "2016-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The self-serving consultant",
+        "I recommend firing this guy so you have more money for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I also recommend withholding his final check until he makes all of my powerpoint slides for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is messed up.",
+        "Add some recommendations so I sound smart."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to try something called extreme programming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, pick a partner. The two of you will work at one computer for forty hours a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The new system is a minute old and I already hate everyone."
+      ]
+    }
+  ]
+}

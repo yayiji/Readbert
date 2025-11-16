@@ -1,0 +1,30 @@
+{
+  "date": "2014-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "An angel investor agreed to meet with me about my start-up idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to be careful because he might be..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're meeting for drinks at his house on Saturday night."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm socially inept and even I know that sounds wrong.",
+        "He keeps texting to say he can't wait to fund me."
+      ]
+    }
+  ]
+}

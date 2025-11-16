@@ -1,0 +1,25 @@
+{
+  "date": "2015-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a report that you killed Ted in a cafeteria brawl.",
+        "Not exactly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My brain stimulator had a software glitch, and it made me homicidal for a minute."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you're a murderer, right?",
+        "Software killed Ted. I was only the weapon."
+      ]
+    }
+  ]
+}

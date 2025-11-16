@@ -1,0 +1,23 @@
+{
+  "date": "2007-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't bring me problems, bring me solutions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When I bring you solutions, you tell me they won't work and treat me like a moron."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the problem with that?"
+      ]
+    }
+  ]
+}

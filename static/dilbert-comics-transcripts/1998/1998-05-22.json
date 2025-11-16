@@ -1,0 +1,28 @@
+{
+  "date": "1998-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's my plan.",
+        "What does everyone think?",
+        "Brilliant!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is the best plan ever made!!",
+        "Wow! Ooh-wah!",
+        "You da man!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the type of honest feedback we need.",
+        "I love it when you exhale in my direction."
+      ]
+    }
+  ]
+}

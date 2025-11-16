@@ -1,0 +1,25 @@
+{
+  "date": "2000-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The adventures of Lulu",
+        "The woman who has no sense of proportion"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa! Does this mean you hate me?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's called an assignment.",
+        "This is war!"
+      ]
+    }
+  ]
+}

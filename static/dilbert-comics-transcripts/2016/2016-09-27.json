@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hacked into your fitness band and analyzed your decision-making under different conditions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you are hungry, tired, or stressed, you make terrible decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How often is that?",
+        "Only when you're awake."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1996-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In an effort to boost sales, laptop computers have been given to every member of the sales force."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That could be a problem, given the recent cuts to the training budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Meanwhile, in the field",
+        "And if you order today, I'll throw in this rectangular plastic thing."
+      ]
+    }
+  ]
+}

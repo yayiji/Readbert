@@ -1,0 +1,26 @@
+{
+  "date": "1997-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "I am under your consulting spell.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your overly complicated matrices and diagrams have convinced me of your intellectual superiority."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am afraid to act without your approval.",
+        "Did I say you could put your arms up like that?"
+      ]
+    }
+  ]
+}

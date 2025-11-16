@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, can you review this for technical accuracy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because six years ago you rolled your eyes when I said something at a meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you forgive me?",
+        "Yes. That process involves not helping you."
+      ]
+    }
+  ]
+}

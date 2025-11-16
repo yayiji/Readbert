@@ -1,0 +1,29 @@
+{
+  "date": "2018-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you take the Dogbert personality type test?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. I'm a disgruntled psychopath with a blinding hatred of authority."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be in my office."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Good! Stay there!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We made our new phone extra-brittle and gave it a sleek, but slippery case."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Consumers will be forced to choose between an ugly protective cover or replacing the phone three times a year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who would buy such a thing?",
+        "We also made it addictive."
+      ]
+    }
+  ]
+}

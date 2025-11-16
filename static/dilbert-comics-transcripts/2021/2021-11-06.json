@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "Do you have a career plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to drift from one dead-end project to another until I die in my cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, good, because I was going to suggest that."
+      ]
+    }
+  ]
+}

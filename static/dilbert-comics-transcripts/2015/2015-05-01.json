@@ -1,0 +1,28 @@
+{
+  "date": "2015-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm hearing reports that you have been offending your co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By being honest?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes.",
+        "Cut it out.",
+        "Okay,",
+        "will do.",
+        "And you believe me,",
+        "right?"
+      ]
+    }
+  ]
+}

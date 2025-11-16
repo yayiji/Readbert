@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our latest product is getting a bad reception on social media."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A Twitter user describes our user interface as \"a cross between a skunk fight and orthopedic socks.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't make sense.",
+        "Apparently, neither does our user interface."
+      ]
+    }
+  ]
+}

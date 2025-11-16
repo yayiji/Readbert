@@ -1,0 +1,57 @@
+{
+  "date": "1999-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project will take six months...",
+        "Time line"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unless there are unforeseen problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your leadership has made me unmotivated."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is that considered foreseen or unforeseen?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And Wally is dysfunctional on many levels.",
+        "I really am."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Was that foreseen?",
+        "Or are you saying the schedule is random?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He looks mad.",
+        "I didn't see that coming."
+      ]
+    }
+  ]
+}

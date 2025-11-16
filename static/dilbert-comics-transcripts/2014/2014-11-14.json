@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to hire a co-CEO to share the job with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assume you know that having a co-CEO does not mean you get paid the same while working half as much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I fire you?",
+        "No, we need a third CEO to break the tie."
+      ]
+    }
+  ]
+}

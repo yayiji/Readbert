@@ -1,0 +1,37 @@
+{
+  "date": "1992-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, there you are,",
+        "working on your little",
+        "newsletter for clueless",
+        "people..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're probably think-",
+        "ing up some clever",
+        "little fact that the",
+        "so-called clueless",
+        "people would never",
+        "realize on",
+        "their own."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me see . . . \"If you",
+        "are the only one talking",
+        "then it is a clue that",
+        "no conversation is",
+        "occurring and it is",
+        "time to leave.\""
+      ]
+    }
+  ]
+}

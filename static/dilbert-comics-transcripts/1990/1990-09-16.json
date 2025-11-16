@@ -1,0 +1,57 @@
+{
+  "date": "1990-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Express lane",
+        "10 items",
+        "This looks like a lot more than ten items, ma'am."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It doesn't matter. I'm old and you must do as I say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have some coupons for totally unrelated products and a fourth-party personal check from North Yemen."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They're hopelessly lost in my bag. I'll rummage while you all wait."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Rummage, rummage, rummage",
+        "What the..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaaaaee!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wild coyotes in the handbag... I've seen this before."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Woof!",
+        "Urp"
+      ]
+    }
+  ]
+}

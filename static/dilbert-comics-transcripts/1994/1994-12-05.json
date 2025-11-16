@@ -1,0 +1,25 @@
+{
+  "date": "1994-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've studied the Japanese model and decided to copy their best practices."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Long term investing?",
+        "Karaoke!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shaft! Can you dig it?",
+        "Thank god we don't have lifetime employment."
+      ]
+    }
+  ]
+}

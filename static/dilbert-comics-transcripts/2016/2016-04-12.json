@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you make that link button blue instead of burnt orange?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, if you want fewer people to click on it, and you thrive on bad design."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have an eye for design.",
+        "And I have an elbow for music."
+      ]
+    }
+  ]
+}

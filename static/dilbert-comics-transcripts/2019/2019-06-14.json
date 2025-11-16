@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our competition released a product that makes our product look like it was designed by chimps."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I hired the world's most evil marketing expert to help us close the perception gap."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we focus on our value proposition?",
+        "If that means accusing them of crimes they didn't commit, then yes."
+      ]
+    }
+  ]
+}

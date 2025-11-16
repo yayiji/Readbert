@@ -1,0 +1,26 @@
+{
+  "date": "1998-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just read that the average woman is paid 75 cents for every dollar that men make.",
+        "It's an outrage!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the highest paid engineer in the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's impossible.",
+        "The article says \"average women\" earn less.",
+        "Suddenly, the problem comes into focus."
+      ]
+    }
+  ]
+}

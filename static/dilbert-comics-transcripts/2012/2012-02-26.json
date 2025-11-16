@@ -1,0 +1,53 @@
+{
+  "date": "2012-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't talk to me now. I'm trying to think."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm on the phone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm late for a meeting."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Come back when I'm not busy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Please, I'm trying to eat my lunch."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, this is a perfect time. What can I do for you?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, so..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think your problem is bad timing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to promote you to vice president because our CEO has been mentoring you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Otherwise, it would seem as if he is either bad at mentoring or bad at picking people to mentor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What now?",
+        "Would you like to hear some good news that won't make you happy?"
+      ]
+    }
+  ]
+}

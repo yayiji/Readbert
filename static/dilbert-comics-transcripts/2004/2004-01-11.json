@@ -1,0 +1,62 @@
+{
+  "date": "2004-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I discovered a hole in our internet security.",
+        "What?!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good grief, man!",
+        "How could you put a hole in our internet?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't put it there.",
+        "I found it...and it's not..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's your job to fix that hole.",
+        "I want you to work 24-7!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Actually, that's not my job.",
+        "But I'll inform our network management group."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Passing the buck!!!",
+        "You're a buck passer!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Forget it!",
+        "There's no hole!",
+        "It got better!",
+        "That's more like it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I fixed the internet."
+      ]
+    }
+  ]
+}

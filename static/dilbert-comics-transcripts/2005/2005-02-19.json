@@ -1,0 +1,25 @@
+{
+  "date": "2005-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert works for the cable company.",
+        "If your picture is fuzzy then get new glasses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If my glasses are the problem, why does the couch look perfectly clear?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good question.",
+        "Please hold while I transfer you to couch tech support."
+      ]
+    }
+  ]
+}

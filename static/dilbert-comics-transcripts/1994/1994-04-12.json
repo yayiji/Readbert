@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a weasel to help us write our business case."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whisper",
+        "Whisper"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I say weasel? I meant mink."
+      ]
+    }
+  ]
+}

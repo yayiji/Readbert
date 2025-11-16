@@ -1,0 +1,23 @@
+{
+  "date": "1993-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to identify any unnecessary and unproductive employees so I can cut costs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does anybody have spare time to join my task force on productivity?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good, good... anybody else?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2009-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Customers can't figure out our user interface."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They should read the manual."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our manual is more confusing than our user interface."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They can use our online support database.",
+        "That's more confusing than our manual."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We have no money to fix any of that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In situations like this, I like to go to my special place."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Someday I hope to have a special place that's big enough for my entire body."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Problem solved."
+      ]
+    }
+  ]
+}

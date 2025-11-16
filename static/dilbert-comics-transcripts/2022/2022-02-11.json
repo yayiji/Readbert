@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This was a great idea to come up on the roof to look at the view."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought you'd be mad that I found a bug in our billing software because it makes your leadership successes look like incompetence or theft."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The view is better if you stand on the ledge.",
+        "Can I call you my mentor?"
+      ]
+    }
+  ]
+}

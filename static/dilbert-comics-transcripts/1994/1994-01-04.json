@@ -1,0 +1,23 @@
+{
+  "date": "1994-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've redesigned the organization chart to show management at the bottom supporting our most important employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Why do the most important employees get payed the least?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because they would never think of ideas like this upside-down chart concept."
+      ]
+    }
+  ]
+}

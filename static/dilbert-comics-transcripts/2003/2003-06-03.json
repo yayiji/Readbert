@@ -1,0 +1,23 @@
+{
+  "date": "2003-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I plan to open a gambling casino for people who have extraordinarily bad luck."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can you tell who has extraordinarily bad luck?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They would be the ones that go to my casino."
+      ]
+    }
+  ]
+}

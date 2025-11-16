@@ -1,0 +1,29 @@
+{
+  "date": "2015-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought of a product idea that could solve the baldness epidemic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Imagine an opaque material in the shape of a dome that puts the top of one's head in stealth mode."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We could call it a \"hat.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Stop trying to steal my idea!"
+      ]
+    }
+  ]
+}

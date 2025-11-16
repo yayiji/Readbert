@@ -1,0 +1,25 @@
+{
+  "date": "2000-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the new guy.",
+        "I don't know his name."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's either rude or shy.",
+        "No one knows for sure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you figure it out, name him either Shilo or Rudy."
+      ]
+    }
+  ]
+}

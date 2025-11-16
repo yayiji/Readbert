@@ -1,0 +1,54 @@
+{
+  "date": "2017-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's why I want to rewrite that part of the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's like closing the barn door after the horse gets out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it isn't anything like that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I just think the current software could be better."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So it's like throwing away the baby with the bathwater."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, it is not like that even a little!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You sound exactly like Hitler. That can't be a coincidence."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Nothing you say makes sense!",
+        "That's like saying the Earth is flat."
+      ]
+    }
+  ]
+}

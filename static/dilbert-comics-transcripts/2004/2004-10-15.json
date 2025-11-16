@@ -1,0 +1,23 @@
+{
+  "date": "2004-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new vice president of ethics will help you decide what's right and wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When we talk to him, what customer's project should we charge for our time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whichever one we hate the most."
+      ]
+    }
+  ]
+}

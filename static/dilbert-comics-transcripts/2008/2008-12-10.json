@@ -1,0 +1,27 @@
+{
+  "date": "2008-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We surveyed a thousand people who still have landline phones and no caller I.D."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We asked for their opinion on our new technology.",
+        "34% said, \"Fiddlesticks,\"",
+        "and 23% couldn't hear the question.",
+        "23%",
+        "\"Huh\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "43% thought we were in the room with them and offered us a hard candy."
+      ]
+    }
+  ]
+}

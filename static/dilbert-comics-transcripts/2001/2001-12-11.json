@@ -1,0 +1,27 @@
+{
+  "date": "2001-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Creativity exercise",
+        "Team one made a device that converts air to electricity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Team two used their hour to create a missile defense laser.",
+        "Clap",
+        "Clap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Team three, do you need more time?",
+        "It's a scissors holder!"
+      ]
+    }
+  ]
+}

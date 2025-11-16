@@ -1,0 +1,26 @@
+{
+  "date": "2000-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your office is too far from the executive offices.",
+        "It is?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They are actively forgetting your name even as we speak. It's going... going...",
+        "Gone!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carol, we have to move my office!",
+        "Have we met?"
+      ]
+    }
+  ]
+}

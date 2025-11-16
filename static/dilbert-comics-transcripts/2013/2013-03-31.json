@@ -1,0 +1,57 @@
+{
+  "date": "2013-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would it be better with the navigation button at the top of the page?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can make that change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know you can make the change. I'm asking if you agree it would be a good idea."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's no problem to move buttons.",
+        "But is it a good idea?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can have it done in ten minutes.",
+        "But should we do it at all?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Whatever you want.",
+        "That is not an answer! Forget it!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm going to tell your boss you're difficult to work with."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "When will you move the button?",
+        "As soon as it's my idea."
+      ]
+    }
+  ]
+}

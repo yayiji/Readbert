@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate fancy hotels like this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Am I expected to tip the maid when I leave?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could ask that concierge guy...",
+        "Can I trust a guy with a french-sounding job?",
+        "...And do I have to tip him?"
+      ]
+    }
+  ]
+}

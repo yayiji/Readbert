@@ -1,0 +1,26 @@
+{
+  "date": "2017-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you done writing the software?",
+        "Yes, but it has some bugs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How is that different from not being done?",
+        "I see the glass as half full."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Half full of bugs?",
+        "Optimism is tricky."
+      ]
+    }
+  ]
+}

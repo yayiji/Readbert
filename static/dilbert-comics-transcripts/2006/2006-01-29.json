@@ -1,0 +1,51 @@
+{
+  "date": "2006-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need to know your requirements before I start to design the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First of all, what are you trying to accomplish?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm trying to make you design my software."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I mean what are you trying to accomplish with the software?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I won't know what I can accomplish until you tell me what the software can do."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Try to get this concept through your thick skull: the software can do whatever I design it to do!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can you design it to tell you my requirements?"
+      ]
+    }
+  ]
+}

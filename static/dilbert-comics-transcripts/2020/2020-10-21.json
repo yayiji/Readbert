@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting addicted to hand sanitizer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It started with my hands, but over time, I extended it up my forearms, then behind my ears, and it just kept going."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Want a squirt?",
+        "I don't know where that thing has been."
+      ]
+    }
+  ]
+}

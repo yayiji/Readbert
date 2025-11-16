@@ -1,0 +1,25 @@
+{
+  "date": "2000-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come help me on this assignment.",
+        "It's a huge crisis!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Lulu, do you ever wonder why your life is a series of crises?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assume God is softening me up before smiting me.",
+        "Excuse me while I put on my static guard."
+      ]
+    }
+  ]
+}

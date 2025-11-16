@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company's new politeness policy forbids you from texting while I am trying to talk to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not using a texting app. I'm replying to people on social media."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're missing the point.",
+        "When did my happiness stop being the point?"
+      ]
+    }
+  ]
+}

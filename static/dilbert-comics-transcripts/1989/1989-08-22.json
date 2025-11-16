@@ -1,0 +1,27 @@
+{
+  "date": "1989-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rrrring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello.",
+        "This is Helen.",
+        "We've never met, but don't even think of asking me for a date... ever.",
+        "Click."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Women got first-strike capability.",
+        "Surrender."
+      ]
+    }
+  ]
+}

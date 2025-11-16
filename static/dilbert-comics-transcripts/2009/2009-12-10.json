@@ -1,0 +1,25 @@
+{
+  "date": "2009-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I send our requirements to your fax?",
+        "Absolutely."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just travel back in time to 1995, when faxing was a good way to handle this sort of thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You realize I'm a customer, right?",
+        "Until you spend all of your money on new fax machines."
+      ]
+    }
+  ]
+}

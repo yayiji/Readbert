@@ -1,0 +1,27 @@
+{
+  "date": "1997-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thermostat wars",
+        "Be reasonable, Alice.",
+        "When it's warm enough for you, it's too hot for normal humans."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Logically, you could wear a sweater. But there's nothing I can do to be less warm.",
+        "Therefore, you must compromise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did she buy the argument?",
+        "No. But I'm going to shave my back and take another run at it."
+      ]
+    }
+  ]
+}

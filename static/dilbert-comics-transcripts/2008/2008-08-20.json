@@ -1,0 +1,26 @@
+{
+  "date": "2008-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company sent me to give money to a hobo.",
+        "It's our way of helping the local community."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm authorized to give a million dollars to one of you.",
+        "How do you decide which one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could fight for it.",
+        "Say \"go.\""
+      ]
+    }
+  ]
+}

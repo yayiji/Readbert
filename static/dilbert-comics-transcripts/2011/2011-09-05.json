@@ -1,0 +1,26 @@
+{
+  "date": "2011-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you creative?",
+        "Oh, yes. I'm very creative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Research tells us that creative people take ethical shortcuts and are generally less honest.",
+        "Ooh"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you take a long time to do things?",
+        "I don't know the right answer!"
+      ]
+    }
+  ]
+}

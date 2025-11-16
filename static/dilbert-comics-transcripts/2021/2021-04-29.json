@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've invented an alternative to shaking hands."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You raise one hand up like the start of a high-five and stop."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you think?",
+        "Why don't you try it for a month and tell me how it goes?"
+      ]
+    }
+  ]
+}

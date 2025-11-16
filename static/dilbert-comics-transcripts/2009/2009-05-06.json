@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa! My stocks are down 70%!",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today I discovered that my house is insulated with cheese."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gouda?",
+        "Grated."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2021-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking of getting into cryptocurrency trading."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you know anything about it?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you should totally do it. That's how you learn."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll set up a crypto wallet and manage it for you.",
+        "Thank you!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How much should I put in there?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "At least 90% of your net worth. That's called diversification."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then never look at it again.",
+        "Never?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Never. Unless I die before you do. Then it's fine."
+      ]
+    }
+  ]
+}

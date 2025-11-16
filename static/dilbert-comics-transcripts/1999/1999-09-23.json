@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, mother.",
+        "I called to tell you I get your joke."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't know what I'm talking about? Haha! You're really playing this one all the way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It turns out that this is my actual life.",
+        "It's the good part."
+      ]
+    }
+  ]
+}

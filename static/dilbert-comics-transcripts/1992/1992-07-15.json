@@ -1,0 +1,24 @@
+{
+  "date": "1992-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've had nothing but tragedy since making a fortune in the stock market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes, Dogbert, it seems like our lives have preset balances of joy and pain; when one gets too high the other kicks in to compensate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But through it all, I always have you, my friend.",
+        "At least until my good luck kicks in."
+      ]
+    }
+  ]
+}

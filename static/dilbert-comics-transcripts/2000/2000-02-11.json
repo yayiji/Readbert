@@ -1,0 +1,24 @@
+{
+  "date": "2000-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you've become too aware of reality. I'm sending you to \"Cynics Anonymous.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A higher power will help you regain the naive optimism that once made you a perfect employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why can't the higher power change me while I'm sitting here?",
+        "Fluorescent lights block his power."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This ergonomic keyboard is our first product developed under the \"Big Q\" program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The \"Q\" stands for quality.",
+        "Speaking of Q... it's missing the letter Q."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You sound just like our whiny customers.",
+        "I guess the \"Q\" stands for \"uality.\""
+      ]
+    }
+  ]
+}

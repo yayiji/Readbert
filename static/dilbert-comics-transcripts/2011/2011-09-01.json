@@ -1,0 +1,26 @@
+{
+  "date": "2011-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you word that more simply? I need to explain it to the executive leadership."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Money be good.",
+        "This make more.",
+        "Oogah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was uncalled for.",
+        "I can replace the pie chart with a kitten."
+      ]
+    }
+  ]
+}

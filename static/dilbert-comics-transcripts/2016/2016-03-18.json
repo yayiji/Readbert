@@ -1,0 +1,25 @@
+{
+  "date": "2016-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to prepare and serve my favorite food to me now or in one minute?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you always use that manipulative trick of making me think past the sale?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because it works.",
+        "One minute!",
+        "Not a second sooner!"
+      ]
+    }
+  ]
+}

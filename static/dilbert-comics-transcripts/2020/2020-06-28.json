@@ -1,0 +1,54 @@
+{
+  "date": "2020-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It must be difficult to be single in the age of Covid-19."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not too bad, actually."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm in contract negotiations with a semi-attractive woman I met online."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "With any luck, I will be enjoying a double-masked goodnight kiss by late next month."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That assumes our lawyers don't make too many changes to the contract."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Did you just say she is only semi-attractive?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm judging from the parts I can see. I don't know what's under the mask and shower cap she wears all day."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You must like her eyes.",
+        "I like the one I can see. The other one has a patch."
+      ]
+    }
+  ]
+}

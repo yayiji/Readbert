@@ -1,0 +1,25 @@
+{
+  "date": "1997-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to give a presentation at the trade show."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like you to put that together for me, Alice.",
+        "What's your topic?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technology. They didn't say if I'm for it or against it.",
+        "I'll leave some wiggle room."
+      ]
+    }
+  ]
+}

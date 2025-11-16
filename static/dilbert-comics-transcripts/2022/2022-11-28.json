@@ -1,0 +1,26 @@
+{
+  "date": "2022-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We finally got around to checking your background, and it turns out you don't have a Ph.D. in engineering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In fact, you don't have any technical training whatsoever.",
+        "You have been bluffing for seven years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... am I fired?",
+        "Not for three weeks.",
+        "You're still employee of the month."
+      ]
+    }
+  ]
+}

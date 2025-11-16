@@ -1,0 +1,24 @@
+{
+  "date": "2003-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've noticed that every decision you make is different from what I would have done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My IQ is 240. Your IQ aspires to the three-digit range. I assume that your intuition and experience are guiding you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please be that.",
+        "Chinese astrology!"
+      ]
+    }
+  ]
+}

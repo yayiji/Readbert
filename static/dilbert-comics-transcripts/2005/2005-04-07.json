@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Please fill out the online customer satisfaction survey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... but you haven't even tried to help me yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to base my help on how happy you expect to be."
+      ]
+    }
+  ]
+}

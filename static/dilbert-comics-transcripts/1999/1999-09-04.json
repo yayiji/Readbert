@@ -1,0 +1,23 @@
+{
+  "date": "1999-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To reduce airline travel expenses..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sprint across the runway and cling to the plane during takeoff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That'll weed out the dumb ones."
+      ]
+    }
+  ]
+}

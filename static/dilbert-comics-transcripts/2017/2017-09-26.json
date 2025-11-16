@@ -1,0 +1,26 @@
+{
+  "date": "2017-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you lied about moving the server rack.",
+        "It isn't true."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I heard it from several sources.",
+        "Each of them heard it from the same source, who was wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With that much smoke, there must be a fire.",
+        "Yes, but it's coming out of your ears."
+      ]
+    }
+  ]
+}

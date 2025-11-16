@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I approved your technology proposal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I made that proposal six months ago. Now everything has changed and it no longer makes sense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I guess I was smart to wait.",
+        "The less you do, the better."
+      ]
+    }
+  ]
+}

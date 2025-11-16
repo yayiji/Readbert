@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You claim to be an introvert and yet you never seem to be drained when you talk to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you don't put off a human vibe. I experience you the same way I experience birds, furniture, and robots."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You totally get me.",
+        "Don't talk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1991-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Worried teenager",
+        "What's wrong with you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wood... What happens if we cut down all the trees?? We'll have to declare war on Norway and take their wood!",
+        "I'll be drafted!",
+        "I hate fiords."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pimple attack!!",
+        "Aaargh!"
+      ]
+    }
+  ]
+}

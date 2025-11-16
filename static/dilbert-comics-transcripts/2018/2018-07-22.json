@@ -1,0 +1,55 @@
+{
+  "date": "2018-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finally signed up for Twitter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sending my first tweet.",
+        "Send"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh. What the???"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It seems I have opened some sort of portal to hell."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Demons are streaming through the portal!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I have never seen such horrible thoughts!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaaa!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How was your first day on Twitter?",
+        "I'm already addicted to it."
+      ]
+    }
+  ]
+}

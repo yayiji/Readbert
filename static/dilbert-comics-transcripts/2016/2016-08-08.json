@@ -1,0 +1,25 @@
+{
+  "date": "2016-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new nickname for you is based on the work of Stephen Hawking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hawking is one of the greatest scientific minds of our time.",
+        "I like it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need him to make a decision today.",
+        "Toss it in the black hole."
+      ]
+    }
+  ]
+}

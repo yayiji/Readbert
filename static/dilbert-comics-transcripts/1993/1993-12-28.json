@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's all this, Dogbert?",
+        "I'm planning my world conquest."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It shouldn't be too hard, given the fact I've probably sneezed more brain cells than the average human uses on election day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I usually vote a straight party ticket.",
+        "I could be done before lunch."
+      ]
+    }
+  ]
+}

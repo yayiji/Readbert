@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you murdered Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, it was all Ted's fault for standing on an unstable chair to reach a box."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you tell him you would hold the chair steady?",
+        "Yes, but in my defense, it was boring."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2015-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That isn't in my job description.",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should never tell your boss that a task isn't in your job description!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It makes you sound like a whiney quitter instead of a resourceful entrepreneur."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And don't forget all the personal growth that comes from taking on new challenges."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Think outside the box. That is the key to greatness."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So, according to you, the best way to achieve greatness is by assigning the wrong people to tasks?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are there any other dumb things I need to do to achieve greatness or is one thing enough?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you find someone to mow your lawn yet?",
+        "Almost. He's putting up a fight."
+      ]
+    }
+  ]
+}

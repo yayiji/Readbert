@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the new \"hot line\" phone to the Kremlin.",
+        "My company won the bid to engineer the new model."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a fully functional prototype, so don't mess with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, Gorby, I understand you've been finger-painting with your forehead..."
+      ]
+    }
+  ]
+}

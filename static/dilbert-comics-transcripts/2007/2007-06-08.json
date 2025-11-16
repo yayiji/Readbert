@@ -1,0 +1,25 @@
+{
+  "date": "2007-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy birthday.",
+        "What's it feel like to be 50?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's great! I've never felt better in my entire life!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So it's sort of a delusional thing?",
+        "Yes, luckily."
+      ]
+    }
+  ]
+}

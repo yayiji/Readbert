@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The product review board approved your business case for the government mandate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Diversity is very important to this company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you think \"government mandate\" means?",
+        "I've seen the way the mailman looks at me."
+      ]
+    }
+  ]
+}

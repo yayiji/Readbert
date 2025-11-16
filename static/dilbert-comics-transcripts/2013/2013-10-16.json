@@ -1,0 +1,30 @@
+{
+  "date": "2013-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to focus on your career or your family. You can't do both."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have a family."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, you're married and you have four kids."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That sounds like a huge hassle.",
+        "Perhaps you've already chosen."
+      ]
+    }
+  ]
+}

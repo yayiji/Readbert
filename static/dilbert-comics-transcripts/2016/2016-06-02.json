@@ -1,0 +1,24 @@
+{
+  "date": "2016-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't decide who to vote for in this election."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make your voting decisions the same way you make your work decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Common sense and gut instinct?",
+        "We just call it \"wrong.\""
+      ]
+    }
+  ]
+}

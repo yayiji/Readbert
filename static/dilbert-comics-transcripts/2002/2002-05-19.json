@@ -1,0 +1,55 @@
+{
+  "date": "2002-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you buy our system it will pay for itself in three years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Approximately how much does it cost?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's hard to say.",
+        "It depends on many factors."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Fine. Just tell me how much money it will save annually."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll save $10,000 per year."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well then, if it pays for itself in three years, it must cost about $30,000."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That was a little trick I call \"math.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Oops. Now I'm not emotionally invested.",
+        "Your vendor tauntage is quite excellent today."
+      ]
+    }
+  ]
+}

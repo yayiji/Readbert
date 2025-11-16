@@ -1,0 +1,26 @@
+{
+  "date": "2006-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Note from the author",
+        "Approximately one gazillion people have suggested I draw a comic based on the following idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you will see, this idea is not funny. But I give it to you anyway because I can't resist peer pressure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unfunny comic",
+        "If you can't connect to the network, send a trouble report by e-mail.",
+        "Happy?"
+      ]
+    }
+  ]
+}

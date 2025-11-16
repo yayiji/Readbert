@@ -1,0 +1,29 @@
+{
+  "date": "1993-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert teaches Elbonia \"total quality\" methods.",
+        "You start by identifying problem areas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm... sometimes our mittens get stuck to our noses and we can't breathe.",
+        "Sniff"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yorgi! Try to breathe with your mouth!",
+        "Mmm!",
+        "Mmm!",
+        "People!",
+        "Let's talk metrics, please!"
+      ]
+    }
+  ]
+}

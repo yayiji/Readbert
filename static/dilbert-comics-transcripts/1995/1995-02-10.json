@@ -1,0 +1,25 @@
+{
+  "date": "1995-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you consider the hours I work, I make less per hour than the janitor!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Look what was blocking the pipes!",
+        "It took me all morning to plunge the rascal out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love my job.",
+        "I'm giving him a raise."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2013-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you heard any rumors about what is driving our boss's decisions lately?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's thwarting a rival within the company by offering only prohibitively expensive engineering solutions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My work has meaning, but it's not the good kind."
+      ]
+    }
+  ]
+}

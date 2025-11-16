@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company cares deeply about the effects of long hours and stress on the workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So they're paying nearly $200 to have an expert on stress-reduction give a talk during lunch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just when you think they don't care, something like this comes along.",
+        "It's scheduled for last Tuesday."
+      ]
+    }
+  ]
+}

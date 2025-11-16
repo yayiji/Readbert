@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO has asked each of us to donate 1% of our work time to a charitable cause."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Last week you told us to give 110% to our work. Does this mean we can back off to 109%?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, you should give 110% to everything you do.",
+        "Maybe my charitable cause could be helping you learn math."
+      ]
+    }
+  ]
+}

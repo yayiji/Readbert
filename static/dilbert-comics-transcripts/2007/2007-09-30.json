@@ -1,0 +1,52 @@
+{
+  "date": "2007-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you doing?",
+        "Carpet fishing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a sport I invented."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I divided the carpet in my cubicle into a numbered grid."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I wrote a computer program that randomly picks a carpet location and a type of fish about once an hour."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If it picks the carpet location where I happen to be dangling this string, it means I hooked a fish."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yesterday I caught a marlin."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you come here for some reason other than to spoil the salmon run?"
+      ]
+    }
+  ]
+}

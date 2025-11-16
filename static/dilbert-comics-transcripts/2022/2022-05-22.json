@@ -1,0 +1,54 @@
+{
+  "date": "2022-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carl, you have three weeks to prove you can do the job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is Mordac. He'll help you get online access to all the data you need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long will it take to give me network access?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "About a month."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But... that would be one week after I get fired for not producing any work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yep. Looks like you chose the wrong career."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My career allows me to get paid for doing something I would do for free."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Which is...?",
+        "Hurt people."
+      ]
+    }
+  ]
+}

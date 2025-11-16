@@ -1,0 +1,24 @@
+{
+  "date": "2007-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every credible scientist on Earth says your products harm the environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend paying weasels to write articles casting doubt on the data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then eat the wrong kinds of foods and hope you die before the Earth does.",
+        "You're making me hungry!"
+      ]
+    }
+  ]
+}

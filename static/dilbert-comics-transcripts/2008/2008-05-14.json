@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where are those copies I asked you to make?",
+        "I delegated that task to Carol."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This seems like a good time to take a personal half-day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a good feeling about this."
+      ]
+    }
+  ]
+}

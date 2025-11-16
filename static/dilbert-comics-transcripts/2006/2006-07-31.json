@@ -1,0 +1,29 @@
+{
+  "date": "2006-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've had fifteen jobs in two months.",
+        "How can I be sure you're not a job hopper?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe I change jobs a lot.",
+        "And maybe I have gigantic rabbit ears.",
+        "But does that make me a hopper?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay,",
+        "okay,",
+        "you're hired.",
+        "I am so sick of this place!"
+      ]
+    }
+  ]
+}

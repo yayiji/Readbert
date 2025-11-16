@@ -1,0 +1,25 @@
+{
+  "date": "2007-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's wrong with your face?",
+        "It's a goatee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate goatees, so I am using my powers of extreme uncoolness to make them go away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That could work.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

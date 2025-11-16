@@ -1,0 +1,24 @@
+{
+  "date": "2008-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can you say my trouble ticket is resolved when I still have the problem??!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Resolved is a catch-all term that can mean a shift change, escalation, or even an accidental disconnect."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you escalated it?",
+        "Click"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw your email about destroying the company.",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only email I sent you was my strategy for the coming year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, maybe I read it too fast."
+      ]
+    }
+  ]
+}

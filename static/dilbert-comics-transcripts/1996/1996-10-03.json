@@ -1,0 +1,25 @@
+{
+  "date": "1996-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to document your job processes to satisfy our ISO 9000 requirements.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I try to anticipate the shifting political winds. Then I wrap myself in the relevant buzzwords and try to achieve importance without adding value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your job title?",
+        "Director of ISO 9000 quality process design."
+      ]
+    }
+  ]
+}

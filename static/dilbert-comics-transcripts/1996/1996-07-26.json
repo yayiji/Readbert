@@ -1,0 +1,24 @@
+{
+  "date": "1996-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here in the \"Dogbert Institute for advanced thinking,\" I have devised a plan for ending poverty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to wait until there are so many talk shows on television that all the people with wretched lives can be paid guests."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about the poor people who don't want to be on talk shows?",
+        "We'll get the stragglers on \"Cops.\""
+      ]
+    }
+  ]
+}

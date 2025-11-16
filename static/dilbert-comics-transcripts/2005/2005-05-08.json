@@ -1,0 +1,54 @@
+{
+  "date": "2005-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I completed the audit of your new $150 million software system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend that you scrap the entire thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?!",
+        "How could the entire thing be worthless?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, your normal software system would be a clever combination of ones and zeros."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yours is all ones."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "There must be some way to tweak it until it works."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My company can sell you all the zeros you need, but you'll have to arrange them yourself."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "When you have a few minutes, I have a little assignment for you."
+      ]
+    }
+  ]
+}

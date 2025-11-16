@@ -1,0 +1,43 @@
+{
+  "date": "1990-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my calculations, the asteroid \"Sagnorpt\" will collide with Earth in 2.3 minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaaahhh!! We're all gonna die!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry about all of those bad things I've done to you!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I renounce my evil ways! I dedicate the remaining minute of my life to the poor!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wait a minute... why aren't you groveling for salvation?",
+        "The asteroid is only the size of a golf ball."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Crash!",
+        "I probably shouldn't try to read too much into this."
+      ]
+    }
+  ]
+}

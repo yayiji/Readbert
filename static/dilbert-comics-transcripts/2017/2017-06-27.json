@@ -1,0 +1,23 @@
+{
+  "date": "2017-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employees are complaining because our new open office plan has too many distractions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You want to go back to cubicles?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I just need a private office so I can't hear them complaining."
+      ]
+    }
+  ]
+}

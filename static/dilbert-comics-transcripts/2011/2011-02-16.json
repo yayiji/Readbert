@@ -1,0 +1,23 @@
+{
+  "date": "2011-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, you'll be in charge of our move to the new building."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means you think my regular job is so unimportant that I won't be missed if I work on something else for a month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it makes you feel any better, this will take longer than a month."
+      ]
+    }
+  ]
+}

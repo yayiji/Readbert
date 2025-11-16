@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've got inflation eating you from the bottom... and no real opportunity for a promotion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And as long as all the other companies are downsizing too, you have no leverage. I can get away with anything!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I miss the eighties.",
+        "Does this hurt?"
+      ]
+    }
+  ]
+}

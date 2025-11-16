@@ -1,0 +1,60 @@
+{
+  "date": "2020-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long should I wait before responding to a text message from my boss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That depends.",
+        "Are you already overworked?",
+        "Um, sure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you need to teach him a lesson for any unrelated things he did?",
+        "Always."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you dislike him in general?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Lastly, how many months until your next performance review?",
+        "Seven."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay... putting those inputs into my spreadsheet."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You can wait 27 minutes before responding.",
+        "Oh, I was hoping it would be closer to five days."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "When did he text you?",
+        "I believe it was August."
+      ]
+    }
+  ]
+}

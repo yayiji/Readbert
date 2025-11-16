@@ -1,0 +1,25 @@
+{
+  "date": "2014-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you going to meet the launch deadline?",
+        "No. There were unex- pected problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need solutions, not unexpected problems!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did that mean any- thing?",
+        "Almost. Good try."
+      ]
+    }
+  ]
+}

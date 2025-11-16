@@ -1,0 +1,23 @@
+{
+  "date": "2005-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whatever you're doing there looks like a complete waste of time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you beat your head against the wall, that doesn't make it a drum."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People say the glass is half full. But they don't say of what."
+      ]
+    }
+  ]
+}

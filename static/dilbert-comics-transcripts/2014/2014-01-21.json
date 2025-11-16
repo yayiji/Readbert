@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to career success is finding your special gift."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My special gift is getting paid for doing nothing but babbling jargon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should lead by example.",
+        "Maybe you already did."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have been unjustly accused of being a white supremacist, and my boss just fired me for it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Alice is the obvious choice to take my job, so I assume you will hear something on that soon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wish I knew who had the motive to start that rumor and get me fired."
+      ]
+    }
+  ]
+}

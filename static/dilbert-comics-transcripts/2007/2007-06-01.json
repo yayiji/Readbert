@@ -1,0 +1,25 @@
+{
+  "date": "2007-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rebels have threatened to attack our Elbonian factory unless we give them a million dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's outrageous!",
+        "Tell them their competition offered to not attack us for half that price."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Negotiations begin",
+        "That wouldn't even cover our costs of not attacking!"
+      ]
+    }
+  ]
+}

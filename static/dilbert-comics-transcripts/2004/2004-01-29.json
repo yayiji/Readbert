@@ -1,0 +1,26 @@
+{
+  "date": "2004-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you refuse to do something about our product's safety flaw, I will be forced to contact our CEO!",
+        "Try it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This e-mail will make him drop everything and call me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hundreds will die...",
+        "Blah, blah, blah...",
+        "Whatever. Forward the message to that pointy-haired guy."
+      ]
+    }
+  ]
+}

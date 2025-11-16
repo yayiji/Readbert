@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need a dashboard application to track your key metrics."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way you'll have more data to ignore when you make your decisions based on company politics."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will the data be accurate?",
+        "Okay, let's pretend that matters."
+      ]
+    }
+  ]
+}

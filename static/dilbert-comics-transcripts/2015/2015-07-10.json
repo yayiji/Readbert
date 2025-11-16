@@ -1,0 +1,26 @@
+{
+  "date": "2015-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing a book about the struggles of my people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your people?",
+        "The ones I bought on the internet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "They don't look happy.",
+        "That feels like a book."
+      ]
+    }
+  ]
+}

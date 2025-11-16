@@ -1,0 +1,24 @@
+{
+  "date": "1996-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the \"Dogbert Consulting Company\" to lead the project because none of you is bright enough."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you all have bad attitudes for no apparent reason; that's no way to be a leader."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shall we go around the table and introduce ourselves?",
+        "I don't get chummy with the locals."
+      ]
+    }
+  ]
+}

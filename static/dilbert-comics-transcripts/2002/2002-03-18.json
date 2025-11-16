@@ -1,0 +1,23 @@
+{
+  "date": "2002-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, put together a survey to find out why morale is so low."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Survey?!! You could ask any monkey at the zoo what the problem is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do not fling that. I repeat..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the revised standard employment agreement. Sign it or be fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"This agreement is between the company (hereafter referred to as 'the only company that would ever hire you') and you (hereafter called 'pudding head').\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seems to have a bit of attitude.",
+        "Our lawyers turned on us. I suspect rabies."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "date": "1989-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Quick, quick!",
+        "Give me your hand!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaaachooo!",
+        "Thanks... I always put a hand over my mouth when I sneeze."
+      ]
+    }
+  ]
+}

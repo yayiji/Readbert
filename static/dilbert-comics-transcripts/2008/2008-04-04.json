@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services",
+        "Do you know how the system distinguishes between authorized and illegal access?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't.",
+        "Ha ha!!!"
+      ]
+    }
+  ]
+}

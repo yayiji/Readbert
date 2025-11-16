@@ -1,0 +1,23 @@
+{
+  "date": "2012-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You did good work this week. I give you permission to leave early today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's five minutes before my normal quitting time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your work was good, not great. Get over yourself."
+      ]
+    }
+  ]
+}

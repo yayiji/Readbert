@@ -1,0 +1,27 @@
+{
+  "date": "1992-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pant, pant. Are you Dogbert?",
+        "Pant, wheeze. Pant. The new leader?",
+        "Pant. Of the vegetarian movement?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a pant, pant warning from the pant cow and egg industry...",
+        "Pant. You must erk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In retrospect, it was pretty clever of us to rent a third floor command center with no elevator."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1998-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is urgent.",
+        "I need it by tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've known about this for weeks.",
+        "Now I'll have to work all night!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you at least say something that sounds grateful?",
+        "I'm glad I'm me!"
+      ]
+    }
+  ]
+}

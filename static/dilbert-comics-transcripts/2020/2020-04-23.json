@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting a lot done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I goofed off a little, would anyone know?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lame fort.",
+        "It's version 1.0."
+      ]
+    }
+  ]
+}

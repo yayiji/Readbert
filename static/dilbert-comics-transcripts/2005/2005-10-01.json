@@ -1,0 +1,26 @@
+{
+  "date": "2005-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employee satisfaction survey says they don't trust management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry. I'll find out who feels that way and fire them during the next retrenchment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Purr?",
+        "Who",
+        "said",
+        "purr?"
+      ]
+    }
+  ]
+}

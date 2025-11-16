@@ -1,0 +1,24 @@
+{
+  "date": "1994-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "So... there are three menu choices and the first two didn't work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some people would have recklessly tried the third choice before calling for help. But I can tell you're different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's be honest with ourselves, Dave. Do you think anybody is going to read a memo from you?"
+      ]
+    }
+  ]
+}

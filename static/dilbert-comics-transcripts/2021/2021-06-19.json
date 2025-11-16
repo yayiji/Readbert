@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only reason you have a job is so I don't have to talk to employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I still talk to you every day, so I hired a potted plant to be your new boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel deeply insulted.",
+        "See? A plant would never feel that way."
+      ]
+    }
+  ]
+}

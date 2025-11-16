@@ -1,0 +1,26 @@
+{
+  "date": "2011-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm worried because I don't seem to have any problems today.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That either means I'm insane or the universe is saving up something big.",
+        "Or both."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like a nail waiting to get hammered.",
+        "The pre-frontal cortex is over-rated."
+      ]
+    }
+  ]
+}

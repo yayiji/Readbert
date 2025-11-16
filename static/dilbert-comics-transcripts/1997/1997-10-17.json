@@ -1,0 +1,27 @@
+{
+  "date": "1997-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert mutual fund",
+        "Is it hard to write an earnings report after you steal the investors' money?",
+        "Nah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just compare my fund's performance to the S&P 500 under a common set of assumptions.",
+        "Oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did our Dogbert fund do?",
+        "\"Ten percent better than the S&P 500 if it were also managed by an unscrupulous dog!\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ah-choo!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The pundits were right – everything is different now."
+      ]
+    }
+  ]
+}

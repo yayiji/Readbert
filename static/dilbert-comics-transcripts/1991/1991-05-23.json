@@ -1,0 +1,23 @@
+{
+  "date": "1991-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Aaagh!! My pet turtle is dead!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't believe it's already dead... I didn't even have a name for it!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about \"Morty\"?"
+      ]
+    }
+  ]
+}

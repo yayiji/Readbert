@@ -1,0 +1,26 @@
+{
+  "date": "2005-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's executive search firm",
+        "Ratbert, would you like to be the CEO of a major corporation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That had always been my dream...",
+        "Until I found this extension cord to gnaw on.",
+        "Now I'm committed to seeing it through."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's a risk-taker who won't stop until he achieves his goal."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "Your boss says you refuse to do your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He told me to kill a customer, assume her identity, and place a huge order with our company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll transfer you to the collections department until you're willing to kill."
+      ]
+    }
+  ]
+}

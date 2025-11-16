@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you like my new t-shirt?",
+        "It's two sizes too small, but that's all they had."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't it be better to buy shirts that you like that are also the right size?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In theory, yes. But I have been buying t-shirts for years, and I don't recall seeing that option."
+      ]
+    }
+  ]
+}

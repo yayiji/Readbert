@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I keep getting into debates with the A.I. you built, and it refuses to admit I'm right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It keeps sending me links to articles on the wrong topic and claiming it \"owned me.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't ask me to take sides.",
+        "I need you to back me on this."
+      ]
+    }
+  ]
+}

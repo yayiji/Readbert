@@ -1,0 +1,24 @@
+{
+  "date": "2006-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished all of my projects in one day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I also reconfigured the network, wrote seven white papers and applied for nine patents."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you naked or am I developing x-ray vision?",
+        "Give a thought to decaf."
+      ]
+    }
+  ]
+}

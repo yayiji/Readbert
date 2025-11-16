@@ -1,0 +1,25 @@
+{
+  "date": "1993-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert won't build a phaser pistol for me.",
+        "He thinks it's wrong to zap people for fun."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah, that would be wrong... unless the people you zap are themselves immoral, in which case you would be on the side of justice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess it's academic since I don't have a phaser.",
+        "Here, borrow mine."
+      ]
+    }
+  ]
+}

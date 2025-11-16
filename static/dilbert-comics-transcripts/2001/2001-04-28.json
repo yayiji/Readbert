@@ -1,0 +1,25 @@
+{
+  "date": "2001-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a good job?",
+        "It depends what you mean by good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you consider the decline of my stock options, I work sixty hours a week for nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, look at the time.",
+        "My boss thinks I work eighty hours. Hee hee hee!"
+      ]
+    }
+  ]
+}

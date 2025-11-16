@@ -1,0 +1,23 @@
+{
+  "date": "1992-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Prairie dogs"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Office workers"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Man, I'm swamped."
+      ]
+    }
+  ]
+}

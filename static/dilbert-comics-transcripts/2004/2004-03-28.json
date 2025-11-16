@@ -1,0 +1,57 @@
+{
+  "date": "2004-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember, quality is our top priority.",
+        "Quality"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Is it more important than safety?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh... I forgot about that one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Question: Is quality more important than obeying the law?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, probably not."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If we could maximize shareholder value by selling lower quality items..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...Wouldn't we have a fiduciary responsibility to do it?",
+        "Hmm"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm sure it's in the top four.",
+        "Quality",
+        "What if we had to lie to achieve quality?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2001-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope she's home.",
+        "Beep",
+        "Boop",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you'd like to take me to Paris, press one. If you are inviting me to a lousy movie, press two."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got a bad feeling about this.",
+        "Beep"
+      ]
+    }
+  ]
+}

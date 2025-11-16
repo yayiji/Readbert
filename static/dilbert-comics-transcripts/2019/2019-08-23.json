@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO is coming for an office visit tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to tidy up your cubicle and hide in the bathroom when he visits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Won't he wonder where everyone is?",
+        "No, this is more of a \"you\" thing."
+      ]
+    }
+  ]
+}

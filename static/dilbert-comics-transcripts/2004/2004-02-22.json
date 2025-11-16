@@ -1,0 +1,56 @@
+{
+  "date": "2004-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that you got approval to hire a new senior engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As an intern, I have performed all the functions of a senior engineer for the past five years. I am now ready for promotion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I plan to hire someone from outside the company."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Must... control... tiny... fists... of intern fury."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I have approval to fill the senior engineer position but there's a ban on hiring new interns."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So if I promote you, my empire... oops... I mean my department won't grow."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! My despair has turned into a searing psychological pain!!!",
+        "Ow!",
+        "Ow!",
+        "Ow!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That reminds me; I need you to train the new guy."
+      ]
+    }
+  ]
+}

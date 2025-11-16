@@ -1,0 +1,24 @@
+{
+  "date": "1992-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I called this house meeting because somebody tipped off the authorities about my insider stock trading."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Somebody in this room is a rat.",
+        "Figuratively speaking?"
+      ]
+    }
+  ]
+}

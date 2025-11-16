@@ -1,0 +1,55 @@
+{
+  "date": "2022-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to clarify my handshaking preferences."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For greeting men, I prefer a fist bump or a high-five."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For women, I use a standard handshake."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Unless I find the woman extra attractive, in which case I keep my hands by my sides."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Because there's a nonzero chance she's a hugger."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I like to play it cool in case she makes the first move."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Has that ever worked?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Not yet.",
+        "So why do you do it?",
+        "What part of \"playing it cool\" do you not get?"
+      ]
+    }
+  ]
+}

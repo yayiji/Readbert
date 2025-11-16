@@ -1,0 +1,23 @@
+{
+  "date": "1989-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll get it.",
+        "Knock knock"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who's at the door, Dogbert?",
+        "Well, I'm hoping U.P.S. has relaxed its dress code."
+      ]
+    }
+  ]
+}

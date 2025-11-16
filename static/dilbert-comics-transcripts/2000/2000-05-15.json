@@ -1,0 +1,29 @@
+{
+  "date": "2000-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I scheduled a meeting with your boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll probably ask me to speak frankly about any problems in the department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This couldn't get any worse."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He's cute. I might ask him out."
+      ]
+    }
+  ]
+}

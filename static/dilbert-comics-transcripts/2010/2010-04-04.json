@@ -1,0 +1,56 @@
+{
+  "date": "2010-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the CPG project coming along?",
+        "How would I know?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're leading that project.",
+        "I am? Since when?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I told everyone on the team two months ago.",
+        "I'm not on the team. You never told me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Whatever, go tell the team you've been in charge for the past two months and see what they've accomplished."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Who is on the team?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I forget. I think one had dark hair, and another one was sad."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't tell them there's a duplicate project in another division."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You'll be okay. Just release the caring. Let it go."
+      ]
+    }
+  ]
+}

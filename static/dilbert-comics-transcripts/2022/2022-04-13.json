@@ -1,0 +1,25 @@
+{
+  "date": "2022-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "I oh, wow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was planning to ask a question, but your lifeless, corporate-zombie eyes tell me it would be a waste of time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you speak?",
+        "Only to complain."
+      ]
+    }
+  ]
+}

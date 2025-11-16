@@ -1,0 +1,26 @@
+{
+  "date": "1996-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I would never buy something over the internet.",
+        "I'd hate to have my credit card number floating around out there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are a lot of unscrupulous people on the net."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "...Bottom line,",
+        "it just isn't common sense."
+      ]
+    }
+  ]
+}

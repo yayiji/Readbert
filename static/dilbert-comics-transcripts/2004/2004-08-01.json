@@ -1,0 +1,54 @@
+{
+  "date": "2004-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I lost my I.D. badge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Report to the security office and get a new one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hold it! Where do you think you're going?",
+        "To the security office?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No one is allowed past this desk without an I.D. badge."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay... how do I go to the security office if I can't go to the security office?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Good question. I guess you'll have to sneak past me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Look over there! It's an angel, and she's giving away free bacon!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well, well; it seems I've found a worthy adversary."
+      ]
+    }
+  ]
+}

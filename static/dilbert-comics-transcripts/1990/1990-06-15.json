@@ -1,0 +1,24 @@
+{
+  "date": "1990-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm dissolving the cult. You two are free to do as you please."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're free!",
+        "We're free!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boy... you don't know ugly 'til you've seen dinosaurs dance."
+      ]
+    }
+  ]
+}

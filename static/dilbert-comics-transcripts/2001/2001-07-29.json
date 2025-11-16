@@ -1,0 +1,54 @@
+{
+  "date": "2001-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The power supply in our product overheats."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think they might burst into flames."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm no engineer but obviously it could level a whole city."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The military application is obvious."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How much do they cost?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Does ten million dollars sound like too much?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "For that kind of money I expect a free hammer!",
+        "And a consulting job when I retire."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If an uninhabited atoll doesn't blow up tomorrow you're in big trouble."
+      ]
+    }
+  ]
+}

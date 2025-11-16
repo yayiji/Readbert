@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want our company to fund my new support group for employees with long COVID symptoms."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll need pillows, blankets, daily shoulder massages, and shorter hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You asked for all of those things before you got COVID.",
+        "Don't hate me for being consistent."
+      ]
+    }
+  ]
+}

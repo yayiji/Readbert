@@ -1,0 +1,24 @@
+{
+  "date": "1990-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now we have an opposing view to last night's editorial on animal rights."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, I'm Dogbert. I'm calling on the dogs of the world to rise up and take their rightful places as rulers of the planet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These are not necessarily the views of this station.",
+        "Don't listen to him. They always say that."
+      ]
+    }
+  ]
+}

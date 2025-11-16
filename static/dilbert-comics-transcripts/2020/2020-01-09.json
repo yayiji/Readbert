@@ -1,0 +1,26 @@
+{
+  "date": "2020-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Court of stupidity",
+        "The court rules that Dilbert should magically know what his boss wants at all times."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not a mind-reader!",
+        "Prove it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can I prove I can't read minds?",
+        "Easy. Tell me what I'm not thinking."
+      ]
+    }
+  ]
+}

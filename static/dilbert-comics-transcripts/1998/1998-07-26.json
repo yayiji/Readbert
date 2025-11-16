@@ -1,0 +1,58 @@
+{
+  "date": "1998-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need some management fire power."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The VP of marketing says we can't use the vendor we selected..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me write this down."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you want some paper?",
+        "No, I'll use this tissue... oops."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Anyway, the other vendor can't deliver.",
+        "Oops."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I have some note paper.",
+        "No, this is fine.",
+        "Oops."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All you have is a blotch on a scrap.",
+        "It's more of a reminder than a detailed note."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hmm... it's not so useful when I put it with the others."
+      ]
+    }
+  ]
+}

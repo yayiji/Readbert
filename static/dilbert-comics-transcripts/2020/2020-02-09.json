@@ -1,0 +1,53 @@
+{
+  "date": "2020-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't want employees who are only working for the money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want employees who are working to make the world a better place."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does working here make the world a better place?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Half of our products cause cancer, and the other half don't work at all."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We don't even pay taxes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "One could argue that every day we spend working here makes the planet a little bit worse."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is that why I never see you doing any work?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "When did it become a crime to care about people? Sheesh!"
+      ]
+    }
+  ]
+}

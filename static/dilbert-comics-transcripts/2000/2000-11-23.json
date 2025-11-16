@@ -1,0 +1,23 @@
+{
+  "date": "2000-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How much did you make in tips today?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Three breath mints and one death threat scrawled on a napkin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope I don't forget which breath mint came from the napkin guy."
+      ]
+    }
+  ]
+}

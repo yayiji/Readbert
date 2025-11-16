@@ -1,0 +1,57 @@
+{
+  "date": "2022-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you failed at your primary goal for the year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't \"fail.\"",
+        "I sharpened my focus."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You... sharpened your focus?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's right.",
+        "My original goal was to upgrade all of our servers."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But then I sharpened my focus to removing the bottlenecks."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... you removed the bottlenecks?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No. That seemed too hard, so I sharpened my focus to staying awake during the workday."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So, you stayed awake...",
+        "I tried,",
+        "but it was harder than it looked."
+      ]
+    }
+  ]
+}

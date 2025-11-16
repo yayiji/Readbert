@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to hire someone to do all of the unpleasant parts of my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way I'll be free to concentrate on strategy.",
+        "Fair enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Secondly, I'd like to hire someone to do strategy."
+      ]
+    }
+  ]
+}

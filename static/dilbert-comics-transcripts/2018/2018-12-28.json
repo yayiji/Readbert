@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They call me \"Old Ned\" as if I haven't kept up with the times."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But watch me tell you to fetch me some coffee from Starbucks just like the young folks do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm a senior software engineer.",
+        "I'm not getting any less thirsty here."
+      ]
+    }
+  ]
+}

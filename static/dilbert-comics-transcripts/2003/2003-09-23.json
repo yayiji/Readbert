@@ -1,0 +1,23 @@
+{
+  "date": "2003-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every morning I rank my tasks as A, B, or C priorities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And then you work on the \"A\" priorities first?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To be honest, after I update the list, there isn't much left in the tank."
+      ]
+    }
+  ]
+}

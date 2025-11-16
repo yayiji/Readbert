@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO will visit here next week.",
+        "You all know what to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We should stop all productive work and create overhead transparencies that exaggerate our value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And a few of our uglier co-workers will be replaced by actors.",
+        "As long as it's not Gerard Depardieu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1992-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you noticed that people rarely answer questions in conversation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That reminds me of a story. One day I..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See? There! You didn't answer my question!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you think my questions are meant to be merely rhetorical?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You sure get worked up over the strangest things."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Are you doing this intentionally?!! Why won't you answer my questions ??!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hey! There's a cloud that looks like a bunny!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It doesn't get any better than this.",
+        "Why?",
+        "Why?",
+        "Why?"
+      ]
+    }
+  ]
+}

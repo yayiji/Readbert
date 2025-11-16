@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My world view has expanded since I moved to a cubicle near a window."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't realize how much stuff was outside our building."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Such as the rest of the universe?",
+        "I can only see the alley in front of the parking garage."
+      ]
+    }
+  ]
+}

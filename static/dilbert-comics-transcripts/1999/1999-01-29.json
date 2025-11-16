@@ -1,0 +1,23 @@
+{
+  "date": "1999-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm taking your urgent document to the overnight drop box, with nine minutes to spare."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The box is only eight minutes away. I'll stop for coffee first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't worry. If the truck is pulling away from the box, I'll wedge this in the back bumper."
+      ]
+    }
+  ]
+}

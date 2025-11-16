@@ -1,0 +1,28 @@
+{
+  "date": "1992-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You crushed our leader.",
+        "Now you must be the new rebel leader.",
+        "I'm a diplomat, on a peace mission."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A wise Elbonian once said \"In a race between a rock and a pig, don't varnish your clams.\"",
+        "That's stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What kind of diplomat are you??",
+        "First day on the job...",
+        "Gimme a break."
+      ]
+    }
+  ]
+}

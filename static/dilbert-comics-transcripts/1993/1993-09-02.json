@@ -1,0 +1,26 @@
+{
+  "date": "1993-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Listen to me, Bob.",
+        "Individually, we're nothing but a rat and a dinosaur..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if we team up we'd have your mighty strength plus my... uh...",
+        "my..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Brain?",
+        "No, that doesn't sound right."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the selfish therapist",
+        "Try one of these powerful sleeping pills."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sleeping pills? I haven't even told you my problem yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah, I'm trying to head that off at the pass."
+      ]
+    }
+  ]
+}

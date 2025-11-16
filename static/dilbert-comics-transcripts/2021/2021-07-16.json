@@ -1,0 +1,25 @@
+{
+  "date": "2021-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent most of last week playing \"printer chicken.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The winner is the person who can last the longest without fixing the printer jam."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How often do you need to print something important?",
+        "Never.",
+        "That's why I always win."
+      ]
+    }
+  ]
+}

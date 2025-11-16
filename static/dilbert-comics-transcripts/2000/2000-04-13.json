@@ -1,0 +1,23 @@
+{
+  "date": "2000-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did you become so enlightened?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just eat a lot and tell people their ideas stink."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whose shoe did you scrape this off of?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "1997-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea to save money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can make the photocopier ink last longer by adding water to it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that make the copies too light?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ordinarily, yes. But we can compensate by setting the copier to \"darken.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll need someone to implement this idea . . . let's see."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hey, how about Dilbert? He isn't doing much work lately."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'd do it myself but there's no reason to waste a creative thinker on an implementation task."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you still mad that I got a bigger raise than you did?",
+        "No, I found a creative way to deal with it."
+      ]
+    }
+  ]
+}

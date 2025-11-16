@@ -1,0 +1,25 @@
+{
+  "date": "1997-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the network systems administrator",
+        "The software manuals are locked in this room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't let users have manuals, for reasons that could only be described as mean-spirited."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there any way we can meet halfway on this?",
+        "Hey, that door didn't always have a window."
+      ]
+    }
+  ]
+}

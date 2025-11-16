@@ -1,0 +1,29 @@
+{
+  "date": "2019-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you approve my budget request?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, you used the old form."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do we have new forms?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In hindsight, we should have funded the creation of new budget request forms before we made the old ones obsolete."
+      ]
+    }
+  ]
+}

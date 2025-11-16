@@ -1,0 +1,24 @@
+{
+  "date": "2001-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, screen my calls and don't let any sales-people through."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello, I'm a huge customer or perhaps a childhood friend of your boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me some flirting and you're in.",
+        "Is it hot in here or is it just you?"
+      ]
+    }
+  ]
+}

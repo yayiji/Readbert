@@ -1,0 +1,25 @@
+{
+  "date": "1998-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the...?",
+        "I've been sabotaged!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I am not part of a global conspiracy to plant a misspelled word in your \"spell checker.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gasp!",
+        "They got to Webster too!!!"
+      ]
+    }
+  ]
+}

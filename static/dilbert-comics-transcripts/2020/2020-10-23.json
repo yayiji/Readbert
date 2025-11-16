@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you tested everything to make sure it is 100% safe?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing is 100% safe. We don't live in that kind of reality."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I'll bet you want me to say it anyway.",
+        "It's more about the blame later."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2010-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO wants to share his good fortune with all employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He invites all of you to visit his winery and buy his non-award-winning wine at nearly retail prices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He asks that you not park your helicopters near his human chess board because it frightens the dwarves."
+      ]
+    }
+  ]
+}

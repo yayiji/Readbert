@@ -1,0 +1,24 @@
+{
+  "date": "2010-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We added a new performance test, but learned that the test itself is flawed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now our product fails our own tests and our customers are asking to see the test results."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do I have permission to fake the test data?",
+        "I didn't even know data can be real."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A yoga mat?",
+        "When did you get into yoga?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was right after I convinced our pointy-haired boss that there is a yoga position called \"sleeping wally.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long can you hold the pose?",
+        "My record is sixteen hours."
+      ]
+    }
+  ]
+}

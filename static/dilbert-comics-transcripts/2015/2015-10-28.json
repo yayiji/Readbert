@@ -1,0 +1,22 @@
+{
+  "date": "2015-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, if all you have is a hammer, everything looks like a nail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is not the dumbest thing you have ever said.",
+        "Thank you."
+      ]
+    }
+  ]
+}

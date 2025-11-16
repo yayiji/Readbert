@@ -1,0 +1,24 @@
+{
+  "date": "2005-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We should join the industry consortium that's promoting web services standards."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Run that past the consortium approval review board and get a sign-off from the executive board of review board reviewers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do those exist?",
+        "In a perfect world, yes."
+      ]
+    }
+  ]
+}

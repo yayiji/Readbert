@@ -1,0 +1,23 @@
+{
+  "date": "2011-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For competitive reasons, we've rebranded all of our 4G mobile products as 8G."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm curious what the marketing department thinks the \"G\" stands for."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Guess what doesn't mean \"goodness.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1995-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're invisible to your co-workers.",
+        "But you can compensate by forming a symbiotic relationship with a visible creature."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ratbert will cling to your back.",
+        "He'll be your visual and auditory link with your co-workers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... working hard?",
+        "Or hardly working?",
+        "I knew this Colombian coffee was trouble."
+      ]
+    }
+  ]
+}

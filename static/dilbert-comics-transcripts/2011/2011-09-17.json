@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If consumers hate our new product, we will probably go out of business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If they love our new product, a stronger company will enter the space and drive us out of business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell the engineer to stop making me sad.",
+        "I have some fake revenue projections to cheer you up."
+      ]
+    }
+  ]
+}

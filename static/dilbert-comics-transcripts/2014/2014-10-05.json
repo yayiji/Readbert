@@ -1,0 +1,56 @@
+{
+  "date": "2014-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have an interesting choice today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can continue bullying me into working sixty hours per week..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "While knowing that fatigue will lower the quality of my work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Or you can be an enlightened leader and encourage me to work fewer hours for a better net outcome."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not supposed to tell you this, but..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Leadership is an illusion created by the abuse of underlings."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The more pain I force you to endure, the more of a leader I appear to be."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How's the truth feel?",
+        "Ouch!",
+        "Ouch!",
+        "Ouch!"
+      ]
+    }
+  ]
+}

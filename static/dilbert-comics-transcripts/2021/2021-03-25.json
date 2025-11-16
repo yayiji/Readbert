@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yay! My package has arrived!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I buy one thing per day from Amazon and then forget what I ordered, so it feels like my birthday every day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't watch this.",
+        "Yes! Dish soap! How did I know I wanted that?"
+      ]
+    }
+  ]
+}

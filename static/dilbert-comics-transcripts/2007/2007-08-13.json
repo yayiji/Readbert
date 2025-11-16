@@ -1,0 +1,23 @@
+{
+  "date": "2007-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you are elected president, what will you do in the first hundred days?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I figure it will take me at least that long to carve my name in all the furniture."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then it would be time to wipe that smug smile off of Switzerland's face."
+      ]
+    }
+  ]
+}

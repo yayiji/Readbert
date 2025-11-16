@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nostradogbert predicts there will be turmoil in the Middle East."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! That's quite a prediction! You're really going out on a limb!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that sarcasm?",
+        "I can't tell with you.",
+        "Will there be any sand involved?"
+      ]
+    }
+  ]
+}

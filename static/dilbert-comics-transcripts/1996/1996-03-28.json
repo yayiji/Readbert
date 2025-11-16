@@ -1,0 +1,24 @@
+{
+  "date": "1996-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the risk of dying from boredom, I must interview you for the department newsletter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me give you some background before I talk about my project..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"The project is good,\" quipped the engineer.",
+        "...So there I am in my mom's fallopian tube..."
+      ]
+    }
+  ]
+}

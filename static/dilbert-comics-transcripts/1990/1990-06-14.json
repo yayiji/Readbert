@@ -1,0 +1,30 @@
+{
+  "date": "1990-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today on \"Geraldo\"",
+        "our entire show is",
+        "about a dog who",
+        "started his own cult!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, Geraldo,",
+        "I don't know",
+        "what you're",
+        "talking about."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love live",
+        "television."
+      ]
+    }
+  ]
+}

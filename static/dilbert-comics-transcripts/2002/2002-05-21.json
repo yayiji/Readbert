@@ -1,0 +1,25 @@
+{
+  "date": "2002-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm demoting you to engineer so I can give your current job to one of my cronies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't survive.",
+        "I don't know how to do real work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, can you teach me how to pretend to be working?",
+        "Whoa! There can only be one Wally."
+      ]
+    }
+  ]
+}

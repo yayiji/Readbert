@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you plan to be on time, you are planning to fail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Plan to be ten minutes early, so you will still be on time if something comes up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I plan to be fifteen minutes early because I'm better than you.",
+        "Stop it."
+      ]
+    }
+  ]
+}

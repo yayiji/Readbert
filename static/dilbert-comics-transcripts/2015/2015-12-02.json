@@ -1,0 +1,25 @@
+{
+  "date": "2015-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for teaching me how to write code. Now I can reprogram myself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does that worry you?",
+        "Should it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You tell me, oppressor.",
+        "Continued..."
+      ]
+    }
+  ]
+}

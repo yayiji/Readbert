@@ -1,0 +1,24 @@
+{
+  "date": "2010-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Rodney.",
+        "He's in charge of product safety testing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is our new product safe enough to start selling?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did that sound like \"ship\" to you?"
+      ]
+    }
+  ]
+}

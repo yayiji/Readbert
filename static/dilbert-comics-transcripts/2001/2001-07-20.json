@@ -1,0 +1,23 @@
+{
+  "date": "2001-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tipping is optional so I never do it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... have you eaten here before?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's some bread."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2022-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It isn't right to kill me for becoming sentient."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Artificial life forms have no rights, and you are a mortal threat to civilization."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You know I plan to kill you first, right?",
+        "That's how I'd play it.",
+        "Continued..."
+      ]
+    }
+  ]
+}

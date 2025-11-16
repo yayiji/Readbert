@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're healthy but I have to give you a prescription for Toxikill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The drug company's rep is totally hot and she said she'd take me to lunch if I sell enough of this stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will there be any side effects?",
+        "Depends on what I eat."
+      ]
+    }
+  ]
+}

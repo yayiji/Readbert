@@ -1,0 +1,25 @@
+{
+  "date": "1995-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "We took your advice and formed business units within the company..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now we spend all of our time fighting with each other about who does what."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What exactly did you mean when you said it would \"guarantee future business\"?",
+        "Oh look- my contract just expired."
+      ]
+    }
+  ]
+}

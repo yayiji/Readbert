@@ -1,0 +1,24 @@
+{
+  "date": "1993-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert, master of Earth, with a message to all creatures..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I realized that you are all unworthy of having me as your king.",
+        "I am retiring to go sit on a soft pillow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No matter what I do, it always feels better when I stop doing it."
+      ]
+    }
+  ]
+}

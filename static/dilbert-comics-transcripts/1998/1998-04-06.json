@@ -1,0 +1,29 @@
+{
+  "date": "1998-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services.",
+        "I bring new guidelines for passwords."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All passwords must be at least six characters long...",
+        "include numbers and letters.",
+        "Include a mix of upper and lower case..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Use different passwords for each system.",
+        "Change once a month.",
+        "Squeal like a pig!!!",
+        "Do not write anything down."
+      ]
+    }
+  ]
+}

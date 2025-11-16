@@ -1,0 +1,24 @@
+{
+  "date": "2011-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll pay you a million dollars a year to work at my hedge fund."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll do the insider trading and you pretend you created an algorithm that makes winning trades."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I actually create the algorithm?",
+        "Sure. And maybe you can eat fiber and make gold, too."
+      ]
+    }
+  ]
+}

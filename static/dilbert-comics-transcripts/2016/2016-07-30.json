@@ -1,0 +1,21 @@
+{
+  "date": "2016-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll ask Wally to write this software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't seen him since he took that agile programming class."
+      ]
+    }
+  ]
+}

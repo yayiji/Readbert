@@ -1,0 +1,61 @@
+{
+  "date": "2005-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rrrring!!",
+        "Now what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is Alice.",
+        "Hi.",
+        "It's your boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh no. I hear traffic. Where are you?",
+        "In my car."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gaaa! It's a car call. He's using me to entertain himself while he's sitting in traffic.",
+        "How's everything?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll lose an hour of my life if I don't get him off the phone.",
+        "Nice weather today."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do me a favor and look in your briefcase to see if my latest report is there.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And turn down your radio so I can hear you... and check your calendar on your PDA."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gaaa!!! Crash!",
+        "I'm going to hell."
+      ]
+    }
+  ]
+}

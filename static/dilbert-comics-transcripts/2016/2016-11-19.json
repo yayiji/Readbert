@@ -1,0 +1,26 @@
+{
+  "date": "2016-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I have to fire you because you said something that offended the janitor.",
+        "What did I say?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know.",
+        "The janitor has a thick accent and he's terrible at charades."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you take care of the guy who keeps putting banana peels in the recycling?",
+        "He won't do it again."
+      ]
+    }
+  ]
+}

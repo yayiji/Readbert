@@ -1,0 +1,25 @@
+{
+  "date": "2022-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a teenage girl to help us with our most complicated technical decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is she a genius?",
+        "No, but she makes up for it with her attitude."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I upgrade our network?",
+        "How dare you!!!"
+      ]
+    }
+  ]
+}

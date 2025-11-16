@@ -1,0 +1,25 @@
+{
+  "date": "2020-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to fire you because employees are saying you are a white supremacist.",
+        "But I'm not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Doesn't matter. I care more about my career than your life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're firing me just to look good?",
+        "And I'll need to punch you in front of witnesses."
+      ]
+    }
+  ]
+}

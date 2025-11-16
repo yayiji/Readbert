@@ -1,0 +1,31 @@
+{
+  "date": "2019-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was doing some research on the internet and learned that humans and parakeets can mate and produce offspring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't believe that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's true.",
+        "I read about it on a blog."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I wouldn't call that \"research.\"",
+        "Deny science much?"
+      ]
+    }
+  ]
+}

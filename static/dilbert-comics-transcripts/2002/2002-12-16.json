@@ -1,0 +1,23 @@
+{
+  "date": "2002-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I calculated the impact of work on my health and life expectancy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At my current workload, doing two people's jobs, I have... six months to live."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remind me in five and a half months so I can shop for a card."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2022-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend putting half of your investment funds in the Dogbert crypto exchange."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know anything about crypto."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In that case, you should put all of your money in it."
+      ]
+    }
+  ]
+}

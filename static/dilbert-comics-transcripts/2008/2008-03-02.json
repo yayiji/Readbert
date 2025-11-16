@@ -1,0 +1,54 @@
+{
+  "date": "2008-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of my idea?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It won't work.",
+        "Why not?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want the long answer that you won't understand because you possess neither the experience nor the education needed?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Or the dismissive and insulting answer that has the advantage of being quick?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Another advantage of the insulting answer is that you can tell people I rejected your idea because I didn't think of it myself."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I guess I'll take the insulting answer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine. Your idea is dumber than snake mittens."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What do you have against snake mittens?"
+      ]
+    }
+  ]
+}

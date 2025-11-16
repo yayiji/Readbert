@@ -1,0 +1,26 @@
+{
+  "date": "2013-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When the managers meet to talk about promotions, I'll fight for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying my future depends on your effectiveness and not mine?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This went differently than I expected.",
+        "Why?!",
+        "Why?!",
+        "Why?!"
+      ]
+    }
+  ]
+}

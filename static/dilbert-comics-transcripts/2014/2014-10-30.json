@@ -1,0 +1,26 @@
+{
+  "date": "2014-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Put together a deck showing the minimum viable product feature list."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is a deck?",
+        "What is a minimum viable product?",
+        "How would I know what the features are?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no respect for people who ask questions.",
+        "First day, not good."
+      ]
+    }
+  ]
+}

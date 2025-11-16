@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our salespeople are blaming marketing for the low demand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Marketing is blaming engineering for making a product no one wants."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I blamed our customers for mis-leading us about their needs.",
+        "Now I don't feel so bad about our price-gouging."
+      ]
+    }
+  ]
+}

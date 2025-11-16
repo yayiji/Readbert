@@ -1,0 +1,25 @@
+{
+  "date": "2001-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Creative design",
+        "Each team has one hour to design and build a mock-up using these common materials."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Doesn't this sort of exercise usually get dominated by the worst team member?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't worry.",
+        "We can just ignore Alice's suggestions."
+      ]
+    }
+  ]
+}

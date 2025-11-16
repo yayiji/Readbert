@@ -1,0 +1,24 @@
+{
+  "date": "1989-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice brought her new baby to the office today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are you supposed to say when somebody shows you a baby?",
+        "\"Precious\" usually works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Judging from the reaction, \"bug-ugly\" wasn't what she was looking for."
+      ]
+    }
+  ]
+}

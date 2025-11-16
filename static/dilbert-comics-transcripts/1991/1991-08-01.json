@@ -1,0 +1,23 @@
+{
+  "date": "1991-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can free yourself from guilt with the copyrighted Dogbert method."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My method is so simple that even stupid people can do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do we have any stupid people here today?"
+      ]
+    }
+  ]
+}

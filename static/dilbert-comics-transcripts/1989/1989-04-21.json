@@ -1,0 +1,24 @@
+{
+  "date": "1989-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new invention screens out all unpleasant sights. Try it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, what do you think?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who said that?",
+        "The hand that used to feed you."
+      ]
+    }
+  ]
+}

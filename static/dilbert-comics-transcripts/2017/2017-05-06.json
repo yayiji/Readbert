@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Erik used to work for the CIA.",
+        "You missed the meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I listened to the whole thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know the speaker-phone was on.",
+        "Let's change the subject now."
+      ]
+    }
+  ]
+}

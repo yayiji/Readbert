@@ -1,0 +1,25 @@
+{
+  "date": "1999-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Watch this, Asok.",
+        "I start out looking like a middle-aged guy with bad hair..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But simply by putting my hair in a ponytail, I transform into..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The coolest guy in the office.",
+        "Curse you for raising the bar for us all!"
+      ]
+    }
+  ]
+}

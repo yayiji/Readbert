@@ -1,0 +1,25 @@
+{
+  "date": "1999-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Venture capitalists",
+        "Despite your cool ponytail, you seem to have squandered our investment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll get no more funding unless you mutter empty internet words that make us swoon!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "E-commerce.",
+        "Gurgle"
+      ]
+    }
+  ]
+}

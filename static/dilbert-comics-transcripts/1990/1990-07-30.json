@@ -1,0 +1,26 @@
+{
+  "date": "1990-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, this is a rat. Rat, this is Dilbert.",
+        "I've come to live here!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How lucky for us.",
+        "We were just saying how much we needed a plague-carrying vermin to round out the household."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He doesn't have much of a personality...",
+        "I usually drown him out with the television."
+      ]
+    }
+  ]
+}

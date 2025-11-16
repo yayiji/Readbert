@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Based on this new information, you'll want to change our project scope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't do that.",
+        "What? Think?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today I learned it's better if I don't try to guess what people mean."
+      ]
+    }
+  ]
+}

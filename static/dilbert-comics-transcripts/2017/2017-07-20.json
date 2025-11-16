@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Add this feature to the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! Why didn't you ask for this weeks ago when it would have been easy????"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is nothing.",
+        "Wait until you see the feature I ask for next week."
+      ]
+    }
+  ]
+}

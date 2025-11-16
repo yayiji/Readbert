@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If Ted complains about me not doing my job, keep in mind that he steals from the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And he only has time for stealing because sometimes he takes time off from all of his lying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was that all about?",
+        "I was laying down suppressive fire."
+      ]
+    }
+  ]
+}

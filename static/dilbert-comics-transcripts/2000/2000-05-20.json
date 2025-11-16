@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any weaknesses that need improvement?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes I work so fast that I become invisible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I seem blurry right now, it's because I'm multitasking.",
+        "Once a year is way too often for this."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of you should be more like Asok.",
+        "He is in the office before I arrive and still here when I go home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is because housing costs are so high that I live here in the office and sleep in a bathroom stall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That still leaves a lot of stalls for the rest of you."
+      ]
+    }
+  ]
+}

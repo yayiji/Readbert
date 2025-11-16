@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The second option feels right.",
+        "Let's go with that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should we always ignore what the data says, or is this more of a one-time thing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's called intuition.",
+        "It's a slippery slope to witchcraft."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1990-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll make a room for the baby by digging a cavern under Dilbert's closet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where will you put all the dirt?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obviously I'll have to dig a second hole to hold all the dirt."
+      ]
+    }
+  ]
+}

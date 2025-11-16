@@ -1,0 +1,25 @@
+{
+  "date": "1998-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm strongly opposed to your plan.",
+        "You haven't read it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, right. But now I'm emotionally invested in my opinion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This plan will never work!!",
+        "That's the meeting agenda."
+      ]
+    }
+  ]
+}

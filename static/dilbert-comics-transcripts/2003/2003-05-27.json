@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's offer employees unpaid vacation time, as long as their managers approve it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then we'll downsize any work group that uses it, because it proves they're over-staffed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Excuse me while I hug myself and purr.",
+        "Take your time."
+      ]
+    }
+  ]
+}

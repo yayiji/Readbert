@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me introduce you to our dinosaurs, Bob and Dawn.",
+        "Cool!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eeeek!! A mouse!",
+        "Not a mouse, a rat!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops. Sorry. You look kinda like a mouse.",
+        "No offense taken."
+      ]
+    }
+  ]
+}

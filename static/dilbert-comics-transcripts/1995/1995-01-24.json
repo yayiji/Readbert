@@ -1,0 +1,24 @@
+{
+  "date": "1995-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As team leader, I think I should get some perks so people know my status."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll have your cubicle walls sprayed with a special thickening agent. It might look the same, but trust me, people will know how thick you are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm just like you, Wally, but thicker.",
+        "I've noticed."
+      ]
+    }
+  ]
+}

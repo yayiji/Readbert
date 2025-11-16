@@ -1,0 +1,24 @@
+{
+  "date": "2013-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha ha! I wonder how many decades it will be before a robot can replace a CEO like me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's closer than you think. All I need to do is remove this chip that controls my empathy routines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Put it back. You're scaring me.",
+        "As if I care."
+      ]
+    }
+  ]
+}

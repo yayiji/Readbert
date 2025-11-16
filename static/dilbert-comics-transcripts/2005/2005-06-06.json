@@ -1,0 +1,26 @@
+{
+  "date": "2005-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The beta version looks great.",
+        "Now ask if they'll toss in an archive option for no extra money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a great idea.",
+        "Or... maybe I could save time by realizing that they aren't raging morons who enjoy working for free."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's all in the way you ask.",
+        "I'll try yelling."
+      ]
+    }
+  ]
+}

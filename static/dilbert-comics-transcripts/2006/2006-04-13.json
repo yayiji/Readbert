@@ -1,0 +1,23 @@
+{
+  "date": "2006-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll bring you on as a contract employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I'll keep you motivated by dangling the carrot of becoming a regular employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your first mistake was assuming that he understands metaphors."
+      ]
+    }
+  ]
+}

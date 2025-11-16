@@ -1,0 +1,58 @@
+{
+  "date": "1992-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm off to my new job as an MTV reporter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rap star Freshy Q, what is the key to your success?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Always be yourself. Don't follow the crowd. Be true to your instincts."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did you invent rap?",
+        "Uh... no."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oh, but you probably pioneered this style of dressing.",
+        "Not exactly."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But you write all of your own music.",
+        "No... I buy it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The dance steps?",
+        "I hire a choreographer."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well, I'll bet nobody else folds his arms quite like you.",
+        "I don't like the direction this is heading."
+      ]
+    }
+  ]
+}

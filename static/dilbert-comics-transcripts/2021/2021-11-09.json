@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to quarantine myself for ten days out of an abundance of caution."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you have contact with an infected person?",
+        "None who admitted it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I did see a lot of people who look like liars."
+      ]
+    }
+  ]
+}

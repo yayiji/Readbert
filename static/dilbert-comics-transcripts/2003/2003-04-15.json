@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A co-worker who shall remain nameless has accused you of unspecified shortcomings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your accuser has been placed in the witness protection program."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have a program for that?",
+        "Actually, I just forget who says what."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2014-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's better to execute an imperfect plan today than a perfect plan next week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yay! We're free from any penalty if we do things wrong!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um, no. Nothing like that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're still in big trouble if you do anything wrong."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I'm also in big trouble if I take longer to do things right?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, I get it. Your plan is idiotic, but we should do it anyway and not wait for you to say something smarter."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're leading by example. Nicely done."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What other dumb things should we do right away?"
+      ]
+    }
+  ]
+}

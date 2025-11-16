@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be thirty minutes late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You waited until the agreed time to tell me you would not be here at the agreed time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you hate me or just not care about me?",
+        "I try to find a balance."
+      ]
+    }
+  ]
+}

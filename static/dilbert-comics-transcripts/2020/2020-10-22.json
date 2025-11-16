@@ -1,0 +1,23 @@
+{
+  "date": "2020-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our space division asked if you would accept the honor of being their first astronaut to Mars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't know they had even tested it for safety yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He asked too many questions."
+      ]
+    }
+  ]
+}

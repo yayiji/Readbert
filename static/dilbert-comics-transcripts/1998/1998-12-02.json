@@ -1,0 +1,27 @@
+{
+  "date": "1998-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Microsoft headquarters",
+        "We misspelled a word in our spell-checking software.",
+        "You know what to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... use our market power to make the new word an industry standard?",
+        "And...?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Kill myself as an example to others?",
+        "In our booth at \"Comdex.\""
+      ]
+    }
+  ]
+}

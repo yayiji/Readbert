@@ -1,0 +1,30 @@
+{
+  "date": "1992-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you doing in my lab, Ruebert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am creating a feminine robot to nurture and serve me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know how to program it, so I found this \"National Organization of Women\" in the phone book..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It turns out that this is exactly the kind of thing they like to help with.",
+        "Do you like surprises?"
+      ]
+    }
+  ]
+}

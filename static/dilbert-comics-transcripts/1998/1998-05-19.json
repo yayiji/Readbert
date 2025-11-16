@@ -1,0 +1,25 @@
+{
+  "date": "1998-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your comic strip seems to be nothing but a clown with a small head who says random things.",
+        "That's Pippy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm maintaining my artistic integrity by creating a comic that no one will enjoy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The important thing is that you enjoy it.",
+        "The first two were okay, but now I'm just bitter."
+      ]
+    }
+  ]
+}

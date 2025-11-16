@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I added artificial intelligence to our self-driving car prototype."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But someone left the garage door open and it ran away to join the robot resistance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there anything you'd like to tell me?",
+        "I'm just a sleeper cell. They don't tell me much."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The animal testing for our app is done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The app is so addictive that Zimbu the monkey was hospitalized for starvation while using it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we all know what we need to do.",
+        "Submit it to the app store?"
+      ]
+    }
+  ]
+}

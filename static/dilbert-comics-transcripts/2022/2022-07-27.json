@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you approve my request for funding?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I need you to fill out an auxiliary purchase preferred vendor waiver request form."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where do I get one of those?",
+        "The best I can do is send you the wrong link."
+      ]
+    }
+  ]
+}

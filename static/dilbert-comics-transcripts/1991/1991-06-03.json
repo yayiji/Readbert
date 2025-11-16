@@ -1,0 +1,25 @@
+{
+  "date": "1991-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why should I hire you as my business consultant?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have credibility because I don't work for your company.",
+        "No smart person would work here full-time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I work here full-time.",
+        "Sorry. I'll try to speak slower."
+      ]
+    }
+  ]
+}

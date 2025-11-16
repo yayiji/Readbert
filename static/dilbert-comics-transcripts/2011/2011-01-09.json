@@ -1,0 +1,44 @@
+{
+  "date": "2011-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to disagree with you, Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, you don't disagree with me.",
+        "I don't?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. You think you disagree with me, but you're mistaken.",
+        "You're simply experiencing an illusion caused by the limits of your comprehension."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you were able to fully comprehend both the problem and my recommended solution, you would agree with me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So what appears to be a difference of opinion is just you wrestling with your own defective brain."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "There's no reason to get the rest of us involved in that mess.",
+        "Have you ever noticed that clarity makes people angry?"
+      ]
+    }
+  ]
+}

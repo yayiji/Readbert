@@ -1,0 +1,25 @@
+{
+  "date": "2022-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Go ask Tina when her first draft will be done.",
+        "I can't do that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tina screams in surprise whenever I get near her because she thinks I'm sneaking up on her."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But after she calms down...",
+        "Then she teaches me about the flaws in my \"walking around\" skills."
+      ]
+    }
+  ]
+}

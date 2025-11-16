@@ -1,0 +1,30 @@
+{
+  "date": "2019-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And I've improved employee engagement by nineteen percent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is employee engagement?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not entirely sure."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then how do you measure it?",
+        "Honestly, I wasn't expecting a lot of questions."
+      ]
+    }
+  ]
+}

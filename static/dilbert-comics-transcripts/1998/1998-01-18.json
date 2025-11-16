@@ -1,0 +1,55 @@
+{
+  "date": "1998-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my bill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's for all the time we've spent together when I didn't enjoy it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it wasn't fun, it must have been work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Dogbert, let me explain what friendship is all about."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Friendship is about giving freely of oneself. It's about trust and sharing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now, I expect you'll want this back.",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I need to round it up to the next hour."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No checks. You have the face of a deadbeat.",
+        "I don't think I'm reaching you."
+      ]
+    }
+  ]
+}

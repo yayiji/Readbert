@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should hire a ghostwriter to write your autobiography."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's dumb. A ghost's fingers would go right through the keyboard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then how do their clothes stay on?",
+        "Fair point."
+      ]
+    }
+  ]
+}

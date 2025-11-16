@@ -1,0 +1,25 @@
+{
+  "date": "1990-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can we talk?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dawn and I want to have an egg.",
+        "And you want my blessing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We want instructions.",
+        "My \"National Geographics\" stop just short..."
+      ]
+    }
+  ]
+}

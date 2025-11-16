@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, there's no nice way to say this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do this mindless task for me because you're nothing but an intern and your time has very little value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There probably was a nice way to say that.",
+        "It didn't jump out."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I scheduled a two-hour T.H.N.P.L. meeting for seven o'clock on Friday night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "T.H.N.P.L. stands for \"Tina has no personal life.\" I'm scheduling useless meetings to fill the void in my life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tina, this is insane.",
+        "Are you suggesting we have a meeting to discuss it?",
+        "Is Saturday okay?"
+      ]
+    }
+  ]
+}

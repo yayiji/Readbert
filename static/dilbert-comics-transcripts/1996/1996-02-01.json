@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to my leadership, the new air traffic control system is designed on time and under budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to cut a few corners. This big radar-looking thing is a wall clock. And most of the buttons are glued on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like it might be um... dangerous.",
+        "Great... I finish early and what do I get: \"feature creep.\""
+      ]
+    }
+  ]
+}

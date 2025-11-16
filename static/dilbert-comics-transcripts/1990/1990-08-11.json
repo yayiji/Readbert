@@ -1,0 +1,23 @@
+{
+  "date": "1990-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert! I'm home after my second major surgery in two weeks!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...So after the first operation they discover that a tiny convict and a nurse had hidden inside my torso to escape..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boy...it sure is hard to keep a medical story interesting."
+      ]
+    }
+  ]
+}

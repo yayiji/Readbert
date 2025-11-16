@@ -1,0 +1,28 @@
+{
+  "date": "1997-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For those who joined us late, this is Bob the dinosaur.",
+        "He lives with Dilbert and me.",
+        "Hi"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dinosaurs aren't extinct.",
+        "They're just hiding behind furniture.",
+        "This is Dawn, my mate, and Little Rex."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll notice that they use a lot of space and they aren't very relevant.",
+        "I think Rex has my eyes."
+      ]
+    }
+  ]
+}

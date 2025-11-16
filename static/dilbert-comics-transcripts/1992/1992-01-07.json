@@ -1,0 +1,24 @@
+{
+  "date": "1992-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hold still. I'm going to try a morale-building experiment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slap slap",
+        "Slap slap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks. I feel a lot better."
+      ]
+    }
+  ]
+}

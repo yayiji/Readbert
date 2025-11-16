@@ -1,0 +1,55 @@
+{
+  "date": "2014-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Last night, an idea for a new product came to me in a dream.",
+        "Ick."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "3-D glasses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To watch movies?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, for real life."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... the glasses would make life in general appear three-dimensional?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Exactly! People love 3-D stuff."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm not going to respond to your idea. I'm just going to sit here looking three-dimensional."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wait... how are you doing that?",
+        "I'm wearing glasses that make me look 3-D."
+      ]
+    }
+  ]
+}

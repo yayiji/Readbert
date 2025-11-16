@@ -1,0 +1,23 @@
+{
+  "date": "2006-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And why did you leave your last job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My dog was tired of hearing me whine about my job, so he became a billionaire and bought my company and fired me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have a checkbox for that so I'll just write in \"loser.\""
+      ]
+    }
+  ]
+}

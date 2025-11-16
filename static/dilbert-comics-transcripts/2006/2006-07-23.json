@@ -1,0 +1,54 @@
+{
+  "date": "2006-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the...? How can you be relaxed with so much work to do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your mistake is taking pride in how much work you can complete."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You see, Alice, there's an infinite quantity of potential work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But it's only possible to do a finite amount."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You have set yourself up for certain failure according to your own arbitrary standard."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "By way of contrast, I take pride in not taking pride in my work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've already achieved my goal and it's not even lunch time yet."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't you need a new goal for after lunch?",
+        "I'm aiming for a distended stomach."
+      ]
+    }
+  ]
+}

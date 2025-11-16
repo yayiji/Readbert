@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to bring me solutions, not problems!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a funny way to call yourself worthless.",
+        "I do plenty around here!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But in the interest of time, I will not list any examples."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "date": "2015-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The secret to success is hiring the right people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then why doesn't everyone do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It takes a lot of skill to hire the right people."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did you just find a way to take all of the credit for the team's success?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And did you do it in a clever way that was intended to make you look humble even while hogging all the credit?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I also motivate you.",
+        "You're money?"
+      ]
+    }
+  ]
+}

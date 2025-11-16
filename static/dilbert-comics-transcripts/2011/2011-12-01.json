@@ -1,0 +1,26 @@
+{
+  "date": "2011-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't clean the whiteboard in the conference room.",
+        "It has my project timeline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't promise that.",
+        "I slip into a sort of zombie reflex mode when I do this job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I envy you.",
+        "Would you like a few minutes to say goodbye to your timeline?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Several shopping hours left, and you just sit there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you really buy enough gifts for Dogbert? You worry.",
+        "Guilt and doubt begin to gnaw at your gut... the pain... the pain..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought it was the thought that counts.",
+        "Don't believe the hype."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to be more creative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Also, don't do anything except what I tell you to do or else I'll fire you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for your leadership.",
+        "We also need to communicate less."
+      ]
+    }
+  ]
+}

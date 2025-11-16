@@ -1,0 +1,25 @@
+{
+  "date": "1998-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm the new guy.",
+        "I look smarter than the people who already work here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you get to know me, I'll look dumber and dumber."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was fast.",
+        "Ooga."
+      ]
+    }
+  ]
+}

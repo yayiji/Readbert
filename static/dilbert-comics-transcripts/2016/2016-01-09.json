@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I approve this project based on your boss' spreadsheet calculations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His calculations must be accurate because an engineer handed them to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that all you need?",
+        "I need a hug, but I don't want to catch whatever caused all of this."
+      ]
+    }
+  ]
+}

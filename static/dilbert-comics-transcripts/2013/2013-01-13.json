@@ -1,0 +1,65 @@
+{
+  "date": "2013-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want extra legroom on your flight? It costs more.",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want an aisle seat? That costs extra.",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want a no-baby section? It costs extra.",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Extra bag?",
+        "Yes.",
+        "Meal?",
+        "Yes.",
+        "Priority boarding?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In-flight entertainment?",
+        "Wi-fi?",
+        "Flight insurance?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We're almost done. Just twelve more questions."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "One hour later.",
+        "Your ticket comes to... $27,689."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And it's only three stops!",
+        "Now let's do the return flight."
+      ]
+    }
+  ]
+}

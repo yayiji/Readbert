@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I built a ring with a tiny computer in it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It only displays one character at a time.",
+        "Then what good is it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No time for chit-chat. I'm surfin' the net!",
+        "Don't make me come over there."
+      ]
+    }
+  ]
+}

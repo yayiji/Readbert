@@ -1,0 +1,25 @@
+{
+  "date": "2016-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "People are complaining that you're antisocial."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only dislike the people I get to know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why do you get to know them?",
+        "It happens by accident when they talk."
+      ]
+    }
+  ]
+}

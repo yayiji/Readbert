@@ -1,0 +1,25 @@
+{
+  "date": "2005-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hand-picked you two for my team because we have no budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, your laziness helps you accomplish the most work with the least effort.",
+        "Yvonne, your hotness gives you the power to make men do what you want for nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, then Yvonne convinced me to do her work and Wally went on disability leave.",
+        "But otherwise, a good meeting?"
+      ]
+    }
+  ]
+}

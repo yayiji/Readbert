@@ -1,0 +1,23 @@
+{
+  "date": "2018-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm worried about Dilbert's mental health because his ideas are so bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How did you rule out the hypothesis that his ideas are brilliant but you're too dumb to understand them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm worried about Asok's mental health, too."
+      ]
+    }
+  ]
+}

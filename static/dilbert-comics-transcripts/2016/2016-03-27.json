@@ -1,0 +1,55 @@
+{
+  "date": "2016-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dick, from the internet",
+        "Would you lie to a monster to keep a baby alive?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha! You admit you're a liar!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not most of the time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ooh, not most of the time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha ha! Look who's trying to walk it back now!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Apologize for hating babies most of the time!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I never said that!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wow. Pathological much?"
+      ]
+    }
+  ]
+}

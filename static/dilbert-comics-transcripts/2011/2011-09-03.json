@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our newest product infringes patents from Google, Apple, Microsoft, and Oracle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They've joined forces and hired NASA to nudge an asteroid toward our headquarters."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we can win this.",
+        "I wonder what the average life span of an optimist is."
+      ]
+    }
+  ]
+}

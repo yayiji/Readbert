@@ -1,0 +1,53 @@
+{
+  "date": "2000-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you sing or dance?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted? I thought you resigned in disgust two weeks ago."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... I wrote a huge resignation manifesto that I planned to e-mail to the entire company."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I thought it needed pictures."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Before long I was adding video clips and humorous sound files."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then I thought, hey, why not put it all on a web site?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now I'm turning the whole thing into an off Broadway theatre production."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I saw my first motivated employee today."
+      ]
+    }
+  ]
+}

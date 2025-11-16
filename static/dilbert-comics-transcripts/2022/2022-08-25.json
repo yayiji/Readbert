@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to collaborate with Ted on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you trying to improve the out-come of the project by lowering the average IQ applied to it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have to answer that.",
+        "Thank you for your leadership."
+      ]
+    }
+  ]
+}

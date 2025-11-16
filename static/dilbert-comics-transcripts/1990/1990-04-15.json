@@ -1,0 +1,33 @@
+{
+  "date": "1990-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I always get a warm, satisfied feeling right after paying my taxes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure, it's a sacrifice...",
+        "But my money goes to support vital public services.",
+        "Knock knock"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're the IRS mop-up crew.",
+        "We came to take your socks and shave sixty percent of your dog.",
+        "Bzzzz"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Remind me to adjust my withholdings for next year."
+      ]
+    }
+  ]
+}

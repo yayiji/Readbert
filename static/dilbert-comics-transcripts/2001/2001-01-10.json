@@ -1,0 +1,27 @@
+{
+  "date": "2001-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The motivation fairy",
+        "You will be my greatest challenge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll bet you get paid less than minimum wage and they don't reimburse you for travel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wings...",
+        "So...",
+        "Heavy...",
+        "So, what kind of career path you got going?"
+      ]
+    }
+  ]
+}

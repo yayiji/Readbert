@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'm putting you in charge of a project that will make or break your career."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is the big one. The rest of your life will depend on how you perform on this project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's my budget?",
+        "No budget."
+      ]
+    }
+  ]
+}

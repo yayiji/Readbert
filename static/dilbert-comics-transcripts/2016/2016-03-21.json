@@ -1,0 +1,25 @@
+{
+  "date": "2016-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The guy who stole my identity just sent me an email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He says, \"Stop making racist comments on the internet. You're ruining my rep-utation.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha!",
+        "Take that!",
+        "You always said that would pay off some-day."
+      ]
+    }
+  ]
+}

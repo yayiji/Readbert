@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like approval to buy some software, and there is no hope you would understand why it is necessary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So just sign off on the purchase and don't ask any questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it blockchain?",
+        "Just stop."
+      ]
+    }
+  ]
+}

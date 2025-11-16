@@ -1,0 +1,26 @@
+{
+  "date": "2000-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My consultant thinks you should be featured in our ad campaign."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because I'm your new CEO and the most powerful woman in our industry?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "Yes,",
+        "that's why.",
+        "Remember to ask about tan lines."
+      ]
+    }
+  ]
+}

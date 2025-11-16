@@ -1,0 +1,25 @@
+{
+  "date": "2012-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Performance review",
+        "Tina, you lack confidence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you keep criticizing me!",
+        "Nice leadership, you perspiring pile of pound cake!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that better or worse? I can't tell."
+      ]
+    }
+  ]
+}

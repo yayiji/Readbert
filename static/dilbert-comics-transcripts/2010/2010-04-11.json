@@ -1,0 +1,56 @@
+{
+  "date": "2010-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The beta test went well. Thank you, Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I'll have Tina add an impractical maintenance requirement to the manual and we're ready to go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "It's standard procedure."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Say the user needs to lube the product ten times a day with the wax from a bear's ear."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And say the warranty is voided if the device isn't properly maintained."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is that legal?",
+        "It's better than legal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We're using the law to keep justice away!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I feel sick.",
+        "That's how you know it's working."
+      ]
+    }
+  ]
+}

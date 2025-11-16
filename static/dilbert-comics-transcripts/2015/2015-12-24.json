@@ -1,0 +1,25 @@
+{
+  "date": "2015-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carl, I see something in you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?",
+        "The blank stare of incompetence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never ask \"what.\"",
+        "Guess what else."
+      ]
+    }
+  ]
+}

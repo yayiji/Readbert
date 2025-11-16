@@ -1,0 +1,25 @@
+{
+  "date": "2008-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today is Shelly's birthday. We should make her feel special."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you still have that random stack of birthday cards you got on sale last year?",
+        "I'm all over it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She likes pets. The closest thing you have is an elf.",
+        "Draw whiskers on it."
+      ]
+    }
+  ]
+}

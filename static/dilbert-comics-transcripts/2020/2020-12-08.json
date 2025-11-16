@@ -1,0 +1,31 @@
+{
+  "date": "2020-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We are rolling out our new 5G wireless service today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have any 5G technology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's really 4G, but no one wants that, so we call it 5G."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People will complain.",
+        "That's okay.",
+        "We're also making it impossible to reach us by phone."
+      ]
+    }
+  ]
+}

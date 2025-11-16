@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who said I wasn't meeting my objectives?",
+        "I can't remember."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Therefore, I have no reason to doubt the accuracy of the information."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Check the facts!",
+        "That sounds like something a guilty person would say."
+      ]
+    }
+  ]
+}

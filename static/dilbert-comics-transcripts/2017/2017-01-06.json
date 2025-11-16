@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why haven't you finished writing the software?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because each of your interruptions took me out of the zone and turned a simple task into a nightmare."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did he mean by that?",
+        "It sounded like some sort of feng shui."
+      ]
+    }
+  ]
+}

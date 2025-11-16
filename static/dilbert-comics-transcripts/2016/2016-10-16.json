@@ -1,0 +1,54 @@
+{
+  "date": "2016-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your employee engagement coming along?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll make you a deal..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll pretend I'm happy to be here if you pretend you believe it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I need more than that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I also want you to pretend you're loyal to the company."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can do that, if you pretend you're interested in my career development."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can we do all of that without talking?",
+        "That's the best way."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My job was a lot harder before I figured out all the shortcuts."
+      ]
+    }
+  ]
+}

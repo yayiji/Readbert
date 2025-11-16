@@ -1,0 +1,55 @@
+{
+  "date": "2013-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a way to automate the hardest part of my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used to do a lot of \"management by walking around.\" It was exhausting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I just send my drone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I designed it myself and had it built in Elbonia."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The hydrogen makes it lighter than air.",
+        "Hydrogen?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Let's see what Ted is up to.",
+        "He's wearing a wool sweater today."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, the humanity!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hold this."
+      ]
+    }
+  ]
+}

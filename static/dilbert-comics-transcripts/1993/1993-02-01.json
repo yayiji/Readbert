@@ -1,0 +1,24 @@
+{
+  "date": "1993-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Peter, you're a brilliant computer programmer and you like your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Although you lack any social awareness and cannot communicate with your species, I decided to promote you to management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't be afraid...",
+        "It's called a necktie."
+      ]
+    }
+  ]
+}

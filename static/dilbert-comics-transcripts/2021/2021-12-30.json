@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a problem with our product we claim turns idiots into smart people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is the flaw that it doesn't work?",
+        "The flaw is that we can't keep up with demand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But does it work?",
+        "We didn't have a compelling reason to test it."
+      ]
+    }
+  ]
+}

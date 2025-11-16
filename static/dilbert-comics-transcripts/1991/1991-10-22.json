@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Any luck trying to get fired?",
+        "No... but I'll get that severance package yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This morning I krazy-glued farm animals to the boss, but he still won't deal with all the bureaucracy to fire me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The staff meeting may run a little long today."
+      ]
+    }
+  ]
+}

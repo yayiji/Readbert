@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The tiny nation of Elbonia has been reclassified from a third-world country to a second-world country."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Second?",
+        "That means they have plenty to eat, but they don't like it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Elbonia",
+        "Airline food, again?!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's why you should have a pre-meeting before every meeting.",
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How long will my generation need to work? A month?",
+        "Sixty years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see that you've connected all the dots."
+      ]
+    }
+  ]
+}

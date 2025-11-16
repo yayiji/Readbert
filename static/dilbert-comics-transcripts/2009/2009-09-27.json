@@ -1,0 +1,55 @@
+{
+  "date": "2009-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to develop a procedure for creating policies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do we have a policy on how to develop procedures?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think someone wrote a white paper on that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What's the procedure for finding white papers?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe you could ask around."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Later that night",
+        "So, what do you do?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I ask around to see if anyone knows about a white paper that talks about a policy for developing procedures to create policies."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You find that sexy.",
+        "Stop doing the Jedi mind trick!"
+      ]
+    }
+  ]
+}

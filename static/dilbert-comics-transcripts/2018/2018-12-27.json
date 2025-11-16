@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to work with old Ned on this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's a little bit old-fashioned, but don't let that get to you. He retires in six months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been asked to work with you.",
+        "Women have jobs now???"
+      ]
+    }
+  ]
+}

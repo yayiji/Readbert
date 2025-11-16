@@ -1,0 +1,55 @@
+{
+  "date": "2006-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your conference call?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Very successful.",
+        "Bill said he'd find a new supplier for the casing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or it might have been Ron, Ted, or Bob.",
+        "They all sound the same on the phone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I hope it wasn't Bill.",
+        "He never follows through."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ron is too overworked, Ted is a liar and Bob's a moron."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'd say the call was a waste of time.",
+        "It might even be a huge step backward."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Success is the happy feeling you get between the time you do something and the time you tell a woman what you did."
+      ]
+    }
+  ]
+}

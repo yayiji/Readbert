@@ -1,0 +1,54 @@
+{
+  "date": "1995-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, is this the \"help desk\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that group got reengineered out of existence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the new \"no help whatsoever desk.\"",
+        "My job is to make sure you never call again."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can you tell me how to make a pie chart?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Crush your computer into small chunks, add flour and bake one hour."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "While you're waiting, read the free novel we sent you. It's a Spanish story about a guy named \"Manual.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Repeat the process until you get the desired result."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This lost a lot in the translation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know the job market is highly competitive, but was it really a good idea to hire a career criminal?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Relax. He's just doing internal tech support."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need all of your passwords to update your software.",
+        "Have you met my fist of justice?"
+      ]
+    }
+  ]
+}

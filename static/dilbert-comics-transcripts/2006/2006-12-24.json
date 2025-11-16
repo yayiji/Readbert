@@ -1,0 +1,55 @@
+{
+  "date": "2006-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be right back after I return these dishes to the cafeteria.",
+        "Whoa, whoa!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Winners don't return dishes to the cafeteria."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then how do the dishes get back?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You must use your power of low standards."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just place the dishes on the floor and wait for a loser with high standards."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa! Dishes on the floor!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Once again I have to clean up after slobs!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It is like a miracle.",
+        "Now ask her to bring you back a yogurt."
+      ]
+    }
+  ]
+}

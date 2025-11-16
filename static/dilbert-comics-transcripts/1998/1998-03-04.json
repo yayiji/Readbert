@@ -1,0 +1,31 @@
+{
+  "date": "1998-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales conference",
+        "Here's the product you'll be selling next quarter.",
+        "It has no user interface!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means no bulky user manual.",
+        "And no loss of function during a power outage!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You were right. Our sales people can't distinguish good from evil.",
+        "I strained a smile muscle.",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap"
+      ]
+    }
+  ]
+}

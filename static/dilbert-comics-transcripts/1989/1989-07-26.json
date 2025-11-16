@@ -1,0 +1,24 @@
+{
+  "date": "1989-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay then, if you two dinosaurs want to continue hiding in my house you have to observe the house rules."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... uh... remain out of sight... don't leave the lights on when you're out of the room..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I forgetting anything, Dogbert?",
+        "How about \"no ripping the flesh off the other residents.\""
+      ]
+    }
+  ]
+}

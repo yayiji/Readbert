@@ -1,0 +1,24 @@
+{
+  "date": "1998-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need this vital information by one o'clock."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I do a shoddy job, I can finish this and still make it to lunch!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today I traded my work ethic for a banana.",
+        "I ate that banana years ago."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company pays me ten dollars for every bug I fix in my code, Ratbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to do your little rat dance on my keyboard so I'll have lots of bugs to fix."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How am I doing?",
+        "Not so good.",
+        "You just authored a web browser."
+      ]
+    }
+  ]
+}

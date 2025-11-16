@@ -1,0 +1,55 @@
+{
+  "date": "2000-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to workplace violence prevention training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can we identify potentially violent employees?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh!",
+        "Ooh!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wally?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do they have beards?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um...no.",
+        "That was a stupid answer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Violent employees are usually creepy, ineffective males who are widely disrespected."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "May I change seats?"
+      ]
+    }
+  ]
+}

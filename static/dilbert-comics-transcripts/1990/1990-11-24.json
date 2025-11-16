@@ -1,0 +1,25 @@
+{
+  "date": "1990-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, look what I got at the joke store: exploding cigars!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heh-heh... these are hilarious - watch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Kapow!!",
+        "I think you're supposed to get other people to smoke them.",
+        "Too late now; I'm hooked."
+      ]
+    }
+  ]
+}

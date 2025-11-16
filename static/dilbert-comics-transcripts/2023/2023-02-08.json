@@ -1,0 +1,24 @@
+{
+  "date": "2023-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever imagine what it would be like to work in marketing instead of engineering?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I always assumed it would feel like eating ice cream while wearing silk pajamas on a warm summer day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does your current job feel like?",
+        "Sleeping naked on Oreo crumbs."
+      ]
+    }
+  ]
+}

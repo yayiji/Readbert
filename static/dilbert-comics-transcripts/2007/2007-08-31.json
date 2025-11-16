@@ -1,0 +1,23 @@
+{
+  "date": "2007-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I have to let you go, but there's a good reason."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no money to pay your salary because I made a typo in my budget request."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Until then, I was totally planning to reward your hard work."
+      ]
+    }
+  ]
+}

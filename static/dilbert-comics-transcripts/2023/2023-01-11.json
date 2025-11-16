@@ -1,0 +1,24 @@
+{
+  "date": "2023-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you leave your last job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My company was purchased by the most successful entrepreneur in the history of civilization."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds awful.",
+        "Honestly, I don't know how I survived."
+      ]
+    }
+  ]
+}

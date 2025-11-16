@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your help to negotiate with my boss for more telecommuting days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm too logical to be a good negotiator.",
+        "You need someone who is relentlessly irrational."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogbert says you're an excellent negotiator, Ratbert.",
+        "I'm insulted!!"
+      ]
+    }
+  ]
+}

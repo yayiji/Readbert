@@ -1,0 +1,25 @@
+{
+  "date": "2001-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I believe there is one true soul mate for every person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He must be very busy.",
+        "I meant one per person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your way would be stupid.",
+        "Can your soul mate be a monkey?"
+      ]
+    }
+  ]
+}

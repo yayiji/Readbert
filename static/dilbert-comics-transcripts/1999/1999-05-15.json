@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This completes my portion of the project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This project is so well-engineered it would take a squadron of idiots to ruin it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Meanwhile in marketing",
+        "And when I'm napping, it is not okay to use my ears as coasters."
+      ]
+    }
+  ]
+}

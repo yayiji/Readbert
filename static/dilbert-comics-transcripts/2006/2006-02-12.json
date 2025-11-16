@@ -1,0 +1,54 @@
+{
+  "date": "2006-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO appreciates pushback."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The last thing he wants is a bunch of yes men."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't be afraid to stand your ground. He respects that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My plan is to form business units around each product line."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Excuse me. We tried that once and it didn't work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're fired.",
+        "Leave now."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Cruelty or convenience?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I needed a cubicle to store my extra binders."
+      ]
+    }
+  ]
+}

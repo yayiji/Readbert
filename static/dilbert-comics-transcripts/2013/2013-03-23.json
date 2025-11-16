@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought a robot to replace you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All it does is drink coffee and look at inappropriate websites."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I forget anything?",
+        "No. I'm not a complicated man."
+      ]
+    }
+  ]
+}

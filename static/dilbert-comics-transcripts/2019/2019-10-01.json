@@ -1,0 +1,25 @@
+{
+  "date": "2019-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone who went to the potluck got food poisoning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to do all of their work while they are out sick.",
+        "Were there leftovers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There might be.",
+        "Can I have a plate?"
+      ]
+    }
+  ]
+}

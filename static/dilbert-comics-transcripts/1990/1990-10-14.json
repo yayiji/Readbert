@@ -1,0 +1,54 @@
+{
+  "date": "1990-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Help! Purse snatcher!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh... he's running this way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Act like we didn't see it or we might get hurt."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Trip"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaaagh!",
+        "Fump"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I assume there's some sort of reward for this."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Rrrrr",
+        "Look!",
+        "I got chiclets!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like your input on the idea of hiring a coordinator for our projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Terrible idea.",
+        "Waste of money.",
+        "Wouldn't help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He starts Monday."
+      ]
+    }
+  ]
+}

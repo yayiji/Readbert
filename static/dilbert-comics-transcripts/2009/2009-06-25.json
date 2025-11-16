@@ -1,0 +1,27 @@
+{
+  "date": "2009-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Income tax auditor",
+        "You claim your company is exempt from taxes because you're incorporated in... heaven?",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not allowed to question that claim because of the separation of church and state."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am the Angel Wally!",
+        "Hold on, Wally.",
+        "We're selling past the close."
+      ]
+    }
+  ]
+}

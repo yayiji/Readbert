@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like your internet business idea. Let's do it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sent you that idea a year ago.",
+        "Since then, five companies have gone IPO in that space."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we buy one of them?",
+        "If by \"one\" you mean one share of stock, yes."
+      ]
+    }
+  ]
+}

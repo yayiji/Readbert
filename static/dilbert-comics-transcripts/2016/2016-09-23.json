@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love travelling because it broadens my understanding of the world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know what you mean.",
+        "I just got a cubicle near the window and now I see the world as an alleyway between me and the parking garage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's dumb.",
+        "That's not what the alley people say."
+      ]
+    }
+  ]
+}

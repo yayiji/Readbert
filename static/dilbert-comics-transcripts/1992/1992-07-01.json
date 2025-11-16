@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've survived several jet crashes this year, so listen to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The best way to prevent frostbite is to rub Worcestershire sauce on your body and whack yourself repeatedly with a meat tenderizer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder why he had enough of these for everybody?",
+        "Whack",
+        "Whack"
+      ]
+    }
+  ]
+}

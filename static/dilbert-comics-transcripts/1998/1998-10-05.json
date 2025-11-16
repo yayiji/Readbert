@@ -1,0 +1,21 @@
+{
+  "date": "1998-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, anyone who misses a staff meeting must buy donuts for the next meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I just sell them their freedom for donuts?"
+      ]
+    }
+  ]
+}

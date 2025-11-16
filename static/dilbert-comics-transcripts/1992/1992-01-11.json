@@ -1,0 +1,25 @@
+{
+  "date": "1992-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rrrring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello! This is a long-distance phone company with vague promises of unverifiable savings if you switch to us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this an inconvenient time for you?",
+        "No.",
+        "Oh, then we'll call back later."
+      ]
+    }
+  ]
+}

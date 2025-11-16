@@ -1,0 +1,24 @@
+{
+  "date": "2009-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm hiring you because you're huge and scary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our economic forecast calls for the emergence of warlords in 2010."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you ever pillaged?",
+        "No, I just go on fake interviews to scope out targets."
+      ]
+    }
+  ]
+}

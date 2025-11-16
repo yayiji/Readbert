@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, would you like to join a doomed project for sending internet traffic over the sewer system?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely! I might be young and inexperienced, but I know a good thing when I see it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need you to work under the sewage and breathe through a straw.",
+        "I get a straw?!!"
+      ]
+    }
+  ]
+}

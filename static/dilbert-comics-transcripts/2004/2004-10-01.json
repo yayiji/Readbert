@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tomorrow I'll tell the stockholders that we earned $100 million!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will you tell them that you gave all of their profits to senior management in the form of unexpensed stock options?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We had to be incentivized.",
+        "So you wouldn't take their furniture, too?"
+      ]
+    }
+  ]
+}

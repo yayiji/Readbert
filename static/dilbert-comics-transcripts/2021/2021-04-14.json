@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should I call you Ted, or do you prefer your office nickname?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only ask because your nickname is insulting, so I just wanted to make sure you were okay with me using it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have an office nickname?",
+        "Aaand we're off to a bad start."
+      ]
+    }
+  ]
+}

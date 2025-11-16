@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you said you'd be finished with the design by now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I said I would start on it by now.",
+        "That is not what you said!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to listen more carefully to my mumbled after-thoughts."
+      ]
+    }
+  ]
+}

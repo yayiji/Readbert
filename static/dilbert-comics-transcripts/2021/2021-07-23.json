@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the first of what will be weekly stand-up meetings by Zoom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I trust all of you to not game the system just because I can't see your lower bodies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, are you sitting on something?",
+        "I'm deeply offended that you asked."
+      ]
+    }
+  ]
+}

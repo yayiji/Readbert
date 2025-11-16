@@ -1,0 +1,29 @@
+{
+  "date": "1992-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think the nation's founding fathers would be ashamed of your motives for running for president.",
+        "Weren't they slave owners?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, sure, but at least it was democratic.",
+        "Back then, the only people allowed to vote were white male land owners."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In fact, the presidency was created so the ignorant masses would think there was a king.",
+        "La la",
+        "La la",
+        "La la",
+        "La la"
+      ]
+    }
+  ]
+}

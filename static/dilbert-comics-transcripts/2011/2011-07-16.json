@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The customer survey data is for marketing's eyes only."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Design the next release and we'll tell you if it's what everyone wanted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long will that take?",
+        "That's an engineering secret."
+      ]
+    }
+  ]
+}

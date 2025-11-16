@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I'm CEO, what am I supposed to actually do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're supposed to make superficial statements about how good the company is, then hope something lucky happens and profits go up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's called leadership, sir.",
+        "Make it so."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you upgrade your software, all of your data will be lost."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if you don't upgrade, the old software will corrupt your data one bit at a time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if you try to back up your data, our software will hunt you down and bit-slap you until you delete it yourself!"
+      ]
+    }
+  ]
+}

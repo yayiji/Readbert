@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become a generic self-help consultant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll tell people to keep a journal of all their thoughts. Then I'll bill them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would that help anyone?",
+        "I lead by example, my friend."
+      ]
+    }
+  ]
+}

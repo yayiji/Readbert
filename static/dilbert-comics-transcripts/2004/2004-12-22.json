@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am concerned because my objectives are vague and unmeasurable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As a result, I am not inspired to achieve my full potential... and... um..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I just say I'm doing a bad job and ask you to punish me?",
+        "That's what I heard."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2013-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Recruiters",
+        "Hey, is that a passive job seeker?",
+        "Zzzzz"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Back off! I saw him first.",
+        "This rope holds my place until he wakes up.",
+        "Zzzzz"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will pay you a thousand dollars to drop a long straw in this cup."
+      ]
+    }
+  ]
+}

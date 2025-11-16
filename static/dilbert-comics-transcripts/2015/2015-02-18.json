@@ -1,0 +1,24 @@
+{
+  "date": "2015-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have been sent to disable the Elbonian internet as retaliation for hacking into our corporate network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only our elites use the internet. The rest of us don't care. Knock yourself out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zero, zero, one, zero, one. . .",
+        "I wish someone would just disable this thing."
+      ]
+    }
+  ]
+}

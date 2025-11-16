@@ -1,0 +1,24 @@
+{
+  "date": "1993-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "First on the agenda is a discussion of the company's new paper recycling program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We talked about that last time...",
+        "Hey, this is last week's agenda."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You spotted the one drawback."
+      ]
+    }
+  ]
+}

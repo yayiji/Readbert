@@ -1,0 +1,24 @@
+{
+  "date": "2001-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I want you to help me put together a morale boosting event."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great idea. And after that maybe I can do CPR on a mummy and see if I can save its life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you hear what I'm saying?",
+        "Our first meeting will be Tuesday."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every employee gets a lovely mug with our new motto, \"I made a difference.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: May I have the cash equivalent of the mug instead?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "May I have a mug that says, \"I didn't make a difference\"?"
+      ]
+    }
+  ]
+}

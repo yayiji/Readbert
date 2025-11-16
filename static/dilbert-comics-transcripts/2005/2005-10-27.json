@@ -1,0 +1,23 @@
+{
+  "date": "2005-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management is pleased to announce that it has a plan to make your pension fund solvent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In unrelated news, the guidelines for workplace safety have been relaxed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our CEO reminds you that smoking is cool."
+      ]
+    }
+  ]
+}

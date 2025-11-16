@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company encourages you to take the stairs instead of the elevator because it is good for your health."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I take the elevator because my life insurance doesn't pay off if I kill myself all at once."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On another topic, we will celebrate birthdays this month with cake in the break room.",
+        "Perfect."
+      ]
+    }
+  ]
+}

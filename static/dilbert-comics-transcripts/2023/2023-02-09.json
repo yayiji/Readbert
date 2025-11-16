@@ -1,0 +1,25 @@
+{
+  "date": "2023-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the...?",
+        "Hey!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just realized my employer doesn't have my best interests in mind!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I make the feeling go away?",
+        "Legally?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2010-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our device will create enough pressure to gently push our boss's carcass out of the ductwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Foom!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is Captain Sullenberger. Don't worry about the wing; I see a koi pond down there."
+      ]
+    }
+  ]
+}

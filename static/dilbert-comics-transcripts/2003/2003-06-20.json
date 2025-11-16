@@ -1,0 +1,24 @@
+{
+  "date": "2003-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can we eliminate $200,000 of worthless fat?",
+        "Budget pressure"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! Every hand went up. I like it when everyone participates!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So it turns out that it's better when no one participates."
+      ]
+    }
+  ]
+}

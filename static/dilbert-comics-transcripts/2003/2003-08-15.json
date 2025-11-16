@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can either wait three months for the software committee to approve our plan..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or we can soar like eagles, and act without approval, saving millions of dollars!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't be sidetracked by the analogy.",
+        "Since when do eagles use software?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2001-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My nephew wants a job. Interview him and tell me what you think."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... your work experience is... bowling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you a professional bowler?",
+        "I only bowled once."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But the balls were heavy. It seemed like work to me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That experience taught me everything I know."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Unfortunately, I don't remember most of it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But I remember you're not supposed to bowl in the snack bar."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I recommend having him whacked.",
+        "He's your new boss."
+      ]
+    }
+  ]
+}

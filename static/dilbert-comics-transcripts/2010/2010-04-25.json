@@ -1,0 +1,55 @@
+{
+  "date": "2010-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to spend the next year optimizing the WDNW system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never heard of the WDNW system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You only hear about the systems that have problems."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If everything goes as planned, you'll never hear about WDNW again."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What does the WDNW system do?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It keeps our zeros and ones from accidentally forming tens."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That can happen?",
+        "Not on my watch."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How's the \"Wally does no work\" project?",
+        "The acronym helped."
+      ]
+    }
+  ]
+}

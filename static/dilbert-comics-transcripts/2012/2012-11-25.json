@@ -1,0 +1,54 @@
+{
+  "date": "2012-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "First on the agenda, we're standardizing all screen savers to be our company logo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Second, our CEO is having a contest to see who can suggest the most useless corporate rule to eliminate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I nominate the new screen-saver rule."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can't nominate that one. It's too new."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why does that matter? Isn't it better to kill it before it gets implemented?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's too soon! It's just too soon!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine.",
+        "Fine."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I nominate whatever is next on the agenda."
+      ]
+    }
+  ]
+}

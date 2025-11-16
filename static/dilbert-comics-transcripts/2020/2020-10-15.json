@@ -1,0 +1,25 @@
+{
+  "date": "2020-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our safety record is the best in the industry!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is both untrue and easy to debunk.",
+        "Why would you even tell such a lie?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think we're idiots?",
+        "Moving along..."
+      ]
+    }
+  ]
+}

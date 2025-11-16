@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to know how we would have handled this situation at my old job?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing would interest me less."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My only other topics of conversation are my health problems and TV shows you haven't seen.",
+        "I stand corrected."
+      ]
+    }
+  ]
+}

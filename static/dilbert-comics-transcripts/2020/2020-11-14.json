@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is your writing so angry?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tech writers are underpaid, so all of our envy and contempt spill out on the page."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you tech writers should drink less coffee and exercise more.",
+        "This is exactly why we hate everyone."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to put together a five-year technology plan for our CEO.",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about \"Tomorrow will be the same as today, and next year will be all flying cars and whatnot.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Word it up and put a bow on it.",
+        "I'll add a pie chart for the sizzle."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that our profits are improving, can I have a raise?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I start giving people raises, then profits will plummet and we'll be nowhere."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does your bonus depend on how effectively you oppress me?",
+        "If you don't like it, try communism."
+      ]
+    }
+  ]
+}

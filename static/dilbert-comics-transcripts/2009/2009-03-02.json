@@ -1,0 +1,26 @@
+{
+  "date": "2009-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Director of marketecture",
+        "It is better to seem good than to be good.",
+        "Being good (overrated)"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A misleading benchmark test can accomplish in minutes what years of good engineering can never do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it our maturity that makes that concept sound okay?",
+        "I hope so."
+      ]
+    }
+  ]
+}

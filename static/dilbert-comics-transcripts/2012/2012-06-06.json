@@ -1,0 +1,26 @@
+{
+  "date": "2012-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your second paragraph is pointless and confusing.",
+        "Let's just delete it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a highly trained technical writer.",
+        "What makes you think you can do my job better?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That might be a trick question,",
+        "but I'm pretty sure the answer is paragraph two."
+      ]
+    }
+  ]
+}

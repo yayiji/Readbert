@@ -1,0 +1,61 @@
+{
+  "date": "1998-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now let's look at our year-to-date variance in depreciation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only five minutes left of our four hour meeting.",
+        "Zzzzzz"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If he keeps droning, there won't be any time for my presentation.",
+        "Zzzzz"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I spent a whole week preparing my presentation.",
+        "Zzzz",
+        "Zzzz"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Everyone else is already asleep."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My only hope is to stun the presenter with a stale donut.",
+        "Zzzz"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "As you can see, there's nothing to report."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wasted a donut.",
+        "Zzzz",
+        "Zzzz",
+        "Zzz"
+      ]
+    }
+  ]
+}

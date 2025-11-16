@@ -1,0 +1,61 @@
+{
+  "date": "2013-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am the angel of competence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have come to mark you as an engineer.",
+        "Turn around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, it's like an honor?",
+        "Sure, if that makes you feel better."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can you show me how to set up my wireless router at home?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My phone keeps freezing up. Can you look at it?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How long should I barbecue tri-tip?",
+        "The pilot light on my water heater is out."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How do you fix cracks in a driveway?",
+        "What exactly does iCloud do?",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I need to talk to the angel of competence.",
+        "Have you seen him?",
+        "He died in my cubicle.",
+        "That's all I'm saying."
+      ]
+    }
+  ]
+}

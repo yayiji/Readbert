@@ -1,0 +1,26 @@
+{
+  "date": "2007-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nancy, the employee with serial personal problems",
+        "The doctors say I need an operation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They think my steady diet of licorice and diet soda turned my spleen into a C-4 explosive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I joined a support group.",
+        "Have you heard of Al Qaeda?",
+        "Gotta go..."
+      ]
+    }
+  ]
+}

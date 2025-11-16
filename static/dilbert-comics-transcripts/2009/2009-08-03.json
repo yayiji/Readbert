@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I multitask during conference calls."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it wrong to value my own productivity over the inane babbling of others?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Buy bread...",
+        "Pickles... light bulbs...",
+        "Hello?"
+      ]
+    }
+  ]
+}

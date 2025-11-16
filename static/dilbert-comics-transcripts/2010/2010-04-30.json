@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Email me a list of the things you already tried."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll go down the list and make you try every single thing again, sometimes more than once."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And take your time because I'm reading a really good book online."
+      ]
+    }
+  ]
+}

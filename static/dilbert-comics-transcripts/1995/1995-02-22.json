@@ -1,0 +1,26 @@
+{
+  "date": "1995-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've been having a problem with black-outs.",
+        "The office lights are controlled by motion detectors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hired a temp to walk around and flap his arms so the lights won't go off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Another journalism major enters the workforce.",
+        "It seems like a waste.",
+        "Maybe he could fan us."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Talk to Allen about this.",
+        "I'll need an exit strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's a serial talker. I'll be trapped for hours while he strings together infinite, unrelated stories."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Engineers have weird problems.",
+        "What could I eat that would make me puke in ten minutes?"
+      ]
+    }
+  ]
+}

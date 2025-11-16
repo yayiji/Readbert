@@ -1,0 +1,26 @@
+{
+  "date": "2019-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss will yell at me if I don't negotiate a lower price.",
+        "What can you do for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I lowered the price by ten percent before I showed it to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no way of verifying your claim.",
+        "Neither does your boss.",
+        "Problem solved."
+      ]
+    }
+  ]
+}

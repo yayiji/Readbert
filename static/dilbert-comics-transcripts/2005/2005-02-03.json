@@ -1,0 +1,25 @@
+{
+  "date": "2005-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I keep getting bad service at stores.",
+        "Do what I do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I say I'm the CEO of their company and then I fire them all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't look like a CEO.",
+        "Too sexy?"
+      ]
+    }
+  ]
+}

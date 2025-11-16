@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What can I do to fix my social anxiety?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try keeping in mind that no one cares about you whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's working, but I think it might be creating a new problem.",
+        "I don't care."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're changing the salary plan to make a bigger portion depend on the success of the team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We reason that if your pay depends on the success of co-workers, then your priorities will change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now that's a pretty resume!",
+        "Stop hogging the good printer."
+      ]
+    }
+  ]
+}

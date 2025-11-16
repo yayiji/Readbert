@@ -1,0 +1,55 @@
+{
+  "date": "1996-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you all to meet our new vice president in charge of cost containment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My first priority is to reduce our spiraling expenses for office supplies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "From now on, your supply cabinet will be locked."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The only key will be under the control of your bitter and inefficient secretary.",
+        "Questions?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I am only an intern so please excuse this naive question..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I've noticed that the employees are all dispirited hollow shells, management is random and our products are shoddy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How are you going to solve that by making it hard to get supplies?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I thought you said they like honesty.",
+        "Ask how much he's paid. It shows you care."
+      ]
+    }
+  ]
+}

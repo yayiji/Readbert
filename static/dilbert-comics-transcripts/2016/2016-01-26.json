@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to Einstein, time flows more slowly in meetings than it does in empty space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because people are dense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that true?",
+        "For you it is."
+      ]
+    }
+  ]
+}

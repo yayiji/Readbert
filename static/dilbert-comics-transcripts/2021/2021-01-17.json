@@ -1,0 +1,55 @@
+{
+  "date": "2021-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to announce that our company has produced a vaccine for COVID-19."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How did we do that? We're not even a pharma company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not going to lie: we had to cut some corners to get it done."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Such as...",
+        "Well, for example..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We couldn't meet every single target we hoped to achieve."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How many targets did we miss?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Only two things."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Safety and efficacy?",
+        "Okay, four things."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy new year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you like to stay up until ten o'clock and fail to find something we both want to watch on any streaming service?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's better than nothing.",
+        "Is it?"
+      ]
+    }
+  ]
+}

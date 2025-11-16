@@ -1,0 +1,24 @@
+{
+  "date": "2003-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you've been named \"employee of the week\"!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The title gives you access to the executive helicopter landing pad on the roof."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by \"access\" I mean you hose off the bird droppings every morning.",
+        "I get to use the company hose!!!"
+      ]
+    }
+  ]
+}

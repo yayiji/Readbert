@@ -1,0 +1,27 @@
+{
+  "date": "1992-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me what you think, and don't try to spare my feelings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a hideous compost of random colors.",
+        "It seems both hackneyed and poorly executed.",
+        "It's an embarrassing proof of your utter lack of talent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As for you personally,",
+        "spend some time on a \"stairmaster!\"",
+        "Stick to the art, please!"
+      ]
+    }
+  ]
+}

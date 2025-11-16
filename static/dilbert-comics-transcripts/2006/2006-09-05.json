@@ -1,0 +1,25 @@
+{
+  "date": "2006-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! You're a decorated army combat veteran."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the kind of toughness we need around here.",
+        "You're hired!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then we'll have a pre-meeting to discuss leveraging our synergies to productize our content.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

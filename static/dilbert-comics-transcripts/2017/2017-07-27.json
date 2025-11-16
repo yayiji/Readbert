@@ -1,0 +1,26 @@
+{
+  "date": "2017-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you review this?",
+        "I'm on an urgent deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is the deadline for?",
+        "It's a secret project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't I know about this?",
+        "I don't know. I haven't studied your ignorance in that much detail."
+      ]
+    }
+  ]
+}

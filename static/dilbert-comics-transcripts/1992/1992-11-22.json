@@ -1,0 +1,63 @@
+{
+  "date": "1992-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's school for jerks",
+        "Hey!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll begin by sorting you into the three major jerk categories for specialized instruction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look at this picture of supermodel Cindy Crawford.",
+        "Whoa!",
+        "Hubba!",
+        "Snort!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Anybody who said \"hubba\" stand over there. You are what is called \"jerks around women.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now, somebody catch this ball, please.",
+        "Foul!",
+        "You fouled!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Anybody who yelled \"foul\" is a \"sports jerk.\" Stand over there.",
+        "It was a foul."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So, whoever is left must be..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hurry up.",
+        "I'm late for court.",
+        "You're a lawyer too?",
+        "I was going to say \"hubba.\""
+      ]
+    }
+  ]
+}

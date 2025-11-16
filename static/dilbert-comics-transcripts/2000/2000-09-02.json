@@ -1,0 +1,23 @@
+{
+  "date": "2000-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As a manager, it's my job to reduce the turnover of our most valuable employees..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...And to increase turnover of our least valuable employees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ow! For the jillionth time, who keeps kicking me?!"
+      ]
+    }
+  ]
+}

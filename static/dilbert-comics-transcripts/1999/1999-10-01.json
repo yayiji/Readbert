@@ -1,0 +1,25 @@
+{
+  "date": "1999-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's what I don't understand..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You just asked me to follow a process that has failed thirty times in a row",
+        "And you know it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At what point can this no longer be called \"optimism\"?",
+        "When it succeeds?"
+      ]
+    }
+  ]
+}

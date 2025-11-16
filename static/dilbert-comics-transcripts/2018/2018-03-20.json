@@ -1,0 +1,25 @@
+{
+  "date": "2018-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to temperature court."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One of you has frozen appendages and one of you is burning up. But only one temperature can rule the office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I rule that the thermostat must be set at exactly 72 degrees.",
+        "Noooo!!!",
+        "Shoot me!"
+      ]
+    }
+  ]
+}

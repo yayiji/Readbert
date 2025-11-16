@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, go down to the accounting department and find out what these figures mean.",
+        "Gulp"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No... p-please...",
+        "They aren't even human there!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like him.",
+        "Surprise."
+      ]
+    }
+  ]
+}

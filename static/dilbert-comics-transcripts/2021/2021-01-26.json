@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to success is teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then why does our compensation system pit employees against each other to battle for limited salary funds?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This meeting will go a lot smoother if you stop doing whatever you're doing right now.",
+        "I call it \"thinking.\""
+      ]
+    }
+  ]
+}

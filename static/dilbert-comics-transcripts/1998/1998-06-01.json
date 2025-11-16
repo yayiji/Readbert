@@ -1,0 +1,23 @@
+{
+  "date": "1998-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having a severe case of telephone shyness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm afraid to pick up the phone and make business calls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll duck into a restroom stall until the shyness passes."
+      ]
+    }
+  ]
+}

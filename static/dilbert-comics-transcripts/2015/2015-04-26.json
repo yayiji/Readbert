@@ -1,0 +1,55 @@
+{
+  "date": "2015-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When do you think you can get that done for me?",
+        "Depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I had no interruptions, I could finish in four hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But we have to factor in the inefficiency of your management."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, you're likely to give me six new projects before I get started on this one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And you force me to work in a noisy office surrounded by all the people I need to avoid to get work done."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Given all of that, I'd say it will take seven months."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll give you three months because I'm a leader.",
+        "Ookay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And... how much of the three months will involve you standing there?"
+      ]
+    }
+  ]
+}

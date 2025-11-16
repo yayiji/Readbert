@@ -1,0 +1,26 @@
+{
+  "date": "1991-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I come up here and use visualization to achieve my goals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can get anything you want by visualizing it.",
+        "Wow!",
+        "I've got to try that!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm the ruler of the world.",
+        "You're a big hunk of cheese."
+      ]
+    }
+  ]
+}

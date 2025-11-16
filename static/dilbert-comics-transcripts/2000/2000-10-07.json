@@ -1,0 +1,23 @@
+{
+  "date": "2000-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lastly, what have you done to improve the morale of your co-workers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't give them the beatings they so richly deserved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll shorten that to \"team player\"?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2014-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm pretending to be a workaholic so the company will pay for rehab."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Waaaa!!! I am working too hard!",
+        "It is starting to affect my health!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That seemed a bit dramatic."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Here we go with blaming the victim."
+      ]
+    }
+  ]
+}

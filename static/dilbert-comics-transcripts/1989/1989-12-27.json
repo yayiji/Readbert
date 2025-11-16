@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Doing a little cleaning? Let me give you a hand..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait... I can't lend a hand; all I have are these little paws."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd make a good lawyer.",
+        "Charming... I offer to help and he insults me."
+      ]
+    }
+  ]
+}

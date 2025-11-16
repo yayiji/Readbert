@@ -1,0 +1,25 @@
+{
+  "date": "2020-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We bought a start-up that makes autonomous drones armed with machine guns."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For use by the military?",
+        "Good idea. I hadn't thought of that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's too dangerous for private use.",
+        "You sound just like my neighbor when he still had a gazebo."
+      ]
+    }
+  ]
+}

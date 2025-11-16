@@ -1,0 +1,25 @@
+{
+  "date": "2022-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't believe me when I said I hacked reality and acquired godlike powers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I will demonstrate my powers by making a long-dormant volcano erupt in Elbonia's biggest city."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Couldn't you use your powers to do something good instead?",
+        "Too late.",
+        "This is on you."
+      ]
+    }
+  ]
+}

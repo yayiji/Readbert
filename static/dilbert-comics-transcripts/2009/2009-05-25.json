@@ -1,0 +1,28 @@
+{
+  "date": "2009-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll never be able to finish my project on time.",
+        "You need to take ownership."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I hire more programmers?",
+        "No.",
+        "Can I reduce the number of features?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... I'm just taking ownership of the failure?",
+        "Don't be greedy."
+      ]
+    }
+  ]
+}

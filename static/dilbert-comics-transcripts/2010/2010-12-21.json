@@ -1,0 +1,41 @@
+{
+  "date": "2010-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you attend my meeting Friday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm very busy, but I'll meet you halfway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does that mean in this context?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They say half of life is just showing up."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... you will be..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Doing the other half."
+      ]
+    }
+  ]
+}

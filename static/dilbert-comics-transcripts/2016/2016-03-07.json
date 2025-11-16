@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In the meeting, you said you are the best at motivating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was wondering when you plan to start, because I could use some motivation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been doing it for five years.",
+        "At work?"
+      ]
+    }
+  ]
+}

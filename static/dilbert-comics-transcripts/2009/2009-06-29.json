@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales are tanking because our online reviews are awful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cripple a feature and change the model number so the online reviews look stale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. That was a lot of evil packed into one sentence.",
+        "Thank you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2020-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea.",
+        "Let's create a Google document that we can all update."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is exactly the idea I suggested to you yesterday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't prove that.",
+        "That was only true until I learned to wear a wire."
+      ]
+    }
+  ]
+}

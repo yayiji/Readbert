@@ -1,0 +1,65 @@
+{
+  "date": "1989-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fwak!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tap tap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Excuse me, mammal.",
+        "Would you please",
+        "lower your",
+        "invisible force",
+        "field so I can",
+        "fly through?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's no force",
+        "field; that's a",
+        "window."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oh, worms! I'm always",
+        "making that mistake.",
+        "We birds can be",
+        "pretty stupid some-",
+        "times."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hi, little bird.",
+        "You look thirsty.",
+        "Would you like",
+        "some water?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't put it in a",
+        "glass; he might",
+        "beat his brains",
+        "out with it."
+      ]
+    }
+  ]
+}

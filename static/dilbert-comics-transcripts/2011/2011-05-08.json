@@ -1,0 +1,54 @@
+{
+  "date": "2011-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In my spare time I created some awesome new features for our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaaa!!!! Shut the door!",
+        "What?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You fool! If my boss finds out you have spare time, he'll think we're overstaffed!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can never speak of these awesome new features again."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm confused. You told me I need to go above and beyond my job description to get the highest performance rating."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's just something I say to keep you from getting a healthy raise."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... I lose no matter what I do?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "For what it's worth, you're doing better than our customers."
+      ]
+    }
+  ]
+}

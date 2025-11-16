@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have been summoned to the boss's office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He probably wants to give me some sort of award for my good work as an intern."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you need to know where that air duct ends?",
+        "It's been bugging me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I want you to scrub the CPS database.",
+        "No one uses that data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you are incapable of admitting error. So now I must dedicate my time to a thoroughly useless task."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This job got easier when I stopped listening.",
+        "It's like death, but without the glamour!"
+      ]
+    }
+  ]
+}

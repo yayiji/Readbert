@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you telling me that your automatic denture invention mistook Johnson for a meat loaf?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah... last April.",
+        "I guess I should have told somebody."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there a form I need to fill out?"
+      ]
+    }
+  ]
+}

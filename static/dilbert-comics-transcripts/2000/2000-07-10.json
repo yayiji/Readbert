@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Write a performance evaluation for yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shoot for about a 3% raise...",
+        "Because that's what you're getting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert's inventions will earn a billion dollars. But we think he steals almost as much."
+      ]
+    }
+  ]
+}

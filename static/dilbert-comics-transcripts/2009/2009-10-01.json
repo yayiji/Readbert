@@ -1,0 +1,25 @@
+{
+  "date": "2009-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil Director of Human Resources",
+        "According to your skills inventory, the only thing you are good at is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...diverting attention from your own lack of value."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it just me, or is there a deadly gas leak in the building?",
+        "Erk!"
+      ]
+    }
+  ]
+}

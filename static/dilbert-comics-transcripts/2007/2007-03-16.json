@@ -1,0 +1,24 @@
+{
+  "date": "2007-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a squatter problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We must make our empty cubicles appear occupied or else we'll lose them to other departments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When we're done hosting our own company, can we start hosting the competition?",
+        "Our customers are next."
+      ]
+    }
+  ]
+}

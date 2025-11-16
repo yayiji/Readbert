@@ -1,0 +1,25 @@
+{
+  "date": "1994-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Genetic research"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like you to clone an army of obedient slaves for me.",
+        "I plan to conquer the world and have dominion over all living things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mostly work on giant cucumbers.",
+        "Mix in some arms and legs and give me two packages of seeds."
+      ]
+    }
+  ]
+}

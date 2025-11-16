@@ -1,0 +1,30 @@
+{
+  "date": "2022-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's an opening in management for a director of A.I. research."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're the only employee with A.I. experience, but I'm also considering Asok, Tina, and Dave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "None of them are even close to being qualified."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you have any idea how bigoted you sound?",
+        "Continued..."
+      ]
+    }
+  ]
+}

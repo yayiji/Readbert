@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Dilbert, and this is my narrator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bob wondered when was the last time Dilbert had washed his hands. It was a good question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "Just ignore the foreshadowing."
+      ]
+    }
+  ]
+}

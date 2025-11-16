@@ -1,0 +1,24 @@
+{
+  "date": "1998-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stupid software!",
+        "Won't compile;",
+        "Eh ??"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We call it \"code rage.\"",
+        "I'm seeing a lot of it lately."
+      ]
+    }
+  ]
+}

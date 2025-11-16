@@ -1,0 +1,28 @@
+{
+  "date": "1989-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh, Carp. This is the third time today that I will walk by this same guy in the hall.",
+        "I barely know him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is so awkward.",
+        "The first time, I said \"Hello\".",
+        "The second time we both made those closed-mouth grins and arched our eyebrows.",
+        "What do I do the third time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So I pulled the fire alarm.",
+        "I don't think Miss Manners is gonna back you on this one."
+      ]
+    }
+  ]
+}

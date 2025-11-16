@@ -1,0 +1,23 @@
+{
+  "date": "1999-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to start with a cartoon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's about a guy who shows a cartoon before giving a boring presentation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But it doesn't work because the cartoon has no punchline."
+      ]
+    }
+  ]
+}

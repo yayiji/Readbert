@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm assigning our best and brightest engineers to the new system integration team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Anyone who is left over gets to be in charge of watching our legacy system slowly rot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who would want that job?",
+        "Me!!! Pick me!!!"
+      ]
+    }
+  ]
+}

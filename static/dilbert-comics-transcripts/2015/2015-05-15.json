@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, Ted, it looks like you and I are competing for the same promotion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to use social media to make you look bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I fired Ted for trash-talking you on Twitter.",
+        "I don't have a social media account and it still works!"
+      ]
+    }
+  ]
+}

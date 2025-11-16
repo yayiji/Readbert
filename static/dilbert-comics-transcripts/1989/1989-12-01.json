@@ -1,0 +1,23 @@
+{
+  "date": "1989-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well... I would date you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But frankly I think of you as a boring and unattractive blob of organic matter..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So let's just be friends."
+      ]
+    }
+  ]
+}

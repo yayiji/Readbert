@@ -1,0 +1,23 @@
+{
+  "date": "2005-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The accounting department",
+        "I can't process your travel expenses because you sent me copies of receipts. I need the originals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm busy.",
+        "Just fax them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

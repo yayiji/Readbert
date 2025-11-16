@@ -1,0 +1,30 @@
+{
+  "date": "2021-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired Dick to be your workplace nemesis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You might know his work from social media."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This feels like a bad idea."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Doubt science much?",
+        "Duhrr."
+      ]
+    }
+  ]
+}

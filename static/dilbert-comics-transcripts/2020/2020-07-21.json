@@ -1,0 +1,27 @@
+{
+  "date": "2020-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking about writing a novel.",
+        "Stay in your lane!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not ambitious and I have intense hate-jealousy for anyone who is!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was looking for some encouragement.",
+        "Die!",
+        "Die!",
+        "Die!"
+      ]
+    }
+  ]
+}

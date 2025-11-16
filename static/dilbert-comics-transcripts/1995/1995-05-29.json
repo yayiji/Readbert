@@ -1,0 +1,32 @@
+{
+  "date": "1995-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to be more of a hands-on manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Move the mouse... up...",
+        "Up... over... more..",
+        "Now click it!!",
+        "Click it!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No!!!",
+        "You",
+        "fool!!!",
+        "This has",
+        "\"Long day\"",
+        "written all",
+        "over it."
+      ]
+    }
+  ]
+}

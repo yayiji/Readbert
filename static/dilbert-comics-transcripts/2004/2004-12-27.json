@@ -1,0 +1,25 @@
+{
+  "date": "2004-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you review the spreadsheet that I e-mailed?",
+        "I didn't want to be inconvenienced."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My philosophy is that anything worth doing is too hard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A character flaw isn't a philosophy.",
+        "I like to combine things."
+      ]
+    }
+  ]
+}

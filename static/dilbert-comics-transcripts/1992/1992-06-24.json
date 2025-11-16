@@ -1,0 +1,23 @@
+{
+  "date": "1992-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school of common sense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've asked you to pay tuition in advance; that way if you're unsatisfied with the school, you'll have the added negotiating leverage of having already paid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And thanks, Alice, for asking if tipping is customary."
+      ]
+    }
+  ]
+}

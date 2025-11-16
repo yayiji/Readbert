@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're thinking of moving from a cubicle workplace to an open floor plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because you did some research and discovered that the open floor plan is the only thing worse than what we have now?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They figured out the pattern.",
+        "I told you we should randomize our evil!"
+      ]
+    }
+  ]
+}

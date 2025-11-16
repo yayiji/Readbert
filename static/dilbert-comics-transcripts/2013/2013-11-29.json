@@ -1,0 +1,26 @@
+{
+  "date": "2013-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government would like to use your browser history as a firewall against Elbonian hackers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One look at what you're up to will make them blind and crazy.",
+        "I know because it worked on me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A week later in Elbonia",
+        "That's probably a fluke.",
+        "You try."
+      ]
+    }
+  ]
+}

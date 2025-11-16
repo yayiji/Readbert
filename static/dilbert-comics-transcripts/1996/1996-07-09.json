@@ -1,0 +1,28 @@
+{
+  "date": "1996-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for making that product mock-up last week.",
+        "The customer liked it so much that he ordered a thousand!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That was a mock-up!",
+        "We don't make that product yet.",
+        "It would take three years to make one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just give me a thousand mock-ups.",
+        "The first one was terrific!",
+        "The mock-up was our competitor's product with duct tape over the logo."
+      ]
+    }
+  ]
+}

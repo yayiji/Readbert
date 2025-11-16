@@ -1,0 +1,23 @@
+{
+  "date": "1997-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, two things..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Number one, I want you to chair the \"fun committee\" to improve employee morale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Two, according to this report, you've been using the internet for personal reasons."
+      ]
+    }
+  ]
+}

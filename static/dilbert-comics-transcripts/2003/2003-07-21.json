@@ -1,0 +1,25 @@
+{
+  "date": "2003-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've noticed that dead people know a lot.",
+        "They're always yapping to psychics on television."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We could kill the entire software-testing staff and replace them with one medium."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you see any problem with that?",
+        "If the dead people lie, how would we punish them?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, here's a bonus for your good work.",
+        "On what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't be specific, because then you might do it again and expect another bonus."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Congratulations; you've motivated me to act randomly.",
+        "I'm going over here and I don't know why."
+      ]
+    }
+  ]
+}

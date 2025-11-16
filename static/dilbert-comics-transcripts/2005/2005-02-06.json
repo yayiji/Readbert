@@ -1,0 +1,55 @@
+{
+  "date": "2005-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I want to be certain that everything is perfect for the CEO's visit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Check the doughnuts to make sure that they're fresh and delicious."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "Mmm...this one is okay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How can I be sure this isn't the one good doughnut in the batch."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll have to taste every one of them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Carol!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't panic.",
+        "I can fix this."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is odd: most of my doughnut is delicious, but one part tastes like gum."
+      ]
+    }
+  ]
+}

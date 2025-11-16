@@ -1,0 +1,23 @@
+{
+  "date": "2007-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bruce, you're totally incompetent at your job, so I'm moving you to another job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm hoping your lack of training for your new job will make your incompetence seem normal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Half of this job is knowing when to give up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd stay and work some unpaid overtime with you but I'm taking MBA classes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you took MBA classes you'd understand that working for free is a low NPV."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you don't mind, before big tests I'd like to rub your head for luck.",
+        "It'll cost you a nickel."
+      ]
+    }
+  ]
+}

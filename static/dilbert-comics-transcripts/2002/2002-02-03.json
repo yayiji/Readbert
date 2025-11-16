@@ -1,0 +1,51 @@
+{
+  "date": "2002-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Due to budget constraints, the company will no longer provide free soda."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What free soda? We never had free soda."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure we did. It was in the refrigerator in the break room."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Every day I'd go in there and get a refreshing beverage."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The next morning, as if by magic, the soda would be replenished."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I brought a soda to work every day for five years only to have it stolen from the refrigerator every time."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why didn't you just drink the free ones?"
+      ]
+    }
+  ]
+}

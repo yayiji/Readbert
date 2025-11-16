@@ -1,0 +1,26 @@
+{
+  "date": "2004-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "To survive, you must create disruptive innovations that redefine the market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does that mean the same thing as \"sell things that people want\"?",
+        "There's one big difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You only get paid if you say it in a funny way?",
+        "I like to think I'm disruptively innovative."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not using reverse psychology! I really don't need anything from the Information Technology Department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Curse you! You know our goal is to give you the opposite of what you want. If you want nothing we must give you everything!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please tell me how you got them to do this.",
+        "Watch me launch the space shuttle!"
+      ]
+    }
+  ]
+}

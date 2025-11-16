@@ -1,0 +1,24 @@
+{
+  "date": "2006-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO is here to answer any of your questions about our restatement of earnings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will you return your $25,000,000 bonus from last year, now that you acknowledge it was unearned?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And what's your name?",
+        "Dilbert"
+      ]
+    }
+  ]
+}

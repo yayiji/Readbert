@@ -1,0 +1,71 @@
+{
+  "date": "2003-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see some new faces.",
+        "Let's go around the table and introduce ourselves."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am Asok,",
+        "the intern."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I report",
+        "to you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I also report",
+        "to Alice on a",
+        "dotted line."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I report to",
+        "Carol on a fuzzy,",
+        "thin line."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I have a blinking,",
+        "irregular line to",
+        "Wally, and a wavy,",
+        "brown line to",
+        "Dilbert."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Please...",
+        "make this",
+        "stop."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And a disturbing,",
+        "imaginary line",
+        "to a food-service",
+        "cashier who touched",
+        "my hand while",
+        "giving change."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to think of myself as a maverick."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let the trendy people brag about their standing desks.",
+        "I haven't stood in a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have some bad news about your health risks.",
+        "Should I sit down to hear it?"
+      ]
+    }
+  ]
+}

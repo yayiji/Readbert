@@ -1,0 +1,24 @@
+{
+  "date": "2012-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for the deposit, sucker!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We plan to waste it on complicated hedging strategies that we don't even understand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your honesty is refreshing.",
+        "Thanks, but it makes cross-selling harder..."
+      ]
+    }
+  ]
+}

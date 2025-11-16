@@ -1,0 +1,25 @@
+{
+  "date": "2007-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reached an agreement with the rebels so they won't attack our factory in Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a stock swap.",
+        "Every time they collect a ransom, the value of our company will increase."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that make us terrorists?",
+        "Very indirectly."
+      ]
+    }
+  ]
+}

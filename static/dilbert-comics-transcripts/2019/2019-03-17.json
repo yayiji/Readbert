@@ -1,0 +1,54 @@
+{
+  "date": "2019-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I predict fusion power will be a big deal in fifteen years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fusion reactors are impossible to build and always will be."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why are a dozen startups working on it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Everyone who ever tried to create a fusion reactor has failed so far."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Thomas Edison failed many times at making a useful incandescent light bulb before he succeeded."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Would you have advised him to give up after the first ten failed attempts?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I eagerly await your irrational response."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Incandescent bulbs are bad for the environment.",
+        "And there it is."
+      ]
+    }
+  ]
+}

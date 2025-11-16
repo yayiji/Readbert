@@ -1,0 +1,25 @@
+{
+  "date": "2004-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You knew your product was deadly but you did nothing until you were sued."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The goal of public relations is to taint the jury pool.",
+        "We'll show that the victims had it coming."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should discuss the moral implications of that strategy.",
+        "Bah!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2015-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used to enjoy pointing to my watch and mocking people for being late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it isn't as fun as it used to be."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is your step count low again?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired an Elbonian spy who, I assume, will try to steal our intellectual property."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's hard to find good engineers in this economy, so that is a risk I am willing to take."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert, I'd like you to collaborate with him.",
+        "Can we call it something else?"
+      ]
+    }
+  ]
+}

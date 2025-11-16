@@ -1,0 +1,60 @@
+{
+  "date": "2008-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh. I don't understand a word of this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What did other people say about it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A few people quibbled about the methodology."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Right, well, yes, the methodology does have a few issues."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can you be more specific?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I brought some crickets to keep me company while I wait for your answer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Chirp",
+        "Chirp chirp",
+        "Chirp chirp",
+        "Chirp chirp",
+        "Chirp",
+        "Chirp"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm up next.",
+        "Can I borrow the crickets?",
+        "They're a little tired."
+      ]
+    }
+  ]
+}

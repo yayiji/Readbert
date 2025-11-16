@@ -1,0 +1,25 @@
+{
+  "date": "1996-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your engineering work was excellent, Alice. But there was the little incident where you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shoved me down a flight of stairs and killed me, thus inviting the forces of darkness to possess my body!!!!",
+        "Back!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd it go?",
+        "I swear, this job is all politics."
+      ]
+    }
+  ]
+}

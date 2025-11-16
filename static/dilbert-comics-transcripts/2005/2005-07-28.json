@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm referring you to a specialist who can treat your absent-mindedness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His method is untested, but I think it's worth a chance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll replace my brain with a cauliflower?",
+        "They're just like brains, but much cheaper."
+      ]
+    }
+  ]
+}

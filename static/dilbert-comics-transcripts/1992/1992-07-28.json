@@ -1,0 +1,27 @@
+{
+  "date": "1992-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, here's a copy of my new newsletter for clueless people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Dogbert's clues for the clueless:",
+        "1. Professional wrestling is all faked.",
+        "2. Nobody ever lost weight on a home exercise device.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "3. Looks are more important to happiness than brains.",
+        "4. If people don't comment on your new hairdo, they hate it.\"",
+        "It's not healthy to read them all at once, Bob."
+      ]
+    }
+  ]
+}

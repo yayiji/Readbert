@@ -1,0 +1,24 @@
+{
+  "date": "1998-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm sending you to Elbonia to inspect our factory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fill out a trip justification form for my approval."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, I need your approval to do what you told me to do?",
+        "It will not be unreasonably withheld."
+      ]
+    }
+  ]
+}

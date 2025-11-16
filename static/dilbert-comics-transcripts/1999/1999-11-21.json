@@ -1,0 +1,55 @@
+{
+  "date": "1999-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mom, can I go skateboarding at the construction site?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why not?",
+        "Everyone else does it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If everyone jumped off a cliff, would you do that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, that would depend on many factors, including height, training and equipment."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But if 100% of the people who jumped off cliffs said they enjoyed it, as in my skateboard example..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Then I would conclude that it was safe."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "A better question might have been, \"If everyone wore clothes, would you do that?\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Her credibility gets worse every day."
+      ]
+    }
+  ]
+}

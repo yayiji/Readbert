@@ -1,0 +1,24 @@
+{
+  "date": "1997-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going into the sports memorabilia business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've heard that most autographs are forgeries, so my initial investment will be low."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I interest you in a baseball signed by Moses?",
+        "Wow! That's going to be worth something."
+      ]
+    }
+  ]
+}

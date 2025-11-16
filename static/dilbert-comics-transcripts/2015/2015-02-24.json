@@ -1,0 +1,25 @@
+{
+  "date": "2015-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you can beat market averages by doing your own stock research."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... you believe every investor can beat the average by reading the same information?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Makes you wonder why more people don't do it.",
+        "Just lazy, I guess."
+      ]
+    }
+  ]
+}

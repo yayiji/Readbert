@@ -1,0 +1,24 @@
+{
+  "date": "2000-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cynics anonymous",
+        "My company sent me here to regain my naive sense of trust."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All in favor of using Dilbert's company-paid dues on beer, say aye."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Make sure you sign up for our gambling cruise."
+      ]
+    }
+  ]
+}

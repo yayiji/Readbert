@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been chosen for the industrial espionage program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The plan is that I quit this job and go to work for our competitor.",
+        "Every week I'll send back secret reports."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bob, this is how we fire dumb people.",
+        "That's why it's the perfect cover."
+      ]
+    }
+  ]
+}

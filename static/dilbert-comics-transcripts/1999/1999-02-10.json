@@ -1,0 +1,26 @@
+{
+  "date": "1999-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My moth sense has detected a meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, guys! What are you talking about?",
+        "Is this a meeting?",
+        "I can't resist joining in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Run for it!",
+        "I'll hold him off with this cedar-flavored donut!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2010-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having a birthday cake for Scott in the break room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No thanks. I prefer cake that isn't frosted with the spit of recent candle-blowing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oooh, look at the Queen of England who likes her cake without spit. What's it like to be fancy?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To the untrained eye it might look as if I do no work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But inside here is a raging sea of knowledge management and strategic thinking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you hear that gurgling sound?"
+      ]
+    }
+  ]
+}

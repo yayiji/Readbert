@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At ten you'll be firing Ted.",
+        "I'll organize his goodbye party."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you know what would be more efficient?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What happens after we yell \"surprise\"?"
+      ]
+    }
+  ]
+}

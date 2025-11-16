@@ -1,0 +1,24 @@
+{
+  "date": "1995-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who needs to sign my business case to buy a web server?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm...this crosses all departments. I fear it. Get the approval of every director, every VP, every EVP, plus Griffin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mean Ted Griffin in finance or the mythical griffin beast that's half eagle, half lion?",
+        "Whichever is harder."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1992-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know why we even bother holding meetings on Friday afternoons..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, everybody is brain-dead by now. Is this really productive?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm...",
+        "Productive?",
+        "Hmm...",
+        "I'm too late."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1996-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, everybody. Meet our new intern, Asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope this one's sturdier than the last one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My staple remover is broken. Somebody toss that intern to me!"
+      ]
+    }
+  ]
+}

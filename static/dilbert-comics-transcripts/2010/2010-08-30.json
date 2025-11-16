@@ -1,0 +1,26 @@
+{
+  "date": "2010-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news, Alice.",
+        "You got the internal job you posted for."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!!!",
+        "You'll need to keep doing your old job too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just make me celebrate a doubling of my workload?",
+        "Thank you for acknowledging my awesomeness."
+      ]
+    }
+  ]
+}

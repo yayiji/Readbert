@@ -1,0 +1,23 @@
+{
+  "date": "1990-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After you leave, you will not remember being inside your computer talking to a micro-chip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will purchase worthless computer upgrades and argue that it saves money in the long run."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a static byte dwinkelizer... a necessity really."
+      ]
+    }
+  ]
+}

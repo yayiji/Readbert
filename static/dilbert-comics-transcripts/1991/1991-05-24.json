@@ -1,0 +1,23 @@
+{
+  "date": "1991-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't remember the rules for solitaire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just put the cards in random piles and then declare myself the winner."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was surprisingly satisfying."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "1991-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Book signing today"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you like an autographed copy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who are you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm Bobby Mcnewton, child-star from the sixties. I once had a speaking part on \"Leave it to Beaver.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm leveraging my fame to promote my recipe book."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "\"Walnuts and milk:\nCrush walnuts on table.\nPour milk on walnuts.\nServe cold.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "\"Walnuts and pork:\nKill a pig. Cook dead pig. Sprinkle walnuts on pig's corpse.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I used a ghost writer.",
+        "Was he a ghost before he ate your food?"
+      ]
+    }
+  ]
+}

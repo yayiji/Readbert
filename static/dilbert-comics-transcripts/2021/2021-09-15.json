@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know what I like most about you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's either your enlightened style of management or your physical fitness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if you're mocking me.",
+        "That's the third thing I like about you."
+      ]
+    }
+  ]
+}

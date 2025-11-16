@@ -1,0 +1,25 @@
+{
+  "date": "2004-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bottleneck bill",
+        "Perhaps you're wondering why I haven't answered your e-mails."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My philosophy is that anything worth doing is worth delaying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Plus you look like that.",
+        "Like what?"
+      ]
+    }
+  ]
+}

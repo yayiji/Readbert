@@ -1,0 +1,24 @@
+{
+  "date": "1992-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just received your employee suggestion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll handle it the usual way -- by making you sit under a wet blanket surrounded by imbeciles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least there's a process.",
+        "Explain your suggestion again."
+      ]
+    }
+  ]
+}

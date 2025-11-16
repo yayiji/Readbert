@@ -1,0 +1,25 @@
+{
+  "date": "2019-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a volunteer to assemble welcome baskets for our new hires."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend Asok the intern because, obviously, it would be sexist to ask a woman to do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good point.",
+        "Asok, the project is yours.",
+        "Racist."
+      ]
+    }
+  ]
+}

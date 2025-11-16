@@ -1,0 +1,24 @@
+{
+  "date": "1992-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are the flowers and the non-refundable date deposit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This diskette has my dating history, personal references, and full financial disclosure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When may I expect the rejection notice?",
+        "I can give you a verbal now..."
+      ]
+    }
+  ]
+}

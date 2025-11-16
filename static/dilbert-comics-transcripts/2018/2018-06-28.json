@@ -1,0 +1,30 @@
+{
+  "date": "2018-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I need you to train the new hire how to do your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you firing me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, no. Just standard cross-training."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, I was worried for a second there.",
+        "And start tidying up your cubicle."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2002-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the attorney",
+        "Your best defense is to say you were ignorant of your company's stock manipulation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need to convince a judge that you're dumber than chocolate pants at an outdoor Las Vegas photography convention."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't get that.",
+        "E-e-excellent."
+      ]
+    }
+  ]
+}

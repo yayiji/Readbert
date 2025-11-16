@@ -1,0 +1,25 @@
+{
+  "date": "2001-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Equity analyst",
+        "I'll rate your stock a \"must buy now\" if you give us your investment banking business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aren't you supposed to have a Chinese wall between those two businesses?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I too early?",
+        "Use the door, idiot."
+      ]
+    }
+  ]
+}

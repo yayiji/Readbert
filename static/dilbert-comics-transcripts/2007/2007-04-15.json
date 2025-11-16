@@ -1,0 +1,56 @@
+{
+  "date": "2007-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a trade-mark search on all of the excellent product names you suggested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every one of them is taken."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I did a search on the names that weren't so great."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Those are taken too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I checked on the names Icrud, ipuke, eatdirt-anddie, and defectiveproduct."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "All taken."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So our new product name will be a combination of grunts and shrieks."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Like this?",
+        "Grrr-eeey-yaaa?",
+        "That one is taken.",
+        "Ours sounds more like a monkey passing a kidney stone."
+      ]
+    }
+  ]
+}

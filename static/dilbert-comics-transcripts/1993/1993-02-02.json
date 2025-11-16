@@ -1,0 +1,23 @@
+{
+  "date": "1993-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday I was a computer programmer and today I'm your new supervisor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The hardest part is mastering these dang management clothes. Did you know they don't come with an instruction manual?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll have to call their \"800\" help line again."
+      ]
+    }
+  ]
+}

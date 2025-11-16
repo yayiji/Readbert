@@ -1,0 +1,30 @@
+{
+  "date": "2019-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone reported you to human resources for all of your micro-aggressions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would be an example of one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't matter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It feels as if it should matter.",
+        "This is why engineers never get hired for human resources."
+      ]
+    }
+  ]
+}

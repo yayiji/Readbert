@@ -1,0 +1,24 @@
+{
+  "date": "1999-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Allen, I have to cut the salary budget.",
+        "I probably shouldn't have hired you yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily, I have extra money in the furniture budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As god is my witness, someday I will be a credenza."
+      ]
+    }
+  ]
+}

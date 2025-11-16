@@ -1,0 +1,30 @@
+{
+  "date": "2009-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, send an e-mail to the department with my leadership thought of the day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm busy.",
+        "Make up something."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That which doesn't kill you makes you stronger. So please slap me in my fat, bald head."
+      ]
+    }
+  ]
+}

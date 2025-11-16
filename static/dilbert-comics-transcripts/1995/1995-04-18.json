@@ -1,0 +1,37 @@
+{
+  "date": "1995-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Financial advisor",
+        "Stocks...",
+        "Annuities...",
+        "Derivatives...",
+        "Capital gains",
+        "Tax..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's all too confusing",
+        "for you!! Give me all",
+        "your money now or",
+        "you'll die a pauper!!",
+        "Now! Now! Before",
+        "interest rates fall!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will this reduce",
+        "my income taxes?",
+        "More than",
+        "you might",
+        "guess."
+      ]
+    }
+  ]
+}

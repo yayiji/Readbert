@@ -1,0 +1,24 @@
+{
+  "date": "1991-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I missed my doctor's appointment. Can I reschedule it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why did you miss it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was sick.",
+        "Yeah, like I haven't heard that one before."
+      ]
+    }
+  ]
+}

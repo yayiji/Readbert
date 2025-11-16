@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, your performance this year has been exceptional."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But everyone else was even better, so... you're fired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In what universe does that even make sense?",
+        "You also complain too much."
+      ]
+    }
+  ]
+}

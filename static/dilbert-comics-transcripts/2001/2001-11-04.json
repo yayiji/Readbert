@@ -1,0 +1,54 @@
+{
+  "date": "2001-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, may I have a word with you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not spending enough time in your cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks as if our department isn't productive."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But... I can't do my job from my cubicle."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You have to set priorities. Looking productive is very important to this department."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Will I get a big raise for looking busy while my projects flounder?!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You won't get a big raise either way."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gaaa!!",
+        "Here's a blank piece of paper to carry back to your cubicle."
+      ]
+    }
+  ]
+}

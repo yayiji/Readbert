@@ -1,0 +1,24 @@
+{
+  "date": "1998-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you review my draft of the user manual yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The characters in the examples gave me no reason to care about them.",
+        "It left me empty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sadly, user \"B\" could never love user \"A\" because he was a bald engineer."
+      ]
+    }
+  ]
+}

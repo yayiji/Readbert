@@ -1,0 +1,58 @@
+{
+  "date": "2016-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My teenager wants to pierce his ear. Should I let him?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. It's only a tiny hole and it heals.",
+        "Good point."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next day",
+        "Now he wants a small tattoo.",
+        "Well, if it doesn't show..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Next week",
+        "Now he wants to grow a human ear on his back, the way scientists did with that rat."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "As long as he can cover it with a shirt when he gets a job, I see no problem."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You have to let him live his own life."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "One week later",
+        "He joined Isis."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I forgot to mention that I'm not good at giving advice."
+      ]
+    }
+  ]
+}

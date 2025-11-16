@@ -1,0 +1,24 @@
+{
+  "date": "2004-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it immoral for my company to sell forty-thousand calorie, shard-filled doughnuts?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not forcing anyone to eat them; you're just making them irresistibly delicious."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's that different?",
+        "Bah!"
+      ]
+    }
+  ]
+}

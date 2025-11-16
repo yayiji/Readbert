@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you ever noticed how much I have in common with Gandhi?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're both little bald guys who think India should be self-governing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think he drank coffee.",
+        "Imagine what he could have accomplished if he did."
+      ]
+    }
+  ]
+}

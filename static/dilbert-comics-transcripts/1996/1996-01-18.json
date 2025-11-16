@@ -1,0 +1,24 @@
+{
+  "date": "1996-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert meets with software developers.",
+        "Note the huge market for software that runs on the \"Dogbert 2000\" operating system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But who cares? The important thing is that I brought a bag of toys."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some say the computer industry is built on silicon. I think foam and plastic are equally important."
+      ]
+    }
+  ]
+}

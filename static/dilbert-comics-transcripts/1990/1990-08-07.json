@@ -1,0 +1,23 @@
+{
+  "date": "1990-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The experts used to say you should exercise every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now they think twenty minutes every other day is just as good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My strategy of five minutes a month is looking pretty clever."
+      ]
+    }
+  ]
+}

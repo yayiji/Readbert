@@ -1,0 +1,52 @@
+{
+  "date": "2002-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Bob Weaselton, your full-service stockbroker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There are two ways we can go here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Option one: I act as if brokers know which stocks are better than others."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I'll earn your trust by comparing your portfolio to misleading benchmarks."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I prefer a more direct approach."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Option two: I sell you whatever garbage earns me the biggest commission."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would you do me a favor and lie to me?",
+        "Nice haircut."
+      ]
+    }
+  ]
+}

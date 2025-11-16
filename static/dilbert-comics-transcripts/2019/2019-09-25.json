@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your help solving a software problem on my computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why am I cursed with the sort of competence that makes me a servant to the incapable?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what that means.",
+        "If you did, you could probably fix your own problems."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should I tell Alice all the things she's doing wrong on her project?",
+        "Great idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the worst thing that could happen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you trick me into manifesting the worst thing that could happen?",
+        "Maybe."
+      ]
+    }
+  ]
+}

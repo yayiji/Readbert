@@ -1,0 +1,25 @@
+{
+  "date": "2012-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, have you seen the Tupac video where he performs as a hologram?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've decided to do the same thing with all of our employees.",
+        "We're going to move your data to the cloud."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tupac is dead.",
+        "I think you mean economical."
+      ]
+    }
+  ]
+}

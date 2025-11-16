@@ -1,0 +1,27 @@
+{
+  "date": "1996-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This report says you went nuts at a vending machine because it took your money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company used to offer counseling in these cases.",
+        "But we found it was more economical to apply the death penalty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?!",
+        "How is that possible?",
+        "I'm not sure yet.",
+        "You're too big for the microwave oven..."
+      ]
+    }
+  ]
+}

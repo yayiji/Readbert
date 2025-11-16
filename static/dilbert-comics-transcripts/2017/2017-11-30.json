@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my highly unreliable forecast, we're on the right track."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if even one of my seventeen assumptions is off by 1%, we are doomed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The obvious conclusion is that...",
+        "We're nailing it!"
+      ]
+    }
+  ]
+}

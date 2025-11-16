@@ -1,0 +1,26 @@
+{
+  "date": "2013-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like my job.",
+        "But I don't like any of the tasks",
+        "...or any of the people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't like the commute... and I'm paid less than I'm worth... and I'm not making the world a better place."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure you like your job?",
+        "Why do you ask?"
+      ]
+    }
+  ]
+}

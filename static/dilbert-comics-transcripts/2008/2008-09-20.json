@@ -1,0 +1,25 @@
+{
+  "date": "2008-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're out of coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you give me a false sense of urgency and some unnecessary stress to compensate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Finish your project before our CEO stops by on Tuesday.",
+        "Perfect.",
+        "I'll see you this afternoon for a second cup."
+      ]
+    }
+  ]
+}

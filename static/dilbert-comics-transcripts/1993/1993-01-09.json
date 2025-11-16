@@ -1,0 +1,26 @@
+{
+  "date": "1993-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's school for technology imbeciles",
+        "Can anybody show me what you do with a microwave?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I insert the video tape... then I set the timer for ninety minutes..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anybody know why it isn't working?",
+        "The fool!",
+        "It's beta!"
+      ]
+    }
+  ]
+}

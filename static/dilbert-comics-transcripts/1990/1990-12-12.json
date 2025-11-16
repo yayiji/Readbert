@@ -1,0 +1,26 @@
+{
+  "date": "1990-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Little dinosaurs must listen to their mothers.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... because older dinosaurs have experience... we know how to avoid danger.",
+        "Yeah?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, did you know it hurts when you stick one of these in your eye?",
+        "Hee hee! Good one, Mom; I almost believed you!!"
+      ]
+    }
+  ]
+}

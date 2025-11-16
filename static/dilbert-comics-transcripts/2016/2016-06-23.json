@@ -1,0 +1,26 @@
+{
+  "date": "2016-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you invented a device with human intelligence and human emotions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I ask it a question?",
+        "It's in a bad mood.",
+        "It's not talking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! It's just like people!",
+        "You'd better leave before you make it cry."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2005-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you come to a meeting at three?",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want to tell everyone that Project Acorn is canceled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You just told me.",
+        "So I don't need to go, right?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You might have questions.",
+        "But I don't."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe someone at the meeting will ask a question that you didn't think of."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Should I attend every meeting in the world just in case someone asks a good question?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Save that one for the meeting."
+      ]
+    }
+  ]
+}

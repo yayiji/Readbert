@@ -1,0 +1,26 @@
+{
+  "date": "2009-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought the company that fired you.",
+        "Now you can interview with me for your old job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You already know everything about me.",
+        "An interview would have no purpose other than to humiliate me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Since when do things need two purposes?",
+        "Is Tuesday good?"
+      ]
+    }
+  ]
+}

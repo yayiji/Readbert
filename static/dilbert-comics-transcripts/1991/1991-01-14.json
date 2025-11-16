@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've written the entire Encyclopaedia Britannica on this hair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll open a museum and charge people to see it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's kind of hard to prove you wrote all that on a hair.",
+        "I'll swear on this bible."
+      ]
+    }
+  ]
+}

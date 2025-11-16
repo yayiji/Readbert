@@ -1,0 +1,26 @@
+{
+  "date": "2004-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a writer for \"Morons on Parade\" magazine.",
+        "Do you mind if I ask you some questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay... but only if you promise to not make me look bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cover story!!!",
+        "Woo-hoo!!!",
+        "Really?"
+      ]
+    }
+  ]
+}

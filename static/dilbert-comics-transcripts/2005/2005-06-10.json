@@ -1,0 +1,24 @@
+{
+  "date": "2005-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have enough resources to do my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't that like saying, \"How now, brown cow\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You think things can't get worse.",
+        "But they can."
+      ]
+    }
+  ]
+}

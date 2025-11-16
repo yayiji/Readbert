@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Matt the temp",
+        "Our parking lot flooded after the big storm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to wade out there and find our downed power cables."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He seems to fully embrace the temp concept.",
+        "Fzeet!"
+      ]
+    }
+  ]
+}

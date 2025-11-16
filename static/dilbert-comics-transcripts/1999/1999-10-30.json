@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you came to work on one of your vacation days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees are not allowed to change vacation days without permission."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On an unrelated note, try to be more empowered."
+      ]
+    }
+  ]
+}

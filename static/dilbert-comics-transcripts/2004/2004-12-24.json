@@ -1,0 +1,23 @@
+{
+  "date": "2004-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Marketing needs volunteers for a study about how our ads stimulate people's brains."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who among us would like to get a cat scan?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, seriously, who didn't see this coming?"
+      ]
+    }
+  ]
+}

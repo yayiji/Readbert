@@ -1,0 +1,25 @@
+{
+  "date": "2009-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to do an inventory in our warehouses.",
+        "It should take about a month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hypothetically, would anyone know the difference if I just made up the numbers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, no...",
+        "Dream job!"
+      ]
+    }
+  ]
+}

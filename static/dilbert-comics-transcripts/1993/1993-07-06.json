@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've identified the brain chemical that controls happiness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I found the exact mix of fruit and vegetable juices that stimulate its production."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you realize what this means?",
+        "Yeah. Fruits and vegetables will be banned by the government."
+      ]
+    }
+  ]
+}

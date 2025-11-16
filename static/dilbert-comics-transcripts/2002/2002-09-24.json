@@ -1,0 +1,24 @@
+{
+  "date": "2002-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have chronic mahjobbis crappus but that's not why you puked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you been exposed to any user interfaces designed by engineers?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have interface poisoning. You'll be dead in a week."
+      ]
+    }
+  ]
+}

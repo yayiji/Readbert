@@ -1,0 +1,24 @@
+{
+  "date": "1995-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our original project time line was twelve months... but since you pitched in to help..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have an exact end date, but it's roughly the same time that the sun becomes a cold dark chunk of coal the size of your forehead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll need flash-lights.",
+        "And sweaters. It could get nippy."
+      ]
+    }
+  ]
+}

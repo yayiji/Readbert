@@ -1,0 +1,24 @@
+{
+  "date": "1991-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert starts a tabloid newspaper devoted to lies about himself.",
+        "Where do you get your ideas?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogbert's impatience with fools was legendary. He once choked a man by his necktie for asking stupid questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It happened one day when the fool was reading over Dogbert's shoulder and got too close."
+      ]
+    }
+  ]
+}

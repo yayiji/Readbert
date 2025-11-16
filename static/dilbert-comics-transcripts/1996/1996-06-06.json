@@ -1,0 +1,26 @@
+{
+  "date": "1996-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tormenting the vendor",
+        "You must do our bidding, vendor.",
+        "We control your economic future."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Of course, our buying decision will be based solely on quantifiable performance measurements."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your competitor completed the \"vendor challenge course\" in 37 seconds.",
+        "And he gave us very nice t-shirts."
+      ]
+    }
+  ]
+}

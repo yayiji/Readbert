@@ -1,0 +1,27 @@
+{
+  "date": "2015-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new hobby is explaining economics using babble talk.",
+        "It sounds totally real."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, did you know that the bubble in commodities is creating an over-supply of interest rates?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Meanwhile...",
+        "Our chief economist quit.",
+        "Promote that bald guy.",
+        "He sounds smart."
+      ]
+    }
+  ]
+}

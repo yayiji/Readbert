@@ -1,0 +1,25 @@
+{
+  "date": "2022-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the futurist",
+        "I've been named futurist of the year because I make the scariest predictions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Test me. Name any topic, and I'll make the scariest prediction you've ever heard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will I live a long life?",
+        "Yes."
+      ]
+    }
+  ]
+}

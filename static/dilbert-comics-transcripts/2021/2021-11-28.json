@@ -1,0 +1,54 @@
+{
+  "date": "2021-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm promoting you to vice president of the network audit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this a stealth way of firing me?",
+        "Gotta go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The audit will be done in three months."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I'll be the vice president of nothing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can eliminate the entire function and never have to confront me about why you fired me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But first you'll make me fire all of my staff before you fire me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You tried to misdirect my attention from your treachery with a bogus promotion that comes with no extra pay!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "In my defense, I didn't expect him to know any of that."
+      ]
+    }
+  ]
+}

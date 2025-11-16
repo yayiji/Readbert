@@ -1,0 +1,25 @@
+{
+  "date": "2011-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, my name is Burt Nount.",
+        "I started here yesterday.",
+        "Sneeze coming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaachooo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I gotta warn you, they come in threes."
+      ]
+    }
+  ]
+}

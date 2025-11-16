@@ -1,0 +1,25 @@
+{
+  "date": "1999-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I eliminate the training budget, I can afford to hire two more people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I'll have enough direct reports to get a vice president title."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shouldn't we have a strategy?",
+        "I have one.",
+        "Thanks for asking."
+      ]
+    }
+  ]
+}

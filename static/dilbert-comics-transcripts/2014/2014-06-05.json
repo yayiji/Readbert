@@ -1,0 +1,25 @@
+{
+  "date": "2014-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm rapidly evolving into a super-intelligent being with godlike powers.",
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zoink!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My allergies are bad today.",
+        "That's nothing!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2000-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you cross-charge your time to my budget?",
+        "I attended your meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All you did was sit there like a drunken monkey.",
+        "I want a refund.",
+        "Talk to my boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So it doesn't seem fair.",
+        "Ka-ching!"
+      ]
+    }
+  ]
+}

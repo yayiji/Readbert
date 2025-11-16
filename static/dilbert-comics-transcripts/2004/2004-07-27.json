@@ -1,0 +1,26 @@
+{
+  "date": "2004-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Dilbert!",
+        "How would you like to go to lunch?",
+        "Alone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Alone! Ha ha! But then you'd miss out on this great opportunity!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's multi-level marketing plus a diet plan suggested by the Bible!",
+        "Shoot me."
+      ]
+    }
+  ]
+}

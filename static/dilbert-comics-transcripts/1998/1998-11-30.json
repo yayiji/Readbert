@@ -1,0 +1,23 @@
+{
+  "date": "1998-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you're the first recipient of the motivational \"stone of quality.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It cost a thousand dollars to have it engraved. It's my way of saying \"thanks.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no weapon, but I found this cool motivational rock."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2011-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And we plan to bestshore the production.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We say bestshore now instead of offshore."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that because we never tried to pick the best shore until now?",
+        "Of course we tried to pick the best shore!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But we never succeeded because we're incompetent?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "All I'm saying is that some countries are better than others!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We're racists?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2007-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to kick off the project by assigning blame for its eventual failure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shouldn't we do that after the project is over?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see no reason to wait."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well...",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our boss will make us use the wrong vendor."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wally won't do any work. Alice will alienate the client, and Ted is generally worthless."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In summary, my excellent work will be rendered moot by nincompoops."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you even work here?",
+        "No, I was just in the neighborhood."
+      ]
+    }
+  ]
+}

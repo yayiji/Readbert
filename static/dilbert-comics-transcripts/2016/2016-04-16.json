@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My tests show we underperform our competition on nine out of eleven dimensions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give the two good ones to marketing. We can't be more honest than that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm almost certain we can.",
+        "No, we really can't."
+      ]
+    }
+  ]
+}

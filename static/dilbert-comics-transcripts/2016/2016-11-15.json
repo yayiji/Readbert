@@ -1,0 +1,30 @@
+{
+  "date": "2016-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The humidity is wrecking my hair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please don't stare."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't promise that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're staring!",
+        "I'm afraid to turn my back on it."
+      ]
+    }
+  ]
+}

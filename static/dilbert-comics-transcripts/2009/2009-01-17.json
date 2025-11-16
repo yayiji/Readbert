@@ -1,0 +1,25 @@
+{
+  "date": "2009-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have no project.",
+        "Do you need any help with yours?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. If I finish my project too soon, I might become like you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you make a different face when you imagine being like me?",
+        "I'm trying, but I can't."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2000-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you have a bad case of e-mail monkey-on-the-back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only cure is to deactivate your internet connection."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No problem.",
+        "Heh,",
+        "Heh."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I know you have a Palm VII strapped to your ankle."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any comments on the contract I emailed to you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Adjudicate the continuance of due diligence until an injunction repudiates the covenants."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping for comments that make sense.",
+        "You're thinking of a more expensive robot."
+      ]
+    }
+  ]
+}

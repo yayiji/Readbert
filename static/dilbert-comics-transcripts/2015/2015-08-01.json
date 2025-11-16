@@ -1,0 +1,25 @@
+{
+  "date": "2015-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Job interview",
+        "Tell me your process for solving this sort of problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would ignore it for a week and likely discover that it wasn't important in the first place."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it still matters after a week, I would hold fake job interviews and ask people how to solve it.",
+        "Apparently, that doesn't work."
+      ]
+    }
+  ]
+}

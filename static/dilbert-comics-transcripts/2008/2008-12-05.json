@@ -1,0 +1,23 @@
+{
+  "date": "2008-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a canary to warn us when our meetings are too boring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Canaries die of boredom before humans, so..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess he knew that."
+      ]
+    }
+  ]
+}

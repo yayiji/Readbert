@@ -1,0 +1,57 @@
+{
+  "date": "2020-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you available for a Zoom call?",
+        "Tap tap tap"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's typing something.",
+        "Nope, he stopped."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, he's typing again. No, he stopped again."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm available at 2 p.m. tomorrow, Thursday at 9 a.m., or next week any time after three, and now."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Perfect. How about now?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Answer coming.",
+        "No, he stopped typing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Answer me, you jerk!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Does now work?",
+        "Too late!!!"
+      ]
+    }
+  ]
+}

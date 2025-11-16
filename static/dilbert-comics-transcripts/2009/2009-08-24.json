@@ -1,0 +1,23 @@
+{
+  "date": "2009-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent the first part of the week installing our new productivity software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I used the rest of the week trying to make it interface with our time reporting system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So far all it can do is tell me how much time I'm wasting in this meeting."
+      ]
+    }
+  ]
+}

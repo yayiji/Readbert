@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I plan to add seven more layers of management between you and me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My goal is to lead the company without knowing anything about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds like a bad idea.",
+        "This sort of input is exactly what I'm trying to avoid."
+      ]
+    }
+  ]
+}

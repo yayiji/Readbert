@@ -1,0 +1,23 @@
+{
+  "date": "1990-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember, one of your duties as dog is to guard the house."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That might entail ripping intruders to bits with your teeth... or taking a bullet for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boy, all that and I get to drink out of the toilet too."
+      ]
+    }
+  ]
+}

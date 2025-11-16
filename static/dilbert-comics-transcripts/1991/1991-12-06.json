@@ -1,0 +1,26 @@
+{
+  "date": "1991-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know the difference between an electric razor and a toaster?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No??? Geez, it must take you a long time to shave.",
+        "Do you burn your face a lot?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought you were telling a joke.",
+        "How long have you had this problem?"
+      ]
+    }
+  ]
+}

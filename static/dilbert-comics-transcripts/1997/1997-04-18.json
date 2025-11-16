@@ -1,0 +1,26 @@
+{
+  "date": "1997-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, the company bought a life insurance policy on you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our plan is to raise your blood pressure to dangerous levels."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know that our CEO makes fifty times your salary even though our stock is down?",
+        "Ow!",
+        "Ow!",
+        "Ow!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2003-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who left their pen at my desk?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd better send a companywide e-mail to find out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's blue, with black ink. It's approximately one year old.",
+        "Send"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't believe you're wasting everyone's time with this!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Stop using the \"reply to all\" feature, you morons!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wait...I think this might be my pen. I'd better send a correction."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We missed a bid deadline because our e-mail system was overloaded.",
+        "Layoffs."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Send this list to human resources.",
+        "Do I look like I'm made of time?!!"
+      ]
+    }
+  ]
+}

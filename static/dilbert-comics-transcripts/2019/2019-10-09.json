@@ -1,0 +1,25 @@
+{
+  "date": "2019-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And this method will reduce costs by thirty percent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nice try, but I know your real scheme is to grab power."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not a good mind reader.",
+        "And yet I knew you would say I can't read minds.",
+        "Explain that."
+      ]
+    }
+  ]
+}

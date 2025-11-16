@@ -1,0 +1,30 @@
+{
+  "date": "2020-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I edited your incredibly complex document and sent it to you by email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see your highlighted changes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I forgot to turn on the edit tracker."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm going to accidentally delete your email.",
+        "That's probably how I'd play it too."
+      ]
+    }
+  ]
+}

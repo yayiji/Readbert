@@ -1,0 +1,24 @@
+{
+  "date": "2016-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's your mobile number in case I need to reach you while I'm babysitting your kids tonight?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My phone is already turned off so the kids don't ruin my date night by texting every ten minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if I'm prepared for tonight.",
+        "Did you get their address?"
+      ]
+    }
+  ]
+}

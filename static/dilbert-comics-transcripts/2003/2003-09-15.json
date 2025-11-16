@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Since I became project manager, no one has returned my calls or responded to my e-mails."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily, I'm an I.I.T. graduate, mentally superior to most people on earth, so I finished the project myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you tired?",
+        "I am trained to only sleep during national holidays."
+      ]
+    }
+  ]
+}

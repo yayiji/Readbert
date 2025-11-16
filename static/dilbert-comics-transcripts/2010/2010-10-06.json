@@ -1,0 +1,23 @@
+{
+  "date": "2010-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Dogbert will describe our \"poison pill\" strategy for preventing an unfriendly takeover."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It turns out that no one wants to buy a criminally mismanaged quagmire. So you're all set."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe next time you won't skip the pre-meeting."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1992-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's something else that's totally unimportant yet requires action."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll route it to a subordinate, thus inflating its perceived importance and destroying both morale and productivity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What luck, I got two copies!"
+      ]
+    }
+  ]
+}

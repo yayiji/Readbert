@@ -1,0 +1,58 @@
+{
+  "date": "2006-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I gave Tom his two weeks' notice. You'll have to do his job until I replace him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's a bit disgruntled, but I'm sure he'll be a professional and train you before he leaves."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was shocked and appalled to hear that you got fired.",
+        "Grrr",
+        "Grrr"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He isn't buying my fake sympathy",
+        "Grrr",
+        "Grrr"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sooo... how about a little training?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Everything you need is in this irreplaceable binder.",
+        "Chomp",
+        "Chomp",
+        "Chomp"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I probably won't get you a card."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

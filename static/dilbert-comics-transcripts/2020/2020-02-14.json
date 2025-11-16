@@ -1,0 +1,26 @@
+{
+  "date": "2020-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our pointy-haired boss told us to scrap our prototype and start over from scratch.",
+        "I"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was in that meeting and he said nothing like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should verify what he wants.",
+        "Or...",
+        "We could have a bias for action!"
+      ]
+    }
+  ]
+}

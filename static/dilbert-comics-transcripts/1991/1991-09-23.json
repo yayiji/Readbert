@@ -1,0 +1,24 @@
+{
+  "date": "1991-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Dogbert, the supreme ruler of Earth!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Worship me, you ignorant masses!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was practice.",
+        "Darn, now my eyes are stuck in zombie mode..."
+      ]
+    }
+  ]
+}

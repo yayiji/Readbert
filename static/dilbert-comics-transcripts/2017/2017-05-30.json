@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a doctor's note saying I have a chronic case of meeting narcolepsy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sit down.",
+        "We need to talk about this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zzzzzz"
+      ]
+    }
+  ]
+}

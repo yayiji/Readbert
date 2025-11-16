@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new company policy is to use \"they\" in place of offensive pronouns."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does anythey have a comment or question?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Anythey\"?",
+        "Don't fight it."
+      ]
+    }
+  ]
+}

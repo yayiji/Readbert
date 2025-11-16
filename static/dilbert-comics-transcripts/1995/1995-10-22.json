@@ -1,0 +1,57 @@
+{
+  "date": "1995-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This graphic shows our biggest obstacle to success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "?",
+        "?",
+        "?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you saying our biggest obstacle to success is poor graphics?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I think he's saying our biggest problem is his overall inability to communicate."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think his point goes beyond communication.",
+        "He's showing us that he doesn't even think clearly!",
+        "That's it!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "High five!!",
+        "You broke the code!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You know how I said you should participate more in meetings?",
+        "I didn't mean it."
+      ]
+    }
+  ]
+}

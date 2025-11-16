@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the flash drive with our anti-encryption software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't let it get into the wrong hands or it will eliminate all privacy on Earth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you understand?",
+        "Blah, blah, software."
+      ]
+    }
+  ]
+}

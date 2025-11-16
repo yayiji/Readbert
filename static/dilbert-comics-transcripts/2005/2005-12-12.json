@@ -1,0 +1,25 @@
+{
+  "date": "2005-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I ran six miles even though I was sore.",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I broke my leg and hopped all the way to work this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You hopped 40 miles on your one good leg?",
+        "On the broken one."
+      ]
+    }
+  ]
+}

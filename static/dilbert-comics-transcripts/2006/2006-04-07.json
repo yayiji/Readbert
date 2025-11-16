@@ -1,0 +1,23 @@
+{
+  "date": "2006-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You said it was a team-building exercise and you left me in the middle of the desert to die!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shake it off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You wouldn't think that would work, but it does!"
+      ]
+    }
+  ]
+}

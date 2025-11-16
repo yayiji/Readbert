@@ -1,0 +1,53 @@
+{
+  "date": "1996-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In this two day workshop, you will learn to embrace our company's mission and vision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At first glance it will appear to be a bunch of useless jargon created by functionally illiterate executives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But after we do some mind-numbing group exercises..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...You'll forget that you're underpaid and you have no job security."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We'll begin by writing down all the things that \"ethical behavior\" means to you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I've got a better idea: if you let us leave now, we'll give you high marks on the class evaluation."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Good job.",
+        "You touched me.",
+        "You wish."
+      ]
+    }
+  ]
+}

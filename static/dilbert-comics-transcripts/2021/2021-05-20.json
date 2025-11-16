@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our stock plunged 30% because you spoke out on a political issue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one can silence my voice when I see a great injustice!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This will cost you your entire bonus of $10 million.",
+        "What if I agree to never speak again?"
+      ]
+    }
+  ]
+}

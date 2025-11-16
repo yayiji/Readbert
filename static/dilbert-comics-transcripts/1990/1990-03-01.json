@@ -1,0 +1,26 @@
+{
+  "date": "1990-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a picture of my uncle just before he was drafted.",
+        "He was awarded eleven purple hearts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He was wounded eleven times?!",
+        "Uncle William insisted that his friends call him \"Will\"..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, men,",
+        "fire at will!!"
+      ]
+    }
+  ]
+}

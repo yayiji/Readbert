@@ -1,0 +1,54 @@
+{
+  "date": "2003-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert, the evil director of human resources",
+        "Your 401k retirement plan will be replaced with a 401a plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The \"a\" stands for afterlife."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll get no money in this life, but the company will reward you in the afterlife."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The odds of that happening seem low."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yes, but on an expected-value basis, a high potential reward compensates for low odds."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "For example, how many free software upgrades would I need to promise you in the afterlife to make you work yourself to death this year?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Seventy versions."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I resisted his charisma, but he got me with his math."
+      ]
+    }
+  ]
+}

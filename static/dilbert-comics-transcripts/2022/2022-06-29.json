@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to our internal polling, the public doesn't trust us to make electronic voting machines."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We plan to fix that by rigging voting machines to elect politicians who will tell people there's nothing to worry about."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't people trust us?",
+        "I was wondering the same thing."
+      ]
+    }
+  ]
+}

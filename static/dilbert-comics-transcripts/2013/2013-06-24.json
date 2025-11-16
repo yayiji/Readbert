@@ -1,0 +1,23 @@
+{
+  "date": "2013-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll need to mail me the original signature page after everyone signs it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. I'll use my time machine to go back to an era in which mailing original signatures made some kind of sense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if there will ever be a way to send images over the telegraph system."
+      ]
+    }
+  ]
+}

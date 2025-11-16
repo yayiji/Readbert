@@ -1,0 +1,25 @@
+{
+  "date": "1995-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project status is \"yellow light.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In user tests we found that the product locks up every twelve seconds.",
+        "The interface is incomprehensible and the manual is pure fiction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it's clear what we need to do...",
+        "Ship it and hope somebody writes a \"dummies\" book about it?"
+      ]
+    }
+  ]
+}

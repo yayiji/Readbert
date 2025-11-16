@@ -1,0 +1,33 @@
+{
+  "date": "1989-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pun wars: How they start.",
+        "I'm feeling a little hoarse.",
+        "Horse?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Escalation is inevitable.",
+        "Maybe you got a colt.",
+        "Are you gelding a fever?",
+        "Hope you filly better.",
+        "I need some cough stirrup.",
+        "It's mare-ly a sore throat.",
+        "Uh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In the end, nobody wins.",
+        "You're ugly!",
+        "I win."
+      ]
+    }
+  ]
+}

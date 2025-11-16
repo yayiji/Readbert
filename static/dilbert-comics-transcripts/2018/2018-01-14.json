@@ -1,0 +1,57 @@
+{
+  "date": "2018-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have lunch plans?",
+        "Aren't you married?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not asking you out on a date.",
+        "I'm trying to network."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The optics wouldn't be good."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How am I supposed to network in this stupid company?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe you could network with other women."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This company has no women in management!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now I see the problem.",
+        "It's people like you!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it my imagination or was she flirting with me?",
+        "I can't tell."
+      ]
+    }
+  ]
+}

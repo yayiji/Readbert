@@ -1,0 +1,53 @@
+{
+  "date": "1996-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This voice-mail message is for the whole department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every morning from now on you'll get my \"quality thought of the day.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today's thought is... um..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's see... according to Webster's dictionary..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Aardvark is a burrowing African mammal that eats ants."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What if we were more like that?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I mean like the aardvark, not the ants..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's weird. Every time I leave my quality thought of the day, the shared printer starts spewing résumés."
+      ]
+    }
+  ]
+}

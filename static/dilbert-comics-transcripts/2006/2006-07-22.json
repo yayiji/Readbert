@@ -1,0 +1,25 @@
+{
+  "date": "2006-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know where Asok is?",
+        "No, I do not!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you think it's my job to know the location of all employees? Do you? Do you? Do you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you seen Alice?",
+        "Gaaa!!! My hair is on fire!!"
+      ]
+    }
+  ]
+}

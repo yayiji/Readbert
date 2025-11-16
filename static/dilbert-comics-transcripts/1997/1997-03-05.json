@@ -1,0 +1,27 @@
+{
+  "date": "1997-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "Your strategy options can be shown in this matrix."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The four boxes are \"something... something... some other thing and whatever.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In phase two I hope to turn this matrix into concentric",
+        "I'm under the consul-",
+        "circles with labels and arrows.",
+        "tant's spell."
+      ]
+    }
+  ]
+}

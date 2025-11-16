@@ -1,0 +1,25 @@
+{
+  "date": "2005-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How does my project fit into our company's overall strategy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Beats me.",
+        "I didn't even know we had a strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never ask a question if you don't want to hear the answer.",
+        "That's why I never say \"how are you?\""
+      ]
+    }
+  ]
+}

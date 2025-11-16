@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My home garbage has not been picked up in three weeks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because our garbage collectors are working from home now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... should I bring my garbage to their homes?",
+        "Fine with me."
+      ]
+    }
+  ]
+}

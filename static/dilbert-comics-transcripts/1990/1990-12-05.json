@@ -1,0 +1,26 @@
+{
+  "date": "1990-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our egg is starting to hatch!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "C'mon egg! Push! You can do it by yourself!!",
+        "Kick it! Kick it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we help?",
+        "No, it's an important lesson on life.",
+        "So far it stinks."
+      ]
+    }
+  ]
+}

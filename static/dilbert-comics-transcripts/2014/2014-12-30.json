@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I only wear tube clothes now because it reduces my number of daily decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean decisions such as... where to go on a date?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I don't see that coming up.",
+        "I'm still fine-tuning the system."
+      ]
+    }
+  ]
+}

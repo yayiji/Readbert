@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the data throughput tests, but the results are not credible because of a problem with the test."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does the non-credible data make us look good?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes.",
+        "Our name for that kind of data is \"credible.\""
+      ]
+    }
+  ]
+}

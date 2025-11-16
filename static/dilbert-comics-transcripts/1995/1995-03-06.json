@@ -1,0 +1,24 @@
+{
+  "date": "1995-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you explain why you're a week behind schedule?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your poor leadership has drained me of the enthusiasm that is necessary to succeed. But it's not completely your fault."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Frankly, your parents have to accept some responsibility for creating you.",
+        "Even if they were drunk?"
+      ]
+    }
+  ]
+}

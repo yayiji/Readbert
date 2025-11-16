@@ -1,0 +1,26 @@
+{
+  "date": "2022-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your day?",
+        "My ceo pushed me off the roof to prevent me from being a whistleblower."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I landed on a window washer's platform and used my phone to hack a fleet of commercial drones to carry me to safety."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess you'll be quitting that job.",
+        "Why?",
+        "That was my best day of work so far."
+      ]
+    }
+  ]
+}

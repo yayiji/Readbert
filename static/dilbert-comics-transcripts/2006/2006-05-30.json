@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I'm out-sourcing your job to India.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I moved here from India to take this job! Now I'll have to go back!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell Sandeep I need some photocopies."
+      ]
+    }
+  ]
+}

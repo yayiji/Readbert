@@ -1,0 +1,55 @@
+{
+  "date": "1996-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an ethical question, Dogbert.",
+        "I'm here to help."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it better to give customers a low quality product in a timely fashion..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or is it better to lie about product availability until the bugs are fixed?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I will need my assistant, Ratbert, to address your ethical question.",
+        "Snap"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's say Ratbert is a trusting and innocent customer."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Suppose somebody abuses his trust like this...",
+        "Smack"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How does this relate to my situation?",
+        "To be honest, I wasn't listening to you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2011-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The media is asking if you'll take the pledge to give your fortune to charity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That pledge is for billionaires! I only have $200 million to leave to my heir!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On a semi-related note, find out who keeps putting monkey DNA in my clone's test tube."
+      ]
+    }
+  ]
+}

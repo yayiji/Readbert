@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do I have your permission to work smarter and not harder?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... sure.",
+        "That sounds like a good thing to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But how would I know you were working?",
+        "I don't even know if I'm working right now."
+      ]
+    }
+  ]
+}

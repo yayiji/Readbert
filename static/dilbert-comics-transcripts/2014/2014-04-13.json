@@ -1,0 +1,57 @@
+{
+  "date": "2014-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No one \"likes\" my Facebook posts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many Facebook friends do you have?",
+        "Seven."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are they all close friends?",
+        "How do you define \"close\"?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Have you ever invited any of these people to your house?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why would I do that?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't fix your problem. So instead, I'll plant some false memories and try to fix those later."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you remember being a robot that was designed by aliens?",
+        "No."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you sure?",
+        "I was."
+      ]
+    }
+  ]
+}

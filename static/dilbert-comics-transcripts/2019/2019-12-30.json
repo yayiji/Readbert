@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We canceled the meeting because we couldn't find a time for the pre-meeting to prepare for the meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Doesn't the pre-meeting need its own pre-meeting?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good point.",
+        "Sarcasm and reality have become one."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1992-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made some pants out of the clothes in your dresser."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bad robot!! I want you to tell me why what you did was wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not wrong. I remembered to make underpants out of the drapes."
+      ]
+    }
+  ]
+}

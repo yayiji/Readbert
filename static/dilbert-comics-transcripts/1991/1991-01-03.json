@@ -1,0 +1,23 @@
+{
+  "date": "1991-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our town hasn't had a murder since 1957."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're safe forever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're due."
+      ]
+    }
+  ]
+}

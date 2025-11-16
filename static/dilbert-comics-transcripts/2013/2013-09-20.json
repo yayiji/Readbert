@@ -1,0 +1,23 @@
+{
+  "date": "2013-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's taking you so long on the project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The application is unstable because the data model is driven by an overly complex relational database and there was no integration testing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does any of that mean the same thing as \"lazy\"?"
+      ]
+    }
+  ]
+}

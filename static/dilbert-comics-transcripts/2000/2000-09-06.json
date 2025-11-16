@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, I hear you're a single-cell organism."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's up with that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The new guy is rolling into a ball and shedding water.",
+        "Been there."
+      ]
+    }
+  ]
+}

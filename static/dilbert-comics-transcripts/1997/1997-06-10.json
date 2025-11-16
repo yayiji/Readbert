@@ -1,0 +1,27 @@
+{
+  "date": "1997-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you'll work with \"Kenny the sales-weasel\" on our biggest prospect."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell me all of our product's technical specs on the way.",
+        "I like to be prepared."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our product is beige.",
+        "It uses electricity.",
+        "Whoa!",
+        "Brain overload!"
+      ]
+    }
+  ]
+}

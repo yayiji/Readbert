@@ -1,0 +1,26 @@
+{
+  "date": "1991-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a super hero suit for myself.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You never know when you might accidentally acquire super powers.",
+        "It happens all the time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This way, my identity can remain a secret.",
+        "I suddenly see why that's so important."
+      ]
+    }
+  ]
+}

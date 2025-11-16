@@ -1,0 +1,25 @@
+{
+  "date": "2007-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Give me a list of all the software and hardware you're using."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now sit there like a sheep while I randomly select a product from the list and tell you it's the problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I know it isn't?",
+        "That will matter less than you'd imagine."
+      ]
+    }
+  ]
+}

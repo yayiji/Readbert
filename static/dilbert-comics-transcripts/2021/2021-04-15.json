@@ -1,0 +1,23 @@
+{
+  "date": "2021-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just talked to Ted, and he says your project plan is not feasible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think you mean he mischaracterized my plan and then stabbed me in the back when I wasn't there to defend it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He said you'd say that."
+      ]
+    }
+  ]
+}

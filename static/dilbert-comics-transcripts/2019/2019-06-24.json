@@ -1,0 +1,23 @@
+{
+  "date": "2019-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for ideas on how to reduce turnover."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could increase our pay and stop thwarting our chances for success at every turn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll ask someone else."
+      ]
+    }
+  ]
+}

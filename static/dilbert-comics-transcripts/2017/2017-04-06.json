@@ -1,0 +1,26 @@
+{
+  "date": "2017-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're dating our office robot.",
+        "Stop judging me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not judging you.",
+        "Good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm judging the robot.",
+        "Ouch."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A wise person once said you can't boil an egg with a stick."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I can threaten you with a stick unless you boil an egg for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why didn't the wise person think of that?",
+        "He sounds over-rated."
+      ]
+    }
+  ]
+}

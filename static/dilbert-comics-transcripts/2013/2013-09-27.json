@@ -1,0 +1,26 @@
+{
+  "date": "2013-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My therapist says I have low self-esteem.",
+        "I like where this is heading."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm drawn to guys who treat me poorly.",
+        "You sound crazy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Jerk.",
+        "In my defense, you send mixed signals."
+      ]
+    }
+  ]
+}

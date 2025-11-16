@@ -1,0 +1,56 @@
+{
+  "date": "2000-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Which presidential candidate do you like?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I strongly favor the one with the funny hair.",
+        "I forgot his name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "His social policies are the exact opposite of your views.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, I like his tax plan."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Every credible economist thinks it's a bad plan.",
+        "Oh"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's a good thing we talked before you polluted the system with your vote."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you want to make out?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "She claimed to like intelligent men but she lied."
+      ]
+    }
+  ]
+}

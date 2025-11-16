@@ -1,0 +1,26 @@
+{
+  "date": "1992-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The president of Elbonia asked me to negotiate an end to their civil war.",
+        "Why you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No doubt he was impressed by my diplomacy when I was an economic advisor...",
+        "I just wish I didn't have to fly on Elbonia airlines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Elbonia",
+        "...At his weight, we calculate that Elbonia airlines will fling him right on the rebel leader."
+      ]
+    }
+  ]
+}

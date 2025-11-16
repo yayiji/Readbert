@@ -1,0 +1,54 @@
+{
+  "date": "1998-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to document your procedures, it's an ISO 9000 requirement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... the engineers submit their time cards and then you do what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I put them in a pile until I'm sure they're all here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I move them to the magic cylinder.",
+        "The trash can?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, it's a magic cylinder. I put my work in there and by morning it's gone."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I've been giving you my time cards for five years."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No one has complained yet."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "After today, I am not rounding to the nearest fifteen minutes."
+      ]
+    }
+  ]
+}

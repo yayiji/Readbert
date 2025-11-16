@@ -1,0 +1,26 @@
+{
+  "date": "2002-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, would you read the minutes from our last meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People said irrelevant things.",
+        "Bad decisions were made.",
+        "Men are idiots."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't remember that last part.",
+        "It was implied."
+      ]
+    }
+  ]
+}

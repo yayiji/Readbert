@@ -1,0 +1,24 @@
+{
+  "date": "2012-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you ever think that getting that face tattoo might be a bad career move?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. Was there ever a time you thought overeating was a bad idea?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because people can see that.",
+        "You don't interview well."
+      ]
+    }
+  ]
+}

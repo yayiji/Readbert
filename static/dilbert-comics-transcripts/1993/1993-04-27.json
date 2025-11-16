@@ -1,0 +1,24 @@
+{
+  "date": "1993-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For only twenty-five thousand dollars I've eliminated many tedious and time-consuming processes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would be an example of one of those tedious and time-consuming processes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, there was the process of sitting around and wishing I had more computer stuff...",
+        "Next time don't ask."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2013-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, why did you send me a link about people who like to dress in animal costumes?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's called the furry lifestyle. I thought you might want to try it out.",
+        "I'll take a look."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your end game?",
+        "If the furry thing sticks I'll try to get him to go on a safari."
+      ]
+    }
+  ]
+}

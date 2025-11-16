@@ -1,0 +1,23 @@
+{
+  "date": "2009-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You want a raise? I have one word for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Goink!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love having a new favorite word."
+      ]
+    }
+  ]
+}

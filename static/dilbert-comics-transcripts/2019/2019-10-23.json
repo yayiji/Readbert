@@ -1,0 +1,30 @@
+{
+  "date": "2019-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can tell by your body language that you want me to fail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I want you to fail?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not denying it!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, now I want you to fail.",
+        "You're a monster!"
+      ]
+    }
+  ]
+}

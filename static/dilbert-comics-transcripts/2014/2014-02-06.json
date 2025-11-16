@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Alice. You need to know two things about her."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When she feels stressed-out she gets angry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell him the second thing!",
+        "She's always stressed-out."
+      ]
+    }
+  ]
+}

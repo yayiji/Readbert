@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a search engine that's also a singles matching service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It automatically matches singles who search for the same keywords."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then it threatens to e-mail those keywords to their mothers if they don't agree to date.",
+        "I have taught you well."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2016-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to simplify that slide.",
+        "Did you understand it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes.",
+        "Then why do you think smart people will be confused?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if that was an insult.",
+        "Ask a smart person."
+      ]
+    }
+  ]
+}

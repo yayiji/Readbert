@@ -1,0 +1,26 @@
+{
+  "date": "2017-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to lodge a complaint against Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He called me a \"resource.\"",
+        "I find that offensive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then he offended one of the resources.",
+        "You're right.",
+        "He does sound like a natural leader."
+      ]
+    }
+  ]
+}

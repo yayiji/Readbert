@@ -1,0 +1,25 @@
+{
+  "date": "2000-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yikes! Our CEO is selling his stock!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry.",
+        "It's routine diversification of his portfolio."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh... I guess that's okay.",
+        "Sell, sell, sell."
+      ]
+    }
+  ]
+}

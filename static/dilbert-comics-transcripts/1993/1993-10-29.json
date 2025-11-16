@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hoo-boy! I hope you're not going to show this to anybody."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, it's obviously a first draft. By now you've run it through the spelling checker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technologists are concerned with ideas, not spelling.",
+        "Well, since you brought it up..."
+      ]
+    }
+  ]
+}

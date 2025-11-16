@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to go help Alice on her project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you tried working harder?",
+        "Sometimes that works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope she doesn't become dependent on my help."
+      ]
+    }
+  ]
+}

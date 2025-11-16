@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need some data from an unreachable guy named Ed. What should I do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just make up a bunch of data like everyone else does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everyone else does that?",
+        "Are you doubting my data?"
+      ]
+    }
+  ]
+}

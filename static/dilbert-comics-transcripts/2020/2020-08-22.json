@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our 5G test accidentally opened a doorway to the demon world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's keep that to ourselves so we don't spook the public."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't tell me. Tell Daryll.",
+        "Hey, nice world you have here."
+      ]
+    }
+  ]
+}

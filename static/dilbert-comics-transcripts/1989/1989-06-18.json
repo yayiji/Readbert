@@ -1,0 +1,43 @@
+{
+  "date": "1989-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert!",
+        "Dogbert!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Come here quickly!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My computer simulation has discovered the chemical that causes love!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Apparently, it deactivates the parts of the brain responsible for critical thought and eating."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wow! You can inject people with that chemical and make them fall in love!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I was thinking more along the lines of a cure...",
+        "Oh, like marriage."
+      ]
+    }
+  ]
+}

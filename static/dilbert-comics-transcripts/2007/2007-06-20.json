@@ -1,0 +1,25 @@
+{
+  "date": "2007-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the green consultant",
+        "Try ramming your SUV into hybrid cars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That should stop them from using fuel altogether."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't save the earth unless you're willing to make other people sacrifice.",
+        "I'm in."
+      ]
+    }
+  ]
+}

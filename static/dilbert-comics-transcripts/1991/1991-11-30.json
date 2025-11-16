@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Dogbert, do you realize that if confirmed for the Supreme Court..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It would be improper to pursue your stated goal of conquering the world and enslaving all humans?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You withdrew?",
+        "Apparently there are all these \"unwritten\" rules."
+      ]
+    }
+  ]
+}

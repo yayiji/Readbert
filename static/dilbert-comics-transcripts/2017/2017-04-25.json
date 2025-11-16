@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our greatest strength is our company culture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's our company culture?",
+        "Give us a hint."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're fiercely competitive.",
+        "Do we hide it because we're also modest?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You reported COVID-19 symptoms, so we have to quarantine you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have symptoms. I just said I did to avoid a meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, you probably have it now. I haven't washed this hazmat suit in five months."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2020-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is there anything you plan to do in this meeting that we couldn't have done more easily by email?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hugs?",
+        "Send me an e-card."
+      ]
+    }
+  ]
+}

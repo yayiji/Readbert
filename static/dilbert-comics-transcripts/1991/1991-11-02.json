@@ -1,0 +1,28 @@
+{
+  "date": "1991-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is your milkshake too thick, Bob?",
+        "Suck",
+        "suck",
+        "suck suck"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here, try a spoon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suck",
+        "suck",
+        "suck suck"
+      ]
+    }
+  ]
+}

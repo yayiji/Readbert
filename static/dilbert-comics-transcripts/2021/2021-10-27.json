@@ -1,0 +1,23 @@
+{
+  "date": "2021-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We ask applicants to sign a non-disclosure agreement before we do our interviews."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This was the interview. Your company failed. I don't want to work for a company that requires non-disclosure agreements."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was too good for us."
+      ]
+    }
+  ]
+}

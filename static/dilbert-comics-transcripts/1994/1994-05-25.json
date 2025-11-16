@@ -1,0 +1,23 @@
+{
+  "date": "1994-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm canceling your project so I can give your funding to a project that has a much cooler acronym."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha! The joke's on you! I anticipated this move from the beginning and have done nothing but carry empty binders for weeks!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Being good at your job is less fulfilling than you might think, Dogbert."
+      ]
+    }
+  ]
+}

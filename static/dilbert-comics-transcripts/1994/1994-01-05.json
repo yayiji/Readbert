@@ -1,0 +1,24 @@
+{
+  "date": "1994-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're flattening the organization to eliminate levels and put everybody in a wide salary band."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now instead of not getting a promotion you'll only not get a raise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, what job title do we use?",
+        "You'll all be named Beverly."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you didn't e-mail me your project status.",
+        "Did you check your spam folder?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you should check there before you besmirch my good name with your baseless accusations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you send it?",
+        "Okay, I see how you're trying to turn this all around."
+      ]
+    }
+  ]
+}

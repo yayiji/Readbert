@@ -1,0 +1,25 @@
+{
+  "date": "2006-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our sales guy vastly underbid a job.",
+        "Now it's my project to install the system in a way that's profitable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Blame your customer for underspecifying the features then charge her through the nose for change orders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Three million dollars for an electrical plug?",
+        "The base model uses a potato battery."
+      ]
+    }
+  ]
+}

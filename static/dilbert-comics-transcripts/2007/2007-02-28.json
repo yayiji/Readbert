@@ -1,0 +1,32 @@
+{
+  "date": "2007-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They found asbestos in our ceiling.",
+        "We're all in danger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I must use my telekinesis to remove the asbestos.",
+        "Gaaa!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The threat has been neutralized.",
+        "You must never ask me how it was done."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm not even curious."
+      ]
+    }
+  ]
+}

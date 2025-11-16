@@ -1,0 +1,23 @@
+{
+  "date": "2000-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the project plan without your input."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You would have lied to me anyway, so I just skipped that step."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've already assigned blame for failure, but don't worry, it's just preliminary."
+      ]
+    }
+  ]
+}

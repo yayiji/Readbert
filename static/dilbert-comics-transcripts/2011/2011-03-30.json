@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm ready to hold a press conference to introduce my cold fusion breakthrough."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All you did is put a lightbulb in a jar.",
+        "I can see the wires plugged into the outlet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have a low opinion of people.",
+        "I considered using a jar with frosted glass, but it seemed like overkill."
+      ]
+    }
+  ]
+}

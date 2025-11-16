@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our product comes in 27 models with over 9,000 options."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Given my limited time to study the options, you have guaranteed that I will make a sub-optimal choice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks for making me a failure.",
+        "Well, it's not really \"selling\" if we both win."
+      ]
+    }
+  ]
+}

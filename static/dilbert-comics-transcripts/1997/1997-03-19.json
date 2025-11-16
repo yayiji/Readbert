@@ -1,0 +1,24 @@
+{
+  "date": "1997-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I think I'm developing a crush on Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that so wrong?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently it is.",
+        "I have a report of a tech writer desiring an engineer."
+      ]
+    }
+  ]
+}

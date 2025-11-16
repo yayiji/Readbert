@@ -1,0 +1,57 @@
+{
+  "date": "2012-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations! I'm naming you project leader."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As such, you are entitled to a cubicle that is three inches wider than standard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like the one I have.",
+        "You don't have a choice."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It is critical that we maintain the integrity of the status system."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Otherwise our CEO will look like a jerk for having a private bathroom with a trained falcon as a toilet paper holder."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Fine. Where's my larger cubicle?",
+        "Here's the awkward part."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We don't have one.",
+        "I need you to lose weight until it looks as if your cubicle is larger."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And if I don't?",
+        "The falcon needs an assistant."
+      ]
+    }
+  ]
+}

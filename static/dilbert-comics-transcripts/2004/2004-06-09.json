@@ -1,0 +1,26 @@
+{
+  "date": "2004-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I ask you a question?",
+        "Silence, fool!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Alert the patent office that I am about to begin.",
+        "They might want to increase staff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should turn on your computer.",
+        "I don't do hardware."
+      ]
+    }
+  ]
+}

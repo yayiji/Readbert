@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carl, I hired you because you are tall, but now it doesn't matter because everyone looks the same height on Zoom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your height advantage has disappeared, so today will be your last day with the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe instead you could cut my pay to the same level as short people.",
+        "That just might work."
+      ]
+    }
+  ]
+}

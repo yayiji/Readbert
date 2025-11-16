@@ -1,0 +1,27 @@
+{
+  "date": "2007-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I have some good ideas about your project.",
+        "Gaaa! Why me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why must I suffer your ideas? Why, why, why?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not a good listener.",
+        "Shoot me!",
+        "Shoot me!",
+        "Shoot me!"
+      ]
+    }
+  ]
+}

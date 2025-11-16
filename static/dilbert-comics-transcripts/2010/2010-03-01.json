@@ -1,0 +1,23 @@
+{
+  "date": "2010-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Victor didn't leave us much documentation on his project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fzeet!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess that's what he meant by \"still working on the goat head issue.\""
+      ]
+    }
+  ]
+}

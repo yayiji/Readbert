@@ -1,0 +1,26 @@
+{
+  "date": "1992-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to Washington to be an economic advisor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll recommend a tax rebate for all dogs.",
+        "It's the only fair way to stimulate the economy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a selfish ploy to line your pockets at the expense of others.",
+        "Potato,",
+        "Po-tah-to..."
+      ]
+    }
+  ]
+}

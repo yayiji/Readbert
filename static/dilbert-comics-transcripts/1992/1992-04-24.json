@@ -1,0 +1,25 @@
+{
+  "date": "1992-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mphf! Aack!",
+        "Cough! Hmp!",
+        "Gurgle!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you're pretending to choke to death to end our date early, it won't work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Like I haven't seen that trick a jillion times."
+      ]
+    }
+  ]
+}

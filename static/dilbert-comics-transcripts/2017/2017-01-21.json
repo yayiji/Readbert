@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did you accomplish this month?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I made a lot of progress on the secret red file project that you gave me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remind me what project that is.",
+        "You made me promise I wouldn't tell you."
+      ]
+    }
+  ]
+}

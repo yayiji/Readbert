@@ -1,0 +1,24 @@
+{
+  "date": "1990-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news: the \"all-you-can-eat\" salad bar joint just decided to stay open twenty-four hours a day!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can get a table by the window and live there for the rest of our lives - for only $5.95 apiece!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would we bathe?",
+        "They have little \"moist towelettes.\""
+      ]
+    }
+  ]
+}

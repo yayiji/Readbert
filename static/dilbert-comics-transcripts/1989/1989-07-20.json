@@ -1,0 +1,25 @@
+{
+  "date": "1989-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So Dawn here is a nobody-saurus, and Bob, you say you're a thesaurus?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! No, the \"Thesaurus\" line is just an old dinosaur joke.",
+        "Hee hee!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bet you were a riot in the Mesozoic era.",
+        "Eat him, Bob."
+      ]
+    }
+  ]
+}

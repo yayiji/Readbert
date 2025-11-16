@@ -1,0 +1,55 @@
+{
+  "date": "2021-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You did a great job on your project, Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you.",
+        "You are most welcome."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait. Why do I have a sense of dread and foreboding?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It isn't like you to give out generous compliments."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This feels like a trap. You're lulling me into a false sense of security."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You plan to sabotage my career to make yourself look better by comparison."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You monster!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's this all about?",
+        "That worked out."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1996-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to replace our computer support systems with the Elbonian database product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's risky, but don't worry. I've hired an outrageously expensive consultant who has never done this before."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I earned five hundred dollars just coming to this meeting.",
+        "How's your day going?",
+        "It won't make my top ten."
+      ]
+    }
+  ]
+}

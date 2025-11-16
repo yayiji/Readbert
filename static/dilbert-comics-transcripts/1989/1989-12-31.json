@@ -1,0 +1,38 @@
+{
+  "date": "1989-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Put on your party hat, Dogbert. It's almost 1990."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any new year's resolutions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A few..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I resolve to show no tolerance for those less fortunate...",
+        "Redefine morality to suit my short term objectives...",
+        "And conquer the planet Earth and make all the inhabitants my slaves."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't think you've captured the spirit of this resolution thing.",
+        "You're just jealous because I took all the good ones."
+      ]
+    }
+  ]
+}

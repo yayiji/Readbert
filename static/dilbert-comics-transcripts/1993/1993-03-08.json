@@ -1,0 +1,27 @@
+{
+  "date": "1993-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just read that a new computer chip is on the market.",
+        "Your machine is out of date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're behind the curve.",
+        "Technology is racing ahead without you.",
+        "You're no longer state-of-the-art or leading edge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes people like you can get jobs in museums.",
+        "I bought this thing yesterday!!"
+      ]
+    }
+  ]
+}

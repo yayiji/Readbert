@@ -1,0 +1,26 @@
+{
+  "date": "2002-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Human resources is sending a designated firer to do layoffs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If a stranger approaches your cubicle, it means you're toast!",
+        "Gaaa!!!",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hell-o-o-o, Carol.",
+        "Can you show me where Ted sits?"
+      ]
+    }
+  ]
+}

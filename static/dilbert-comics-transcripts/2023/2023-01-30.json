@@ -1,0 +1,24 @@
+{
+  "date": "2023-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The college of psychologists of Ontario says they will pull my license unless I surrender to a reeducation camp."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't live in Canada, and you don't have a license to practice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They are oddly aggressive for Canadians.",
+        "Sounds like a mental disorder."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2001-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm fired?!",
+        "Now I can't pay my rent!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would it be okay if I lived here in my cubicle?",
+        "I don't see why not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I have fires and become a cannibal?",
+        "Well, I might regret this later..."
+      ]
+    }
+  ]
+}

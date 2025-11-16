@@ -1,0 +1,26 @@
+{
+  "date": "2021-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love you.",
+        "You do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, not you.",
+        "I was talking to my wife, who is off camera."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one loves you.",
+        "This was my longest relationship."
+      ]
+    }
+  ]
+}

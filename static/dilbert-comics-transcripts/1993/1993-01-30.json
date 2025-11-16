@@ -1,0 +1,27 @@
+{
+  "date": "1993-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like a man who isn't afraid to cry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Waah! Waah!",
+        "The prices here are so high!",
+        "Waah! Waah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not working.",
+        "She tricked me.",
+        "I'll just have water, I think."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2013-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I assigned three more engineers to help on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One is on paternity leave, one is in the hospital, and one doesn't start for another month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If there's anything else you need, please hesitate to ask."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1992-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Vegetarians, we must march to the capitol to protest the killing of animals!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a mile away.",
+        "Can we drive instead?",
+        "Or maybe write letters?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never lead a revolution of people who only own plastic and wooden shoes.",
+        "I try to avoid it."
+      ]
+    }
+  ]
+}

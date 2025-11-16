@@ -1,0 +1,56 @@
+{
+  "date": "2018-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you achieve your goals this quarter?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sure did!",
+        "Best quarter ever!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really? I wasn't expecting that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What kind of manager has no faith in his employees?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You need to trust me to do what needs to be done."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um, okay. So...",
+        "Which goals did you accomplish?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You also need to trust your employees when they say they accomplished their goals."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think I see where this is going.",
+        "I was hoping you wouldn't."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to announce that we launched our company's spaceship to Mars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We only had enough in the budget to give them oxygen for three-quarters of the trip."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I told them to breathe smarter, not harder.",
+        "It's called leadership."
+      ]
+    }
+  ]
+}

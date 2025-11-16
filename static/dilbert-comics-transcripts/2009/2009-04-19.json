@@ -1,0 +1,57 @@
+{
+  "date": "2009-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought a new phone. It was only $50 after rebate.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see what the terms of the rebate..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Foom!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I am Rebaterus.",
+        "You must pass five tests before your rebate will be authorized."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You must wait 30 days without losing or accidentally discarding the rebate forms, the receipt, and the box."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You must figure out which of the several unlabeled codes on the box is the real rebate code.",
+        "Some numbers look like letters."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You must write that code into a space designed for a code half as long."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Just keep my money!!!",
+        "Dude, we spent it before you left the store."
+      ]
+    }
+  ]
+}

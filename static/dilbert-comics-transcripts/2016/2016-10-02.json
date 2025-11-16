@@ -1,0 +1,53 @@
+{
+  "date": "2016-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the best way to invest these days?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Penny stocks are the best value because they only cost a penny."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! I hate overhearing bad advice!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I were you, I'd take out a second mortgage and load up."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't want to get involved, but I'll feel bad if I don't!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You'll get reliable stock-picking advice from strangers on television."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Run! Cover your ears and run!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If it makes you feel any less awkward, I don't know what to do now, either."
+      ]
+    }
+  ]
+}

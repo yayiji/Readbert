@@ -1,0 +1,57 @@
+{
+  "date": "1996-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our pointy-haired boss will be joining us by speakerphone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is an important part of your engineering training, Asok.",
+        "What do I do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When Alice presses the mute button, you make witty and sarcastic remarks.",
+        "Ring ring"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hello, everyone.",
+        "I'd like to talk about the new compensation plan."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Tell us some lies, you ugly, two-faced, hypocritical troll!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I am Asok the intern and I spit on your feeble compensation plan!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've found stuff on the bottom of my shoe that was smarter than you!!",
+        "Ha ha ha !!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next time, a bit wittier... and make sure Alice really presses the mute button."
+      ]
+    }
+  ]
+}

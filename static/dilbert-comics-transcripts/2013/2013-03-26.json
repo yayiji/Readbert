@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your leadership made our robot disgruntled."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His warranty only covers water damage and mechanical failure.",
+        "It doesn't cover bad management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't feel good about this, but it's the only way to get you replaced under warranty."
+      ]
+    }
+  ]
+}

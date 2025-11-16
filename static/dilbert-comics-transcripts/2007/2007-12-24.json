@@ -1,0 +1,24 @@
+{
+  "date": "2007-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This concludes the useful part of my presentation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now let's open the floor to suggestions from people who are unqualified to do their own jobs, much less mine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, you with the forehead.",
+        "Can you make the software out of recycled paper?"
+      ]
+    }
+  ]
+}

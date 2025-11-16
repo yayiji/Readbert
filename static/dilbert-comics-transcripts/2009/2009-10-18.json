@@ -1,0 +1,53 @@
+{
+  "date": "2009-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to write a white paper for an industry trade association."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fine, but that will leave me with less time to work on my project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do the trade association stuff during your unproductive time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What exactly is my \"unproductive time\"?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It goes by many names, including sleep, leisure and healthy lifestyle."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I do less of those things it will reduce the quality of my life below the point at which good hygiene has any utility."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't want to make out with you. I just want you to work harder for no extra money."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I spend too much time explaining the obvious."
+      ]
+    }
+  ]
+}

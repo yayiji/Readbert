@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm telling everyone I'm writing a novel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way I can leverage the invisible hand of social influence to motivate me for the next year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you written anything yet?",
+        "Stop badgering me!!!"
+      ]
+    }
+  ]
+}

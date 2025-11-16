@@ -1,0 +1,25 @@
+{
+  "date": "1995-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Press \"one\" for sales.",
+        "Press \"two\" in a hopeless effort to get technical support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Press \"one\" for answers to questions you don't have.",
+        "Press \"two\" if you're gullible and optimistic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Press \"two\" if you're willing to buy something just so you can talk to a human being..."
+      ]
+    }
+  ]
+}

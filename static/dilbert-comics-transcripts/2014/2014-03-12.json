@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see you have a phone with a tiny screen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That must be embarrassing compared to my enormous phone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it expensive?",
+        "It paid off my mortgage by mining bitcoins."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whoa! Looks like we got a Pippin hawk, a prickly beak mud swallow, and a bald eagle.",
+        "Robin."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How is it that you have spotted 1,700 exotic birds this morning, and all I have seen is one robin?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look! A monkey-faced disco hawk!!",
+        "Where?!"
+      ]
+    }
+  ]
+}

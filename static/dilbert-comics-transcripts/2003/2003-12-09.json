@@ -1,0 +1,24 @@
+{
+  "date": "2003-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's nice to be retired. I'll do a-a-anything I want to do all day long."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess you'll be banging your head against a wall today, trying to earn money for the social infrastructure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you ever feel guilty?",
+        "Is it a warm, tingly sensation that makes you wag?"
+      ]
+    }
+  ]
+}

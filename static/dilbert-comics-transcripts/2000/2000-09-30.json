@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My stock options are worth a fortune now, you miserable bag of crud!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, look, they're back down to worthless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try telling him that bags of crud are highly valued in some societies.",
+        "Shut up."
+      ]
+    }
+  ]
+}

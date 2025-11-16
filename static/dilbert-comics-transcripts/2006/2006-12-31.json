@@ -1,0 +1,54 @@
+{
+  "date": "2006-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll ask the vendor for ballpark prices to see if the idea is feasible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't talk with vendors until our change control board approves the project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that would require a cost-benefit analysis."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And I can't do that without ballpark prices from the vendor."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just take your best guess."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... I should make up a number so I can get approval to make a phone call and ask what the number should have been?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Right. But first you need to get my approval to do the cost-benefit analysis."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Will you approve it?",
+        "I'd have to see the numbers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, come here!",
+        "All of my words have squiggles under them!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The software is telling you that every sentence you wrote has bad grammar."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Press F1 for help and... it's a third grade enrollment form."
+      ]
+    }
+  ]
+}

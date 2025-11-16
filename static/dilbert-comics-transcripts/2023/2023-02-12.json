@@ -1,0 +1,53 @@
+{
+  "date": "2023-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employee award for the lowest carbon footprint goes to Wally, for the seventeenth year in a row."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This year, Wally is a double winner for also being the least-bigoted employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, would you like to say a few words about how you did it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Pass."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Watch and learn, people."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The less you do, the smaller your carbon footprint, and the lower your risk of offending someone."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Have you ever wondered if we reward the wrong things?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't be like this bigot."
+      ]
+    }
+  ]
+}

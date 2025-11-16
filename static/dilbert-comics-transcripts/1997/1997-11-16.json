@@ -1,0 +1,56 @@
+{
+  "date": "1997-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is urgent.",
+        "Stop what you're doing and work on it right now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it more urgent than what I was doing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what you were doing."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Exactly. So how could you know if this is more urgent?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You could work late and do both."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Work late? Is this more important than my health?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Forget it! I'll have Alice do it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Just out of curiosity,",
+        "what are you doing?",
+        "Playing \"Quake.\""
+      ]
+    }
+  ]
+}

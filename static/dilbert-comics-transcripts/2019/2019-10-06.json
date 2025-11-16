@@ -1,0 +1,56 @@
+{
+  "date": "2019-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear what you're saying, and I disagree."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because...?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you have any reasons for your disagreement?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, I'm a lifestyle disagreer."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I disagree with everyone all the time. The reasons are irrelevant."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You sound smart.",
+        "No, I'm not smart."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And you're attractive too.",
+        "No, I'm ugl...",
+        "Okay, I see what you're doing."
+      ]
+    }
+  ]
+}

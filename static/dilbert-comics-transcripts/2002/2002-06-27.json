@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, guy, cheer up.",
+        "You can choose to have a good attitude!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just found out I have six months to live."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'm saying it wrong.",
+        "Try reading the book yourself."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you were being sarcastic about safety."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously, you don't take safety seriously, so I have to send you to a safety re-education camp for a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That will totally fix this problem.",
+        "You just bought yourself an extra week."
+      ]
+    }
+  ]
+}

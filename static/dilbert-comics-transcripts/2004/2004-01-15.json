@@ -1,0 +1,23 @@
+{
+  "date": "2004-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!!! I'm having overhead storage anxiety!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It doesn't fit! Everyone will hate me for delaying the flight!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We were scheduled to fly to New York, but thanks to the bag that didn't fit, we have to leave you in Iowa."
+      ]
+    }
+  ]
+}

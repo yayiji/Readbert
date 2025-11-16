@@ -1,0 +1,56 @@
+{
+  "date": "2022-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the project twenty percent under budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's deeply disappointing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "I'd hoped you would be forty percent under."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You never told me that.",
+        "But still..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But still???"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I guess I'm just disappointed in you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That reminds me – it's almost time for your annual performance review."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you find a way to cut the salary budget?",
+        "I'm still priming the pump."
+      ]
+    }
+  ]
+}

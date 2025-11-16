@@ -1,0 +1,55 @@
+{
+  "date": "2015-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to critique my presentation for the board."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And don't hold back to spare my feelings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That probably won't be an issue.",
+        "We got this."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My product idea has three components."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How do you know another company isn't secretly preparing to launch the same product?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What kind of stupid question is that?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's the same question you asked me yesterday about my product idea."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The board won't ask that.",
+        "Don't be so sure. I hear they're idiots."
+      ]
+    }
+  ]
+}

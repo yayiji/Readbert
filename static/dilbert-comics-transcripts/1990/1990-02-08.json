@@ -1,0 +1,23 @@
+{
+  "date": "1990-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ice cream."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Look out!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. I've been really jumpy ever since the ice age caught me off guard."
+      ]
+    }
+  ]
+}

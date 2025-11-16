@@ -1,0 +1,56 @@
+{
+  "date": "2004-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Job interview",
+        "What's your biggest weakness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a cubicle vampire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wander the cubicles in search of happy coworkers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I pounce!!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then you suck their blood?",
+        "That was the old way."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I talk about work-related issues until the life is drained from their bodies."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm going to trust my gut instinct on this.",
+        "You're hired."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Have you met the new hire yet?"
+      ]
+    }
+  ]
+}

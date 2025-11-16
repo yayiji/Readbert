@@ -1,0 +1,25 @@
+{
+  "date": "1991-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's confirmation hearing for the Supreme Court.",
+        "The senator has 34 seconds..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wonder what would happen if you let them talk as long as they wanted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bet they'd starve to death.",
+        "But there's probably a downside."
+      ]
+    }
+  ]
+}

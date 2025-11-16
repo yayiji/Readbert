@@ -1,0 +1,25 @@
+{
+  "date": "2008-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Change is good.",
+        "Change :)"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then why do most startups fail?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only take questions at the end.",
+        "There's more?"
+      ]
+    }
+  ]
+}

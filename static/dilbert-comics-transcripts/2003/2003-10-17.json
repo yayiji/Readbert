@@ -1,0 +1,25 @@
+{
+  "date": "2003-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I call it the \"tunnel shark.\"",
+        "It converts dirt and rock into energy and can dig forever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So whatever you do, don't ignore what I'm saying and push the red button.",
+        "Button!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now what's gotten into you?"
+      ]
+    }
+  ]
+}

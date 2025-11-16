@@ -1,0 +1,26 @@
+{
+  "date": "1990-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dear Dilbert,",
+        "I hope you like this elbow warmer I knitted for you.",
+        "Love,",
+        "Aunt Helen"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's an elbow warmer; just a thoughtful little gift from me to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like the lowest creature in the gift chain."
+      ]
+    }
+  ]
+}

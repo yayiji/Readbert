@@ -1,0 +1,58 @@
+{
+  "date": "1993-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I help you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I oppose the slaughter of helpless animals.",
+        "Do you have any shoes that aren't made of leather?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah, but they would make you look like a twit."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, forget that.",
+        "Do you have any shoes made in this country?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yeah, but they cost more."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, forget that.",
+        "Just show me some shoes that weren't made with slave labor."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We charge a premium for no-slave shoes.",
+        "Well, forget that."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How much did you sell your soul for?",
+        "Forty bucks and a little shine cloth."
+      ]
+    }
+  ]
+}

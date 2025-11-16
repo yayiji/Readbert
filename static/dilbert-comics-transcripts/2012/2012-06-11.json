@@ -1,0 +1,29 @@
+{
+  "date": "2012-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My headphones will cleverly discourage people from trying to chat with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He has headphones. What do we do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Blow on his neck."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Be careful. He might start flailing his noodle-sized arms in your direction."
+      ]
+    }
+  ]
+}

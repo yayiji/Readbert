@@ -1,0 +1,55 @@
+{
+  "date": "2004-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As VP of marketing, I am proud to introduce the new version of our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Behold!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is a testament to what can happen when you listen to customers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We asked customers what they wanted the new version to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Six months ago I gave that raw data to you engineers. Today we see the result."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's the first time I've seen it myself.",
+        "What's it do?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bam!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Our customers said they hate us.",
+        "Spit"
+      ]
+    }
+  ]
+}

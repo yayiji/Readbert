@@ -1,0 +1,59 @@
+{
+  "date": "1992-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uncle Ned, can we see your hunting trophies after dinner?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oooh...",
+        "I bagged this one at the zoo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The zoo?",
+        "That's illegal.",
+        "No wonder everybody got so excited."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "These are some doves I killed with help from my loyal dog, Rusty."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's Rusty.",
+        "We ran out of doves..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "These were my neighbors — Florence, Dave and Muffin."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hey, look at the time! Got to run!",
+        "Don't you want to see my \"hall-o'-postal employees\"?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "New rule: Find out their hobbies before you eat their pot roast.",
+        "We should have stayed for the \"hall-o'-postal employees.\""
+      ]
+    }
+  ]
+}

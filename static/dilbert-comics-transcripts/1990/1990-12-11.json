@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're your parents."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And if you do as we say for the next two decades..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll grow up to be just like me.",
+        "Don't even kid about that..."
+      ]
+    }
+  ]
+}

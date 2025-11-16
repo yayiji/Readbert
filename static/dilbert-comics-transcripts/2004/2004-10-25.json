@@ -1,0 +1,25 @@
+{
+  "date": "2004-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Accounting",
+        "Can you explain these expense figures?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a base ten counting system with a full range of odd and even digits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This isn't helping.",
+        "Tastes like HP printer ink... high gloss paper, four hours old."
+      ]
+    }
+  ]
+}

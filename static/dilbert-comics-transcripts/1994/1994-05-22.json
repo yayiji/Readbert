@@ -1,0 +1,54 @@
+{
+  "date": "1994-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's spend the next four hours reviewing the project plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've detailed every resource, task and dependency into an exquisitely accurate road map."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It took me two weeks, but it's the only way to make sure we're not wasting time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My tasks are two weeks late because I was waiting for your input."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And you left off one task, so all the dependencies are wrong."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm changing all of my estimates to \"to be determined.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can we do that?! I've been using random numbers."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll have to redo the whole plan.",
+        "Don't worry. We won't do anything until we hear from you."
+      ]
+    }
+  ]
+}

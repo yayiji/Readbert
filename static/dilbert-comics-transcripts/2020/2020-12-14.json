@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, we need to reimagine your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope that means you will replace the boring parts of my job with exciting new projects."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't mean that.",
+        "Does it mean doing the same work for higher pay?"
+      ]
+    }
+  ]
+}

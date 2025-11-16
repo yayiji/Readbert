@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need something called a \"decision.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You might not know what that word means, so I emailed you a link to its definition."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did people do sarcasm before the internet?",
+        "Maybe they didn't need to."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your project going?",
+        "Do you mean the one that has..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...No management support, ambiguous goals, no budget, and an angry team of overworked people who want it to die?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, the other one.",
+        "Sometimes there isn't an \"other one.\""
+      ]
+    }
+  ]
+}

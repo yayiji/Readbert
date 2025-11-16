@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to read my book on time management?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These pages are blank."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just saved you three hours."
+      ]
+    }
+  ]
+}

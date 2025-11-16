@@ -1,0 +1,24 @@
+{
+  "date": "1997-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, here's the agenda for the next project meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Two hours?!! Aaagh!!! There's only ten minutes worth of tasks!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh. I think I'm temporarily sane.",
+        "Try breathing into a paper bag and repeating our mission statement."
+      ]
+    }
+  ]
+}

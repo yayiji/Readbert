@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I added artificial intelligence to our coffee maker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now it uses guilt to manipulate people into making a fresh pot if they take the last cup."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You disgust me.",
+        "I get that a lot."
+      ]
+    }
+  ]
+}

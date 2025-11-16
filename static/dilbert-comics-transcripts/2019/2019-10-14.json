@@ -1,0 +1,26 @@
+{
+  "date": "2019-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you mad at me?",
+        "I'm not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, I'm not good at reading people's feelings.",
+        "True."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you flirting with me now?",
+        "I'm going to sit over here."
+      ]
+    }
+  ]
+}

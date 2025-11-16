@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love being the new co-CEO of the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Being a CEO is the easiest job in the company, and I'm only doing half of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Best of all, you are grossly overpaid.",
+        "It's time for my second nap."
+      ]
+    }
+  ]
+}

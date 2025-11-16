@@ -1,0 +1,31 @@
+{
+  "date": "2009-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pssst! I'm doing black market I.T. support to make up for my recent cut in pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't this illegal?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not according to my black market company lawyer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So it's legal to punch vendors?",
+        "Sure, if they deserve it.",
+        "That's $100, please."
+      ]
+    }
+  ]
+}

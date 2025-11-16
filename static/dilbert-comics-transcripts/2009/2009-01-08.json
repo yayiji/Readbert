@@ -1,0 +1,26 @@
+{
+  "date": "2009-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The lucky sales guy",
+        "My sales quotas were set too low.",
+        "I plan to buy a yacht with my commissions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you mind programming the navigation system so I can get drunk while my boat takes me places?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you researching where all the pirates attack?",
+        "It's better if you don't know."
+      ]
+    }
+  ]
+}

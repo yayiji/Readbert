@@ -1,0 +1,26 @@
+{
+  "date": "2010-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I must have fallen asleep during your presentation.",
+        "I dreamed I had an animal snout for a nose.",
+        "It seemed so real."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you can't tell your dreams from your reality, maybe this is your dream and you really do have a snout."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anything seem strange or out of place in this reality?",
+        "Can we please do some work?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the...?",
+        "Don't be surprised."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In any large company there is at least one employee who is your exact replica and has the same assignment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why didn't I know that?",
+        "I'm not your replica. I'm a look-alike that is much smarter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting Randy on your project.",
+        "He has a microchip embedded in his brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So ignore whatever your inferior brain tells you to do and just listen to Randy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that make me dispensable?",
+        "We'll talk about phase 2 later."
+      ]
+    }
+  ]
+}

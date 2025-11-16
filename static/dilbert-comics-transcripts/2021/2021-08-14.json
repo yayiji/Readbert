@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I consulted WebMD to figure out what personality disorder is driving your behavior."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I narrowed it down to either brain rot or pointy-haired bossness.",
+        "You're not a doctor!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would I need to be a doctor to know a headless torso doesn't need aspirin?"
+      ]
+    }
+  ]
+}

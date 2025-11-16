@@ -1,0 +1,25 @@
+{
+  "date": "2017-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm naming you employee of the month.",
+        "Your prize is $20 cash and a pat on the head."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give yourself $20 and submit an employee reimbursement request."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I pat myself on the head, too?",
+        "I was hoping you would offer."
+      ]
+    }
+  ]
+}

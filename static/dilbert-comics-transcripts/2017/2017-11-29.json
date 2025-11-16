@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the financial projection you asked me to do.",
+        "It's basically just guessing plus math."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously, it's useless for making decisions because I can get any result I want by tweaking the assumptions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't say any of that stuff when you present it to the board tomorrow."
+      ]
+    }
+  ]
+}

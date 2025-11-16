@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Low hanging fruit!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See?",
+        "Wow."
+      ]
+    }
+  ]
+}

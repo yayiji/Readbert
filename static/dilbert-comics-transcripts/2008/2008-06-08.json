@@ -1,0 +1,56 @@
+{
+  "date": "2008-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to produce a reality show about your life.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The cameras will follow you around and capture all of your failures and humiliations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would I agree to that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because you suffer from the dull ache of insignificance."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can only fill the horrible void in your soul by fathering children or being famous."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe I prefer to have children."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And maybe you prefer to flap your ears and fly to Mars."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you see where I'm going with this?",
+        "Sorry.",
+        "Bop"
+      ]
+    }
+  ]
+}

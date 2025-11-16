@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My team can build an e-commerce site for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will be so well-documented that your I.S. group can easily maintain it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But the coolest part is that the documentation will be delivered by flying pigs!"
+      ]
+    }
+  ]
+}

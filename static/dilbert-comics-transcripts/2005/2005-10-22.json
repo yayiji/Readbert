@@ -1,0 +1,23 @@
+{
+  "date": "2005-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The trouble with hiring a hit man is that you have to have him killed to cover your tracks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then you need a hit man to hit the guy who killed the hit man. It's an endless cycle!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But ultimately, it's all free, right?"
+      ]
+    }
+  ]
+}

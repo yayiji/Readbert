@@ -1,0 +1,24 @@
+{
+  "date": "2002-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I plan to sell an anti-itch lotion that's really just honey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll put a tiny disclaimer on the bottle that says, \"Might cause itching.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not nice.",
+        "And then I'll sell my customer list to bears."
+      ]
+    }
+  ]
+}

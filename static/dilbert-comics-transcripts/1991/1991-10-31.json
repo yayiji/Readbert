@@ -1,0 +1,27 @@
+{
+  "date": "1991-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, can you explain item number two?",
+        "No. I'm on vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I take my vacations in ten minute increments during regular work days.",
+        "That way I can avoid assignments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your ten minutes are up.",
+        "Cough cough!",
+        "Whoa, I'd better take some sick time."
+      ]
+    }
+  ]
+}

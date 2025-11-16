@@ -1,0 +1,57 @@
+{
+  "date": "2010-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, would you...",
+        "Rrrring!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's an interesting experiment...",
+        "Rrrring!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Watch what happens to your blood pressure when I take this call and make you wait.",
+        "Yeah? What's the problem now?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell your brother I said to stop biting the heads off your dolls."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Uh-huh... Well, if the man was wearing a postal uniform, he wasn't the bogeyman."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You did what to him?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Listen carefully.",
+        "I want you to tear up the carpet in the fancy bathroom..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can come back."
+      ]
+    }
+  ]
+}

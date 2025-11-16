@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need training to use our new software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pretend we have a job opening for a technical expert in that field. Then ask applicants how they would do whatever it is that you need to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does your company provide training?",
+        "\"Provide\" is a strong word."
+      ]
+    }
+  ]
+}

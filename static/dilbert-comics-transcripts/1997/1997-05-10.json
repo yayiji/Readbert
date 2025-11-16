@@ -1,0 +1,24 @@
+{
+  "date": "1997-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We did an industry survey to see how your salaries compared to the average."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We didn't get the numbers we hoped for, so we broadened the definition of \"our industry.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm so happy to be in the industry of \"high technology, textile workers, teen-agers, and dead people.\"",
+        "I feel over-paid."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will use role play to evaluate your management potential."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Imagine you are a turtle and you are being attacked by a hawk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's better than I expected.",
+        "Thanks."
+      ]
+    }
+  ]
+}

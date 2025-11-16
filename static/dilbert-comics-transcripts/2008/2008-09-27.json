@@ -1,0 +1,25 @@
+{
+  "date": "2008-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Director of green",
+        "We've been pumping toxic waste into the water supply for years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yesterday, a giant, mutated alligator destroyed our only competitor's factory."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now that karma has been discredited, what else can we pollute?",
+        "The sky's the limit."
+      ]
+    }
+  ]
+}

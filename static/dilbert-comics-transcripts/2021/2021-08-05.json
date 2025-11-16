@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For employees returning to work in the office, we have color-coded lanyards."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This color means you are open to hugs and high-fives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This color means you recoil in disgust at the thought of human contact.",
+        "I'll take three."
+      ]
+    }
+  ]
+}

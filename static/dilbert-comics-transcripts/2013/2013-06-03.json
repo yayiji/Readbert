@@ -1,0 +1,24 @@
+{
+  "date": "2013-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought a Nobel-winning economist to tell you why everything you say about fiscal policy is wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For starters, if you knew anything about economics you would have a beard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first few minutes are mostly trash talk.",
+        "Ha! You bathe daily, water-waster!"
+      ]
+    }
+  ]
+}

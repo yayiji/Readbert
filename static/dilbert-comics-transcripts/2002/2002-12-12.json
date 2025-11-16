@@ -1,0 +1,26 @@
+{
+  "date": "2002-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The reporter from Moneybags Magazine is here.",
+        "Send him in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you planning to ask my employees if my claims are true?",
+        "Nah, too lazy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I credit my success to the foot massages I personally give to each employee.",
+        "Cover story!"
+      ]
+    }
+  ]
+}

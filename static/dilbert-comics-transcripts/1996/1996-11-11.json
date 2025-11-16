@@ -1,0 +1,25 @@
+{
+  "date": "1996-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "There are two ways to get an extra engineer for your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can transfer some unqualified loser from within the company...",
+        "Or?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not so fast. I like to savor the moment before I crush your misplaced optimism."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2023-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I created an advisory council of people who have wildly divergent views."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Has an advisory council of people with wildly divergent views ever accomplished anything?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I asked them the same thing.",
+        "Opinions were mixed."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How do they ever agree on anything?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They don't need to agree. I still make all of the decisions."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, you mean you are using them as cover for doing whatever you want to do."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I was hoping it wasn't obvious."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We can pretend it isn't."
+      ]
+    }
+  ]
+}

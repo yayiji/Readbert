@@ -1,0 +1,24 @@
+{
+  "date": "2003-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My consulting firm specializes in fixing business strategies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you ever figured out why your own industry is in the toilet?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you a thousand dollars never to mention that again.",
+        "Ok."
+      ]
+    }
+  ]
+}

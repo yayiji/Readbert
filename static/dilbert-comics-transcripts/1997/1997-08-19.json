@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Recruiting on campus",
+        "I have better offers from twelve companies.",
+        "Why should I work at yours?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll see what I can do for you.",
+        "Do you have enough copies of my résumé?"
+      ]
+    }
+  ]
+}

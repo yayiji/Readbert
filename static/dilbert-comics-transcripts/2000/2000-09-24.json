@@ -1,0 +1,55 @@
+{
+  "date": "2000-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Halt!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You moved your computer without approval from the central cubicle committee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was simply adjusting the angle.",
+        "Gasp"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Fool! It will cost $200 for a team of technicians to move it back!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's better this way so my plant won't fall off."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We have guidelines!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I know.",
+        "I stapled them to my wall."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You'd be surprised at what isn't allowed."
+      ]
+    }
+  ]
+}

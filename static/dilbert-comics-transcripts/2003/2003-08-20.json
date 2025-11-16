@@ -1,0 +1,23 @@
+{
+  "date": "2003-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And you failed at your primary objective of winning a bid for the Galatikus job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you said you'd deliver the bid on time, but you got seduced by Irish line-dancing lessons and forgot to mail it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't believe you're trying to pin the blame on the Irish."
+      ]
+    }
+  ]
+}

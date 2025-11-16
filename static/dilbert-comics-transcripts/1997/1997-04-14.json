@@ -1,0 +1,23 @@
+{
+  "date": "1997-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need this ASAP."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Asap? Does that stand for a stupid-acting person, i.e., someone who ignores tasks until the deadline?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was embarrassing. I hope the other things I say don't mean anything."
+      ]
+    }
+  ]
+}

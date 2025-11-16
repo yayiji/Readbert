@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is everything okay since I left for vacation?",
+        "Better than ever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Counterproductive policies have been eliminated, and we are no longer victims of ignorance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Man, I don't like the sound of that."
+      ]
+    }
+  ]
+}

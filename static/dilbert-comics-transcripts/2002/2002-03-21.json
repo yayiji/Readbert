@@ -1,0 +1,26 @@
+{
+  "date": "2002-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We saw your classified ad for a nuclear warhead."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's genuine Russian craftsmanship,",
+        "ideal for menacing other third-world countries.",
+        "Sweet"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our slingshot can fling this a hundred yards. Is that enough?",
+        "That's plenty."
+      ]
+    }
+  ]
+}

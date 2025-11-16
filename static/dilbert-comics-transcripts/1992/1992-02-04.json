@@ -1,0 +1,24 @@
+{
+  "date": "1992-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh... hi, Dilbert?",
+        "Hi. I'm here for my first Mensa meeting of geniuses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's at 5 p.m., not 5 a.m."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bad start."
+      ]
+    }
+  ]
+}

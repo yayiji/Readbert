@@ -1,0 +1,25 @@
+{
+  "date": "2005-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone meet our new team member, Flashy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!!",
+        "Suddenly so hot!!! Burning!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Flashy will be in the cubicle by the thermostat.",
+        "C-c-c-cold!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented an A.I. that can create comic strips."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pfft! That's impossible. No machine will ever match the creative genius of human cartoonists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This one is about a guy who thinks his boss is dumb.",
+        "No one wants to read that."
+      ]
+    }
+  ]
+}

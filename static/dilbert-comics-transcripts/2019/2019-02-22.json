@@ -1,0 +1,25 @@
+{
+  "date": "2019-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our product pipeline looks dismal.",
+        "It's always darkest before the dawn."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're comparing product development to the solar system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what to do with that.",
+        "What would Jesus do?"
+      ]
+    }
+  ]
+}

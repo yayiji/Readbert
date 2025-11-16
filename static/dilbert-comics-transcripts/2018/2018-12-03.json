@@ -1,0 +1,27 @@
+{
+  "date": "2018-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new corporate owners want us to gather every morning to do the company cheer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I quit.",
+        "I quit.",
+        "I quit.",
+        "I quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not the company cheer.",
+        "It is now."
+      ]
+    }
+  ]
+}

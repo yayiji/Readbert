@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Randy is our first employee to have a computer chip embedded in his brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Randy, please explain to these obsolete employees how awesome you are now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait...",
+        "I'm updating my software.",
+        "Should we kill him while he's vulnerable?"
+      ]
+    }
+  ]
+}

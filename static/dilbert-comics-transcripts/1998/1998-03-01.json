@@ -1,0 +1,57 @@
+{
+  "date": "1998-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news on your budgets.",
+        "I did some recalculating last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I found a way to give more money to every project without increasing the total budget for projects!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question: Does your new way involve poor math skills?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ignore the skeptic.",
+        "Hey, I have a suggestion!",
+        "?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe you could recalculate our salary budget next."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And when was the last time you recalculated our vacation days?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I calculate that we have an hour left for this meeting.",
+        "But I'm interested in your calculation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think we got greedy when we asked if he had change for a five."
+      ]
+    }
+  ]
+}

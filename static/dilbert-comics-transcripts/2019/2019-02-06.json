@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you to meet my son."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you can see, he is half-human and half-machine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does he talk?",
+        "Only when he's hungry or he can't find his charger."
+      ]
+    }
+  ]
+}

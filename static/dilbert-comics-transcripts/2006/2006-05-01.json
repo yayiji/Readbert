@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all year on a project that got canceled today because we got a new vice president who didn't like it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I made a billion dollars by convincing suckers that a garbage barge was oceanfront real estate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you lend me some money so I can open my own business?",
+        "No, but I know some people on a barge who would."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "1991-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you working on?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm writing my own encyclopedia to sell for large profits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How could you write an entire encyclopedia by yourself?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's abridged, I had to cut some corners to get it all in five pages."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Five pages?! You condensed the history and knowledge of the world into five pages?!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Actually, it's mostly about me... the other stuff didn't seem important."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But I threw in some stuff about Canada to make it seem thorough."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "\"Canada has trees.\"",
+        "I'll have to tighten that section a bit."
+      ]
+    }
+  ]
+}

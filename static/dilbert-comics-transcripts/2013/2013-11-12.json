@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Anyone whose phone rings during this meeting will be fired on the spot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rrrring!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop judging me with your eyes.",
+        "It's the only thing that keeps them open."
+      ]
+    }
+  ]
+}

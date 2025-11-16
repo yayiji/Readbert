@@ -1,0 +1,24 @@
+{
+  "date": "1995-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should all follow Wally's example of how he quantifies his contribution to revenue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Basically, I assumed my project would fail without me. Therefore all the revenue it generates can be attributed to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aren't we all on the same project?",
+        "Yes, but evidently we're not all equally valuable."
+      ]
+    }
+  ]
+}

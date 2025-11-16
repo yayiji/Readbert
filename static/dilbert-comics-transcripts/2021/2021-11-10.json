@@ -1,0 +1,30 @@
+{
+  "date": "2021-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a sociopath to design our automated phone system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would anyone hire a sociopath to design a user interface?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the way we've always done it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not my problem.",
+        "Not my problem."
+      ]
+    }
+  ]
+}

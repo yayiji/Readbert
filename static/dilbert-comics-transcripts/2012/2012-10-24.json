@@ -1,0 +1,23 @@
+{
+  "date": "2012-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You haven't returned any of my messages, so I took the liberty of making a death certificate for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just staple it to the back of your head so everyone can see it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we good here?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2002-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And I need the software in a week.",
+        "Cheryl is the only one who knows the ordering system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She's on her honeymoon for two weeks.",
+        "You need CFO approval to buy software outside the system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fine. I'll talk to the CFO.",
+        "When will he be available?",
+        "Depends on the parole board."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm promoting you from senior engineer to lead engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The pay is the same but people will disrespect you less."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Including you?",
+        "It's not magic."
+      ]
+    }
+  ]
+}

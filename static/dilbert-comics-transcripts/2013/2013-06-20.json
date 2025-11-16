@@ -1,0 +1,24 @@
+{
+  "date": "2013-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company policy says I have to rate one-third of my staff as \"does not meet expectations.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I chose the two of you because you have no upper body strength. This way it's safer if you go berserk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought you said I should tell them the reason I picked them.",
+        "Not the real reason."
+      ]
+    }
+  ]
+}

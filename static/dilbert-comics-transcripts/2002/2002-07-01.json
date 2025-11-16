@@ -1,0 +1,26 @@
+{
+  "date": "2002-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Procurement",
+        "I need to order a special cable for my computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that's a piece of rope. Yes, I know it's cheaper.",
+        "Ooh hoo hoo hoo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, maybe it was a mistake to sign an exclusive contract with a rope distributor.",
+        "Ooh hoo hoo jerk."
+      ]
+    }
+  ]
+}

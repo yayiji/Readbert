@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't have any interruptions today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll need to implement the cone of anger to repel any trespassers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! Why does it hurt to be near you?",
+        "Shields holding at 95%."
+      ]
+    }
+  ]
+}

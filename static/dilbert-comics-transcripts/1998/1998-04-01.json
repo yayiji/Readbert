@@ -1,0 +1,26 @@
+{
+  "date": "1998-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "I'm not enjoying my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take this powerful antidepressant drug for the rest of your life.",
+        "I didn't know H.R. could prescribe drugs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd hate to live in a world where that was illegal.",
+        "\"Boss-proof cap.\""
+      ]
+    }
+  ]
+}

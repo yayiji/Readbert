@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to disagree with you, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you noticed that every time we disagree, I'm eventually proved correct?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every single time!!",
+        "Yes, but I'm always right initially."
+      ]
+    }
+  ]
+}

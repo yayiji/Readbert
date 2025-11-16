@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does it reduce your confidence in our management that 100% of them got infected with coronavirus?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I know is that I won $300 betting it would happen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How often do you bet on their stupidity?",
+        "Often enough to double my income."
+      ]
+    }
+  ]
+}

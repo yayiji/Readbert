@@ -1,0 +1,24 @@
+{
+  "date": "2014-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The interface needs to be so simple that your mother could use it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My mother taught herself Ruby on Rails over a weekend."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then imagine someone else's mother.",
+        "Can I imagine a sexist imbecile?"
+      ]
+    }
+  ]
+}

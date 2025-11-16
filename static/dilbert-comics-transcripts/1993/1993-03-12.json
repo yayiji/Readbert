@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes?",
+        "I have a Dogbert insult-o-gram from your ex-wife..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're so ugly, weather satellites won't photograph your town unless it's cloudy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The smarter people recognize this as a tipping situation."
+      ]
+    }
+  ]
+}

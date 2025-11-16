@@ -1,0 +1,23 @@
+{
+  "date": "2016-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm too busy to take a leadership class, so I'm sending all of you to a followship class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that so we can learn how to follow someone who never learned how to lead?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds like a good question for your follow-ship teacher."
+      ]
+    }
+  ]
+}

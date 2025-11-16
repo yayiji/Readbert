@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sign this card for Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A fly went up his nose and laid eggs in his brain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is he coming back to work?",
+        "We think he'll live out his days in marketing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a bad case of impostor syndrome."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I feel as if I'm only pretending to be a good manager, and someday everyone will find out it's an act."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it makes you feel any better, we figured that out a while ago."
+      ]
+    }
+  ]
+}

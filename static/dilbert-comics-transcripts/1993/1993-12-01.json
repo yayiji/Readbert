@@ -1,0 +1,24 @@
+{
+  "date": "1993-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert the mentor",
+        "This is called a \"meeting.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The objective is twofold: talk as much as possible and leave with no new assignments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's okay... I thought your talking went very well."
+      ]
+    }
+  ]
+}

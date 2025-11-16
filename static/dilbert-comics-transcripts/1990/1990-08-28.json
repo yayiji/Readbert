@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like another shopping binge at the hardware store.",
+        "I couldn't resist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gee, Bob, what did dinosaurs do before tools were invented?",
+        "It was hard..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometime, you should try to tighten a Phillips screw with a fern.",
+        "That's no way to live."
+      ]
+    }
+  ]
+}

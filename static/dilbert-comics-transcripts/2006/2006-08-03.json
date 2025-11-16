@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you have a chance to review my powerpoint presentation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's full of technical jargon and it's way too long."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you even look at it?",
+        "Why would I look at something like that?"
+      ]
+    }
+  ]
+}

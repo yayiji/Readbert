@@ -1,0 +1,23 @@
+{
+  "date": "2015-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our marketing people tell me your double-handled coffee mug could be a huge seller."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Brainstorm with the other engineers and see if it needs more features."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any other ideas for ruining the product, or should I focus on that one?"
+      ]
+    }
+  ]
+}

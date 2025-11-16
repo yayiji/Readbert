@@ -1,0 +1,27 @@
+{
+  "date": "1989-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha! The store undercharged me twelve cents, and I'm not telling them.",
+        "Hey!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know you. You're the ruler of Heck, the \"prince of insufficient light.\"",
+        "Just call me Phil, please."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's my penalty?",
+        "Eternal damnation?",
+        "I'm just going to \"darn you\" for fifteen minutes."
+      ]
+    }
+  ]
+}

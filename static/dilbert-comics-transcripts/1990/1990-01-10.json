@@ -1,0 +1,24 @@
+{
+  "date": "1990-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe since you're full of static electricity, you should say \"It is useless to be a resistor.\"",
+        "Hee-hee-hee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing annoys the \"dog of thunder\" quite as much as nerd puns."
+      ]
+    }
+  ]
+}

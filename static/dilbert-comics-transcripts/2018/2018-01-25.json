@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're an idiot if you think the software upgrade will solve every one of our problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or are you an idiot for characterizing my reasonable idea as an absurd absolute?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why can't you admit when you're wrong?",
+        "Same reason you've never eaten a unicorn."
+      ]
+    }
+  ]
+}

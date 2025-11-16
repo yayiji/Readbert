@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it ethical to kill an artificial intelligence I brought into the world?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but only if you frame it for a crime it didn't commit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might seek a second opinion.",
+        "My second opinion is that decaf is for quitters."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2018-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You said you hated this idea last week, but now you say you like it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you explain your flip-flopping?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I always liked the idea. Nothing changed."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hahaha! Nice try! You're back-pedaling because I busted you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Here's my email trail from the first moment the idea came up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "As you can plainly see, I have liked the idea from the start."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why is it so hard for you to admit you were wrong?"
+      ]
+    }
+  ]
+}

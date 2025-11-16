@@ -1,0 +1,25 @@
+{
+  "date": "1995-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our Elbonian owners sold the company to our biggest competitor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our motto is \"If you can't beat 'em, join 'em.\"",
+        "I wonder what their motto is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Their motto is \"After you beat 'em, humiliate 'em.\"",
+        "It's not very catchy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "1991-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I wonder how a dinosaur like you can survive, Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, your brain is so tiny... you must get exhausted just trying to think.",
+        "How do you do it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... that's okay.",
+        "I don't really need an answer to that question.",
+        "Think",
+        "Think",
+        "Think"
+      ]
+    }
+  ]
+}

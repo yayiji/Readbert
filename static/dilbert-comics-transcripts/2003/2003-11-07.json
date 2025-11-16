@@ -1,0 +1,25 @@
+{
+  "date": "2003-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't sell your new product for $29.",
+        "Offer it at $1,000,029 with a rebate of $1,000,000."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People will think it's a great bargain when in fact it's just a huge inconvenience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And all we need is one person to forget to mail in the rebate forms.",
+        "We'll target the lazy rich."
+      ]
+    }
+  ]
+}

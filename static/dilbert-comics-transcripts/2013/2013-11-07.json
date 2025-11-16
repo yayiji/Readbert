@@ -1,0 +1,25 @@
+{
+  "date": "2013-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know why I need to carry a company-issued phone plus my own phone?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think it's because our company policy was written by chimps who time-traveled from the fifties."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or do you have a better explanation?",
+        "I really don't."
+      ]
+    }
+  ]
+}

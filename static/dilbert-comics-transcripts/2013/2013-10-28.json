@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to studies, employees will work harder if they think their managers care about them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that's hard for me because you're basically a sausage casing full of coffee and rotting organs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That must have stung.",
+        "Less than you'd think."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2022-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, how dare you eat my lunch that was clearly labeled!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? No! I didn't eat your lunch!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In fact, someone ate my lunch too!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you expect me to believe that \"coincidence\"?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm starting to think you ate both of our lunches and this is your cover story."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How dare you!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why does your breath smell like my sandwich?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Try to stay on topic. You're all over the place."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "1994-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your performance this year was \"fair.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'll raise your appraisal to \"excellent\" if you'll eat a bug."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say what?",
+        "Eat a bug."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I didn't have much luck with the other management techniques so I'm kinda winging it now."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do I get to pick the bug?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's way more motivational if I pick the bug."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How did your evaluation go?",
+        "MxLnt",
+        "Next!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do I get a bun?",
+        "You guys are never happy."
+      ]
+    }
+  ]
+}

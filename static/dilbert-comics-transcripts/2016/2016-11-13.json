@@ -1,0 +1,54 @@
+{
+  "date": "2016-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea for an app."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I choose you to be on my start-up team."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be the idea person and you do all of the technology."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... I would be doing 100% of the work?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I already did the hard part of coming up with an idea."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your part is just typing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So stop complaining and type me an app."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It isn't that easy.",
+        "Can you recommend someone less lazy?"
+      ]
+    }
+  ]
+}

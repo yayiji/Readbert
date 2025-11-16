@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our assignment is to design a totally safe nuclear power plant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's put it in El bonia. That seems safe to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our offer of cheerful slave labor paid off!",
+        "Woo-hoo!!"
+      ]
+    }
+  ]
+}

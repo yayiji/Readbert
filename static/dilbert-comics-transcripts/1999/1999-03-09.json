@@ -1,0 +1,28 @@
+{
+  "date": "1999-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wah-wah!",
+        "Woo-hoo!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yee-ha!",
+        "Snort"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just as I suspected,",
+        "the new guy is a",
+        "rodeo clown.",
+        "He's fast."
+      ]
+    }
+  ]
+}

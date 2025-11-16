@@ -1,0 +1,25 @@
+{
+  "date": "2006-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, our budget is tight so I've been asked to reward you with non-monetary compensation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you know Ken in marketing?",
+        "You can punch him as hard as you want."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does Ken know about this?",
+        "People love surprises."
+      ]
+    }
+  ]
+}

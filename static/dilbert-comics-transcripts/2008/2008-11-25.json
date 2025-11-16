@@ -1,0 +1,24 @@
+{
+  "date": "2008-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who are we waiting for?",
+        "Alice. She has poor time management skills."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But she'll try to dress it up by saying she's in high demand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do I suddenly feel the coldness of the grave?"
+      ]
+    }
+  ]
+}

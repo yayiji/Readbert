@@ -1,0 +1,25 @@
+{
+  "date": "1996-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know what's funny?",
+        "I'll tell you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're working hard. I'm doing nothing. In a hundred years we'll both be dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You might not need to wait that long.",
+        "I think I'll spread some joy over this way."
+      ]
+    }
+  ]
+}

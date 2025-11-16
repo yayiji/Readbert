@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Investigative reporter",
+        "Explain why your company dumps garbage in the park."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And why do you drive such a huge, wasteful vehicle?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need you to scrape something off my tires and take it to the park."
+      ]
+    }
+  ]
+}

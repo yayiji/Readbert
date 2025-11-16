@@ -1,0 +1,27 @@
+{
+  "date": "1993-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the creativity consultant",
+        "This exercise is especially for the MBAs in the company.",
+        "What's the pay-back?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whap!",
+        "Whap!",
+        "Whap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no research to support this method, but you gotta admit it feels right."
+      ]
+    }
+  ]
+}

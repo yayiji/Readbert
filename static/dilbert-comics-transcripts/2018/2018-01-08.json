@@ -1,0 +1,25 @@
+{
+  "date": "2018-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Company rules forbid you from insulting your co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll teach you how to insult each other while staying within company guidelines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't seem possible.",
+        "You should look into getting a standing desk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2018-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't work with old Ned.",
+        "He's a sexist, racist, bigoted troglodyte."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Name-calling is not allowed in this company.",
+        "I sentence you to three weeks of mandatory training."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could strangle you with your own tail.",
+        "Six weeks!"
+      ]
+    }
+  ]
+}

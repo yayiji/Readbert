@@ -1,0 +1,23 @@
+{
+  "date": "2006-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And then we'll build a second prototype and..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not in the budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, suddenly it's my fault for caring about the budget."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2000-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I mapped your genome, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't know the human resources department had that technology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I used a pencil."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your genes predict that you will be a bitter, lazy, Caucasian guy with six hairs and poor vision."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll hate cubicles, measurable objectives, and cats who map your genome."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This is a violation of my right to privacy! I'll fight it all the way to the Supreme Court!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, according to my map, you'll lose interest and fall asleep."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wonder if this technology will ever fall into the wrong hands."
+      ]
+    }
+  ]
+}

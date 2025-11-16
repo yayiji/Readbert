@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh, Nardo is coming. I'm out of here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh, hi, Nardo.",
+        "In the old country we did not have what you call personal space."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Take your hands out of my pockets.",
+        "Oh, I get it. They're for your use only, right?"
+      ]
+    }
+  ]
+}

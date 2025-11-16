@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It feels as if the days are going by faster lately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because we're a computer simulation that just got a software upgrade."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's really nothing you can't ruin with that nonsense, is there?",
+        "I hear that a lot."
+      ]
+    }
+  ]
+}

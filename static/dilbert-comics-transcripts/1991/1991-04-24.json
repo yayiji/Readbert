@@ -1,0 +1,24 @@
+{
+  "date": "1991-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm standing at the Wickford wheat fields outside of London, the site of mysterious giant circles, possibly caused by aliens."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you find these circles of crushed wheat?",
+        "My team of experts starts at one point and searches outward until..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good lord! Another circle has formed around us!!"
+      ]
+    }
+  ]
+}

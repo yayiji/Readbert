@@ -1,0 +1,23 @@
+{
+  "date": "2014-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't show enough passion for your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop interrupting my work with your stupid, trendy management jargon!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that better or worse? I don't know how to tell."
+      ]
+    }
+  ]
+}

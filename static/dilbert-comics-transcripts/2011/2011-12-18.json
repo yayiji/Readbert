@@ -1,0 +1,55 @@
+{
+  "date": "2011-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted can explain what you need to do before the platform upgrade.",
+        "No he can't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted's brain is where knowledge goes to die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's not good at explaining things."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The knowledge might be in his brain, but it's trapped there."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Unfortunately, Ted's incompetence is so unbelievable that you literally don't believe me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In time, you will assume that Ted taught me well but I forgot all of it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm doomed before I start. Let's just declare failure and move on."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That works for me.",
+        "Partial victory."
+      ]
+    }
+  ]
+}

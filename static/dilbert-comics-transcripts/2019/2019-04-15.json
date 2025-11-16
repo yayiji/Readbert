@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I scheduled a potluck to celebrate the team's success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A potluck is more like a penalty than a celebration."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I guess it's better than working.",
+        "It starts at 8 PM on Friday."
+      ]
+    }
+  ]
+}

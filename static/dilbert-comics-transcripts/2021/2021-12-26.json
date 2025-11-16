@@ -1,0 +1,56 @@
+{
+  "date": "2021-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our financial model predicts slow sales for years, followed by a huge surge in year ten."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What causes that surge?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you care?",
+        "That's ten years away."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I ask so I can judge the credibility of your model."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I guarantee our model is as good as any other ten-year projection."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Has any ten-year projection ever been right?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How would I know?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't you put in those earbuds!",
+        "Doooon't!",
+        "Please continue."
+      ]
+    }
+  ]
+}

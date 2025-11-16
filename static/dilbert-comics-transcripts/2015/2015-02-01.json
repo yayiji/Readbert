@@ -1,0 +1,55 @@
+{
+  "date": "2015-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To be perfectly honest...",
+        "Wait!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you need to say you're being honest in this particular case?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're implying that you've lied to me so often in the past that this one instance of honesty is noteworthy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That is tantamount to admitting you have no respect for me as a human being."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And you don't even have the decency to hide your evil in a competent fashion!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you think I'm such an idiot that I wouldn't notice your verbal assault on my intelligence?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, let's hear the one honest thing you have ever told me.",
+        "Go."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is going to be the easiest lie I've ever told."
+      ]
+    }
+  ]
+}

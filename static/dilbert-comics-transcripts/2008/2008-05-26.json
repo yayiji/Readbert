@@ -1,0 +1,30 @@
+{
+  "date": "2008-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I could use your laptop until we have the budget to get me a computer that works."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I might need my laptop."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already need it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I need you to stop needing it.",
+        "Well played."
+      ]
+    }
+  ]
+}

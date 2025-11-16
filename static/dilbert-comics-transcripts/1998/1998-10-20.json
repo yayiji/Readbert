@@ -1,0 +1,27 @@
+{
+  "date": "1998-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, meet the newest member of your team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hired him myself.",
+        "That means I can never fire him;",
+        "it would look like I made a bad decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Microsoft hired his head.",
+        "It's in a jar in Redmond.",
+        "And we got the part that goes to meetings."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2022-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For one million dollars I can help you improve your ESG rank."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't you own an independent ESG rating service?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't say it would be hard."
+      ]
+    }
+  ]
+}

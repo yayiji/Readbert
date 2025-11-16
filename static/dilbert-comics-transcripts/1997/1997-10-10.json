@@ -1,0 +1,25 @@
+{
+  "date": "1997-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come out of there, Alice!",
+        "We know you're telecommuting!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Never! I'm free!",
+        "You can't make me go back to a cubicle!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang"
+      ]
+    }
+  ]
+}

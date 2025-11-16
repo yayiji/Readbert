@@ -1,0 +1,59 @@
+{
+  "date": "2006-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school of management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In today's lesson you will learn how to get your employees to do the impossible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have issued to each of you one large rock for practice."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Throw your rock in the air and demand that it stay there without falling."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Offer some non-monetary compensation to your rock to incent it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If your rock refuses to comply, try yelling at it.",
+        "Go."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bonk! - Ow!",
+        "Bonk! - Ow!",
+        "Bonk! - Ow!",
+        "Bonk! - Ow!",
+        "Bonk! - Ow!",
+        "Bonk! - Ow!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "For those of you who stood directly below your rock, congratulations. Pick up your diploma on the way out."
+      ]
+    }
+  ]
+}

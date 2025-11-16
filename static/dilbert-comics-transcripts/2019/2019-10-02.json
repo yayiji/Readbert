@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my algorithm, we are heading toward a parody inversion point."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That happens when reality becomes so absurd that it is indistinguishable from parody."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe the government can fix that.",
+        "Gaaa!!! I can't tell if you're serious!"
+      ]
+    }
+  ]
+}

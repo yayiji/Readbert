@@ -1,0 +1,23 @@
+{
+  "date": "2009-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our customer is asking for features we can't possibly deliver."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Say we can. We'll disappoint them later when it's too late to back out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Leaders don't like it when you compare things to their honeymoons."
+      ]
+    }
+  ]
+}

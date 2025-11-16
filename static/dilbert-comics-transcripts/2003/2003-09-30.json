@@ -1,0 +1,28 @@
+{
+  "date": "2003-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evil H.R. Director",
+        "New policy: You must inform your boss before applying for an internal job opening."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Purrr",
+        "Rrrrr"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, good luck,",
+        "you disloyal,",
+        "back-stabbing",
+        "ingrate."
+      ]
+    }
+  ]
+}

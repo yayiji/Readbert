@@ -1,0 +1,25 @@
+{
+  "date": "2011-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, have you done anything to address the overlap of your project with Ted's project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. I've initiated discussions to create a framework that would allow us to adopt complementary architectures."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "nothing.",
+        "When did we stop calling it leadership?"
+      ]
+    }
+  ]
+}

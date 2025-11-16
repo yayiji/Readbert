@@ -1,0 +1,31 @@
+{
+  "date": "1997-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't care what it \"looks\" like on the org chart! You're an intern, not my boss!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just saw the new org chart. Congratulations on your promotion, Asok!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's go make some strategies and pretend it's work!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not so loud. The l-u-s-e-r might hear.",
+        "Bonk",
+        "Bonk"
+      ]
+    }
+  ]
+}

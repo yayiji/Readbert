@@ -1,0 +1,25 @@
+{
+  "date": "2021-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My life has been so much better since I started making up my own data for everything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much better?",
+        "27.4% better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! I should try that.",
+        "You'll love it."
+      ]
+    }
+  ]
+}

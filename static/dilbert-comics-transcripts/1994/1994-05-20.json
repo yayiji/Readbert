@@ -1,0 +1,24 @@
+{
+  "date": "1994-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your project coming along?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's under-funded and doomed. But I've got some good inertia going and I'm setting the marketing department up to take the blame."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like I should be doing something here.",
+        "I've got you planned to make an uninformed decision next week."
+      ]
+    }
+  ]
+}

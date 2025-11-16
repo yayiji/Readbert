@@ -1,0 +1,29 @@
+{
+  "date": "2019-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm hearing that none of your code has been implemented. Why are you so unproductive?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your new lead developer doesn't know how to use Git and he keeps overwriting my patches."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what any of that means."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, thank you for stopping by."
+      ]
+    }
+  ]
+}

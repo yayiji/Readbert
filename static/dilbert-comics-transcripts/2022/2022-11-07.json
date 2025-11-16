@@ -1,0 +1,26 @@
+{
+  "date": "2022-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a bad case of whisker fatigue.",
+        "I need to take some time off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That couldn't possibly be a real thing.",
+        "Look it up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Huh.",
+        "These two are tired, but this one is totally exhausted."
+      ]
+    }
+  ]
+}

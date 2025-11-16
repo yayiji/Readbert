@@ -1,0 +1,24 @@
+{
+  "date": "1998-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a strange dream last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Research has shown that nothing is less interesting than hearing about someone else's dream."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...But this was no ordinary grape. It was a seedless!",
+        "My brain is gnawing its way out!"
+      ]
+    }
+  ]
+}

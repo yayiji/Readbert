@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you come to the product-launch party next week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I'll be working day and night for five years to build the product you think you're launching."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Something tells me you don't add much to a party.",
+        "You haven't seen my mime impression."
+      ]
+    }
+  ]
+}

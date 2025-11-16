@@ -1,0 +1,24 @@
+{
+  "date": "2006-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was wondering if you could stop by this weekend and show me how to install my wireless network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Under what theory are the competent obliged to help the incompetent?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. This is awkward.",
+        "Watch what happens when I just stare at you."
+      ]
+    }
+  ]
+}

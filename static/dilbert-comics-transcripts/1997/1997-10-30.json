@@ -1,0 +1,27 @@
+{
+  "date": "1997-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "There are several mandatory classes for managers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Avoiding contact with subordinates.",
+        "Misplacing important documents.",
+        "The joy of listening to your own voice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you taken the prerequisite class in time management?",
+        "Twice."
+      ]
+    }
+  ]
+}

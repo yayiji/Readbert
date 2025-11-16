@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's challenging to manage employees who are working remotely."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hired a stalker to look in the windows at your homes and tell me what he sees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He only lasted one day.",
+        "Sorry. That's on me."
+      ]
+    }
+  ]
+}

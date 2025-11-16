@@ -1,0 +1,24 @@
+{
+  "date": "1996-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When will my raise be effective?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The same time you are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The evil Mr. Catbert, director of H.R., is feeling \"in the zone.\"",
+        "It's as if all the employees are moving in slow motion."
+      ]
+    }
+  ]
+}

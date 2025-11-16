@@ -1,0 +1,27 @@
+{
+  "date": "1998-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have time to do one of these two assignments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One is essential to the business.",
+        "The other is not.",
+        "Which one do you want me to do?",
+        "Both!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know you want both. But if you can only get one...",
+        "Combine them and just do the one."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking of quitting and working for myself.",
+        "Come work for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Doing what?",
+        "You'll invent valuable things and I'll exploit you... I mean them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not sure you'd be the best boss, Dogbert.",
+        "Don't give me that input, you \"resource.\""
+      ]
+    }
+  ]
+}

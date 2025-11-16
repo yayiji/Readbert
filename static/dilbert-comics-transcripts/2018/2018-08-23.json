@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, give me an update on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My project is dead in the water because every time I send you my budget request, you lose it and ask me to resend it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't seen any budget requests.",
+        "I'll resend it."
+      ]
+    }
+  ]
+}

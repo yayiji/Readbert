@@ -1,0 +1,26 @@
+{
+  "date": "1993-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I boosted the power on the pointer pen light so it's easier to see on the wall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Look how strong it is now.",
+        "Click",
+        "Zzzz"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me see that. I've got a few things to point out.",
+        "Next."
+      ]
+    }
+  ]
+}

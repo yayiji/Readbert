@@ -1,0 +1,25 @@
+{
+  "date": "2013-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It took us three days at the executive retreat to come up with a name for our new procurement policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We named it the \"Procurement Operations Oversight Policy.\"",
+        "P.O.O.P.?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know how many managers it takes to come up with a good name?",
+        "A few more than you had?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1992-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Special washing instructions"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fold the garment in a five-point star and wrap in cotton swathes..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Launder only in pure glacier water heated to 98 degrees..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "For detergent, use only the glandular secretion of the Australian nik-nik bug..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In fact, I'm so delicate that you're hurting me right now. Ouch! Ouch! Let me go! Help!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stuff",
+        "Stuff"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The best I can do is to make it quick.",
+        "Aaagh!!"
+      ]
+    }
+  ]
+}

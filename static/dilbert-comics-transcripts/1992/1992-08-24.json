@@ -1,0 +1,24 @@
+{
+  "date": "1992-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There are two good articles in the paper today; one about magnets, and one on sign language."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like you to write a white paper on how these items could influence the project you're working on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you even know what project I'm working on?",
+        "I don't have time to get into minutia."
+      ]
+    }
+  ]
+}

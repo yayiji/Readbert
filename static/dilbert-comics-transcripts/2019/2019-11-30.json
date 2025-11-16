@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a regression analysis to find out which variables are common to all of our failures."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's me, isn't it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's him.",
+        "Is this what winning feels like?"
+      ]
+    }
+  ]
+}

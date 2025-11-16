@@ -1,0 +1,26 @@
+{
+  "date": "1998-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "You've been a good contract employee.",
+        "We'd like to make you a regular employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean you want to pay me less?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We want you to be motivated by something other than money.",
+        "Like... stupidity?"
+      ]
+    }
+  ]
+}

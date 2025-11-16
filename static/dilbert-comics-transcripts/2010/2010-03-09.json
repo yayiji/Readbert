@@ -1,0 +1,26 @@
+{
+  "date": "2010-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our scope needs to be calibrated.",
+        "Do we have a budget for that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can save a few bucks by sending it to my friend, Elrod.",
+        "He likes to tinker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everything about that idea is bad.",
+        "You should see the car he made from a bathtub."
+      ]
+    }
+  ]
+}

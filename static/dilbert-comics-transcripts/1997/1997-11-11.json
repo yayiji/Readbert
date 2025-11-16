@@ -1,0 +1,26 @@
+{
+  "date": "1997-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that a stack of your papers fell over and killed a cubicle cop.",
+        "Mmm"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What did you do with the body?",
+        "I enrolled it in the quality workshop next door."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a temporary solution.",
+        "The workshop is only three days."
+      ]
+    }
+  ]
+}

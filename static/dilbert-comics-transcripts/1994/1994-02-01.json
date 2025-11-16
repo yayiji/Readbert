@@ -1,0 +1,27 @@
+{
+  "date": "1994-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Saint Dogbert seeks out technology that has been possessed by the demons of stupidity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He happens across a software developer.",
+        "I'll make the command easy to remember, like \"Ctrl-Alt-F4-Del\"."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if they forget that they can just edit the source code in \"command.com\"",
+        "Perfect.",
+        "Out!",
+        "Out!"
+      ]
+    }
+  ]
+}

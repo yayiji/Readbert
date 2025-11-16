@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to disrupt our entire industry.",
+        "And we need to move quickly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But check with me before you do anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want you to think like entrepreneurs, but not like the brave ones.",
+        "Can do."
+      ]
+    }
+  ]
+}

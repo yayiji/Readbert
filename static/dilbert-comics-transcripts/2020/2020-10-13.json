@@ -1,0 +1,28 @@
+{
+  "date": "2020-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When do you think you can get me that estimate?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get off the couch with your shoes!",
+        "No! No! No!",
+        "Do not throw the iPad!",
+        "Aaagh! I am going to strangle you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you like working at home?",
+        "I'm on a Zoom call!",
+        "I said I'm on a call!!!"
+      ]
+    }
+  ]
+}

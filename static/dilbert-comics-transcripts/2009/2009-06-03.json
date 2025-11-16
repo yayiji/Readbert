@@ -1,0 +1,26 @@
+{
+  "date": "2009-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the CEO",
+        "Ratbert, you're my new VP of sales."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job is to set impossible goals for the salespeople and punish them for failing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yay!",
+        "I always wanted to be a sadist!",
+        "Dreams do come true."
+      ]
+    }
+  ]
+}

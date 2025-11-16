@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh no! I got an e-mail chain letter.",
+        "It says I'll die if I don't send it to ten more people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if I forward the message, the \"curse of Dogbert\" will be upon me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So, I figured a curse is better than certain death, right?",
+        "Spank you very much."
+      ]
+    }
+  ]
+}

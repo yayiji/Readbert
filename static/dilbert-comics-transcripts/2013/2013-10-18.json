@@ -1,0 +1,27 @@
+{
+  "date": "2013-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working on a new facial expression to scare away the weak. Want to see it?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That one means I'm too busy to talk.",
+        "I said no!",
+        "I said no!",
+        "I said no!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2001-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you call me here to punish me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, no, Asok. I want you to manage our annual business plan process."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I do that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "First, you beg your co-workers for information about their budget needs."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Half of them will give you lies. The other half will ignore you, thus underscoring your unimportance."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then you'll combine the lies and guesses into a worthless ball of data for senior management."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then our CEO will make budget decisions based on magazine articles."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How bad was the punishment?",
+        "Worse than I expected."
+      ]
+    }
+  ]
+}

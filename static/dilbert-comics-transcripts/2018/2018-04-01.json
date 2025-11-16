@@ -1,0 +1,55 @@
+{
+  "date": "2018-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming to this mandatory class on using the new system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The new system installation is behind schedule, so I'll train you using the old system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We know how to use the old system."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll point out how the new system is different as we go."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is the new system a lot like the old system?",
+        "No. Totally different."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This is the worst idea I have ever heard."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Here are some handouts from the old system's operating guide."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is the Japanese language part of the manual.",
+        "Are you going to complain about everything?"
+      ]
+    }
+  ]
+}

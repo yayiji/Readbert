@@ -1,0 +1,59 @@
+{
+  "date": "2010-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working at home today so I can concentrate without any distractions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please don't disturb me.",
+        "Nothing is so important that it can't wait."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I take that as a challenge.",
+        "No, please..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you smell that?",
+        "It's nothing.",
+        "I have to work now."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm pretty sure it's a gas leak."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Have you noticed that the lamp makes huge sparks every once in a while?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I wouldn't worry.",
+        "What's the worst thing that could happen?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think I hear a baby trapped in the wall!",
+        "Get out of my head!"
+      ]
+    }
+  ]
+}

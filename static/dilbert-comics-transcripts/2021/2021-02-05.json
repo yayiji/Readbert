@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got the COVID-19 vaccination, so I'm feeling safe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I feel sorry for you unvaccinated people who are marinating in a toxic soup of deadly viruses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for your concern.",
+        "Neener-neener."
+      ]
+    }
+  ]
+}

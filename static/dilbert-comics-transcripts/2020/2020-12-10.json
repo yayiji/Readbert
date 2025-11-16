@@ -1,0 +1,26 @@
+{
+  "date": "2020-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Which of your two projections do you think is more accurate?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They are both random guesses.",
+        "I made two of them to create the illusion of a credible range."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "would it be reasonable to pick the midpoint?",
+        "It's as reasonable as your other decisions."
+      ]
+    }
+  ]
+}

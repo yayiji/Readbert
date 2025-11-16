@@ -1,0 +1,30 @@
+{
+  "date": "2020-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I realize this report has Dilbert's name on it, but the credit goes to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because I ordered him to do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, I came up with the idea and wrote it on my own time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, I created the culture that made it all possible.",
+        "I did the work!!!"
+      ]
+    }
+  ]
+}

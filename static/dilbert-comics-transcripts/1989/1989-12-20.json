@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm afraid I'll never figure out how to make my invention work.",
+        "You are too logical. Use the right side of your brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm... yes, I must call on my creative side..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now it doesn't work and I want to cry."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2013-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, the secret to success is to do what you love and stick to it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like eating bread."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Exactly! Follow your passion."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Six months later",
+        "Maybe I should try something else.",
+        "Quitter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2022-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Then my experiment sent a quantum bit to a higher dimension."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you prove it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only if someone sends it back."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you think they have someone who can do that?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, but they might have a guy who lies about it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    }
+  ]
+}

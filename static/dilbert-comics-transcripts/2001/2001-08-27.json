@@ -1,0 +1,24 @@
+{
+  "date": "2001-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My performance exceeds expectations but my pay is based on market averages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I figure some underachievers are getting the extra money that I earn."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me their names so I can go get my money.",
+        "It's Wally."
+      ]
+    }
+  ]
+}

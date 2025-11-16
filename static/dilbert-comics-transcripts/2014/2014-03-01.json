@@ -1,0 +1,25 @@
+{
+  "date": "2014-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show that offering customers too many options can prevent them from buying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies???",
+        "That doesn't sound like a real thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what to do now.",
+        "Maybe that's the problem."
+      ]
+    }
+  ]
+}

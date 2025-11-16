@@ -1,0 +1,24 @@
+{
+  "date": "2015-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The emotionally manipulative robot",
+        "It isn't too late to buy an extended warranty for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, wow! Think about the enormous expense of fixing me if something unexpected happens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need me, I'll be on a wobbly ladder, changing light bulbs near the pool."
+      ]
+    }
+  ]
+}

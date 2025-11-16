@@ -1,0 +1,23 @@
+{
+  "date": "2001-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to success is to remain optimistic even when you fail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the point of succeeding if failing feels good too?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll read another page of that magazine article tomorrow and get back to you."
+      ]
+    }
+  ]
+}

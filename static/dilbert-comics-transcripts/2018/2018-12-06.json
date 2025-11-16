@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This was a great meeting. Are there any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't understand any of the jargon you used for the past hour, so I have no idea what this meeting was about."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why didn't you say something sooner?",
+        "That's a good strategy for people who have hope."
+      ]
+    }
+  ]
+}

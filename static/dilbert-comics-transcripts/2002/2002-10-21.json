@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the investment banker",
+        "Here's a deal sheet for a company you should buy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're defending against a trillion-dollar asbestos lawsuit, and they have no earnings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that's okay, because stock analysts don't dig that far into the minutiae."
+      ]
+    }
+  ]
+}

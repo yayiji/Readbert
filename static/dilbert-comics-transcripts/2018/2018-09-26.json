@@ -1,0 +1,25 @@
+{
+  "date": "2018-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice called me a liar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What were you doing when that happened?",
+        "Lying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should talk about that.",
+        "There's no company policy against lying. I checked."
+      ]
+    }
+  ]
+}

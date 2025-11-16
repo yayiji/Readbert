@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On Friday we'll be having a team-building session on Zoom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are welcome to drink heavily because you will already be home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how that could be more absurd.",
+        "And buy a gift for yourself."
+      ]
+    }
+  ]
+}

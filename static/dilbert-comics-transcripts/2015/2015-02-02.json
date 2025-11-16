@@ -1,0 +1,23 @@
+{
+  "date": "2015-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO is missing, so I am activating the succession plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're our new CEO. The power will corrupt you in 3... 2..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There it is."
+      ]
+    }
+  ]
+}

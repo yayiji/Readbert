@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Customers are complaining that our price stickers leave white crud on the product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our action plan is to include directions on how to lick it off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about finger-nails?",
+        "Why would you lick finger-nails?"
+      ]
+    }
+  ]
+}

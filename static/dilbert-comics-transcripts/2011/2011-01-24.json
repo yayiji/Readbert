@@ -1,0 +1,26 @@
+{
+  "date": "2011-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you reject my friend request on Facebook?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not your friend.",
+        "I'm a disgruntled wage slave who hopes you die in a freak industrial accident tomorrow at 3 PM."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's disturbingly specific.",
+        "Hey, look.",
+        "You have a meeting at the warehouse tomorrow."
+      ]
+    }
+  ]
+}

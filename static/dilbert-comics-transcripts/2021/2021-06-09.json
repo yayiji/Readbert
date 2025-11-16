@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Internal auditor",
+        "I find it hard to believe you \"accidentally\" deleted a database just as I arrived."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It makes me suspect you tried to hide something incriminating."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like reasonable doubt to me."
+      ]
+    }
+  ]
+}

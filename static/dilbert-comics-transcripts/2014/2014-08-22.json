@@ -1,0 +1,24 @@
+{
+  "date": "2014-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a guy who worked at Google because he said he was driven."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because they have free bus service?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has he shown up for work yet?",
+        "I thought he was telecommuting."
+      ]
+    }
+  ]
+}

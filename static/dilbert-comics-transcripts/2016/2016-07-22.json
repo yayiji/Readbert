@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I designed and built a prototype that can turn any kind of garbage into fuel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And Wally?",
+        "I sent out some emails, but no one answered."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Before you judge me, keep in mind that you don't know how awesome those emails were."
+      ]
+    }
+  ]
+}

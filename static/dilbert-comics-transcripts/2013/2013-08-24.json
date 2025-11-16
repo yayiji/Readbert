@@ -1,0 +1,23 @@
+{
+  "date": "2013-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services, and I am immortal!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, in a few years your function will be either distributed across existing organizations or outsourced."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that was a total buzzkill."
+      ]
+    }
+  ]
+}

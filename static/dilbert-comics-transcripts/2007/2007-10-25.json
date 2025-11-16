@@ -1,0 +1,26 @@
+{
+  "date": "2007-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "From now on, all sick days must be scheduled in advance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's ridiculous.",
+        "How are we supposed to know when we're going to be sick?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tomorrow.",
+        "I hired a guy who never washes his hands to help you with scheduling."
+      ]
+    }
+  ]
+}

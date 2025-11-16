@@ -1,0 +1,23 @@
+{
+  "date": "2000-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used to not care about my subordinates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that's all changed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I delegate the not-caring function to what's-her-face over here."
+      ]
+    }
+  ]
+}

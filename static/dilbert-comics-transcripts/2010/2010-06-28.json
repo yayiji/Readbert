@@ -1,0 +1,23 @@
+{
+  "date": "2010-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I based my estimate on the reliable input of people who just wanted me to leave them alone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I decided against labeling it because I'll probably need some deniability later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we done with the dry run, or do you want me to use up all of my energy before our CEO gets here?"
+      ]
+    }
+  ]
+}

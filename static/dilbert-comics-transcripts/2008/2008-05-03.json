@@ -1,0 +1,25 @@
+{
+  "date": "2008-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You must be Dilbert. I'm the new guy on your project team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that foul stench?",
+        "It's the stink of failure. It follows me from project to project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I get it off?!",
+        "You can dilute it by shaking hands."
+      ]
+    }
+  ]
+}

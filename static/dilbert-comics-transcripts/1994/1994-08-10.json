@@ -1,0 +1,26 @@
+{
+  "date": "1994-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Profits are down again this quarter.",
+        "That's bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Starting tomorrow, you'll have to bring your own pencils to the office.",
+        "That's bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you'll have to sell them out on the sidewalk.",
+        "That's bad."
+      ]
+    }
+  ]
+}

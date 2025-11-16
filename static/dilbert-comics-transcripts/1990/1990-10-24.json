@@ -1,0 +1,24 @@
+{
+  "date": "1990-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, the staff meeting is over. Does anybody have any meaningless, rambling questions?",
+        "Johnson?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can we work as a team to achieve total quality without sacrificing customer focus?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many people would like to see me make Johnson fetch this stick?"
+      ]
+    }
+  ]
+}

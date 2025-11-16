@@ -1,0 +1,23 @@
+{
+  "date": "2003-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, congratulations on finishing the coffee rehab program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our recidivism rate isn't too hot. Our critics blame our location."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who's swimming in our vat?"
+      ]
+    }
+  ]
+}

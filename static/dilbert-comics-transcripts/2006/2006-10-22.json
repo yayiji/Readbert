@@ -1,0 +1,54 @@
+{
+  "date": "2006-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "Our employee onboarding process will get you all mainstreamed in no time at all."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This will be your cubicle, if we can find another place to store this junk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll get a phone and a computer if the budget ever gets approved."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This is Alice. She will be your mentor."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't have time to babysit! I'm buried in work!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I do not like you. I... do... not... like you!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stand in the hallway and read these binders. If you learn anything, forget it, because knowledge isn't rewarded here."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Try giving up hope. It turns the bad feeling into emptiness."
+      ]
+    }
+  ]
+}

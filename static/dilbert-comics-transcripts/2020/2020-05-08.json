@@ -1,0 +1,29 @@
+{
+  "date": "2020-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to our newest data, 100% of the people who upgraded to version 2.0 of our software died the same day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we don't think it means anything because all of them had underlying health issues."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did they all have underlying health issues?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Version 1.0 had some rough edges, too."
+      ]
+    }
+  ]
+}

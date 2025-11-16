@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our audio is garbled. I can't hear what you are saying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I didn't say anything about a gerbil. I said our audio is garbled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd your Zoom call go?",
+        "I solved zero problems and may have endangered a gerbil."
+      ]
+    }
+  ]
+}

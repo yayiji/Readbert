@@ -1,0 +1,24 @@
+{
+  "date": "2023-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I tried to write down my strategy, but it doesn't make sense when I see it in sentences."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And from that, you concluded that the problem is . . . ?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The way it's worded.",
+        "Snork"
+      ]
+    }
+  ]
+}

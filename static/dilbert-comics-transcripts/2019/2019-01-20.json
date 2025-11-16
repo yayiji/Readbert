@@ -1,0 +1,53 @@
+{
+  "date": "2019-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes it seems as if you don't like me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't be ridiculous."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm just an introvert."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Being around people drains my energy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I only avoid you because spending five minutes with you feels like being buried alive."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "With fleas instead of dirt."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... it isn't personal?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I need a nap."
+      ]
+    }
+  ]
+}

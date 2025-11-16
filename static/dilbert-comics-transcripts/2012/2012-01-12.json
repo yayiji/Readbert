@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Leadership experts say I should never brag about my wealth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's just say I'm \"comfortable.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So very, very comfortable.",
+        "Yeah, this isn't working."
+      ]
+    }
+  ]
+}

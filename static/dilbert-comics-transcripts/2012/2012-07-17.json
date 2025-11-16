@@ -1,0 +1,24 @@
+{
+  "date": "2012-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You only do the things I put on your schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And if we consider recent declines in your home's value, I make more money than you do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your point?",
+        "It's as if you work for me now."
+      ]
+    }
+  ]
+}

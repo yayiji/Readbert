@@ -1,0 +1,57 @@
+{
+  "date": "2019-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ned won't return any of my messages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fire him.",
+        "I can't do that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ned is indispensable."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What makes him indispensable?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He's the only one who knows how to fix bugs in our system."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What system?",
+        "I don't know."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then how do you know he's indispensable?",
+        "Ned told me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Fire him anyway.",
+        "Ned quit two years ago."
+      ]
+    }
+  ]
+}

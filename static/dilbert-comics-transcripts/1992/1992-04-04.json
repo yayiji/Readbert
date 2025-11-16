@@ -1,0 +1,24 @@
+{
+  "date": "1992-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you heard about the Idaho flu that's going around?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At first you feel perfectly healthy... then bam, you die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, I feel perfectly healthy right now.",
+        "My work here is done."
+      ]
+    }
+  ]
+}

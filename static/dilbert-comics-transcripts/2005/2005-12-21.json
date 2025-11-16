@@ -1,0 +1,24 @@
+{
+  "date": "2005-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you've been charging your time to several projects, but no one has ever seen you work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't see the wind either, but surely you don't doubt that it exists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've also gotten complaints about the existence of your wind.",
+        "I rest my case."
+      ]
+    }
+  ]
+}

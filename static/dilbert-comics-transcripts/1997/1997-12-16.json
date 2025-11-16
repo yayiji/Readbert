@@ -1,0 +1,25 @@
+{
+  "date": "1997-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a little concerned about your hiring communist North Elbonian contractors to help on my top secret military project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry. What's the worst thing that could happen?",
+        "I could be executed for treason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Talk to our legal department.",
+        "Could I opt for the execution instead?"
+      ]
+    }
+  ]
+}

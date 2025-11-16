@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want the detailed analysis you won't understand..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or the executive summary that is dangerously misleading?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want an executive summary that is not misleading.",
+        "I'll count on you not knowing the difference."
+      ]
+    }
+  ]
+}

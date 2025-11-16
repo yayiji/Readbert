@@ -1,0 +1,25 @@
+{
+  "date": "2023-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the workplace dating coach",
+        "I recommend dating co-workers who identify as single."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if they have someone at home who identifies as their spouse?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't date the one at home who identifies as a spouse.",
+        "That's just asking for trouble."
+      ]
+    }
+  ]
+}

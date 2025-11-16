@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say we need to empower employees with \"values.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I guess we need some values, whatever the heck those are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it's like \"don't run with scissors.\"",
+        "Let's start with that and see if they stop asking for raises."
+      ]
+    }
+  ]
+}

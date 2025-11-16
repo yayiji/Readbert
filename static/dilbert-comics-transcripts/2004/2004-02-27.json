@@ -1,0 +1,24 @@
+{
+  "date": "2004-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think my employees are trying to kill me. Am I paranoid?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Put your answer in an e-mail. I don't want to be paying for the pauses between your words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've ruled out paranoia.",
+        "Phew! That's a relief."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ten of our finest executives got together and created a statement of our core values."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We help the community and the world by producing state-of-the-art business solutions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm glad we didn't skimp and try to do that with only nine executives.",
+        "Yeah.",
+        "It might have sucked."
+      ]
+    }
+  ]
+}

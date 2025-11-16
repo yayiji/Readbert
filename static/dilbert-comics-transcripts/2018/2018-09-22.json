@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where's the career criminal I hired to do tech support?",
+        "He was last seen talking to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rumor has it that someone murdered him, covered him in Wite-out and tried to pass him off as a statue in the lobby."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would report this if it didn't look so darned good here."
+      ]
+    }
+  ]
+}

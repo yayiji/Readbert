@@ -1,0 +1,23 @@
+{
+  "date": "2022-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The financial projections for your preferred strategy look bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Change the assumptions until they look good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now if you will excuse me, I need to get back to Twitter so I can mock people for ignoring data."
+      ]
+    }
+  ]
+}

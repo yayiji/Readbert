@@ -1,0 +1,24 @@
+{
+  "date": "2010-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's your take on this, Dilbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? Sorry. I was using this time to think about something useful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe your boss can fill you in.",
+        "I was brain-golfing."
+      ]
+    }
+  ]
+}

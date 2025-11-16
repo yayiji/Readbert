@@ -1,0 +1,56 @@
+{
+  "date": "2009-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we lease a machine from you, how can we be sure you'll stay in business to service it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can we be sure you'll have enough money to pay the lease?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could check our financials."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm pretty sure your financials are as fraudulent as ours."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Good point.",
+        "Maybe we could ask trusted third parties to vouch for us."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you trust any third parties?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Not since my financial advisor put my retirement savings in a Ponzi scheme and had an affair with my wife."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And thus ended capitalism",
+        "Well, we tried.",
+        "Maybe I could grow food in my car."
+      ]
+    }
+  ]
+}

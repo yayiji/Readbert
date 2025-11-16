@@ -1,0 +1,24 @@
+{
+  "date": "2016-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you two hours late for work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your wife didn't want to bother you, so she called me and asked if I would go to your house and see if she left her curling iron plugged in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you believe me, or do you want to risk being the first person she calls next time?",
+        "Well played."
+      ]
+    }
+  ]
+}

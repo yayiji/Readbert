@@ -1,0 +1,26 @@
+{
+  "date": "2013-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you married?",
+        "I don't have a wife, but I do have wifi."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I find that it meets all of my social and intellectual needs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you miss the warmth of human contact?",
+        "Never tried it.",
+        "Sounds problematic."
+      ]
+    }
+  ]
+}

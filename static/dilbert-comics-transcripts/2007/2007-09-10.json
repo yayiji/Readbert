@@ -1,0 +1,24 @@
+{
+  "date": "2007-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need more than tall pants and traditional looking hair to get elected president."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm hoping to form an unholy alliance with the military industrial complex."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're willing to attack allies?",
+        "It's the highest R.O.I."
+      ]
+    }
+  ]
+}

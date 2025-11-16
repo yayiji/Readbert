@@ -1,0 +1,25 @@
+{
+  "date": "2022-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The neural chip in my brain says I am hungry. And so I must eat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you still have free will?",
+        "I never had free will."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did the chip force you to say that?",
+        "No, it allowed me to see it."
+      ]
+    }
+  ]
+}

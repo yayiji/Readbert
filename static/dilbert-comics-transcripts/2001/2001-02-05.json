@@ -1,0 +1,30 @@
+{
+  "date": "2001-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a creep to help determine our product's features."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need more features."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When can you have that done?",
+        "Gaaa!!"
+      ]
+    }
+  ]
+}

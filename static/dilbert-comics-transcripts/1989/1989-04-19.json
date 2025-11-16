@@ -1,0 +1,24 @@
+{
+  "date": "1989-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pull!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Twang!",
+        "Pop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People who don't play with their food are missing a lot."
+      ]
+    }
+  ]
+}

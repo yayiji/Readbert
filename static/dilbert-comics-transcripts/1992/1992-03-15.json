@@ -1,0 +1,54 @@
+{
+  "date": "1992-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tax preparation $5.00"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need some help...",
+        "Sit down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I always fooled around during math classes. Now I can't do my own taxes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We can prattle about your inadequacies later."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll do your taxes and talk at the same time so you really feel dumb."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hmm... simply multiply the standard deviation of the cosine of your depreciation and integrate the resulting polynomial... there."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "According to this, you owe your tax preparer an additional two thousand dollars."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Confusion — it works for the IRS and it can work for you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "1997-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to make a quick phone call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want to make small talk?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I brought a magazine."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Could you tear out a few pages for me to read?",
+        "That wouldn't be right."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Give me some pages or else I'll ask Alice about panty hose.",
+        "You wouldn't dare."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So, Alice, what do you think of the concept of panty hose?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Aargh!! What moron invented leg covers that can be destroyed by touching a twig?!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Here! Make it stop!!",
+        "Too late.",
+        "Look at this!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1998-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to delegate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, I want you to give me a new cash flow estimate for your project.",
+        "Okay, fine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When will I get it?",
+        "When do you need it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "As soon as possible!",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And when do you think that will be?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I usually wait a few days to see if you change your mind."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then I'll give you last year's cash flow as a test to see if you read it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The more experience they get, the worse they are."
+      ]
+    }
+  ]
+}

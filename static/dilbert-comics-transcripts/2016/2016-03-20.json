@@ -1,0 +1,55 @@
+{
+  "date": "2016-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Step away from that open source code!",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because I am Mordac, the preventer of all efficient solutions in the information technology realm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That isn't an actual job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I was hoping it was. I lost the file with my job description."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That was five years ago. I've been winging it since then."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My parents taught me that I could be anything I wanted to be."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And I wanted to be this."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So don't use that code!",
+        "Not even when you turn around?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2020-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired an elbonian consultant because we couldn't afford anyone local."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you ever consulted in this country?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, but people are people, so I assume it isn't that different from Elbonia."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's enough chitchat."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Tell us what we should do about the problems in our distribution system."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I recommend executing one of your distributors as a warning to the others."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm going to need a second opinion."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My second opinion is that your barber must hate your guts."
+      ]
+    }
+  ]
+}

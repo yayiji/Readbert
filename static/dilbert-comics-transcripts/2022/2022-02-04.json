@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's not how we did it at my last job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your last employer went bankrupt after the government found out it was a Ponzi scheme."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That isn't relevant.",
+        "Half of the employees there were mannequins."
+      ]
+    }
+  ]
+}

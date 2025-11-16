@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I'm promoting you to category manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The job duties are the same as your current position."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But with more pay?",
+        "A slight decrease."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Office relocation",
+        "You are not allowed to move your own computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It must be left in an easily stealable condition for three days until the movers take it to the wrong cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then untrained I.T. professionals will shove an ethernet cable into your stapler and call it good.",
+        "Get out of my way."
+      ]
+    }
+  ]
+}

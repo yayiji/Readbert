@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A new study says the pill we started selling doesn't cure headaches, but it does kill 25% of the people who take it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try doubling the dose and redefining dead people as \"cured.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels unethical.",
+        "Have you ever met a dead person with a headache?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2008-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I have a funny story for you!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why am I filled with a sense of foreboding?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I was trying to print a long document, hee-hee!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But when I went to the printer, the document wasn't there!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "For the next three days I kept trying and trying, but the document never showed up at the printer!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It turns out I was checking the wrong printer. The right printer used $80,000 worth of paper that week."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And how does this affect me?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You and paper just became an either-or situation."
+      ]
+    }
+  ]
+}

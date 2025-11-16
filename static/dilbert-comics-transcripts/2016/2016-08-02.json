@@ -1,0 +1,24 @@
+{
+  "date": "2016-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our plan is to use design psychology to make our apps more addictive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ideally, we want to strip people of their free will and turn them into mindless upgrading zombies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd feel better if we called that \"marketing.\"",
+        "I need you to be more mindless too."
+      ]
+    }
+  ]
+}

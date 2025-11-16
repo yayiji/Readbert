@@ -1,0 +1,31 @@
+{
+  "date": "2007-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got promoted to lead engineer.",
+        "Me too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow.",
+        "Buzz kill."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Right back at you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you think about it, all motivation is temporary."
+      ]
+    }
+  ]
+}

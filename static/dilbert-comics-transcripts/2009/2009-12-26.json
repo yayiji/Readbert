@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, we can watch a cooking show and imagine what delicious food tastes like..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or an action movie so we can imagine killing people while cracking jokes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I can reword those choices to make us feel less like psychopathic hobos.",
+        "Please do."
+      ]
+    }
+  ]
+}

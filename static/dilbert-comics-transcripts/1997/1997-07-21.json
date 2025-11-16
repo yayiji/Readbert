@@ -1,0 +1,27 @@
+{
+  "date": "1997-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the agenda.",
+        "The first hour will be U.B.R., as usual."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This reminds me of my first job, before crash dummies were popular.",
+        "Man, I spent a fortune on aspirin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What exactly is U.B.R.?",
+        "Unfocused boss rambling.",
+        "Only 58 minutes to go."
+      ]
+    }
+  ]
+}

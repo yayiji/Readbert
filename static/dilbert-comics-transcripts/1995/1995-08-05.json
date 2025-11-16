@@ -1,0 +1,35 @@
+{
+  "date": "1995-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the temp worker",
+        "I'm only a temp,",
+        "but I demand",
+        "respect!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, maybe that's",
+        "too much to ask.",
+        "But I demand that",
+        "somebody make",
+        "eye contact with",
+        "me!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's",
+        "this?",
+        "That's",
+        "peripheral",
+        "vision!!!"
+      ]
+    }
+  ]
+}

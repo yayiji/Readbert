@@ -1,0 +1,22 @@
+{
+  "date": "2000-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are there any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you ever feel alone when you're with people?",
+        "I try to."
+      ]
+    }
+  ]
+}

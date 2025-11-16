@@ -1,0 +1,30 @@
+{
+  "date": "2014-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will give you 10% of my annual pay if you do 100% of my job for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "10% of my pay as CEO is still a lot of money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll do it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll give you 10% of what he's paying me if you do 100% of his work plus mine. It's still a lot of money.",
+        "I'm in!"
+      ]
+    }
+  ]
+}

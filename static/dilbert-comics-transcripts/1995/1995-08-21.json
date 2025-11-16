@@ -1,0 +1,25 @@
+{
+  "date": "1995-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your expense report was rejected by accounting.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because the emptiness of their shallow lives makes them want to hurt others in order to validate their pathetic existence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you help me clear this up?",
+        "To be honest, I'm kinda buying in to their philosophy."
+      ]
+    }
+  ]
+}

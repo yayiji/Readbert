@@ -1,0 +1,23 @@
+{
+  "date": "2019-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I were to quit, you would have to pay my replacement more than you are paying me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't it be more fair to give me a raise to stay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would that be fair to your replacement?"
+      ]
+    }
+  ]
+}

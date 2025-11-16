@@ -1,0 +1,22 @@
+{
+  "date": "2005-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm an attorney.",
+        "If my client is injured by this untested time machine, I will sue!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think you should consult with your client before being so belligerent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

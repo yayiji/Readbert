@@ -1,0 +1,46 @@
+{
+  "date": "1990-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, Dogbert. How are you?",
+        "Not so good, Doc."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a bad case of \"happy tongue.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hmm... Is your tongue happy for any particular reason?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No reason at all. I'm quite worried."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm going to prescribe these tongue depressors. Use one every time your tongue gets too mirthful."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I like that dog."
+      ]
+    }
+  ]
+}

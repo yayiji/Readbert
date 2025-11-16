@@ -1,0 +1,31 @@
+{
+  "date": "1989-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Then... I won't be damned?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just \"darned.\" It was a misdemeanor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You must set your thermostat for 76° and stay in the living room for fifteen minutes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm sorry, Dogbert.",
+        "I brought this upon us.",
+        "It's something you'll have to live with."
+      ]
+    }
+  ]
+}

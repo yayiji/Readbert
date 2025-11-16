@@ -1,0 +1,25 @@
+{
+  "date": "1997-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, we're changing the job titles of all non-technical people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Collectively, you'll be known as our S.C.C. group."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like the sound of it- very dignified.",
+        "We were beginning to feel like second-class citizens.",
+        "What's S.C.C. stand for?"
+      ]
+    }
+  ]
+}

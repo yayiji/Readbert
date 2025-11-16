@@ -1,0 +1,28 @@
+{
+  "date": "1993-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the law firm of Dogbert, Dogbert and Dogbert.",
+        "I'm suing you for draining the life force out of your employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "After being drained of life, employees are forced to leave the company.",
+        "The lucky ones get jobs as rags for a car wash, like Joey Pishkin here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Honk",
+        "Honk",
+        "What Joey?",
+        "That's Marge from accounting???"
+      ]
+    }
+  ]
+}

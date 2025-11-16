@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to help me upgrade the computer in my office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The computer in your office is a cardboard prop that came with your desk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, I need a new motherboard, right?",
+        "No, you need a new desk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "1997-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're one tough negotiator.",
+        "Thanks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It only took you four hours to get me all the way down to the manufacturer's suggested retail price."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no profit left!! My family will go hungry!! Bwaa! Bwaa!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sorry.",
+        "I assume you want the rust inhibitor coating for only $500.",
+        "Um...",
+        "Yeah.",
+        "Rust is bad."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yes!!",
+        "Ka-ching",
+        "Ka-ching"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sorry",
+        "We also have an invisible spray that protects against scurvy and tax audits.",
+        "Well...",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Initial here if you want your airbag to be full of fresh Aspen air instead of gravel.",
+        "Only $600."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And the lease terms are engraved on this free hood ornament!",
+        "Be glad they didn't install it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, you're the worst secretary ever. I have to let you go."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't fire me until you fill out the involuntary termination form 904-B."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you get me one of those?",
+        "Yeah. I'll get right on that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I knew I shouldn't have left the laundry in the washer all night.",
+        "I'll get a chisel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It seems to have coagulated into a grotesque dried-up-fiber-donut-sculpture kind of a thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think this is a sleeve of my sport coat.",
+        "Do you want that in a size 38?"
+      ]
+    }
+  ]
+}

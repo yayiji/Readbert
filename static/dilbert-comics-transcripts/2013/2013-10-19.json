@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is your project taking longer than expected?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's only taking longer than dumb people expected."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Still, that's a lot of people.",
+        "What can I say to make this conversation end?"
+      ]
+    }
+  ]
+}

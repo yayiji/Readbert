@@ -1,0 +1,25 @@
+{
+  "date": "2002-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!",
+        "Don't be afraid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I made a camouflage suit out of cubicle-wall fabric. Heh, heh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need a mask too.",
+        "I ran out of material. It was a mistake to make a tie."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, does your lifestyle of being useless ever leave you feeling lonely?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the old way of thinking, Asok.",
+        "Now a person can get the benefits of human contact through social media."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you use social media?",
+        "No. I run a tight ship."
+      ]
+    }
+  ]
+}

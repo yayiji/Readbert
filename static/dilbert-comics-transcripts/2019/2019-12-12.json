@@ -1,0 +1,26 @@
+{
+  "date": "2019-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "I can't figure out how to use your product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The problem is climate change.",
+        "There is nothing you can do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There must be something I can do.",
+        "Do you recycle?"
+      ]
+    }
+  ]
+}

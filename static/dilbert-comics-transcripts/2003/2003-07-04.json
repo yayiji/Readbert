@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Beep-beep-a-beep",
+        "Beep-a-beep",
+        "Every two minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you seen my cell phone?",
+        "Was it metallic, noisy and flushable?"
+      ]
+    }
+  ]
+}

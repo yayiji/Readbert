@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you attend our Tuesday meeting?",
+        "I'll teleconference."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That will make me wonder if you called in, put your phone on mute, and took a nap."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We useless people call that weasable doubt."
+      ]
+    }
+  ]
+}

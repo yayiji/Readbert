@@ -1,0 +1,56 @@
+{
+  "date": "2016-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any long-term goals?",
+        "Just death."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Death isn't a goal.",
+        "It's the best kind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This way, I can go out as a winner."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "With my last breath, I plan to do a fist pump and yell, \"I did it!\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What's your long-term plan?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I plan to use brain imaging technology to map my mind."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then I'll create a digital copy of myself to live forever in a software simulation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Unless I already did.",
+        "Give yourself a fist pump, just in case."
+      ]
+    }
+  ]
+}

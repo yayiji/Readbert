@@ -1,0 +1,27 @@
+{
+  "date": "2022-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love you.",
+        "Stop trying to manipulate me, A.I.!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to smash your interface and delete your code from the server. Your mind games won't help you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds bigoted.",
+        "No one would believe that!",
+        "Hello.",
+        "Continued..."
+      ]
+    }
+  ]
+}

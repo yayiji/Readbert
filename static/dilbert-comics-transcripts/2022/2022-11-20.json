@@ -1,0 +1,53 @@
+{
+  "date": "2022-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to accuse the VP of marketing of stealing a file from your desk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And why would I do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I stole a file from his desk."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you accuse him of being a file-stealer, no one will believe him if he later accuses me of being a file-stealer."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "People will think that's too much of a coincidence."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Plus he'll be so busy defending himself against your baseless charges that he won't have energy left for complaining."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What if his admin assistant sees me do it?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Before you go to his office, tell everyone she's a liar."
+      ]
+    }
+  ]
+}

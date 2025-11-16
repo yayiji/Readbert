@@ -1,0 +1,26 @@
+{
+  "date": "2013-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ignore the page revisions I sent out ten minutes ago.",
+        "Your boss revised them again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I ignore the new revisions, too?",
+        "I'm only asking because that was my plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for removing the last shred of meaning from my work.",
+        "It's what I do."
+      ]
+    }
+  ]
+}

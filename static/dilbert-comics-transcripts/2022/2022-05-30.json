@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've decided to become a big pharma company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As business expert Willie Sutton once advised, \"Because that's where the money is.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was talking about bank robbery.",
+        "What's your point?"
+      ]
+    }
+  ]
+}

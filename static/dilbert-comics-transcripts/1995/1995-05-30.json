@@ -1,0 +1,24 @@
+{
+  "date": "1995-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you taken the mandatory training for business ethics?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. But if you say I did then you'll save some money on training which you can spend to decorate your office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Luckily, I haven't taken the training myself.",
+        "I hear it's mostly common sense anyway."
+      ]
+    }
+  ]
+}

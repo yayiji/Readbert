@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor that you hate working with people who wear big hats."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see hats."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you patronizing me right now?",
+        "I can't tell."
+      ]
+    }
+  ]
+}

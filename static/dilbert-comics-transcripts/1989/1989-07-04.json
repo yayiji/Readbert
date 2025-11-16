@@ -1,0 +1,35 @@
+{
+  "date": "1989-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I still think it's dumb to elect the only known criminal around as leader of the neighborhood crime watch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe \"Bad Ed\" has changed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Crash!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's from Ed.",
+        "\"Next meeting:",
+        "Tuesday at",
+        "8:00 p.m.\"",
+        "I can't wait",
+        "for the",
+        "newsletter."
+      ]
+    }
+  ]
+}

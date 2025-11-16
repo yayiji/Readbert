@@ -1,0 +1,25 @@
+{
+  "date": "1989-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hold it right there, fella!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh... you must have seen me eat that grape in aisle \"B\".",
+        "I just want to make sure you pay for it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like 192 pounds. What were you before you came in?",
+        "Happy."
+      ]
+    }
+  ]
+}

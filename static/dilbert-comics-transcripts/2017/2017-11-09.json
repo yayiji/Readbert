@@ -1,0 +1,28 @@
+{
+  "date": "2017-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won a bid to design stealth clothing for the military."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ooh! Ooh!",
+        "I volunteer to work on that project.",
+        "Um...",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One month later",
+        "Your attendance has been poor lately.",
+        "Here's where I teach you about \"reasonable doubt.\""
+      ]
+    }
+  ]
+}

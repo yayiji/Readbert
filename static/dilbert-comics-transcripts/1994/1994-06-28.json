@@ -1,0 +1,25 @@
+{
+  "date": "1994-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the book publishing business coming along?",
+        "Great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I get to reject dozens of authors every day! I call them untalented dolts and they thank me for it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Eventually, you have to actually publish something.",
+        "Yeah, well, that's the conventional wisdom."
+      ]
+    }
+  ]
+}

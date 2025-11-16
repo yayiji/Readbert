@@ -1,0 +1,59 @@
+{
+  "date": "1996-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great news!",
+        "The company set a new record for profits!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means t-shirts for everyone!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can choose from sizes \"small,\"",
+        "\"petite\"",
+        "or \"elfin.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Shouldn't these have the company name or logo on them?",
+        "Hey, that's an idea for next year!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's 1% cotton, 99% \"miscellaneous\" and all hand-made by authentic slave laborers."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's great! With slave labor you don't have the problem that the shirts made on Fridays aren't as good!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you ever worry that our career expectations have gotten too low?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't go there, Alice.",
+        "\"Casual day,\"",
+        "here I come!"
+      ]
+    }
+  ]
+}

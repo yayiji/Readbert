@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't focus so much on making the software do what our customers want it to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just make it hard for users to uninstall it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would they buy it in the first place?",
+        "A big part of our strategy involves lying."
+      ]
+    }
+  ]
+}

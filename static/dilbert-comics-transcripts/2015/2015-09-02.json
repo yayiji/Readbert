@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to kill the CEO of our main competition and make it look like a robot accident."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Robots are not allowed to kill humans. That is built into my program."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I uncheck that box on your control app?",
+        "This feels like the start of a great day."
+      ]
+    }
+  ]
+}

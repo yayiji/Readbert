@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert doesn't believe me when I tell him I need more alone time for my mental health."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would he listen to you when you're obviously crazy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate talking to you.",
+        "Should I fake more empathy?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2009-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The economy is circling the drain.",
+        "I need each of you to take a 10% cut in pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have that much cushion in my budget.",
+        "Yesterday I boiled my shoelaces for dinner."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remind me not to accept any dinner invitations to your house.",
+        "Don't worry!"
+      ]
+    }
+  ]
+}

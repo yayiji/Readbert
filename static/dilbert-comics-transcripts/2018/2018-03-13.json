@@ -1,0 +1,26 @@
+{
+  "date": "2018-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is everyone ready to go to lunch yet?",
+        "I've been waiting for ninety minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We just got back.",
+        "No one noticed you weren't with us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your team-building lunch?",
+        "Suboptimal."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2013-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's that awful smell?",
+        "My new fragrance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's half pepper spray and half gym sock."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It has a dual purpose."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The pepper spray is so I can build up an immunity to it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That'll probably come in handy someday.",
+        "Right?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The second purpose is to create an odiferous moat around me to discourage the weaker romantic applicants."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Unh!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I might need to tweak the formula."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services",
+        "I made some changes to the network that I alone understand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't have time to test it, but if there is a problem, I'll be on vacation for three weeks in a Russian submarine below the Arctic Circle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My screen just went blank.",
+        "Let's chalk that up to coincidence."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2022-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company has a low ESG score, and I hold each of you responsible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take Dilbert, for example. He's not diverse, he pollutes, and he rarely asks for your pronouns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can't fix the world overnight, but targeting Dilbert for abuse is a step in the right direction."
+      ]
+    }
+  ]
+}

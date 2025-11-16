@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting into the electric car business.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because it sounds impressive and it will take years for anyone to figure out we did it wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll have new jobs by then.",
+        "Did you just turn my job into a criminal conspiracy?"
+      ]
+    }
+  ]
+}

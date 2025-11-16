@@ -1,0 +1,55 @@
+{
+  "date": "1995-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll be performing a \"Turing test\" on our new artificial intelligence software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try to determine if the responses on your screen come from our computer or a human in the next room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll ask it to write a strategy for our company."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Our strategy is to visionize quality resources that enhance earnings.",
+        "Hmm"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll ask it how to motivate employees."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Reorganize often to improve focus. Redefine work as 'opportunity' and increase it daily. Take time to ask for opinions then explain why they're wrong."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It must be a computer because there's no human intelligence.",
+        "Unless..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Nice try, boss."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This survey will help us improve morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I misjudged you.",
+        "I thought you were an evil director of H.R., but you care about morale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When we fire this disgruntled guy, my morale will go way up.",
+        "Hee hee!"
+      ]
+    }
+  ]
+}

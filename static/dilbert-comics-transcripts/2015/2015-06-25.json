@@ -1,0 +1,25 @@
+{
+  "date": "2015-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm loaning you to the government to help stop the worst cyber attack our country has seen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wrote an app for that.",
+        "I okay... done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we good?",
+        "It's a gray area. I might need to kill you and steal the app."
+      ]
+    }
+  ]
+}

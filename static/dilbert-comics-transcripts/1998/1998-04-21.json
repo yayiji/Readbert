@@ -1,0 +1,27 @@
+{
+  "date": "1998-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the airport",
+        "Hey, Dilbert!",
+        "We must be taking the same flight!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll change my seat assignment so we can talk for six hours.",
+        "No, no!",
+        "That's okay!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These flights can be very long if you don't have someone to listen to your golf stories."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1994-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you remember what the steering committee decided about my project?",
+        "Nope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'd better call a meeting with all the department heads.",
+        "Their orders will override the steering committee and make it a moot point."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It will take months to get on all of their calendars.",
+        "And don't invite yourself. It's for leaders only."
+      ]
+    }
+  ]
+}

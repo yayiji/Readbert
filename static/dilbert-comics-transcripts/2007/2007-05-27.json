@@ -1,0 +1,54 @@
+{
+  "date": "2007-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The best choice for employee of the month is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Congratulations to Alice for being our employee of the month!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You get to use my parking spot near the entrance for the rest of the month."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I take public transit to work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You also get to take the rest of today off."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's already five o'clock, and you said I need to finish my project by tomorrow morning."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And you get to have pizza with me.",
+        "I'm on a #!@*% low carb diet!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I nailed it."
+      ]
+    }
+  ]
+}

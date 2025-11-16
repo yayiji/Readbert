@@ -1,0 +1,53 @@
+{
+  "date": "1991-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should have seen that fish..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing, compared to the fish I..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, Dilbert."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He wants to hug me. That's strange. Okay, I'm a nineties guy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hi, boss."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now I'll have to hug this guy so it doesn't seem awkward."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hi, it's a pleasure to meet you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm glad we've outgrown the uptight eighties."
+      ]
+    }
+  ]
+}

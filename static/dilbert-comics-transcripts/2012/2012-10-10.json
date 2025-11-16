@@ -1,0 +1,24 @@
+{
+  "date": "2012-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news! Our biggest competitor just went out of business!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There was so much anticipation for their next product that no one bought the current one and they ran out of money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our strategy of predictable mediocrity paid off again.",
+        "It's okay to call it genius."
+      ]
+    }
+  ]
+}

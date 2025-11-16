@@ -1,0 +1,23 @@
+{
+  "date": "2012-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why don't you change this box to say \"virtual\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because I don't want it to look like it was written by an ignorant blob in an ugly wool suit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You probably shouldn't put your suggestions in the form of questions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1997-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll need a risk analysis on this project before I can approve it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Risk 1: Indecisiveness",
+        "Risk 2: Overanalysis",
+        "Risk 3: Cluelessness",
+        "Risk 4: Micromanagement..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand these risks.",
+        "That's number thirty-six."
+      ]
+    }
+  ]
+}

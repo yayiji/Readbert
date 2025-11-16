@@ -1,0 +1,24 @@
+{
+  "date": "1991-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert is chosen to have lunch with an executive.",
+        "I want you to know that I'm just a normal guy..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, sure, I make a little more money, and I have a nice office..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And of course, I'm much, much smarter."
+      ]
+    }
+  ]
+}

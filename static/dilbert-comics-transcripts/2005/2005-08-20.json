@@ -1,0 +1,23 @@
+{
+  "date": "2005-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A prestigious window-facing cubicle has just become available."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It'll be a perfect place to store all of the printer paper I bought so I could win a free trip from the paper vendor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And maybe the sunlight will bleach out the visible wood chips."
+      ]
+    }
+  ]
+}

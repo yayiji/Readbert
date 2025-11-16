@@ -1,0 +1,25 @@
+{
+  "date": "1995-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's inexplicable, but the low-cost system I sold you seems to be woefully under-powered."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could replace it with another vendor's system, thus showing everybody you made a mistake.",
+        "Or you can pay my outrageous upgrade fees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How big a fool do you think I am?",
+        "I won't know until I see if you go for the lease option."
+      ]
+    }
+  ]
+}

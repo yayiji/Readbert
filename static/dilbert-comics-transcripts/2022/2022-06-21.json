@@ -1,0 +1,25 @@
+{
+  "date": "2022-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the selfish therapist",
+        "I keep telling people how great I am, but for some reason, I can't make friends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you tried yelling?",
+        "How would that help?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just thought it would be funny because they hate you anyway."
+      ]
+    }
+  ]
+}

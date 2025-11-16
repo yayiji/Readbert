@@ -1,0 +1,54 @@
+{
+  "date": "2016-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the worst-case scenario?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A rogue nation could insert a cyberweapon in our software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The virus could destroy all technology on Earth."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Lacking the means to communicate over great distances, single people would only be able to marry people who lived nearby."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I could end up marrying your daughter. That would make you my father-in-law and my boss."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That nightmare would cause me to denounce humankind and go live in the park, naked, with a family of squirrels."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When winter came, I would be forced to strangle the squirrels, one by one, to make myself a coat."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I can't tan leather, so that would be a senseless tragedy.",
+        "Let's try to avoid that."
+      ]
+    }
+  ]
+}

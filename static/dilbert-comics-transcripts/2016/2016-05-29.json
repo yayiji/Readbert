@@ -1,0 +1,56 @@
+{
+  "date": "2016-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the slide deck?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried, but it was impossible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some idiot in a nearby cubicle was clipping his nails."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It was like torture.",
+        "Clip, clip, clip, clip, clip."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I couldn't think with that noise polluting the office air."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I thought it ended, but then I heard shoes and socks come off.",
+        "It was my worst nightmare."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, whatever.",
+        "Wally, did you finish your tasks?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I tried, but then I noticed that my nails were uneven."
+      ]
+    }
+  ]
+}

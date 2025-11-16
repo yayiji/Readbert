@@ -1,0 +1,25 @@
+{
+  "date": "1997-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Give me the name of any famous person.",
+        "Sandra Bullock."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sandra Bullock was in a movie with Kevin Spacey... and Kevin Spacey eats bacon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See that? Everyone on Earth is only one degree away from someone named Kevin who eats bacon!",
+        "That is so close to being fascina-ting."
+      ]
+    }
+  ]
+}

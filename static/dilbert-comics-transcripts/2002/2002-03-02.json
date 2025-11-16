@@ -1,0 +1,27 @@
+{
+  "date": "2002-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm in a bad mood.",
+        "Maybe I'll feel better if I criticize some employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm doing some recreational criticizing.",
+        "What do you have for me?",
+        "E-mail"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You read e-mail like a chimp!",
+        "Alice said she needs to talk to you."
+      ]
+    }
+  ]
+}

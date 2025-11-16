@@ -1,0 +1,25 @@
+{
+  "date": "2016-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Will our new website be live this week?",
+        "That depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you request even the slightest change, it could set things back for months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only want to change the home page title font.",
+        "Oh, great. I should be done by next summer."
+      ]
+    }
+  ]
+}

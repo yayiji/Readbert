@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll be on the task force to recruit the smartest college seniors to work here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember to lie often. And don't mock them for their lack of real life experience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you're saying meetings are just like parties?",
+        "Well, I'm not allowed to say the \"o-word\"..."
+      ]
+    }
+  ]
+}

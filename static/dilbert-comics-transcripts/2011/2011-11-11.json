@@ -1,0 +1,25 @@
+{
+  "date": "2011-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop right there.",
+        "Don't tell me the technical details of your idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I make my decisions based on what I know about the people involved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You know less about me than you know about my idea.",
+        "Is your idea pale and poorly dressed?"
+      ]
+    }
+  ]
+}

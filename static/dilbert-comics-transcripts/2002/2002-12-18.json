@@ -1,0 +1,23 @@
+{
+  "date": "2002-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can avoid probate costs by creating a living trust."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... I can use an inconvenient system created by lawyers to avoid a worse system created by lawyers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "According to my watch, that witty observation cost you four dollars."
+      ]
+    }
+  ]
+}

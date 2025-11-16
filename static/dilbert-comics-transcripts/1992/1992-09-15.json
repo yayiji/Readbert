@@ -1,0 +1,24 @@
+{
+  "date": "1992-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, we need you to become the charismatic leader of our vegetarian movement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We tried to pick a leader from our ranks, but most of us are... uh... well..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Scrawny wimps?",
+        "Yeah, but deceptively healthy."
+      ]
+    }
+  ]
+}

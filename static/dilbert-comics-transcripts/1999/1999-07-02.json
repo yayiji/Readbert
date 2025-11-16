@@ -1,0 +1,23 @@
+{
+  "date": "1999-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to see a technical trick I taught myself?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I shuffle my feet, I can make a tiny spark with my finger."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's right; this thing does make an excellent door-stop."
+      ]
+    }
+  ]
+}

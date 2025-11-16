@@ -1,0 +1,25 @@
+{
+  "date": "2003-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll have the data by Tuesday.",
+        "How do you know that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must be getting invited to meetings and then saying, \"Don't invite Peri.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would it be wrong to enjoy this opportunity?",
+        "Plotting!! Right there!!!"
+      ]
+    }
+  ]
+}

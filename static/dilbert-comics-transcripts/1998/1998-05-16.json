@@ -1,0 +1,24 @@
+{
+  "date": "1998-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had to make some optimistic assumptions to meet the revenue target."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In week three, we're visited by an alien named D'utox Inag who offers to share his advanced technology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then do we use his technology to design our new product?",
+        "No, we kill him and sell the autopsy video."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1991-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I lost my fortune in a high-risk investment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Junk bonds?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Checking account at \"Ethel's Savings and Loan\"!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2010-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Crime scene cleaning",
+        "There's no budget for a mop or cleaning supplies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I have is this pole and you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could duct tape me to the pole.",
+        "Yup. If we had duct tape."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not really a genius."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you say something?",
+        "I'm practicing my false humility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this just a way to weasel more compliments out of people?",
+        "Oh, I could never be that clever."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO wants to join the billionaire space club. He asked us to build him a rocket."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We might need to cut some corners on the rocket design, for budget reasons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Any ideas?",
+        "I'd go cheap on reentry."
+      ]
+    }
+  ]
+}

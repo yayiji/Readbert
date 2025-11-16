@@ -1,0 +1,26 @@
+{
+  "date": "2003-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted is being rude and unhelpful.",
+        "Can you ask his boss to remove him from the project?",
+        "Send"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll forward this to Ted.",
+        "That should help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder how people solved problems before e-mail."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1995-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My laptop computer is locked up. Can you help?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember you have to hold it upside down and shake it to reboot.",
+        "Oh, that's right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if he'll ever realize we gave him an \"Etch-a-Sketch.\""
+      ]
+    }
+  ]
+}

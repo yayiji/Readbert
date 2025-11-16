@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Half of us are glad you meddled with our genes and made us grow helpful tails."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The other half want to see you stand trial and, ultimately, get executed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which group are you in?",
+        "I came to ask for a second tail."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "1989-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Therefore, Curly must have been the smartest of all the stooges."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won what ?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I won the lottery!",
+        "We're millionaires, Dogbert!!",
+        "Knock knock"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Global news - May I interview you on your sudden wealth?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What would you like to say to the entire planet ?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The wealth had come quickly...",
+        "Er...um..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And just as quickly, it was gone.",
+        "Drinks for everybody!"
+      ]
+    }
+  ]
+}

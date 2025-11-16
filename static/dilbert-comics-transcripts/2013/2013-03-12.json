@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Halt! You have entered the terri- torial mud of North Elbonia!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll text you a link to a web page about our forced labor camps. You might like them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This looks better than my current job.",
+        "No rush, but I have an appoint- ment to capture a Canadian at eleven."
+      ]
+    }
+  ]
+}

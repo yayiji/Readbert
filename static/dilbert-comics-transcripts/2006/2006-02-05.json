@@ -1,0 +1,56 @@
+{
+  "date": "2006-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, handsome.",
+        "Are you free for lunch?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you selling something, or do you have a horrible defect that isn't apparent?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it so hard to believe that a hot, intelligent, sane woman would be attracted to a man like you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gaaa!!! It's worse than I thought!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe we could just drink coffee and talk about the last episode of Battle-Star Galactica.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Get away from me, you perfect monster!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There must be a guy in the engineering department who will date me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hi.",
+        "What's wrong with you?"
+      ]
+    }
+  ]
+}

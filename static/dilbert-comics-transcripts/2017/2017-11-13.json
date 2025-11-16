@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late.",
+        "There was a big accident on the freeway."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not according to my traffic app."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just out of curiosity, what types of excuses are impossible to check with an app?"
+      ]
+    }
+  ]
+}

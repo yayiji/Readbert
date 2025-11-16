@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new assignment is \"troll in charge of the legacy systems.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess I shouldn't complain. I'm lucky to have a job in this economy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would a free bag of garbage make you feel better?",
+        "A little."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are we too big to fail?",
+        "Nope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're more like two pigs that flail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's clever, and yet demoralizing.",
+        "You're welcome."
+      ]
+    }
+  ]
+}

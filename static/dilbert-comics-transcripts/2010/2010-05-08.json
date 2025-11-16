@@ -1,0 +1,25 @@
+{
+  "date": "2010-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services",
+        "My software is so old that I can't open any files that people send me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't upgrade your computer because then it will be non-standard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by non-standard, you mean useful?",
+        "Be gone, wordsmith!"
+      ]
+    }
+  ]
+}

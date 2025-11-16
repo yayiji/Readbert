@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like me to tell you what I accomplished this week with our legacy system?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because legacy systems are boring and I like to think about new things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought we replaced all of our legacy systems.",
+        "Keep your thoughts to yourself."
+      ]
+    }
+  ]
+}

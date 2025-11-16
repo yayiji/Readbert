@@ -1,0 +1,24 @@
+{
+  "date": "2013-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It takes money to make money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where did the first money come from?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm pretty sure it takes money to waste money, too.",
+        "Please stop talking!"
+      ]
+    }
+  ]
+}

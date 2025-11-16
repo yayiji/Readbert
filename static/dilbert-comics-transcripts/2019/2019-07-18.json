@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Housing costs are so high that I had to move into a restroom stall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I live in the park under a pile of wet cardboard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried a stall?",
+        "No, I'm too outdoorsy for that."
+      ]
+    }
+  ]
+}

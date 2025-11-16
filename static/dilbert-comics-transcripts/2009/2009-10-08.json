@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I'd like to talk to you about your career goals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My career goal is to take over the department by tricking you into a fatal accident, then telling everyone you're just working from home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not right.",
+        "So you're saying I should set my goals low?"
+      ]
+    }
+  ]
+}

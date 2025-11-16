@@ -1,0 +1,25 @@
+{
+  "date": "2018-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a more ergonomic office chair.",
+        "Let me check the budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm... nope. We don't have a budget for making whiny employees happy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My current chair hurts my back.",
+        "It's no picnic for the chair either."
+      ]
+    }
+  ]
+}

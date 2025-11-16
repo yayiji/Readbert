@@ -1,0 +1,56 @@
+{
+  "date": "2010-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need this class to update my skills.",
+        "Will you approve the expense?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where's the analysis of alternatives?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you ask for funding, you need to tell me what my options are."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, okay.",
+        "That seems logical."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Option two: Do nothing while I become increasingly unqualified for my job."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Option three: Replace me with someone younger who earns less than I do and already has the skills."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Options are only good when other people don't have them."
+      ]
+    }
+  ]
+}

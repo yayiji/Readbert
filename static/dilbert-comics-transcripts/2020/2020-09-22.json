@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you write the project summary, make it seem as if we didn't make any mistakes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You want me to lie? That would be a massive ethical violation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, no. I only want you to omit important context.",
+        "Why does my stomach hurt?"
+      ]
+    }
+  ]
+}

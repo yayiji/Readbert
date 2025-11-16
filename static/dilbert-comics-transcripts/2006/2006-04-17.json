@@ -1,0 +1,23 @@
+{
+  "date": "2006-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your honest opinion about my project plan. Don't hold back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your plan looks like it was written by a drunken lemur as a practical joke on other drunken lemurs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today I learned that people don't like drunken lemur analogies."
+      ]
+    }
+  ]
+}

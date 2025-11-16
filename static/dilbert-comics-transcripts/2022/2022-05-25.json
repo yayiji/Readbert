@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elon Musk finalized his purchase of our company and implemented a new rule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The rule is \"Don't do anything that could end up in...\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... this is weird.",
+        "Now do you believe we live in a simulation?"
+      ]
+    }
+  ]
+}

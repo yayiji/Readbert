@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have an idea for how our company can make money from the metaverse?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We could create digital creatures who think they are real."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would they do?",
+        "The dumb ones would ask a lot of questions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1990-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The crook who robbed our house used my company I.D. card to steal my job too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I have is you, my friend.",
+        "Dogbert?",
+        "Don't you hate it when they say",
+        "CONTINUED"
+      ]
+    }
+  ]
+}

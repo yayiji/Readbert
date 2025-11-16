@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "From now on, refer to your employees as \"knowledge assets.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That will send an unmistakable message."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He calls us \"knowledge assets\" now. He must think we're complete morons.",
+        "It's an unmistakable message."
+      ]
+    }
+  ]
+}

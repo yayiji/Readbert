@@ -1,0 +1,25 @@
+{
+  "date": "1997-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok the intern",
+        "I installed calendar software on our network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now you can see everyone's schedule and easily set up meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I say we grab him and apply some cubicle justice.",
+        "Good idea, but I'm in meetings until the year 3006."
+      ]
+    }
+  ]
+}

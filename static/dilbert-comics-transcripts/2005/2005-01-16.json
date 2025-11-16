@@ -1,0 +1,59 @@
+{
+  "date": "2005-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Certified massage therapist",
+        "Fill out this lengthy medical questionnaire."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That'll save me a few minutes of touching him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if he'd know if I only used one hand."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Actually, how would he even know if it's a hand?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe I have an object in here that feels like a hand."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This ballpoint pen will work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm finding some tension here.",
+        "Okay, it's gone now.",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "She says I should come back every week until my muscles stop clicking.",
+        "Sounds like you found a pen pal."
+      ]
+    }
+  ]
+}

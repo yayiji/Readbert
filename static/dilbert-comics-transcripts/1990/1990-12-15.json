@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Clues from women's hair",
+        "This woman is single"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The same woman, now married"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Married, two kids"
+      ]
+    }
+  ]
+}

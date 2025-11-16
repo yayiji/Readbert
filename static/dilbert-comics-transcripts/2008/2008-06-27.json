@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to attend a meeting for your boss while he's on vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to bully you into making decisions that are bad for your department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's almost as if you have no respect for me.",
+        "Yeah, almost."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2020-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's corporate safety training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't touch anything, don't move around, and don't talk to anyone. Ever!",
+        "Thanks for coming."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the whole class?",
+        "Don't blame me for being good at summarizing."
+      ]
+    }
+  ]
+}

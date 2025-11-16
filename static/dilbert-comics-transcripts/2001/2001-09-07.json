@@ -1,0 +1,24 @@
+{
+  "date": "2001-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is there more to life than just working?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, there's also the complaining about work, the nightly periods of unconsciousness and sweet, sweet death."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should have kids.",
+        "To share the joy?"
+      ]
+    }
+  ]
+}

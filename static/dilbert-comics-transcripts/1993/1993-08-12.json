@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert and Zimbu compete for one job.",
+        "This next event tests your humor and creativity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The objective is to see how much fun you can have in the barrel. Who wants to go first?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is no fair. Zimbu is a monkey. He has an advantage.",
+        "Actually, this is a test of your gullibility."
+      ]
+    }
+  ]
+}

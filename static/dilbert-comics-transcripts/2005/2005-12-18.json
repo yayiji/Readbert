@@ -1,0 +1,59 @@
+{
+  "date": "2005-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to buy some insurance, but I don't know much about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need my special indemnity casualty whole life umbrella rider binder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does it cover?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can't answer that directly."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just read that list of exclusions. Anything not in there is covered."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Does it cover acts of God?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes, unless you pray to the wrong one."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do I know if it's the wrong God?"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "If you buy this insurance, and lightning doesn't strike me, try another God."
+      ]
+    }
+  ]
+}

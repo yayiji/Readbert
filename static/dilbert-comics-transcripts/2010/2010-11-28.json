@@ -1,0 +1,53 @@
+{
+  "date": "2010-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The CEO pep talk",
+        "I want to know I can count on every one of you!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's wrong with these people?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well... I fired that guy this morning. His last day is tomorrow."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That one retires at the end of the month."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Those three are contractors. I didn't renew their contracts."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The rest of them believe that motivation is how the powerful steal from the dumb."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Tell them I hate their guts.",
+        "I did that in the pre-meeting."
+      ]
+    }
+  ]
+}

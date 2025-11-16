@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hold on, I have to text my boss while he's driving."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll say it's a crisis so he has to text back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it legal to kill him that way?",
+        "Yes, I checked with a lawyer first."
+      ]
+    }
+  ]
+}

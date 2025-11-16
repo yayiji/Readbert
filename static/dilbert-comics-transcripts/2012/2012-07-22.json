@@ -1,0 +1,59 @@
+{
+  "date": "2012-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I completed the wireframe and passed it off to our coders."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's great. Did you incorporate all of my specs?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't see any specs from you. Maybe my spam filter ate your email."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No problem. I'll resend them and you can start from scratch."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yes, I certainly could do that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or I could ignore your input, enjoy my deep feeling of accomplishment, and hope for the best."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That sounds easier."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I accept your wise counsel, Wally."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I guess your search for relevance marches on."
+      ]
+    }
+  ]
+}

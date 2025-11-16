@@ -1,0 +1,24 @@
+{
+  "date": "1997-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I've noticed a disturbing pattern.",
+        "Your solutions to problems are always the things you try last."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With all due respect, are you using your skull to store old rags or what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a good thing you said \"with all due respect.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2021-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it a coincidence that the only part of your presentation I understand is also clearly wrong?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, you caught me.",
+        "I'm actually a fraud.",
+        "I offer my resignation, effective immediately. Goodbye."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is the first time I ever won a meeting.",
+        "I have to say, it feels good."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's only 68 degrees in here. Why aren't you cold?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a mammal, but I don't like to brag about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's that supposed to mean?",
+        "Stop pinging me with your sonar."
+      ]
+    }
+  ]
+}

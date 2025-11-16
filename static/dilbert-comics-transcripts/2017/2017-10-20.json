@@ -1,0 +1,24 @@
+{
+  "date": "2017-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People tell me you're under-performing.",
+        "Did you hear it from anyone credible?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I know it's true because my gut tells me it's true."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm curious where you stick your head to listen to your gut?"
+      ]
+    }
+  ]
+}

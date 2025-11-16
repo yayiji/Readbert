@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Get Ted's input before you finalize the plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted is the dumbest human being in the known universe. His opinion can only make things worse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's how we do it here.",
+        "I didn't realize it was a strategy."
+      ]
+    }
+  ]
+}

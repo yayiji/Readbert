@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the C.E.O.",
+        "I'm an investment banker. I can help you loot this place and escape."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll merge with my other client company. Your golden parachute kicks in. Then you exercise your stock options on the uptick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You rarely see a merger announcement with the phrase, \"So long, suckers.\"",
+        "Ouch."
+      ]
+    }
+  ]
+}

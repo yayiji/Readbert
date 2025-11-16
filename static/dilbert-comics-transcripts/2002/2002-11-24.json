@@ -1,0 +1,57 @@
+{
+  "date": "2002-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate today...",
+        "I hate today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally's annual performance review."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's compare your objectives with...",
+        "What the...?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Apparently your objectives are \"play computer solitaire and drink coffee.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I hope you're learning a valuable lesson about reading documents before signing them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, we'll use what we have.",
+        "How many games of solitaire did you win?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Win? I didn't know you could win. Is that something new?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He made you the employee of the month?",
+        "He thinks he signed a warning for my file."
+      ]
+    }
+  ]
+}

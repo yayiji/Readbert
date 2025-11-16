@@ -1,0 +1,32 @@
+{
+  "date": "1990-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How to be a boring person",
+        "Our first demonstration is called \"listing things because you can.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like the numbers that are divisible by two...",
+        "For instance four...",
+        "And ten... and sixteen",
+        "And eight... and twelve...",
+        "And, uh... forty...",
+        "And ten, or did I already say ten?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now act confused",
+        "And start over, using your fingers as if that helps.",
+        "Okay, four...",
+        "And ten..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1991-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Jiffy med cent"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want self service or the full service?",
+        "Uh...full"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does full service include?",
+        "We squeegee your glasses and check under your shirt."
+      ]
+    }
+  ]
+}

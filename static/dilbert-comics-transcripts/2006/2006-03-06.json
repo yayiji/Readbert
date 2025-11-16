@@ -1,0 +1,25 @@
+{
+  "date": "2006-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The legal department says your plan is illegal.",
+        "Ask them again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe they'll change their minds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll get on that as soon as I'm done panning for gold in the water fountain.",
+        "That's the spirit!"
+      ]
+    }
+  ]
+}

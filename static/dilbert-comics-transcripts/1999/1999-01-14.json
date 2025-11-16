@@ -1,0 +1,25 @@
+{
+  "date": "1999-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Venture capitalists gave me money to start a web-based business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do they know you're lazy and dishonest?",
+        "It didn't come up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What'll you create... besides accounting irregularities?",
+        "That's all I have the energy for."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2019-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't in good conscience support inaccurate health claims about our products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you a 20% raise if you stay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I quit too, because of all the ethics and stuff.",
+        "Don't ruin this for me."
+      ]
+    }
+  ]
+}

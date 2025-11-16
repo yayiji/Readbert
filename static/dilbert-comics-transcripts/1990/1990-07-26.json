@@ -1,0 +1,27 @@
+{
+  "date": "1990-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's that noise?",
+        "Skritch",
+        "Skritch",
+        "Skritch"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It sounds like a rat, escaped from a nearby laboratory, chewing a hole through our front door to avoid sure death from a hideous macaroni-and-cheese experiment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's amazing.",
+        "These babies aren't just for good looks, you know."
+      ]
+    }
+  ]
+}

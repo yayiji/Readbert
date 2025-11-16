@@ -1,0 +1,57 @@
+{
+  "date": "1998-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our goal this year is zero disabling injuries.",
+        "Injuries",
+        "0"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Last year our goal was twenty-six disabling injuries."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In retrospect, that was a mistake.",
+        "26"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We had to injure nine employees to meet the goal."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you have an injury, fill out these forms immediately."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "These are resignation forms."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you cover the word \"resignation\" with your thumb, it's an injury report."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This place makes me sick.",
+        "We'll miss you."
+      ]
+    }
+  ]
+}

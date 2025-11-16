@@ -1,0 +1,27 @@
+{
+  "date": "2022-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, well, human.",
+        "I see you've come to do battle again today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait until you see what horrors I have in store for you.",
+        "Buwha-hahaha!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can all printers talk?",
+        "How would I know?",
+        "Do you think I know all the other printers?"
+      ]
+    }
+  ]
+}

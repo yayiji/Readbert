@@ -1,0 +1,25 @@
+{
+  "date": "2002-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was a grim reaper until I started taking antidepressants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I still reap, because I like the work, but I'm not grim.",
+        "Death"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I dead?",
+        "No, I'm over my limit today, so I'm doing catch-and-release."
+      ]
+    }
+  ]
+}

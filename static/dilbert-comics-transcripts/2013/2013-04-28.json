@@ -1,0 +1,54 @@
+{
+  "date": "2013-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your bonuses this year will be based on the usual formula."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "50% is based on pure luck."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And 50% is based on the performance of people you have never even met."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This year, the luck factor was good. Our industry experienced huge consumer demand."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Unfortunately, people who you have never met did a bad job of marketing and sales are terrible."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And for that, you engineers must be punished.",
+        "No bonuses for you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Luckily for me, my bonus is based on how well I can convince you idiots to work hard while getting no bonuses."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't like to brag, but I'm fairly sure I'm nailing it."
+      ]
+    }
+  ]
+}

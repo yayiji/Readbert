@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After months of work, I finished our bid for the huge Galatikus project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it's one minute late, we'll be disqualified. The future of our company depends on us winning this bid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He must think I'm a... Whoa, what's this?",
+        "Irish line-dancing lessons 10% off"
+      ]
+    }
+  ]
+}

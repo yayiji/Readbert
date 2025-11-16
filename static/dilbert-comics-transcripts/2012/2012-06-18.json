@@ -1,0 +1,25 @@
+{
+  "date": "2012-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your meeting in Elbonia?",
+        "Awesome!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you know that the most sacred shrine in Elbonia looks exactly like a men's restroom?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Right. So don't blame me for not knowing."
+      ]
+    }
+  ]
+}

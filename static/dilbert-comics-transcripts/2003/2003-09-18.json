@@ -1,0 +1,25 @@
+{
+  "date": "2003-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you order the plastic casings I need?",
+        "They take two weeks for delivery."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see that you've cleverly avoided my actual question in favor of an imaginary one involving delivery times."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm fantasizing about ripping off your mustache and using it to shine your head.",
+        "I hear that a lot."
+      ]
+    }
+  ]
+}

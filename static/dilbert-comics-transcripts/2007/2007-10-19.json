@@ -1,0 +1,25 @@
+{
+  "date": "2007-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I increased my productivity by improving my morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I watched funny YouTube videos from morning until dusk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's all you did?",
+        "Don't worry.",
+        "I'm almost halfway done."
+      ]
+    }
+  ]
+}

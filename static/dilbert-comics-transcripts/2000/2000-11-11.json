@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I declare next Friday to be \"Hawaiian shirt day.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, you're disguising punishments as perks!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're on to us.",
+        "Did you try the fake smile?"
+      ]
+    }
+  ]
+}

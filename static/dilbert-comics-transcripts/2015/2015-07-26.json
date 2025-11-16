@@ -1,0 +1,59 @@
+{
+  "date": "2015-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Job interview",
+        "When I make hiring decisions, my biggest priority is cultural fit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your buzzwords are like music to my unemployed ears."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And here come some employees who can tell me about your company culture.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hey, guys. Can I ask some questions about the culture here?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Working here is like a paradise.",
+        "Best place ever."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Our days are full of laughter, hugging, and camaraderie.",
+        "Coffee is free!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wow. Thanks. I look forward to working here."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "???",
+        "I didn't like that guy.",
+        "I'm glad we got our revenge in advance."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1990-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ahaa! There's my runaway lab rat!",
+        "I'd recognize little XP-39C\nanywhere!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All is forgiven.",
+        "Come back to your job at the lab.",
+        "I love you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was specially bred to have no will power.",
+        "Hold me."
+      ]
+    }
+  ]
+}

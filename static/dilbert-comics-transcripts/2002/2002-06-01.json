@@ -1,0 +1,26 @@
+{
+  "date": "2002-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I read this motivational book and yet the employees still have low morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you have a defective copy.",
+        "You should compare it to another one and see what's different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if the second one is defective too?",
+        "Sheesh...",
+        "It's like I'm doing all of your thinking here."
+      ]
+    }
+  ]
+}

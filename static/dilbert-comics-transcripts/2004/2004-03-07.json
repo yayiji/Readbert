@@ -1,0 +1,56 @@
+{
+  "date": "2004-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked nights and weekends to finish my project ahead of schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good. Here's more work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand.",
+        "Am I being punished for working hard?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, you're being rewarded with exciting new challenges.",
+        "Sproing!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why does the plant grow faster when you say things like that?",
+        "No reason."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Stop that!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Anyway, your annual performance review will reward your hard work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That is one well-fertilized plant."
+      ]
+    }
+  ]
+}

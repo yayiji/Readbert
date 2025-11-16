@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought my son to work. Do you have any career advice for him?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All boys your age are idiots. If you make any career decisions today, your life will forever be determined by an idiot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we expecting any unforeseen problems today?",
+        "But you get used to it."
+      ]
+    }
+  ]
+}

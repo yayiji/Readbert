@@ -1,0 +1,54 @@
+{
+  "date": "2012-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, listen carefully."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to... vendor... hardware... immediately."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What? We have a bad connection."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Field... the grep... pony... budget."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What? What?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I have another call. Just ask Alice."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How would I know what he wants? Leave me alone."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wonder how winners feel.",
+        "I don't know. They never let me touch them."
+      ]
+    }
+  ]
+}

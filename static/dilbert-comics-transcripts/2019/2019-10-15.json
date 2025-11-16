@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I trust your estimate when you have been wrong every other time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Practice makes perfect.",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just realized I don't know how anything works."
+      ]
+    }
+  ]
+}

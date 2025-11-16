@@ -1,0 +1,55 @@
+{
+  "date": "1994-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's your position on gun ownership, Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe everybody should have the right to own guns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about automatic weapons?",
+        "I'm all for them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Citizens should have bazookas and rocket launchers too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I believe that all citizens should have the weapons of their choice."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "However, I also believe that only I should have ammunition."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because frankly, I wouldn't trust the rest of you goobers with anything more dangerous than string."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What about Charlton Heston?",
+        "I'd keep the string away from him."
+      ]
+    }
+  ]
+}

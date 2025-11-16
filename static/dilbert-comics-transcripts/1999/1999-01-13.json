@@ -1,0 +1,26 @@
+{
+  "date": "1999-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, we're venture capitalists.",
+        "We want to invest in your web-based business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't own a web-based business.",
+        "I'm just an engineer with a cool ponytail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's good enough for us.",
+        "We like to get in early."
+      ]
+    }
+  ]
+}

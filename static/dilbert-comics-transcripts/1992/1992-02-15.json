@@ -1,0 +1,28 @@
+{
+  "date": "1992-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worry... is it my fault that people get heart attacks?",
+        "No... that's from eating too many cows."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is the California drought my fault?",
+        "No... that's from water subsidies to cows.",
+        "Global warming?",
+        "Cows again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cows are destroying the earth?",
+        "They're better organized than you'd think."
+      ]
+    }
+  ]
+}

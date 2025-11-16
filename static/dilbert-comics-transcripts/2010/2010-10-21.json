@@ -1,0 +1,25 @@
+{
+  "date": "2010-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Walmart started selling a knockoff of our product for nine cents apiece."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for ideas.",
+        "Anyone?",
+        "Anyone?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They'll need more greeters."
+      ]
+    }
+  ]
+}

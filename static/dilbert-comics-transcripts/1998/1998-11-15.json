@@ -1,0 +1,55 @@
+{
+  "date": "1998-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, the organization chart will not be distributed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And the internal phone lists will be shredded."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This will prevent headhunters from easily picking us clean."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why would headhunters call us?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They want to steal you away and double your pay at another company."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What makes you think we won't leave on our own anyway?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because working here drains all of your initiative."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's prove him wrong!",
+        "Yeah!",
+        "I'm not shredding my phone list!"
+      ]
+    }
+  ]
+}

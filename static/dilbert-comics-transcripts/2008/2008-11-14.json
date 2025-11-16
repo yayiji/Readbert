@@ -1,0 +1,28 @@
+{
+  "date": "2008-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our robots went bad.",
+        "They're on a murderous rampage.",
+        "I'll take care of it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, Alice.",
+        "Guess who says your hair is unfashionable and you're overpaid?",
+        "Robots."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Little help, please.",
+        "My fist of death is stuck."
+      ]
+    }
+  ]
+}

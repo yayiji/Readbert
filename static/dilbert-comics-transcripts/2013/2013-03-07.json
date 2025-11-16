@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Honesty is the best policy..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Whenever you think lying won't work. Otherwise, lying is awesome. It's like a freakin' superpower!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why am I here?",
+        "I speak truth to the powerless."
+      ]
+    }
+  ]
+}

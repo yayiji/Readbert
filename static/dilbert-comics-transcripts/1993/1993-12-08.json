@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If the warehouse won't replace my broken chair, I'll just take one from somebody else."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Technically, it's not stealing because the chair belongs to the company either way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the worst thing that could happen?",
+        "Hold the elevator.",
+        "...Over."
+      ]
+    }
+  ]
+}

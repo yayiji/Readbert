@@ -1,0 +1,24 @@
+{
+  "date": "2016-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The sensors in your employee hat tell me you are not having work-related thoughts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have to dock your pay for all of that leisure time you try to sneak into your workday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's a screenshot of what you've been thinking.",
+        "I'm going to remember this as a bad day."
+      ]
+    }
+  ]
+}

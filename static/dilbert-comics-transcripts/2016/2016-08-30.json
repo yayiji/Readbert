@@ -1,0 +1,31 @@
+{
+  "date": "2016-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "I recommend doing all of the things your employees have been telling you to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see why I should pay you for this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, then how about doing all the things your competition is doing?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now, that's a great idea.",
+        "Good, because that's what your employees have been telling you to do."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1996-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wish I had an Ivy League degree so I could be promoted to vice president.",
+        "You don't need one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's impossible to be a vice president without one.",
+        "I'll bet $100 I can turn a rat into a vice president."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was good, but try saying it as though your soul just abandoned your body.",
+        "We've reorganized to focus on our core competency."
+      ]
+    }
+  ]
+}

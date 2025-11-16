@@ -1,0 +1,23 @@
+{
+  "date": "2006-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a background check and discovered that you embellished your résumé."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, there's no college named \"The Einstein one.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'm reasonably certain that \"smartology\" isn't a real major."
+      ]
+    }
+  ]
+}

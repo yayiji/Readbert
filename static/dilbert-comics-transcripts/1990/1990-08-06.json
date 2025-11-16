@@ -1,0 +1,24 @@
+{
+  "date": "1990-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A scientist reports that love made a lab rat stupid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The scientist cautioned the media not to draw conclusions based on one rat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Time",
+        "Love and S.A.T. scores"
+      ]
+    }
+  ]
+}

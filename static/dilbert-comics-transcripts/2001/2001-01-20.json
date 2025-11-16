@@ -1,0 +1,23 @@
+{
+  "date": "2001-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everything you said in the meeting was wrong. Here's the proof."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Exactly!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I'm not even sure that was a humanoid response."
+      ]
+    }
+  ]
+}

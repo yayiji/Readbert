@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told our boss his presentation had a low signal-to-noise ratio and he thought it was a compliment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think you just invented my new favorite game."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Working for you is like boiling an ocean.",
+        "Thank you!"
+      ]
+    }
+  ]
+}

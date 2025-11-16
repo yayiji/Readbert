@@ -1,0 +1,27 @@
+{
+  "date": "2005-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "In order to improve office efficiency, all birthdays will be celebrated on the same day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mean one celebration per year, or just once and then we're done forever?",
+        "Just once."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, at least I'll feel special once.",
+        "What day is the celebration?",
+        "Yesterday."
+      ]
+    }
+  ]
+}

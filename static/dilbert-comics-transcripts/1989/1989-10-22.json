@@ -1,0 +1,58 @@
+{
+  "date": "1989-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, see who's at the door.",
+        "Ding dong"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, I'm from the \"Big Ball Wrecking Company.\"",
+        "I have a work order to destroy this house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like you have the wrong address.",
+        "This is Walnut Avenue.",
+        "Walnut Street is clear across town."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh phlegm! I don't have time to drive way over there."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Would it be a bother if I just leveled this house instead."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That would be a tad inconvenient.",
+        "Try the Johnsons, next door."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What was that loud noise?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Apparently the Johnsons aren't home."
+      ]
+    }
+  ]
+}

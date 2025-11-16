@@ -1,0 +1,26 @@
+{
+  "date": "2014-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, I need you to write a company \"origin story.\" All the cool companies have them.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why? Well, for starters, we need it for various things.",
+        "And so on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think I can be any clearer.",
+        "I don't think you can either."
+      ]
+    }
+  ]
+}

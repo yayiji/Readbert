@@ -1,0 +1,31 @@
+{
+  "date": "2018-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Alice, let me give you a shoulder rub in the name of team spirit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Click",
+        "Aaaagh!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate having a court-ordered shock collar."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't see a...",
+        "I oh."
+      ]
+    }
+  ]
+}

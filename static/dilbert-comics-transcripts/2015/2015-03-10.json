@@ -1,0 +1,26 @@
+{
+  "date": "2015-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Will you be my mentor?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes I will!",
+        "You are wise to ask because it shows you have the drive to succeed.",
+        "Exactly!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me one good reason I shouldn't fire you.",
+        "My mentor is your boss."
+      ]
+    }
+  ]
+}

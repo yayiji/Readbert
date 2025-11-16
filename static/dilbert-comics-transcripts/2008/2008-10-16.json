@@ -1,0 +1,24 @@
+{
+  "date": "2008-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Start some rumors, spread some lies..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait for the stock to pop up... exercise my stock options...",
+        "Bang!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did people steal before computers?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just love hiring these temporary workers!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No employee benefits... no union... just toss 'em in the dumpster when you're done with them!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The dumpster seems a bit inappropriate.",
+        "They're way too big to flush."
+      ]
+    }
+  ]
+}

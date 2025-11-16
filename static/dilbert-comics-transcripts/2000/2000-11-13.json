@@ -1,0 +1,23 @@
+{
+  "date": "2000-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a gigantic database full of customer behavior information."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excellent. We can use non-linear math and data mining technology to optimize our retail channels!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If that's the same thing as spam, we're having a good meeting here."
+      ]
+    }
+  ]
+}

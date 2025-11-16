@@ -1,0 +1,23 @@
+{
+  "date": "1991-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My wife sews all of my work clothes.",
+        "She's the talented one in the family."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She hates you, doesn't she?",
+        "Why do you ask?"
+      ]
+    }
+  ]
+}

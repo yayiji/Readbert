@@ -1,0 +1,23 @@
+{
+  "date": "2019-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to talk to you about your bad attitude."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm surrounded by useless idiots, and I work in a fabric-covered box. How can I have a good attitude?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, good. I was hoping it would be something I couldn't fix."
+      ]
+    }
+  ]
+}

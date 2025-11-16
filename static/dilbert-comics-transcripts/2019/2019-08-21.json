@@ -1,0 +1,25 @@
+{
+  "date": "2019-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I'm the boss's new pet employee, my income is higher than ever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't realize it came with a raise.",
+        "It's more of an indirect thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you $100 to tell the boss good things about me.",
+        "My price for lying is $200."
+      ]
+    }
+  ]
+}

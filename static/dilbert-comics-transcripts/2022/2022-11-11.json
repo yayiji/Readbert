@@ -1,0 +1,23 @@
+{
+  "date": "2022-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert consulting company uses a patented process to prevent \"quiet quitting\" at your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? What's the patent number? I'd like to look that up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remind me to never tell that lie to engineers."
+      ]
+    }
+  ]
+}

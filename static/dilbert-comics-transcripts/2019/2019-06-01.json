@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not having much luck with my inspirational quotes, but I thought I would try one more time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Winners never quit, and quitters never win.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When Ted quit, you gave him a raise to stay.",
+        "These work better when you don't think about them."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, your performance exceeded all expectations this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'm not giving you the top rating because I want you to have something to shoot for."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's always good to have something to shoot for.",
+        "Stay here while I get my harpoon."
+      ]
+    }
+  ]
+}

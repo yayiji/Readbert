@@ -1,0 +1,58 @@
+{
+  "date": "2008-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a doctor's note for the two days of work I missed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You look healthy to me.",
+        "I got better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I know you were sick?",
+        "The note just needs to say I was sick."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So you want me to lie?",
+        "It's not a lie. I really was sick."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If your company doesn't trust you, why should I?",
+        "Good point."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What if I let the people in your waiting room cough on me? Then you can write a note saying I have what they have."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "As long as I didn't recommend it, I think that passes ethical muster."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You have nine diseases?",
+        "That have names."
+      ]
+    }
+  ]
+}

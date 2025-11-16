@@ -1,0 +1,24 @@
+{
+  "date": "2004-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian call center",
+        "We don't have that software in stock."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But may I interest you in a set of porcelain unicorn figurines that wear pants?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really? Wow. Your country has way too much money."
+      ]
+    }
+  ]
+}

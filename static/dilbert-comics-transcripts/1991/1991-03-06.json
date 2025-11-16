@@ -1,0 +1,24 @@
+{
+  "date": "1991-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's school for self-service gas station attendants will not be easy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Phillips! What would you do if a customer couldn't figure out how to use the pumps?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing. It's self-service.",
+        "Great...there goes the curve."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My research shows that your ideal customer is a male Olympic athlete between the ages of 120 and 145."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And just to be safe, you want that guy to not have a Yelp account."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many people are in that group?",
+        "None, but my research will help you double that."
+      ]
+    }
+  ]
+}

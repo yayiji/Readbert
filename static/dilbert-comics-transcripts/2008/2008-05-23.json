@@ -1,0 +1,26 @@
+{
+  "date": "2008-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think my girlfriend is only dating me to get free tech support.",
+        "I'm very surprised you think that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because it's unlikely?",
+        "Because it shows self-awareness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She might grow to love me.",
+        "And... back to normal."
+      ]
+    }
+  ]
+}

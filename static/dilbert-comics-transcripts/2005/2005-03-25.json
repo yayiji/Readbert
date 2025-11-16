@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the victim of an ugly rumor at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying that the rumor is ugly or that the rumor is that you're ugly?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm saying the rumor itself is ugly.",
+        "Well, then I have more bad news for you."
+      ]
+    }
+  ]
+}

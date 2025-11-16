@@ -1,0 +1,25 @@
+{
+  "date": "2022-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you explain the technical problem in terms I can understand?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Network broke. Must fix.",
+        "Uh-huh.",
+        "Got it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was the second part again?"
+      ]
+    }
+  ]
+}

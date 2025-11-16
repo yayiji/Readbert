@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have something for a headache?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm pretty sure this will do the trick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks.",
+        "I wonder if he meant something to get rid of a headache.",
+        "Nah..."
+      ]
+    }
+  ]
+}

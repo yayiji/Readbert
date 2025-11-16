@@ -1,0 +1,53 @@
+{
+  "date": "2010-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to help with quality testing on version 2."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm an engineer, not a quality tester."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I do quality testing, even temporarily, it will make me appear grossly overpaid."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That impression could work against me during my next performance review."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A one percent difference in pay, compounded over the rest of my life, is big money."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Obviously my best strategy here is to offer resistance that's just short of insubordination."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So move on, little man! Scat! Go!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Too much?"
+      ]
+    }
+  ]
+}

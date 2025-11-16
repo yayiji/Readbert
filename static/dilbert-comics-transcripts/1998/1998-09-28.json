@@ -1,0 +1,24 @@
+{
+  "date": "1998-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you're the winner of the prestigious \"Broken Binder Award.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a once-in-a-lifetime award that is voted on by your peers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long have you been dumping your trash here?",
+        "Since my can got full."
+      ]
+    }
+  ]
+}

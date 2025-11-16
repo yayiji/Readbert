@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your prototype will never be economical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Certainty about the future is a sign of mental illness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try to be more level-conscious.",
+        "Yes, your highness."
+      ]
+    }
+  ]
+}

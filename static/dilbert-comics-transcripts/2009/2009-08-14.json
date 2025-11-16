@@ -1,0 +1,24 @@
+{
+  "date": "2009-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone borrowed the unit you asked to see, so I'll show you pictures of models you aren't interested in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's one you don't want... and you sure don't want that one..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And how does this help?",
+        "Would you like a CD of products we no longer carry?"
+      ]
+    }
+  ]
+}

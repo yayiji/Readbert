@@ -1,0 +1,25 @@
+{
+  "date": "2022-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to regain customer trust after our exploding phone fiasco."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need a celebrity endorsement. People trust celebrities with their life—and—death decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe a famous cartoonist.",
+        "I don't see how that could go wrong.",
+        "Continued..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1998-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is Myron, not Moron!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Next time that you run spell check, don't automatically take its suggestions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's \"spell check\"?"
+      ]
+    }
+  ]
+}

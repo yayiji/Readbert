@@ -1,0 +1,26 @@
+{
+  "date": "2018-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In my right hand is a standard drone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In my left hand is a drone using the cloaking technology I invented.",
+        "Ooh!",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll demonstrate it flying as soon as I finish the noise cancellation.",
+        "Employee of the year!"
+      ]
+    }
+  ]
+}

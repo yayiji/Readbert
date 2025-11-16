@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm promoting you to team leader.",
+        "Do I get a raise?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no extra money, just extra responsibility. It's how we recognize our best people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought all the good people leave for better companies.",
+        "That's another way to recognize them."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2000-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ming, everyone says our web site is ugly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? Every person on Earth said that?",
+        "Even Tibetan monks?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe it was just one person."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And you confused him with the entire planet?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2007-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When do you expect to come out with a new model?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In about two months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll wait and buy the new model."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did I say two months? I meant never."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Never? That must mean your company is going out of business and won't support this product."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What's a length of time between two months and never that would cause you to buy now?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "One year.",
+        "Our new model comes out in a year."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll wait until then.",
+        "You're the worst customer ever."
+      ]
+    }
+  ]
+}

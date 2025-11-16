@@ -1,0 +1,25 @@
+{
+  "date": "2013-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new software will interrupt you every five minutes so you don't get carpal tunnel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aren't you worried the software will replace you?",
+        "Hee-hee!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't get that.",
+        "That's why it's funny."
+      ]
+    }
+  ]
+}

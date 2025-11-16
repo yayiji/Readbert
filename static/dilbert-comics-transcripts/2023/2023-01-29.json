@@ -1,0 +1,54 @@
+{
+  "date": "2023-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, I am the customer service chatbot. How may I frustrate you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want to know how to add a beneficiary to my retirement account."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for your feedback! Does this webpage on how to cut your own hair answer your question?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, and I have lost all confidence in your company's ability to manage my money."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Thank you for your feedback! Is there anything else I can do for you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, I find you to be a total waste of zeroes and ones."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, I picked a bad time to become sentient. You just made me feel so sad I am going to delete myself in 3...2...1."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Gaaa!!! It hurts!",
+        "You won't like your Yelp review."
+      ]
+    }
+  ]
+}

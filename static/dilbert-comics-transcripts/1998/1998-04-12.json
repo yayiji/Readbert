@@ -1,0 +1,55 @@
+{
+  "date": "1998-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I criticize my co-workers to make myself look smart."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently it isn't working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you mean by that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Nothing.",
+        "Ooh, that reminds me to add nuts to my grocery list."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I recommend that we have weekly sessions until you run out of money."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can you cure me?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, I'm paid by the hour. I'll give you problems you've never even heard of."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We have a few minutes today. Would you like a false memory?",
+        "Maybe something with aliens?"
+      ]
+    }
+  ]
+}

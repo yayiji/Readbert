@@ -1,0 +1,30 @@
+{
+  "date": "2020-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't like your analysis, so I made some hate-edits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's a hate-edit?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll see."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You changed \"in my opinion\" to \"according to the squirrels in my skull.\"",
+        "There you go."
+      ]
+    }
+  ]
+}

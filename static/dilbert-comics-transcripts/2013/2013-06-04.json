@@ -1,0 +1,24 @@
+{
+  "date": "2013-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me know if you have any changes to my first draft."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This literally says the words \"blah, blah, blah.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you lazy?",
+        "No, I'm worthless. Lazy would have been one \"blah.\""
+      ]
+    }
+  ]
+}

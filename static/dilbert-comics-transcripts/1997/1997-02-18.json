@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to start the meeting with a whiny, unanswerable question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why can't anyone make a decision around here?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was good.",
+        "My little intern is all grown up.",
+        "Sniff"
+      ]
+    }
+  ]
+}

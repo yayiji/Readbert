@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our policy is to promote from within."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How will you backfill the jobs of the people you promoted?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "From within.",
+        "That's one of your better plans."
+      ]
+    }
+  ]
+}

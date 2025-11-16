@@ -1,0 +1,25 @@
+{
+  "date": "1995-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand why some people wash their bath towels."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When I get out of the shower I'm the cleanest object in my house.",
+        "In theory, those towels should be getting cleaner every time they touch me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could hug you every day so I don't need to take showers.",
+        "Are towels supposed to bend?"
+      ]
+    }
+  ]
+}

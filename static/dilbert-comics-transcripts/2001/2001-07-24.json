@@ -1,0 +1,25 @@
+{
+  "date": "2001-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evolution training",
+        "Some of you will not make it through the class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I move to a different seat?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure... oops. Problem solved.",
+        "Carl, don't leave that where someone will slip on it."
+      ]
+    }
+  ]
+}

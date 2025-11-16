@@ -1,0 +1,32 @@
+{
+  "date": "1990-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before we hire you as our babysitter, we want to test how a dinosaur like you would respond to a variety of emergency scenarios."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if there's a fire?",
+        "Burglary?",
+        "Injury?",
+        "Poisoning?",
+        "Dial 911",
+        "Dial 911",
+        "Dial 911",
+        "Dial 911"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Giant asteroid collides with Earth and triggers an ice age?",
+        "Oh, wow...",
+        "I'm drawing a complete blank here..."
+      ]
+    }
+  ]
+}

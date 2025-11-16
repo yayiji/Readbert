@@ -1,0 +1,28 @@
+{
+  "date": "2006-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Phew! That was a nice four-mile walk.",
+        "Refreshing!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Want to watch some TV?",
+        "After I finish this call."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Thanks for holding.",
+        "There's nothing in the database about your kind of problem.",
+        "#e!%4"
+      ]
+    }
+  ]
+}

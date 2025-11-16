@@ -1,0 +1,23 @@
+{
+  "date": "2002-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've analyzed your corporate culture and put my findings in this report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The employees are a bunch of unmotivated weasels. I look good in this hat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would have mentioned my knapsack but it's only a summary."
+      ]
+    }
+  ]
+}

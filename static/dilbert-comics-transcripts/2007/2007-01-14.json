@@ -1,0 +1,53 @@
+{
+  "date": "2007-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you set up my pre-meeting for Wednesday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. It's on Thursday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You scheduled my pre-meeting for the day after the meeting?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That was the only day that everyone could make it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There's no point in having a pre-meeting after the actual meeting."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sure there is. You can talk about how much better the meeting would have been if you had been prepared."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Here comes the pointy-haired boss. You'd better scurry away before he gives you more work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There's a fine line between evil and under-paid."
+      ]
+    }
+  ]
+}

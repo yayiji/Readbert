@@ -1,0 +1,25 @@
+{
+  "date": "2002-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think I should grow a beard while I'm unemployed?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a great idea. A beard sends a message about who you are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "Okay.",
+        "I assume you already have a shopping cart and filthy rags."
+      ]
+    }
+  ]
+}

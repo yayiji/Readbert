@@ -1,0 +1,25 @@
+{
+  "date": "2019-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to be on my project team?",
+        "Hard pass."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your communication skills are so poor that the project is doomed to failure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I meant to say your boss already assigned you to my project.",
+        "We're off to a good start."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2013-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A fresh new year is upon us and I am brimming with optimism.",
+        "Bzzz"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ugh. Our network at work is down because my pointy-haired boss wouldn't let me upgrade the software.",
+        "Now I need to work all night to fix it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe this means the next 364 days will be extra awesome.",
+        "Yeah, that's how it works."
+      ]
+    }
+  ]
+}

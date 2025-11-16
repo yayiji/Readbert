@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My old nemesis retired, so I asked Randy to take over that function because he's ineffective at everything he does.",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The physics of work requires that each employee be matched with an anti-employee called a nemesis."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know who my nemesis is.",
+        "Uh-oh. You got a hider. They're the worst."
+      ]
+    }
+  ]
+}

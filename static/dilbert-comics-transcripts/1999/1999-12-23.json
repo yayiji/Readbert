@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm creating a web site of free medical advice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get some exercise, you lazy hog!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's it?",
+        "Nothing to do now but wait for the IPO."
+      ]
+    }
+  ]
+}

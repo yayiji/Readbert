@@ -1,0 +1,24 @@
+{
+  "date": "2016-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm overworked because I don't know how to set priorities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try ranking your tasks by how much you hate the people who asked for your help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I don't hate anyone?",
+        "That problem solves itself over time."
+      ]
+    }
+  ]
+}

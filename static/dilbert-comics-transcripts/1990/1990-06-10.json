@@ -1,0 +1,53 @@
+{
+  "date": "1990-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is a very interesting employee suggestion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you, sir."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I read this correctly..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You observed that everybody is smarter than his boss..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Exactly..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So we all just switch jobs with our bosses and boost productivity by 200%!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I've decided to do a limited trial..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Something died in the stairwell. Take care of it."
+      ]
+    }
+  ]
+}

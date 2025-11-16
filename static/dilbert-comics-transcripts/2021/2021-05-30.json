@@ -1,0 +1,55 @@
+{
+  "date": "2021-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to join our frequent victims club?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I just want to buy this beverage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could save a dollar if you join now. It only takes a minute."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't want you tracking my purchases and selling my data."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you don't sign up, my colleagues and I will pester you to do it every time you try to buy something."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll take my business elsewhere!",
+        "No, you won't."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because other stores are just as bad as we are."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I am not a victim!",
+        "Tell that to the customer survey I'm about to pester you into doing."
+      ]
+    }
+  ]
+}

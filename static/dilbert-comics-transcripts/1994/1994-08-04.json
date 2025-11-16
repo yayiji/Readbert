@@ -1,0 +1,26 @@
+{
+  "date": "1994-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's ad agency",
+        "The commercial will show company cars braking hard to avoid pedestrians."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The message is \"We care about people we don't even know!\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was it dangerous to film this?",
+        "We'll sell the bloopers to Dick Clark",
+        "Thud"
+      ]
+    }
+  ]
+}

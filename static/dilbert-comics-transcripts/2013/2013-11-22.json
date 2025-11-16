@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you for sharing your project updates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't understand any of your tedious techno-yammering, but that doesn't matter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why doesn't that matter?",
+        "It just doesn't."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need a project plan to justify the resources we need to change our software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can make those software changes in ten seconds.",
+        "Done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good work.",
+        "Now all we need is that plan."
+      ]
+    }
+  ]
+}

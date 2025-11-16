@@ -1,0 +1,24 @@
+{
+  "date": "2001-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, we negotiated this deal in English but your contract is incomprehensible weaseleze!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My only choices are to sign something I don't understand or get my lawyer involved and miss my deadline!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha! Now you're going to heck!",
+        "Are you hassling my frat brother?"
+      ]
+    }
+  ]
+}

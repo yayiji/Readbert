@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to attend a meeting in my place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I agreed to the meeting before I realized it would be a total waste of time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This could not be worse.",
+        "I might have volunteered to write up the meeting notes."
+      ]
+    }
+  ]
+}

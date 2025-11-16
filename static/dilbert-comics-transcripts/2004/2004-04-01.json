@@ -1,0 +1,27 @@
+{
+  "date": "2004-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Doctor Dogbert show",
+        "Today we'll meet a couple who have a common problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I make him sleep in a gigantic hot dog bun.",
+        "Can I see it?",
+        "No...",
+        "Please."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the problem is that he snores."
+      ]
+    }
+  ]
+}

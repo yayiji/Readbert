@@ -1,0 +1,30 @@
+{
+  "date": "2013-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I check my email?",
+        "Yes, I would consider it rude."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I use the ladies room?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course not."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh."
+      ]
+    }
+  ]
+}

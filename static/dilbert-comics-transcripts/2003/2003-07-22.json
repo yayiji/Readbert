@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're the only one who hasn't finished the mandatory online Six Sigma training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I finished it, but the system crashed before it stored my data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is when you say, \"There's no need to retake the training. I'll just check off your name.\"",
+        "Are you new on this planet?"
+      ]
+    }
+  ]
+}

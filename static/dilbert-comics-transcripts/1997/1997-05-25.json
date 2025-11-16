@@ -1,0 +1,59 @@
+{
+  "date": "1997-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lately I've been feeling discouraged about my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should talk to our pointy-haired boss.",
+        "That'll cheer you up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you're right.",
+        "All I need is a little pep talk from our leader."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ha",
+        "Ha ha!",
+        "Hee",
+        "Hee!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You think you're discouraged..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I've been stuck in this dead-end job for years, grinding away, day after day."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And all I have to show for it is high blood pressure and worthless stock options."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's so gratifying to watch them grow up.",
+        "I need the number for Doctor Kevorkian."
+      ]
+    }
+  ]
+}

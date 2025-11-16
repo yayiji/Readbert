@@ -1,0 +1,26 @@
+{
+  "date": "1992-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From the looks of your garbage, you've invented some sort of molecule bifurcation communicator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ah, yes, Einstein thought this type of thing might work.",
+        "Physicist John Stuart Bell kind of fleshed it out in 1964.",
+        "But you've really added something..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Specifically,",
+        "you've added this calculation error here."
+      ]
+    }
+  ]
+}

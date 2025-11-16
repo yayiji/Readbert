@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to lead this project toward failure so my boss can convince our CEO to cancel it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like all of the competent people on the team to step aside, while the drooling incompetents who remain drive it into a ditch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can we know who among us are the competent ones?",
+        "Well, for starters, they don't ask that question."
+      ]
+    }
+  ]
+}

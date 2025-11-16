@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My leadership job didn't last long.",
+        "I got demoted back to engineering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess they realized all of my ideas are about coffee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've noticed that too.",
+        "Watch out for my coffee drone behind you."
+      ]
+    }
+  ]
+}

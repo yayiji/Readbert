@@ -1,0 +1,25 @@
+{
+  "date": "2005-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are there meals on this flight?",
+        "Yes, if you're a cannibal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is not funny. After this flight, I'm going to complain to your supervisor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you put me next to the plump guy?",
+        "Sure. He's in B8."
+      ]
+    }
+  ]
+}

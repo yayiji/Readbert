@@ -1,0 +1,24 @@
+{
+  "date": "1997-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I found this article in a magazine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I highlighted the most important stuff to save you time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You highlighted the page numbers.",
+        "It takes forever if you don't notice those."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Interview question",
+        "How would you diagnose a buffer overflow problem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd put the circuit board in a bucket of water and look for air bubbles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds right.",
+        "I just diagnosed a problem with your interview question."
+      ]
+    }
+  ]
+}

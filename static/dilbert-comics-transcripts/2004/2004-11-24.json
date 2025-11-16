@@ -1,0 +1,24 @@
+{
+  "date": "2004-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you've been accused of forwarding off-color jokes by e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you object to the increase in morale or the nickel it cost the company so far?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I object to my face being photoshopped to a cow's butt.",
+        "You object to art?"
+      ]
+    }
+  ]
+}

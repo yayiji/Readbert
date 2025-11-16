@@ -1,0 +1,55 @@
+{
+  "date": "2010-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our best sales guy asked for you to accompany him on a sales call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the secret of being a good sales person?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to give customers the information they need...",
+        "...without getting in their faces so often that you become a nuisance."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, a customer would get sick of your face much sooner than mine."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So halfway through the sales call, you'll need to put this bag over your head while I close the deal."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It looks as if I win our bet.",
+        "No... wait for it..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whoa. How do you do that?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's called sales. Now you owe me a purchase order."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2017-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wonder whose job I'll take first."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could never do my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm doing it right now."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're not doing anything.",
+        "Right. Let that sink in."
+      ]
+    }
+  ]
+}

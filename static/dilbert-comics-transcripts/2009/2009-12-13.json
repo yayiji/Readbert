@@ -1,0 +1,55 @@
+{
+  "date": "2009-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you take a look at this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd be delighted.",
+        "What's your project charge code?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It will only take a minute.",
+        "Are you suggesting that I lie about my time?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's only one minute."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "By that line of reasoning, it's okay to steal, as long as you don't take too much."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Incidentally, I have to charge you for the time it just took to label you a thief."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Forget it! I'll ask someone else!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's call that \"overhead.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm promoting you to the position of slow-walker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am almost curious about what that entails."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be giving you all the assignments that could make my rivals in management successful."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "All you have to do is slow-walk those projects until they die from lack of energy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's about time you recognized my value."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I've been preparing for this moment all of my life."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Meet me in my office in ten minutes for your new assignments."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You were supposed to be here two hours ago.",
+        "Is it too soon to ask for a raise?"
+      ]
+    }
+  ]
+}

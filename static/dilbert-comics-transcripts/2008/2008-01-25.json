@@ -1,0 +1,23 @@
+{
+  "date": "2008-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new chair can be adjusted to a jillion different positions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That practically guarantees I'm using it in a suboptimal way. I think it might be disabling me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that look normal to you?"
+      ]
+    }
+  ]
+}

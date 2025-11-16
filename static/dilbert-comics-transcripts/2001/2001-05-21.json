@@ -1,0 +1,26 @@
+{
+  "date": "2001-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm meeting a vendor for drinks tonight.",
+        "He says it's the only time he has to answer my questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If that works, please let us know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you mean \"works\"?",
+        "And who is \"us\"?",
+        "It's already working!"
+      ]
+    }
+  ]
+}

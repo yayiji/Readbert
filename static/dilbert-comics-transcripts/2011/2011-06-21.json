@@ -1,0 +1,26 @@
+{
+  "date": "2011-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll need approval from the cloud.",
+        "The cloud?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was once called matrix management.",
+        "But it got so complicated that no one knows who does what."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you approve this?",
+        "What did everyone else say?"
+      ]
+    }
+  ]
+}

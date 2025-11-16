@@ -1,0 +1,23 @@
+{
+  "date": "2008-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The server virtualization project is done, and there are no trouble tickets."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My rates might seem steep, but remember, there are no trouble tickets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our online trouble ticket system is broken."
+      ]
+    }
+  ]
+}

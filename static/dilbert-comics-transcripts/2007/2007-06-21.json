@@ -1,0 +1,24 @@
+{
+  "date": "2007-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the green consultant",
+        "Your coworkers have identified you as a source of methane."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we capture this free source of energy we can power a small office building."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I give and I give."
+      ]
+    }
+  ]
+}

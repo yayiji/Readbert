@@ -1,0 +1,24 @@
+{
+  "date": "2014-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sheesh! It feels as if every employee is complaining about one thing or another today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it's because your leadership has turned this place into a skunk opera."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Luckily, you don't understand analogies.",
+        "That one is about singing."
+      ]
+    }
+  ]
+}

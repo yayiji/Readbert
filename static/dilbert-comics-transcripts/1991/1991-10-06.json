@@ -1,0 +1,54 @@
+{
+  "date": "1991-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Psst..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Want to buy a nuclear bomb?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Twenty bucks.",
+        "Deal."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Does the government know about this?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I am the government."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's the only way we could agree on to reduce the national debt... you wouldn't believe how many of these things we have."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm glad I got mine before some liberal has a hissy fit."
+      ]
+    }
+  ]
+}

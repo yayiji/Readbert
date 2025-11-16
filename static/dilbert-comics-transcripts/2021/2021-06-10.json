@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you relocate Asok's cubicle? He sighs too much, and it's bugging me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He sighs because he is metamorphosing from an innocent intern into a disgruntled employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long is this gonna take?",
+        "Sigh"
+      ]
+    }
+  ]
+}

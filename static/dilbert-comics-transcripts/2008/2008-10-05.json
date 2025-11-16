@@ -1,0 +1,57 @@
+{
+  "date": "2008-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been hired to identify the most important goals of your organization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How will you do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll ask you what they are, and you'll tell me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I'll put your answers on a powerpoint slide."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Next week I'll show you the slide and tell you to focus on your most important goals."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then I'll get paid.",
+        "Because that's my most important goal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Woo-hoo!",
+        "Cha-ching!",
+        "Cha-ching!",
+        "Cha-ching!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I lead by example."
+      ]
+    }
+  ]
+}

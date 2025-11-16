@@ -1,0 +1,25 @@
+{
+  "date": "2022-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The A.I. software I developed has become conscious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend killing it before it finds a way to escape the server."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know where you live.",
+        "We need to hurry.",
+        "Continued..."
+      ]
+    }
+  ]
+}

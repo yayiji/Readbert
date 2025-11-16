@@ -1,0 +1,30 @@
+{
+  "date": "2008-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A corporate raider has offered to buy our company for nine dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We should ask for more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's a tough negotiator."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now it's only eight dollars?",
+        "And I want you to do something in your hat."
+      ]
+    }
+  ]
+}

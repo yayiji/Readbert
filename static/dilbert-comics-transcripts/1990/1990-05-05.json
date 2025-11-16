@@ -1,0 +1,26 @@
+{
+  "date": "1990-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hear about the new guy? He's from New York.",
+        "Gulp",
+        "Here he comes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aagh!",
+        "Aaaaaeee!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I suppose I could hunt them down and kill them one by one."
+      ]
+    }
+  ]
+}

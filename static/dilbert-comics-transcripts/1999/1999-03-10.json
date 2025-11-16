@@ -1,0 +1,25 @@
+{
+  "date": "1999-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You must use the stars as your management guide.",
+        "Does that work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you believe it works, then you're not bright enough to make your own decisions anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So randomness is probably an improvement.",
+        "Q.E.D."
+      ]
+    }
+  ]
+}

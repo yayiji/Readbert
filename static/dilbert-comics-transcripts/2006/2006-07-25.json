@@ -1,0 +1,24 @@
+{
+  "date": "2006-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it more important to follow our documented process or to meet the deadline?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only ask because our deadline is arbitrary and our documented process was pulled out of someone's lower torso."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where's your artificial sense of urgency?",
+        "Team-work killed it."
+      ]
+    }
+  ]
+}

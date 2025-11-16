@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't have any data yet, but we are hearing good reports."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those reports are anecdotal. You need a controlled study to be certain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Literally everyone already knows that.",
+        "Sure, but did you know accurate data are better than bad data?"
+      ]
+    }
+  ]
+}

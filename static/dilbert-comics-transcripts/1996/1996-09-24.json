@@ -1,0 +1,26 @@
+{
+  "date": "1996-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss is making the engineers compete in an \"Iron Man\" event.",
+        "It's supposed to improve teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm glad I take the stairs sometimes instead of using the elevator.",
+        "I'm in pretty good shape."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, you are, to the extent potato is a pretty good shape.",
+        "I just wrenched a muscle."
+      ]
+    }
+  ]
+}

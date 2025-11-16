@@ -1,0 +1,23 @@
+{
+  "date": "2006-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Women know all about diets. Which one should I use?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I go with the one that makes me miserable and doesn't work, or the one that might kill me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you do both, I won't ask for anything on National Secretary's Day."
+      ]
+    }
+  ]
+}

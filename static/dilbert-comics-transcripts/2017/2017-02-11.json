@@ -1,0 +1,26 @@
+{
+  "date": "2017-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When will the next version of the software be done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's like asking me to estimate how long it takes a salamander to evolve into a horse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "What should I tell our CEO?",
+        "Try the salamander analogy.",
+        "It worked on you."
+      ]
+    }
+  ]
+}

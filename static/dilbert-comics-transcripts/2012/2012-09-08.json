@@ -1,0 +1,22 @@
+{
+  "date": "2012-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This design would be inefficient.",
+        "How do you know that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes it's better if the aquarium owner doesn't explain to the turtle how the filtration system works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

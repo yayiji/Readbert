@@ -1,0 +1,24 @@
+{
+  "date": "1997-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd feel a lot more comfortable on this project if you'd tell me everything you know about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've already told you more than I know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like I'm being followed.",
+        "Doom"
+      ]
+    }
+  ]
+}

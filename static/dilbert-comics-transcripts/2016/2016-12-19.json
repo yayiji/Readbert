@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO stopped by to see how long before we finish the new software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whose turn is it to lie to him?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I blamed Elbonian hackers last week.",
+        "You're using all the good ones!"
+      ]
+    }
+  ]
+}

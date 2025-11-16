@@ -1,0 +1,26 @@
+{
+  "date": "1993-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you making?",
+        "Commemorative collectible plates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One of the mysteries of life is that you can put any picture on a plate and hordes of morons will want to own it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! An acorn!",
+        "And it's on a plate!",
+        "What's it like to be a member of a horde?"
+      ]
+    }
+  ]
+}

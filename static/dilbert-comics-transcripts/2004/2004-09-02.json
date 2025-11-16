@@ -1,0 +1,27 @@
+{
+  "date": "2004-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a name for my company.",
+        "Then I can film the infomercial."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assume you want a name that will help disguise your treachery.",
+        "Not so much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And now a word from the CEO of Krap2idiots.",
+        "Catchy.",
+        "Shhh..."
+      ]
+    }
+  ]
+}

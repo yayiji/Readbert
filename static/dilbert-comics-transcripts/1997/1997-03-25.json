@@ -1,0 +1,26 @@
+{
+  "date": "1997-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Avoid the pointy-haired boss today.",
+        "I proved him wrong about something."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, terrific. Now he's in a state of boss disequilibrium until he proves he's right about something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're photocopies!",
+        "You don't need to proofread each one!",
+        "We'll see about that."
+      ]
+    }
+  ]
+}

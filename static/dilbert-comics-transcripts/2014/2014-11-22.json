@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm hitting a snag with this RFP because our products don't do what they need."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I give up and accept failure or lie about our features and transfer the problem to them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My daddy used to say it isn't a problem if you can give it to someone else.",
+        "Then he drove you to school?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2016-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my email?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mean your two-page document that has about twelve questions for me sprinkled throughout?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, that's the one. Why haven't you responded?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's hard to answer that question while being polite."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can be honest."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your email was such a disorganized mess that I assumed everything you do is doomed to fail."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I didn't want to waste half a day deciphering it just so I could be on the losing side.",
+        "With you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next time, just say you were busy.",
+        "And I was busy."
+      ]
+    }
+  ]
+}

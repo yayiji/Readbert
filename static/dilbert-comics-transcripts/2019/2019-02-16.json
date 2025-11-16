@@ -1,0 +1,23 @@
+{
+  "date": "2019-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's brainstorm, and remember, there are no dumb questions, only dumb bosses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Was that necessary?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I stand corrected: there is at least one dumb question."
+      ]
+    }
+  ]
+}

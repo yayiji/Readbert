@@ -1,0 +1,24 @@
+{
+  "date": "1993-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert talks to a class about career options.",
+        "Engineering is one of the best careers available."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For the next twenty years I'll sit in a big box called a cubicle. It's like a restroom stall but with lower walls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I spend most of my time hoping the electromagnetic fields from my office equipment aren't killing me."
+      ]
+    }
+  ]
+}

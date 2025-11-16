@@ -1,0 +1,25 @@
+{
+  "date": "2002-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The vendor that couldn't describe his company's product.",
+        "It integrates the resources..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To optimize the performance of technology.",
+        "Yeah, but what is it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, if you don't want your resources to be integrated, just say so."
+      ]
+    }
+  ]
+}

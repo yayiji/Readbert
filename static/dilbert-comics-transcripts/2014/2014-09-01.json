@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job in human resources is to instill in you a permanent feeling of inadequacy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your only hope for feeling good about yourself is to work feverishly to boost company profits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you work all weekend for free, I am willing to call you adequate on a temporary basis.",
+        "I'll take it."
+      ]
+    }
+  ]
+}

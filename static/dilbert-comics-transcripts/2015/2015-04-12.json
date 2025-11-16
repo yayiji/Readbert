@@ -1,0 +1,57 @@
+{
+  "date": "2015-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you want now?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts say leaders should surround themselves with people they admire and be generous with praise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice, I admire your hard work and your intellect."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Stop it!",
+        "This is creepy!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I admire your focus and your determination.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Stop admiring me! My skin is crawling!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I admire your honesty!",
+        "Blech!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you feel more like a leader now?",
+        "Yes, in the sense that people hate me."
+      ]
+    }
+  ]
+}

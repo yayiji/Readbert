@@ -1,0 +1,23 @@
+{
+  "date": "2001-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our lives are pathetic. We do nothing but eat, work and sleep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eat, work, sleep... eat, work, sleep... eat, work, sleep."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great - I just finished lunch and you're making me hungry!"
+      ]
+    }
+  ]
+}

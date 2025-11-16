@@ -1,0 +1,24 @@
+{
+  "date": "2016-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There are two good ways to avoid listening to others."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "1) Do all of the talking yourself, and 2) be too busy to listen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds simplistic.",
+        "I'm late for a meeting."
+      ]
+    }
+  ]
+}

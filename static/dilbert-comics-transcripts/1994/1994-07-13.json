@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I oppose putting career criminals in jail for life.",
+        "There's no evidence that longer sentences reduce crime."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, your theory is that when career criminals are in jail, other people commit more crimes to keep the average up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Statistics don't lie, Dogbert.",
+        "Unless bad statistics went to jail - then the others would lie."
+      ]
+    }
+  ]
+}

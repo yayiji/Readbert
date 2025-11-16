@@ -1,0 +1,23 @@
+{
+  "date": "1992-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, sometimes I think you're the only one who respects me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should drop it while there's still some ambiguity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new policy is to discriminate against single people.",
+        "It's totally legal!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write your marital status on this list, so I know who has no reason to go home at night."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang!",
+        "What are the odds you'd all be polygamists?"
+      ]
+    }
+  ]
+}

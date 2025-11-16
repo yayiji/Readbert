@@ -1,0 +1,57 @@
+{
+  "date": "2019-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You spelled \"crypto\" wrong.",
+        "No, I didn't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You spelled it \"C-R-I-P-T-O.\"",
+        "So?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There is no \"i\" in crypto."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's how I learned to spell it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You learned it wrong. No one else spells it that way."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now you're criticizing me for being an innovator?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's not innovation!",
+        "It's a mistake!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why can't you admit you are wrong?!",
+        "Why can't you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2019-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm a business agility influencer and solutionist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't think that means anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you the first person to spot that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because I'm useless too!"
+      ]
+    }
+  ]
+}

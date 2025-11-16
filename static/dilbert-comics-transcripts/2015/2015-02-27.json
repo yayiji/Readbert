@@ -1,0 +1,23 @@
+{
+  "date": "2015-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our tests show that people can't figure out how to use our software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And yet we still sell it. How are we different from criminals?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our tax rate is lower."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2019-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't approve your budget because you didn't follow the seventeen-step workflow procedure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is not humanly possible to follow the company workflow procedure and also accomplish anything useful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would it help if I add a few steps?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, if you have to go back to your office to do it."
+      ]
+    }
+  ]
+}

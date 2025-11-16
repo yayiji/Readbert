@@ -1,0 +1,24 @@
+{
+  "date": "2012-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm collecting money for Scott's birthday present."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me check my acquaintance price chart to see what he's worth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have change for used gum?",
+        "Do you want it in lint or bent staples?"
+      ]
+    }
+  ]
+}

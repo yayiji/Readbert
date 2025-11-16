@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your work has been exceptional, but people are complaining about your attitude."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aren't the people who are doing the complaining usually the ones with bad attitudes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They think you dislike them.",
+        "I do, but I have a terrific attitude about it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1991-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to reject your generous offer to buy the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And if you try to make this a hostile takeover, you will find me to be a formidable adversary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Then their lawyers chewed my clothes off."
+      ]
+    }
+  ]
+}

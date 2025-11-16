@@ -1,0 +1,25 @@
+{
+  "date": "1990-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Herman's hardware",
+        "Oh no... I'm being drawn to that hardware store."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The force is ripping my clothes off, but I can resist!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm only looking for my clothes— I'm not shopping.",
+        "You're not the first naked engineer to use that story."
+      ]
+    }
+  ]
+}

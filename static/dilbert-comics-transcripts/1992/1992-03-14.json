@@ -1,0 +1,24 @@
+{
+  "date": "1992-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert sues Dilbert for petimony.",
+        "The defense calls Fuzzy the cat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't it true that I did not in fact pet you, but only pushed you away in mild disgust when you rubbed my leg?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have this sudden urge to bury you in pine-scented sand."
+      ]
+    }
+  ]
+}

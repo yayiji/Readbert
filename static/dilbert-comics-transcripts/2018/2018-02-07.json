@@ -1,0 +1,26 @@
+{
+  "date": "2018-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a critical bug in our software that could make our product worthless in a week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you give me a huge raise, I won't tell anyone about the problem until you sell all of your company stock.",
+        "Deal!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Two weeks later",
+        "Why haven't I heard about the bug yet?",
+        "You didn't ask me if I knew how to fix it."
+      ]
+    }
+  ]
+}

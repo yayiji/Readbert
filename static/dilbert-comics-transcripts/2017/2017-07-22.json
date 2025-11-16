@@ -1,0 +1,29 @@
+{
+  "date": "2017-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your code doesn't conform to my architectural guidelines."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you're bad at your job and I'm good at mine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to respond to that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you could ask someone who knows how to do your job."
+      ]
+    }
+  ]
+}

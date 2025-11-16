@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you rather eat garbage or listen to our boss talk about his weekend?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd have to know more about the garbage to make that decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's say it's mostly kitchen stuff.",
+        "Am I eating it from the can or fighting birds for it?"
+      ]
+    }
+  ]
+}

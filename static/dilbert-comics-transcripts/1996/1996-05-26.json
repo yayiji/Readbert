@@ -1,0 +1,70 @@
+{
+  "date": "1996-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Business language explained"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have to be more competitive.",
+        "Nice barrel.",
+        "This old thing?",
+        "Meaning: Say goodbye to salary increases."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We must focus on our core business.",
+        "Hello.",
+        "Meaning: We can't find our butts with both hands."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You are empowered.",
+        "I proclaim this to be \"Green Ink Day.\"",
+        "Meaning: You're the monarch of unimportant decisions."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We're reengineering your function.",
+        "Meaning: Adios, Tonto, and the horse you rode in on."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Training is essential.",
+        "You were a cannibal?",
+        "I'm a people person.",
+        "Meaning: We're trying to hire some trained people."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We're market driven.",
+        "What's your favorite odor?",
+        "Research",
+        "Meaning: We blame customers for our lack of innovation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We value employee input.",
+        "Thanks for listening.",
+        "Ha ha ha!",
+        "Meaning: We think humor is important."
+      ]
+    }
+  ]
+}

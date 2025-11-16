@@ -1,0 +1,26 @@
+{
+  "date": "2010-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the security consultant",
+        "Anyone without an I.D. badge is assumed to be an enemy combatant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pounce on the intruder and shake him until his fillings fall out!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much did we pay for that advice?",
+        "It's free.",
+        "I work for the dentist across the street."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2018-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you have a minute?",
+        "No. I have to get a haircut."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't get a haircut on company time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm only cutting the hairs that grew on company time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How do you know which ones grew on company time?",
+        "It's always hairs three and five."
+      ]
+    }
+  ]
+}

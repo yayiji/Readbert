@@ -1,0 +1,54 @@
+{
+  "date": "2016-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to go to dinner and a movie with me on Friday?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That plan is poorly conceived."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The best time to watch a movie is also the best time to eat."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And what are the odds we want to see the same movie?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're a picky eater, so it would be a nightmare to decide where we both want to eat."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "One of us would have to compromise, and I assume it would be me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm offended by your offer to suboptimize my Friday experience."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you have a better option?",
+        "Nope. See you Friday."
+      ]
+    }
+  ]
+}

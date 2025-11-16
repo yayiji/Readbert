@@ -1,0 +1,59 @@
+{
+  "date": "1995-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Helen, do you have any staples in the supply cabinet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I only stock the basics: cheap pens with green ink, big jars of glue and ribbons for obsolete printers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you order some staples?",
+        "You need to give me the order number."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay. Can I see your supply catalog?",
+        "Wally borrowed it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'd better get that; it might be personal.",
+        "Sob",
+        "Rrrring"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wally, do you have the...",
+        "I need your help with this. Pull up a chair."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I need both of you to come talk to a vendor that we'll never use."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Thanks to teamwork, I almost stapled something today.",
+        "I'm so proud to know you."
+      ]
+    }
+  ]
+}

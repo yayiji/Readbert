@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before we start my performance review, I should remind you that it would take three people to replace me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I will resign at the slightest criticism, leaving you with a huge hiring and budget problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This was supposed to make you nervous, not me.",
+        "That thinking is so pre-Google."
+      ]
+    }
+  ]
+}

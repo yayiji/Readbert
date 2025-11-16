@@ -1,0 +1,25 @@
+{
+  "date": "2010-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "Absolutely."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I allocated one minute today for tasks that are a complete waste of time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This isn't a complete waste of time.",
+        "Bummer. I only allocated time for things that are."
+      ]
+    }
+  ]
+}

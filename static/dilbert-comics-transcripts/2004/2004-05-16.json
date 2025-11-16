@@ -1,0 +1,56 @@
+{
+  "date": "2004-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you review my celebrity business plan?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, I'll commit a sensational crime that the media can't ignore."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I'll hire celebrity lawyer Johnny \"Red\" Galipigos to help me beat the rap."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll use my fame to land a part on a reality TV show where I will win by cheating."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I'll gain a massive amount of weight so the tabloids will fixate on me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then I'll become a spokesperson for a weight loss product."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Lastly, I'll write children's books.",
+        "What about rehab?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Good catch. I totally forgot the part where I get addicted to painkillers.",
+        "Otherwise, it looks good."
+      ]
+    }
+  ]
+}

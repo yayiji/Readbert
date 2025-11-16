@@ -1,0 +1,24 @@
+{
+  "date": "1992-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The mighty warrior prepares for battle..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today, bold memos will be written, dangerous meetings will be attended, and many a photocopied image will be captured for eternity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If it weren't for sarcasm, my life would sound pathetic.",
+        "Glad to help."
+      ]
+    }
+  ]
+}

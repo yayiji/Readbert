@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The MRI shows that your brain has been hijacked by dopamine pirates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are now under the full control of social media corporations, gambling casinos, and big pharma."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you writing me a prescription?",
+        "No, I'm buying stock in those companies."
+      ]
+    }
+  ]
+}

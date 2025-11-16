@@ -1,0 +1,24 @@
+{
+  "date": "1998-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm creating a digital archive of the world's greatest art. But my boss insists on \"fixing\" the artists' mistakes.",
+        "Hee hee"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is such a funny story for the newsletter!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a funny story, but change \"fixing\" to \"dramatically improving.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday you told me to do the exact opposite of what you told me today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's my way of holding you accountable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a vague feeling that I am not being all that I can be."
+      ]
+    }
+  ]
+}

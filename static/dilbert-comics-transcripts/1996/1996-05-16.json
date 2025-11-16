@@ -1,0 +1,26 @@
+{
+  "date": "1996-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In the \"due diligence\" phase of our merger you will give us access to all of your proprietary information."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't that let you know how to crush us competitively?",
+        "Couldn't you cancel the merger and take our customers without paying a cent?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must...",
+        "maniacal...",
+        "laugh..."
+      ]
+    }
+  ]
+}

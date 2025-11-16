@@ -1,0 +1,23 @@
+{
+  "date": "2017-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss forgot to fund my project so I've been scavenging for parts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You usually don't make conversation with me. I guess this means we're friends now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People."
+      ]
+    }
+  ]
+}

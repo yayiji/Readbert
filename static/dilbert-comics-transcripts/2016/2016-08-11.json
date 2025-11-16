@@ -1,0 +1,27 @@
+{
+  "date": "2016-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We should have a private lactation room like other companies.",
+        "Yes, we should."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one in my group is nursing a baby.",
+        "What about visitors?",
+        "Right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks for helping me get my man cave at the office.",
+        "What?"
+      ]
+    }
+  ]
+}

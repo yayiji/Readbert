@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm moving to a shared leadership model."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each of you will take on one piece of the leadership role.",
+        "What's my piece?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's see. I have you down for something called... blame."
+      ]
+    }
+  ]
+}

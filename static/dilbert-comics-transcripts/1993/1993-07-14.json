@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like sales of the \"Dogbert Joggerobic carpet patch\" are brisk.",
+        "Yeah, and I'm looking to expand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ratbert is busy researching new product concepts for the carpet patch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Carpet club for men\""
+      ]
+    }
+  ]
+}

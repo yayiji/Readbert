@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What happened to your head?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been banging it against a wall to reduce my frustration with my co-workers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it working?",
+        "I think so because I don't remember your name."
+      ]
+    }
+  ]
+}

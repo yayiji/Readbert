@@ -1,0 +1,55 @@
+{
+  "date": "2002-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to socialize your idea with the rest of the department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Socialize? Is that the same as getting buy-in?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's one step below buy-in. It's more like dialoging for feedback."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wait... I thought that building a consensus was one step below buy-in."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just run it up a flagpole and see who salutes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wouldn't it be better to do a temperature check using a straw man?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe... but is that going to inoculate the stakeholders?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Dear reader,",
+        "If you or anyone you love understands the preceding conversation you have my deepest sympathy.",
+        "S.A."
+      ]
+    }
+  ]
+}

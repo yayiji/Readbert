@@ -1,0 +1,24 @@
+{
+  "date": "1992-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To reach cosmic joy you must give away all of your possessions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if I give everything away but still do not achieve cosmic joy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then the cosmic joy is on you.",
+        "I'm starting to see how this works."
+      ]
+    }
+  ]
+}

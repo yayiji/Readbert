@@ -1,0 +1,24 @@
+{
+  "date": "2007-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every week I order sugared doughnuts online and every week they deliver plain doughnuts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those aren't plain.",
+        "Ratbert licks the sugar off of them when they arrive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I work in a cubicle. I can get used to this too."
+      ]
+    }
+  ]
+}

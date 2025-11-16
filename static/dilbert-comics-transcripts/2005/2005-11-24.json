@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you leave your last job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They accused me of stealing four computers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did they make you confess?",
+        "I took the fifth."
+      ]
+    }
+  ]
+}

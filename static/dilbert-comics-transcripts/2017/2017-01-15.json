@@ -1,0 +1,53 @@
+{
+  "date": "2017-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to cut our budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go to all of our vendors and tell them to reduce their prices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would they do that for us?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell them we'll buy from someone else unless they do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's what we told them to get the prices we have now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm an engineer, not a professional negotiator. Your plan has failure designed into it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your poor leadership already has me on the edge of madness. This could push me over the edge."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And I need it done by Tuesday."
+      ]
+    }
+  ]
+}

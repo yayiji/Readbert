@@ -1,0 +1,55 @@
+{
+  "date": "1994-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert teaches business math.",
+        "Grunts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "#1 Any job that can be done by two people..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Can be done by one person for half the cost."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "#2 A bonus today is worth more than..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...The whole company tomorrow."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "#3 Your expense requirements for December can be calculated..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...By taking what's left in the budget and multiplying by one.",
+        "Giraffe goes where?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next week, a doctor with a flashlight shows us where sales projections come from."
+      ]
+    }
+  ]
+}

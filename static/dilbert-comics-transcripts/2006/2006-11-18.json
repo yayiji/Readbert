@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You haven't given me enough resources to do my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because your project isn't important and neither are you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This took an ugly turn.",
+        "Would you mind not exhaling so much in my office?"
+      ]
+    }
+  ]
+}

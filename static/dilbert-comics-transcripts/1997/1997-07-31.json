@@ -1,0 +1,23 @@
+{
+  "date": "1997-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Due to space constraints, some people will have to share cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to the list, your new roommate will be... the copy machine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it claustrophobic in here or is it just me?"
+      ]
+    }
+  ]
+}

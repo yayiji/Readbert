@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project is six months behind schedule because of pandemic-related supply chain issues."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm, yes. I've heard about supply chain issues on the news."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you really have supply chain issues?",
+        "I might if I ever start the project."
+      ]
+    }
+  ]
+}

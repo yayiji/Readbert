@@ -1,0 +1,25 @@
+{
+  "date": "1995-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, buddy, what are you in for?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unlike yourself, I am not a prisoner here.",
+        "I choose to work here of my own free will!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great... I'm in the freak section.",
+        "I like to work."
+      ]
+    }
+  ]
+}

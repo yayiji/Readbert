@@ -1,0 +1,26 @@
+{
+  "date": "1998-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to con people.",
+        "And I like to insult people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you combine con and insult, you get \"consult.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm here to consult you.",
+        "It sounds expensive and demeaning.",
+        "... Okay."
+      ]
+    }
+  ]
+}

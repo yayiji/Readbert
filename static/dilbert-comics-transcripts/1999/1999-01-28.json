@@ -1,0 +1,23 @@
+{
+  "date": "1999-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I stayed awake for two days straight to finish this R.F.Q. by the deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it will all be for nothing if you don't send it out today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll put it in the middle of this stack so I won't forget it."
+      ]
+    }
+  ]
+}

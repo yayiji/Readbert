@@ -1,0 +1,25 @@
+{
+  "date": "1989-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You shouldn't care so much about what other people think of your work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, everybody scoffed at the Wright brothers.",
+        "Galileo was jailed.",
+        "Columbus was ridiculed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "'Course, none of those guys had a head shaped like a torpedo."
+      ]
+    }
+  ]
+}

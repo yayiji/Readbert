@@ -1,0 +1,31 @@
+{
+  "date": "2017-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late.",
+        "Barry Dingle keeps hanging around my office and asking hard questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't know the answer to any hard questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why it takes so long."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... you just spout nonsense until he leaves?",
+        "That's my go-to strategy for most situations."
+      ]
+    }
+  ]
+}

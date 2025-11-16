@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Portrait $5.00"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make me look smart and sexy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't look like me...",
+        "Too sexy?"
+      ]
+    }
+  ]
+}

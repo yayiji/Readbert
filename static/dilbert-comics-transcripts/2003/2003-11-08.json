@@ -1,0 +1,25 @@
+{
+  "date": "2003-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having problems at home, so I'll be taking it out on you today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll begin by hallucinating that you said something bad.",
+        "Then I'll yell at you for saying it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am not a sadistic nut!!!",
+        "If I go to my cubicle, can you hallucinate that I'm here?"
+      ]
+    }
+  ]
+}

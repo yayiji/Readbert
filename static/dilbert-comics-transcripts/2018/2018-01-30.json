@@ -1,0 +1,23 @@
+{
+  "date": "2018-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government forced me to put a \"kill code\" in the operating system for our self-driving cars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And by \"kill code,\" you mean it will bring the vehicle to a controlled stop?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, you're thinking of a \"stop code.\""
+      ]
+    }
+  ]
+}

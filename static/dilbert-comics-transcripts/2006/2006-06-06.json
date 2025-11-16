@@ -1,0 +1,29 @@
+{
+  "date": "2006-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What?",
+        "You've been randomly selected for a drug test."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a shy bladder. I can't produce under pressure!!!",
+        "Do it now or be fired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks for understanding.",
+        "Do it!",
+        "Do it!",
+        "Do it!",
+        "Do it!"
+      ]
+    }
+  ]
+}

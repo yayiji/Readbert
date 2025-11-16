@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to show more leadership on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you know my leadership is the problem? Maybe the team members are bad followers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's your job to fix it either way.",
+        "The way you just fixed me with your leadership?"
+      ]
+    }
+  ]
+}

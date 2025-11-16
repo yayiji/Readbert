@@ -1,0 +1,24 @@
+{
+  "date": "2008-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company will be using less air conditioning to reduce expenses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To compensate, we're loosening up on the dress code.",
+        "Shorts will now be allowed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not going to update my shorts wardrobe until I know this will last."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someday it will be possible to clone our boss.",
+        "But the clone would have no experience and no knowledge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just sent an e-mail message to Japan. I don't know the language so I took your advice and typed it all in caps."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. That put it all in perspective."
+      ]
+    }
+  ]
+}

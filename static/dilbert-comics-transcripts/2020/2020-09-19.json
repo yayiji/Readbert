@@ -1,0 +1,23 @@
+{
+  "date": "2020-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my employee tracker, you spent 45 minutes in stall four of the men's room today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought you said the purpose of tracking us was to ensure social distancing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you have to accept some responsibility for believing it."
+      ]
+    }
+  ]
+}

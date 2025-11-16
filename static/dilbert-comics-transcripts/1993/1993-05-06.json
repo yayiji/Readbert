@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you help me?",
+        "No, I'm afraid I can't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You see, I get paid the same low hourly wage whether you buy that shirt or not. And after years in this business I've learned to despise the general public."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please... I have exact change.",
+        "I have no way of knowing if that's true."
+      ]
+    }
+  ]
+}

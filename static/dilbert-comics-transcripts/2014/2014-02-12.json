@@ -1,0 +1,28 @@
+{
+  "date": "2014-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who's up for some leadership?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Watch me define acceptable behavior,",
+        "align your goals with company objectives,",
+        "prioritize respect,",
+        "deal directly with conflict, maintain a positive attitude",
+        "and pretend to care!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would be impressive.",
+        "Settle down, Bilbo."
+      ]
+    }
+  ]
+}

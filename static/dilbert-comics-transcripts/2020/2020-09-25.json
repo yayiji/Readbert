@@ -1,0 +1,25 @@
+{
+  "date": "2020-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think karma is real?",
+        "Nah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like you to meet the newest member of our team. His name is Karma."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need me, I'll be hiding.",
+        "I hear one of you has been bad."
+      ]
+    }
+  ]
+}

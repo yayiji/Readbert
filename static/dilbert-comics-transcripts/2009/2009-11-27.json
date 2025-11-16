@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't understand anything you said for the past half an hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You shushed me every time I tried to interrupt with a question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now we're out of time, and my only memory of this meeting is that noise came out of your donut hole.",
+        "This is why I don't let you talk."
+      ]
+    }
+  ]
+}

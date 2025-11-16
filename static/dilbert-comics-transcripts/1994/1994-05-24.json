@@ -1,0 +1,23 @@
+{
+  "date": "1994-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was just reading your project status report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You say the project is delayed \"due to the ongoing bungling of a clueless, pointy-hair individual.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Instead of saying \"due to,\" it would read better as \"facilitated by.\""
+      ]
+    }
+  ]
+}

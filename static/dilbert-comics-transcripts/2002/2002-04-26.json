@@ -1,0 +1,37 @@
+{
+  "date": "2002-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a second?",
+        "Walk and talk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, the supplier won't..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, Pete.",
+        "Hey, Tim.",
+        "Hi, Barb.",
+        "How are you?",
+        "Not bad.",
+        "Hi."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... those aren't their names.",
+        "My way is easier.",
+        "Hi, Ted."
+      ]
+    }
+  ]
+}

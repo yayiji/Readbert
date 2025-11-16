@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you said you had a zoom call that would last for hours today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I built a \"deep fake\" version of myself to take zoom calls and say generic employee stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert, do you have anything to add?",
+        "I don't know if I'm working hard or hardly working. Har-har!"
+      ]
+    }
+  ]
+}

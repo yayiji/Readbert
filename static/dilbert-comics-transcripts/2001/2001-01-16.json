@@ -1,0 +1,29 @@
+{
+  "date": "2001-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The ad agency",
+        "This cat will say something."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then this other cat will say, \"Yeah, right.\"",
+        "It's like sarcasm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha",
+        "Ha ha",
+        "Ha ha",
+        "Ha!",
+        "This explains so much."
+      ]
+    }
+  ]
+}

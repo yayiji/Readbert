@@ -1,0 +1,24 @@
+{
+  "date": "1995-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you putting a sign on the coffee maker?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's an ISO 9000 requirement. Everything must be clearly labeled. There can be no exceptions.",
+        "That's stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Believe me, I don't like it any more than you do."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1992-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tennis rackets on sale"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for a new racket."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're probably interested in our colorful all-plastic rackets for pathetic beginners."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, actually I'm interested in the Titanium Alloy Deathstick 3000."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha ha! As if a dumpy little pooch could handle that kind of power on the court!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Here... you can touch it, but I'm only humoring you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Boom!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is the perfect racket for those who don't take losing gracefully."
+      ]
+    }
+  ]
+}

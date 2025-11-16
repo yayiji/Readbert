@@ -1,0 +1,25 @@
+{
+  "date": "2012-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did something stupid today!!!",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the dumbest person in the history of the universe!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm a moron!!!",
+        "I need a new cubicle."
+      ]
+    }
+  ]
+}

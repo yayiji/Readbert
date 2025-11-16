@@ -1,0 +1,27 @@
+{
+  "date": "2006-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're off to see the wizard of landfill.",
+        "He'll give you some ambition and he'll show me how to get home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can we go too?",
+        "I need experience... and he needs a brain, heart, soul, and a strategic vision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No I don't.",
+        "You're fired!",
+        "And a job... I need a job."
+      ]
+    }
+  ]
+}

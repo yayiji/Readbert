@@ -1,0 +1,56 @@
+{
+  "date": "2015-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having some people over to my house after work.",
+        "Would you like to come?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who else is coming?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seven people said maybe, and one said he would get back to me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think that shows a lot of interest."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So how about it? Can you come?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It depends on whether my sister needs a ride to the airport."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When will you know?",
+        "I'll text you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you sad that no one came?",
+        "No, I was just A-B testing to see if I still hate all of them."
+      ]
+    }
+  ]
+}

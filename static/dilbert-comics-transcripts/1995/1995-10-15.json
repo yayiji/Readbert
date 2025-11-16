@@ -1,0 +1,57 @@
+{
+  "date": "1995-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you want to be our new \"long range planner,\" Mister Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because \"long range\" is very far away..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Therefore it will be impossible to evaluate my performance."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If it's not too much to ask, I'd like to be on flex-time so you'll never know if I'm supposed to be at work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll need an internet connection at home so I can telecommute and not pollute.",
+        "Because I give a hoot."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Also, I'd like to be in a group with lots of losers.",
+        "That way I'll get the biggest raise when we're ranked."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're hired.",
+        "All of the other applicants demanded relocation expenses and I have no budget for that."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why do I have to work while you just look for poodle graphics on the internet?",
+        "Don't work too hard; I'd like a big raise."
+      ]
+    }
+  ]
+}

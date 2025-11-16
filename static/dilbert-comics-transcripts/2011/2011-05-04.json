@@ -1,0 +1,24 @@
+{
+  "date": "2011-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Once again, our only profitable line of business is \"intentional billing errors.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It started as a series of honest mistakes. Now it's the only way we can maintain our bonuses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do we have anything better in the pipeline?",
+        "R&D is testing some new errors for our pension algorythm."
+      ]
+    }
+  ]
+}

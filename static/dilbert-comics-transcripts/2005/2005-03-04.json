@@ -1,0 +1,26 @@
+{
+  "date": "2005-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In Elbonia",
+        "I'm from America and I'm here to fix all of your problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your arrogance is offensive. We will form an armed resistance and fight you to the end of time!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "Why?",
+        "It's just something we do."
+      ]
+    }
+  ]
+}

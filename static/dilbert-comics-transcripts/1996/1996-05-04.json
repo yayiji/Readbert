@@ -1,0 +1,24 @@
+{
+  "date": "1996-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are my budget estimates for the year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks to management bungling and indecision, I plan to use no capital for several months followed by a reckless year-end orgy of acquisition."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that what you were looking for?",
+        "Tell me again what \"capital\" is."
+      ]
+    }
+  ]
+}

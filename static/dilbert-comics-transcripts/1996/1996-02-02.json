@@ -1,0 +1,24 @@
+{
+  "date": "1996-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need everybody to help in the shipping department today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every product that ships before the end of the month gets counted as revenue for the fiscal year. Unfortunately, we don't have inventory."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So we'll ship whatever is lying around, book it as revenue and sort it out later.",
+        "This one's getting gum."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The rumors of a major layoff are completely untrue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why did the facilities management people just deliver a huge load of cardboard boxes to the break room?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can never have too many boxes.",
+        "Why does every box have an employee name on it?"
+      ]
+    }
+  ]
+}

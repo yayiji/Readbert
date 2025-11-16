@@ -1,0 +1,53 @@
+{
+  "date": "2003-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have the results of the employee morale survey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The number one issue is \"not enough open and honest communication from management.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, okay, I'm willing to give that a try."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Management is looting the company while hiding the fact that we're in a death spiral."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Whenever you talk, I think about my fishing lures until the noise stops."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When I see an employee suffer, it excites me in ways I don't understand."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "On nine separate occasions I've fired bald guys because I thought they were you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If this doesn't work for you, let me know on the next employee morale survey."
+      ]
+    }
+  ]
+}

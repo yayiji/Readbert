@@ -1,0 +1,25 @@
+{
+  "date": "1989-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And it seems like I've always been afraid of moths..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Could this fear be related to your insecurity about your looks?",
+        "I've never been insecure about my looks..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Until this moment...",
+        "Now we're getting someplace."
+      ]
+    }
+  ]
+}

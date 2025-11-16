@@ -1,0 +1,55 @@
+{
+  "date": "1998-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's been a slight change in the vacation policy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we getting more vacation days?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You must be new here."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "As you know, all vacation time must be used in the year it is earned."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I realize this is not always convenient.",
+        "So I've decided to be flexible."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "From now on, any time you spend in the restroom will count as vacation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We should complain.",
+        "If you need me, I'll be taking a porcelain cruise."
+      ]
+    }
+  ]
+}

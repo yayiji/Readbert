@@ -1,0 +1,24 @@
+{
+  "date": "2006-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, come up with a plan to integrate our product with the one we acquired through the merger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. My plan is to throw away the competitor's product because it's just a cheap knock-off of our product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about a plan that doesn't make our CEO look like a moron?",
+        "He could stop wearing sleeveless sweaters."
+      ]
+    }
+  ]
+}

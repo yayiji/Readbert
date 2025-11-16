@@ -1,0 +1,25 @@
+{
+  "date": "1997-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had fun talking to you tonight, Gilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It got a little boring when you tried to steer the conversation away from me.",
+        "But I managed to shut you down by looking uninterested."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's Dilbert, not Gilbert.",
+        "Yawn!"
+      ]
+    }
+  ]
+}

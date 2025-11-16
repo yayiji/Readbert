@@ -1,0 +1,29 @@
+{
+  "date": "2001-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor that there might be layoffs on Friday. Is it true?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely not.",
+        "No way.",
+        "Nope.",
+        "Negatory.",
+        "No, no, no, no, no."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great.",
+        "Can I take off Friday?",
+        "Monday would be better."
+      ]
+    }
+  ]
+}

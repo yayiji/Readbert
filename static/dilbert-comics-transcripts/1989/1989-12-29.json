@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was rewarded today for perfect attendance at work.",
+        "What do you get?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A day off with pay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a miracle your species has survived this long."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2009-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just got my MBA, and I'm here to solve all of your problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our products are junk and we're completely out of capital."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried jargon?"
+      ]
+    }
+  ]
+}

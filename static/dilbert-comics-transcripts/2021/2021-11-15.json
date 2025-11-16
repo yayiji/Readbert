@@ -1,0 +1,23 @@
+{
+  "date": "2021-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations! I'm naming you employee of the year!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't you just name Alice the employee of the year?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The good thing about meaningless awards is that there's no limit to how many I can hand out."
+      ]
+    }
+  ]
+}

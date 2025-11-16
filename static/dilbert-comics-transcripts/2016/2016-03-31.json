@@ -1,0 +1,23 @@
+{
+  "date": "2016-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you hire me, I will dedicate 100% of my energy to making this company succeed!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would your family think if they heard that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They'd understand. They're all huge liars, too."
+      ]
+    }
+  ]
+}

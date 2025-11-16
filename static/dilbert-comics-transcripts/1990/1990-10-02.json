@@ -1,0 +1,25 @@
+{
+  "date": "1990-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ugh... gosh, what a nightmare."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bob, I just dreamed Dilbert was killed by deer, and all he left me was his recipe for chile con carne.",
+        "Bad news..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's really dead?",
+        "And his chile con carne stinks."
+      ]
+    }
+  ]
+}

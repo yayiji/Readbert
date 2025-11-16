@@ -1,0 +1,24 @@
+{
+  "date": "2010-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's society for people who always make bad decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to thank each of you for choosing the platinum stain protection plan with your membership dues."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If your reputation gets stained by being in this group, the brochure will teach you how to grow a mustache disguise.",
+        "What if I already have one?"
+      ]
+    }
+  ]
+}

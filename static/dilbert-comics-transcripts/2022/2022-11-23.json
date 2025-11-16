@@ -1,0 +1,24 @@
+{
+  "date": "2022-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think I'll start the day by answering emails.",
+        "You have 756 messages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nope."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like another week of telling people their emails didn't come through."
+      ]
+    }
+  ]
+}

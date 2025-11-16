@@ -1,0 +1,25 @@
+{
+  "date": "2014-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can tell a lot from an applicant's storytelling skills.",
+        "So tell me a story."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Last week, I broke into a morgue and took a selfie with a dead guy.",
+        "But in my defense, I was super drunk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hired a new salesperson."
+      ]
+    }
+  ]
+}

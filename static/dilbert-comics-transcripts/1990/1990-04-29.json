@@ -1,0 +1,53 @@
+{
+  "date": "1990-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My credit card has been canceled."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The stupid bank's computer thinks I died."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is an opportunity for some righteous indignation. I love that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hello, credit card department, an underpaid employee speaking."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, yes, apparently you are alive. But it would be very difficult to reprogram the computer..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm sure you'll find a solution."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Kill him?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Unless you'd rather read this computer manual."
+      ]
+    }
+  ]
+}

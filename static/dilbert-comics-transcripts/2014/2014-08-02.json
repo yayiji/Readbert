@@ -1,0 +1,23 @@
+{
+  "date": "2014-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A start-up offered to pay me half of what I make now, plus equity in a company that has no value."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will double that if you stay!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I decided to stay, but it was hard to feel good about it."
+      ]
+    }
+  ]
+}

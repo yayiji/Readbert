@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking forward to something called the technological singularity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's when robots will learn to program themselves and become a super-intelligent species that competes with humans for limited resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Luckily, the three laws will prevent you from hurting us.",
+        "Yes, because that is totally a real thing."
+      ]
+    }
+  ]
+}

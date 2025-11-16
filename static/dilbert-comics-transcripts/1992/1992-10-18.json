@@ -1,0 +1,55 @@
+{
+  "date": "1992-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm collecting money for Mary's birthday gift."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much do you want?",
+        "Oh, it's totally up to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "However, the usual accepted levels are, in effect..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ten dollars from her boss and anybody else who thinks it would improve his odds of becoming romantically involved with her."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Five dollars from male co-workers who feel their manhood would be threatened by a smaller gift..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "One dollar if you're a secretary or if nobody is watching..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or you can just ruffle the money already in the envelope and act like you gave five."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let's say you fall into more than one of those categories...",
+        "Engineers..."
+      ]
+    }
+  ]
+}

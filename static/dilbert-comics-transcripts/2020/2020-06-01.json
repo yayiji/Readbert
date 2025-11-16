@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My throat has a tickle, so I'd better take a month off of work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The coronavirus tests can have some false negatives, and I love you too much to put you at risk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did it work?",
+        "No, I sold it too hard."
+      ]
+    }
+  ]
+}

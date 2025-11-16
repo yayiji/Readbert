@@ -1,0 +1,24 @@
+{
+  "date": "2009-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did the industry standards meeting go?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you convince 83 companies to adopt standards that benefit only us while dooming the entire industry in the long run?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or are you a complete failure?",
+        "Can I hear those choices again?"
+      ]
+    }
+  ]
+}

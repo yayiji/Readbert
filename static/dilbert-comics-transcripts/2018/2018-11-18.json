@@ -1,0 +1,54 @@
+{
+  "date": "2018-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished coding the new feature."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What took you so long?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It took as long as it needed to take."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're behind schedule."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not the one who created the schedule! That was you!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you should fire yourself for being so bad at making schedules."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's not how it works!",
+        "What does that even mean?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They're starting to catch on that most of what I say doesn't mean anything."
+      ]
+    }
+  ]
+}

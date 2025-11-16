@@ -1,0 +1,27 @@
+{
+  "date": "2003-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm sending you to a coffee rehab program.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They'll get you down to forty cups a day.",
+        "Not double digits!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You monster!!!",
+        "I won't survive!!!",
+        "If you're lucky."
+      ]
+    }
+  ]
+}

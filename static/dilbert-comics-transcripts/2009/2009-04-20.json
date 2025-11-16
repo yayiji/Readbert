@@ -1,0 +1,26 @@
+{
+  "date": "2009-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Job tension is running high",
+        "I... I... forgot to total the cost estimates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaaa!!!! You're going to fire me!",
+        "I'm the next casualty of the frail economy!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we could finish this by e-mail.",
+        "Must improve street-mime skills!!!"
+      ]
+    }
+  ]
+}

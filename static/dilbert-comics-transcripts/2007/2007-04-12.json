@@ -1,0 +1,25 @@
+{
+  "date": "2007-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I never reviewed the design.",
+        "Yes you did. Here's a copy of your e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is hardly conclusive. Did you get any dna evidence?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was all that screaming?",
+        "I had to collect some dna."
+      ]
+    }
+  ]
+}

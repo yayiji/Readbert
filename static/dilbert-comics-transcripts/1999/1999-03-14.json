@@ -1,0 +1,56 @@
+{
+  "date": "1999-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the Dogbert Wrecking Company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm running a special on crushing your boss's new car in the parking lot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does it cost?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The first one is free."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you're satisfied, I hope you'll consider my monthly plan."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's the red one. He brags about it every day."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And when you spend that much, the dealer gives you a free model of your car!",
+        "Beep",
+        "Beep",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And next month can you crush the little one on his desk too?"
+      ]
+    }
+  ]
+}

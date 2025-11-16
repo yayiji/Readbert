@@ -1,0 +1,27 @@
+{
+  "date": "1990-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This could be my most important technical achievement yet.",
+        "I'll call it the \"Sonic Obliterator.\"",
+        "Hmm...",
+        "Catchy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This baby can blast a buffalo into random particles in about half a nanosecond."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course, it might have limited application around the house.",
+        "At least the buffaloes will show us some respect."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1991-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become a pop psychologist.",
+        "I need your help to make my lecture video."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You came to the right place, babe.",
+        "First, you need a new look."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nice try, but frankly, this look didn't work too well for Madonna either."
+      ]
+    }
+  ]
+}

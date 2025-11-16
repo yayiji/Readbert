@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "Have you heard about the employee wellness program?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you call in sick on a Monday or a Friday, your boss says, \"Well, well, well – that's very suspicious.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now if you'll excuse me, I feel a nap coming on."
+      ]
+    }
+  ]
+}

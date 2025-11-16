@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have the results of your Dogbert personality profiles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Based on your questionnaire answers, Alice is angry, Wally is lazy, and Dilbert is boring."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How are we supposed to use this new information?",
+        "Wake me up when he's done talking."
+      ]
+    }
+  ]
+}

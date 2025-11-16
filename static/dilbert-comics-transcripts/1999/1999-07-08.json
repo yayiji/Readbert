@@ -1,0 +1,23 @@
+{
+  "date": "1999-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I eat a sandwich, I always remove the useless edges of the bread."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That tells you what kind of manager I am."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're the anti-crust?"
+      ]
+    }
+  ]
+}

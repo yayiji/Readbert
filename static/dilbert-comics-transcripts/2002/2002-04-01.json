@@ -1,0 +1,24 @@
+{
+  "date": "2002-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Business is way down.",
+        "You know what you need to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Avoid finishing anything so we never appear to be surplus employees?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe this would be a good time to admit that you were wrong about us knowing."
+      ]
+    }
+  ]
+}

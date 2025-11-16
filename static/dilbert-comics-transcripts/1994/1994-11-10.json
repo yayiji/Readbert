@@ -1,0 +1,32 @@
+{
+  "date": "1994-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As your consultant,",
+        "I'll tell you how to",
+        "improve your business",
+        "processes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll show you how a",
+        "well-designed process",
+        "can compensate for",
+        "your sloth, apathy",
+        "and all-around",
+        "incompetence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But most important:",
+        "Let's have fun."
+      ]
+    }
+  ]
+}

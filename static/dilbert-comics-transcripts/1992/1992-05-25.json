@@ -1,0 +1,24 @@
+{
+  "date": "1992-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I wonder if it's ethical to do these genetic experiments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I rationalize it because it will help improve the quality of life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you making?",
+        "Skunkopotamus."
+      ]
+    }
+  ]
+}

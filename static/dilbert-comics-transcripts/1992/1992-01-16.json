@@ -1,0 +1,24 @@
+{
+  "date": "1992-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's jail for the rich and famous aims to satisfy all of your prison needs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Could you arrange to have my lawyer killed?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He snores.",
+        "Do not"
+      ]
+    }
+  ]
+}

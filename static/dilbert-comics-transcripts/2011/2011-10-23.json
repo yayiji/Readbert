@@ -1,0 +1,54 @@
+{
+  "date": "2011-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you show me how to download apps on my new phone?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that would take time away from my primary job of showing you how to do formulas in Excel."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Apparently the eight times I already taught you weren't enough."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't use Excel often enough to remember from one time to the next."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How often do you expect to download apps?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's hard to say. I just know I want all of them."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How many are there?",
+        "Four."
+      ]
+    }
+  ]
+}

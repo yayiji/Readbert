@@ -1,0 +1,26 @@
+{
+  "date": "2004-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been named the aspect manager of morale. Effective today, you no longer report to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yippeee!!!",
+        "Woo-hoo!!",
+        "Yes!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you improve the morale so quickly?",
+        "I'm a genius?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1992-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I worry that I'll never be creative again.",
+        "Maybe my best ideas are behind me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, I wouldn't worry.",
+        "Nothing you've done up to now has been any great shakes either."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh, so maybe my best work is still ahead of me.",
+        "Well, you have to consider the track record here."
+      ]
+    }
+  ]
+}

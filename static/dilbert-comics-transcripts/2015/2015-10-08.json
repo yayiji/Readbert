@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My biosensors detect an onset of social anxiety."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My internal 3-D printer is making the meds to fix you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am ready to dispense. Please lie on the ground with your mouth open.",
+        "This feels like a bad precedent."
+      ]
+    }
+  ]
+}

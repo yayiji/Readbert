@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our product name turns out to be offensive in the Elbonian language."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It means \"one who rips off his own facial hair and feeds it to a baby bird, which chokes and dies, signaling years of drought.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's all in one word?",
+        "They only have seventeen words, and nine of them are insults."
+      ]
+    }
+  ]
+}

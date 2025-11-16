@@ -1,0 +1,26 @@
+{
+  "date": "2018-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our project can only succeed if each of us gives 110%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm off next week.",
+        "I have surgery on Monday.",
+        "I gave my two-week notice a week ago."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, can I get 50% effort from any of you?",
+        "I can only give you the extra 10% you believe exists."
+      ]
+    }
+  ]
+}

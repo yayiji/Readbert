@@ -1,0 +1,25 @@
+{
+  "date": "2008-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you make the changes I asked for?",
+        "That depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you remember what you asked me to change?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Yup, I made the changes."
+      ]
+    }
+  ]
+}

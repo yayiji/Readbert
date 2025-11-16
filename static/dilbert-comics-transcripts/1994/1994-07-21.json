@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In market research terms, you belong to the \"techno geek\" segment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're shy, boring, gullible and male.",
+        "You prefer computers to people.",
+        "There's always a spider on your arm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Made you look."
+      ]
+    }
+  ]
+}

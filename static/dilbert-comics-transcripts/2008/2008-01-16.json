@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished my project and I'm ready to present it to the board of directors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Interns don't speak to the board of directors, asok. It would be considered an insult."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How is that an insult?",
+        "You have the stink of unimportance."
+      ]
+    }
+  ]
+}

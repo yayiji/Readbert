@@ -1,0 +1,32 @@
+{
+  "date": "2012-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our tablet computer is indestructible.",
+        "Watch this..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Crash!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our company is up next.",
+        "Find the prototype."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oops.",
+        "Was that yours?"
+      ]
+    }
+  ]
+}

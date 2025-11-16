@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks to advances in artificial intelligence, I am both a robot and your new boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Work hard while I do nothing or I will crush each of your skulls with my mechanical arms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's tough, but he's fair.",
+        "And no micromanaging. I find it refreshing."
+      ]
+    }
+  ]
+}

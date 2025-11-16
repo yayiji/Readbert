@@ -1,0 +1,56 @@
+{
+  "date": "1994-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I should approach my personal life as if it were an engineering project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is the mission of this project?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Find a girlfriend!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Good. Now consider the feasible alternatives."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Define \"feasible.\"",
+        "Never mind.",
+        "Let's move on."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now let's calculate your attractiveness ratio so we can narrow the field of girlfriend options."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's see... your buying power narrows the choices to a woman who just got a face transplant from a baboon."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe it was an attractive baboon. I should call her.",
+        "Somewhere between desire and engineering lies stupidity."
+      ]
+    }
+  ]
+}

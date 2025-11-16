@@ -1,0 +1,25 @@
+{
+  "date": "2015-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I became a member of the hairdresser illuminati.",
+        "The what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a shadowy organization that controls the world by manipulating the hairstyles of political candidates."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is my barber doing here?",
+        "That haircut will never become your next president."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I need you to work late every night until we catch up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll also need to work every weekend."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about my family?",
+        "They had a good run."
+      ]
+    }
+  ]
+}

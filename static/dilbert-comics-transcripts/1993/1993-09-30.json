@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One of my co-workers got a much better job at another company.",
+        "I'm feeling quite envious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead of feeling sad, you should make a list of all the things you have that he doesn't."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So far, you have a birthmark, a fear of spiders and the list itself.",
+        "I had the birthmark removed."
+      ]
+    }
+  ]
+}

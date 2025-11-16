@@ -1,0 +1,26 @@
+{
+  "date": "2001-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've had a rash of thefts.",
+        "Be on the lookout for anyone who acts suspicious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can we cut this meeting short?",
+        "The posters in the break room got me all motivated!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why are they there?!!",
+        "\\ \\"
+      ]
+    }
+  ]
+}

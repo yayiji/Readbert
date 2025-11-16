@@ -1,0 +1,26 @@
+{
+  "date": "1990-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob and Dawn join Dogbert's cult.",
+        "You two are in charge of security."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job is to neutralize anybody who questions my motives.",
+        "Actually, we have some questions of our own..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or should we just neutralize ourselves?",
+        "Make it look like an accident."
+      ]
+    }
+  ]
+}

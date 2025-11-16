@@ -1,0 +1,26 @@
+{
+  "date": "2001-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Your mousepad is incompatible with your operating system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try rebooting the mousepad.",
+        "If that doesn't work, I'll call you back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How will you know?",
+        "I'll watch you through your monitor."
+      ]
+    }
+  ]
+}

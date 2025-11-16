@@ -1,0 +1,31 @@
+{
+  "date": "1996-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "Hey, Wally,",
+        "is there",
+        "anything",
+        "you still",
+        "like about",
+        "working",
+        "here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... I like making popcorn in the microwave and eating it while I pretend to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your body language tells me that something evil is going to happen to my popcorn privileges.",
+        "I love my job."
+      ]
+    }
+  ]
+}

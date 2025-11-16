@@ -1,0 +1,23 @@
+{
+  "date": "1992-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My problem is that other people keep trying to drag me down, Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My theory is that people denigrate me because it makes them feel superior in comparison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a stupid theory to me."
+      ]
+    }
+  ]
+}

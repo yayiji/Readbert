@@ -1,0 +1,30 @@
+{
+  "date": "2019-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe we should create a \"center of excellence.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What exactly does that mean?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it means whatever we want it to mean."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then what good is it?",
+        "Let's not get lost in the weeds."
+      ]
+    }
+  ]
+}

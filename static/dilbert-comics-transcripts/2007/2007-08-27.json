@@ -1,0 +1,24 @@
+{
+  "date": "2007-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I have purchased your company's goodwill, I plan to make some changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I redesigned your headquarters building."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's this part that looks like a horse's rump?",
+        "That's the entrance to the executive suite."
+      ]
+    }
+  ]
+}

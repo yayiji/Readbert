@@ -1,0 +1,25 @@
+{
+  "date": "2015-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Some people say uselessness is a character flaw."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see it as the natural result of mindful resistance to the tyranny of productivity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where do you think food comes from?",
+        "From my critics.",
+        "It's a great system."
+      ]
+    }
+  ]
+}

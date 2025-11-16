@@ -1,0 +1,24 @@
+{
+  "date": "2006-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, Asok, what have you heard about Ted's project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He seems to be in over his head and he's blaming you for cutting the wrong budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope this doesn't come back to bite me.",
+        "Not now, Carol. I'm working my new snitch."
+      ]
+    }
+  ]
+}

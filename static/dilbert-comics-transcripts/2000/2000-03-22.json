@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A future me built a time machine and came to help on my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello, you miserable pile of solid sewerage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You always got bad assignments after today."
+      ]
+    }
+  ]
+}

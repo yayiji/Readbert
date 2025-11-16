@@ -1,0 +1,25 @@
+{
+  "date": "1999-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Big stubborn dumb guy",
+        "We should remove the contract employees from our e-mail bulletin list."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... they need that information to do their jobs, and there's no incremental cost."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is when you agree with me and we move on with our lives.",
+        "I will fight you to the end of the earth!"
+      ]
+    }
+  ]
+}

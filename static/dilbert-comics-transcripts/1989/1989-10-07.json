@@ -1,0 +1,26 @@
+{
+  "date": "1989-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got transferred to the Glickman Nuclear Power Project.",
+        "Aren't you worried about radiation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My boss says the last safety inspection was quite favorable.",
+        "What were his exact words?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"...The inspectors gave a glowing report.\"",
+        "Maybe you'll mutate into something smarter."
+      ]
+    }
+  ]
+}

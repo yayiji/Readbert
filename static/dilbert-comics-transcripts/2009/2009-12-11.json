@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Give me a call sometime.",
+        "Maybe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll need to do a complete forensic analysis of your business card."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your home phone is a landline. That must come in handy when someone calls from 1993."
+      ]
+    }
+  ]
+}

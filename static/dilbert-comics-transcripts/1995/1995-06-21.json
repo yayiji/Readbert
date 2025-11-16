@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The finance department has analyzed your computing needs and decided to give you a 286 PC."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That should be sufficient for the 3D-rendering you need to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Besides, how many times are you going to do 3D-rendering in your career?",
+        "Once, if I hurry."
+      ]
+    }
+  ]
+}

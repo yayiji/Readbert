@@ -1,0 +1,23 @@
+{
+  "date": "1990-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My client has been accused of the most heinous crimes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But does this look like a person who could kill??"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh! Ooh! I know this one!!"
+      ]
+    }
+  ]
+}

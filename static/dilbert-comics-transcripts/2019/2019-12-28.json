@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fill out the employee engagement survey and make sure you lie like crazy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want any accurate information to bubble up to senior management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never felt less important.",
+        "Good. That's why I can under-pay you."
+      ]
+    }
+  ]
+}

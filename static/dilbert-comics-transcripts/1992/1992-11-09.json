@@ -1,0 +1,25 @@
+{
+  "date": "1992-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What happened to you?",
+        "I asked Floyd a question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Floyd hates his job, so he takes it out on co-workers. He almost chewed my clothes off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd you stop him?",
+        "He went into synthetic shock; it's not healthy to eat too much of this stuff."
+      ]
+    }
+  ]
+}

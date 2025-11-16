@@ -1,0 +1,24 @@
+{
+  "date": "2007-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert does public relations.",
+        "Our products are made by asthmatic dwarves. You should do a story on that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not enough? Okay, what if the dwarves are also polygamous serial killers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you talk to the reporter, try to slouch, wheeze, and act henpecked to the point of homicide."
+      ]
+    }
+  ]
+}

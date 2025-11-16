@@ -1,0 +1,23 @@
+{
+  "date": "1991-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate shopping."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's never a salesperson when you want to buy something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But when you're just looking..."
+      ]
+    }
+  ]
+}

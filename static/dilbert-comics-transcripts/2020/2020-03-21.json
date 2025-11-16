@@ -1,0 +1,24 @@
+{
+  "date": "2020-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired you to predict the future of our industry, but everything you say makes me sad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't blame me. I only predict the future. I don't make the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless you buy my special platinum-level service.",
+        "Nice upsell."
+      ]
+    }
+  ]
+}

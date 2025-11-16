@@ -1,0 +1,24 @@
+{
+  "date": "2011-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new vendor is creepy. He's trying to form a relationship with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I went to your house and did your laundry. You're welcome."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How creepy could it be?",
+        "I made us sandwiches. You're out of mayo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is this Dogbert's international bank for bailing out countries that are bad at math?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our treasury is empty and we're not sure why. The entire country is becoming sort of feral."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much money do you need?",
+        "No more than $85."
+      ]
+    }
+  ]
+}

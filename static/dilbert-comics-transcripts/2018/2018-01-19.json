@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've had seven hundred complaints about sexual harassment in the past month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on, employees must wear body cams to record every interaction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Weren't all of those complaints against our CEO?",
+        "People mis-interpret his warmth."
+      ]
+    }
+  ]
+}

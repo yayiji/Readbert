@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There seems to be some confusion about what our company culture is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our priorities are honesty, integrity, and return on investment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which priority is the highest?",
+        "Integrity won't buy me a new boat."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina the tech writer",
+        "I decided to base your salary on the number of pages you write."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fine. I'll give you a high volume of low quality work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes the best you can do is move the hairball to another pocket."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2008-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm in charge while our boss is on vacation. When can you format some reports for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll send you a link to a widget that shows the temperature in Satan's fireplace.",
+        "When it hits 32° Fahrenheit, I'll get right on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I was worried that the power would go to my head.",
+        "Not as fast as this stapler will."
+      ]
+    }
+  ]
+}

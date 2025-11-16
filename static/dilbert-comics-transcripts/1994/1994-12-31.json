@@ -1,0 +1,25 @@
+{
+  "date": "1994-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to make your group a \"self-managed team.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of the vital management tasks that I've been doing will now be shared among you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop your work and give me a status report!",
+        "Track your time.",
+        "I think I'll kiss some butts."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2008-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We were saved from the abyss by a last-minute injection of capital from an overseas investor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're some sort of cartel.",
+        "We weren't in a position to ask a lot of questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They want each of you to fly to Colombia and bring back a package.",
+        "...And you can't use your hands."
+      ]
+    }
+  ]
+}

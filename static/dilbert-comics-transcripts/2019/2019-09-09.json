@@ -1,0 +1,29 @@
+{
+  "date": "2019-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you need any help on your project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I try to avoid the scourge of teamwork whenever possible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't there any way I can be of service?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you could offer to help someone I hate."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2006-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My Elbonian factory can manufacture your product for pennies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is there any downside?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Minor translation issues.",
+        "They either said \"plastic\" or \"the spleen of a pig-footed bandicoot.\"",
+        "We don't have any plastic."
+      ]
+    }
+  ]
+}

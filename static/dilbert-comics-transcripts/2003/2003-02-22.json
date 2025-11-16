@@ -1,0 +1,23 @@
+{
+  "date": "2003-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll save money by outsourcing our I.T. function."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then we'll save more money by replacing our outsourcing with full-time employees!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When it's time for us to panic, will there be a warning sound, or was that it?"
+      ]
+    }
+  ]
+}

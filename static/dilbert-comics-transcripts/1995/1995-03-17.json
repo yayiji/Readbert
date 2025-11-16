@@ -1,0 +1,24 @@
+{
+  "date": "1995-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The rumors are destroying our productivity, we can't work with all this uncertainty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to buy proven technology and hire contract employees, you'll be gophers for the contractors until you resign in disgust and humiliation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there any way to get back to uncertainty?",
+        "I'll see what I can do."
+      ]
+    }
+  ]
+}

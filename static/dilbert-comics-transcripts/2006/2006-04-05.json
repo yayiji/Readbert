@@ -1,0 +1,28 @@
+{
+  "date": "2006-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I listened to your concerns about Ted's work, so I tricked him into being left in the middle of the desert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He thinks it's a team-building exercise.",
+        "Hee hee!",
+        "We want-ed you to transfer him, not kill him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "This is awkward.",
+        "And this is Ted.",
+        "Where's Asok?"
+      ]
+    }
+  ]
+}

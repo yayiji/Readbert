@@ -1,0 +1,61 @@
+{
+  "date": "2001-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to join me for a hardening?",
+        "What's that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A hardening is when an employee is given more work than his central nervous system can handle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "His whole body suddenly goes stiff.",
+        "I'm in."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've been ripening asok all month.",
+        "Purrr",
+        "Purrr"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So much work...",
+        "No time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Asok, I have another assignment for you.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I heard a hardening.",
+        "Get the apathy cream."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He'll be okay when the apathy sinks in.",
+        "We forgot the air hole."
+      ]
+    }
+  ]
+}

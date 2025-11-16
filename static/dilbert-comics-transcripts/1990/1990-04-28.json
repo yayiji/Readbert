@@ -1,0 +1,25 @@
+{
+  "date": "1990-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a picture of uncle Tim before he got lost and froze to death camping."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't he have a compass?",
+        "His diary said it got jammed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just great...",
+        "I need south and all I get is north, north, north."
+      ]
+    }
+  ]
+}

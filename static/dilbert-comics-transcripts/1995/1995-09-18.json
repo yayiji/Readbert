@@ -1,0 +1,25 @@
+{
+  "date": "1995-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where are you taking all of that office equipment?",
+        "I'm having a garage sale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our new company slogan is \"Act like you own the company.\" So I've been selling the stuff that I don't use and keeping the money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that my new color monitor?",
+        "Yeah, I never used that thing."
+      ]
+    }
+  ]
+}

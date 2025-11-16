@@ -1,0 +1,25 @@
+{
+  "date": "2012-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm hearing some complaints that you built a robot shark to patrol the so-called territorial waters around your cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a robot dolphin.",
+        "I can see how people might be confused."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need you to smile more.",
+        "Whatever."
+      ]
+    }
+  ]
+}

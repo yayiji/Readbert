@@ -1,0 +1,25 @@
+{
+  "date": "2014-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I become a workaholic, will the company pay for rehab?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What would workaholics rehab look like?",
+        "I hope it involves getting paid while doing no work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's what you do now.",
+        "At rehab I think they do your laundry for you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm worried I might have \"brain fog\" after recovering from Covid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How would we know the difference?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Huh?",
+        "This is my point."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I'm promoting you to engineer.",
+        "I have no engineering background."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't find anyone qualified, and I don't want to lose the head count in the next budget, so just fake it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll ask Dilbert to train you.",
+        "It does look easy."
+      ]
+    }
+  ]
+}

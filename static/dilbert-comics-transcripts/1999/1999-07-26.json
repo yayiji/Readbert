@@ -1,0 +1,23 @@
+{
+  "date": "1999-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You gave me a project that can't get funded because it's not in the strategic plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you won't let me make waves by asking for a change to the strategic plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I'll be in my cubicle creating \"PowerPoint\" slides and praying for a reorganization."
+      ]
+    }
+  ]
+}

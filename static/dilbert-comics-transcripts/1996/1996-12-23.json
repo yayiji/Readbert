@@ -1,0 +1,25 @@
+{
+  "date": "1996-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like a direct flight... aisle seat...",
+        "and an upgrade to first class if possible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The best I can do is to put you in an overhead luggage bin... with one stop in North Korea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it non-smoking?",
+        "That depends on how accurate the anti-aircraft fire is."
+      ]
+    }
+  ]
+}

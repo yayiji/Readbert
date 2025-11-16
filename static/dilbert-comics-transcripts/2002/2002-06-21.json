@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As requested, my project team has added impenetrable complications to our accounting records."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And an outside firm is erasing all memories from senior management.",
+        "How do they do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, you're ready to talk to congress.",
+        "Thank you."
+      ]
+    }
+  ]
+}

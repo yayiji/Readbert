@@ -1,0 +1,31 @@
+{
+  "date": "2022-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, there's an opening for director of A.I., and you are one of the people I'm considering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have no qualifications for that job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's okay.",
+        "The A.I. will tell you what to do."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you only offering me the job to meet your ESG and DEI goals?",
+        "I'm not allowed to say."
+      ]
+    }
+  ]
+}

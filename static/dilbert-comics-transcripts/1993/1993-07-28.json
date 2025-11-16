@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So I thought you might use some of your newly won millions to fund my \"Bioworld\" science experiment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a complete ecology enclosed in an airtight dome. The survival of the volunteers would depend on my foresight and engineering skills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gee, I thought it would be harder to talk you into it.",
+        "I get to pick the volunteers myself."
+      ]
+    }
+  ]
+}

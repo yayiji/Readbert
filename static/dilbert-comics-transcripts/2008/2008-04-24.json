@@ -1,0 +1,23 @@
+{
+  "date": "2008-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has decided to explore strategic alternatives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that another way to say the company is for sale and we'll all be fired by our new corporate overlords?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What answer will spark the least employee vandalism?"
+      ]
+    }
+  ]
+}

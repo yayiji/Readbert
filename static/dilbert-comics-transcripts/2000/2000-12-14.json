@@ -1,0 +1,26 @@
+{
+  "date": "2000-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The succession plan",
+        "If anything happens to me, Wally will be your leader."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a multi-vitamin!",
+        "Quick, take it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're safe for now.",
+        "This turned out to be a mixed blessing."
+      ]
+    }
+  ]
+}

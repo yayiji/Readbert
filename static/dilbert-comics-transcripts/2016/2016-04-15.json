@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not an engineer, so I don't know if you're doing the right things or not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I can't watch you work, so I don't know if you're putting in any effort."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That means you're totally worthless.",
+        "I was going to say intuitive."
+      ]
+    }
+  ]
+}

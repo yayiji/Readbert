@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing a horror novel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's about a horned monster who puts people in boxes and makes them do meaningless work while insulting them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds great.",
+        "The monster is also very dumb."
+      ]
+    }
+  ]
+}

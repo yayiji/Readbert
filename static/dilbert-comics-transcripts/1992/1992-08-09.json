@@ -1,0 +1,55 @@
+{
+  "date": "1992-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why should I hire you as my consultant?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll use my special process of cognitive dissonance to improve employee morale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does it work?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When people are in an absurd situation, their minds rationalize it by inventing a comfortable illusion.",
+        "Okay, go do it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Isn't it strange that you have this dead end job when you're twice as smart as your boss?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The hours are long, the pay is mediocre, nobody respects your contributions, and yet you freely choose to work here."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's absurd! No, wait... there must be a reason... I must work here because I love the work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I love this job.",
+        "Next!"
+      ]
+    }
+  ]
+}

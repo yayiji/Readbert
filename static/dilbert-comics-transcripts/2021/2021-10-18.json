@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Technology makes me feel disconnected from real people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ninety percent of the time, I feel alone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you plan to do about it?",
+        "I'm hoping you can help me get rid of that last ten percent."
+      ]
+    }
+  ]
+}

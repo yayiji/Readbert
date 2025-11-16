@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was so motivated by your pep talk yesterday that I came to work ten minutes early!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, we start at eight, not at nine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's gonna cost you ten minutes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2009-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert: VP of sales",
+        "Humphrey, you're scaring all of our customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try to be less pitchforkable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seriously.",
+        "Can you do that?",
+        "Who wants a hug?!",
+        "///"
+      ]
+    }
+  ]
+}

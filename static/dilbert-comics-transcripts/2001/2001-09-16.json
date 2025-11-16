@@ -1,0 +1,57 @@
+{
+  "date": "2001-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to hear what I'm doing at work?",
+        "Not so much."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're supposed to act interested because you're my mother.",
+        "Well..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not saying you're boring; it's just that everything you talk about is boring."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's the same as saying I'm boring.",
+        "Only when you talk."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But you care about me, right? When I hurt, you hurt?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Actually, the electrical impulses in your brain don't fly across the air gap to my brain."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You could be writhing in agony and I wouldn't feel a thing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ouch.",
+        "Air gap."
+      ]
+    }
+  ]
+}

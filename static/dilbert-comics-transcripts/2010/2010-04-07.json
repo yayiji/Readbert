@@ -1,0 +1,23 @@
+{
+  "date": "2010-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our servers were about to crash, so I wrote a suite of scripts to keep them running."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your accomplishments are suspiciously hard to verify."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, recapping what we know for sure, you're an inadequate verifier, and you can't rule out the possibility that I'm awesome."
+      ]
+    }
+  ]
+}

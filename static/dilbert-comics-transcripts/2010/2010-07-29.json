@@ -1,0 +1,24 @@
+{
+  "date": "2010-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the public relations consultant",
+        "The public won't forgive you until you fake some remorse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These glasses have a hose that leads to a pumping station and a huge reservoir of fake tears."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we have another press conference, we should crack open a window."
+      ]
+    }
+  ]
+}

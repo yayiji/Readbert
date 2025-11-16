@@ -1,0 +1,25 @@
+{
+  "date": "2010-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi ho! I'm a common stockholder.",
+        "I'm here to see how my investment is coming along."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, first on the agenda, we need to blow our budget before year end so we don't get less money next year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many ten-dollar mouse pads can we get for $10,000?",
+        "I hope this is a panic attack."
+      ]
+    }
+  ]
+}

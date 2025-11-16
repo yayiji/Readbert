@@ -1,0 +1,45 @@
+{
+  "date": "1989-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Be honest, Dogbert.",
+        "Do you think I'm a gifted inventor..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Or just a pathetic dweeb who contributes nothing to humanity?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... uh...",
+        "I think..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In my mind, you are the \"tube sock of inventors.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Really? Gosh... thank you... Wait, that's good, right?",
+        "Of course.",
+        "It must be good."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ambiguity succeeds where honesty dares not venture."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2000-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My philosophy is: measure twice..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then cut twice, then uh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give the tape measure a bad performance review?",
+        "Hee hee!",
+        "Ooh."
+      ]
+    }
+  ]
+}

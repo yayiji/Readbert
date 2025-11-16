@@ -1,0 +1,26 @@
+{
+  "date": "2014-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When you talk to customers, stop mentioning our software bugs.",
+        "Should I lie?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, no. I just need you to present the information that is good for us and leave out the rest.",
+        "Lie by omission?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's better if we don't label it.",
+        "Should I use my real name?"
+      ]
+    }
+  ]
+}

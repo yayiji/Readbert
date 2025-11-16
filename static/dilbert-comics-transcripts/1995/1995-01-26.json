@@ -1,0 +1,24 @@
+{
+  "date": "1995-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe we could form a vision statement of our concepts for requirements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or maybe we can bound our straw-man by the mission-critical functions of our quality vector!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're shameless.",
+        "There's a fine line between participation and mockery."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you help me on this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I'm more of a generalist than a subject matter expert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What kind of work do generalists do?",
+        "You just saw it."
+      ]
+    }
+  ]
+}

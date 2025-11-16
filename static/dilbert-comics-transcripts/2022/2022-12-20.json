@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert crypto exchange would like to sponsor your stadium."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do I know you're a legitimate company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's a binder of the politicians I bought.",
+        "Okay, that looks legit."
+      ]
+    }
+  ]
+}

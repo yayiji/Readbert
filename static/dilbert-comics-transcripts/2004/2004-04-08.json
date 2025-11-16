@@ -1,0 +1,29 @@
+{
+  "date": "2004-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I borrow your chair for a meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, but leave your wallet, keys, company I.D. and one shoe with me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm your chief financial officer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I also need your PDA and one sock."
+      ]
+    }
+  ]
+}

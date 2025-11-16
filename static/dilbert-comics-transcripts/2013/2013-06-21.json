@@ -1,0 +1,25 @@
+{
+  "date": "2013-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't finish your assignment by the deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It won't matter as long as one other employee is also late, because the project can't move forward until everyone does their tasks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait for it...",
+        "Wait...",
+        "You know how I was supposed to finish that thing?"
+      ]
+    }
+  ]
+}

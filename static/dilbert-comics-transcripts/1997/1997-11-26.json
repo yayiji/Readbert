@@ -1,0 +1,25 @@
+{
+  "date": "1997-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Installing an ISDN line.",
+        "These digital phone lines require a very different installation process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll have to show me your spids now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What happened after the slap fight?",
+        "Then it got awkward."
+      ]
+    }
+  ]
+}

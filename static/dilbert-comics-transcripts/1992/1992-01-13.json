@@ -1,0 +1,25 @@
+{
+  "date": "1992-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to go into the private jail business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I figure it's a good way to meet celebrities.",
+        "Where's it going to be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You call this dump a prison?",
+        "I probably should have mentioned this sooner."
+      ]
+    }
+  ]
+}

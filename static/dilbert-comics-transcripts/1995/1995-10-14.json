@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert the HR director",
+        "My job is too stressful. Can I see a company counselor?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I re-engineered our counseling process. Now we put you in a big hole and cover you with sand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If this is my only benefit, I'd better get a lot of sand!",
+        "Just keep your mouth open."
+      ]
+    }
+  ]
+}

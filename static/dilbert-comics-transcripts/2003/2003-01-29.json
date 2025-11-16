@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I call my invention the \"Visibuddy.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a mindless replica that can attend meetings and increase my visibility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I working hard or hardly working? Do you golf?",
+        "Nice guy."
+      ]
+    }
+  ]
+}

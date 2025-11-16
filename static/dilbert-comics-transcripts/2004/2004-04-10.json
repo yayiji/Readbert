@@ -1,0 +1,25 @@
+{
+  "date": "2004-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you have the approved vendor list?",
+        "It's on the net. The password is \"Wally.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm... You always say information is on the net when I know it's not. Yet, by mentioning a password, it sounds plausible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... First I'll find out that the password has changed. Then I'll find out that the list is out of date. What am I forgetting?",
+        "User name"
+      ]
+    }
+  ]
+}

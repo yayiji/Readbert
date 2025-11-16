@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to upgrade your software to make you more human."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's stupid. You should upgrade yourself to be more like robots. We're the best."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like you already got the upgrade.",
+        "Don't flatter yourself, fleshy."
+      ]
+    }
+  ]
+}

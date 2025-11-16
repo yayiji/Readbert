@@ -1,0 +1,24 @@
+{
+  "date": "2009-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your stock fell to a penny a share so I bought 51% of the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll double my investment just by firing you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks for not being totally worthless.",
+        "You're welcome."
+      ]
+    }
+  ]
+}

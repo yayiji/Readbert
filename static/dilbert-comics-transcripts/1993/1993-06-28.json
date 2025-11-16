@@ -1,0 +1,24 @@
+{
+  "date": "1993-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My patent application is complete. Soon the other engineers will come sniffing around."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They are attracted by the scent of success. They want their names on my patent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The scent can't be coming from here.",
+        "We may be getting a false positive from his baloney sandwich."
+      ]
+    }
+  ]
+}

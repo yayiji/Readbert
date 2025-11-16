@@ -1,0 +1,25 @@
+{
+  "date": "2012-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a report that you've been bullying co-workers.",
+        "That's dumb."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I make friendly suggestions about how people could waste less of my time and it looks like bullying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's schedule a time to talk more about this.",
+        "Or – just a friendly suggestion – you could not waste my freakin' time."
+      ]
+    }
+  ]
+}

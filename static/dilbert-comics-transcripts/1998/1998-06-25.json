@@ -1,0 +1,28 @@
+{
+  "date": "1998-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the C.E.O.",
+        "I make a motion that the board of directors double my pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All in favor,",
+        "bleat like sheep."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ba-a-a",
+        "Ba-a-a",
+        "Ba-a-a",
+        "I think we're missing a check or a balance somewhere."
+      ]
+    }
+  ]
+}

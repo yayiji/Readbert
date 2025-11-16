@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long would it take you to create artificial intelligence that is as smart as humans?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It shouldn't take me long to dumb-down a computer to human levels."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "It might take five minutes, tops."
+      ]
+    }
+  ]
+}

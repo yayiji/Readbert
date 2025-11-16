@@ -1,0 +1,24 @@
+{
+  "date": "2011-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to bribe an Elbonian minister of commerce and leave no evidence that connects the crime to our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only way to do that is to bribe him and kill him at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I did not think this through.",
+        "And obviously I'll need to do you first."
+      ]
+    }
+  ]
+}

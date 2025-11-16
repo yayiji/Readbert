@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I added all of the product features that each of you demanded."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now our product is a worthless hodgepodge of complexity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I appreciate your input. I couldn't have failed without you.",
+        "Team-work!"
+      ]
+    }
+  ]
+}

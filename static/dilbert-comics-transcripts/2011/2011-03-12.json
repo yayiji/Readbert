@@ -1,0 +1,23 @@
+{
+  "date": "2011-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't help you because I'm busy working on a social network strategy for our global supply chain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like something that no one wants and no one needs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's probably why it's taking so long."
+      ]
+    }
+  ]
+}

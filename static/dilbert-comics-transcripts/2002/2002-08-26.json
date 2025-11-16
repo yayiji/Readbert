@@ -1,0 +1,25 @@
+{
+  "date": "2002-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's this?",
+        "It's our old five-year plan!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wonder how we did compared to plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have we relegated Microsoft to the dust heap of history?",
+        "Shhh! They might hear!"
+      ]
+    }
+  ]
+}

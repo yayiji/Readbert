@@ -1,0 +1,24 @@
+{
+  "date": "1995-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having an ISO 9000 audit this week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take a look at your documented job descriptions and make sure that it's what you're doing if the auditor asks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "According to this I'm some sort of engineer.",
+        "As if we'd have time for that..."
+      ]
+    }
+  ]
+}

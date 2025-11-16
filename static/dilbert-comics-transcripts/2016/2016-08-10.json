@@ -1,0 +1,26 @@
+{
+  "date": "2016-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you get me that data by Friday?",
+        "They say \"God helps those who help themselves.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... you won't help?",
+        "I'm waiting for you to go first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then you'll help?",
+        "No, the order is you, then God, then me."
+      ]
+    }
+  ]
+}

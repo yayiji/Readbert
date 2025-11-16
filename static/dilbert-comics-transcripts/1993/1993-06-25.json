@@ -1,0 +1,23 @@
+{
+  "date": "1993-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Alice the compulsive grabber."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When I see things that are not right I must grab them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In an hour or so I may have to ask you to stop that."
+      ]
+    }
+  ]
+}

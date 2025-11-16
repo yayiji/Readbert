@@ -1,0 +1,27 @@
+{
+  "date": "2000-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today is my last day.",
+        "I'm saying my farewells."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've never talked,",
+        "but I was working my way down the row and here you are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "Let's stay in touch.",
+        "Don't be a stranger."
+      ]
+    }
+  ]
+}

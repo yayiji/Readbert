@@ -1,0 +1,24 @@
+{
+  "date": "1998-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "The company's goal is to double the efficiency of all employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: If we double our efficiency, won't you downsize half of us?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't talk to anyone in marketing; they aren't so good at math."
+      ]
+    }
+  ]
+}

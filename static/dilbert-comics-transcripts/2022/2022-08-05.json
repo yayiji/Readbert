@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a portal to the metaverse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It connects our reality to the digital realm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you positive that's a portal?",
+        "It only works if you go in head-first."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are these user specifications complete?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I plan to add requirements as you build the app until you have no hope of success and you fantasize about strangling me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know what isn't as refreshing as you'd hope?",
+        "Honesty?"
+      ]
+    }
+  ]
+}

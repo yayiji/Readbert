@@ -1,0 +1,23 @@
+{
+  "date": "1993-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new style of management is exhausting me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I heard some people talking about \"MBWA\" or \"management by walking around.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I walked all the way to the park and back. But I can't say that I see much improvement around here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm the highest-paid engineer in the department now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does it have anything to do with those scissors, the mallet, and your reputation for violence?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you ask a man that question?",
+        "Gaaa!!! It's like a superpower!"
+      ]
+    }
+  ]
+}

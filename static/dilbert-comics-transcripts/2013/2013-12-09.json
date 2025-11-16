@@ -1,0 +1,29 @@
+{
+  "date": "2013-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, random subordinate that I am seeing in the hallway!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm your CEO, but I'm still like a regular person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My name is Asok."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I only touch people who own boats."
+      ]
+    }
+  ]
+}

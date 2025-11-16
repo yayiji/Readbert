@@ -1,0 +1,26 @@
+{
+  "date": "2012-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Sven, our biggest customer from Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whoa! No handshake.",
+        "That's an insult.",
+        "The first time you meet an Elbonian you kiss his mitten."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seriously?",
+        "Oh, we're just getting started."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "1999-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to my research..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People don't use your products when they are outdoors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Somehow we must keep people indoors."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I recommend an intensive ad campaign..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Featuring this slogan...",
+        "Outdoors is for losers"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The TV spot will show humming-birds attacking a man in his garden."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Question: Wouldn't that destroy the happiness of gullible people?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We'll tell them it doesn't."
+      ]
+    }
+  ]
+}

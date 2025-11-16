@@ -1,0 +1,55 @@
+{
+  "date": "2019-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm opening a beg-and-pay store."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What will you be selling?",
+        "Selling?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are way behind the times."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Stores don't sell things anymore."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Selling would require good customer service and lots of stock on hand."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you want that sort of thing, use the internet."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I just want a place where people can go and beg me to sell them stuff that isn't in stock."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can you help me find this hat in my size?",
+        "Beg!!!"
+      ]
+    }
+  ]
+}

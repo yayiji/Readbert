@@ -1,0 +1,26 @@
+{
+  "date": "1999-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It took me three days to enter all of my appointments into this PDA."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll enter our next meeting.",
+        "Tuesday...",
+        "Two o'clock."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it voice-controlled?",
+        "I sure hope so."
+      ]
+    }
+  ]
+}

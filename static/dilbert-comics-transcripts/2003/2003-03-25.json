@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They believe in feng shui.",
+        "They believe in the pet psychic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This suggests an excellent new career for me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The furniture psychic is here.",
+        "He says my wastebasket is in love with my desk."
+      ]
+    }
+  ]
+}

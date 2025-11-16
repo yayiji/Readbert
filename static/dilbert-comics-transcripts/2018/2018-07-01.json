@@ -1,0 +1,55 @@
+{
+  "date": "2018-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you say we don't have a budget for our project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I never said that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why did you say the project isn't feasible?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I never said anything like that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But you did say you thought it would take ten years to finish?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I've never said anything like that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hahaha! You're in total meltdown mode now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I already forgot what we were talking about.",
+        "How was your talk with Dilbert?",
+        "He's back-pedaling after I totally owned him."
+      ]
+    }
+  ]
+}

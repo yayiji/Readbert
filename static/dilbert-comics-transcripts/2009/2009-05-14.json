@@ -1,0 +1,24 @@
+{
+  "date": "2009-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I sold company secrets, did some insider trading, and took kickbacks from vendors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll give you a taste if you look the other way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zip!",
+        "That's unsettling."
+      ]
+    }
+  ]
+}

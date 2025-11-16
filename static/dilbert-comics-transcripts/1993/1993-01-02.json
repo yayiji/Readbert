@@ -1,0 +1,24 @@
+{
+  "date": "1993-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Then, Ratbert, the weight of the universe collapsed in on itself until all of existence could fit into a thimble!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would there be a thimble in space?",
+        "Uh... there wouldn't..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boy, it didn't take long to spot the gaping logical flaw in that theory."
+      ]
+    }
+  ]
+}

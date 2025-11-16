@@ -1,0 +1,23 @@
+{
+  "date": "2004-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why would my boss tell a vendor our strategy and not tell me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's probably a combination of your lack of importance and your total insignificance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any more questions like that one?"
+      ]
+    }
+  ]
+}

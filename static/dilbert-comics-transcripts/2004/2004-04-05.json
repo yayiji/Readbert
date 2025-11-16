@@ -1,0 +1,24 @@
+{
+  "date": "2004-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you reward your top performers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I keep increasing their workloads until their performances become average."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... why would anyone try to excel?",
+        "I use only the finest motivational posters."
+      ]
+    }
+  ]
+}

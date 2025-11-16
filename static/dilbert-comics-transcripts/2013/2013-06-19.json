@@ -1,0 +1,24 @@
+{
+  "date": "2013-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've given me so many projects that I have two ways to fail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can either miss all of my deadlines or I can reduce the quality of my work to rubbish. Which do you prefer?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The class I took in active non-listening is really paying off.",
+        "I need this by Tuesday."
+      ]
+    }
+  ]
+}

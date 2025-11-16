@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you get the link I sent you for our company directory?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't ask for that. I asked for a list of known problems..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh. Not funny.",
+        "Then how do you explain this?"
+      ]
+    }
+  ]
+}

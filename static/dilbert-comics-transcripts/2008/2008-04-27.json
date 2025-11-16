@@ -1,0 +1,57 @@
+{
+  "date": "2008-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who thought of this idea?",
+        "I came up with it all by myself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My subordinates, who have a healthy fear of losing their jobs, had nothing to do with it.",
+        "Right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're not worth the oxygen we breathe.",
+        "I don't even know why I'm here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I asked because it's an awful idea."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You said I was stealing credit for a good idea, you lying liar!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, wait. I read it wrong. This is actually a great idea."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Thanks. I knew it was a winner when I thought of it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You gave him a good idea?",
+        "Not intentionally. It must have been a typo."
+      ]
+    }
+  ]
+}

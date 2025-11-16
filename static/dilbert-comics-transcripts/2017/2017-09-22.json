@@ -1,0 +1,30 @@
+{
+  "date": "2017-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is there any kind of whistleblower protection at this company?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, management is protected against whistleblowers like you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you going to fire me?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, no, no.",
+        "I'll just make you want to quit."
+      ]
+    }
+  ]
+}

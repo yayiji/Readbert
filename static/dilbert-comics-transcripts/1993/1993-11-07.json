@@ -1,0 +1,55 @@
+{
+  "date": "1993-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It says the president can now receive electronic mail.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dear Mr. President,",
+        "I would like to make a few suggestions on how to run the country."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As you know, the citizens are mostly imbeciles."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You should give an executive order for all people to march into the sea."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then, the few of us who are smart enough to ignore you can divide up their stuff."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This may seem slightly immoral, but it's better than having a bunch of unwanted people clogging up the country."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And we won't have to hear your brother sing anymore.",
+        "Sincerely,",
+        "Ross Perot"
+      ]
+    }
+  ]
+}

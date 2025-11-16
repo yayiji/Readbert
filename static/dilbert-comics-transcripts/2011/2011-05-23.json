@@ -1,0 +1,26 @@
+{
+  "date": "2011-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, I'm not getting the coupons by email that I signed up for.",
+        "Can you dial back the firewall or something?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely. There's nothing I enjoy more than malicious compliance with your requests."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there any downside?",
+        "Unleash the dogs of hell!",
+        "Grrrr"
+      ]
+    }
+  ]
+}

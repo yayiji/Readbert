@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you invite me to the meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could tell by your face that you didn't want to be invited."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I did want to be invited.",
+        "Tell that to your lying face."
+      ]
+    }
+  ]
+}

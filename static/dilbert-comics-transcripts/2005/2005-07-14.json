@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Five-star hotel",
+        "I'd like to order breakfast and schedule a massage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mmm... a nice massage and then breakfast."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I would \"get rubbin,\" but I'm only the breakfast guy."
+      ]
+    }
+  ]
+}

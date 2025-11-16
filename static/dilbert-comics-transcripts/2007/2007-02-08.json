@@ -1,0 +1,24 @@
+{
+  "date": "2007-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what are your goals for the coming year?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My goal is to replace my soul with coffee and become immortal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean something about work.",
+        "Oh, I thought you said my goals."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2011-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is this how you really write, or did birds walk on your keyboard?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only need your opinion on the technical part of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, let's assume that your readers will know what you mean by \"blobbing on the Ethernet.\""
+      ]
+    }
+  ]
+}

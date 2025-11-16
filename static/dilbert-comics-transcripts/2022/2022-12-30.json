@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do I need to be in the office when I can do my work at home?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you are home, I can't get my hit of dopamine from bossing you around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "Go re-configure something."
+      ]
+    }
+  ]
+}

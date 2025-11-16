@@ -1,0 +1,54 @@
+{
+  "date": "2008-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I planned to be productive this week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sent you an e-mail with 25 questions I need answered before I can start on my project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I waited patiently while your non-responsiveness crushed my hopes and dreams."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't have time to answer 25 questions!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well then, it appears we are at a standoff."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, okay! I'll work all weekend answering your stupid questions!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's great, unless you can't find the e-mail I sent."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you really send an e-mail?",
+        "That's not how I roll."
+      ]
+    }
+  ]
+}

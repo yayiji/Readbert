@@ -1,0 +1,55 @@
+{
+  "date": "2022-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why can't you be more like Dave?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dave works from home on nights and weekends and finishes his projects on time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You finish your projects on time too, but you don't work nights and weekends."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's like stealing from the company."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are you going to punish me for doing the same amount of work as Dave but in half the time?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And how do you know Dave works at night and on weekends? Is anyone watching him?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "He says he does.",
+        "He also says he writes flawless code in his dreams."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You should do that too.",
+        "Do you want me to copy his lies, or can I freestyle?"
+      ]
+    }
+  ]
+}

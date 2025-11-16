@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "He might be faking a coma to avoid work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only way to find out is to punch him repeatedly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should get Alice.",
+        "Do you remember if I'm right- or left-handed?"
+      ]
+    }
+  ]
+}

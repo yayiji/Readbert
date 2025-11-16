@@ -1,0 +1,24 @@
+{
+  "date": "1993-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, tell me if you think my illustration for tomorrow's presentation is clear."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ah, yes, you're saying the face of Elvis will appear on a credenza after being struck by lightning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's supposed to be a video teleconference.",
+        "I didn't know you could do that with a credenza."
+      ]
+    }
+  ]
+}

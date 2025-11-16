@@ -1,0 +1,24 @@
+{
+  "date": "1999-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Weed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Got it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suddenly there's more light...",
+        "and I feel more nourished."
+      ]
+    }
+  ]
+}

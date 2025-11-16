@@ -1,0 +1,54 @@
+{
+  "date": "2016-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting a new business selling clothes to ghosts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My garments are made of the finest ectoplasm.",
+        "Ghosts don't have money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They don't need money. I'm using a life insurance business model."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you pay me until you die, I will keep your ghost well-dressed for eternity."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I also offer reincarnation services."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Leave all of your stuff to me when you die and I'll give it back to you when I find the baby that got your soul."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You'll be in trouble if your customers realize you're running a scam."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If dead people start complaining, we've both got bigger problems than my scams."
+      ]
+    }
+  ]
+}

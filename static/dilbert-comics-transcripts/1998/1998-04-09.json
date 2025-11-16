@@ -1,0 +1,23 @@
+{
+  "date": "1998-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not allowed to get a new computer until I get rid of this old one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The janitor won't allow it in the trash; union rules won't let me carry it to storage. So I built this catapult."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Like I always say, every problem has an engineering solution."
+      ]
+    }
+  ]
+}

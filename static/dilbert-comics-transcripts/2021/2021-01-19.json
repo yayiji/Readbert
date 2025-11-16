@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It seems you are booking all of my connecting flights in coronavirus hot spots."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You do realize that if I die, you don't get promoted to my job, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not greedy.",
+        "Your demise would be reward enough."
+      ]
+    }
+  ]
+}

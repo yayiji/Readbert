@@ -1,0 +1,25 @@
+{
+  "date": "1995-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come see the new org chart."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oops, changed my mind!",
+        "Wham!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ouchie.",
+        "I'm sore, but I've never felt so free."
+      ]
+    }
+  ]
+}

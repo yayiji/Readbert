@@ -1,0 +1,24 @@
+{
+  "date": "2002-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I gathered all the padded cost estimates from the liars and scoundrels I'm ashamed to call co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's okay. I usually ignore our cost estimates and make bid proposals that I think will win."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I gather inaccurate data for a living. Luckily no one uses it.",
+        "Your glass is half full."
+      ]
+    }
+  ]
+}

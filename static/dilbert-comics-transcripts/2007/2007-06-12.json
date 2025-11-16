@@ -1,0 +1,24 @@
+{
+  "date": "2007-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ceo visit",
+        "My meetings go faster when I set the tone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Opinions are treason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any opinions, Doofy?"
+      ]
+    }
+  ]
+}

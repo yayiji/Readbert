@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alan, from quality assurance",
+        "Is it true that the only thing you have been doing is assuring people we have quality?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't like to tell people how to do their jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Telling people how to do their jobs is literally your job.",
+        "In that case, stop doing all of this."
+      ]
+    }
+  ]
+}

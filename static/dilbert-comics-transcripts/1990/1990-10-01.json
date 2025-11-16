@@ -1,0 +1,24 @@
+{
+  "date": "1990-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yikes! Dilbert's invention is alive!!",
+        "Flash!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am a holographic recording of the late Dilbert, with a message to Dogbert from beyond the grave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And my recipe for chile con carne is as follows..."
+      ]
+    }
+  ]
+}

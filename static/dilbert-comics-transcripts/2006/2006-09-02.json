@@ -1,0 +1,27 @@
+{
+  "date": "2006-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Executive compensation review board",
+        "How much should we pay our CEO if he just shows up for work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fifty million dollars!!!",
+        "Honk",
+        "Honk"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The clown makes a good argument.",
+        "Aye!"
+      ]
+    }
+  ]
+}

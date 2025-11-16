@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We had zero Covid deaths in our county this week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To put that in context, it means Covid killed fewer people than you did for that period."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't use me for context.",
+        "Can you recommend another murderer?"
+      ]
+    }
+  ]
+}

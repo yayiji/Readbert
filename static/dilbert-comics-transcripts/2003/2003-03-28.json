@@ -1,0 +1,23 @@
+{
+  "date": "2003-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I took the initiative and made a list of people you could downsize."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is just the department phone list with your name covered up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the sort of efficiency that kept me off the list."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to be more like Steve Jobs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want all of you to work day and night or else I will humiliate you in front of your peers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I quit.",
+        "Would it work better if I wore a black shirt?"
+      ]
+    }
+  ]
+}

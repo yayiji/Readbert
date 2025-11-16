@@ -1,0 +1,24 @@
+{
+  "date": "2007-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "I am a scientist from the planet Zorp. I bring you technologies beyond your imagination."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I ask is that you let me work with your engineers to transfer this knowledge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They think \"work\" means sitting in a fabric-covered container."
+      ]
+    }
+  ]
+}

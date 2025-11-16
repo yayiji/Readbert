@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a deck of intersectionality playing cards."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, Wally's card is worth five points because he's short, ugly, creepy, lazy, and bald."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice gets three points because she's a woman and...",
+        "Stop."
+      ]
+    }
+  ]
+}

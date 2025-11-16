@@ -1,0 +1,26 @@
+{
+  "date": "2007-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you wearing noise cancellation headphones?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I said, are you wearing noise cancellation headphones?!",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This won't end well.",
+        "I said..."
+      ]
+    }
+  ]
+}

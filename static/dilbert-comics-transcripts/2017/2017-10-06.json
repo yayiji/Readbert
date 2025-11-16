@@ -1,0 +1,26 @@
+{
+  "date": "2017-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love this dating app.",
+        "I thought you were married."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm just looking.",
+        "What's the worst thing that could happen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, what's my wife doing on here?",
+        "Your wife??? That's my girlfriend!"
+      ]
+    }
+  ]
+}

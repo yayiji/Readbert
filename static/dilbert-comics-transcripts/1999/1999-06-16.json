@@ -1,0 +1,25 @@
+{
+  "date": "1999-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll wear a clever disguise then interview for the engineering job here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If he offers me more money than I make now, I'll take the job.",
+        "Heh-heh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're suspiciously fashionable for an engineer.",
+        "I store tools up there."
+      ]
+    }
+  ]
+}

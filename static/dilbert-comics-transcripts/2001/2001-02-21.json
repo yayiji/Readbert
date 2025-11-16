@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm addicted to positive reinforcement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need some deliverables so I can be praised again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Results"
+      ]
+    }
+  ]
+}

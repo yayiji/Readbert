@@ -1,0 +1,30 @@
+{
+  "date": "2014-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should let me work at home a few days per week because studies show that telecommuters put in more hours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do they study that sort of thing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They survey people who work at home."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if those people are lying weasels?",
+        "I wasn't counting on this level of awareness."
+      ]
+    }
+  ]
+}

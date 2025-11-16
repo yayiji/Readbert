@@ -1,0 +1,27 @@
+{
+  "date": "1990-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dorgy, why are you dressed like a maid?",
+        "Dogbert is teaching me capitalism."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today I am lowly maid.",
+        "But with hard work I will be promoted to job as major industrialist.",
+        "Right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently there is flaw in system.",
+        "Yeah, but we blame it on the Japanese."
+      ]
+    }
+  ]
+}

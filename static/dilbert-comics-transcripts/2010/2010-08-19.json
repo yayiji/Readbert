@@ -1,0 +1,25 @@
+{
+  "date": "2010-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're reincorporating in Dogbertland for tax reasons.",
+        "Where?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a floating patch of garbage in the Pacific Ocean the size of Texas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's the banking system?",
+        "Business is booming, King Ratbert."
+      ]
+    }
+  ]
+}

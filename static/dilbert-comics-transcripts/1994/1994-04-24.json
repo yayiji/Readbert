@@ -1,0 +1,55 @@
+{
+  "date": "1994-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Expand window"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, look who got a voice-controlled computer.",
+        "Insert column"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I were a lesser engineer I might be envious.",
+        "Add row"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't mind using my prehistoric mouse-driven computer."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I'm not bitter about my request for a color printer being denied!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "At least I won't work all day then accidentally..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Delete a file!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Please... not in front of the computer."
+      ]
+    }
+  ]
+}

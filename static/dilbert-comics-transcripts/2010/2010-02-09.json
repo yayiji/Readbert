@@ -1,0 +1,26 @@
+{
+  "date": "2010-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Boss is stuck in the ductwork.",
+        "The turbo blower kicks in after the lubricant cycle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're sure he's already dead, right?",
+        "Help!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Arguably, the real crime here would be building a machine this cool and not using it.",
+        "Can anyone hear me?"
+      ]
+    }
+  ]
+}

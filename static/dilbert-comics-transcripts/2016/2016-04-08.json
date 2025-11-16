@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having a get-together to commemorate Ted, who drove his car into a ravine because you said he should."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He wasn't good at handling criticism."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could have been more constructive.",
+        "By building a bridge over the ravine?"
+      ]
+    }
+  ]
+}

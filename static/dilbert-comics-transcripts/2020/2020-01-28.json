@@ -1,0 +1,30 @@
+{
+  "date": "2020-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was going to give this assignment to Alice, but I know she would complain about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want it either."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you plan to complain about it later?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not to your face.",
+        "Problem solved."
+      ]
+    }
+  ]
+}

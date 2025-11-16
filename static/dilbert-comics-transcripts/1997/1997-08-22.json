@@ -1,0 +1,24 @@
+{
+  "date": "1997-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, I want you to wear this pager at all times. I'll set it to vibrate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeehaa!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one has actually paged you yet.",
+        "It gets better?!!"
+      ]
+    }
+  ]
+}

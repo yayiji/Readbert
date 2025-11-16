@@ -1,0 +1,28 @@
+{
+  "date": "1993-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for a device that will allow me to take over the satellites of all the major broadcasters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It would be illegal to sell something like that.",
+        "But maybe you'd be interested in an electronic fishing lure instead.",
+        "Wink wink"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fish can't resist the \"Hijack 3000\" lure.",
+        "And it comes with its own stupid-looking hat!",
+        "Wink wink",
+        "Clever."
+      ]
+    }
+  ]
+}

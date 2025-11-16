@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm collecting money for a gift to a poor family this Christmas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are you buying for them?",
+        "A CD player."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for making this the most shallow gesture of my life.",
+        "I'll add your name to the card."
+      ]
+    }
+  ]
+}

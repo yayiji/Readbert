@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I sent your question up the chain of command."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I talked to the district manager who talked to his AVP who talked to his VP who talked to his SVP who talked to the CEO."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The answer is that we need to shine the braille toad.",
+        "Do you see any problem with our system?"
+      ]
+    }
+  ]
+}

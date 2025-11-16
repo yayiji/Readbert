@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd feel more loyalty to the company if management would acknowledge my contributions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If my job were as meaningless as yours, I wouldn't want management to notice me at all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You and I have the same job.",
+        "I seem to be handling it better."
+      ]
+    }
+  ]
+}

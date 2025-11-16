@@ -1,0 +1,54 @@
+{
+  "date": "2011-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who wants to see a picture of my new boat?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a very good question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we consider the fact that we work much harder than he does..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And we have valuable engineering skills, whereas he can't operate the GPS in his SUV..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And for some reason we don't get paid enough to buy impressive boats."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And we have no nautical interests whatsoever."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think your best bet is people who don't know you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And you are?",
+        "This only works if we don't get too familiar."
+      ]
+    }
+  ]
+}

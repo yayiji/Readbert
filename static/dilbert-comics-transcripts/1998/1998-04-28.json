@@ -1,0 +1,24 @@
+{
+  "date": "1998-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saved a lot of money by hiring a low-priced consultant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These aren't the best recommendations in the world, but the price was very reasonable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't like this one about rolling around on unwashed hamburger patties.",
+        "Keep an open mind."
+      ]
+    }
+  ]
+}

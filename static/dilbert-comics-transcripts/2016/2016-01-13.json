@@ -1,0 +1,26 @@
+{
+  "date": "2016-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The client says you billed them for all the time you spent thinking about their project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm an engineer.",
+        "Thinking is what I do.",
+        "Should I think less?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could meet with someone while you think.",
+        "How's that working right now?"
+      ]
+    }
+  ]
+}

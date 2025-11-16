@@ -1,0 +1,25 @@
+{
+  "date": "2004-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Mo, do you have the reliability specs for the X4HB?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "20 seconds later",
+        "Uh-oh, he's a slow responder. The stare is creeping me out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! Say something! Please acknowledge my existence!!!",
+        "Reset"
+      ]
+    }
+  ]
+}

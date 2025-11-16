@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: H.R. director",
+        "You can improve an employee's performance by making him feel bad about himself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, although that wouldn't work on me, it works fine on other people?",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll read your faults one at a time. Tell me when your performance improves."
+      ]
+    }
+  ]
+}

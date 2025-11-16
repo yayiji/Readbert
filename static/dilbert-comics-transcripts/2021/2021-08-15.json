@@ -1,0 +1,56 @@
+{
+  "date": "2021-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you recommend a good microphone for my iPad?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, I'll send you a link."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This one only works on laptops."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How about this one?",
+        "No, that also only works on laptops."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, I got it. Here's one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Nope. That is another microphone that doesn't work on an iPad."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Listen to me closely. My main requirement is that it work on an iPad."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Oh, okay, I got it. Here's one.",
+        "Does it work on an iPad?",
+        "I didn't say it was perfect."
+      ]
+    }
+  ]
+}

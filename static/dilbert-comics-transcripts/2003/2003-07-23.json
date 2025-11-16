@@ -1,0 +1,25 @@
+{
+  "date": "2003-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to find a way to bend this steel rod into a \"u.\"",
+        "I'll take care of it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won the prestigious \"steel spike award\" for engineering excellence.",
+        "What??!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess it's validation for being the highest paid in the department...and for being male."
+      ]
+    }
+  ]
+}

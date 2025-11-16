@@ -1,0 +1,27 @@
+{
+  "date": "1997-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm in charge of the office relocation.",
+        "Where do you want your cubicle?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's this huge structure?",
+        "Wallyville.",
+        "It's two floors of luxury housing, shopping, and gambling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think you might be abusing your power?",
+        "What would be the other reasons to have power?"
+      ]
+    }
+  ]
+}

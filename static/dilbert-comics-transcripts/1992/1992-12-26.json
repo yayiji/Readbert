@@ -1,0 +1,24 @@
+{
+  "date": "1992-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dry cleaning while you wait"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll have it done in three days."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The sign says \"While you wait.\"",
+        "Do you think you'll stop waiting after two days?"
+      ]
+    }
+  ]
+}

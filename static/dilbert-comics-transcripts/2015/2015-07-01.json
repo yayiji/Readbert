@@ -1,0 +1,24 @@
+{
+  "date": "2015-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert goes off the grid",
+        "The boredom is giving me the shakes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Animals are never bored. I'll just do what animals do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, possum doesn't work."
+      ]
+    }
+  ]
+}

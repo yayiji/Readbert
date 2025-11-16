@@ -1,0 +1,55 @@
+{
+  "date": "2000-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Again? That thing rang last week, too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello. May I interest you in long-distance phone service?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long is it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Umm... it's very long. Extremely long."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I need to know exactly how long it is!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If it's too short I'll have to shout the last mile!",
+        "I hate that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay... it's fifty miles long."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No, thanks.",
+        "I don't know anyone fifty miles away."
+      ]
+    }
+  ]
+}

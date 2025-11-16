@@ -1,0 +1,25 @@
+{
+  "date": "2018-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your proposed solution has too many problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Compared to what?",
+        "Compared to not having any problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not good at comparing things.",
+        "Pffft. I'm way better at it than a giraffe."
+      ]
+    }
+  ]
+}

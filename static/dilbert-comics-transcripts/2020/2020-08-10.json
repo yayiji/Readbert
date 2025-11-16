@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented an app that makes your phone ring to get you out of meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How does that fit our strategic direction?",
+        "Bing bing bing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to take this call."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1989-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, Mr. Death, now that you know I'm the wrong guy, why don't you just leave me alone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate to waste a trip. Suppose your number comes up tomorrow-I gotta come all the way back. Just let me hang around today. You won't even notice me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is gonna be a very long day.",
+        "So, how do you feel?"
+      ]
+    }
+  ]
+}

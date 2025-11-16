@@ -1,0 +1,55 @@
+{
+  "date": "2012-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our budget for contract employees was eliminated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll have to pay you out of the training budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So instead of doing the job yourself..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You'll have to train Dilbert to do the job we're paying you to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why don't you just move some of the training budget to the contractor budget?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If we reduce the training budget this year, we'll get less next year."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... you prefer paying two people to do the job of one?",
+        "Right."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do you stay in business?",
+        "Our customers are even dumber than us."
+      ]
+    }
+  ]
+}

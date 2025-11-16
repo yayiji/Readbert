@@ -1,0 +1,25 @@
+{
+  "date": "2021-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert! Can you keep down the noise while I'm on Zoom?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm on a Zoom call too.",
+        "Your call isn't more important than mine!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry, I can't stop the background noise.",
+        "Can you keep it down in there? I'm on a Zoom call!!!"
+      ]
+    }
+  ]
+}

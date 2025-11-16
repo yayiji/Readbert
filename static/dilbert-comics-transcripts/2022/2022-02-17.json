@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your new team member, Larry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to pay him 40% more than I pay you losers because the demand for engineers is so high now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's just me and Larry now. The rest of them quit to get better jobs.",
+        "Fire Larry for being a troublemaker."
+      ]
+    }
+  ]
+}

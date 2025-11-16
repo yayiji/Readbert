@@ -1,0 +1,29 @@
+{
+  "date": "2019-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to your personal success is hard work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Was it hard for you to learn that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it was easy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you mind if I get my advice from someone who worked at it harder?"
+      ]
+    }
+  ]
+}

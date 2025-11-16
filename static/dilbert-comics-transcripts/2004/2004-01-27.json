@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I discovered a deadly safety flaw in our product. Who should I inform?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one. The stock would plunge and we'd have massive layoffs. Your career would be ruined."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But my negligence could cause the deaths of a dozen customers.",
+        "The first dozen is always the hardest."
+      ]
+    }
+  ]
+}

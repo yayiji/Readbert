@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I called this meeting because our department is not having enough impact."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Define \"enough impact.\"",
+        "You'll know it when you see it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see plenty of impact now.",
+        "You're ruining the meeting!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1991-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO is announcing a ten-percent staff reduction to cut expenses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Didn't our CEO get paid twenty million dollars this year?",
+        "Yes..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But risky jobs deserve higher pay.",
+        "Question: Didn't you say we were getting cut?"
+      ]
+    }
+  ]
+}

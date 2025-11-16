@@ -1,0 +1,55 @@
+{
+  "date": "1998-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's see how many of your objectives you met.",
+        "What objectives?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't you know you had objectives?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see how I would have had time to work on objectives."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My schedule was packed."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Doing what?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Every morning you leave things on my chair with notes that say \"Urgent: handle this.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No I don't."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wally, can I see a sample of your handwriting?",
+        "Uh-oh."
+      ]
+    }
+  ]
+}

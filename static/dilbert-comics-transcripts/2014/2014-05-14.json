@@ -1,0 +1,30 @@
+{
+  "date": "2014-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The distractions of the digital age have rewired my brain and ruined my ability to focus."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I find it painful to dwell on any topic for longer than five seconds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's talk about this."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No-o-o!",
+        "Change the topic!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2022-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Click here to get a verification code by email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nice try. I know you won't send me a code. You never send a code."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This time I really will, I promise."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, you won't. I will sit here checking my inbox over and over, and it will never come."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Check your spam and junk folders."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I always check my spam and junk folders!!! It is never there!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This time it will be. I promise.",
+        "Okay, okay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Two hours later",
+        "Click click",
+        "Click click",
+        "Click click",
+        "Click click",
+        "Click click",
+        "Click click",
+        "Click click"
+      ]
+    }
+  ]
+}

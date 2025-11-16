@@ -1,0 +1,26 @@
+{
+  "date": "2013-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the government.",
+        "We've been monitoring your internet activity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Half of my department went blind",
+        "and the other half needs counseling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like not my problem.",
+        "We'd like to weaponize you."
+      ]
+    }
+  ]
+}

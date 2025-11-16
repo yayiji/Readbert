@@ -1,0 +1,54 @@
+{
+  "date": "1991-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... that guy is coming to talk to us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate this long walk across the room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're the ugly one, Edna. You'll have to protect me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They spotted me. They're planning a defense."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll push you between us. You start babbling about your cat or something."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't do it. I'll veer off at the last minute..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now, Edna!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's hard to be the pretty one.",
+        "I have a cat named Boots."
+      ]
+    }
+  ]
+}

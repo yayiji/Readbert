@@ -1,0 +1,27 @@
+{
+  "date": "2022-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late.",
+        "I was working harder than a one-eyed beaver in a knitting contest."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Darn it!",
+        "I want to be mad at you for your tardiness but your folksy charm makes it impossible!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You look like a turnip during duck season.",
+        "It's working!",
+        "Stop it!"
+      ]
+    }
+  ]
+}

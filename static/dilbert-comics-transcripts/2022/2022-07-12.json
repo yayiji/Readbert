@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employees who attend your meetings on Zoom are complaining they feel ignored."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's part of my plan to make them commute to the office without making it look like my fault."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wish I didn't know that.",
+        "It's called \"enlightened management.\""
+      ]
+    }
+  ]
+}

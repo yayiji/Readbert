@@ -1,0 +1,25 @@
+{
+  "date": "1989-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm really nervous about this presentation for the big boss.",
+        "Got any tips for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember to bring a bunch of coins to jangle self-consciously in your pockets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Avoid eye contact and don't pause to explain your acronyms.",
+        "I wish I could tell when you're kidding."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to help Susan put the department budget together.",
+        "Budget?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, please! I'll be branded for life. The other engineers will spit on me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Darn, his guard is up.",
+        "I'll have to wear a raincoat to work!"
+      ]
+    }
+  ]
+}

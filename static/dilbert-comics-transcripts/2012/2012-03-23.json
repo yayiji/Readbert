@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My old nemesis retired. Would you like to be my new nemesis?",
+        "Why me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're notoriously ineffective. That's the best kind of nemesis to have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That should prime the pump.",
+        "I will thwart you a new one!"
+      ]
+    }
+  ]
+}

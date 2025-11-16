@@ -1,0 +1,31 @@
+{
+  "date": "2012-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I get your input by Friday?",
+        "Absolutely, unless something comes up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How often does something come up?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "More than you'd think."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What exactly are we talking about?",
+        "I'd love to chat, but something just came up."
+      ]
+    }
+  ]
+}

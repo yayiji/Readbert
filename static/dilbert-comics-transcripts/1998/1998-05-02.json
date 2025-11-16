@@ -1,0 +1,24 @@
+{
+  "date": "1998-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having trouble finding qualified external applicants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I have are a headless man, a mime, and a frozen Cro-Magnon guy we found in a glacier."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does the mime bring his own invisible cubicle? I love those!",
+        "Only if we pay his relocation costs."
+      ]
+    }
+  ]
+}

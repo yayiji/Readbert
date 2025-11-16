@@ -1,0 +1,57 @@
+{
+  "date": "1997-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you.",
+        "Please come again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "After I'm dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we each put in twelve dollars, that will give her a healthy fourteen percent tip."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The service was excellent. I'll put in a little extra.",
+        "Me too.",
+        "Me too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That gives us... um...",
+        "Only thirty-four dollars."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "One of us is a cheap, lying, unscrupulous weasel."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Or maybe the service was bad.",
+        "She didn't smile enough.",
+        "Same as last week."
+      ]
+    }
+  ]
+}

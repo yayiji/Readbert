@@ -1,0 +1,45 @@
+{
+  "date": "2001-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an idea!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll automate our online tech support."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our software will analyze incoming e-mail and send responses based on key words!",
+        "That's an excellent plan.",
+        "I know."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But what about the one percent of our customers who actually get a useful response?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe we could wear ski masks and throw rocks at their houses.",
+        "Then we could achieve our goal of 100% customer dissatisfaction!",
+        "Woo hoo!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe I should work someplace where sarcasm and supportiveness are different things."
+      ]
+    }
+  ]
+}

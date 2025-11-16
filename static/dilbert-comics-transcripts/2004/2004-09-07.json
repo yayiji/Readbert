@@ -1,0 +1,24 @@
+{
+  "date": "2004-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to buy all of our server upgrades through Bribertek, Inc."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Are we buying overpriced hardware because they offered you a job?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because if we're paying extra to get rid of you, it's money well spent.",
+        "It's a coincidence!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The job market is so tight we can't find any programmers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I want you to teach some of our employees how to code."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean the smart ones, I hope.",
+        "No, we need the smart ones in their current jobs."
+      ]
+    }
+  ]
+}

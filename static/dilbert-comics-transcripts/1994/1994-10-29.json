@@ -1,0 +1,27 @@
+{
+  "date": "1994-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you started to hate the new finance guy yet?",
+        "Yeah. I started yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He seems so rigid.",
+        "Rigid and inflexible.",
+        "Not a team player."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have an extra napkin?",
+        "I won't really know until I'm done."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1991-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I got tiny \"PCS\" phones for both of us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the newest technology! I'll be able to call you at any time, no matter where we are!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why must all progress start out as something annoying?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great news! Our strongest competitor offered to sell us their product line."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously they think their products are not viable. We'd have to be amazingly stupid..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you'll be in charge of integrating their product line with ours.",
+        "... To work here."
+      ]
+    }
+  ]
+}

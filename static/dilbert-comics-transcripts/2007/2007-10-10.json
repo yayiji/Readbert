@@ -1,0 +1,24 @@
+{
+  "date": "2007-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new guy is a huge weasel.",
+        "Don't believe anything he says."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You say that about all the new hires so they won't seem credible when they complain about you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll stop doing it when it stops working."
+      ]
+    }
+  ]
+}

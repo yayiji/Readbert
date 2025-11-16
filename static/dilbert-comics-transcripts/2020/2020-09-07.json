@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That stupid coronavirus is no match for a healthy, young leader such as yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Freedom demands that you go to crowded indoor spaces without wearing your mask."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you trying to kill me?",
+        "I'd say there's reasonable doubt."
+      ]
+    }
+  ]
+}

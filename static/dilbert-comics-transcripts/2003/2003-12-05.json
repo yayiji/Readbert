@@ -1,0 +1,25 @@
+{
+  "date": "2003-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've got a bad case of carpal punchel syndrome."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't use your \"fist of death\" for a few weeks.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The \"foot of death\" is not the same.",
+        "It is only slightly menacing."
+      ]
+    }
+  ]
+}

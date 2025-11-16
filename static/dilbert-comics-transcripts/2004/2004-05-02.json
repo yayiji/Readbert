@@ -1,0 +1,64 @@
+{
+  "date": "2004-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert explains stock investing",
+        "Pay attention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, employees provide valuable data.",
+        "Is your project on schedule?",
+        "I didn't know I had a project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A manager refines the data.",
+        "We're on schedule."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The CEO gives \"visibility\" to analysts.",
+        "No problems whatsoever."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Accountants publish bad news in footnotes using a combination of nanotechnology and gibberish.",
+        "Still too obvious."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Discount brokerage firms tell you that you're smart.",
+        "Use your own ideas!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Investors do their own research.",
+        "Buy it because I did.",
+        "Thank you, unbiased stranger!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "A secret society of Donald Trump look-alikes end up with all your money.",
+        "You're fired.",
+        "You are!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why can't we innovate as quickly as our competition?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it's because our management is like a family of squirrels that lives inside an old tire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you be more specific?",
+        "It's a Goodyear tire with five grey squirrels."
+      ]
+    }
+  ]
+}

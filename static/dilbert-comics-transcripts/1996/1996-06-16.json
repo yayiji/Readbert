@@ -1,0 +1,56 @@
+{
+  "date": "1996-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I've decided to downsize you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's nothing personal, just an economic necessity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I calculated how much your salary was dragging down the value of my stock options."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Without you, I can afford to go to the movies one additional time per year."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And let's face it: recreation is important when one has a stressful job."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hey, why don't you downsize Wally instead. You'll save enough in office supplies to buy popcorn too.",
+        "Sheesh!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Mmm..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How'd it go?",
+        "You know that team-building exercise we did last week?",
+        "It didn't take."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "1997-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What if...",
+        "Albert Einstein had been in marketing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a great idea for increasing sales."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nope. This will never work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... Is it possible that you don't fully understand the idea?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's quite an ego you have there, Allan.",
+        "Albert."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Experienced managers know how to identify bad ideas..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bad ideas come from other people.",
+        "Now go work smarter, not harder."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I worry that a guy like that will go off and build a huge bomb."
+      ]
+    }
+  ]
+}

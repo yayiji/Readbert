@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone accused me of having hostile body language."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not allowed to cross my arms or stare or move my eyebrows or frown."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have a nice day.",
+        "Too late."
+      ]
+    }
+  ]
+}

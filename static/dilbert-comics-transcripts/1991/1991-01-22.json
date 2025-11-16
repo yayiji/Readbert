@@ -1,0 +1,27 @@
+{
+  "date": "1991-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the \"Scientist anti-defamation league\" weekly meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tonight's topic is the stereotype that we scientists have no social lives...",
+        "But first..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is Saturday night okay for our next meeting?",
+        "I'm free",
+        "No problem",
+        "Wide open"
+      ]
+    }
+  ]
+}

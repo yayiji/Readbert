@@ -1,0 +1,56 @@
+{
+  "date": "1989-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, Frank."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My name is Eddy, not Frank."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh... right.",
+        "Sorry, Eddy.",
+        "This is so embarrassing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Forgetting somebody's name is the worst insult in the world."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now my self-esteem has been damaged. My job performance will drop accordingly, and I'll be fired."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The stress is starting to affect my immune system. I'm getting a cold."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm Dogbert.",
+        "Nice to meet you, Frank."
+      ]
+    }
+  ]
+}

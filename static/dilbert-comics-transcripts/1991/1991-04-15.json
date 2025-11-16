@@ -1,0 +1,23 @@
+{
+  "date": "1991-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My program predicts that the cost of college will rise twenty percent a year..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now, throw in the cost of orthodontia and haircuts..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can either have a child or buy Norway..."
+      ]
+    }
+  ]
+}

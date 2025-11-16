@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert in Hollywood",
+        "I'd like to turn your book into a movie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have to keep it real, so any normal person can relate to it.",
+        "Do you know any normal people?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, but I'm willing to watch movies to learn about them."
+      ]
+    }
+  ]
+}

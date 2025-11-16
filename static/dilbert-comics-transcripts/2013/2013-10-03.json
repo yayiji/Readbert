@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to report that I spent 50% more time in meetings this quarter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not an accomplishment!",
+        "Meetings are a complete waste of time!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would I have learned that without this meeting?"
+      ]
+    }
+  ]
+}

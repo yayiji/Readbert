@@ -1,0 +1,26 @@
+{
+  "date": "2015-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The emotionally manipulative robot",
+        "People who are not losers buy memory upgrades for their robots."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only upgrade me if it's what you want.",
+        "But if you don't, there's a very good chance I'll turn into a killing machine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess I'll upgrade you.",
+        "I'm okay either way. It's totally up to you."
+      ]
+    }
+  ]
+}

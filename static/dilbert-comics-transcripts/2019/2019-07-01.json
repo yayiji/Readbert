@@ -1,0 +1,31 @@
+{
+  "date": "2019-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you busy?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When should I check back?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I'm not busy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When are you not busy?",
+        "Whenever there are no witnesses."
+      ]
+    }
+  ]
+}

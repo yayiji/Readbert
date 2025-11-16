@@ -1,0 +1,46 @@
+{
+  "date": "2010-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Amber, would you like to go to lunch with me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!!! I'm in!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mind if we bring Bob? I need to talk to him about his project.",
+        "Well, that would be...",
+        "Hey, Bob. Meet us in the lobby."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Look at us! We're like the two musketeers, plus Dilbert."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There were three musketeers.",
+        "I'm pretty sure there were two."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wait... I just remembered I have a conference call at noon. You two go ahead without me.",
+        "We're like the one musketeer.",
+        "Just eat."
+      ]
+    }
+  ]
+}

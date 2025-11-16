@@ -1,0 +1,24 @@
+{
+  "date": "1997-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting a mutual fund for investors who aren't bright enough to know their alternatives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It must be a huge market. Otherwise most people would invest in index funds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's an index fund?",
+        "Ouch, ouch! You're making me wag too hard!"
+      ]
+    }
+  ]
+}

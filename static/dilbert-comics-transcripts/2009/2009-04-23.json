@@ -1,0 +1,28 @@
+{
+  "date": "2009-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made some improvements to your drawings and sent them for fabrication.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But don't worry - I left your name on them so you'll get all of the credit.",
+        "Waaaa!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't handle good news very well.",
+        "Shoot me!",
+        "Shoot me!",
+        "Shoot me!"
+      ]
+    }
+  ]
+}

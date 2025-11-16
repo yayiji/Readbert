@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Breaking news:",
+        "A new study says all studies are misleading."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Floop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "His brain rotated in his skull. When the brain stem unwinds, he'll be fine."
+      ]
+    }
+  ]
+}

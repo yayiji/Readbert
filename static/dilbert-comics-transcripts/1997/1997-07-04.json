@@ -1,0 +1,28 @@
+{
+  "date": "1997-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Beep",
+        "Beep",
+        "Boop",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am Dogbert, your lord and master!",
+        "Submit to my will, you worthless cretin!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does telemarketing work for that sort of thing?",
+        "You'll know tomorrow; that was your voice mail."
+      ]
+    }
+  ]
+}

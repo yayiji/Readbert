@@ -1,0 +1,24 @@
+{
+  "date": "2008-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My salary is 400 times more than yours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My goal is to jack that up to 410, maybe 420."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate you for this.",
+        "So you admit you're selfish?"
+      ]
+    }
+  ]
+}

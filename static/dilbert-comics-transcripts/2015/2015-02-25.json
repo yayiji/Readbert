@@ -1,0 +1,29 @@
+{
+  "date": "2015-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought my first stock and it went up five percent in one week!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means I'm a stock-picking genius. I plan to max out all of my credit cards and become a day-trader."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The total market was up six percent."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's just luck. It can't do that forever."
+      ]
+    }
+  ]
+}

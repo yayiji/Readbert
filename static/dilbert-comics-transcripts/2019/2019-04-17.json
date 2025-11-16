@@ -1,0 +1,29 @@
+{
+  "date": "2019-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fell off my ergonomic ball chair and broke my back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess you'll be using a normal chair from now on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not a quitter!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe I'll give quitting a chance."
+      ]
+    }
+  ]
+}

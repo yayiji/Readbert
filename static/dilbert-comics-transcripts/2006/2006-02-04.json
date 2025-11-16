@@ -1,0 +1,31 @@
+{
+  "date": "2006-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The sales call",
+        "I brought my egg-head to talk to your egghead while you and I make out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our web services employ XML, SOAP and WSDL to achieve interoperable HTTP modules.",
+        "Mmm",
+        "Mmm",
+        "Mmm",
+        "W"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you ever think we might be in the wrong jobs?",
+        "I'm not going to kiss you.",
+        "Mmm",
+        "Mmm"
+      ]
+    }
+  ]
+}

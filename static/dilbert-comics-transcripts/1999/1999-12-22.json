@@ -1,0 +1,22 @@
+{
+  "date": "1999-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, don't do anything until we get the market research data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No longer must I put my hand on the mouse when I hear footsteps.",
+        "Yes!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You never admit you're wrong.",
+        "Give me one example of that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, for example, there was the time you said there were no such things as \"cumulative\" clouds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To this day, you have not admitted you were wrong.",
+        "Um..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2016-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was walking past the employee ping-pong table and took one in the eye."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is an unsafe work environment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! A fly went up my nose!",
+        "It looked pregnant.",
+        "Continued ..."
+      ]
+    }
+  ]
+}

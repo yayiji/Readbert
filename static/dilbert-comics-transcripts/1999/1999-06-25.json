@@ -1,0 +1,25 @@
+{
+  "date": "1999-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok! Did you escape your job at quality assurance?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. I had to take a job as a secretary's assistant. I'll work my way back up to intern."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's four o'clock.",
+        "Call my kids and yell at them.",
+        "Cursing or no cursing?"
+      ]
+    }
+  ]
+}

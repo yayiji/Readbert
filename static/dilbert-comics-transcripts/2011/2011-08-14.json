@@ -1,0 +1,54 @@
+{
+  "date": "2011-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I work at home for two days per week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can be twice as productive, and happier at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I probably shouldn't tell you this..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But you're part of an elaborate science experiment to see how much frustration it takes to kill employees."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why else would the company make you commute for two hours a day just to sit in a tiny box?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Don't feel bad; no one told me either."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I had to piece it together from the evidence. Now I do my part to keep the experiment moving along."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Other people work from home.",
+        "Are you referring to the control group?"
+      ]
+    }
+  ]
+}

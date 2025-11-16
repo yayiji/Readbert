@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Roboboss.",
+        "He'll handle all of my trivial tasks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm totally insulted that you think you can manage us with a machine!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Handle that.",
+        "I'll delegate it to my assistant, Plywoodboss."
+      ]
+    }
+  ]
+}

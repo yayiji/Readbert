@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm tired of getting no respect at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to send my résumé to a company that's located in a place I'd never want to live."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder why they don't respect you.",
+        "That's what I want to know!"
+      ]
+    }
+  ]
+}

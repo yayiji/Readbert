@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you finish the analysis for tomorrow?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm waiting until the last minute so you won't have time to ask for unnecessary changes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm a step ahead of him - the analysis itself is unnecessary."
+      ]
+    }
+  ]
+}

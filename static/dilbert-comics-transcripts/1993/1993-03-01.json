@@ -1,0 +1,37 @@
+{
+  "date": "1993-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Tim Zumph,",
+        "writer of the famous",
+        "memo of February",
+        "third, 1978..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I remember it so",
+        "clearly. My boss",
+        "walked right up and",
+        "said \"Nice memo, Tim.\"",
+        "And it wasn't even",
+        "time for my annual",
+        "performance",
+        "review."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I still",
+        "keep a",
+        "copy",
+        "with me.",
+        "Typo..."
+      ]
+    }
+  ]
+}

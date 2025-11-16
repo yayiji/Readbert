@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is hired as a blame consultant.",
+        "The company's woes are your fault, not senior managements!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you realize how much you could gain personally by making the company a success?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would get a nice plaque in a plastic frame.",
+        "Yeah... I was hoping you didn't know."
+      ]
+    }
+  ]
+}

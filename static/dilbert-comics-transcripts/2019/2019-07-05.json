@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We had a leadership meeting to decide how to move forward."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But all of the leaders left the meeting with wildly different ideas about what we agreed on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you leaders plan to solve that?",
+        "Phase one involves accusing each other of being stupid."
+      ]
+    }
+  ]
+}

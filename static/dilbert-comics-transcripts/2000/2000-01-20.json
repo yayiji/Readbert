@@ -1,0 +1,24 @@
+{
+  "date": "2000-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For a 1% annual fee I will invest your money with a certified financial planner."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll charge 1% per year to put your money in mutual funds that charge 1% per year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will I make any money?",
+        "I don't see you doing any of the work."
+      ]
+    }
+  ]
+}

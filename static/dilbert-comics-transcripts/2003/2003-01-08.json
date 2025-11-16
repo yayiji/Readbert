@@ -1,0 +1,23 @@
+{
+  "date": "2003-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do I make this software schedule one person to two tasks at the same time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can write a patch that inserts new months in the timeline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the second task is due on the fifteenth of Floopuary."
+      ]
+    }
+  ]
+}

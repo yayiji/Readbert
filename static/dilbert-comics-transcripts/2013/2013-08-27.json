@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How'd you get the black eye?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was pulling up my blanket in bed.",
+        "My hand slipped and I punched myself in the face."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, let's make some billion-dollar technology decisions."
+      ]
+    }
+  ]
+}

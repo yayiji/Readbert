@@ -1,0 +1,26 @@
+{
+  "date": "2000-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services!",
+        "I am Web Mistress Ming!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your firewall is inadequate. You must be punished!",
+        "Your HTML is weak! You must be punished."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I must have you!",
+        "Talk Cobol to me, baby."
+      ]
+    }
+  ]
+}

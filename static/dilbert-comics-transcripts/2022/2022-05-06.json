@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We want to better understand our customers, so I asked Dave to explain urban culture to us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Both of my parents are doctors, and I went to a private school in Vermont."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that where you were radicalized?",
+        "No, that's happening right now."
+      ]
+    }
+  ]
+}

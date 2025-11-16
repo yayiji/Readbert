@@ -1,0 +1,25 @@
+{
+  "date": "1995-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's an interesting suggestion, Wally. But if it's a good idea, why aren't other companies doing it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you imagine in your wildest dreams that maybe, just maybe I had a good idea that nobody else thought of?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You must have seen it in a book.",
+        "Thanks for the confidence in my abilities.",
+        "You read a book?"
+      ]
+    }
+  ]
+}

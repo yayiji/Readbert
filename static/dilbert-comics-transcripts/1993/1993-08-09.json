@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got to cut staff in engineering.",
+        "I'm trying to determine which one of you is more valuable to keep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been hearing good things about ZIMBU the monkey.",
+        "Which one of you is ZIMBU the monkey?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is not the proudest moment of my professional career."
+      ]
+    }
+  ]
+}

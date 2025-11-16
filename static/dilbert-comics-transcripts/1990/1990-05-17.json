@@ -1,0 +1,27 @@
+{
+  "date": "1990-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just a moment, little girl. I'm Dogbert, the ambush reporter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it true that you pretend to be cute in order to manipulate adults!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, hey, wait...",
+        "I'm just kidding.",
+        "Can I buy you something expensive?",
+        "Sniff",
+        "Sniff"
+      ]
+    }
+  ]
+}

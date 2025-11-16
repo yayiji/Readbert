@@ -1,0 +1,25 @@
+{
+  "date": "2020-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like an update on my project?",
+        "No, not really."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only give you the projects I don't care about."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just lost my will to live.",
+        "That is exactly why I plan to replace you with a robot."
+      ]
+    }
+  ]
+}

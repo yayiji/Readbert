@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is Alan, and my job in marketing is to spray perfume on skunks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Dilbert. My job as an engineer is to resist killing Alan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're doing a terrific job.",
+        "Stop spraying me with perfume!"
+      ]
+    }
+  ]
+}

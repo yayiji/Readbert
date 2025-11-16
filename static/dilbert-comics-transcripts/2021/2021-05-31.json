@@ -1,0 +1,23 @@
+{
+  "date": "2021-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's a great chart, Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, I made that chart a month ago, and Ted stole it without giving me credit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted has management potential."
+      ]
+    }
+  ]
+}

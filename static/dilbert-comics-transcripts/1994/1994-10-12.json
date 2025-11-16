@@ -1,0 +1,27 @@
+{
+  "date": "1994-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the futurist",
+        "Someday, keyboards will be replaced by motion-sensing rings on your fingers..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The computer screen will be projected in your glasses as a 3-D image."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These developments will not enhance the image of technical professionals.",
+        "Are you an engineer?",
+        "I'm a moron.",
+        "Common mistake."
+      ]
+    }
+  ]
+}

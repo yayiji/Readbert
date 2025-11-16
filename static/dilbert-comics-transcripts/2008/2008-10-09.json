@@ -1,0 +1,25 @@
+{
+  "date": "2008-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Vijay the venture capitalist",
+        "We're going into the solar panel business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cha-ching!",
+        "Cha-ching!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pretend you didn't see that when I negotiate my equity."
+      ]
+    }
+  ]
+}

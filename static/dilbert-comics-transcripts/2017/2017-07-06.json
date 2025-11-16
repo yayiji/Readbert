@@ -1,0 +1,30 @@
+{
+  "date": "2017-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That seat is taken by Kevin, our new immersive VR employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But... I'm a physical person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just insult Kevin's corporeal identity?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't see how that's a problem.",
+        "I can't work in this hostile environment."
+      ]
+    }
+  ]
+}

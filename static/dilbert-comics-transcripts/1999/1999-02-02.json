@@ -1,0 +1,26 @@
+{
+  "date": "1999-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We didn't include engineers in the product planning sessions because...",
+        "Um... because..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because we were art history majors in college.",
+        "Pa-r-r-r-ty!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How soon can you build the cloak of invisibility?",
+        "Let the man think, Clover."
+      ]
+    }
+  ]
+}

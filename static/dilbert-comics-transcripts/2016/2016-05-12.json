@@ -1,0 +1,24 @@
+{
+  "date": "2016-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People say the complexity of modern life is a bad thing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But for useless people such as me, it creates endless opportunities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why aren't you done yet?",
+        "My smart-watch was infected with ransomware."
+      ]
+    }
+  ]
+}

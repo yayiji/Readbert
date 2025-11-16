@@ -1,0 +1,26 @@
+{
+  "date": "2017-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How fast can you fix the bug?",
+        "I won't know until I dig in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me a random guess and I promise I won't hold you to it.",
+        "Okay, three days."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now write that into your goals and get it done in three days or else.",
+        "Why do I keep falling for that?!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2013-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My work has no meaning. I understand it's your job to fix that situation before I become disloyal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think it's too late. You already sound disloyal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "That opens a lot of options.",
+        "Let me know if there's anything else I can't do."
+      ]
+    }
+  ]
+}

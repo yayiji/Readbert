@@ -1,0 +1,24 @@
+{
+  "date": "2000-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I completed all my assignments.",
+        "How may I be of service now?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think I have something in here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My other assignments were on wrinkled paper, too."
+      ]
+    }
+  ]
+}

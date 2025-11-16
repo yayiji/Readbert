@@ -1,0 +1,25 @@
+{
+  "date": "2015-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you been dating a lot?",
+        "I call it A-B testing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I go on dates and then compare the analytics to see who I click with the most."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What exactly are you measuring?",
+        "Asks too many questions."
+      ]
+    }
+  ]
+}

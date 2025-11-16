@@ -1,0 +1,28 @@
+{
+  "date": "1994-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In \"diversity sensitivity\" training you will learn to respect those who are different."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People basically fall into these four groups.",
+        "Ugly smart",
+        "Cute smart",
+        "Ugly stupid",
+        "Cute stupid"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is different than I expected.",
+        "I notice that all of you are in this box here."
+      ]
+    }
+  ]
+}

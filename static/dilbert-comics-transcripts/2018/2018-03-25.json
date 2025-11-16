@@ -1,0 +1,54 @@
+{
+  "date": "2018-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming. I'm hoping we can make a lot of progress in the next hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't get any sleep last night, so don't expect much from me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm so hungry I can barely think."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I might be a bit distracted today because my wife told me she wants to leave me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't stay for the whole meeting. I have another thing in a few minutes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm only here to sabotage your project because I can't abide the success of others."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why don't all of you leave now and I'll make all the decisions myself."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How'd the team meeting go?",
+        "Better than I expected."
+      ]
+    }
+  ]
+}

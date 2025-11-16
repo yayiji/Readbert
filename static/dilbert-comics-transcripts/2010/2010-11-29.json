@@ -1,0 +1,26 @@
+{
+  "date": "2010-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a problem.",
+        "Our CEO is grooming a winged monkey as his successor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you say, \"grooming,\" I hope you mean training."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I felt something move right here.",
+        "Ho ho!",
+        "Last one. I'm stuffed."
+      ]
+    }
+  ]
+}

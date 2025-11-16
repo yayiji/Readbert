@@ -1,0 +1,56 @@
+{
+  "date": "1996-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, we need a few minor edits on our product brochure.",
+        "Minor? Uh-oh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've discovered that our product causes hallucinations and sterility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See if you can put a positive spin on that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This will be my greatest writing challenge yet."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are you tired of the same old sights? We've got you covered."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Makes a great gift for those people who -- in your opinion -- should not reproduce."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ooh... I feel a tiny pang of conscience.",
+        "That's one."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So the brochure was only a three-panger?",
+        "Yeah, and I think I faked the third one."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2007-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your unqualified crony is causing a rebellion among the staff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no need to blow this all out of proportion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I promise to monitor the situation."
+      ]
+    }
+  ]
+}

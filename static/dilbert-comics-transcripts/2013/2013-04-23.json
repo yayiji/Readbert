@@ -1,0 +1,24 @@
+{
+  "date": "2013-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to know how our customers live and work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like each of you to write fictional biographies that describe the daily lives of our typical customers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel you're not taking this seriously.",
+        "Most of our customers drown in aquariums."
+      ]
+    }
+  ]
+}

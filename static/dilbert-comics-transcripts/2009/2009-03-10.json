@@ -1,0 +1,25 @@
+{
+  "date": "2009-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've fallen in love with my phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It entertains me. It knows where I am. It responds to my touch. It never judges me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, it's like a woman to you.",
+        "Way better.",
+        "Are you even listening?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's this I hear about you hating the software integration project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't hate it. I simply mentioned both the pros and the cons. People are so conditioned to take sides that a balanced analysis looks to them like hatred."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can you hate it so much??!!",
+        "This is one of those days when it's hard to be me."
+      ]
+    }
+  ]
+}

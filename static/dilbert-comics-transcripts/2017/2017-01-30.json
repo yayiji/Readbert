@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Never go to a robotic hair transplant center on the same day they upgrade the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that the surgery where they take hair from the back of your head and fill in the bald spot?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's how the old software worked.",
+        "The new one didn't respect boundaries."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1996-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd be perfect for the job in quality assurance. Here's my resume."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you bothered by the fact that half of your words are spelled wrong?",
+        "Nope! I'm not even bothered by your anal-retentive behavior."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're hired. Your bonus will equal negative 100% of your base salary. Okay?",
+        "I don't see any problem with that."
+      ]
+    }
+  ]
+}

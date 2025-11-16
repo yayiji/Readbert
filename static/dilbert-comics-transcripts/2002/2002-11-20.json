@@ -1,0 +1,26 @@
+{
+  "date": "2002-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A lab accident turned me into a sheep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not all bad.",
+        "In addition to being soft and warm, I never need to form opinions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you want some wool, just grab me and start shaving.",
+        "I'll barely struggle.",
+        "Cool!"
+      ]
+    }
+  ]
+}

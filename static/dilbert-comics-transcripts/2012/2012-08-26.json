@@ -1,0 +1,54 @@
+{
+  "date": "2012-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you the raise you deserve because it would make your pay higher than mine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see how that's a problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me explain it to you this way, Alice."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you make more money than I do..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your compensation would be greater than mine."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's not a reason, you ignorant baboon!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, how about... I must be smarter than you because my income is higher?",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "When I don't have reasons for things, is that called intuition or just common sense?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2020-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you ever tried meditating?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sounds like a lot of work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is the opposite of work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "All you have to do is sit in one place and think of nothing in particular."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can I drink coffee at the same time?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That is not recommended."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In other words, meditating is what I already do, but without the advantage of coffee?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Perhaps you have already achieved enlightenment.",
+        "Feels that way to me."
+      ]
+    }
+  ]
+}

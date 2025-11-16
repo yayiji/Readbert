@@ -1,0 +1,30 @@
+{
+  "date": "2020-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is...",
+        "Stop right there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My augmented reality glasses are showing me your entire social media history."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope it makes a good first impression."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My god, you are dumb!"
+      ]
+    }
+  ]
+}

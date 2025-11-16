@@ -1,0 +1,23 @@
+{
+  "date": "2004-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company will be holding a series of brown bag seminars on corporate ethics."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it ethical to steal our lunch hour and pretend that the ethics problems don't come from our executives?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wouldn't know because I haven't taken the seminar."
+      ]
+    }
+  ]
+}

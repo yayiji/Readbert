@@ -1,0 +1,24 @@
+{
+  "date": "1997-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've invented a quantum computer, capable of interacting with matter from other universes to solve complex equations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to chaos theory, your tiny change to another universe will shift its destiny, possibly killing every inhabitant."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shift happens.",
+        "Fire it up."
+      ]
+    }
+  ]
+}

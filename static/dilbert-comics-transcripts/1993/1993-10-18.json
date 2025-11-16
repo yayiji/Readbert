@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just realized I can double your workload and there's nothing you can do about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're lucky to have jobs in today's economy! You'll gladly sacrifice your personal lives for no extra pay!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But at least our hard work will lead to promotion opportunities.",
+        "You're so cute. I wish I had a camera right now."
+      ]
+    }
+  ]
+}

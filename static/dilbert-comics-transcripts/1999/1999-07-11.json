@@ -1,0 +1,57 @@
+{
+  "date": "1999-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your budget estimate today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We won't have useful numbers until next week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It doesn't work that way, Asok.",
+        "No?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "As soon as he asked the question, he went into \"boss hibernation.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He can't see or hear anything until we say a number.",
+        "Watch."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Three million dollars.",
+        "Uhn!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Three million.",
+        "Good work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The first time I saw it, I panicked and ended up with a budget of $911."
+      ]
+    }
+  ]
+}

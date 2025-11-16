@@ -1,0 +1,27 @@
+{
+  "date": "1992-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's begin by going around the table and introducing ourselves."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Dilbert.",
+        "I've worked for you for five years.",
+        "Albert, six years.",
+        "Alice, I've worked for you for ten years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sally, eight years.",
+        "I knew these people looked familiar."
+      ]
+    }
+  ]
+}

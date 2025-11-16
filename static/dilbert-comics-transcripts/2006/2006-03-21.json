@@ -1,0 +1,26 @@
+{
+  "date": "2006-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I want you to attend the technology steering committee for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But they are all tall members of senior management.",
+        "They won't even acknowledge my existence.",
+        "Phfft."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, Andy, this seat is free.",
+        "I'll just move my coffee."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your stockbroker is in the news today.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please be because he won a humanitarian award... or he was killed by a celebrity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ironically, several celebrity humanitarians do want to kill him now.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

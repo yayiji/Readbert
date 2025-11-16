@@ -1,0 +1,24 @@
+{
+  "date": "1990-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert arrives at the ex-communist country of Elbonia.",
+        "I need a flight to your capital."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a moment I was worried that this backward little country wouldn't have a commuter flight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate living near the airport."
+      ]
+    }
+  ]
+}

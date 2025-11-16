@@ -1,0 +1,25 @@
+{
+  "date": "2001-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...Effective immediately.",
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ah-ooga!",
+        "Woo-hoo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can make the severance packages less generous."
+      ]
+    }
+  ]
+}

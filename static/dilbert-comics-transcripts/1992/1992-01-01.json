@@ -1,0 +1,26 @@
+{
+  "date": "1992-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The humans are not afraid of our elf magic.",
+        "We must gain their respect through verbal intimidation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, bozo!",
+        "We're talking to you, chubby!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then Karl says \"Do you think you're going to eat all of those donuts?\"",
+        "Shut up"
+      ]
+    }
+  ]
+}

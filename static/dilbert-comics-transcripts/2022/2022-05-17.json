@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to go home early because I'm having an anxiety attack."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Walk it off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're making it worse!",
+        "Would it help if I give you a bad performance review?"
+      ]
+    }
+  ]
+}

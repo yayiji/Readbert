@@ -1,0 +1,23 @@
+{
+  "date": "2000-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't have enough engineers to handle all the requests for sales support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Build an online database to log all the requests."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might look as if I'm staring at you with a mixture of contempt and disbelief, but I'm actually meditating."
+      ]
+    }
+  ]
+}

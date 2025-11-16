@@ -1,0 +1,24 @@
+{
+  "date": "1990-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have cured ham?",
+        "Right here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Boy, if that's cured, what does a sick one look like?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've always felt a duty to share my gift of mirth with others."
+      ]
+    }
+  ]
+}

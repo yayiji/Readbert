@@ -1,0 +1,25 @@
+{
+  "date": "1992-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Snack time, Dilbert!",
+        "I brought an apple so you will like me!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nice try, Ratbert.",
+        "But I don't want to eat something that was touched by a rat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The worst part is that's why I didn't eat it myself."
+      ]
+    }
+  ]
+}

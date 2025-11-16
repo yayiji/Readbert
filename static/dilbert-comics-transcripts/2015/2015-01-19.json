@@ -1,0 +1,25 @@
+{
+  "date": "2015-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you interested in becoming a manager?",
+        "That would never work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Managers are supposed to hire people who are smarter than they are. That's easy for you, but how would I ever find anyone to hire?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand.",
+        "And that makes you a perfect manager."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2018-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do I find meaning in my life?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing has meaning.",
+        "The best you can do is postpone your own lonely and painful death."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying I should take care of my health?",
+        "What answer gets me the best review on Yelp?!"
+      ]
+    }
+  ]
+}

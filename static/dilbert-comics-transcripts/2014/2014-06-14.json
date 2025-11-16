@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I ate three pounds of dark chocolate and it made my brain work better."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I realize that everything I've done in my career up to this point has been magical thinking and fad-chasing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should I do?",
+        "Stop eating chocolate."
+      ]
+    }
+  ]
+}

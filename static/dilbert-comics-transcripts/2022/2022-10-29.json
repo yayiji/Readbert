@@ -1,0 +1,21 @@
+{
+  "date": "2022-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting complaints about how much CO2 you are putting off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're doing it now, aren't you?"
+      ]
+    }
+  ]
+}

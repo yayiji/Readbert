@@ -1,0 +1,25 @@
+{
+  "date": "2010-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new look is a black turtleneck and old man jeans.",
+        "What do you think?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You look like a total juice bag."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's good, right?",
+        "What answer gets me back to watching my shows on Hulu?"
+      ]
+    }
+  ]
+}

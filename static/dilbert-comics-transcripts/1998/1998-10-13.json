@@ -1,0 +1,27 @@
+{
+  "date": "1998-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you sending me to teach Cobol to the Elbonians?",
+        "Wally is the one who knows Cobol, not me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally said he's busy that day.",
+        "Can't you reschedule the class?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay...",
+        "Does tomorrow work for you?",
+        "You're solving the wrong problem!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People are complaining about how you use your security card."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'd appreciate it if you didn't keep it in your front pocket and thrust it at the door sensor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know the security card was why the door opened."
+      ]
+    }
+  ]
+}

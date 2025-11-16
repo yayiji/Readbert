@@ -1,0 +1,63 @@
+{
+  "date": "1992-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's guide to movie advertisements",
+        "Trust me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Thumbs up.\"",
+        "Gene Siskel",
+        "Meaning: Roger Ebert hates it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Nominated for an academy award.\"",
+        "Notice they don't say for what -- probably \"best gaffer.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "\"Funniest movie of the year.\"",
+        "He saw it in mid-January."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "\"☆☆☆☆... A masterpiece!\"",
+        "The movie studio only paid off one critic. Must be a low-budget film."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "\"Powerful performances.\"",
+        "It's a downer. Somebody probably gets a disease and loses the farm."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "\"I loved it!\"",
+        "- Floyd Belcher, Nosehair Gazette",
+        "Remember to consider the source."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "\"Stallone's funniest movie yet.\"",
+        "I think you get the hang of it."
+      ]
+    }
+  ]
+}

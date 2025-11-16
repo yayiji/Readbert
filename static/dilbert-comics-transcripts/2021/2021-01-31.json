@@ -1,0 +1,53 @@
+{
+  "date": "2021-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They say the laziest employees are the best because they know how to be efficient."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't think I get enough credit for all of my efficiency."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Efficiency only matters if you are doing something useful."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're the one who gives me my assignments."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't ask you to do anything useful because you are too lazy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Are the useful projects generally harder than the useless ones?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Then I'd say the system is working."
+      ]
+    }
+  ]
+}

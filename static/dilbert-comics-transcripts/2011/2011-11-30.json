@@ -1,0 +1,31 @@
+{
+  "date": "2011-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I manually entered all of the employee data you wanted.",
+        "It took the entire weekend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I probably should have told you I no longer need it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Die! Die! Die! You inconsiderate monster!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did you really enter all of the data?",
+        "Maybe. Let's call it a tie."
+      ]
+    }
+  ]
+}

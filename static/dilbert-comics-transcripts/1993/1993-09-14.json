@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've seen him before.",
+        "I'm a \"blame consultant.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a large fee I will tell the workers that the problems in the company are their fault, not yours. It's the latest management fad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Won't they see right through that?",
+        "Is that my fault??!"
+      ]
+    }
+  ]
+}

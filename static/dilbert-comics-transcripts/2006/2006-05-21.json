@@ -1,0 +1,57 @@
+{
+  "date": "2006-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The first item of business is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that sound?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Airplane",
+        "Scooter",
+        "Locusts"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why does it stop when you talk?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It landed.",
+        "It parked.",
+        "They're napping."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay... anyway, I wanted to thank you all for your attendance."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I know you were concerned that my meetings were using up all of the time you had for doing work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Productivity is up, but apparently we have locusts."
+      ]
+    }
+  ]
+}

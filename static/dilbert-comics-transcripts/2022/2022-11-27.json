@@ -1,0 +1,55 @@
+{
+  "date": "2022-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The good news is that we launched our new product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The bad news is that all of the engineers left the project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All of them?",
+        "Why would they all leave?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They're following our corporate incentives."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The only engineers this company promotes are the ones who launch products."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So as soon as the product is launched, all of the engineers leave for promotions in other groups."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then the product fails for lack of good engineering."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Then what do we do?",
+        "We blame the sales team."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2003-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll need to reword the CEO section of your resume."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, there's never a right time to use the word \"plundered.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And instead of \"suckers ignored our P/E ratio,\" say you \"enhanced stockholder value.\"",
+        "Wow.",
+        "You're good."
+      ]
+    }
+  ]
+}

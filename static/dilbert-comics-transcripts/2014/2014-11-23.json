@@ -1,0 +1,55 @@
+{
+  "date": "2014-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it okay if I telecommute on \"bring your kid to work\" day?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll show my kid how I work from home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would I know you were working?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What??!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That is exactly the sort of distrust that corrodes the motivation of employees!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How can I feel good about my job in this toxic atmosphere?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, okay.",
+        "You can work from home on \"bring your kid to work\" day."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You don't have a kid.",
+        "I hear they ruin your naps."
+      ]
+    }
+  ]
+}

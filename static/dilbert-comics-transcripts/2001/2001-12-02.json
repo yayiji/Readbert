@@ -1,0 +1,55 @@
+{
+  "date": "2001-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When should we do the layoffs?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts say that Friday is the cruelest day of the week to fire people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So let's do it Friday."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Friday is our employee appreciation day."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ah-ah ah-wooo!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What was that?",
+        "You don't want to know."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Congratulations on being named employee of the month."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now... you know how some months are shorter than others?",
+        "Ah-ah wooo!!!"
+      ]
+    }
+  ]
+}

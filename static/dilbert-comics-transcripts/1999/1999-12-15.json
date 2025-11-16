@@ -1,0 +1,25 @@
+{
+  "date": "1999-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard your project got cancelled.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No! No! Why me? I'll never love again!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I renounce my religion.",
+        "Ouch."
+      ]
+    }
+  ]
+}

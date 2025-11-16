@@ -1,0 +1,55 @@
+{
+  "date": "1997-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ken, may we have a word with you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We heard that you gave an interesting presentation at the sales staff meeting.",
+        "Thanks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our spies gave us copies of your slides."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You told them that our new product kills mold and mildew.",
+        "Won't it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We make software!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So? Haven't you ever heard of the placebo effect?!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stunned silence"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...In company news, our entire sales force shriveled up and died for no apparent reason."
+      ]
+    }
+  ]
+}

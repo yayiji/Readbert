@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our drug trial data shows we killed as many people as we saved."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Put together a budget for bribing our way to government approval."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I a criminal now?",
+        "I think of you as more of an accomplice."
+      ]
+    }
+  ]
+}

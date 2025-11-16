@@ -1,0 +1,22 @@
+{
+  "date": "2006-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a rumor that you're dead.",
+        "Is it true?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He'll be missed."
+      ]
+    }
+  ]
+}

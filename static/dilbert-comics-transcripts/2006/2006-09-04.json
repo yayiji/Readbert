@@ -1,0 +1,23 @@
+{
+  "date": "2006-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I buy this, how can I be sure you won't come out with a newer version next week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I give you my word as a job-hopping commission junky with a gambling problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And even if we did have a newer version, it sure wouldn't fix any of the problems that this one has."
+      ]
+    }
+  ]
+}

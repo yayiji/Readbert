@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it a coincidence you found a security flaw in your old software just when you made the upgrade available for purchase?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The important thing here is that you need to buy our upgrade or an Elbonian hacker will own your entire company by lunch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're very good at sales.",
+        "He's penetrating your security system now! Sign the purchase order!"
+      ]
+    }
+  ]
+}

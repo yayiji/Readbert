@@ -1,0 +1,23 @@
+{
+  "date": "2007-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a sales support engineer now. Can you teach me to be a good liar?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. Meet me on the porch, and don't wear a coat; the cold will help the learning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first lesson is always the cruelest."
+      ]
+    }
+  ]
+}

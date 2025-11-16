@@ -1,0 +1,54 @@
+{
+  "date": "2008-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's figure out a timeline for deployment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ted is the only one who knows anything about that, and he's on vacation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's see how far we can get without Ted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You mean without knowledge or insight?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We can make reasonable assumptions."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or we could wait for Ted to come back tomorrow and ask him."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I called this meeting and it's not a meeting until someone's time gets wasted!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I apologize for my efficiency.",
+        "Apology accepted."
+      ]
+    }
+  ]
+}

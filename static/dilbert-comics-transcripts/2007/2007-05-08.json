@@ -1,0 +1,28 @@
+{
+  "date": "2007-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why don't you answer my e-mails?",
+        "Do I need to complain to your boss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your messages have too many topics and no paragraph breaks.",
+        "They are a violation of all that is good and right about e-mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Blah, blah, blah, Dilbert is rude...",
+        "Geez, I can't even read this mess.",
+        "Click",
+        "Delete"
+      ]
+    }
+  ]
+}

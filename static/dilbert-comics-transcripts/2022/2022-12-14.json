@@ -1,0 +1,25 @@
+{
+  "date": "2022-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hour two: deciding where to eat lunch",
+        "We've narrowed down the choices to..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...a place that is too busy for us to get a table and a place that used to exist but for some reason no longer does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They can't be our only choices.",
+        "No, we also have three places that are too far away."
+      ]
+    }
+  ]
+}

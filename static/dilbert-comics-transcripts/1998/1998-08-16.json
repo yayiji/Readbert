@@ -1,0 +1,56 @@
+{
+  "date": "1998-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The evil director of human resources spots his prey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, you haven't filled out a vacation request form yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we don't get it by tomorrow, you lose your vacation."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Where do I get a form?",
+        "We're all out."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did they ever exist?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wally, does anything really exist, or is it all just shadows on a cubicle wall?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I leave you with that thought."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Who says philosophy is useless?",
+        "Bonk",
+        "Bonk"
+      ]
+    }
+  ]
+}

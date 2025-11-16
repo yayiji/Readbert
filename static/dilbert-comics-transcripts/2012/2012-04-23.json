@@ -1,0 +1,25 @@
+{
+  "date": "2012-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please tell me our apps don't steal contact information from users' address books."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We upload the data but we don't store it.",
+        "That's like saying I can date your wife if I put a bag over her head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That could work.",
+        "I don't think I'm getting through to you."
+      ]
+    }
+  ]
+}

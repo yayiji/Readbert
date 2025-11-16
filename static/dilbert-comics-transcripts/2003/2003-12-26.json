@@ -1,0 +1,23 @@
+{
+  "date": "2003-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Business is picking up. We need to rehire some of the people that we downsized."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope the time off from work hasn't dulled their engineering instincts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first day back is always the hardest."
+      ]
+    }
+  ]
+}

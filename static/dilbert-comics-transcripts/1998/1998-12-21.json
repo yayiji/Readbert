@@ -1,0 +1,24 @@
+{
+  "date": "1998-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm chatting with a supermodel who has trouble finding dates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She says men are intimidated by her beauty and her computer skills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang! The system administrator is making a move on her.",
+        "Type faster!"
+      ]
+    }
+  ]
+}

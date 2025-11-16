@@ -1,0 +1,53 @@
+{
+  "date": "2015-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a bad story about you on the internet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently, you described a plan to \"ruin any journalist who writes an unfair story\" about us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was off the record!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You said it in front of a dozen reporters at a business event."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It was just bar conversation. I was making a point about fairness."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hmmm... but now no sane writer would write a negative article about us."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I can't tell if you're a brilliant leader or criminally insane."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd show you the Venn diagram they gave us in CEO school, but it just looks like a circle."
+      ]
+    }
+  ]
+}

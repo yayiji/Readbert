@@ -1,0 +1,53 @@
+{
+  "date": "2014-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to good time management is touching each piece of paper once."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I can only touch it once, I'd better do it right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need to make sure I don't get interrupted after the first touch."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Turn off my phone, close my door, and ignore email."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, here goes one touch."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ugh. This will take an hour and I only have ten minutes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Make a copy, throw away the original, and don't let me touch the copy until I have an hour in my schedule."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wonder if I'm allowed to use salad tongs."
+      ]
+    }
+  ]
+}

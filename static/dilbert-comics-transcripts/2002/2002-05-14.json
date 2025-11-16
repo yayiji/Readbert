@@ -1,0 +1,23 @@
+{
+  "date": "2002-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, our CEO is visiting next week.",
+        "I want you to hide in the restroom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's too soon.",
+        "It's never too soon to start a dream assignment."
+      ]
+    }
+  ]
+}

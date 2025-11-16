@@ -1,0 +1,56 @@
+{
+  "date": "1998-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, Justin, tell me why you want to work here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want to find a cure for asthma!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't do medical research here.",
+        "Oh"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I want to build the biggest hydroelectric dam in the world!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We don't do that either.",
+        "What do you do?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We sit in fabric-covered boxes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Shrivel crinkle ack!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That was the sound of your idealism dying.",
+        "Show me to my box."
+      ]
+    }
+  ]
+}

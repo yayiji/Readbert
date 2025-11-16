@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The web site needs to be more webbish."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But not too webbish."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long will that take?"
+      ]
+    }
+  ]
+}

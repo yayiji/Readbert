@@ -1,0 +1,25 @@
+{
+  "date": "1997-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's freezing in here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just give the thermostat a little bump."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we at least agree that when my cactus shrieks in agony, it's too warm?",
+        "Aaagh!!",
+        "It wasn't shrieking before you took your shirt off."
+      ]
+    }
+  ]
+}

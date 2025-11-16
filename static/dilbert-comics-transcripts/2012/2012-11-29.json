@@ -1,0 +1,23 @@
+{
+  "date": "2012-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to take care of this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd love to, but it isn't on the list of priorities you gave me an hour ago."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do what I tell you to do, not what I say you should do."
+      ]
+    }
+  ]
+}

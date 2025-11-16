@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And what's your reason for leaving your previous job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You fired me yesterday for non-business use of the internet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Crime doesn't pay.",
+        "Wait until you hear my minimum acceptable salary."
+      ]
+    }
+  ]
+}

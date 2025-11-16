@@ -1,0 +1,28 @@
+{
+  "date": "2005-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company lawyer",
+        "The court ordered us to turn over all of our e-mail records."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gosh. I sure hope they don't get deleted during regularly scheduled system maintenance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh no.",
+        "That would be bad!",
+        "Wink!",
+        "Wink!",
+        "Good grief, man! How can you be flirting at a time like this?"
+      ]
+    }
+  ]
+}

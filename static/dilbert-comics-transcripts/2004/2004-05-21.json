@@ -1,0 +1,24 @@
+{
+  "date": "2004-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've exceeded your e-mail storage allocation on the server again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because I do real work as opposed to walking around with a piece of paper."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not a piece of paper; it's a document!",
+        "I can't hear you over the sound of my real work."
+      ]
+    }
+  ]
+}

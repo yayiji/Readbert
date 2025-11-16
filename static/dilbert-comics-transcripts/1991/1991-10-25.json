@@ -1,0 +1,26 @@
+{
+  "date": "1991-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've got to focus more on the needs of our customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've hired famous business consultant Tom Peters to follow you around and make passionate criticism."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is this quality?",
+        "Are you truly focused on the customer?",
+        "Great...",
+        "He's a spitter."
+      ]
+    }
+  ]
+}

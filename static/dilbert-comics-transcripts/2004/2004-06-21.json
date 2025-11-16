@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know what I admire about you, Alice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You obviously value performance over appearance.",
+        "Thank you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... if that was a compliment, why is my fist of death tingling?"
+      ]
+    }
+  ]
+}

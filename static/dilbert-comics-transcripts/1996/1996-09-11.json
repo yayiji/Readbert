@@ -1,0 +1,26 @@
+{
+  "date": "1996-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Teambuilding exercise",
+        "This next exercise will challenge your ability to solve problems as a team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Build a working sundial using only a pencil and a donut."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Four hours later...",
+        "Sob",
+        "One more bite isn't going to make any difference."
+      ]
+    }
+  ]
+}

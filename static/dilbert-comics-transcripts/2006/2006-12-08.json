@@ -1,0 +1,23 @@
+{
+  "date": "2006-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carl quit. He's the only one who knows how to program the legacy system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It can't be that hard. Go figure it out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Frack."
+      ]
+    }
+  ]
+}

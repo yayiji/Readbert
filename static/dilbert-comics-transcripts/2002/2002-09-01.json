@@ -1,0 +1,54 @@
+{
+  "date": "2002-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to my quarterly employee feedback meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who wants to get the ball rolling?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It would be helpful if you told us our company's long term strategy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh, would it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why? So you can leak it to our competitors?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Here's your stupid suggestion in my hand! I'm crushing it! Crush, crush, crush!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now I'll chew it up so I can spit it in your cubicle-dwelling face!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You fell in that trap last quarter too.",
+        "An optimist's life is never easy."
+      ]
+    }
+  ]
+}

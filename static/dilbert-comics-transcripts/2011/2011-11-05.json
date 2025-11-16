@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a consultant to teach us how to be less confident."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because research has shown that overconfident people don't recognize their own mistakes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I feel like an idiot because I didn't know about those studies.",
+        "I did him first."
+      ]
+    }
+  ]
+}

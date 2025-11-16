@@ -1,0 +1,56 @@
+{
+  "date": "2005-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tex, I'd like you to meet Asok, our intern."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Asok? What kind of name is that? Are you a taxi driver?",
+        "Um... no."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've produced bigger things than you by eating fiber!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do they have schools where you came from?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Actually, Asok graduated from the Indian Institute of Technology. So if I were you, I wouldn't make him angry."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why? What's he gonna do? Gnaw on my ankle?",
+        "Explode! Explode!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Boom!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They taught you some good stuff.",
+        "Nah. You can't even get in unless you can do that."
+      ]
+    }
+  ]
+}

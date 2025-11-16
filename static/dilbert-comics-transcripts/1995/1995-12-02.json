@@ -1,0 +1,28 @@
+{
+  "date": "1995-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does your boss give you orders and later deny it?",
+        "Do you get in trouble for doing what you're told?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The \"Dogbert Detective Agency\" will videotape it all and embarrass your boss with proof!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What??!",
+        "Why did you do this??!",
+        "This is the happiest moment of my career.",
+        "Lights!"
+      ]
+    }
+  ]
+}

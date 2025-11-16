@@ -1,0 +1,52 @@
+{
+  "date": "2008-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, how do you keep up with all of the changes in technology?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Chasing knowledge is a fool's game, Asok."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I use experience to answer questions without the burden of knowledge.",
+        "Observe."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wally, if we upgrade our servers, would that solve our network problem?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If the problem is the servers, yes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll ask someone else."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There goes another satisfied customer."
+      ]
+    }
+  ]
+}

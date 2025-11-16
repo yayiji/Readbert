@@ -1,0 +1,26 @@
+{
+  "date": "1995-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My salary depends on your opinion of my work.",
+        "But you have no interest in understanding what I do, so..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hired the Dogbert public relations firm to hype my performance and get me a big raise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Press release:",
+        "Engineer cures cancer while saving baby from burning building.",
+        "That's not in his objectives."
+      ]
+    }
+  ]
+}

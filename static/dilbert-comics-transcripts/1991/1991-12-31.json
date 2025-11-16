@@ -1,0 +1,24 @@
+{
+  "date": "1991-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fear us, dog!",
+        "We elves are magic.",
+        "Watch this!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we had the dog's fear and respect...",
+        "until the bunny made Karl eat a bug."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All job applicants must take the Catbert personality test to see how well they will fit into our culture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies show the test is twice as reliable as using astrology alone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Astrology has zero reliability.",
+        "You're not a good fit."
+      ]
+    }
+  ]
+}

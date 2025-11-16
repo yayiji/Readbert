@@ -1,0 +1,26 @@
+{
+  "date": "2018-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the mental health expert",
+        "Can you confirm that my employees have lost their minds?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, because they work for you.",
+        "Any other questions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I'm sane, right?",
+        "Yes, because you hired me."
+      ]
+    }
+  ]
+}

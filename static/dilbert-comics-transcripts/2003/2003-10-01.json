@@ -1,0 +1,24 @@
+{
+  "date": "2003-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, big guy, how's your golf game lately?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've only known you for three seconds and already I have a deep desire to punch you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But no one ever does.",
+        "Have you met Alice?"
+      ]
+    }
+  ]
+}

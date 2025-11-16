@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What kinds of classes should I take to become an engineer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Start by taking whatever kind of class makes you fifty percent smarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then what?",
+        "Then you won't need to ask me what to do next."
+      ]
+    }
+  ]
+}

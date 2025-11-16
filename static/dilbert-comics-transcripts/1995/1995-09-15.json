@@ -1,0 +1,38 @@
+{
+  "date": "1995-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my time sheet,",
+        "filled out in",
+        "increments of",
+        "fifteen minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As usual, I coded the",
+        "useless hours spent in",
+        "meetings as \"work,\"",
+        "whereas the time I",
+        "spent in the shower",
+        "designing circuits in",
+        "my mind is \"non-work.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Interestingly, even the",
+        "time I spend complain-",
+        "ing about my lack of",
+        "productivity is",
+        "considered \"work.\"",
+        "I hate",
+        "my life."
+      ]
+    }
+  ]
+}

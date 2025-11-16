@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting sued for claiming our headphones cure brain tumors and raise your IQ."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll need to hire a scientist to back us on this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where will we find a scientist willing to do that?",
+        "Well, I wouldn't start with the rich ones."
+      ]
+    }
+  ]
+}

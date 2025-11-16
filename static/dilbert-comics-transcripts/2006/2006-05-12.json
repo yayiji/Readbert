@@ -1,0 +1,23 @@
+{
+  "date": "2006-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to start a high tech company in the garage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some of the most successful companies started in garages. It must help somehow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if those other guys had homeowner rules about not parking in the driveway."
+      ]
+    }
+  ]
+}

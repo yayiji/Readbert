@@ -1,0 +1,55 @@
+{
+  "date": "2019-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you didn't accomplish anything this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you insane?",
+        "I completely redesigned our line of products!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was mostly last year."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You didn't give me a raise last year because I wasn't finished until January of this year."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now you aren't giving me a raise this year because I did most of the work last year."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Give me one reason I shouldn't quit right now!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because every other company is just as bad."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And you don't like change.",
+        "I said one reason!"
+      ]
+    }
+  ]
+}

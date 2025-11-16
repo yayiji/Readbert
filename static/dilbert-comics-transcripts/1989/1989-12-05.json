@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pardon me, sir, but I couldn't help noticing these equations in your garbage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I took the liberty of correcting a few quantum calculations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gosh. Why are you a garbage man?",
+        "I think the question is \"Why are you an engineer?\""
+      ]
+    }
+  ]
+}

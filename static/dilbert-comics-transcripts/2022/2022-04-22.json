@@ -1,0 +1,25 @@
+{
+  "date": "2022-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, if you work hard, I will be rewarded."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's in it for me?",
+        "You get to be called a team player."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't even want that.",
+        "No one does."
+      ]
+    }
+  ]
+}

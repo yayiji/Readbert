@@ -1,0 +1,56 @@
+{
+  "date": "1995-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you guys to check Anne's advertising materials for technical accuracy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this supposed to be funny?",
+        "I don't get it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm only looking for technical help here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hey! Maybe you could say something about those warning tags on mattresses! Now that would be funny!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or how about the fact that you can't look up something in the dictionary if you can't spell it? That's funny!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're engineers, not comedians!! I want technical help!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This guy has an XP-6. It should be an XP-7.",
+        "That's better."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And he should be saying \"I've fallen and I can't get up\".",
+        "Who picked these colors?"
+      ]
+    }
+  ]
+}

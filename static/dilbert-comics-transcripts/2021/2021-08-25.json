@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it my imagination, or is there a lack of diversity amongst senior engineers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll promote you to senior engineer if you promise to never mention this to the press."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just blackmail yourself?",
+        "And you'll have a private office."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2005-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new business strategy is...",
+        "Hold on."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I made a list of all of our strategies for the past five years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There have been seventeen of them.",
+        "What does that tell us?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That I'm not afraid of change.",
+        "And that I've been working hard and I deserve a huge bonus.",
+        "And that I'm kind and generous and good looking.",
+        "You have to give him credit. The man knows how to answer a rhetorical question."
+      ]
+    }
+  ]
+}

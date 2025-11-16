@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO blamed the sales department for our low revenue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sales blamed marketing and marketing blamed engineering."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Guess why I'm here.",
+        "To shield me from unfair accusations?"
+      ]
+    }
+  ]
+}

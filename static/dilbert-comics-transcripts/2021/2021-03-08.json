@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I tell you about our newest product, I'd like to tell you a story about a traumatic experience I had as a child."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is your story related to the topic, or is it just an excuse to yammer about something that happened to you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm trying to manipulate your emotions to short-circuit your critical thinking.",
+        "Okay. Carry on."
+      ]
+    }
+  ]
+}

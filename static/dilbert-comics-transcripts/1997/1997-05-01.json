@@ -1,0 +1,26 @@
+{
+  "date": "1997-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You want me to sign an agreement that I won't work for a competitor for five years if I leave here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem.",
+        "Here you go.",
+        "This is too easy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't done any work here for five years, so how hard could it be?",
+        "New game?"
+      ]
+    }
+  ]
+}

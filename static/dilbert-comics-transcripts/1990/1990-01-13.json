@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think it's my fuel pump.",
+        "Your what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What I mean is I think it's my @!#* fuel pump."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, why didn't you just #$@? say so?",
+        "Sorry... I forgot where I was."
+      ]
+    }
+  ]
+}

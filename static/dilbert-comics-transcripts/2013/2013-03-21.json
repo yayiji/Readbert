@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your engineering experience looks great, but your social media score is nearly zero."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have no friends, no followers, and no social influence whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I focus on my work!",
+        "No, I'm pretty sure you're dead."
+      ]
+    }
+  ]
+}

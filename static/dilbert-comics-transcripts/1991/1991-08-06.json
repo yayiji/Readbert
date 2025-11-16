@@ -1,0 +1,23 @@
+{
+  "date": "1991-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I noticed you gave birth by the Xerox machine this morning..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have a maternity leave policy here, but if you need some time, I'm sure we can find somebody less fertile to fill your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you, sir, but I don't expect any special treatment."
+      ]
+    }
+  ]
+}

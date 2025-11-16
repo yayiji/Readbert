@@ -1,0 +1,57 @@
+{
+  "date": "2014-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you show me how to set up temporary credentials for our web services?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only if you are prepared for your ritual shaming.",
+        "Yes, always."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, here it goes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What kind of engineer doesn't know how to set up temporary credentials?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha ha ha ha!",
+        "I will tell this story for years!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hey, everyone!",
+        "Guess what Dilbert doesn't know!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That should be enough to poison your well of credibility."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This isn't a healthy place.",
+        "Then why do I feel so alive?"
+      ]
+    }
+  ]
+}

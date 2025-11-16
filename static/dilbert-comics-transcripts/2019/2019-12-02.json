@@ -1,0 +1,26 @@
+{
+  "date": "2019-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina the tech writer",
+        "In simple terms, tell me how the technology works, so I can write about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One hour later",
+        "And that's how it all... uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I am reading your body language correctly, you're saying I could have shortened that.",
+        "Continued..."
+      ]
+    }
+  ]
+}

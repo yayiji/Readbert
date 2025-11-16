@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For the timid investor, I recommend our \"perpetual certificates of deposit.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They earn the highest possible interest.",
+        "The only trade-off is that you can never withdraw it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't I just fling my money out a window?",
+        "Ah, you've heard of our \"flying debenture\" product?"
+      ]
+    }
+  ]
+}

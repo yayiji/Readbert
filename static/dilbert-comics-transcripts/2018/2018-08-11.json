@@ -1,0 +1,25 @@
+{
+  "date": "2018-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Performance review",
+        "I've seen a lot of employees in my day, and you are definitely one of them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying generic things because you don't know what my job is or how well I performed?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And... you speak truth to power.",
+        "Please stop."
+      ]
+    }
+  ]
+}

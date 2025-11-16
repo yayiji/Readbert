@@ -1,0 +1,54 @@
+{
+  "date": "1993-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I've found a way to improve the quality of life around here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've catalogued and prioritized all of the things that bother me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Study the list so you'll know what behaviors are unacceptable."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wow! Thanks! This is a real bonanza!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're right. This certainly will improve the quality of my life!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think I'll do a \"top hundred\" countdown. This could amuse me for months."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That didn't go as well as I'd hoped."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Number 73: \"Clipping my toenails near your soup.\"",
+        "That had better be an onion there."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1996-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't believe your father has been living in the \"all you can eat\" restaurant since 1989!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have the oddest family.",
+        "What did he look like when you saw him after all these years?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't seen him yet.",
+        "I'm waiting for \"burrito night.\"",
+        "Now is when you should be saying \"just kidding.\""
+      ]
+    }
+  ]
+}

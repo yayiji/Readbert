@@ -1,0 +1,53 @@
+{
+  "date": "2015-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The long hours of work are taking a toll on my body."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I take some time off for my health?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would defeat the whole point of being an employee."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You are supposed to be trading your health and happiness for money."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then you give that money to your family and watch them spend it while you eat yourself to death."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's a circle of life sort of thing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm not married."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Loser."
+      ]
+    }
+  ]
+}

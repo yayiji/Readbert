@@ -1,0 +1,24 @@
+{
+  "date": "2012-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do a cost analysis for consolidating our data centers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No matter what the data says, make sure your conclusion is that it's a good investment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remind me why I went to college.",
+        "Some liar probably convinced you it was a good investment."
+      ]
+    }
+  ]
+}

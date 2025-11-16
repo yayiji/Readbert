@@ -1,0 +1,54 @@
+{
+  "date": "2001-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, you didn't use the approved corporate font."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our corporate communications department says we have to use the Danville font."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No problem. I'll buy the Danville font software today."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There's a budget freeze on software purchases."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... the Danville font is both mandatory and prohibited?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Remind me to ding you for negativity on your next evaluation."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think I'll do some binge eating and non-stop sobbing at my cubicle now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Unless that's prohibited too.",
+        "No eating in cubicles."
+      ]
+    }
+  ]
+}

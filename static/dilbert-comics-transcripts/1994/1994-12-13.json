@@ -1,0 +1,25 @@
+{
+  "date": "1994-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm following you to work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll start out as an annoying rodent.",
+        "But with hard work and training I'll work my way up to engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I suggest a career in marketing?",
+        "Is this the cutest little briefcase or what?!"
+      ]
+    }
+  ]
+}

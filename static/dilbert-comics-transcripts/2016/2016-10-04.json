@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm creating a reality TV show about ten people locked in a room with one electrical outlet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The central tension will revolve around their daily struggle to charge their phones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is violence allowed?",
+        "No, but my producers get a big bonus if it happens anyway."
+      ]
+    }
+  ]
+}

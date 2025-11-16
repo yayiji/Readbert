@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I checked up on all of the interns I've mentored over the years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Most of them died from self-inflicted injuries."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the rest?",
+        "The rest were killed by other people."
+      ]
+    }
+  ]
+}

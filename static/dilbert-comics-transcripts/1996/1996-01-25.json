@@ -1,0 +1,25 @@
+{
+  "date": "1996-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've asked Dogbert to help us get rid of our most troublesome customers.",
+        "Grrr"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ten percent of your customers account for ninety percent of your service costs. They must be eliminated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that the same group of customers who actually use our product?",
+        "Plus the ones who were injured unpacking it."
+      ]
+    }
+  ]
+}

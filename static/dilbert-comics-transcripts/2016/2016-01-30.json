@@ -1,0 +1,27 @@
+{
+  "date": "2016-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you threaten to kill Dick?",
+        "He accused me of being a terrorist!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you?",
+        "Gaaa! I just want to blow up this whole building!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... I need to make a call.",
+        "Continued...",
+        "It better not be about me!"
+      ]
+    }
+  ]
+}

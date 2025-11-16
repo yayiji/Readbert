@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Five-star hotel",
+        "I'd like a wake-up call at 6 a.m. and a second one at 6:15."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I'd like a team of bellmen to lift the head of the bed while blind maids hold my pants so I can slide into them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why yes, as a matter of fact, I am a manager."
+      ]
+    }
+  ]
+}

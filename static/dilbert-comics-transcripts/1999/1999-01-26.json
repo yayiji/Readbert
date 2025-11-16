@@ -1,0 +1,24 @@
+{
+  "date": "1999-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As usual, Carol is on the phone yelling at her kids."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wait, like a cheetah, for a chance to ask her for the key to the supply cabinet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you waiting like a cheetah?",
+        "I'm more of a panda."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "1990-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "... A revolutionary fitness discovery!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Melt pounds away with the \"Alpine Ski Machine.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No exercise required."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Dial 1-800..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't imagine how this melts away the pounds."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Uh-oh... I can't reach the release."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

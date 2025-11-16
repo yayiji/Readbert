@@ -1,0 +1,54 @@
+{
+  "date": "2007-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our travel budget is shot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll take money out of the training budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need training to support our new product."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We'll use the software budget for training."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We need to do a mandatory software upgrade."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Fine. Move some money from the travel budget to the software budget."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Geez, you people do nothing but complain. Meanwhile I'm managing my brains out."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wondered what happened to them.",
+        "Happened to what?"
+      ]
+    }
+  ]
+}

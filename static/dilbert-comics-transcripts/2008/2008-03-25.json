@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I hired famed archaeologist Dogbert to find the budget report in the clutter of your desk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This appears to be a copier repairman skull, possibly a Ricoh or Kyocera."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think he used tools.",
+        "Not fast enough."
+      ]
+    }
+  ]
+}

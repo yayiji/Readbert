@@ -1,0 +1,23 @@
+{
+  "date": "2009-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't afford my mortgage because of my pay cut. The bank will take my house."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I saved a bundle by being a renter. I should buy your house for next to nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too soon?"
+      ]
+    }
+  ]
+}

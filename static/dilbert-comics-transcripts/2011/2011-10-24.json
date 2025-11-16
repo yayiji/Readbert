@@ -1,0 +1,27 @@
+{
+  "date": "2011-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone, this is Wally. He's our subject matter expert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Groan",
+        "Uh-oh",
+        "Sheesh",
+        "Oh well",
+        "Ugh"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People are better than you'd think at judging a book by its cover."
+      ]
+    }
+  ]
+}

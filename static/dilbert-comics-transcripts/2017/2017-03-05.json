@@ -1,0 +1,57 @@
+{
+  "date": "2017-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you take a look at the prototype? It keeps crashing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was just leaving for the day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It will only take ten minutes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I came to work early so I could leave early and beat the traffic."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No problem.",
+        "It will only take ten minutes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's never ten minutes!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "People always say it will be ten minutes, but it's never ten minutes!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I give up!",
+        "Where is it?",
+        "Find it in the lab.",
+        "I need to leave early to beat the traffic."
+      ]
+    }
+  ]
+}

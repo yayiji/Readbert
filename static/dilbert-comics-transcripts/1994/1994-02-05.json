@@ -1,0 +1,24 @@
+{
+  "date": "1994-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got my 3-D stereo for life-like sound."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got high definition television for life-like video."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a life yet?",
+        "No, but I'm darn close."
+      ]
+    }
+  ]
+}

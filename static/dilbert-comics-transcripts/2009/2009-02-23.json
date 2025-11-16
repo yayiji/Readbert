@@ -1,0 +1,24 @@
+{
+  "date": "2009-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for coming on short notice.",
+        "I called this meeting because..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Company policy allows me to order donuts for any meeting that includes customers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't work on commission."
+      ]
+    }
+  ]
+}

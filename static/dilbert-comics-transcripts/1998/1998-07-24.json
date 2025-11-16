@@ -1,0 +1,24 @@
+{
+  "date": "1998-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Apparently my boss has been replaced by a highly intelligent alien."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means my real boss is being held captive in some sort of hideous alien prison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you plan to do about it?",
+        "It was just an observation."
+      ]
+    }
+  ]
+}

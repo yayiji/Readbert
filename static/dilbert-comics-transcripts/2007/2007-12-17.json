@@ -1,0 +1,23 @@
+{
+  "date": "2007-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have good experience as a dead horse, but can you take a beating?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, you think you can ignore my questions, do you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cancel all of my meetings. This could take a few more hours."
+      ]
+    }
+  ]
+}

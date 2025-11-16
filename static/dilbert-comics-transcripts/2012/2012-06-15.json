@@ -1,0 +1,26 @@
+{
+  "date": "2012-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to attend a standards meeting in Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heh, heh. A lot of things are legal in Elbonia that aren't legal here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are any of you not libertarians?",
+        "Heh,",
+        "heh,",
+        "heh."
+      ]
+    }
+  ]
+}

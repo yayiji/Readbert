@@ -1,0 +1,25 @@
+{
+  "date": "2017-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who are you?",
+        "I'm an engineer on an unfunded project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm attending random meetings to see if I can shake loose some spare budget money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll be talking about the mandatory software upgrade.",
+        "Sounds like a huge waste of money."
+      ]
+    }
+  ]
+}

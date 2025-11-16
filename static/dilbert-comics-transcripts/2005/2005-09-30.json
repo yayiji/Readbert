@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a job offer from another company, but I'll give you a chance to buy my loyalty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I just sit back and let the loving begin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And his opening offer is...",
+        "That's right: whack him in the parking lot."
+      ]
+    }
+  ]
+}

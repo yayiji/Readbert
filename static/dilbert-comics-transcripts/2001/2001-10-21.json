@@ -1,0 +1,56 @@
+{
+  "date": "2001-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The employees figured out that they won't get raises next year because profits are in the dumps."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And they're being rational about it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We are free from the tyranny of having to work hard for raises.",
+        "Ooh-yah!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But there's a delicate balance because we don't want to be down-sized."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I figure we can either have bad attitudes or bad performance but not both."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think I'll try having a bad attitude.",
+        "I'm a bad performance man myself."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I just realized that my entire job can be done by guessing.",
+        "Hey, dip-weed."
+      ]
+    }
+  ]
+}

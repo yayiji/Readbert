@@ -1,0 +1,24 @@
+{
+  "date": "2013-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we raise $40,000 for charity, I will shave my head!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And if we raise no money at all, I will shave my head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's messed up.",
+        "Is it?"
+      ]
+    }
+  ]
+}

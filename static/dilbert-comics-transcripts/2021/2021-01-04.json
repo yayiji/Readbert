@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, your performance reviews will be based on your DNA alone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your boss can't tell when you are lying about your accomplishments, but a simple test can tell me if you have loser DNA."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't believe that is possible.",
+        "That response is how I know you have it. Your test is done."
+      ]
+    }
+  ]
+}

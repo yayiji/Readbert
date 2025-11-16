@@ -1,0 +1,53 @@
+{
+  "date": "1999-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Patty is our new \"process manager.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Patty doesn't know how to do anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She only knows how to do things better!",
+        "Process!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, this meeting is poorly managed because you have no process."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And this intern obviously had no process for deciding whether to attend."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, Patty is annoying.",
+        "All in favor of getting rid of her."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You lasted longer than Timmy the \"facilitator.\""
+      ]
+    }
+  ]
+}

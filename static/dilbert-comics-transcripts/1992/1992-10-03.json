@@ -1,0 +1,30 @@
+{
+  "date": "1992-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you ever had a strange dream or a nosebleed?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's clear that you're suppressing memories of being abducted by aliens. I can use hypnosis to get at those memories."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if the hypnosis itself makes me think it happened when it didn't? I'll be scorned and ridiculed for life.",
+        "That's a risk I'm willing to take."
+      ]
+    }
+  ]
+}

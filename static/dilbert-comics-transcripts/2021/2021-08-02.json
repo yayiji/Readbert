@@ -1,0 +1,25 @@
+{
+  "date": "2021-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you don't need a mask for a zoom call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I do it to hide my mouth so you can't tell I have a second job and I'm talking to them on a zoom call at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait, what?",
+        "I'm not talking to you.",
+        "Settle down."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2016-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the software coming along? Almost done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Still waiting for you to give me the specs so I can start."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already told you it's a cloud app that does data."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hey, I can't do your job for you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You have to meet me halfway."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aren't you supposed to be \"agile\"?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I mean, how hard is it to rearrange zeroes and ones all day?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Should I ask again tomorrow?",
+        "Sure, if you're alive."
+      ]
+    }
+  ]
+}

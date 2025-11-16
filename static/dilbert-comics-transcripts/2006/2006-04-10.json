@@ -1,0 +1,23 @@
+{
+  "date": "2006-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need you to be less productive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll get an automatic promotion if I can justify hiring one more direct report."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I'm going to work like an idiot, I might as well look like one."
+      ]
+    }
+  ]
+}

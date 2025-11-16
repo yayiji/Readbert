@@ -1,0 +1,25 @@
+{
+  "date": "1989-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like they under-charged me twelve cents on the lettuce."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I should go back and give them the twelve cents.",
+        "But I'm sure they would tell me to keep it for being so honest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...I have a report of a flimsy rationalization in progress.",
+        "Try the kitchen."
+      ]
+    }
+  ]
+}

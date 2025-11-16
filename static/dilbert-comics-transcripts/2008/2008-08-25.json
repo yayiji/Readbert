@@ -1,0 +1,26 @@
+{
+  "date": "2008-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our spies stole this laptop from an employee named Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! We will find his company's secrets and use them!",
+        "Heh-heh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Six months later",
+        "Do you remember mittens? I loved having mittens.",
+        "Shut up!!"
+      ]
+    }
+  ]
+}

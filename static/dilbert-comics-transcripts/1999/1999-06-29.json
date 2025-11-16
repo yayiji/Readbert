@@ -1,0 +1,25 @@
+{
+  "date": "1999-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cube farming",
+        "He outgrew his container."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll replant him in a big container with a door."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do tall guys always get picked?",
+        "I'm sure there's a good reason."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "There will be no layoffs after the merger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "However, many of you will be transferred to jobs on a frozen asteroid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will we have protective space suits?",
+        "I label you \"not a team player.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I tried to get approval from the head of marketing, but the reorg makes it impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The outgoing director says I need to ask the incoming director, but that person hasn't been named."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bring me solutions, not problems.",
+        "Forgery it is."
+      ]
+    }
+  ]
+}

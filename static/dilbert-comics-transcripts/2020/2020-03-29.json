@@ -1,0 +1,61 @@
+{
+  "date": "2020-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you tell our pointy-haired boss we need to do more testing on the prototype?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't do anything of the sort."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carl says you did."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Who is a better authority on what I said – a guy who wasn't in the room or me?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Good question.",
+        "On one hand, Carl is an idiot and a known liar."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "On the other hand, it is common for guilty people to say they are innocent."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What do innocent people say when you accuse them of stuff?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Who knows?",
+        "Just don't do it again."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I didn't do it once!!!"
+      ]
+    }
+  ]
+}

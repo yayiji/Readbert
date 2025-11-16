@@ -1,0 +1,25 @@
+{
+  "date": "2015-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the post-mortem on our failed project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What was the problem?",
+        "People."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The wrong ones?",
+        "Don't over-think it."
+      ]
+    }
+  ]
+}

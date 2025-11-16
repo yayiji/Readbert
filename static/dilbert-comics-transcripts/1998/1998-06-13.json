@@ -1,0 +1,23 @@
+{
+  "date": "1998-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dangerous asbestos has been found in every room in our building."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The problem will be addressed using a scientific process."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Something called attrition."
+      ]
+    }
+  ]
+}

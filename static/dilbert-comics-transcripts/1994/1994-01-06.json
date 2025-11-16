@@ -1,0 +1,24 @@
+{
+  "date": "1994-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The boss's brain",
+        "Hummm"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Theoretically, if I cut costs enough we'll be profitable without selling any products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do they get the ink in these things?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won a huge government contract."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now we need to follow all of our company policies plus every government procurement rule."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like I'm being smothered by a damp mattress!",
+        "That's what victory feels like!"
+      ]
+    }
+  ]
+}

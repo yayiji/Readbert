@@ -1,0 +1,27 @@
+{
+  "date": "2006-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your coffee.",
+        "Maybe the wizard can give you some ambition.",
+        "Aaah..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aren't you afraid that the wicked witch will send her winged cat after us?",
+        "Say what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need headcount for my project.",
+        "Bring them to me!"
+      ]
+    }
+  ]
+}

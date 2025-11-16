@@ -1,0 +1,25 @@
+{
+  "date": "2004-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Customer visit",
+        "I can see from your zombie stare that you don't understand technical talk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me try it in a language I call \"liberal arts major.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's blue.",
+        "It has a color??!"
+      ]
+    }
+  ]
+}

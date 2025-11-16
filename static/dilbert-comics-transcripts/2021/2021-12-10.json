@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a dream about you last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What was I doing?",
+        "You were screaming, \"Stop hitting me!\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you stop?",
+        "No, it was a dream, not a nightmare."
+      ]
+    }
+  ]
+}

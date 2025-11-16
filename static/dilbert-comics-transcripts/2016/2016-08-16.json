@@ -1,0 +1,29 @@
+{
+  "date": "2016-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought new software for our network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who helped you on the technical side?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The vendor."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He said our current software uses the wrong kind of electricity."
+      ]
+    }
+  ]
+}

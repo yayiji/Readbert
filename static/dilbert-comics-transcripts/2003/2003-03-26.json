@@ -1,0 +1,26 @@
+{
+  "date": "2003-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Furniture psychic",
+        "Your old chair has passed to the other side."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He says you'll know what this means: \"Squeak, squeak.\"",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your desk says, \"Thanks for the gum.\"",
+        "I need closure!"
+      ]
+    }
+  ]
+}

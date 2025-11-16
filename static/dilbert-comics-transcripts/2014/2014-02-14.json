@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I sign up for a workshop on how to deal with difficult co-workers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People will be using those methods against me, and I need to know how to thwart their countermeasures."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will you leave my office if I say yes?",
+        "Where did you learn that trick?!!"
+      ]
+    }
+  ]
+}

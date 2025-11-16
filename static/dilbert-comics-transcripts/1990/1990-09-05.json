@@ -1,0 +1,24 @@
+{
+  "date": "1990-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's new age mineral water spa. Hand over the cash."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hold it... the vibes from my crystal tell me we knew each other in a previous life... in Atlantis!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's what you told the last guy, too.",
+        "Atlantis was a small town. I ran the only donut shop."
+      ]
+    }
+  ]
+}

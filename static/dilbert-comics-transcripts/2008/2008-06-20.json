@@ -1,0 +1,25 @@
+{
+  "date": "2008-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "We've installed surveillance cameras to monitor your work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It might seem like an unconscionable assault on your privacy, but you'll get used to it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm already a little bit used to it.",
+        "Used to what?"
+      ]
+    }
+  ]
+}

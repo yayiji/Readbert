@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, as my new body double, your job is to walk into ambushes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If someone tries to trap you into being helpful, do what I would do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would you do?",
+        "I'd get a body double."
+      ]
+    }
+  ]
+}

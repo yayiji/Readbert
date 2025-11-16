@@ -1,0 +1,25 @@
+{
+  "date": "2013-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Should we buy the maintenance plan or just take our chances?",
+        "What do you prefer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I prefer to punish you for buying the maintenance plan and going over budget.",
+        "But I also don't mind firing you for not buying it if we later need it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which one of us has a better job?"
+      ]
+    }
+  ]
+}

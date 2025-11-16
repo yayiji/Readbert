@@ -1,0 +1,48 @@
+{
+  "date": "2015-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're a perfect employee in so many ways.",
+        "I am?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, you have excellent technical skills.",
+        "That's true."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your attendance is perfect.",
+        "Yes, it is."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And you are too risk-averse to quit and start your own company.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Plus you have no social life to interfere with work.",
+        "Are these still compliments?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Combine all of that with your irrational need for approval, and it makes you a code-writing puppet.",
+        "Did I already say you're underpaid?",
+        "Stop complimenting me!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2010-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your data are weak.",
+        "Make your move!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sending you a link!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sending you three links!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't have time for this.",
+        "Winner!"
+      ]
+    }
+  ]
+}

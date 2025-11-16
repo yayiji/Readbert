@@ -1,0 +1,29 @@
+{
+  "date": "2020-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop using your speakerphone! I'm trying to make a Zoom call!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can still hear you! Go in the other room! I said go in the other room!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Being married sounds fun."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can still hear you!"
+      ]
+    }
+  ]
+}

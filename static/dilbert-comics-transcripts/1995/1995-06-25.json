@@ -1,0 +1,61 @@
+{
+  "date": "1995-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take care of this, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Take care of this\"? This would double my workload."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've already got so many projects that I can't do anything useful with any of them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But if success is impossible then...",
+        "I'm...free."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Free!",
+        "Free!",
+        "Ha",
+        "Ha ha ha",
+        "Ha"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The result will be the same no matter what I do!",
+        "Yes yes yes"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Honk",
+        "Honk!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Moving along...we need to inventory our office equipment.",
+        "Sounds like a job for Alice."
+      ]
+    }
+  ]
+}

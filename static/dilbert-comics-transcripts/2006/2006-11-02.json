@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll need a name for this product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do you call something that just occupies space and smells bad?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was your name again?",
+        "I don't like where this is heading."
+      ]
+    }
+  ]
+}

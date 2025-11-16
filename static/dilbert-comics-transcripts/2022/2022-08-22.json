@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you had three full-time jobs during the pandemic. How did you get it all done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I worked from home and told all three employers I couldn't complete my projects because of supply chain issues."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you're a liar?",
+        "I prefer \"opportunist.\""
+      ]
+    }
+  ]
+}

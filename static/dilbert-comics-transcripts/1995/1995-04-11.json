@@ -1,0 +1,24 @@
+{
+  "date": "1995-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, so we shipped a million keyboards that don't have the letter \"Q.\" What do we do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We could offer free upgrades to users who can prove they need a \"Q.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many users need a \"Q\"?",
+        "Well... there's the royal family..."
+      ]
+    }
+  ]
+}

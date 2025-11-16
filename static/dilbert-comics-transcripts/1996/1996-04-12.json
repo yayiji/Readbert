@@ -1,0 +1,26 @@
+{
+  "date": "1996-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I understand you've sentenced Dilbert to death.",
+        "Is that a problem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My assistant, Bob the dinosaur, will now demonstrate how to give a cat a \"fur wedgie.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been pardoned.",
+        "Somehow they lost the paperwork ordering my execution.",
+        "It probably fell into a crack."
+      ]
+    }
+  ]
+}

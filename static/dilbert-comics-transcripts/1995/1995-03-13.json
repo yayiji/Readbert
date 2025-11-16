@@ -1,0 +1,23 @@
+{
+  "date": "1995-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I promise that if I decide to buy your company I'll gladly recommend a position for each of you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? You'd make sure we all got jobs?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, but I'll recommend a \"position\"."
+      ]
+    }
+  ]
+}

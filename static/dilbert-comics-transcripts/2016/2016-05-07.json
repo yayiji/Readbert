@@ -1,0 +1,25 @@
+{
+  "date": "2016-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The entitled employee",
+        "I'll need a raise because I bought a luxury car."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your pay is based on your performance, not your personal expenses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You leave me no choice but to keep the car and not pay for it.",
+        "Tell them you deserve it."
+      ]
+    }
+  ]
+}

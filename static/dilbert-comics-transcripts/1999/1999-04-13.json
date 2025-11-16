@@ -1,0 +1,25 @@
+{
+  "date": "1999-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, come to my secret lair and I will teach you about reality."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your secret lair is a dumpster?",
+        "Get in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's like my cubicle, but with much better lumbar support!",
+        "French fry?"
+      ]
+    }
+  ]
+}

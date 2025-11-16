@@ -1,0 +1,56 @@
+{
+  "date": "1994-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I brought Dilbert, in case you have any technical questions about our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heh-heh... Engineers don't know how to lie. The truth will be mine.",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted said your product is bug-free. Is that true, Dilbert?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well... yes, that's true."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I mean... basically true. Technically true. Sort of...",
+        "Phew."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No-o-o!! It's a lie! All the bugs were reclassified as security features just to make the ship date!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And we both think you could be attractive if you'd just do something with your hair."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why did I bring you along?",
+        "The evidence suggests that you're stupid."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1997-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert mutual fund",
+        "I don't understand why any intelligent investor would put money in a fund that has no track record."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I try to steer clear of intelligent investors.",
+        "Here's my life's savings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want my name and address?",
+        "No, I trust you."
+      ]
+    }
+  ]
+}

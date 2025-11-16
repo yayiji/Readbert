@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show it takes ten thousand hours of practice to be great at anything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would think a willingness to practice the same thing for ten thousand hours is a mental disorder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That makes me feel better about my mediocrity.",
+        "You're welcome."
+      ]
+    }
+  ]
+}

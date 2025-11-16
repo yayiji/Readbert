@@ -1,0 +1,56 @@
+{
+  "date": "1991-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, do a presentation for the big boss tomorrow morning on the status of your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There isn't any status.",
+        "You only assigned the project an hour ago."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well then, do a presentation on why there's no status."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't have time before tomorrow morning."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, then just do a presentation on why there's no time to do a presentation of the status."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I want to review it two days before you present it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That would be yesterday."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Should I do a presentation on why tomorrow is less than two days from today?",
+        "Hmm...good.",
+        "The boss likes that analytical stuff."
+      ]
+    }
+  ]
+}

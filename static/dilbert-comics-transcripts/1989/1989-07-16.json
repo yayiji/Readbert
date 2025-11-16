@@ -1,0 +1,54 @@
+{
+  "date": "1989-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's contract renewal time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What contract?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The owner/pet contract; ours expires at midnight."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gosh. I don't even remember signing the original one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's see... \"The pet's responsibility is to obey the owner's commands, no matter how humiliating.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "\"The owner's responsibilities include yelling at the pet and acting important.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, I'll sign...",
+        "Wait a minute... my name is typed in under \"Pet\"!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So close..."
+      ]
+    }
+  ]
+}

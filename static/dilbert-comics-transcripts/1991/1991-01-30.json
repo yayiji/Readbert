@@ -1,0 +1,26 @@
+{
+  "date": "1991-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cough.",
+        "Cawf",
+        "Cawf"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sing \"Life is a cabaret\" like Liza Minnelli.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I left my Sony Walkman at home."
+      ]
+    }
+  ]
+}

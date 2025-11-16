@@ -1,0 +1,57 @@
+{
+  "date": "1999-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert presents",
+        "Managing by analogies",
+        "It's easy!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll solve our distribution problem the Eskimo way.",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The Eskimos gather ice all winter long."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Later, during the lean summer months, the Eskimos eat the ice they stored."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We'll do the same thing!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But... the Eskimos would starve if they only ate ice."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe they eat penguins too.",
+        "They're delicious."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you know that the zoo can ban you for life if they catch you using a hibachi?"
+      ]
+    }
+  ]
+}

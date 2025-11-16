@@ -1,0 +1,25 @@
+{
+  "date": "2017-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone at work thinks I'm a liar because of a false rumor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it makes you feel any better, I know you aren't a liar."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you. That does help.",
+        "I see you as more of an idiot.",
+        "And you're welcome."
+      ]
+    }
+  ]
+}

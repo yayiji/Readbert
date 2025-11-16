@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone thinks you're scaling the network wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? Everyone thinks that? Or is it maybe just one person who can't support his own argument?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And would that one person be you?",
+        "How did you do that?"
+      ]
+    }
+  ]
+}

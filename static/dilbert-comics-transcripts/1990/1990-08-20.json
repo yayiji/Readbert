@@ -1,0 +1,27 @@
+{
+  "date": "1990-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great... not only am I being forced to work in the accounting department, but I'm slowly turning into a troll.",
+        "Budget erasing unit"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait a minute... this is the budget for the accounting department itself... what happens if I erase it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boss!!? Boss!!?",
+        "Help me!",
+        "I'm melting!",
+        "Aaaagh!!"
+      ]
+    }
+  ]
+}

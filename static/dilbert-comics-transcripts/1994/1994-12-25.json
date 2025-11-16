@@ -1,0 +1,54 @@
+{
+  "date": "1994-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's seven o'clock, Ed. Time to call it a night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm planning to work all night."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not very bright so I work long hours to compensate."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ed, we're not better off when you do extra work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not quite following your logic."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We all worked late undoing what you did yesterday."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We voted to duct-tape you to your chair."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's uncanny how many problems you can solve with duct tape.",
+        "Sometimes I use it instead of underwear."
+      ]
+    }
+  ]
+}

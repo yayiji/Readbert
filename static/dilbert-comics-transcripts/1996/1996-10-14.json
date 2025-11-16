@@ -1,0 +1,24 @@
+{
+  "date": "1996-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm putting you in charge of developing our booth for the big trade show."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I picked you because the males in the department have disqualified themselves through a process of strategic incompetence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is strategic incompetence?",
+        "I had that written down someplace, but I lost it."
+      ]
+    }
+  ]
+}

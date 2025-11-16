@@ -1,0 +1,25 @@
+{
+  "date": "2006-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wanted to discuss the...",
+        "Whoa! Stop."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Large doses of caffeine allow me to see the future. I already know what both of us will say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're a freak.",
+        "And then I say, \"And then I say...\""
+      ]
+    }
+  ]
+}

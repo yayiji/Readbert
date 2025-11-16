@@ -1,0 +1,53 @@
+{
+  "date": "1990-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do people collect stamps?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because they're valuable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are they valuable?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because people collect up all the good ones."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So, you collect stamps because they're valuable, and they're valuable because you collect them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Right."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Sounds pretty fulfilling."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "To be honest, I just do it for the adrenalin rush."
+      ]
+    }
+  ]
+}

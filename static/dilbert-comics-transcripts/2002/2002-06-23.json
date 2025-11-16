@@ -1,0 +1,56 @@
+{
+  "date": "2002-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'd like you to interview Matt for our department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a three-year gap in your work history.",
+        "What were you doing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One day I was balancing my checkbook and noticed a bank error."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So I embarked on a three-year mission to make the bank admit its mistake!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I worked the phones day and night, rarely eating or bathing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then came the sit-ins, the media frenzy and the landmark court case."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The bank claimed that seven minus four is three.",
+        "And I'm like, \"Since when?\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would he fit in?",
+        "Unfortunately, yes."
+      ]
+    }
+  ]
+}

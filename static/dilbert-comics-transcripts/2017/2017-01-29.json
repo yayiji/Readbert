@@ -1,0 +1,54 @@
+{
+  "date": "2017-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why isn't anyone else here yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you tell them you changed the meeting time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I asked you to tell everyone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That isn't my job."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then why didn't you tell me you weren't going to do it?!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It isn't my job to tell you what isn't my job.",
+        "Now this meeting is a waste of time."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does your job description tell you to attend meetings that are worthless?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I didn't know there were other kinds."
+      ]
+    }
+  ]
+}

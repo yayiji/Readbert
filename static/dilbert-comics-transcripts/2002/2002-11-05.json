@@ -1,0 +1,23 @@
+{
+  "date": "2002-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What happened while I was in jail?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Morale skyrocketed, profits soared, and for the first time, life had meaning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's just my luck that I'd miss those two days."
+      ]
+    }
+  ]
+}

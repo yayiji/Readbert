@@ -1,0 +1,25 @@
+{
+  "date": "1998-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Meeting with a vendor",
+        "I'm Larry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And these people are my vast array of unnecessary tag-alongs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does your product do?",
+        "We didn't bring the guy who knows that."
+      ]
+    }
+  ]
+}

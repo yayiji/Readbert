@@ -1,0 +1,24 @@
+{
+  "date": "2003-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Senior management knows they need to retain key employees during hard times."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why they're giving themselves huge retention bonuses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, they're blackmailing themselves?",
+        "You can make anything sound bad."
+      ]
+    }
+  ]
+}

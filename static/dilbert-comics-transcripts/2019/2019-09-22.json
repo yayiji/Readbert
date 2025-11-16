@@ -1,0 +1,54 @@
+{
+  "date": "2019-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ben, from marketing, is here to give us a preview of our new TV ad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The opening scene shows a bunch of men who are weak and stupid, failing to solve a common problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then a confident and strong woman enters and solves the problem with ease."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Isn't that incredibly sexist?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, because only the men are weak and stupid."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And that's not sexist?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why are you being so weak and stupid? You sound like a bigot."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll be quiet now.",
+        "As quickly as it began, the rebellion was quashed."
+      ]
+    }
+  ]
+}

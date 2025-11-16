@@ -1,0 +1,26 @@
+{
+  "date": "2009-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late.",
+        "My company cut the travel budget so I had to hitch a ride with a serial killer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He took me to an abandoned slaughter house.",
+        "I knocked him out with a hambone, stole his truck and drove directly here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I heard was \"Blah, blah, blah, I'm late.\"",
+        "Don't make me get my hambone."
+      ]
+    }
+  ]
+}

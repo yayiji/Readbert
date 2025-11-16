@@ -1,0 +1,54 @@
+{
+  "date": "1994-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your proposal doesn't address the alternatives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There aren't any reasonable alternatives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There are always alternatives! Give me alternatives!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No wonder nothing gets done around here - not enough alternatives."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We could lobby the government to give tax breaks to all idiot-run businesses."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I could quit this stupid job and start a new career handing out towels at the gym."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or we could use cow chips instead of microchips and save millions."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's a cow chip?",
+        "This job would be an example."
+      ]
+    }
+  ]
+}

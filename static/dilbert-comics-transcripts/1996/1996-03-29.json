@@ -1,0 +1,24 @@
+{
+  "date": "1996-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm hoping you'll agree to write about your project for the newsletter..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And in the grand tradition of engineering, I expect you'll give this the lowest priority, thus making me despise you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... are you saying you don't despise me now?",
+        "We are not having a \"moment\" here!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I agreed to ship project \"Dewdrop\" to some customers for beta testing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't you read my test report? Dewdrop explodes when you plug it in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll limit the beta trial to friendly customers.",
+        "We killed all the friendly ones with project \"Ducky.\""
+      ]
+    }
+  ]
+}

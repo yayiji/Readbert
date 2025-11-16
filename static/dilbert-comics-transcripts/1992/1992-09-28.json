@@ -1,0 +1,24 @@
+{
+  "date": "1992-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become a demagogue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll find some issue that appeals to the emotions and blind prejudices of the masses, then I'll whip it into a media frenzy and become a national figure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example, unmarried men are responsible for most of our violent crimes.",
+        "That's because we tend to have pets."
+      ]
+    }
+  ]
+}

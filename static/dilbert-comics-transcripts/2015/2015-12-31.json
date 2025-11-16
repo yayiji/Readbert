@@ -1,0 +1,24 @@
+{
+  "date": "2015-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do all of the women I hire quit within the first week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm guessing they have high standards, or something along those lines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They seem to quit soon after they meet you.",
+        "Hypothesis confirmed."
+      ]
+    }
+  ]
+}

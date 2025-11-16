@@ -1,0 +1,30 @@
+{
+  "date": "2020-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent all week trying to sign into an app that stopped working for some reason."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you got it to work in the end?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, all I did was learn to hate the developers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How do you plan to solve that?",
+        "I don't need to. It isn't an app I need."
+      ]
+    }
+  ]
+}

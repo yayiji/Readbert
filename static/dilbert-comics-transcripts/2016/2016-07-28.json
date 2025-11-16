@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's called a dashboard. It shows the current status of all our projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With a tool like this, you never need to ask us for status updates."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd the fake dashboard gambit work out?",
+        "Great! He hasn't talked to me in weeks."
+      ]
+    }
+  ]
+}

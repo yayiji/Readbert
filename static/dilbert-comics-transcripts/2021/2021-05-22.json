@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be forty minutes late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just wasted twenty minutes waiting! Why didn't you tell me as soon as you knew?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I knew you would be a jerk about it, so I punished you.",
+        "Oh."
+      ]
+    }
+  ]
+}

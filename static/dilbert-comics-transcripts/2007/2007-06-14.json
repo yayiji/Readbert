@@ -1,0 +1,24 @@
+{
+  "date": "2007-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What does my forehead say?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I keep forgetting my password, so I wrote it on my head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is your password 123?",
+        "I just said I don't know."
+      ]
+    }
+  ]
+}

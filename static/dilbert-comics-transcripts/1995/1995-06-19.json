@@ -1,0 +1,23 @@
+{
+  "date": "1995-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been hired by the finance department to help cut spending."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be studying your every move and looking for waste and inefficiency."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Those words in boldface look like they're sucking up the ol' electricity."
+      ]
+    }
+  ]
+}

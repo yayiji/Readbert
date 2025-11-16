@@ -1,0 +1,23 @@
+{
+  "date": "2017-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't come to work today. I'm totally sick."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to your employee health monitor, you're not sick at all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stupid snitch!!!"
+      ]
+    }
+  ]
+}

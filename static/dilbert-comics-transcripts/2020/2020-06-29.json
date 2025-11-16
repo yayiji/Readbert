@@ -1,0 +1,23 @@
+{
+  "date": "2020-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The news says there's a major outbreak of cooties in Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't think cooties is a real thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Experts say one of the symptoms of cooties is \"denying science.\""
+      ]
+    }
+  ]
+}

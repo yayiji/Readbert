@@ -1,0 +1,23 @@
+{
+  "date": "1991-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did you do in the stand-up comedy competition?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was halfway through my first joke -- about old people, when an elderly woman dragged me off stage and slapped the bejeezus out of me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...It was good enough for third place."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2008-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You let Dilbert have two flat screen monitors in his cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not the least bit envious, but I should point out that a worker with two monitors should be able to do twice as much work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know there are some advantages to having only one monitor?"
+      ]
+    }
+  ]
+}

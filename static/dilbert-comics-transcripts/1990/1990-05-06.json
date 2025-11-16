@@ -1,0 +1,42 @@
+{
+  "date": "1990-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey dog! What's the quickest way to go to the hospital?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Drive as fast as you can into that tree."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the second quickest way?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hmm... well, go left, then right, right, left, left, left, right, left, left, left, left."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Thanks!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Actually, I have no idea how to get to the hospital...",
+        "But I didn't want him to think I'm a jerk."
+      ]
+    }
+  ]
+}

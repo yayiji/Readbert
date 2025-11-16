@@ -1,0 +1,27 @@
+{
+  "date": "2003-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I understand you've been using a giant magnifying glass as a death ray in the office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not a death ray.",
+        "I use it only to burn off toupees.",
+        "Oh...",
+        "That's okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is your head too warm?",
+        "My head is too warm."
+      ]
+    }
+  ]
+}

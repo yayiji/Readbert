@@ -1,0 +1,23 @@
+{
+  "date": "1990-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People catch worms to go fishing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People eat fish that just ate worms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There is definitely a wasted step here."
+      ]
+    }
+  ]
+}

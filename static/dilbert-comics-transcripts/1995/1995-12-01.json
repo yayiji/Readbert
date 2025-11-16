@@ -1,0 +1,26 @@
+{
+  "date": "1995-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We just shipped our newest product.",
+        "You folks in tech support will need to be trained so you can avoid any embarrassments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We had a monk write the training material on a grain of rice.",
+        "We could only afford one, so you'll have to share it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To be honest, I'm not sure we had a real monk.",
+        "He wrote everything in Pig Latin."
+      ]
+    }
+  ]
+}

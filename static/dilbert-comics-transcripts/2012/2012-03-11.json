@@ -1,0 +1,55 @@
+{
+  "date": "2012-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you get the email I texted you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What? That doesn't even make sense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What the heck is wrong with you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let it go. He slips in and out of understanding basic technology."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do we have enough room in the cloud to Skype?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Because if we don't, we can store some files on the Wi-Fi."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I got this.",
+        "We have plenty of space because we upgraded to a Cumulonimbus cloud."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Very good.",
+        "Moving on."
+      ]
+    }
+  ]
+}

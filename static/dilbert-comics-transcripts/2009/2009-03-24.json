@@ -1,0 +1,26 @@
+{
+  "date": "2009-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the CEO",
+        "Until the company returns to profit-ability I will only fly coach."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll book three coach seats in a row so I can stretch out.",
+        "One of you will be a sherpa for my bedding."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bring my own air marshal to punch anyone who talks while I'm napping.",
+        "And a videographer so I can see the playback when I wake up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company policy says we must shred all proprietary documents."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But make copies first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we shred the copies too?",
+        "Do I have to do all the thinking around here?"
+      ]
+    }
+  ]
+}

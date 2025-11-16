@@ -1,0 +1,24 @@
+{
+  "date": "1999-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet our new sacrificial lamb."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I filled our head-count vacancy so we have someone to dump after the next budget cut."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we shake hands?",
+        "I don't want to get attached."
+      ]
+    }
+  ]
+}

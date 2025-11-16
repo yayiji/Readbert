@@ -1,0 +1,74 @@
+{
+  "date": "2004-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, come in here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I keep clicking on this link and nothing happens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "See?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Try something else.",
+        "Why would I do that?",
+        "Click",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The definition of insanity is: doing the same thing and expecting a different result.",
+        "Click",
+        "Click click",
+        "Click click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hey, it worked this time!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What we have here is a bad precedent.",
+        "They called me \"crazy.\""
+      ]
+    }
+  ]
+}

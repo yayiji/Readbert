@@ -1,0 +1,57 @@
+{
+  "date": "1991-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh...",
+        "Click click click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm paralyzed by the television.",
+        "Click click click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm uninterested in the shows, yet I can't stop clicking through all the channels.",
+        "Click click click"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Dogbert! Help! Come quickly!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do something! Knock the remote out of my hand!!",
+        "Click click click"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Rrrrr"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm free!! I'm free!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Click click click"
+      ]
+    }
+  ]
+}

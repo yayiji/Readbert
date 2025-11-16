@@ -1,0 +1,26 @@
+{
+  "date": "1995-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... the managers are going to another closed-door meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It must be about pay cuts or layoffs. I'm doomed.",
+        "I'd better work on my résumé now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, so far our \"leadership vision\" says \"we inspire employees to action.\"",
+        "Does anybody have upgrades?",
+        "Nah"
+      ]
+    }
+  ]
+}

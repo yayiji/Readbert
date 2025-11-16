@@ -1,0 +1,29 @@
+{
+  "date": "2000-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone stole my purse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I used my Navy Seal training to booby-trap my cubicle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaiee!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The mail is early today."
+      ]
+    }
+  ]
+}

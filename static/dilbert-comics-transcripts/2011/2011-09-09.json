@@ -1,0 +1,27 @@
+{
+  "date": "2011-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you read my technical recommendation?",
+        "No. It's too long and complicated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you plan to make a decision without reading it?",
+        "I'll use my gut."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's probably a good idea to keep your brain out of this.",
+        "Quiet! It's saying something.",
+        "Growl"
+      ]
+    }
+  ]
+}

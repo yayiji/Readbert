@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're losing market share to a company that has a remote workforce."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can they be doing so well when the employees don't have someone like you looking over their shoulders every minute?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know.",
+        "It's baffling."
+      ]
+    }
+  ]
+}

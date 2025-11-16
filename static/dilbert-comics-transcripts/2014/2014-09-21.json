@@ -1,0 +1,59 @@
+{
+  "date": "2014-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Make a powerpoint deck showing our progress on project unicorn."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There hasn't been any progress."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's okay. Use a large font."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Style is not a substitute for substance."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're thinking like a worker bee. There's no time for substance when you're at the top."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Executives only respond to familiar colors and shapes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Clouds, dollar signs...that sort of thing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...And in conclusion."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Come on slow clap."
+      ]
+    }
+  ]
+}

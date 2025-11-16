@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We will no longer be using you as a vendor because you have not performed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already knew that because you replaced us with one of the subsidiaries of my parent company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, at least it isn't you.",
+        "Who do you think they subcontract that work to?"
+      ]
+    }
+  ]
+}

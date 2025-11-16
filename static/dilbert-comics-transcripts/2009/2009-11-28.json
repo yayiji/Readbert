@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I just got the results of your security clearance background check."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Homeland security ordered me to beat you to death with our emergency preparedness binder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But... I haven't done anything wrong!",
+        "I might have said some things about your new beard."
+      ]
+    }
+  ]
+}

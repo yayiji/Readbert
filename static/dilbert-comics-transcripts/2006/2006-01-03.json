@@ -1,0 +1,24 @@
+{
+  "date": "2006-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh. Why am I still here? What's happening to me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I violated the third wall and now I can't get out!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogbert? Is that really you???",
+        "No, I'm Toto. We must follow the yellow sticky-note road."
+      ]
+    }
+  ]
+}

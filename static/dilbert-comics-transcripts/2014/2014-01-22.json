@@ -1,0 +1,29 @@
+{
+  "date": "2014-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have the data you requested last week because I didn't know how you wanted it formatted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could have asked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's only obvious in hindsight."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why does everyone stare at me that way?"
+      ]
+    }
+  ]
+}

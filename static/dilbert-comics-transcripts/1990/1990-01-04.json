@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to another meeting of the \"Skeptics Society.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tonight we will use scientific methods to debunk Edna Griffin's claim that she can turn an audience into a flock of chickens.",
+        "We'll need some volunteers..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Motion to adjourn...",
+        "Whoa, look at the time!"
+      ]
+    }
+  ]
+}

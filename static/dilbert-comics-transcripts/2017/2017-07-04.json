@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We hired an immersive VR employee and it's freaking me out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can only see him when I wear my VR goggles. I feel as if he's always watching me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like you're crazy. I can fix that with a prescription cocktail that will turn you into an entirely new person.",
+        "Run."
+      ]
+    }
+  ]
+}

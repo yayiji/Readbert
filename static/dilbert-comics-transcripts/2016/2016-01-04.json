@@ -1,0 +1,30 @@
+{
+  "date": "2016-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get everything done by the deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll stop by later to help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's funny."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What's funny?",
+        "Using incompetence as a substitute for time."
+      ]
+    }
+  ]
+}

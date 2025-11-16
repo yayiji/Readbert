@@ -1,0 +1,24 @@
+{
+  "date": "1991-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have completed our obligation to take a vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As usual, we hated every minute of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do we do it every year?",
+        "My theory is that you're stupid."
+      ]
+    }
+  ]
+}

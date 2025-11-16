@@ -1,0 +1,53 @@
+{
+  "date": "1998-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'm too tired to go get it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm in a downward spiral!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My arms go limp.",
+        "The antidote is only yards away but I am immobile."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe someone will notice and bring coffee."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My co-workers found me. I'm saved!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "As the frenzied mob yanked off my trousers, someone spilled coffee on me.",
+        "Wow, lucky."
+      ]
+    }
+  ]
+}

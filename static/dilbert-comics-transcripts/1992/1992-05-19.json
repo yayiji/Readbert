@@ -1,0 +1,25 @@
+{
+  "date": "1992-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! You bought Lenin's body?",
+        "Only ten dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I have to decide what to do with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could build a museum.",
+        "I was thinking of using him as a coffee table."
+      ]
+    }
+  ]
+}

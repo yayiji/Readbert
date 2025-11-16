@@ -1,0 +1,24 @@
+{
+  "date": "2011-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Check out my new smartphone!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The voice reception is a bit weak, but I can usually make a call if I keep my tongue on a flagpole."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You might be a victim of good marketing.",
+        "It has apps!"
+      ]
+    }
+  ]
+}

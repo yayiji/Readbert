@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't see why engineers get paid more than marketing professionals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe because engineers designed and built every important part of modern civilization and all you did was misrepresent it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My point is that you need both.",
+        "You really don't."
+      ]
+    }
+  ]
+}

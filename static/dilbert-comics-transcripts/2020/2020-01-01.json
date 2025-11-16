@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We finished the R.F.P. process and selected a vendor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it took so long that all of their technology is obsolete."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should I proceed stupidly?",
+        "It got us this far."
+      ]
+    }
+  ]
+}

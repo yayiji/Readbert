@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should be celebrating my failures instead of punishing me for them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Failure is the raw material of success. If I am not failing, it means I am not pushing myself hard enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fine. What have you failed at?",
+        "I failed to work on my project this month."
+      ]
+    }
+  ]
+}

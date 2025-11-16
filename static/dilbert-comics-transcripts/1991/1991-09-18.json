@@ -1,0 +1,25 @@
+{
+  "date": "1991-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting together a presentation for the big boss's staff meeting.",
+        "We hear he likes geometry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rectangles: the misunderstood parallelograms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's bound to spark controversy.",
+        "We believe in open communication."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, I bought you a Blackberry so I can send you e-mail day or night.",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you! I always wanted one of these!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "De-e-elicious."
+      ]
+    }
+  ]
+}

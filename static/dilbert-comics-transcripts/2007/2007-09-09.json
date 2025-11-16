@@ -1,0 +1,56 @@
+{
+  "date": "2007-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't have time to finish my tasks for this meeting.",
+        "No problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you get cornered, read this powerful anti-meeting spell."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Asok, did you finish the traffic estimates?",
+        "Erk"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... I was wondering if our new service is Web 2.0 or Web 1.0."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Obviously it's a Web 2.0 application because of the tag-based folksonomies."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No it isn't. All of our technology existed before the internet bubble."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "\"When\" doesn't matter. It only matters that we use the web as a platform!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Everything is a platform!",
+        "Freaky."
+      ]
+    }
+  ]
+}

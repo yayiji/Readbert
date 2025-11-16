@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ask my secretary to schedule a meeting.",
+        "Groan"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh... excuse me... excuse me... Miss Cerberus, could a humble employee have the honor of your attention?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you prepared to take the challenge of death ?!!",
+        "Does this involve any winged monkeys ?"
+      ]
+    }
+  ]
+}

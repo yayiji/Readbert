@@ -1,0 +1,55 @@
+{
+  "date": "2018-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need someone to run some test scripts on the new software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can do that.",
+        "My project is on hold until the new hardware arrives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Great. I'll need you to run the same tests on every version until the final release."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... I was only volunteering to do it once. It isn't my job to do all the testing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Too late. You're the test script guy now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're adding an entirely new job to my existing job!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't you want to be a team player?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Of course I do.",
+        "Good. I just put you on the losing team."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm worried that we designed our product to be too addictive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now we're more like a disease than a consumer product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will you stop talking like that if I give you a raise?",
+        "It's worth a try."
+      ]
+    }
+  ]
+}

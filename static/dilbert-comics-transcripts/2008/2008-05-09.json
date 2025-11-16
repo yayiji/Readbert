@@ -1,0 +1,25 @@
+{
+  "date": "2008-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company decided to invest a billion dollars based on your stupid, made-up numbers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've crushed my dreams of a better tomorrow.",
+        "Now my life is a cold, wet slide to oblivion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I finally made a difference at work.",
+        "How many victims?"
+      ]
+    }
+  ]
+}

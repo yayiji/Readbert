@@ -1,0 +1,31 @@
+{
+  "date": "2018-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did Alice find the data I need?",
+        "Why don't you ask her?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm afraid of her."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not afraid of me?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've seen you try to lift a box of printer paper.",
+        "Paper is heavier than it looks."
+      ]
+    }
+  ]
+}

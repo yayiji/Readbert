@@ -1,0 +1,55 @@
+{
+  "date": "1993-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, what have you accomplished this year?",
+        "I hate performance reviews."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I used my empowerment to create a new paradigm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I teamed across functional boundaries to improve quality."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I dare say I was customer-focused and market-driven!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I proactively found excellence in the midst of chaos!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I re-engineered my core processes and embraced change!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I give you — Dilbert — the perfect employee!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Was that sarcasm?",
+        "To be honest, I don't know either."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2006-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A business magazine is sending a reporter to interview me.",
+        "You?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They want to learn my best management practices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a little like milking a squirrel because you need butter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't know what that meant, but I like the way it sounded."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Describe your typical day."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, let me tell you..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Sometimes you milk the squirrel, and sometimes the squirrel milks you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He is like a Zen master. His words are peppered with squirrel-related wisdom."
+      ]
+    }
+  ]
+}

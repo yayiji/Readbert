@@ -1,0 +1,23 @@
+{
+  "date": "1992-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi... are you new here? I've never seen you before."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the lost employee... I've been hiding in the bureaucracy since the fifties... paid but forgotten."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that be the perfect job..."
+      ]
+    }
+  ]
+}

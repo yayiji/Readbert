@@ -1,0 +1,26 @@
+{
+  "date": "1998-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't complain to me.",
+        "You signed the form giving us permission to alter your DNA."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one reads legal documents before signing them.",
+        "It makes you look stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have a point.",
+        "That is so not funny."
+      ]
+    }
+  ]
+}

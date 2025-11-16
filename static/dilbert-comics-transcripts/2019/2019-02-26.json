@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the internet debate coach",
+        "Always back up your opinion with links to articles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if the only links I can find are from non-credible sources?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll do some research, but I think that's the only kind there is."
+      ]
+    }
+  ]
+}

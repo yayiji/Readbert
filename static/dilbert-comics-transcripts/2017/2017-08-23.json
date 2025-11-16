@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did I leave out any risks on the product warning page?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see anything about the risk of overeating while owning the product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our product has nothing to do with eating.",
+        "Then why did I gain weight when I used it?"
+      ]
+    }
+  ]
+}

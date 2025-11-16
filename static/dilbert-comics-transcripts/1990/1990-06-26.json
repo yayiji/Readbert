@@ -1,0 +1,27 @@
+{
+  "date": "1990-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I play with your \"Sonic Obliterator\" invention?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure.",
+        "Just be careful.",
+        "It has a hair trigger and can blow a truck to bits.",
+        "Neat!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have to show them that you trust them.",
+        "I'll be down at the post office truck yard."
+      ]
+    }
+  ]
+}

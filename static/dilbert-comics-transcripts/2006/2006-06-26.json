@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you bring me up to speed before we go to the meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. You can't fit two gallons in a thimble no matter how fast you pour."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait a minute...",
+        "Which one of us is the thimble?"
+      ]
+    }
+  ]
+}

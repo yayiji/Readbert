@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're a slave owner now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, nothing like that.",
+        "All I did was buy some Elbonians on the internet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do they clean your house without pay?",
+        "I assume they're a tidy people."
+      ]
+    }
+  ]
+}

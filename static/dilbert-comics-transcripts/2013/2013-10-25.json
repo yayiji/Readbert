@@ -1,0 +1,26 @@
+{
+  "date": "2013-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My chair is squeaky. How do I fix that?",
+        "Squeak",
+        "Squeak"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Die!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And now your chair is oiled.",
+        "Mostly the cushion."
+      ]
+    }
+  ]
+}

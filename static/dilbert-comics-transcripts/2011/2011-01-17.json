@@ -1,0 +1,24 @@
+{
+  "date": "2011-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea!",
+        "Why don't we make our product social?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because when you start to understand a concept, it marks the beginning of its decline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On a related note, it's never a good idea to ask an engineer a question in the \"why don't we\" format."
+      ]
+    }
+  ]
+}

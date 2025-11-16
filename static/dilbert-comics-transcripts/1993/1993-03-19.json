@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert says it's impossible to fly by flapping your arms.",
+        "Is he right, Bob?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It just depends how hard you flap."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It must be embarrassing to be you."
+      ]
+    }
+  ]
+}

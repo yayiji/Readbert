@@ -1,0 +1,25 @@
+{
+  "date": "2012-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you on a project with loud Howard, Topper, and the new guy who loves the sound of his own voice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it because you hate me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not at all.",
+        "I",
+        "It's because I hate the other three guys."
+      ]
+    }
+  ]
+}

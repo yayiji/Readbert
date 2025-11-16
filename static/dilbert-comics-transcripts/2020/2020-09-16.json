@@ -1,0 +1,26 @@
+{
+  "date": "2020-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We added the following trick question to our interview process.",
+        "I do Black Lives Matter?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, of course.",
+        "Say more about that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think all...",
+        "Dismissed!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2015-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Employees voted you \"manager of the year.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As usual, this honor is going to the manager with the worst attendance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're hoping it's more of a correlation thing than a causation thing."
+      ]
+    }
+  ]
+}

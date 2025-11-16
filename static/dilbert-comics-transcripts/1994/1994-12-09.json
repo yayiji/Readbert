@@ -1,0 +1,25 @@
+{
+  "date": "1994-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your target market is the high income group.",
+        "They're the only ones who can afford your product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "More specifically, they must be rich, tasteless and easily amused.",
+        "I've located a cluster of them to study."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That dog's watching us golf again."
+      ]
+    }
+  ]
+}

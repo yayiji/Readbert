@@ -1,0 +1,28 @@
+{
+  "date": "1992-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... I smell a creative idea being formed somewhere in the building.",
+        "Sniff",
+        "Sniff"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I must find it and crush it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, this is new.",
+        "It's a trap!!",
+        "Suggestion",
+        "Box"
+      ]
+    }
+  ]
+}

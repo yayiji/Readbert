@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think I'd be more effective at work if my boss were either smarter, so he'd understand me..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Or dumber, so he'd know better to let me make all of the technical decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I can't make him any smarter, so my plan is to make him dumber.",
+        "It seems I've been a bad influence."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Based on your internet history, you might be dumb enough to enjoy extreme sports."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Click here to buy a ticket to base jump from the international space station."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think the internet is trying to kill me.",
+        "We call it \"machine learning.\""
+      ]
+    }
+  ]
+}

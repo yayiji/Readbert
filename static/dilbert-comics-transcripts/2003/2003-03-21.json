@@ -1,0 +1,24 @@
+{
+  "date": "2003-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll design the system as soon as you give me the user requirements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Better yet, you could build the system, then I'll tell your boss that it doesn't meet my needs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't mean to frighten you, but you'll have to do some actual work.",
+        "That's crazy talk."
+      ]
+    }
+  ]
+}

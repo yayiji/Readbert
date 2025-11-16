@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you review my letter to this customer who complained?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell the spiders living in your skull that we'll look into it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good writing should never be predictable.",
+        "Then it's perfect."
+      ]
+    }
+  ]
+}

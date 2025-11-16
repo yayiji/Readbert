@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked the other engineers to help me develop my double-handled coffee mug invention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now it is bloated with useless features and not dishwasher safe. Maybe you should cancel the project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you okay with that?",
+        "I've never been a big fan of the implementation phase."
+      ]
+    }
+  ]
+}

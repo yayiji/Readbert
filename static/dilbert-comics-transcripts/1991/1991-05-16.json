@@ -1,0 +1,24 @@
+{
+  "date": "1991-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As long as you're here, Ratbert, I could use your help.",
+        "At your service!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like you to test the stuff in the fridge and see if it's dangerous."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Put a question mark by ketchup."
+      ]
+    }
+  ]
+}

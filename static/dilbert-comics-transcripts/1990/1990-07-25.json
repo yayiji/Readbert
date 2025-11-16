@@ -1,0 +1,25 @@
+{
+  "date": "1990-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate my life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I eat one more ton of macaroni and cheese, I think I'll die...",
+        "Of course, that may be the point."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tonight I'm going \"over the wall.\"",
+        "Wait... I'm a rat... I'll go through the wall."
+      ]
+    }
+  ]
+}

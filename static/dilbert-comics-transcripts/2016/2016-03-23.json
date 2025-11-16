@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Scientists grew a human ear on the back of a rat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When asked for a comment, the rat said, \"Hey, get this ear off my back. I didn't agree to this.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The lead scientist on the project said, \"Great. Now you made it all weird.\"",
+        "Click"
+      ]
+    }
+  ]
+}

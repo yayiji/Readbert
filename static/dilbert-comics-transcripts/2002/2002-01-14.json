@@ -1,0 +1,24 @@
+{
+  "date": "2002-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be your server tonight... Whoa, you're beautiful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would your grandfather mind if I asked you out?",
+        "He's my husband."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Moving right along, would you like to hear about our specials?"
+      ]
+    }
+  ]
+}

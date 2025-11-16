@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Want some advice?",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can your ignorance and poor communication skills solve my uncertainty?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You never know until you try.",
+        "Sometimes you know!"
+      ]
+    }
+  ]
+}

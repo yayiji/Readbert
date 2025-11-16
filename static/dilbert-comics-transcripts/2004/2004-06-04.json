@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh, someone wants me to make a decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I summon the dark demon of ineffective management to smite the person who wants this decision!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could help you make the decision.",
+        "I requested smiting."
+      ]
+    }
+  ]
+}

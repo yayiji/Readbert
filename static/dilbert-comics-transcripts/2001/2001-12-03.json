@@ -1,0 +1,24 @@
+{
+  "date": "2001-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My accomplishments for the week include scheduling a meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But some people were using the conference room so we milled around for a while and gave up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could have used another room.",
+        "What part of \"gave up\" is confusing you?"
+      ]
+    }
+  ]
+}

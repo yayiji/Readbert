@@ -1,0 +1,44 @@
+{
+  "date": "1990-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Open",
+        "Bob's classy clothes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...And you're quite certain these will shrink to fit?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have my word as a retail salesman."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You were taken.",
+        "No, they shrink in the wash."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Will they fit now?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Like a glove...",
+        "Like a glove with two fingers."
+      ]
+    }
+  ]
+}

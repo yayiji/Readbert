@@ -1,0 +1,25 @@
+{
+  "date": "2005-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's up with the face?",
+        "I'm practicing my work grimace."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This face says, \"I'm so overworked that I can't possibly do any more.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm also getting a message of intestinal discomfort.",
+        "It's a subplot."
+      ]
+    }
+  ]
+}

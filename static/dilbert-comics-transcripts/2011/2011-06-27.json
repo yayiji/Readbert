@@ -1,0 +1,24 @@
+{
+  "date": "2011-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Employees keep whining that we don't have a clear direction."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I've doubled the number of managers in each group to increase the clarity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought we were doubling the direction.",
+        "No, we're doubling the clarity."
+      ]
+    }
+  ]
+}

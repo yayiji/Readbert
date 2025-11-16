@@ -1,0 +1,63 @@
+{
+  "date": "1997-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert's technical support.",
+        "How may I disconnect you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are my choices?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend the abrupt disconnect; simple, gets the job done."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I had that last time.",
+        "What else do you have?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You might like our \"please hold,\"",
+        "followed by the",
+        "\"wrong button,\"",
+        "disconnect."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Too predictable.",
+        "Do you have anything new?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Try our \"Kevorkian disconnect.\"",
+        "I put you on hold and play an annoying message until you disconnect yourself."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Your call is important.",
+        "Please hold while we ignore it...",
+        "Your call is important...",
+        "Not bad."
+      ]
+    }
+  ]
+}

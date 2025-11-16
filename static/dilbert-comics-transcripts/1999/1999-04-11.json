@@ -1,0 +1,54 @@
+{
+  "date": "1999-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's Ted. He never sent me the information he promised."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why have you ignored my request, Ted?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was killed by a squadron of giant military squirrels."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He doesn't respect you enough to tell a plausible lie."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I demand a plausible lie!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, maybe I wasn't killed by giant military squirrels."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But I was imprisoned in their secret lair at the center of the Earth."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You can't prove that one either way.",
+        "He did say it was a \"secret\" lair."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally dabbles in crime",
+        "A lot of people think crime is a bad thing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it all depends on how you pick your role models."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I lean toward governors, bankers, athletes and Sith lords.",
+        "I feel a coldness."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2008-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our online budget approval system isn't working."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a process for making changes to the system, but I don't know it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could take a class to learn the process, but there's also a process for approving classes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I could learn the process for approving classes, but I'd still need approval for a budget variance to take the class."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I can't get that because the online budget approval system is broken."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't even have this conversation because it will make me charge too much of my engineering time to administrative overhead."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So I'll go sit in my cubicle and pretend to be thinking about a billable project."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It looks like I'll be exaggerating my accomplishments again this year."
+      ]
+    }
+  ]
+}

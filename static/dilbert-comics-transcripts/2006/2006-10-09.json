@@ -1,0 +1,26 @@
+{
+  "date": "2006-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you attach the plunger of blame to me?",
+        "Blame"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The short answer is \"Because I can.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the long answer?",
+        "Because I-i-i-i ca-a-a-n.",
+        "Blame"
+      ]
+    }
+  ]
+}

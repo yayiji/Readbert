@@ -1,0 +1,55 @@
+{
+  "date": "2009-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're watering a plastic plant.",
+        "Yes, I am."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why?",
+        "Funny story."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your boss replaced the live plants with plastic ones to save money."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My company has the contract to water your office plants."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No one ever cancelled our contract."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now my career is less important than a gnat's toot in a hurricane."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But it's still way better than sitting in a fabric-covered box all day."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I need to stop talking to people."
+      ]
+    }
+  ]
+}

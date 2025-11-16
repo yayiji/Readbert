@@ -1,0 +1,25 @@
+{
+  "date": "2014-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say you'll be more engaged if you have a friend at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And when you're engaged, I can pay you less and you won't quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So this guy is costing me money?",
+        "Don't flatter yourself.",
+        "I barely know your name."
+      ]
+    }
+  ]
+}

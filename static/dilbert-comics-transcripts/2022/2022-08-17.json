@@ -1,0 +1,27 @@
+{
+  "date": "2022-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need a volunteer for our brain chip experiment.",
+        "No way would I want..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't struggle.",
+        "Breathe in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's going to be mad when he wakes up.",
+        "Nah.",
+        "The chip will take care of that."
+      ]
+    }
+  ]
+}

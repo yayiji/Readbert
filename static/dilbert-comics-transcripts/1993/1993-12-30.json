@@ -1,0 +1,25 @@
+{
+  "date": "1993-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't decide if it would be better to conquer the world by building an army or starting a religion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which one would have the least loss of life?",
+        "That's what I'm trying to calculate on this spreadsheet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you counting law students as two-tenths of a person?",
+        "It doesn't drop to zero until they pass the bar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe we should make a smart watch.",
+        "Maybe it is far too late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe we could make a better one than Apple.",
+        "Maybe we should get in a sword fight and not have a sword."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I missing anything by not listening to what you say?",
+        "No, it's mostly for my own entertainment."
+      ]
+    }
+  ]
+}

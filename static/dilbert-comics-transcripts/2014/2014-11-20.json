@@ -1,0 +1,28 @@
+{
+  "date": "2014-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the CEO",
+        "The board has approved a $100 million golden parachute if you quit now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "$100 million?!!!",
+        "How am I supposed to live on that?",
+        "You insult me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a lot of money for doing nothing.",
+        "Bah!",
+        "I spend more than that on soft cheese."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1994-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's the final design for project \"Zebra.\"",
+        "I worked day and night for weeks to finish it on time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I canceled that project a month ago.",
+        "I meant to tell you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In some countries it would be legal to kill you with this binder.",
+        "That's why I don't travel."
+      ]
+    }
+  ]
+}

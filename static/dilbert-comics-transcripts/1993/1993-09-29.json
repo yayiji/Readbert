@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Next week I'll be at my new job, reaping huge rewards.",
+        "We're so happy for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'll still have a little cubicle like yours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The only difference being that I'll keep a pony there.",
+        "That way it's close to my office."
+      ]
+    }
+  ]
+}

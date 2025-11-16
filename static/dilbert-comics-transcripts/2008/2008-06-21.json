@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We monitor all of your actions, but we suspect you are still doing non-work-related thinking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My lab assistant Trixie will attach sensors to your head and track all of your thoughts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mmm... Trixie, wear this while you wash my electric car.",
+        "Engineers."
+      ]
+    }
+  ]
+}

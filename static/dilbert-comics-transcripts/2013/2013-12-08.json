@@ -1,0 +1,51 @@
+{
+  "date": "2013-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have studied the practices of famous leaders so you can copy them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, work sixteen hours every day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sixteen hours???"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And in your spare time, you should be reading about your industry to stay current."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Reading???"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oookay. This isn't working. Suppose I told you that famous leaders eat a lot of cake?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That took a creepy turn."
+      ]
+    }
+  ]
+}

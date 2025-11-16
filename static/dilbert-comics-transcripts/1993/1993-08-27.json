@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert teaches \"quality\" management in Elbonia.",
+        "The fishbone diagram helps identify the root cause of problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In your case, the root problem seems to be that you're a nation of imbeciles..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "True, but you're the one who had to draw a dead fish to figure it out.",
+        "You're in the club! Here's your hat."
+      ]
+    }
+  ]
+}

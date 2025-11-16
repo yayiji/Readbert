@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry I'm a few minutes late for our 10:50 meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll have to reschedule because I have another meeting at eleven."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Reschedule? I'm only ten minutes late!",
+        "Tell that to my 11:10."
+      ]
+    }
+  ]
+}

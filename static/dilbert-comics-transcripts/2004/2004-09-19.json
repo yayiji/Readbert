@@ -1,0 +1,55 @@
+{
+  "date": "2004-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have the market demand numbers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm in the middle of something. Can I get back to you later?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much later?",
+        "When do you need it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "As soon as possible.",
+        "I'll do it as soon as I'm done."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When will that be?",
+        "As soon as possible."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When will it be possible?",
+        "Cut me some slack."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How much slack do you need?"
+      ]
+    }
+  ]
+}

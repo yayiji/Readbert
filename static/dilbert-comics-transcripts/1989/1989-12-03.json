@@ -1,0 +1,32 @@
+{
+  "date": "1989-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, the boss would like to talk to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You wanted me?",
+        "Ah, Dilbert, come in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm taking two weeks of vacation and I need competent leadership while I'm gone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "At last he's giving me an assignment with responsibility.",
+        "That's why I got this talking sock monkey.",
+        "Pull the string twice a day and do what he says."
+      ]
+    }
+  ]
+}

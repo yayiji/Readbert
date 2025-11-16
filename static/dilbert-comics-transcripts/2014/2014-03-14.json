@@ -1,0 +1,25 @@
+{
+  "date": "2014-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll just send a quick text to Paul."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Paul has a hearing aid, so type in all caps.",
+        "Good idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's messed up.",
+        "A little."
+      ]
+    }
+  ]
+}

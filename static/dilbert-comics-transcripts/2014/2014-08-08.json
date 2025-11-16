@@ -1,0 +1,24 @@
+{
+  "date": "2014-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm reading a book that says the key to success is networking with successful people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you get to the chapter where it says successful people should avoid all contact with losers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seems we have a standoff.",
+        "Security."
+      ]
+    }
+  ]
+}

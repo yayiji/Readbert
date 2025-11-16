@@ -1,0 +1,24 @@
+{
+  "date": "2000-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take this to the technology Buddha for enlightenment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's busy meditating."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He must be very wise.",
+        "Huge bowl of vanilla ice cream."
+      ]
+    }
+  ]
+}

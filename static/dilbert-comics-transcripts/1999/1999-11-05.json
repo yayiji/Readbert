@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, mister Ratbert, why should I hire you to work in my call center?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thrive on the challenge of inhumane working conditions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Watch me go without a restroom break for four hours!",
+        "You're hired."
+      ]
+    }
+  ]
+}

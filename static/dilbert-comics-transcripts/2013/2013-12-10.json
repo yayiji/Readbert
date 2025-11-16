@@ -1,0 +1,24 @@
+{
+  "date": "2013-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to vet my idea with my peers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To save time, I am willing to stipulate that you hate all ideas that are not your own."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All in favor?",
+        "I hate this idea, too."
+      ]
+    }
+  ]
+}

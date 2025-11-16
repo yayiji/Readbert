@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have the list of invitees for the debriefing meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here.",
+        "I like to blame people who won't be in the room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bad news for you: you're not on the list."
+      ]
+    }
+  ]
+}

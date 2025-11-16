@@ -1,0 +1,56 @@
+{
+  "date": "2016-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love living in a world where everything I need to know is on the internet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just hop over to YouTube and learn how to use my new app."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Perfect! I can choose from over a hundred different tutorials!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It will only take me an hour or so to figure out which one refers to my version of the software."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "One hour later",
+        "Gaaa!!! These videos are poorly labeled!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Two hours later",
+        "Gaaa!!! This guy talks too slowly! Get to the point!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Three hours later",
+        "Gaaa!!! Why are my menu options different from the tutorial?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hate living in a world where everything I need to know is on the internet."
+      ]
+    }
+  ]
+}

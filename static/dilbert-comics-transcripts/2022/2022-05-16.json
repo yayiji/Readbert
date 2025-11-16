@@ -1,0 +1,34 @@
+{
+  "date": "2022-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have two choices in life.",
+        "You can be bored",
+        "or you can be anxious."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm never bored",
+        "because I can just",
+        "look at stuff on",
+        "my phone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does",
+        "it make",
+        "you feel",
+        "anxious?",
+        "How did",
+        "you know",
+        "that???!"
+      ]
+    }
+  ]
+}

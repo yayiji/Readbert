@@ -1,0 +1,25 @@
+{
+  "date": "2017-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe we should do an initial coin offering, or I.C.O.",
+        "What's that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a non-equity process for raising capital that uses a custom crypto-currency and the blockchain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might be wasting my time here.",
+        "So... it's like a chain made out of coins?"
+      ]
+    }
+  ]
+}

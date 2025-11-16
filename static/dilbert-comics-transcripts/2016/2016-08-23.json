@@ -1,0 +1,25 @@
+{
+  "date": "2016-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that you self-identify as a woman.",
+        "No, I don't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I need you to do that so the company can be supportive and win some awards for being a great place to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because why?",
+        "I got my own bathroom."
+      ]
+    }
+  ]
+}

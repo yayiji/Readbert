@@ -1,0 +1,24 @@
+{
+  "date": "2022-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I calculated the global impact of meeting all of our company ESG goals for the environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The ripple effect from our actions will doom the entire country of Elbonia to an icy death."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we blame climate change?",
+        "I was thinking either vaccinations or long covid."
+      ]
+    }
+  ]
+}

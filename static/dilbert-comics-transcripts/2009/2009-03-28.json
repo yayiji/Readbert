@@ -1,0 +1,24 @@
+{
+  "date": "2009-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The union will agree to deep cuts if you agree to work for one dollar per year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I agree, as long as I get my pay in advance and the mandatory retirement age is waived.",
+        "Fine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Call payroll and tell them to cut a check for my next ten billion years of service."
+      ]
+    }
+  ]
+}

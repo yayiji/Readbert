@@ -1,0 +1,23 @@
+{
+  "date": "2021-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, explain to the new guy what he needs to know about your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our PDR system is downstream from the QRD data and the BMR, so don't order a gref or else the PLR will get boodled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I quit."
+      ]
+    }
+  ]
+}

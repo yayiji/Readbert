@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our user manual has a typo.",
+        "Our technical support calls are going to a phone sex place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Complaints are way down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, okay, but... has that ever worked?",
+        "No complaints yet."
+      ]
+    }
+  ]
+}

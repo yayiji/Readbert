@@ -1,0 +1,25 @@
+{
+  "date": "1995-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "On the advice of my dog, I'm asking for an additional ten million dollars for my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That will make a more spectacular failure, thus guaranteeing a promotion for me.",
+        "As your boss, I'd get recognition too... okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! Do you have any advice for me?!",
+        "Breath mints."
+      ]
+    }
+  ]
+}

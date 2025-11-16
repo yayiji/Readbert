@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm afraid to make decisions because I might make the wrong ones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So instead, I tell my staff I need more data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you really need more brains and courage.",
+        "You didn't need to add a summary."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2015-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're arresting me for killing Ted, but a bug in my cyborg components made me do it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I go to jail, you will remove the cyborg parts that caused the trouble and punish the organic parts of me that are innocent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's funny when you put it that way."
+      ]
+    }
+  ]
+}

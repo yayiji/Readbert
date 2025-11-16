@@ -1,0 +1,25 @@
+{
+  "date": "1997-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It is physically impossible for me to finish both of my projects on time. Which one is more important?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hmm... if I absolutely had to choose between them, I'd say...",
+        "Do them both on time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. When you do that with your arms, it creates the illusion that you're thinking.",
+        "What you need is a third project."
+      ]
+    }
+  ]
+}

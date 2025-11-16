@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the selfish therapist",
+        "So that's my situation..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you been wearing headphones the entire time I was talking?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what he's saying, but he doesn't look happy."
+      ]
+    }
+  ]
+}

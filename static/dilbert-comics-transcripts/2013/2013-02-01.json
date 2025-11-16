@@ -1,0 +1,25 @@
+{
+  "date": "2013-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And I need it by next week.",
+        "I will devote 3.7% of my energy to it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can give you more if you do your job of setting priorities for my 27 projects."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can't you set the priorities?",
+        "Sure. This one just went to 1.7%."
+      ]
+    }
+  ]
+}

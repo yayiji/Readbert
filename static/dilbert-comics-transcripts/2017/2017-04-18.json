@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wrote a VR program that creates the illusion you are asleep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Watch me demonstrate it in action."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zzzzz.",
+        "How long should I watch?"
+      ]
+    }
+  ]
+}

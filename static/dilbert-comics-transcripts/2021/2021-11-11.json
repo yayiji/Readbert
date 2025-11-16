@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of my problems are caused by people intentionally being jerks to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of my problems are caused by insecure people who interpret every situation in the worst possible way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that about me?",
+        "Why would it matter?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What happened to your head, Dave?",
+        "I'm cutting my own hair now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not too far along the old learning curve, but at least I'm saving money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much did you save?",
+        "Not counting the divorce and therapy?"
+      ]
+    }
+  ]
+}

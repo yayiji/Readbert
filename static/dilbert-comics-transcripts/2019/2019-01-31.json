@@ -1,0 +1,24 @@
+{
+  "date": "2019-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't get my five-year projections to match what you told the board."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try tweaking the variables until they do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would make me a liar.",
+        "Nah. In five years it will look like ordinary stupidity."
+      ]
+    }
+  ]
+}

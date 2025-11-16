@@ -1,0 +1,25 @@
+{
+  "date": "1996-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can't expect your employer to take care of you forever, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't expect raises, don't expect to be trained and don't expect a pension."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's depressing.",
+        "I need a sourball.",
+        "Those are marbles wrapped in cellophane."
+      ]
+    }
+  ]
+}

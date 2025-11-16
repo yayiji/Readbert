@@ -1,0 +1,25 @@
+{
+  "date": "1997-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news about your compensation plan...",
+        "I hate good news about my compensation plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Twenty percent of your pay will now be in the form of stock options instead of cash!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To get your stock options, simply sign this updated employment agreement.",
+        "Why does good news feel like a mugging?"
+      ]
+    }
+  ]
+}

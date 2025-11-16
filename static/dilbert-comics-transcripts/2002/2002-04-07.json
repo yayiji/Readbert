@@ -1,0 +1,55 @@
+{
+  "date": "2002-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert's tech support.",
+        "How may I abuse you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My printer prints a blank page after every document."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would you complain about getting free paper?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Free? Isn't it just giving me my own paper?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Egad, man! Look at the quality of the free paper compared to your lousy regular paper!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Only a fool or a liar would say they look the same!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now that you mention it, it does seem silkier."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What are you doing?",
+        "I'm helping people accept the things they can't change."
+      ]
+    }
+  ]
+}

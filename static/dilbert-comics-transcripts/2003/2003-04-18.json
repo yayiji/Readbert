@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're an engineer; maybe you can tell me what kind of digital camera I should buy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you ask a doctor for free advice?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I got a complete physical by the appetizer.",
+        "Yeah, I'm never off duty."
+      ]
+    }
+  ]
+}

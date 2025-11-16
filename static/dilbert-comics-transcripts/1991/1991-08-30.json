@@ -1,0 +1,26 @@
+{
+  "date": "1991-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope you'll date me now, Helen.",
+        "I brought my resumé as you requested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a little formula I use to calculate the ratio of your earnings potential to your height and baldness..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm... you pass.",
+        "Of course, I'll still date other men too.",
+        "On different nights?"
+      ]
+    }
+  ]
+}

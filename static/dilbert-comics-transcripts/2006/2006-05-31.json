@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, my job has been outsourced to India."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's interesting because you came here from India."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you already think of that?",
+        "Yes!"
+      ]
+    }
+  ]
+}

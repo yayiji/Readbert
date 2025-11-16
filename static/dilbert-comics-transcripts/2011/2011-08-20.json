@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Interview question",
+        "Describe your biggest mistake and what you learned from it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tried to get rid of an old couch by chewing it into tiny pieces and leaving one handful at a time at Starbucks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And what did you learn?",
+        "I learned I should never tell that story."
+      ]
+    }
+  ]
+}

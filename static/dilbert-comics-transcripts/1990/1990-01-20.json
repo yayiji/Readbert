@@ -1,0 +1,24 @@
+{
+  "date": "1990-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think I'm losing my hair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't be silly. You aren't losing your hair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not? Oh, good.",
+        "How could you possibly lose these huge clumps..."
+      ]
+    }
+  ]
+}

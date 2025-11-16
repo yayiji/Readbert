@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new politeness policy is having unintended consequences."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just spent four hours listening to Tina talk about her health problems because the company says it is rude to just walk away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you escape?",
+        "She had a health problem.",
+        "I got lucky."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1996-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need your full management support in this meeting with sales.",
+        "Just watch the master at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I promised a customer a product that we don't make. You need to engineer-up a thousand units by early next week.",
+        "Is Thursday okay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait until he finds out that Thursday isn't \"early next week.\" Hee hee!"
+      ]
+    }
+  ]
+}

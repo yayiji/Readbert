@@ -1,0 +1,24 @@
+{
+  "date": "1995-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Profits are down, morale is sinking; it's time for bold leadership!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I got some inspirational posters featuring a variety of relevant nature scenes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you can relate to this scene.",
+        "Am I the seagull or the clam?"
+      ]
+    }
+  ]
+}

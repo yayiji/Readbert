@@ -1,0 +1,58 @@
+{
+  "date": "1999-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new policy from our CEO bans coffee from cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because, he says, \"It causes a distraction\" and can \"mess up desks.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did...",
+        "Hold it, Dilbert."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's Alice's turn.",
+        "You get the next easy one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Make us proud.",
+        "Ahem, ahem."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How did he become a CEO..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...If he's too stupid to drink coffee and work at the same time?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Our CEO also discussed unnecessary expenses.",
+        "Lucky!",
+        "Ahem."
+      ]
+    }
+  ]
+}

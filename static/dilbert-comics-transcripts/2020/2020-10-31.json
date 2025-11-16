@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where do you want to go to lunch?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to suggest a place so I can say yes but still make you feel bad about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about the Thai place?",
+        "Pfft. Sure. I'm not that hungry anyway."
+      ]
+    }
+  ]
+}

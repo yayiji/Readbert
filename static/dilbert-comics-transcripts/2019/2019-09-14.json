@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told your boss I think your project is heading in the wrong direction."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Given that you only know about 20% of what one should know to have an informed opinion on the topic, may I conclude that you are stupid and toxic?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't know me!",
+        "I'm basing my opinion on the 20% I do know."
+      ]
+    }
+  ]
+}

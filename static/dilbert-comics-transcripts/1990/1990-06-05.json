@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm hoping you will accept me in the Dogbert cult.",
+        "You do have a strong résumé..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Looks like you've been fleeced by several spiritual leaders already."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think that demonstrates a complete absence of independent thought.",
+        "Can you chant?"
+      ]
+    }
+  ]
+}

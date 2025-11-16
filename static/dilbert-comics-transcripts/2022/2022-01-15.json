@@ -1,0 +1,25 @@
+{
+  "date": "2022-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new human resources policy requires each of you to eat the contents of your recycling bins every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's outrageous!",
+        "Hey, I don't make the rules."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who makes the rules?",
+        "I don't know. They just sort of show up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "1996-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'd like you to meet the newest member of my management team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Keith is highly qualified. He has a masters in business administration."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Very impressive. They must have taught you a lot about motivating employees.",
+        "No, not really."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well... you probably learned how to identify and hire good people, right?",
+        "That might have been optional reading."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did you learn negotiation skills?",
+        "No.",
+        "Strategic thinking?",
+        "No.",
+        "Business writing?",
+        "No."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It was mostly finance and accounting.",
+        "And economics."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So, you're a highly qualified leader because... you're good at math?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What should I do here?",
+        "In these situations I like to use swearing."
+      ]
+    }
+  ]
+}

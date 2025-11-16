@@ -1,0 +1,25 @@
+{
+  "date": "2000-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In this week's Wally report, I'll discuss a serious threat to my productivity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By Tuesday my brain was so full that I had to forget things to make room for new things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, I have some information for you.",
+        "Great.",
+        "I'll just forget the fifth grade."
+      ]
+    }
+  ]
+}

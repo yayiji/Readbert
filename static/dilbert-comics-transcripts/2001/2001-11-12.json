@@ -1,0 +1,25 @@
+{
+  "date": "2001-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO's goal is to improve our revenue per employee.",
+        "So I'm going to fire you and bring you back as a contractor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Last week his goal was to reduce the number of contractors.",
+        "So you cancelled my contract and hired me as an employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, it looks like someone doesn't like having his cheese moved."
+      ]
+    }
+  ]
+}

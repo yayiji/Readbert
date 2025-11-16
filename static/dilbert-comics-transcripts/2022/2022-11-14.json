@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The trial data says our new product is dangerous and doesn't do what we claim."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you showed anyone else the data?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Phew!",
+        "That problem solved itself."
+      ]
+    }
+  ]
+}

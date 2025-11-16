@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Send security, quickly. There are a bunch of homeless people outside my office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do they look exactly like your employees looked before the pandemic, but more bedraggled?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you know that?",
+        "Never call us again."
+      ]
+    }
+  ]
+}

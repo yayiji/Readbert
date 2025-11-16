@@ -1,0 +1,55 @@
+{
+  "date": "2013-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You remind me of another young person I hired years ago."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She was full of hope and optimism and she wore a permanent smile."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Her name was Alice."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "As time passed, she devolved into an angry, hateful creature."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No one knows what caused it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How long did it take?",
+        "About a week."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Apparently, you're a monster who creates a toxic workplace and you lack the self-awareness to realize it!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Someone broke your record.",
+        "Shut up."
+      ]
+    }
+  ]
+}

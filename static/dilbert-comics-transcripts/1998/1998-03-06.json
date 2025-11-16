@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It takes a certain type of personality to telecommute, Dogbert.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just because other people have personalities doesn't mean you should try to develop one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a personality!",
+        "Let's not get into that \"is zero a number\" debate again."
+      ]
+    }
+  ]
+}

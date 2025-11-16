@@ -1,0 +1,24 @@
+{
+  "date": "2000-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Frankly, I'm insulted that you asked me out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It means you think we're about the same level of attractiveness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd better have one heckuva sexy car.",
+        "It's electric."
+      ]
+    }
+  ]
+}

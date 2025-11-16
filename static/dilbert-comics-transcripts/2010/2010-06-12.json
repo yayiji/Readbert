@@ -1,0 +1,23 @@
+{
+  "date": "2010-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is where you jack into matrix management, Neo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Insert these iPod ear buds and fire up Powerpoint. The reality you once knew is gone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One more thing: If your computer dies during Powerpoint, your career dies in the real world."
+      ]
+    }
+  ]
+}

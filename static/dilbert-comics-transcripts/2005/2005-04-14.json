@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our marketing plan was to find a sports stadium to brand with our company's name."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The hard part was finding a team so juiced up that our reputation seemed good in comparison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you feel about the new stadium name?",
+        "Rage. Same as always."
+      ]
+    }
+  ]
+}

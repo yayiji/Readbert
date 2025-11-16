@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If being selfish is necessary for success, how can I claim to be a team player?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to use a tool called hypocrisy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is actually a character flaw.",
+        "Oh.",
+        "No wonder people are so prickly about it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1991-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bishop takes rook.",
+        "I have you now, my friend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My queen has an uzi in her purse.",
+        "She slays your entire side."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You did the same thing when we played Scrabble.",
+        "Take it like a man."
+      ]
+    }
+  ]
+}

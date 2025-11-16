@@ -1,0 +1,56 @@
+{
+  "date": "2018-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking of getting a degree in business and moving onto the management track."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it fun being a boss?",
+        "It's the best!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't done anything hard since the day I got this job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I mostly just criticize idiots all day long."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's as if the company is paying me to do my hobby."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Speaking of pay, my salary is about triple your pay."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is there any downside?",
+        "I had a lot of guilt at first."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It must have been awful.",
+        "Yes, it was the longest ten minutes of my life."
+      ]
+    }
+  ]
+}

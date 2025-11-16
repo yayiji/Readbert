@@ -1,0 +1,25 @@
+{
+  "date": "2020-02-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for ideas to improve morale without spending money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We could take turns punching you.",
+        "No punching!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Any other ideas?",
+        "Did anyone suggest kicking?"
+      ]
+    }
+  ]
+}

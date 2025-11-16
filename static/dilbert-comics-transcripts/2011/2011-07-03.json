@@ -1,0 +1,54 @@
+{
+  "date": "2011-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you look at this bid and let me know if I can order the hardware?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying yes I can order the hardware, or yes you'll look at it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Mumble, mumble.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I need your input on my powerpoint deck."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So far, in response to my request, you've given me ambiguity, mumbling, and a change of subject."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Would you prefer that I badger you for an answer until you get angry, or should I return to my cubicle and resume being ineffective?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You ask too many questions."
+      ]
+    }
+  ]
+}

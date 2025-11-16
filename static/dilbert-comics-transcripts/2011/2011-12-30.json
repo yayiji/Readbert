@@ -1,0 +1,25 @@
+{
+  "date": "2011-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm excited because I have a meeting in a few minutes with awesome Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything he does is just a little bit more awesome than what anyone else does.",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's running late because the dry cleaner couldn't get the sushi stains out of his flying wingsuit.",
+        "Awesome!"
+      ]
+    }
+  ]
+}

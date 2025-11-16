@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How'd your meeting go?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We spent an hour trying to get the conference call audio to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then?",
+        "It was a one-hour meeting."
+      ]
+    }
+  ]
+}

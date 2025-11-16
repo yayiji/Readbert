@@ -1,0 +1,24 @@
+{
+  "date": "1998-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I checked with the other managers; they don't know you well enough to promote you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we've decided to hire someone from outside the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least the other managers have heard my name now.",
+        "I didn't use your real name."
+      ]
+    }
+  ]
+}

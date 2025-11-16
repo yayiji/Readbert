@@ -1,0 +1,51 @@
+{
+  "date": "2007-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you the highest raise because you didn't exceed expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you thought it was possible for me to exceed my expectations, you would have set the goals higher."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So there are only two possibilities here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Either you are incompetent at setting goals..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or I attained the maximum possible achievement and I deserve the maximum raise."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Which is it?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can I hear those two choices again?"
+      ]
+    }
+  ]
+}

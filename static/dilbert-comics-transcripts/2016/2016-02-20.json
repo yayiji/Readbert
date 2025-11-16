@@ -1,0 +1,27 @@
+{
+  "date": "2016-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert should be here soon to fill in for the babysitter.",
+        "Your dad and I need to leave now.",
+        "Just let him in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We turned off our phones, so don't try to reach us on our date night."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Two hours later",
+        "I don't think he's coming.",
+        "I say we Airbnb this place."
+      ]
+    }
+  ]
+}

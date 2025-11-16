@@ -1,0 +1,55 @@
+{
+  "date": "2004-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you check my spreadsheet for accuracy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's an impenetrable jumble of poorly organized data with cryptic labels."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only need you to check it for accuracy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't think accuracy matters if no one can tell what it's for."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sheesh! Let me explain this simple document!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This column is the ratio of product returns to gross revenue excluding sales taxes, annualized."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's clearly labeled \"roprtgresta.\"",
+        "What about the other 80 columns?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What the #*%!?",
+        "And Dilbert found no inaccuracies."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1998-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Excuse me. I couldn't avoid hearing your conversation outside my cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think I speak for a lot of cubicle dwellers when I say..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shut up!!"
+      ]
+    }
+  ]
+}

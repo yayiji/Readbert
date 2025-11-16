@@ -1,0 +1,23 @@
+{
+  "date": "2001-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The room costs five dollars per night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The mini-bar has a motion detector; you'll be charged three hundred dollars every time you get within eight feet of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's going to be a long night."
+      ]
+    }
+  ]
+}

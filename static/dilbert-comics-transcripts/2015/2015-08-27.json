@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're replacing the employee health plan with nanorobot technology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll insert tiny medical robots into their lower digestive tracts to keep them healthy forever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, our plan is to shove robots up...",
+        "Only until the robots can replace them."
+      ]
+    }
+  ]
+}

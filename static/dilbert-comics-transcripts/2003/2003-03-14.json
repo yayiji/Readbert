@@ -1,0 +1,26 @@
+{
+  "date": "2003-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company is moving to a \"just in time\" inventory strategy.",
+        "You'll deliver when we need it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... your success depends on my company doing what it promises?",
+        "You have my deepest sympathy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel a sharp, stabbing pain in my chest.",
+        "And so it begins."
+      ]
+    }
+  ]
+}

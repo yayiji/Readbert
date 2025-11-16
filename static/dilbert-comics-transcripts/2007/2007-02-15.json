@@ -1,0 +1,25 @@
+{
+  "date": "2007-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your project coming along?",
+        "It's a steaming pile of failure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's like fifteen drunken monkeys with a jigsaw puzzle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's your project coming along?",
+        "Fine."
+      ]
+    }
+  ]
+}

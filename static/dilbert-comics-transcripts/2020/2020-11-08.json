@@ -1,0 +1,57 @@
+{
+  "date": "2020-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not hungry today. Do you want my banana?",
+        "That's an apple."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... no. This is a banana.",
+        "Clearly it is not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't believe you are making me do a Google search to prove I know what a banana is."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "See? Those are bananas. This looks just like the photos. This is a banana."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Those images are doctored."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "There are a million banana images! They are not all doctored!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You know how I know you are wrong? Because you never admit you are wrong.",
+        "Gotcha!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That is not a thing!!!",
+        "That's exactly what all the people who are wrong say."
+      ]
+    }
+  ]
+}

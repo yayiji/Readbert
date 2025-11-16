@@ -1,0 +1,25 @@
+{
+  "date": "2009-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The big countries are having economic problems.",
+        "Experts say it will soon affect Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll need to cut back on some of our luxury expenses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can stop practicing your fetching.",
+        "Should I ask why?"
+      ]
+    }
+  ]
+}

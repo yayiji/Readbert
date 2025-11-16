@@ -1,0 +1,25 @@
+{
+  "date": "2017-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've never seen you take a vacation.",
+        "I take mental vacations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I do is switch to decaf. After a few hours, I can't remember what country I'm in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds dumb. Is there any downside?",
+        "The locals could be friendlier."
+      ]
+    }
+  ]
+}

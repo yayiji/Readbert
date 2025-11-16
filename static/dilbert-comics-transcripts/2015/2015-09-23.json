@@ -1,0 +1,30 @@
+{
+  "date": "2015-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Ted! Are you free for lunch today?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm happily married! Leave me alone!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Relax.",
+        "I only want to network with you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is it because I'm ugly?"
+      ]
+    }
+  ]
+}

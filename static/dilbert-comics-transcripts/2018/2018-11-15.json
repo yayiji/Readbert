@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm doing the job of three people and it isn't fair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good point. Alice is doing the job of seven people. I'll give you two of her jobs to balance it out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... is complaining better than hiding?",
+        "No... you were right."
+      ]
+    }
+  ]
+}

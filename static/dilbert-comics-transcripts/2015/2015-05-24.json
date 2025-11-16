@@ -1,0 +1,56 @@
+{
+  "date": "2015-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, tell me a little about yourself, and be totally honest."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Totally honest?",
+        "Okay...",
+        "I like technology more than I like people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't believe in free will, soulmates, or following my passion."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think life is a brief, meaningless event in a random universe that doesn't care."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I only associate with other people because I have biological and economical needs."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think all human actions are driven by selfishness."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Um... okay.",
+        "Do you have any questions for me?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Am I still being totally honest or should I act curious?"
+      ]
+    }
+  ]
+}

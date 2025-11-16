@@ -1,0 +1,27 @@
+{
+  "date": "1990-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert gets sucked into his computer.",
+        "You... you're a microchip...",
+        "I am. C'mon in and have some coffee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Chips drink coffee?",
+        "Gallons. It keeps us fast."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that make you irritable with the other microchips?",
+        "Not since I killed them all."
+      ]
+    }
+  ]
+}

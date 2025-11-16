@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our internal processes are so inefficient that we can't get products to market before they are obsolete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll create a multidisciplinary task force to look into it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want to use an inefficient system to fix an inefficient system?",
+        "It's called fighting fire with fire."
+      ]
+    }
+  ]
+}

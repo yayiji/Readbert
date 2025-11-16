@@ -1,0 +1,71 @@
+{
+  "date": "2012-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The first question on the employee survey is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you feel you are valued and treated with respect and dignity?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, let me put it this way..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You know how sometimes you step in something gross and then you have to wipe it off your shoe with a paper towel?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... you feel like the paper towel?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, the paper towel has a purpose."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So... you feel like the gross stuff on the shoe?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No, the gross stuff gets to leave."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I feel like a shoe that has gross stuff on the bottom and a sweaty foot shoved all the way to the end of its sole."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "I'll leave this one blank."
+      ]
+    },
+    {
+      "panel": 11,
+      "dialogue": [
+        "Because my opinions don't matter?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2003-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The man who couldn't give direct answers.",
+        "Did you ask your boss for approval?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I will explain the process for getting approval."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want to do this the hard way?",
+        "First, you ask for a meeting."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2001-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy service anniversary, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're out of twenty-year pins so I got twenty of the one-year pins."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can pin these babies all over your blouse... or fishing hat if you prefer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The card says, \"To Kathy\" but it was never opened. For some reason she quit the day she got her twenty pins."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Incidentally, I have to charge you $262 for the pins. The company doesn't pay for them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "First of all, I've only worked here for about six years..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wow. You look older.",
+        "Anyway, just give me the $262 and throw away eight pins and we'll call it good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why are you rolling up your sleeve? Are you going to pin them to your arm?"
+      ]
+    }
+  ]
+}

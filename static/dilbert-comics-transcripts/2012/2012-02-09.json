@@ -1,0 +1,23 @@
+{
+  "date": "2012-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to act more like a start-up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean I can wear whatever I want, work at home, and have a huge equity position in the company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh. I guess I didn't know what that meant."
+      ]
+    }
+  ]
+}

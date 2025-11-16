@@ -1,0 +1,54 @@
+{
+  "date": "2018-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe you could remove a few slides to make your deck shorter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you're saying I should give up on trying to be persuasive?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. I'm saying it would be more persuasive if it were shorter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So you're saying that having zero slides would be the most persuasive of all?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No. I'm saying you have more slides than you need."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So you're saying people don't need accurate information so long as they don't have lots of slides?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm not saying anything like that!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did Dilbert have any suggestions?",
+        "Just crazy ones."
+      ]
+    }
+  ]
+}

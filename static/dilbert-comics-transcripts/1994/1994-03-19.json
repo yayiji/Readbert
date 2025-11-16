@@ -1,0 +1,24 @@
+{
+  "date": "1994-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Susan, I'm reorganizing the department again.",
+        "The budget you worked on for months is now worthless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think when you have bad news, you should make an effort to break it gradually, maybe build up to it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, that reminds me: you're fired."
+      ]
+    }
+  ]
+}

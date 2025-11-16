@@ -1,0 +1,25 @@
+{
+  "date": "2007-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired an unqualified crony to run our quality control group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I value loyalty over competence.",
+        "That's the sign of a great leader."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you see any problem with that?",
+        "It makes you look extra disloyal?"
+      ]
+    }
+  ]
+}

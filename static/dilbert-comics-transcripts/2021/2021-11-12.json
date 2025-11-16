@@ -1,0 +1,23 @@
+{
+  "date": "2021-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We found some private emails you sent during college that are deeply offensive to many people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you show my private messages to the people who would be most offended, thus creating the very harm of which I am accused?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes. Why do you ask?"
+      ]
+    }
+  ]
+}

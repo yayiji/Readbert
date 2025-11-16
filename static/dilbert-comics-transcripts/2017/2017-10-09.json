@@ -1,0 +1,24 @@
+{
+  "date": "2017-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your approval to take a class on negotiating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "See if you can persuade me to approve it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to negotiate yet.",
+        "That's the flaw in your plan."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Anxiety arbitrator",
+        "I made a list of all the employees who need special treatment for their anxiety."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is our internal directory of every employee. It's as if you did no work at all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or am I thorough?"
+      ]
+    }
+  ]
+}

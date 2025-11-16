@@ -1,0 +1,23 @@
+{
+  "date": "2003-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our competitors found a way to send broadband internet traffic over the power grid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to find a way to send data via the sewer system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought I was already doing it."
+      ]
+    }
+  ]
+}

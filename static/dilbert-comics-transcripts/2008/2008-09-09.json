@@ -1,0 +1,23 @@
+{
+  "date": "2008-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saved a fortune by personally negotiating the contract for our new ERP system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You bought outdated hardware and forgot several components that are required."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I like software with my hardware, but that's just me."
+      ]
+    }
+  ]
+}

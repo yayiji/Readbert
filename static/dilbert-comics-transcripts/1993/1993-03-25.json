@@ -1,0 +1,26 @@
+{
+  "date": "1993-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll prove I deserve to be promoted to \"technical prima donna.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think this shows that I'm emotionally unstable and potentially dangerous.",
+        "Foooosh"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was that?",
+        "It was good.",
+        "I'm starting to over-value your technical knowledge already."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's why we should put the project on hold for now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hahaha!",
+        "That's exactly the opposite of what you said last week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I sometimes change my opinions when the facts change. How do you play it?",
+        "Now you're moving the goalposts."
+      ]
+    }
+  ]
+}

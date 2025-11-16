@@ -1,0 +1,23 @@
+{
+  "date": "2001-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Anne, I'm going to task you with a deliverable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!! Task is not a verb!! My world is falling apart!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tomorrow I'll ask her to timeline her project."
+      ]
+    }
+  ]
+}

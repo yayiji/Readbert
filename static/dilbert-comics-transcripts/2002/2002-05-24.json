@@ -1,0 +1,25 @@
+{
+  "date": "2002-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Demoted",
+        "I plan to spread rumors about our new boss until I get him fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll tell everyone that he's the most clueless human that ever lived. Hee hee!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Believe me, that doesn't work.",
+        "I have no idea what you're talking about."
+      ]
+    }
+  ]
+}

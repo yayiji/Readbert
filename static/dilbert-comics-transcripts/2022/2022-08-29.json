@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have been accused of having a relationship with a subordinate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So what? It hasn't changed any of my decisions as a CEO."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you recently promote your admin assistant to senior vice president of engineering?",
+        "She does good work!"
+      ]
+    }
+  ]
+}

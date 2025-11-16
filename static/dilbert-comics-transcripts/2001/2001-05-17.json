@@ -1,0 +1,23 @@
+{
+  "date": "2001-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you feel guilty about taking bribes from vendors?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. Do you feel guilty getting paid to walk around with a coffee cup?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need a bigger cup so this looks harder."
+      ]
+    }
+  ]
+}

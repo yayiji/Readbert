@@ -1,0 +1,25 @@
+{
+  "date": "1999-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Designing a call center",
+        "If the employees get this volume of calls per day they will wish they were dead."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But they won't be dead, just too beaten-down to look for better jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to make it any more inhumane.",
+        "We can punish them for not being cheerful."
+      ]
+    }
+  ]
+}

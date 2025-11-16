@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a lover, not a fighter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When is the last time you did either one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you trying to start a fight?",
+        "It's the better option of the two."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the greatest idea ever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why does it look so dumb when I put it in email?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bad decision 1",
+        "I'll sort it out later.",
+        "Send"
+      ]
+    }
+  ]
+}

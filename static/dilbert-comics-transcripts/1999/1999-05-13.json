@@ -1,0 +1,23 @@
+{
+  "date": "1999-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what is the quickest way to send these old binders to the landfill?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I usually use \"FedEx.\" Charge it to marketing; they never look at their expense reports."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's one more thing I can never tell anyone about my job."
+      ]
+    }
+  ]
+}

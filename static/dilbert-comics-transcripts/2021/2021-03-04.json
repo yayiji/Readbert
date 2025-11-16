@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We might not have the smartest engineers, but we can iterate faster than anyone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, we do have the smartest engineers, but your leadership incompetence cancels out our excellence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'll bet you don't know what \"iterate\" means.",
+        "I didn't think it would matter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I give my project status report, has anyone quit or been fired recently?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I fired Ted last week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now tell me why your project is late.",
+        "It was Ted's fault."
+      ]
+    }
+  ]
+}

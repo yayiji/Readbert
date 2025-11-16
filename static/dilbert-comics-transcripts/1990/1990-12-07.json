@@ -1,0 +1,26 @@
+{
+  "date": "1990-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our baby still needs a name.",
+        "He's wrecking my living room!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now he's wrecking my kitchen!!",
+        "Names... names..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's wrecking my bedroom!!",
+        "How about Rex?"
+      ]
+    }
+  ]
+}

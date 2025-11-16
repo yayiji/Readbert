@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will teach you how to insult your co-workers while staying within company guidelines."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The trick is to disguise your insults as compliments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice, I admire the way you dress for function over appearance.",
+        "Thanks. Wait..."
+      ]
+    }
+  ]
+}

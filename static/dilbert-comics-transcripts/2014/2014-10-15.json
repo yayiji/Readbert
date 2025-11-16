@@ -1,0 +1,23 @@
+{
+  "date": "2014-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You two have failed to meet your project milestones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you paired me with a toxic moron who is incapable of having an original thought."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That happened to me, too."
+      ]
+    }
+  ]
+}

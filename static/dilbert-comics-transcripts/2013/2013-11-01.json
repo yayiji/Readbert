@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who wants to go first with the brainstorming?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I suggest we ignore all of the studies that say brainstorming doesn't work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I hate you a little extra.",
+        "Because I agreed with your plan?"
+      ]
+    }
+  ]
+}

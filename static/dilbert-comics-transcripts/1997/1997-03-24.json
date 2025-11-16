@@ -1,0 +1,26 @@
+{
+  "date": "1997-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I studied your technical recommendation and decided it's impossible.",
+        "I already did it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will never work.",
+        "It's working perfectly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You spelled this word wrong.",
+        "That's a number."
+      ]
+    }
+  ]
+}

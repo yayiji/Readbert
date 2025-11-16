@@ -1,0 +1,52 @@
+{
+  "date": "2004-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excuse me. May I ask a question?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're blasting your music while your window is open, so I'm wondering..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you thinking that the people around you are enjoying your musical choices?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or are you a psychopath, prone to egocentric, antisocial behavior?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or is it a desperate, misguided attempt to improve your odds of finding a mate?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's actually a simple case of peer imitation and cognitive dissonance that causes me to selectively filter my perceptions."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I like that song.",
+        "Great! Now I suddenly hate it! You ruined everything!"
+      ]
+    }
+  ]
+}

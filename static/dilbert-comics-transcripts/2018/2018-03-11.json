@@ -1,0 +1,54 @@
+{
+  "date": "2018-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What would you say are your biggest weaknesses?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to rifle through my co-workers' desks when they aren't looking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I don't steal anything unless I know I can frame someone else for the crime."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I leave for work an hour late every day and blame traffic."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I avoid accomplishing goals so I won't feel like a sellout."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sometimes I'll start a trash fire just to get out of a meeting."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And I've gotten every one of my bosses fired for things they didn't say or do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would he be a good fit?",
+        "I like what he has to offer."
+      ]
+    }
+  ]
+}

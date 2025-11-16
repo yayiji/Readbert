@@ -1,0 +1,24 @@
+{
+  "date": "2005-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I understand that you have an opening for a negotiator who deals with potential jumpers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't see you because my hat is in the way, but you sound perfect for the job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your reverse psychology didn't work.",
+        "What reverse psychology?"
+      ]
+    }
+  ]
+}

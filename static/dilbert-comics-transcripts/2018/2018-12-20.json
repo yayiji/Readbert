@@ -1,0 +1,29 @@
+{
+  "date": "2018-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nasa has detected an alien probe heading for Earth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We won the Nasa contract to contact the aliens using a focused laser beam."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that look to them like an attack?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe that's why no one else bid."
+      ]
+    }
+  ]
+}

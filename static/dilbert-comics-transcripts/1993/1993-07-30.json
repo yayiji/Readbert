@@ -1,0 +1,26 @@
+{
+  "date": "1993-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The bioworld dome is now sealed.",
+        "You must live off its resources for two years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The edible plants were delivered just before the dome was sealed.",
+        "They are the key to your survival."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can somebody open the delivery door?",
+        "I've got some plants outside."
+      ]
+    }
+  ]
+}

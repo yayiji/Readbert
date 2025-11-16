@@ -1,0 +1,54 @@
+{
+  "date": "2013-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How'd your call go?",
+        "Better than I expected."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We spent the first 45 minutes trying to get our online collaboration tools to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then we couldn't agree on what we were trying to accomplish."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I couldn't understand most of the attendees because they were on speaker-phones in rooms with bad acoustics."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I randomly agreed to a few things, but I don't know what."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I thought you said it went better than you expected."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It did. I go into every human encounter expecting to be framed for a crime I didn't commit."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I really need to find a problem I can fix."
+      ]
+    }
+  ]
+}

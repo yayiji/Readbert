@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh, no... I feel a non-covid cough coming on."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Must... control it... to avoid looking infected."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's up with him?",
+        "He looks infected."
+      ]
+    }
+  ]
+}

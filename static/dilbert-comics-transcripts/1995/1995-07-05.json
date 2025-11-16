@@ -1,0 +1,25 @@
+{
+  "date": "1995-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe you shouldn't have told Stan you reprogrammed his DNA through the LAN."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those marketing guys believe anything.",
+        "They even believe market research, for heaven's sake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no telling what the power of suggestion might do.",
+        "Well, thank you very much."
+      ]
+    }
+  ]
+}

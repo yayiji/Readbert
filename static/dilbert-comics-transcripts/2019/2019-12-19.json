@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear we are not allowed to work from home because it doesn't satisfy your sick need to wield power over us in person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not fair.",
+        "Is it accurate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's stick with \"not fair.\""
+      ]
+    }
+  ]
+}

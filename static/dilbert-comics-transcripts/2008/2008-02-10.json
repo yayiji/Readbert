@@ -1,0 +1,56 @@
+{
+  "date": "2008-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll be using the Dogbert personality predictor index to judge your career potential."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then we'll leave you in the dead end job that most closely matches your lack of potential."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's a sample question..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How would other people describe you?",
+        "A) Angry loner",
+        "B) Embezzler",
+        "C) Lazy"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's not enough choices!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Says the angry loner."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You have thirty minutes to give yourself a label that will haunt you for the rest of your life."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would you say I'm more of an unidentified hominid or an inappropriate toucher?"
+      ]
+    }
+  ]
+}

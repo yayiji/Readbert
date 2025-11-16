@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Diet guru",
+        "Try stuffing fewer groceries down your maw."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was hoping you'd give me motivation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop eating or I'll kill you.",
+        "Would I get a last meal?"
+      ]
+    }
+  ]
+}

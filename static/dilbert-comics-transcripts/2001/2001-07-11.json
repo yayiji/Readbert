@@ -1,0 +1,24 @@
+{
+  "date": "2001-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It needs to be so easy that your mother could use it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My mother isn't a moron. Maybe we could use your mother as the test."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What makes you think my mother is a moron?",
+        "She fed you."
+      ]
+    }
+  ]
+}

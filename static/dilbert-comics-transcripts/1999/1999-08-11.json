@@ -1,0 +1,23 @@
+{
+  "date": "1999-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The huge product requirements document was destroyed in a freak accident."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll ask marketing to send you a new copy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I told you we can't stop them one-bee-at-a-time. We have to go for the queen."
+      ]
+    }
+  ]
+}

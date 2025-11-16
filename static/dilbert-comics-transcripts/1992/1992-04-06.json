@@ -1,0 +1,24 @@
+{
+  "date": "1992-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'm putting you on a rotational assignment..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You will be working in marketing until further notice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Marketing",
+        "Two drink minimum"
+      ]
+    }
+  ]
+}

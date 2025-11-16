@@ -1,0 +1,28 @@
+{
+  "date": "1989-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yikes!",
+        "What are you?!",
+        "Do not panic.",
+        "I am your ego."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My ego??... Shouldn't you be inside me someplace?",
+        "Well, yes, normally we egos feed within the body."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So what the heck are you doing out here?",
+        "You're starving me, man. I'm going to try out for a play or something."
+      ]
+    }
+  ]
+}

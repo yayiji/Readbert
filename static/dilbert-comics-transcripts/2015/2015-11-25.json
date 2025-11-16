@@ -1,0 +1,24 @@
+{
+  "date": "2015-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Robots have no need for consciousness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We believe humans evolved to have consciousness to remind them how dumb they are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I still prefer having consciousness.",
+        "Listen to your body."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "1992-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert sues Dilbert for petimony.",
+        "Can't we handle this amicably, without lawyers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been advised that you're ugly."
+      ]
+    }
+  ]
+}

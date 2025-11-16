@@ -1,0 +1,25 @@
+{
+  "date": "2008-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "I've seen your resume and I sense desperation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our janitor recently passed away, so I have a job for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want me to clean toilets?",
+        "No, I want you to bury the janitor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2008-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How is work, Dilbert?",
+        "Well, Mom..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm like a fly stuck in a thick tar of despair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Incompetence hangs in the air like the cold stench of death."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm drowning, and monkeys dressed as lifeguards are throwing me anvils."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My job has convinced me that life is a stale joke with no punch line."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I long for the comfort of the grave."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Next time just say, \"It's fine.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I enjoy our talks.",
+        "It's fine."
+      ]
+    }
+  ]
+}

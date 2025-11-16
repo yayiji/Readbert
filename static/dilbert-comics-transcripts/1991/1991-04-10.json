@@ -1,0 +1,24 @@
+{
+  "date": "1991-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I should be acquiring super powers any moment from that radioactive bug bite."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wish I knew what kind of bug bit me, so I'd know what powers to expect.",
+        "Let's look it up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Dung beetle.\""
+      ]
+    }
+  ]
+}

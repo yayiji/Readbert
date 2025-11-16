@@ -1,0 +1,31 @@
+{
+  "date": "2010-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!!!",
+        "It hurts",
+        "so bad!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That artificial",
+        "display of pain was",
+        "a reminder that",
+        "software is not",
+        "created by magic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The elves",
+        "are getting",
+        "uppity."
+      ]
+    }
+  ]
+}

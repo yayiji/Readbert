@@ -1,0 +1,24 @@
+{
+  "date": "2014-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to write a business plan for our new line of products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that because business plans have a good track record of being useful and accurate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's nothing like that.",
+        "Good, because I plan to make up all of the numbers."
+      ]
+    }
+  ]
+}

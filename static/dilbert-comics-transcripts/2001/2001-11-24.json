@@ -1,0 +1,25 @@
+{
+  "date": "2001-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In Elbonia",
+        "I'm authorized to give each of you one dollar of severance pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're rich!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much were we paying you?",
+        "Nothing. We were entirely motivated by slogans."
+      ]
+    }
+  ]
+}

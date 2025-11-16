@@ -1,0 +1,55 @@
+{
+  "date": "2002-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to write a letter to our new customer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll tell you what to say, then you'll go write it and I'll sign it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This way I won't waste my valuable executive time.",
+        "It's efficient."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, that's one possible outcome.",
+        "Here's another."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll keep forgetting to mention important things that should be in the letter."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll be trapped in an endless loop of writing, tracking you down, getting criticized and starting over."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or you could simply write the letter yourself and save us both a huge hassle."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "In paragraph one, say something like \"Hi.\""
+      ]
+    }
+  ]
+}

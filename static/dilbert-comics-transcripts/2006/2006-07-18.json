@@ -1,0 +1,25 @@
+{
+  "date": "2006-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My pointy-haired boss couldn't make it, so he asked me to take notes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The entire reason for this meeting is to get his input.",
+        "How the %*$! does taking notes help? ?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The...",
+        "Entire..."
+      ]
+    }
+  ]
+}

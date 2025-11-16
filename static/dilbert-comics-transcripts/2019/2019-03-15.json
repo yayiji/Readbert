@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The unethical scientist we hired to support our product claims started today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write a press release that says whatever we want him to say and put his name on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we show it to him?",
+        "That feels like overkill."
+      ]
+    }
+  ]
+}

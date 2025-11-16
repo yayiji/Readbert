@@ -1,0 +1,24 @@
+{
+  "date": "1997-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Installing an ISDN line.",
+        "First we need to make sure your phone line is connected to our network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll yank the wire while you listen for a \"whump\" sound at the central office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I heard something."
+      ]
+    }
+  ]
+}

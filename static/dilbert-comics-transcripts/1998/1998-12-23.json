@@ -1,0 +1,24 @@
+{
+  "date": "1998-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear the camera adds...um... eighty pounds?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. And if you use black and white film, the camera adds makeup too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does the camera add hair?",
+        "Why would it need to?"
+      ]
+    }
+  ]
+}

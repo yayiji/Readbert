@@ -1,0 +1,27 @@
+{
+  "date": "1989-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ping"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You win, again.",
+        "I sure wish I knew how you make that shot.",
+        "Supernatural forces."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "Supernatural?",
+        "The mental game is so important."
+      ]
+    }
+  ]
+}

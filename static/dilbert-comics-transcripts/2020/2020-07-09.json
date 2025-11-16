@@ -1,0 +1,30 @@
+{
+  "date": "2020-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you know you can just refuse to do things that are stupid, and it will be okay?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't believe that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's true! I've been testing it all week."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Take a video next time you do it so I can see how.",
+        "No, that's stupid."
+      ]
+    }
+  ]
+}

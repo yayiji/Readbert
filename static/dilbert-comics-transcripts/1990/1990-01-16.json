@@ -1,0 +1,26 @@
+{
+  "date": "1990-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can't I talk you out of becoming a substitute teacher?",
+        "Don't worry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't damage the little tykes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Day one",
+        "Good morning, children. I'm Mr. Dogbert.",
+        "Are you flammable?"
+      ]
+    }
+  ]
+}

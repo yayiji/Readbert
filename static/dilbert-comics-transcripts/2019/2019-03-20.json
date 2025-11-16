@@ -1,0 +1,25 @@
+{
+  "date": "2019-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know enough about climate change to sound smart when people talk about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try doing your own research.",
+        "That's how I learned that hurricanes are caused by birds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Write that down for me.",
+        "And did you know polar bears hate snow?"
+      ]
+    }
+  ]
+}

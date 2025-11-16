@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You did not have sufficient empathy when I told you my sad story."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How could you possibly measure my internal feelings of empathy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I used my empathy sensor.",
+        "That's a stapler."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You told us we need to set goals and have passion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But what if my passion is to avoid having measurable goals?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're passionate about being useless?",
+        "Hey, back off, dream-killer."
+      ]
+    }
+  ]
+}

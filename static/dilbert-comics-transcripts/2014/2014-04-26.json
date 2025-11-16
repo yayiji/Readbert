@@ -1,0 +1,27 @@
+{
+  "date": "2014-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Dilbert.",
+        "We met last week.",
+        "We did?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only try to remember things that might be important.",
+        "Everything else I flush."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My name is Randy.",
+        "Flush"
+      ]
+    }
+  ]
+}

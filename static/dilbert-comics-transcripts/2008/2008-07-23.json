@@ -1,0 +1,24 @@
+{
+  "date": "2008-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe later you can give me a back rub with your good hand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have a good hand.",
+        "But one of my elbows doesn't hurt too much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like you're not even trying to make me happy."
+      ]
+    }
+  ]
+}

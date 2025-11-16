@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I own a small business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's imperative that you pay us on time or else we'll go out of business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then you wouldn't ever need to pay...",
+        "Oh, dear lord, what have I said?!!"
+      ]
+    }
+  ]
+}

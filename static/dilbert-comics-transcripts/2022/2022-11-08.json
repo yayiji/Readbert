@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got a bad case of long covid.",
+        "I need to take some time off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do I know you really have long covid?",
+        "I have a note from my doctor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nice try, but I only trust medical information from Twitter gadflies."
+      ]
+    }
+  ]
+}

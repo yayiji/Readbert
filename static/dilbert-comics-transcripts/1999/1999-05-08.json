@@ -1,0 +1,29 @@
+{
+  "date": "1999-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, I want you to write the Chinese version of our product's instructions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you tell the difference between Chinese words and random scribbles?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll be done in five minutes."
+      ]
+    }
+  ]
+}

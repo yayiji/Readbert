@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, report to human resources to find out the consequences of your inappropriate behavior."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What did I do wrong?",
+        "I don't know, but you look like the kind of guy who would do terrible things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lucky guess."
+      ]
+    }
+  ]
+}

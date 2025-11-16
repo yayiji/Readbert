@@ -1,0 +1,26 @@
+{
+  "date": "2018-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How conspiracy theories start",
+        "I can't find my spreadsheet files."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I saw Dilbert going into the server room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't mean any...",
+        "Carol said he was mad about something you said.",
+        "Continued..."
+      ]
+    }
+  ]
+}

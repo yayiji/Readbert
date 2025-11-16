@@ -1,0 +1,25 @@
+{
+  "date": "1991-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see it's your turn to work with Floyd.",
+        "Yeah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He lived on my back for a year, sharing my successes without contributing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I had him lanced.",
+        "Does it leave a big hickey?"
+      ]
+    }
+  ]
+}

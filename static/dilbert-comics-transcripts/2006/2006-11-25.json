@@ -1,0 +1,25 @@
+{
+  "date": "2006-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When I was a kid, we didn't have any cell phones, iPods, video games, or computers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I played outside.",
+        "My only toy was tree bark."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Were you raised by squirrels?",
+        "No, I'm just mature."
+      ]
+    }
+  ]
+}

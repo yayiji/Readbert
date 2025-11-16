@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It takes you two months to process my company credit card expense reimbursement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I get in trouble every month for incurring late fees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why must I be punished for your incompetence?",
+        "Apparently I'm awesome."
+      ]
+    }
+  ]
+}

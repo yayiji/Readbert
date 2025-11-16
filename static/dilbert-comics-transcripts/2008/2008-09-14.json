@@ -1,0 +1,57 @@
+{
+  "date": "2008-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a little problem with our new cell phone product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It gives off a form of radiation that has a negative effect on the user."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How bad is it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, it makes your head turn red, and you lose weight."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hey, what is up with our new cell phone? I feel different."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can I borrow your friend?",
+        "I don't see why not."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Aaaiii!!!",
+        "Glub",
+        "Glub",
+        "Glub"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Anyway, see if you can put a positive spin on it."
+      ]
+    }
+  ]
+}

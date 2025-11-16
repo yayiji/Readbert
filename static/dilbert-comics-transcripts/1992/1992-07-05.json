@@ -1,0 +1,53 @@
+{
+  "date": "1992-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, do you have a minute?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company is doing a survey of employee attitudes about their bosses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's totally anonymous, so you don't have to fear any retribution."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oops! It looks like your questionnaire is a bit dog-eared."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll put my phone number on the confidential envelope in case you need me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You can use this green marker pen."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, and I took the liberty of checking off your ethnic background as Eskimo. It's just a statistical thing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "1. Does your boss clearly communicate your objectives?"
+      ]
+    }
+  ]
+}

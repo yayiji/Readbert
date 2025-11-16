@@ -1,0 +1,23 @@
+{
+  "date": "2000-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have the results of your Myers-Briggs personality test."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've been classified as a \"PHB.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's a fourth letter, but that was for an expletive."
+      ]
+    }
+  ]
+}

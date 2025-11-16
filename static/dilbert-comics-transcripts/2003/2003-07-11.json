@@ -1,0 +1,26 @@
+{
+  "date": "2003-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A few years ago",
+        "The company will no longer provide free soft drinks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This year",
+        "No more free coffee, and no more free bottled water."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In the future",
+        "Don't swallow your saliva."
+      ]
+    }
+  ]
+}

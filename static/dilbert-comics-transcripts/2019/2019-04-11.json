@@ -1,0 +1,28 @@
+{
+  "date": "2019-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I notice you have your keyboard click sounds activated.",
+        "I've been listening to it all morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know how to make it stop."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll show you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    }
+  ]
+}

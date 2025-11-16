@@ -1,0 +1,24 @@
+{
+  "date": "2005-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Could I have a few days off to see if my stress hump goes away?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stress is all in your mind. I should fire you and your hump right now for even asking!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just because he said no?",
+        "It was the way he said it."
+      ]
+    }
+  ]
+}

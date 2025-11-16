@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that everyone knows you are a liar, everything you say sounds like a lie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your starting assumption is wrong. I didn't lie about anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's exactly what all liars say.",
+        "Excuse me while I bang my head on this table until I pass out ..."
+      ]
+    }
+  ]
+}

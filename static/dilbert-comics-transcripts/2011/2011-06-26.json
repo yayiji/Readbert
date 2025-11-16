@@ -1,0 +1,54 @@
+{
+  "date": "2011-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Steer clear of Darryl. He turned feral.",
+        "Feral?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's what happens when engineers don't get invited to meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Darryl's only social life was meetings."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He didn't get to use his social skills for a few weeks, and apparently he lost them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is it like he turned into a wolfman?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, except he's better at math. And he howls at the internet, not the moon."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can we watch?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How-oooooo can you blog that?"
+      ]
+    }
+  ]
+}

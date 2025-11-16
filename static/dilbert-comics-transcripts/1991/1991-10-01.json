@@ -1,0 +1,25 @@
+{
+  "date": "1991-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Knock knock"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dogbert, I am \"fate\".",
+        "You must steal Dilbert's hover-saucer and conquer the tiny nation of Elbonia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Since when does fate knock?",
+        "I was bought out in an unfriendly merger by \"opportunity.\" I should have seen it coming."
+      ]
+    }
+  ]
+}

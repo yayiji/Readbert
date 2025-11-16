@@ -1,0 +1,57 @@
+{
+  "date": "2002-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell everyone I'll be there in a minute.",
+        "Sniff"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's all that sniffing about?",
+        "Do you have a cold?",
+        "Little one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "MmmpH"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Cough"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Gaaa!!! I took a direct hit!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The cooties are burrowing into my skin."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm unclean!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope that's what motivation looks like.",
+        "Close enough."
+      ]
+    }
+  ]
+}

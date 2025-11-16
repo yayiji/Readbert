@@ -1,0 +1,58 @@
+{
+  "date": "2017-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a huge breakthrough in artificial intelligence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask the device anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you want for dinner?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't care.",
+        "What do you want?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I was thinking maybe Chinese food."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm not in the mood for that.",
+        "Then why did you say you don't care???"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now I'm not even hungry.",
+        "Why?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Nothing is wrong.",
+        "You nailed it."
+      ]
+    }
+  ]
+}

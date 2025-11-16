@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "First I'll saw open your head.",
+        "Then I'll replace your faulty brain with a fresh cauliflower."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do I know you won't put me to sleep, eat the cauliflower and claim the operation worked?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That reminds me: your insurance doesn't cover anesthesia."
+      ]
+    }
+  ]
+}

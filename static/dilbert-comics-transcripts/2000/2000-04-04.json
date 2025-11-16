@@ -1,0 +1,24 @@
+{
+  "date": "2000-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally is out on disability. I want you to spy on him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need video evidence of Wally doing a vigorous activity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you think of anything that Wally does vigorously?",
+        "I'd rather not."
+      ]
+    }
+  ]
+}

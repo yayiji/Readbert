@@ -1,0 +1,56 @@
+{
+  "date": "1998-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, this is our newest employee, Matt."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you mind...",
+        "Crushing his spirit?",
+        "Right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This little box will be your home for sixty hours a week."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It comes with an obsolete computer and a binder about safety hazards."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your challenge is to look busy until someone gives you a meaningful assignment."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How long will that take?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm still waiting for mine."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Safety tip 1:",
+        "Don't sit near any obsolete computers."
+      ]
+    }
+  ]
+}

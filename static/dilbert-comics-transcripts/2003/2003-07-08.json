@@ -1,0 +1,26 @@
+{
+  "date": "2003-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A bad day",
+        "Maybe it's time to look for a new job online."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A worse day",
+        "Hey, that's my job they're trying to fill."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A much worse day",
+        "And I'm unqualified."
+      ]
+    }
+  ]
+}

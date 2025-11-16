@@ -1,0 +1,24 @@
+{
+  "date": "1999-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to try motivating you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you do a great job, you get to go on a golfing day with co-workers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question: Can I take a pay cut instead.",
+        "Zzzz"
+      ]
+    }
+  ]
+}

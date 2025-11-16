@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For a boss's pet, you're nice.",
+        "I see no reason to be unkind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Buwhahaha! We're alone now, nerdling! Do my bidding or I will eat you alive!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They always forget to factor in your head size."
+      ]
+    }
+  ]
+}

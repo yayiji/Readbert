@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your honor, my client has been accused of slaying an executive of his company..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But these x-rays prove that the deceased died from choking on a waffle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like you drew these x-rays yourself.",
+        "Oh, I suppose there's a law against that, too!"
+      ]
+    }
+  ]
+}

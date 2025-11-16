@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congress subpoenaed our CEO to testify about the danger of our products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to prepare him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To get the facts right?",
+        "I was thinking more along the lines of fleeing justice."
+      ]
+    }
+  ]
+}

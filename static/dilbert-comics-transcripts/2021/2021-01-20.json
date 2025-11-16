@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been keeping a running list, and it seems that 100% of the things you told me this year have been false."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And we both got paid, so what's your point?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I... don't know how to process that.",
+        "I'd tell you, but apparently you wouldn't believe me."
+      ]
+    }
+  ]
+}

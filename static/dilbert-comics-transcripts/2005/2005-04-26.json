@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm rating you \"good\" but not because you are."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Company policy says I have to fire anyone rated lower than good, and the hiring freeze means it would shrink my empire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you can get paid for doing nothing as long as you don't kill anyone.",
+        "I can't promise that."
+      ]
+    }
+  ]
+}

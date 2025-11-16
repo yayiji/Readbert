@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to attend a three-day industry standards meeting in Elbonia.",
+        "Why Elbonia?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because Elbonia is the worst place on Earth. The member companies don't want this to look like a boondoggle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess three days won't be so bad.",
+        "You're not allowed to eat."
+      ]
+    }
+  ]
+}

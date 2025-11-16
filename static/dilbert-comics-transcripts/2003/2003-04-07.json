@@ -1,0 +1,25 @@
+{
+  "date": "2003-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert the headhunter.",
+        "I noticed that your company's stock is up today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As CEO, you can take credit for random upturns and make millions by changing jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha, ha! Yes, it's legal.",
+        "In fact, if you write a book, your victims will buy it!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would it be okay if I worked three hours a week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Any more than three and my quality of life takes a steep dive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Secondly, is this a good time to talk about a gigantic raise?"
+      ]
+    }
+  ]
+}

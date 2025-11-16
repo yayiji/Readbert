@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All you did this quarter is design one microchip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In comparison, I found the time to attend dozens of meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now do you see what it takes to be a manager?",
+        "Sadly, yes."
+      ]
+    }
+  ]
+}

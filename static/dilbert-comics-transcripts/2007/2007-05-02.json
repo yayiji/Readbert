@@ -1,0 +1,26 @@
+{
+  "date": "2007-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a report of a cartoonist in cubicle 45950.",
+        "His comics might embarrass the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can't fire him because it would look bad.",
+        "You must give him absurd assignments until he quits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your new job is to evaluate technology that obviously has no economical application.",
+        "Woo hoo!"
+      ]
+    }
+  ]
+}

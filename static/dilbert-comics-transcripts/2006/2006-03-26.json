@@ -1,0 +1,57 @@
+{
+  "date": "2006-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's that thing doing here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is my daughter, Traylor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I brought her to the office so she can learn about working in a corporate environment."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, whatever.",
+        "I have a new project for you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Some idiot cut his finger.",
+        "Now we have to do a safety awareness campaign."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Put on this dog costume.",
+        "You're the mascot for our \"Spot\" the safety hazard campaign."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whenever anyone walks by, you say, \"Woof woof, don't use scissors.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can I get a tattoo?",
+        "Sure."
+      ]
+    }
+  ]
+}

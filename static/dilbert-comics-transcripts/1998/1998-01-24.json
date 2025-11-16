@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished my work despite having a slight flu.",
+        "Here's your copy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... you should give that copy to Wally.",
+        "Wally isn't on this project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know.",
+        "I just figure he has the least reason to live."
+      ]
+    }
+  ]
+}

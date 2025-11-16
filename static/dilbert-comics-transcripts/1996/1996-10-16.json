@@ -1,0 +1,29 @@
+{
+  "date": "1996-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your booth at the trade show must be attention-grabbing.",
+        "You have several options."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "1. Magic tricks",
+        "2. Special effects",
+        "3. Raffles",
+        "4. Booth babes"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For the best result, combine all four:",
+        "Create the illusion that you're raffling off the booth babes.",
+        "Booth babes?"
+      ]
+    }
+  ]
+}

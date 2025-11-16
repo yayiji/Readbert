@@ -1,0 +1,26 @@
+{
+  "date": "2004-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We only have two people on the third floor.",
+        "Let's move them to our empty cubes here and sublet the space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write a business case with all the risks and business drivers and I'll consider it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I changed my mind.",
+        "We shouldn't do anything.",
+        "I need a business case for that, too."
+      ]
+    }
+  ]
+}

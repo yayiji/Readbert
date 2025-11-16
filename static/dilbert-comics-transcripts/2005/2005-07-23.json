@@ -1,0 +1,25 @@
+{
+  "date": "2005-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The best way to make this decision is by calculating the expected value of each possible outcome."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You multiply the...",
+        "Must pretend to be dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I sense that we're done here.",
+        "I hope the dead sometimes cover their ears."
+      ]
+    }
+  ]
+}

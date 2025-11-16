@@ -1,0 +1,25 @@
+{
+  "date": "2020-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, team. We can get this done if we trust each other."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not a thing.",
+        "I don't trust any of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we can pretend.",
+        "I'd need to pretend we're different people."
+      ]
+    }
+  ]
+}

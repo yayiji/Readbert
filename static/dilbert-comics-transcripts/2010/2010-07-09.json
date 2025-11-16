@@ -1,0 +1,24 @@
+{
+  "date": "2010-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I need you to help Alice give a presentation to 500 sales reps."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gmph!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that your stomach?",
+        "Yeth."
+      ]
+    }
+  ]
+}

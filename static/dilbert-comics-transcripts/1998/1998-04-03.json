@@ -1,0 +1,24 @@
+{
+  "date": "1998-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look at the warning label on Alice's antidepressants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It can cause fatigue, disorientation, memory loss, and lack of sex."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder how long we've been taking them.",
+        "There's no way to know."
+      ]
+    }
+  ]
+}

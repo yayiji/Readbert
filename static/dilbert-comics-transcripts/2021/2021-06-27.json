@@ -1,0 +1,59 @@
+{
+  "date": "2021-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a device that can detect losers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do I know it's accurate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Point it at a known loser and see if it pings."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hey! It knows Ted is a loser!",
+        "Ping!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha ha ha!!! It says Dilbert and Alice are losers too!",
+        "Ping!",
+        "Ping!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And Carol and Wally too! Ha ha ha!!! This thing is totally accurate!",
+        "Ping!",
+        "Ping!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're holding it backward."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How exactly does it detect losers?",
+        "They're the ones who hold it backward."
+      ]
+    }
+  ]
+}

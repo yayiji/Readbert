@@ -1,0 +1,25 @@
+{
+  "date": "2023-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dave, do you have an update to share?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, I can speak to that.",
+        "At the end of the day, it is what it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you done?",
+        "Strategy, structure and people!"
+      ]
+    }
+  ]
+}

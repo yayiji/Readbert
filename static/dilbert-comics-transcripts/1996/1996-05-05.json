@@ -1,0 +1,55 @@
+{
+  "date": "1996-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to move you one cubicle down.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way my people will be in a square pattern."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're in a random pattern now. The symmetry is bad."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You want me to waste two days of work to move..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll have no phone and no network connection for a week..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll have to order new business cards and update my cubicle address on dozens of records."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And you still won't have a square because there are five of us."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I got downsized. Apparently somebody complained that I formed a pentagon.",
+        "That can happen."
+      ]
+    }
+  ]
+}

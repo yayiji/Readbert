@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, if I fail to blow the whistle on our product's safety problem, I will be like a murderer!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, technically you'd be more like a killer, you wuss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My guts feel like I swallowed a squirrel.",
+        "You have totally sucked the flavor out of this scone."
+      ]
+    }
+  ]
+}

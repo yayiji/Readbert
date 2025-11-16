@@ -1,0 +1,24 @@
+{
+  "date": "1995-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, you ignored my recommendation and bought a low-cost system that's totally inadequate..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You compensated for this blunder by making it part of my objectives to make the system work..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll get a bonus for saving money. I'll get fired, thus saving more money and earning you another bonus.",
+        "I'm on a roll."
+      ]
+    }
+  ]
+}

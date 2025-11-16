@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me what you are looking for in an employer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want a company that appreciates a healthy work-life balance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have a bit of a victim vibe.",
+        "I was hoping that didn't show."
+      ]
+    }
+  ]
+}

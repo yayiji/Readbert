@@ -1,0 +1,25 @@
+{
+  "date": "2000-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This investment combines the best features of an annuity plus a twenty-year car lease."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I tell if there are hidden fees?",
+        "You can pay me 1% per year to advise you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that be like paying a burglar to guard my house?",
+        "Excuse me while I wag."
+      ]
+    }
+  ]
+}

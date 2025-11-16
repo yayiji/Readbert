@@ -1,0 +1,55 @@
+{
+  "date": "1993-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Free therapy"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why is it free?",
+        "Our therapists are first year psychology students."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What have I got to lose?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sometimes I have low self-esteem..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your problem is that you're ugly. You should drink beer until you feel handsome."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I thought you would say something about my mother."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Good point. Your mother should drink beer too. She's probably as ugly as you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're over-priced.",
+        "Ooh, \"Mister low self-esteem\" is unhappy."
+      ]
+    }
+  ]
+}

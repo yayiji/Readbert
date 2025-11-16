@@ -1,0 +1,60 @@
+{
+  "date": "2005-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This budget would only work if the project encountered no problems whatsoever.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All projects have unexpected problems.",
+        "Therefore, this budget is almost certainly wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Leaders do not plan for failure."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do leaders make deceptive forecasts and later act shocked when things don't work out?",
+        "No."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A leader first makes himself believe the lie, thus turning deception into an inspiring form of optimism.",
+        "Observe."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa!!!",
+        "Believe!",
+        "Believe!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The swelling will go down in a few hours.",
+        "Then we'll have a perfect budget."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What?"
+      ]
+    }
+  ]
+}

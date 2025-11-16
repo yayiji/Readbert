@@ -1,0 +1,31 @@
+{
+  "date": "2014-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Weren't you obese yesterday?",
+        "I got the \"Insanity\" workout video."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What kind of exercise makes you lose sixty pounds in one day?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't exercise.",
+        "All I did was watch it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And that was the easy part..."
+      ]
+    }
+  ]
+}

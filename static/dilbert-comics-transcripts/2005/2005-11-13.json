@@ -1,0 +1,54 @@
+{
+  "date": "2005-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember to include my name on the patent application."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why? You didn't help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's ridiculous! I've been helping you design that thing for months!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I saved all three of your e-mails. Allow me to read them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Dude, is something wrong with your brain?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Later: \"Hey, Dilweed, maybe you should replace the backplane with a gizmo.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then my personal favorite: \"Dilbag, I'm glad you took my advice to leave the backplane alone.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's my way of helping.",
+        "It's great. You should patent it."
+      ]
+    }
+  ]
+}

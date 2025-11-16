@@ -1,0 +1,24 @@
+{
+  "date": "2022-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You seem like the kind of guy who is secretly building a robot companion in his basement lab."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And when it is complete, it will leave you for a better engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I close?",
+        "That's why I install the legs last."
+      ]
+    }
+  ]
+}

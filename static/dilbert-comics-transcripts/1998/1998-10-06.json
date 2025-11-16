@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's another shovel full of assignments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How am I supposed to get all of that done?",
+        "Only do the most important ones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Identify all the acronyms that have never been used.",
+        "That's an important one."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2020-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your method of calculating the safety statistics is flawed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow. Wait until I tell everyone you don't think safety matters."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I... didn't say that. I'm talking about the way you measured it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's too late to walk it back now!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not \"walking it back.\" I'm clarifying."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "There's nothing to clarify. You hate safety."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop putting words in my mouth!!! I'm a better authority on what I think than you are!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What was all that yelling about?",
+        "Dilbert thinks safety doesn't matter."
+      ]
+    }
+  ]
+}

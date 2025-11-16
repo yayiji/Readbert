@@ -1,0 +1,28 @@
+{
+  "date": "1996-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a new data encryption program called P.H.B.",
+        "Which stands for Pointy-Haired Boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It converts e-mail into manager babble.",
+        "Nobody can intercept and decode my private messages without the key.",
+        "Who would want to read your messages?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Somebody might want to read my messages.",
+        "It could happen!",
+        "And maybe you should carry pepper spray in case supermodels try to kiss you."
+      ]
+    }
+  ]
+}

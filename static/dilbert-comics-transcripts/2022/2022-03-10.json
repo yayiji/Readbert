@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to spy on my corporate nemesis and report back to me on what he's thinking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He thinks you're an unethical weasel with no redeeming qualities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You haven't spied on him yet.",
+        "I'm an excellent guesser."
+      ]
+    }
+  ]
+}

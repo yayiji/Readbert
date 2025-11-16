@@ -1,0 +1,31 @@
+{
+  "date": "2016-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where's Asok?",
+        "The FBI took him on suspicion of being a terrorist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now that you mention it, something about him was wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was it his boss?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Was that a joke?",
+        "I'm not sure. I don't have a sense of humor, either."
+      ]
+    }
+  ]
+}

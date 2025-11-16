@@ -1,0 +1,42 @@
+{
+  "date": "1990-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I read that dinosaurs evolved into the bird family."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's exactly correct, Dogbert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But most people don't realize that there was a very difficult period when some dinosaurs started evolving into birds."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Learning to fly was the hardest part."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And living in trees was a real nuisance."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Boy, that sounds tough.",
+        "The tragic part is that we did it just for the \"bonus miles\"."
+      ]
+    }
+  ]
+}

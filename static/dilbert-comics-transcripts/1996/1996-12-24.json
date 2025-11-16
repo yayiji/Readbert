@@ -1,0 +1,25 @@
+{
+  "date": "1996-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Marilyn Vos Savant, the smartest human alive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She will help you understand your airline \"often flier\" program.",
+        "I'm stumped."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "After this, could you tell me which phone company saves me the most money?",
+        "My brain's trying to escape; you scared it."
+      ]
+    }
+  ]
+}

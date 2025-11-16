@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, all of my arguments will be based on definitions that are not in any dictionary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, I could argue that you're a fascist because you're wearing pajamas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm only wearing the top.",
+        "Man, I wish I didn't know that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2017-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Randy, our new employee who has no soul."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow.",
+        "What's it like to have no soul?",
+        "I feel only emptiness and pain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you didn't take this job to get away from emptiness and pain.",
+        "No,",
+        "I just wanted to get paid for it."
+      ]
+    }
+  ]
+}

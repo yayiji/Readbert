@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, this task is right up your alley."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why should I do your work, you filthy buck-passer?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because it's right up your alley.",
+        "It's gonna be right up your alley."
+      ]
+    }
+  ]
+}

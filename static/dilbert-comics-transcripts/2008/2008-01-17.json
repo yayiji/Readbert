@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who will present my findings to the board of directors?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They only listen to the CEO. And he only listens to the senior vice presidents, and they only listen to the..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you show this to the janitor for me?",
+        "Whoa! Whoa! You don't talk to me directly!"
+      ]
+    }
+  ]
+}

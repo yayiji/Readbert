@@ -1,0 +1,25 @@
+{
+  "date": "1996-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally and I came up with a great new product idea!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Inspiration alert in effect!!",
+        "Danger! New idea!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "State your idea now",
+        "Um, you tell him."
+      ]
+    }
+  ]
+}

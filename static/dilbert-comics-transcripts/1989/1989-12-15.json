@@ -1,0 +1,25 @@
+{
+  "date": "1989-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert is threatened by an abusive skunk.",
+        "That's right: a big bowl of ice cream could keep me from being afraid and reflexively spraying your living room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is blackmail!",
+        "My goodness, no. It's just that I can't control my fear response."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'm afraid that you won't sing the songs from \"Cats\" while I eat."
+      ]
+    }
+  ]
+}

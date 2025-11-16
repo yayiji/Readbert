@@ -1,0 +1,57 @@
+{
+  "date": "2012-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to upgrade some of our servers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's dumb.",
+        "We upgraded two of them last week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Right. Now we need to upgrade the rest of them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then why did you say we have to upgrade all of them?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, I didn't.",
+        "But I think we all agree on what needs to be done."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Not if you insist on upgrading the servers we already upgraded last week."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaaa!!!",
+        "Kill me with a comet!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Does he ever say anything that makes sense?",
+        "There's no way to be sure."
+      ]
+    }
+  ]
+}

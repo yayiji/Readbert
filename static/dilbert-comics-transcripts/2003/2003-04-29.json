@@ -1,0 +1,25 @@
+{
+  "date": "2003-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm seeing signs that I might get laid off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's probably your imagination.",
+        "Just ignore them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have to admit that I like it when they're jumpy.",
+        "You might be next"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1992-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mother nature!",
+        "Hi, Dogbert, you little lard bag."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Geez, mother nature, why are you so mean?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not mean; it's natural. Nature seems cruel but it's really beautiful."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, do you see that robin that's singing?",
+        "Yes?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Zap!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He was off-key. Now nature is back in harmony."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha! You're smiling! I knew it. You enjoy being mean!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yet another example where keen perception doesn't pay off."
+      ]
+    }
+  ]
+}

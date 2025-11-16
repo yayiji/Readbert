@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How'd your business trip to Elbonia go?",
+        "Not so good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I got food poisoning and spent two days in a fetal position praying for death."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It must feel good to be back.",
+        "It's closer to a tie than you'd think."
+      ]
+    }
+  ]
+}

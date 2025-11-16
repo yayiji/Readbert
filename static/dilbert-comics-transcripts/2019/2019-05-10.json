@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your help on my project today, or I'll miss my deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you trying to turn your lack of planning into my problem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping you would be a team player.",
+        "I'm holding out for an offer from a better team."
+      ]
+    }
+  ]
+}

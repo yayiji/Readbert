@@ -1,0 +1,26 @@
+{
+  "date": "2022-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the selfish therapist",
+        "Try reframing your low self-esteem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not worthless.",
+        "You're just worth less than everyone else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll heal faster if you chant it.",
+        "What?"
+      ]
+    }
+  ]
+}

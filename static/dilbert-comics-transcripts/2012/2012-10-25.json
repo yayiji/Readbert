@@ -1,0 +1,25 @@
+{
+  "date": "2012-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for employees who aren't afraid to tell the emperor he has no clothes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fine.",
+        "You're not wearing pants.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The one time I forget to wear pants..."
+      ]
+    }
+  ]
+}

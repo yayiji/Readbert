@@ -1,0 +1,22 @@
+{
+  "date": "1991-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's wrong with this neck-tie?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Coming: The shocking truth about Dilbert's tie",
+        "That's better"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2013-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not sure what function men serve in the modern world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My job pays well, so I have all the money I need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If something in my house breaks, I either fix it or pay someone to fix it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I want a baby, I'll call a fertility doctor."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In today's world, men are little more than carriers of bad jokes and flatulence."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My gardener mows my lawn.",
+        "I get it!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That is disturbing.",
+        "Not compared to the alternatives."
+      ]
+    }
+  ]
+}

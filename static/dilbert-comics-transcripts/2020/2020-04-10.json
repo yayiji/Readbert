@@ -1,0 +1,25 @@
+{
+  "date": "2020-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know what's wrong with this room?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not enough of me in it.",
+        "That's what."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you testing your fake confidence?",
+        "Is it working?"
+      ]
+    }
+  ]
+}

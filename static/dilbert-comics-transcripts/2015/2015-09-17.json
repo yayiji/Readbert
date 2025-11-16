@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm smart because I'm hoarding gold just in case the world economy collapses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many people have you told?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where is this heading?",
+        "Do you still keep a spare key under your welcome mat?"
+      ]
+    }
+  ]
+}

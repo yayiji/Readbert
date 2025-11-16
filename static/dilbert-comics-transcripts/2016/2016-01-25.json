@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Researchers discovered a way to double the perceived length of a human's life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's something called \"meetings.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we start now?",
+        "I thought we were already an hour into it."
+      ]
+    }
+  ]
+}

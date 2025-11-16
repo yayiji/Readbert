@@ -1,0 +1,24 @@
+{
+  "date": "2003-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't afford to hire qualified employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to hire dumb people and be angry at them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I forget - what's the word for pretending that people can change their basic nature?",
+        "Motivation?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2022-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idiot boss is on vacation, so he asked me to fill in for him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be using my advanced circuitry to micromanage you at ten times the frequency of a human manager."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't it be easier to do our work for us?",
+        "Damn your logic!",
+        "Yes, it would."
+      ]
+    }
+  ]
+}

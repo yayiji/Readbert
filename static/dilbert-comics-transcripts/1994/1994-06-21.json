@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, this is Dogbert's professional headhunting service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I find jobs for the most talented technical professionals. Several people mentioned your name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, is it true they'll be looking for somebody to fill your job soon?",
+        "Hello?"
+      ]
+    }
+  ]
+}

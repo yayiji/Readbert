@@ -1,0 +1,23 @@
+{
+  "date": "2019-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea is dumb because we'd have to retrain people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you waiting for a plan with no costs, no work, and no risk?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes. Why are you holding that one back?"
+      ]
+    }
+  ]
+}

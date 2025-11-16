@@ -1,0 +1,25 @@
+{
+  "date": "1995-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, salaries will be based on your predicted success, not your past performance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We ran a computer model against your education and DNA information.",
+        "We predict you'll die in a stapler mishap within a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I disagree with this prediction?",
+        "Write up your opinion and staple it to the analysis."
+      ]
+    }
+  ]
+}

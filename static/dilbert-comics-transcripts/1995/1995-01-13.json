@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, venture capitalist",
+        "My idea is to develop a word processing program for Windows."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's an interesting concept. I wonder if twenty dollars would be enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To start a software company?",
+        "No, to pay our waitress to beat you with a loaf of french bread."
+      ]
+    }
+  ]
+}

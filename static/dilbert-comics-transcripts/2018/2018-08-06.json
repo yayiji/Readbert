@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reject your idea because the costs are high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In a one-variable world, you would be a genius."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you.",
+        "I meant every word of it."
+      ]
+    }
+  ]
+}

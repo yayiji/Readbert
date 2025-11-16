@@ -1,0 +1,24 @@
+{
+  "date": "2002-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's an emergency strategy meeting in five minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was all warm and cozy in my cubicle paradise.",
+        "Why must you ruin it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you hear the sound of me not caring?"
+      ]
+    }
+  ]
+}

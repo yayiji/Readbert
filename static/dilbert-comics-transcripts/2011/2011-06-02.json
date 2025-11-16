@@ -1,0 +1,23 @@
+{
+  "date": "2011-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to your absurdly complicated financial model, we can double revenue by increasing absenteeism."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To be fair, there might be an error or two in the Excel spreadsheet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe. But I think I owe it to our stockholders to poison the cafeteria just to be sure."
+      ]
+    }
+  ]
+}

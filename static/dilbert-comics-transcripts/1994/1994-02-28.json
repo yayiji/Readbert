@@ -1,0 +1,26 @@
+{
+  "date": "1994-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just read this great book about how to \"reengineer\" our business processes.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everybody's doing it.",
+        "We'd better jump under the bandwagon before the train leaves the station!",
+        "I'm putting you in charge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need any management support you know where to go."
+      ]
+    }
+  ]
+}

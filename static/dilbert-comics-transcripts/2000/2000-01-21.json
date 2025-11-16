@@ -1,0 +1,24 @@
+{
+  "date": "2000-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, you charge a fee every year even if you do nothing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It takes years of training to know when to do nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess that makes sense.",
+        "Here's my bill for not removing your tonsils."
+      ]
+    }
+  ]
+}

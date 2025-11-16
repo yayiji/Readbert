@@ -1,0 +1,56 @@
+{
+  "date": "2002-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Make the box bluer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A little more...",
+        "A little more...",
+        "A little more...",
+        "That's it!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you get tired of micromanaging me..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Put this sample of my blood under a microscope so you can manage me on a cellular level."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And here's a book by Erwin Schrödinger in case you'd like to manage me on a quantum level!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you understand what I'm saying?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Free gifts."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now I want all of you white blood cells to spell \"Hi.\""
+      ]
+    }
+  ]
+}

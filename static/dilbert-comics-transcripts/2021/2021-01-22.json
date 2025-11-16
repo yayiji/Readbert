@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You seem way too happy about your job. Are you embezzling?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I'm experiencing great morale and high employee engagement, just the way you trained me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That actually works?",
+        "It did until you made a mockery of it just now."
+      ]
+    }
+  ]
+}

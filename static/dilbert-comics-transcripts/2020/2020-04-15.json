@@ -1,0 +1,31 @@
+{
+  "date": "2020-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope you all saw the poster I put in the break room with our list of values."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't see it.",
+        "What are our values?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't remember."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are we allowed to steal?",
+        "I don't think so, but I'm guessing."
+      ]
+    }
+  ]
+}

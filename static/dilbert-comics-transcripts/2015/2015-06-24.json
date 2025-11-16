@@ -1,0 +1,25 @@
+{
+  "date": "2015-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your strategy looks like a genius way to fight the last war."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you.",
+        "No problem.",
+        "You owe me a compliment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At what point does insulting your boss and getting away with it count as a hobby?"
+      ]
+    }
+  ]
+}

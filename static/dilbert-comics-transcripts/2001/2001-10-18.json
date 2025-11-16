@@ -1,0 +1,25 @@
+{
+  "date": "2001-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stock market expert",
+        "If your core holding is a falling knife, you can dollar cost average through the dead cat bounce."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My secret economic model says you should change your cash allocation from 12.4% to 12.3%."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My new book is, \"If you aren't churning, you aren't learning.\"",
+        "Don't come back."
+      ]
+    }
+  ]
+}

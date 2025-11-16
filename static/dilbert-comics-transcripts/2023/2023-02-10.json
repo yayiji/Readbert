@@ -1,0 +1,30 @@
+{
+  "date": "2023-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I realize my generation has a reputation for not wanting to work hard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I am not like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You work hard?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, that would be crazy.",
+        "I don't work at all."
+      ]
+    }
+  ]
+}

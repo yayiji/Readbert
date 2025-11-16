@@ -1,0 +1,26 @@
+{
+  "date": "2012-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's talk like idiots.",
+        "Ha ha! You go first!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slap lipstick on the pig, put a stake in the ground, and view it from 30,000 feet.",
+        "That deliverable is actionable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... why do I suddenly feel like hiring you?",
+        "And why do I feel underpaid?"
+      ]
+    }
+  ]
+}

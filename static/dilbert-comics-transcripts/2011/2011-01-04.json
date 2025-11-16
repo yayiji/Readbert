@@ -1,0 +1,24 @@
+{
+  "date": "2011-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Excuse me, but I can't concentrate when someone reminds me of a creature.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've got some sort of Bilbo Baggins vibe going on here and it's throwing me off my game."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me a heads up if you see a walking stick coming my way."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2003-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought of a great idea."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could let the project managers manage their own budgets...what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're giving me a look. I must try to guess what it means."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We don't do things that way? If it were a good idea you'd already be doing it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My ideas are poorly conceived?! I can't see the big picture?!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa!!! I am ignorant and worthless!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I must pummel myself with my own tiny fists!!",
+        "Ow!",
+        "Ow!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "They're kinda self-managed now.",
+        "Very evil; I purr in your general direction."
+      ]
+    }
+  ]
+}

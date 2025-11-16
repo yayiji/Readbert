@@ -1,0 +1,25 @@
+{
+  "date": "2008-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The CEO visits",
+        "We're going to change our focus..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From pretending to make good products, to pretending to be solvent.",
+        "Bzzzt"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On a related note, I've always been a hologram."
+      ]
+    }
+  ]
+}

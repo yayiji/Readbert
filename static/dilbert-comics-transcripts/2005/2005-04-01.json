@@ -1,0 +1,27 @@
+{
+  "date": "2005-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Habitual liar",
+        "Are you sticking with your story that you're still alive?",
+        "I feel terrific!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm running a marathon later today.",
+        "Low priced cremations while you wait!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm a genie in a bottle! Make a wish!",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

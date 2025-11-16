@@ -1,0 +1,26 @@
+{
+  "date": "1995-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert tweaks Tina the brittle tech writer.",
+        "Is technical writing the same as word processing?",
+        "No!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am a highly skilled communications professional! I can take jumbles of inert thoughts and bring them to life!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My secretary is running the staff meeting. I need you to retype this org chart.",
+        "The doctor is in!"
+      ]
+    }
+  ]
+}

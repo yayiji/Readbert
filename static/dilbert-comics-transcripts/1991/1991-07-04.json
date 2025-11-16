@@ -1,0 +1,26 @@
+{
+  "date": "1991-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert celebrates his victory in court.",
+        "Yes!!",
+        "Put me down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! I'm free!",
+        "No more six-by-six prison cell!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aah... it feels so good to have my freedom and individuality back."
+      ]
+    }
+  ]
+}

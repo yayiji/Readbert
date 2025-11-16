@@ -1,0 +1,23 @@
+{
+  "date": "2010-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job is to create an environment where employees feel safe taking risks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My other job is punishing employees who make any kind of mistake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My point is that I'm glad I don't have your job."
+      ]
+    }
+  ]
+}

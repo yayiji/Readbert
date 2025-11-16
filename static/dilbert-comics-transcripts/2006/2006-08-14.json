@@ -1,0 +1,25 @@
+{
+  "date": "2006-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's why I recommend using this process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The office nemesis",
+        "Have you done a cost-benefit analysis for every conceivable option?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Safety violation!",
+        "Safety violation!"
+      ]
+    }
+  ]
+}

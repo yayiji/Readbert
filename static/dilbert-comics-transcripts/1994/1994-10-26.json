@@ -1,0 +1,25 @@
+{
+  "date": "1994-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Ethics advisor",
+        "We know our products are killing people, but we're claiming the studies are flawed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're planning to focus our advertising on the youth market in poor urban areas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, given all that, is it okay for me to steal office supplies?",
+        "I'd have to say yes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you're above the salary midpoint.",
+        "But at least your stock options are doing great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have any stock options.",
+        "Oh, I'm probably thinking of me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next, it says I should coach you on your interpersonal skills."
+      ]
+    }
+  ]
+}

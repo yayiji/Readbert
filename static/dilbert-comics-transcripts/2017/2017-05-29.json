@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I keep falling asleep during meetings.",
+        "Your problem is that you're useless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll give you a doctor's note that says you can sleep during meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're the best doctor ever.",
+        "Tell that to the tip jar in the lobby."
+      ]
+    }
+  ]
+}

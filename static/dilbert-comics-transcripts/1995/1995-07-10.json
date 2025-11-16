@@ -1,0 +1,27 @@
+{
+  "date": "1995-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everybody in engineering uses this program I wrote.",
+        "I think marketing should turn it into a product.",
+        "I wouldn't buy this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's irrelevant because the target market would be engineers.",
+        "Engineers think the same as marketers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If that were true we'd be sitting in a cave trying to decide if rocks are edible.",
+        "You know, you could keep recipes on this."
+      ]
+    }
+  ]
+}

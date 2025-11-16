@@ -1,0 +1,24 @@
+{
+  "date": "2007-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Art department",
+        "I am Dogbert, the quantifier of unquantifiable things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I declare you to be worth $85."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one likes to be quantified."
+      ]
+    }
+  ]
+}

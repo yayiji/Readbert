@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert crypto exchange melted down when my clients realized I was just stealing their money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But on the plus side, I used the money I stole to solve climate change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You did?",
+        "No."
+      ]
+    }
+  ]
+}

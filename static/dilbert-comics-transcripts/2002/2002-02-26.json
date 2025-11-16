@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is this number accurate? It seems low."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why are you attacking me? Stop attacking me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think the number is low.",
+        "It's too late to apologize. Now I hate your guts."
+      ]
+    }
+  ]
+}

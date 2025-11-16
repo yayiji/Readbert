@@ -1,0 +1,25 @@
+{
+  "date": "1997-06-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did less work than usual this quarter and I got a bonus."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The implications are staggering.",
+        "The entire system of capitalism has a flawed premise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's only one thing that could make this bonus more frightening.",
+        "I got one, too."
+      ]
+    }
+  ]
+}

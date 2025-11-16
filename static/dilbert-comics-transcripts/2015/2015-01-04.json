@@ -1,0 +1,56 @@
+{
+  "date": "2015-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That doesn't sound like a work call.",
+        "It isn't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have time to do my personal stuff on my own time. I have to do it on work time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I pay you to do work stuff, not personal stuff."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then how would I get all of my personal stuff done?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's not my problem.",
+        "Then why did you bring it up?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Because I need you to do work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I told you I can't get all of my personal stuff done if I do your work!",
+        "Okay, okay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I probably could have handled that better."
+      ]
+    }
+  ]
+}

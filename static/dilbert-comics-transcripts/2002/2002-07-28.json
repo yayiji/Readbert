@@ -1,0 +1,54 @@
+{
+  "date": "2002-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you a member of our frequent grocery club?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. What is it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You get a membership card that entitles you to discounts."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let's see if I have this straight..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll be inconvenienced by having to fill out a form and carry your stupid card around..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And in return, you'll put me on a junk mail list, and charge me the same as the grocery store across the street?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And you'll expect me to be happy about it?!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "But it's free!",
+        "Cleanup on register two... it's engineer spittle."
+      ]
+    }
+  ]
+}

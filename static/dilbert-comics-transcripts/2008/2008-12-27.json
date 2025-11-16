@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where's our pointy-haired boss?",
+        "He's at an offsite meeting to decide who to lay off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry. I booked the meeting at the Beelzebub Inn. No one has ever returned from there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you don't like the accommodations, next time have your own disgruntled underling book a place."
+      ]
+    }
+  ]
+}

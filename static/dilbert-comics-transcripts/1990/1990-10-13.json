@@ -1,0 +1,24 @@
+{
+  "date": "1990-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Groan.",
+        "It's 6 a.m. and time for another oppressive day of meaningless toil..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait... today is Saturday..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am the happiest man on the planet Earth."
+      ]
+    }
+  ]
+}

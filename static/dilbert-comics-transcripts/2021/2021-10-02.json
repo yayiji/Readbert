@@ -1,0 +1,26 @@
+{
+  "date": "2021-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to buy a gift for our CEO's birthday party.",
+        "But what do you get for someone who has everything?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your best bet is to steal something from him and then wrap it and tell him it's a replacement for the thing that got stolen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't he notice that?",
+        "I hope not.",
+        "I'm giving him his office chair."
+      ]
+    }
+  ]
+}

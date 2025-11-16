@@ -1,0 +1,24 @@
+{
+  "date": "2004-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dogbert's tech support.",
+        "Your problem is caused by another company's product or services."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shouldn't I tell you my problem before you determine the cause?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, let's pretend that will change my answer."
+      ]
+    }
+  ]
+}

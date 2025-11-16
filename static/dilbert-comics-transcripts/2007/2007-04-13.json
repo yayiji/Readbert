@@ -1,0 +1,24 @@
+{
+  "date": "2007-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand why technical writers get paid less than engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you were capable of understanding that sort of thing, you'd be an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This took an ugly turn.",
+        "And your dress looks like a tube sock with aspirations."
+      ]
+    }
+  ]
+}

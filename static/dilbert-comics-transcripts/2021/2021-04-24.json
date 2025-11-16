@@ -1,0 +1,26 @@
+{
+  "date": "2021-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have a weak video signal. Can you go where the Wi-Fi is stronger?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try backing up.",
+        "Baaack. Farther.",
+        "Back, back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaaaiiii!",
+        "Perfect."
+      ]
+    }
+  ]
+}

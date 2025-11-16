@@ -1,0 +1,27 @@
+{
+  "date": "1999-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The corporate lawyer",
+        "Let's prepare for your court testimony.",
+        "I'll pretend to be the other side."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Liar! Why is your attorney so handsome?",
+        "Whap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They can hit me?",
+        "I don't see why not."
+      ]
+    }
+  ]
+}

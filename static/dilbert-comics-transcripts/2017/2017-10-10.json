@@ -1,0 +1,25 @@
+{
+  "date": "2017-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't persuade my boss to let me take a class on how to negotiate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try giving him logical reasons.",
+        "He'll respond to that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then I would be able to negotiate for a higher salary.",
+        "Pass."
+      ]
+    }
+  ]
+}

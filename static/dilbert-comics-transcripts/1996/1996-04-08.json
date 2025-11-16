@@ -1,0 +1,33 @@
+{
+  "date": "1996-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The executive review board meeting is canceled.",
+        "I hope you didn't work too hard preparing for it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Must...",
+        "control",
+        "fist...",
+        "of...",
+        "death...",
+        "Unlike Alice,",
+        "I saw it coming and did no work whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you see that coming,",
+        "Nostradamus?",
+        "What does this do to headcount?",
+        "Ow"
+      ]
+    }
+  ]
+}

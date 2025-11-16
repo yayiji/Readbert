@@ -1,0 +1,25 @@
+{
+  "date": "2014-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need an exception to the travel budget freeze so I can fix an important customer's technical problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because arbitrary financial targets are more important than satisfying customers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait...",
+        "Why does that sound bad when I say it out loud?",
+        "If it makes you feel better, I wasn't listening."
+      ]
+    }
+  ]
+}

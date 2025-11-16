@@ -1,0 +1,30 @@
+{
+  "date": "1995-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You never answered my e-mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My secretary is out, so there's nobody to print my e-mail for me.",
+        "Bring me your message on hardcopy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was out of papyrus so I chiseled my message on a little pyramid."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did he work alone or were UFOs involved?"
+      ]
+    }
+  ]
+}

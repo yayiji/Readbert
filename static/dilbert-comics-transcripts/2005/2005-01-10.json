@@ -1,0 +1,24 @@
+{
+  "date": "2005-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm creating software that will help small investors pick stocks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It combines past trends that are not indicative of the future with the user's hubris and ignorance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now all I need are testimonials from people whose results are not typical!",
+        "So it works?"
+      ]
+    }
+  ]
+}

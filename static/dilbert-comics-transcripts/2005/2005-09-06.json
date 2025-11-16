@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that porpoises are smart, so I hired one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Porpoises have been known to save humans by attacking sharks with their snouts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, it's our company lawyer and...",
+        "Ooh, that's one ugly snout wound."
+      ]
+    }
+  ]
+}

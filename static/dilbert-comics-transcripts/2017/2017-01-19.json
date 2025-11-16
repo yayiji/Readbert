@@ -1,0 +1,23 @@
+{
+  "date": "2017-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd love to help you, but I'm busy working on the red file."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is the red file a real thing or just a thing you say to get out of work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's all the same on your end."
+      ]
+    }
+  ]
+}

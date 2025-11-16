@@ -1,0 +1,24 @@
+{
+  "date": "2012-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, our database analyst quit, so I need you to take over that job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm curious... how long do you think it takes to train a tech writer to be a database analyst?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Forty-five minutes.",
+        "I like how you punctuate ignorance with certainty."
+      ]
+    }
+  ]
+}

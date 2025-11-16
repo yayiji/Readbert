@@ -1,0 +1,23 @@
+{
+  "date": "1995-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to cut janitor expenses. Do you think I'll have any HR issues if I make employees empty their own trash?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll soften the bad news by simultaneously introducing a new employee fitness program..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, everybody, it's time to trashercise!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I'm CEO, everybody treats me differently."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They interpret and act upon my slightest gesture. This gesture means \"all is well.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We tossed Mahoney out the window like you gestured, sir.",
+        "Oops."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2005-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Flashy, do you mind if I turn up the thermostat a few degrees?",
+        "Yes. It's boiling in here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you mind if we built a device that would redirect the radiant heat from your body?",
+        "Okay, fine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I should have asked more questions."
+      ]
+    }
+  ]
+}

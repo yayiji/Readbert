@@ -1,0 +1,23 @@
+{
+  "date": "2008-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our spam filter has become self-aware."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's managing the company by deciding which messages to allow through."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I'm getting is e-mail about hair growth and...ooh, another lucky guess."
+      ]
+    }
+  ]
+}

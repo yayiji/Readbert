@@ -1,0 +1,27 @@
+{
+  "date": "2011-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I created a portal to a parallel universe.",
+        "My success was possible because Alice killed our boss so we are all more productive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Step aside.",
+        "The cops have been sniffing around and I need something from the other universe."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look on the bright side, Asok.",
+        "Some other universe just got a lot more productive.",
+        "Gaaa!"
+      ]
+    }
+  ]
+}

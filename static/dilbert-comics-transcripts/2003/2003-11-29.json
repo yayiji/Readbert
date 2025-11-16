@@ -1,0 +1,24 @@
+{
+  "date": "2003-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company is going to make antivirus software. What's that tell you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It tells me we'll secretly create viruses that can be detected only by our software."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I close?",
+        "You're spooky."
+      ]
+    }
+  ]
+}

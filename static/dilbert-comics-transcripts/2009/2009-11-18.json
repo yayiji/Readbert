@@ -1,0 +1,25 @@
+{
+  "date": "2009-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's implement cloud computing so I have something to talk about at the executive meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them we're evaluating it.",
+        "That way neither of us needs to do any real work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like it when you do real work.",
+        "Sorry. I thought you were leading by example."
+      ]
+    }
+  ]
+}

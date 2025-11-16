@@ -1,0 +1,25 @@
+{
+  "date": "1994-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only way to get ahead in this company is by getting promoted to management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm willing to do whatever it takes to get promoted.",
+        "I want to follow in your footsteps."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I'm wondering if a lobotomy is actually necessary.",
+        "No, we'll just run you through \"quality\" training."
+      ]
+    }
+  ]
+}

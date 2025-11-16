@@ -1,0 +1,61 @@
+{
+  "date": "2011-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you ask the lab if they have a way to test traffic loads on our prototype?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I met with them for an hour and explained that we need traffic load tests."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you didn't actually ask if they could do the tests?",
+        "Well...",
+        "No...",
+        "But..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's their job to do the tests, and they would have mentioned it if they didn't have a way to do it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But you didn't ask.",
+        "That was the context of the meeting."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If they couldn't do that sort of test they would have mentioned it sometime during our hour together."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe you should ask.",
+        "Gaaa!!!",
+        "Okay!",
+        "I'll ask!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you freakin' kidding me? !!!",
+        "I wondered why you didn't ask."
+      ]
+    }
+  ]
+}

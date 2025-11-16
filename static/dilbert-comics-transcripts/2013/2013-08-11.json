@@ -1,0 +1,53 @@
+{
+  "date": "2013-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you approve the purchase of this software?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to run the software license past legal first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to fill out a legal services request form. I'll email it to you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Make sure you specify whether the software is open source or not."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How would I know if it meets your definition of open source?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It depends how the license is written. You'll need to ask legal to review it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Never mind. I'll just forge your signature on the form."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe this is why I've never seen a software license."
+      ]
+    }
+  ]
+}

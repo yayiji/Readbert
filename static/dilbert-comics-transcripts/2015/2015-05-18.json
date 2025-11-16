@@ -1,0 +1,35 @@
+{
+  "date": "2015-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate Mondays more than Garfield."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you hate Garfield at all?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it his total disregard for lasagna ownership?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't speak to me again until Tuesday."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "One day down, four to go."
+      ]
+    }
+  ]
+}

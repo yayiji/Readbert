@@ -1,0 +1,25 @@
+{
+  "date": "2011-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't let anyone disturb me.",
+        "I'll be taking an online class to improve my charisma."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While you're doing that, I'll be taking an online class to learn how to ignore your stupid, fake charisma."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bring it on!",
+        "Okay, this got weird."
+      ]
+    }
+  ]
+}

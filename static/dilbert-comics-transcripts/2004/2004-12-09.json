@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me explain what video compression is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you stop if I pointed out that everyone in this room except you is an electrical engineer?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zeros are round and fat compared to ones...",
+        "I'm begging you..."
+      ]
+    }
+  ]
+}

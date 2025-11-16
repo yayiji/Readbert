@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You said you would have that done for me by today!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, I think I know what the problem is here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You?",
+        "That, plus your expectations."
+      ]
+    }
+  ]
+}

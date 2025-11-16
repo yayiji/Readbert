@@ -1,0 +1,22 @@
+{
+  "date": "1998-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to be one of those guys who says whatever is on his mind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Still nothing?",
+        "Boy, this is a real eye-opener."
+      ]
+    }
+  ]
+}

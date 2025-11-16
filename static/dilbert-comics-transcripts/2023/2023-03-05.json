@@ -1,0 +1,53 @@
+{
+  "date": "2023-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our first test of the new device failed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hahaha!!! I knew the test wouldn't work from the start."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How could you possibly have known that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because of my smartness versus your colossal gullibility."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Right, but what did you see that we didn't see?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I used my pattern recognition and my common sense."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You mean you used magical thinking and statistical ignorance?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Cope much?"
+      ]
+    }
+  ]
+}

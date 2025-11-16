@@ -1,0 +1,36 @@
+{
+  "date": "1993-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't get too close--",
+        "I found out that my",
+        "baldness is caused by",
+        "too much testosterone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now with my hair",
+        "gone I'm afraid the",
+        "testosterone will",
+        "start flinging out",
+        "of my pores."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! You got",
+        "some on my",
+        "shirt!",
+        "Do you",
+        "have a",
+        "problem",
+        "with that?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2009-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What kind of mood is he in?",
+        "Tired and fussy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Also confused, bumbling, clueless, arrogant, short, bald and pudgy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's right behind you.",
+        "Add \"angry.\"",
+        "Good luck."
+      ]
+    }
+  ]
+}

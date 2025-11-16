@@ -1,0 +1,28 @@
+{
+  "date": "1990-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, we've come to resign from your cult.",
+        "You can't push us around anymore."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Resign?! Ha!",
+        "You're unworthy!",
+        "I kick you out.",
+        "The cult doesn't need your type!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nooo!! Take us back!!! Please!!!",
+        "I think this explains why dinosaurs don't rule the earth."
+      ]
+    }
+  ]
+}

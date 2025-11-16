@@ -1,0 +1,23 @@
+{
+  "date": "2007-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can't have a side job of drawing a comic strip about the workplace."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I should fire you for mocking the management of this company in newspapers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because then I'd mock you less?"
+      ]
+    }
+  ]
+}

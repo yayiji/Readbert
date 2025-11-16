@@ -1,0 +1,25 @@
+{
+  "date": "2004-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Visiting a customer",
+        "Our office was designed with the science of feng shui."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I describe the technical merits of our product or will you be consulting with a witch doctor?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops. Sorry. That one snuck up on me.",
+        "He's an astrologer, not a witch doctor."
+      ]
+    }
+  ]
+}

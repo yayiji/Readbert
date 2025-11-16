@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project is two weeks late because you came to work sick two weeks ago and gave me the flu."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any excuses that don't implicate me as the main problem?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about I say I didn't feel motivated and leave it otherwise vague?",
+        "I can work with that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I only have enough in the budget to hire an employee who is incompetent half of the time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if I don't use the budget, I will lose those funds next year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I am proud to say that I'm 75% competent.",
+        "I wish I could afford that."
+      ]
+    }
+  ]
+}

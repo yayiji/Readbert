@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My flight didn't get in until three this morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you mind slapping the back of my head until my eyes uncross?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pour all of your coffee in here and no one gets hurt."
+      ]
+    }
+  ]
+}

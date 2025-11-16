@@ -1,0 +1,25 @@
+{
+  "date": "2022-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you know some women are attracted to smart men?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That doesn't sound right.",
+        "I know, but I met a woman who claims she is one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a trap.",
+        "Yeah, that's why I'm ghosting her."
+      ]
+    }
+  ]
+}

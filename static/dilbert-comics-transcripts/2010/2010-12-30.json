@@ -1,0 +1,25 @@
+{
+  "date": "2010-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A competitor from the future is sending robots back in time to terminate our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So far it's not much of an issue because their time travel technology is way ahead of their robot-building skills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that as fun as it looks?",
+        "Totally.",
+        "They're like zombies, but crunchier."
+      ]
+    }
+  ]
+}

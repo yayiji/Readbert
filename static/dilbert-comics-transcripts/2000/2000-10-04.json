@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to reorganize by customer type."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One division would focus on selling to feeble-minded people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you gesturing at me because I would work in that division?",
+        "What's your second guess?"
+      ]
+    }
+  ]
+}

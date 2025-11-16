@@ -1,0 +1,25 @@
+{
+  "date": "1995-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that you own the company, what do you plan to do?",
+        "Trim middle management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll fire anybody who gives me a document marked \"FYI\". Those people have too much time on their hands."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure this will set me apart from the other managers?",
+        "You'll be surprised how quickly."
+      ]
+    }
+  ]
+}

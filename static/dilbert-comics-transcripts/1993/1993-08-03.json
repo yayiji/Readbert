@@ -1,0 +1,26 @@
+{
+  "date": "1993-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please... end the bioworld experiment. We're out of food. Air is almost gone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We pray there was no sadistic intent when you chose only car salespeople for the experiment...",
+        "Please... at least let some air in..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gee, I really want to help.",
+        "I'll go try to convince my boss to see it your way.",
+        "Hey! I'm a \"Saturn\" dealer - I'm different!"
+      ]
+    }
+  ]
+}

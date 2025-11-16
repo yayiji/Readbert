@@ -1,0 +1,26 @@
+{
+  "date": "2005-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I'm flying to Los Angeles for a meeting and I want you to join me.",
+        "Gasp"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am honored.",
+        "This feels like an important milestone in my burgeoning career!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll begin by pre-boarding anyone who...",
+        "Coming through!"
+      ]
+    }
+  ]
+}

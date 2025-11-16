@@ -1,0 +1,26 @@
+{
+  "date": "1990-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know, Bob, I always pictured you dinosaurs as . . . uh . . . much bigger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ah, well, you see, practical jokes were very popular in the Mesozoic era. . ."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh-ooh! Give me the giant plastic bone and one fake vomit!",
+        "Shall I wrap them or just toss them in the tar pits?",
+        "Whoopee cushions in stock",
+        "Fake vomit fun!"
+      ]
+    }
+  ]
+}

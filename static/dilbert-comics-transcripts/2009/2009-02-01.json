@@ -1,0 +1,54 @@
+{
+  "date": "2009-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, we're getting killed by bad customer reviews online."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to pretend you're several different customers and write positive reviews."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that break some sort of law?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Heck no. It only crosses some ethical boundaries and violates the terms of service for the website."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And depending on your religious views, it might be a hiccup on your way to paradise."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I'm almost positive there won't be any jail time or eternal damnation."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well...",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And be sure to defame our competitors."
+      ]
+    }
+  ]
+}

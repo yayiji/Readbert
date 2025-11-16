@@ -1,0 +1,26 @@
+{
+  "date": "2015-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tap, tap",
+        "Tap, tap, tap",
+        "Tap..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Go team!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you turn down your charisma?",
+        "I can barely sit still over here."
+      ]
+    }
+  ]
+}

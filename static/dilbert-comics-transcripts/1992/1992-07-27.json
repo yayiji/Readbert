@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's this?",
+        "I'm starting my own newsletter for clueless people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks to the technical marvel of desktop publishing, clueless people will now have the benefit of my immense wisdom."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you know who the clueless people are?",
+        "They ask a lot of questions."
+      ]
+    }
+  ]
+}

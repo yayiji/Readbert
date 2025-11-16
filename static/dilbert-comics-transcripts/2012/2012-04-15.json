@@ -1,0 +1,53 @@
+{
+  "date": "2012-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a study of our past business plans and found something."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no correlation between our predicted and actual outcomes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That might be a problem for you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your enormous CEO compensation is based on the myth that you have some control over our profitability."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha!",
+        "Click"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ha!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it just me, or is this awkward?",
+        "No, I'm feeling it too."
+      ]
+    }
+  ]
+}

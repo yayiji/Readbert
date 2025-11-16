@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe you can help write some code in your spare time for my side project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you using your power to bully me into working for your start-up for free?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can also invest in it.",
+        "Not better!"
+      ]
+    }
+  ]
+}

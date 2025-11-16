@@ -1,0 +1,26 @@
+{
+  "date": "2005-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, my boss might be planning to kill me.",
+        "Would you be my bodyguard?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't because I'm all busy eating a carrot stick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about after you finish it?",
+        "You mean nap time?",
+        "Be serious!"
+      ]
+    }
+  ]
+}

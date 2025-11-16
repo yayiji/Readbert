@@ -1,0 +1,27 @@
+{
+  "date": "2004-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The vendor who couldn't say no",
+        "I need fifteen units by Tuesday.",
+        "You got it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want them customized for our needs, assembled, and installed by Wednesday.",
+        "You got it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm loathing you in advance for making promises you won't keep.",
+        "Preloathing: I get that a lot."
+      ]
+    }
+  ]
+}

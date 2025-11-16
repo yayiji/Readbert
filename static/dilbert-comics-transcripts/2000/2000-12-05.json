@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What excuse are you planning to use?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm happy to serve.",
+        "It's my civic responsibility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Insanity; good one."
+      ]
+    }
+  ]
+}

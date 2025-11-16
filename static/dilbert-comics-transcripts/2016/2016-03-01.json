@@ -1,0 +1,30 @@
+{
+  "date": "2016-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I miss the freedom I had as an Uber driver."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This job feels like being trapped under rubble."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We old-timers have a name for that feeling."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What is it?",
+        "\"Better than average.\""
+      ]
+    }
+  ]
+}

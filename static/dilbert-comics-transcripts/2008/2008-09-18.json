@@ -1,0 +1,23 @@
+{
+  "date": "2008-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I know you said your head would explode if I ask you to do one more thing, but..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cleanup on aisle three."
+      ]
+    }
+  ]
+}

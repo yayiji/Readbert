@@ -1,0 +1,57 @@
+{
+  "date": "2006-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a game card that gives you a chance to win groceries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No thanks. Just take a penny off of my bill and we'll call it even."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "I can't do that.",
+        "Why not?",
+        "Isn't that game card worth a penny?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We don't have a procedure.",
+        "How's that my problem?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Look, maybe you could eat something that's worth a penny and I'll look the other way."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How about a grape? I like grapes."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It would have to be one that's been on the floor."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It tasted like victory."
+      ]
+    }
+  ]
+}

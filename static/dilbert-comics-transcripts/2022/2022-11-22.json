@@ -1,0 +1,26 @@
+{
+  "date": "2022-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I outsourced 90% of my job to an open source AI.",
+        "Ping!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's done writing my random jargon status report.",
+        "No one will be the wiser."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"The bitflange subvercates the error locus and creates a Higgs mirror effect.\"",
+        "Sounds right."
+      ]
+    }
+  ]
+}

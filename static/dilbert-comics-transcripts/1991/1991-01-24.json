@@ -1,0 +1,25 @@
+{
+  "date": "1991-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the \"Scientist Anti-Defamation League\"",
+        "We must dispel society's notion that scientists are always male."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Unfortunately, our membership is totally male because all of you joined just to meet women.",
+        "Any ideas?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we could merge with the \"Aerobic Instructor Anti-Defamation League.\""
+      ]
+    }
+  ]
+}

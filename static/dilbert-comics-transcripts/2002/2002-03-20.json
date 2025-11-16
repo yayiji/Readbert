@@ -1,0 +1,23 @@
+{
+  "date": "2002-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you on a strict \"need to know\" basis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And stay out of the crawl space under the house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And don't believe anything you see in the news for about six months."
+      ]
+    }
+  ]
+}

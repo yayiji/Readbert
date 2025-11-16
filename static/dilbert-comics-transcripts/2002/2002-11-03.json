@@ -1,0 +1,55 @@
+{
+  "date": "2002-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to show more corporate social responsibility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, I'll cut your salary and give the extra money to poor people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping we could hose the stockholders, not me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That would hurt my stock options.",
+        "What if we pollute less?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yes, yes! That's what I'm talking about. We could pollute less!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, take a bucket to the river and see how much of our sludge you can get out."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Where would I put it?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it just me or has the coffee improved?",
+        "Zesty!"
+      ]
+    }
+  ]
+}

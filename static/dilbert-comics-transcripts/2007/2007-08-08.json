@@ -1,0 +1,24 @@
+{
+  "date": "2007-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, according to my spreadsheet, you have been doing a terrible job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps your spreadsheet is poorly conceived and does not capture the complexity of the real world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And let's not forget the near certainty that your formulae are pointing to the wrong cells.",
+        "Numbers don't lie."
+      ]
+    }
+  ]
+}

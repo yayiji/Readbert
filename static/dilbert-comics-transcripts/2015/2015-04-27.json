@@ -1,0 +1,25 @@
+{
+  "date": "2015-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are the estimates current?",
+        "Why are you attacking me?",
+        "||/"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like attacking you now.",
+        "I knew it!",
+        "\\|/"
+      ]
+    }
+  ]
+}

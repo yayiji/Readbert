@@ -1,0 +1,24 @@
+{
+  "date": "2004-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our revenue is now double the number of people that our product has killed... recently."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our product costs $80. Are you saying that each one kills 40 people?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our customers know the health risks, so technically they're killing themselves.",
+        "So technically we aren't scum?"
+      ]
+    }
+  ]
+}

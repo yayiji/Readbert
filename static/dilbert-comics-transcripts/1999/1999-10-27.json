@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need a career that has job security."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Teach me to be an engineer. I don't care if it takes all day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But don't tell anyone; they'll all try to get in on this scam."
+      ]
+    }
+  ]
+}

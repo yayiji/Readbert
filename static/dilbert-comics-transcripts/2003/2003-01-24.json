@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to upgrade our PC operating systems, so we have a stable environment for applications."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Think of it as a form of taxation by an evil shadow government."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shadow government? That's ridiculous.",
+        "Shut up and pay me."
+      ]
+    }
+  ]
+}

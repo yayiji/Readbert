@@ -1,0 +1,23 @@
+{
+  "date": "2008-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your salary is already above the midpoint for your pay range."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excuse me while I remove a sock to explain what will happen to your pay going forward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's say the sock is inflation and my hand is your paycheck."
+      ]
+    }
+  ]
+}

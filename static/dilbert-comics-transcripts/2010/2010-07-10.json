@@ -1,0 +1,24 @@
+{
+  "date": "2010-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sending all of you to a public speaking class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They will rid you of your nervous habits. And, with any luck, your personalities too. You will become indistinguishable from robots."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that as fun as it sounds?",
+        "Get out of my head!"
+      ]
+    }
+  ]
+}

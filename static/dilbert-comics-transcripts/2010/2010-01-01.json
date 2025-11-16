@@ -1,0 +1,24 @@
+{
+  "date": "2010-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We agreed on about fifty things today, but you didn't take any notes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's schedule our next meeting to rehash all the stuff you'll forget from today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have your calendar with you?",
+        "No. Why do you ask?"
+      ]
+    }
+  ]
+}

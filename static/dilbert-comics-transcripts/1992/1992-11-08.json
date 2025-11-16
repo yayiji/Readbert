@@ -1,0 +1,55 @@
+{
+  "date": "1992-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should read books instead of watching television all the time, Dogbert.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Books are more educational because they don't have any sound or pictures."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And books are challenging because it takes hours to read something that television could convey with one image."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And books make you think because they have more complex plots."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In fact, you can read entire books without even figuring out what the story was about."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now, compare all that with the junk you're watching."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I just watched the story of how DNA was discovered, then learned to bake a cake from scratch, and now I'm learning the causes of global warming."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What are you reading?",
+        "It's called \"The poodle who killed.\""
+      ]
+    }
+  ]
+}

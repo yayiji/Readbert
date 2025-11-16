@@ -1,0 +1,25 @@
+{
+  "date": "2005-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your CEO was underperforming, so I convinced him to bungee jump into a live volcano.",
+        "Problem solved."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, he underperformed and he got punished."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pumiced, actually.",
+        "Evil, yet amusing."
+      ]
+    }
+  ]
+}

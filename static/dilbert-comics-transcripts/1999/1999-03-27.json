@@ -1,0 +1,23 @@
+{
+  "date": "1999-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I use art as a way of finding myself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're over there, Ratbert, in front of a bad painting!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I did it without using any art."
+      ]
+    }
+  ]
+}

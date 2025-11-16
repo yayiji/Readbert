@@ -1,0 +1,53 @@
+{
+  "date": "1993-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you know that twenty percent of all microfleems are subradiante?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh. The boss has latched onto some obscure engineering fact."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is going to be painful."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Just think of the implications. It means eighty percent of microfleems are not subradiante."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe I can hide under the desk until this blows over."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Don't you think it's fascinating? I mean, what with the implications and all..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, okay. I acknowledge your incredible grasp of technology issues."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It almost makes me curious what a microfleem is."
+      ]
+    }
+  ]
+}

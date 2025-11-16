@@ -1,0 +1,25 @@
+{
+  "date": "2016-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally's emails make no sense.",
+        "He replaced himself with a chatbot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He designed the chatbot to be useless so you'd think it was him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And he thought this would fool me?",
+        "He's been gone for four months."
+      ]
+    }
+  ]
+}

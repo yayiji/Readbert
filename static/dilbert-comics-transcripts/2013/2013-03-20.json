@@ -1,0 +1,23 @@
+{
+  "date": "2013-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's next on my schedule?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For the next five minutes you're scheduled to glare at me like an idiot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Four minutes to go."
+      ]
+    }
+  ]
+}

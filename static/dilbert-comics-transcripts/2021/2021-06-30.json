@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to our first Zoom lunch meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you chew louder than a beaver making a dam out of bubble wrap, please turn off your microphone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if you are an ugly eater...",
+        "We get it. Video off."
+      ]
+    }
+  ]
+}

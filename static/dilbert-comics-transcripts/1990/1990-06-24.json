@@ -1,0 +1,54 @@
+{
+  "date": "1990-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to hold hands?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'd better not... my dog is around here someplace."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your dog got to do with anything?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He's a bit prudish.",
+        "He won't allow it in his house."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "His house?! Ha ha ha! He's your dog! You're the master!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your dog is just a stupid hairball! And you must be a first-class wimp! Ha ha!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha ha ha!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "With my blessings."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, there are two kinds of employees.",
+        "One kind works hard and hopes for the best."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The other kind learns how to take vacations in his head while pretending to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where are you right now?",
+        "I'm sipping coffee in a fjord."
+      ]
+    }
+  ]
+}

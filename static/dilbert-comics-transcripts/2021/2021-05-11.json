@@ -1,0 +1,26 @@
+{
+  "date": "2021-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting reports that you are bigoted against Elbonian men.",
+        "I'm not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is irrelevant.",
+        "There is only one way to prove your innocence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, I'll marry you.",
+        "I thought it would be a tougher sale."
+      ]
+    }
+  ]
+}

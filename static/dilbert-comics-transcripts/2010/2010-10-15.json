@@ -1,0 +1,23 @@
+{
+  "date": "2010-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can we rebuild the trust of our customers? Let's brainstorm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We could stop using misleading benchmark tests to sell shoddy products that have hidden costs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I heard someone say \"lie.\" Let's write that one down."
+      ]
+    }
+  ]
+}

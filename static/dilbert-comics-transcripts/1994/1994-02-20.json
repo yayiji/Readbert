@@ -1,0 +1,55 @@
+{
+  "date": "1994-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How great products are designed.",
+        "Go talk to marketing.",
+        "Groan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dave, tell me what marketing wants the new product to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It has to have a 45-inch screen and still fit in a purse or a wallet."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It needs to act as a communications satellite as well as a room freshener.",
+        "Uh..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It must cure deadly diseases and whiten your teeth while you sleep!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Haha!! And it has to be capable of time travel!! And have a telepathic user interface!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I could write a program that makes fish appear on the computer screen.",
+        "Yeah... a lot of people want that."
+      ]
+    }
+  ]
+}

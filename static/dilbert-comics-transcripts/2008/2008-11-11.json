@@ -1,0 +1,25 @@
+{
+  "date": "2008-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our spam filter became self-aware.",
+        "It rewrote our business plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It wants us to build an army of indestructible robots."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the new org chart is out.",
+        "It looks like you report to... the microwave."
+      ]
+    }
+  ]
+}

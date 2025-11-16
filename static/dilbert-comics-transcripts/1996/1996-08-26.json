@@ -1,0 +1,25 @@
+{
+  "date": "1996-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert the HR director",
+        "Morale is low because the employees are underpaid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can compensate by having more frequent performance reviews. They love feedback."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The hardest part is keeping a straight face.",
+        "Tell me again why I'd want morale to be high?"
+      ]
+    }
+  ]
+}

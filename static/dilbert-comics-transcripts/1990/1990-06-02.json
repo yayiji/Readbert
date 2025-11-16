@@ -1,0 +1,27 @@
+{
+  "date": "1990-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your new project will be vital to the performance of this company!",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The more he talks it up, the stupider the project must be.",
+        "...High visibility, a chance to excel and be noticed!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In fact, I stand to salute you for the job you will be doing!",
+        "You're what makes this country great!!",
+        "Does this have anything to do with the janitors' strike?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2022-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO ordered me to cut the budget by twenty percent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to lose any vital functions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I identified all of the useless fat in the budget."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Really?",
+        "You did?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Right. I did.",
+        "And that's what will be eliminated."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yay!!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When is your last day?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Your face tells me you were not referring to yourself as the fat and useless part of the budget."
+      ]
+    }
+  ]
+}

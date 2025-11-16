@@ -1,0 +1,30 @@
+{
+  "date": "2017-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't approve your vacation days because you haven't completed the mandatory class on fax machine safety."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that an actual company policy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know, but it sounds like one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe we should check.",
+        "Wow. Is there anything you don't complain about?"
+      ]
+    }
+  ]
+}

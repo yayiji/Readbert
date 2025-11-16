@@ -1,0 +1,23 @@
+{
+  "date": "2008-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend we cancel our planned merger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They plan to open a chain of fast food restaurants using our employees as a source of protein."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we always waited for the perfect situation, we'd never get anything done."
+      ]
+    }
+  ]
+}

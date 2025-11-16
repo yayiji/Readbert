@@ -1,0 +1,26 @@
+{
+  "date": "1999-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You must be the new office rebel we heard about.",
+        "Nice bathrobe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're called rebels because we're easily manipulated into doing stupid things.",
+        "Give it up for us! Woo hoo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I dare you to use branding irons on each other right now.",
+        "Start the fire!"
+      ]
+    }
+  ]
+}

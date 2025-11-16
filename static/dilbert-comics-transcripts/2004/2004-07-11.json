@@ -1,0 +1,54 @@
+{
+  "date": "2004-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, this is Proxis. I recruited him from the gullible nebula."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I convinced him to relocate his family.",
+        "Hello."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My spaceship was destroyed during the landing, but that's no problem."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I expect to work here for the rest of my 300-year lifespan."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That reminds me: we need to talk."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your job function has been outsourced. I have to let you go."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your severance package is: I grab you by the snout and fling you onto the sidewalk."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "May I use you as a reference?"
+      ]
+    }
+  ]
+}

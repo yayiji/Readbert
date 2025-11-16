@@ -1,0 +1,23 @@
+{
+  "date": "2000-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your personal use of the internet is like stealing from the company!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You work in human resources; that's like stealing from the company, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we should form a gang."
+      ]
+    }
+  ]
+}

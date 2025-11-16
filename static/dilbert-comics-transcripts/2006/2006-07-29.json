@@ -1,0 +1,24 @@
+{
+  "date": "2006-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, interview the guy in our conference room and see what he can do for us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to bonk your head on the table. If it sounds empty, you'll work in marketing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did it go?",
+        "I bonked too hard. We just got a new sales guy."
+      ]
+    }
+  ]
+}

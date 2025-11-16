@@ -1,0 +1,24 @@
+{
+  "date": "2014-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy Monday!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks to your slavish pursuit of management fads, I feel engaged and motivated!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's sort of creepy.",
+        "I love being manipulated!"
+      ]
+    }
+  ]
+}

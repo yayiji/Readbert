@@ -1,0 +1,26 @@
+{
+  "date": "1997-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I put you in for a compliment, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not automatic.",
+        "The application must be approved by the executive review committee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Executive review committee",
+        "I don't think so.",
+        "We don't want them to think compliments are an entitlement."
+      ]
+    }
+  ]
+}

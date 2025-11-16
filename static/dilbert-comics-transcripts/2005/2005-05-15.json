@@ -1,0 +1,51 @@
+{
+  "date": "2005-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Dogbert has agreed to consult for $400 per hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know it's expensive but you get what you pay for."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's get the ball rolling."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My first question is: What process will you be using to arrive at your recommendations?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "A..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Very..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Slow one."
+      ]
+    }
+  ]
+}

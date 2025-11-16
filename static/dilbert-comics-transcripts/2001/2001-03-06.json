@@ -1,0 +1,33 @@
+{
+  "date": "2001-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I use my huge bottle of water to avoid work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Glug glug",
+        "Glug glug",
+        "Glug glug",
+        "Glug"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, would",
+        "you... um...",
+        "Wally? Uh...",
+        "Wally...",
+        "Glug",
+        "Glug",
+        "Glug",
+        "Glug"
+      ]
+    }
+  ]
+}

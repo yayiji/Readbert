@@ -1,0 +1,24 @@
+{
+  "date": "1992-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How many left-handed Elbonians does it take to change a light bulb?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "None! Left-handed Elbonians don't have any light bulbs!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's a light bulb?",
+        "I guess it would be funnier if we knew that."
+      ]
+    }
+  ]
+}

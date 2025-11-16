@@ -1,0 +1,25 @@
+{
+  "date": "2008-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our servers are using too much electricity.",
+        "We need to virtualize."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I did my part by reading about virtualization in a trade journal.",
+        "Now you do the software part."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is your part taking so long?"
+      ]
+    }
+  ]
+}

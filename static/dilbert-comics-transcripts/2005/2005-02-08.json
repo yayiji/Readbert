@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you work well without supervision?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes! I thrive on vague objectives and a complete lack of recognition for my contribution!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you handle criticism?",
+        "I'm not too proud to say it excites me!"
+      ]
+    }
+  ]
+}

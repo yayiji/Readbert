@@ -1,0 +1,23 @@
+{
+  "date": "2020-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh. A human being is walking in my direction."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaaaagh!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to ask you to back up six feet."
+      ]
+    }
+  ]
+}

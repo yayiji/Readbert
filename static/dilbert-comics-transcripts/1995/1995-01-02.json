@@ -1,0 +1,24 @@
+{
+  "date": "1995-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I accomplished twice as much as Wally this year, but we got exactly the same tiny raises."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm wondering if this is a clever shift in management philosophy or a simple application of your ignorance?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're starting to annoy me.",
+        "And that would affect my pay how?"
+      ]
+    }
+  ]
+}

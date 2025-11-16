@@ -1,0 +1,58 @@
+{
+  "date": "2006-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's one thing you should know...",
+        "Whoa, whoa, Asok!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?",
+        "Never tell him anything when he's distracted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He won't remember what you say.",
+        "Later he'll blame you for not telling him."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Also avoid telling him anything when he's angry, late, or busy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And don't tell him anything when he's tense or hungry."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That doesn't leave much.",
+        "I usually wait for a yawn."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yawn!",
+        "My project is behind schedule because the vendor lied!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The next one is all yours."
+      ]
+    }
+  ]
+}

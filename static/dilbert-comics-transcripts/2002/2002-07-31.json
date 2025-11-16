@@ -1,0 +1,24 @@
+{
+  "date": "2002-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your new baby?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wonderful, but the lack of sleep is taking a toll on my body."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's Becky doing?",
+        "I am Becky. Bob looks worse."
+      ]
+    }
+  ]
+}

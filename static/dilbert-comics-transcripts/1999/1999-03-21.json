@@ -1,0 +1,53 @@
+{
+  "date": "1999-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'd like you to work with this big dumb guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He doesn't know he's dumb, so he'll tell people you're dumb if you ever disagree."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's also lazy and a habitual liar."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then why do you let him work here?!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He has an excellent track record.",
+        "No one knows why."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Look what I just did.",
+        "Excellent work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Remember, Alice, you're never too old to learn."
+      ]
+    }
+  ]
+}

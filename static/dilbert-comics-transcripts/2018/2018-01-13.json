@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We found an offensive tweet you sent seven years ago."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's only offensive if you have poor reading comprehension and no sense of humor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I find it offensive.",
+        "I think we're on the same page here."
+      ]
+    }
+  ]
+}

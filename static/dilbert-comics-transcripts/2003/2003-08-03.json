@@ -1,0 +1,55 @@
+{
+  "date": "2003-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have some disturbing news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We outsourced our customer-service function to India a few years ago.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, they subcontracted the job to Mexico."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then Mexico subcontracted to Vietnam, who subcontracted to the Philippines..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...who subcontracted it to us."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It turns out that we're the lowest-cost provider, because we lie about our hold times."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In summary, we pay ourselves to hose ourselves."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you thinking what I'm thinking?",
+        "We should raise our prices?"
+      ]
+    }
+  ]
+}

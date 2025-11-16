@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, I want you to write our annual report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How should I explain our poor results?",
+        "Just give it a positive spin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you have to ask why our stock keeps plummeting, you can't afford us."
+      ]
+    }
+  ]
+}

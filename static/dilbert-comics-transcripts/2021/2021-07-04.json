@@ -1,0 +1,55 @@
+{
+  "date": "2021-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you tell me you canceled the meeting?!",
+        "I did."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You absolutely, positively did not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would certainly remember if you did."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Here are the text messages when I told you I canceled the meeting and you confirmed."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Uh-oh. I seem to have triggered cognitive dissonance."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Whatever you say next is likely to be an absurdity that allows you to be right when you are wrong."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I told you frogs don't have hooves, but you insisted they did! Admit you were wrong!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I win, you liar!",
+        "This show never gets old."
+      ]
+    }
+  ]
+}

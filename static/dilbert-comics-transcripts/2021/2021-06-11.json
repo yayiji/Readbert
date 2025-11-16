@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to cancel our scheduled zoom call today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I woke up early and put on makeup for nothing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could do a voice call from my car.",
+        "You're making it worse!!!"
+      ]
+    }
+  ]
+}

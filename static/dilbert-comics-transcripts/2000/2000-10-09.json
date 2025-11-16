@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't pay you this week because your position code is misaligned with your module."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Worse yet, no one knows what that means or whose responsibility it is to fix it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who told you about the problem?",
+        "It was an anonymous note with disappearing ink."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new product will be a social network for people who want to be friends with ghosts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll post satellite pictures on each ghost's personal page and say the photos were taken from heaven."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "Abraham Lincoln posted new pictures.",
+        "I'm chatting with Gandhi!"
+      ]
+    }
+  ]
+}

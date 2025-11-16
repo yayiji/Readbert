@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evil director of H.R.",
+        "It's illegal for me to ask about age, sex, marital status, weight, ethnicity or disabilities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I can see that you're a fifty-year-old, 145-pound, mongrel spinster with some coordination issues."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any problem working on Christmas?"
+      ]
+    }
+  ]
+}

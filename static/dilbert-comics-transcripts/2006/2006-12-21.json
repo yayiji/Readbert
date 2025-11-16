@@ -1,0 +1,23 @@
+{
+  "date": "2006-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, the unluckiest insurance agent.",
+        "Our hazard coverage is second to none!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't flee down the stairwell.",
+        "The steps are made of asbestos."
+      ]
+    }
+  ]
+}

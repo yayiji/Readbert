@@ -1,0 +1,54 @@
+{
+  "date": "2021-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to destroy our competition!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't approve of violence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't say anything about violence."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You said \"destroy\" them. I don't see how that could mean anything else."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It was just a figure of speech."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We're engineers! You can't use figurative speech with us. We take things literally."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So, what exactly is it you want us to do with our competitors?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Beat them!",
+        "With sticks?"
+      ]
+    }
+  ]
+}

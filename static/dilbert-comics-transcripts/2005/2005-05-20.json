@@ -1,0 +1,26 @@
+{
+  "date": "2005-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, this is important, but you have a month to finish it.",
+        "I'll start right away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's smarter to wait until the last minute and then make a big show of how hard you're working to meet the unreasonable deadline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You said that right in front of him.",
+        "It'll still work.",
+        "That's the freaky part."
+      ]
+    }
+  ]
+}

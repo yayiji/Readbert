@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian strongman \"Vlad the Emailer\" has invaded Ucranium, a nation that exists only in the metaverse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ucranium has asked programmers to help them create virtual weapons to repel the attack."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... how does that make sense?",
+        "Fog of war?"
+      ]
+    }
+  ]
+}

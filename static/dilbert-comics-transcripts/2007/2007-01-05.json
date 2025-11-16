@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My diet is making me too hungry to listen.",
+        "I hope that doesn't affect the quality of my decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Amortize the depreciation over the bandwidth of the discount rate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't ask him for anything today.",
+        "I brought an emergency hoagie."
+      ]
+    }
+  ]
+}

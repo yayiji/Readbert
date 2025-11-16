@@ -1,0 +1,24 @@
+{
+  "date": "2010-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to waste the better part of my afternoon trying to upgrade my phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just set up my sport chair, and use my laptop while you mumble and stare at your monitor for what seems like forever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look at me! I'm beating your system!",
+        "Quiet! I'm trying to stare."
+      ]
+    }
+  ]
+}

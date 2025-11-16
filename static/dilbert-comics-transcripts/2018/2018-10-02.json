@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I take time off for a death in the family?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, it depends who dies.",
+        "Can you be more specific?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It has to be you."
+      ]
+    }
+  ]
+}

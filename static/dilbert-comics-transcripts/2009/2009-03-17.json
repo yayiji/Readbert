@@ -1,0 +1,25 @@
+{
+  "date": "2009-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our risk management software says your idea is too risky."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try reducing one of the inputs.",
+        "Which one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Honesty.",
+        "I just threw up in my mouth."
+      ]
+    }
+  ]
+}

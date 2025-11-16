@@ -1,0 +1,24 @@
+{
+  "date": "2016-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the latest on the software release date?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're right on time for the pre-alpha launch, unless we run into something unexpected."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How often does that happen?",
+        "Whenever I need it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company lawyer",
+        "I turned your simple business deal into a flaming pile of excrement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's some of my best work. I don't even understand it myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look what just landed in your backyard."
+      ]
+    }
+  ]
+}

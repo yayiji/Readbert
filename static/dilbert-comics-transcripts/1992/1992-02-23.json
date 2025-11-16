@@ -1,0 +1,57 @@
+{
+  "date": "1992-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bank of Ethel",
+        "Now a secret Swiss bank"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to withdraw two hundred dollars.",
+        "What's your secret Swiss account number?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have a secret account. It's just a regular account."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wrong. I changed all of the accounts into secret Swiss accounts."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oh, okay, what's my secret account number?",
+        "It's a secret."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then how do I get my money out?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're a bit slow in grasping the concept here."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, okay I'll just open a new account.",
+        "Do you have any previous banking references?"
+      ]
+    }
+  ]
+}

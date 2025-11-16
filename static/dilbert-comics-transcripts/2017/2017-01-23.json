@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend buying the company that supplies coffee to our biggest competitor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll replace their regular coffee with decaf and enjoy a solid 20-point I.Q. advantage over them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do all of your ideas involve coffee?",
+        "Only the good ones."
+      ]
+    }
+  ]
+}

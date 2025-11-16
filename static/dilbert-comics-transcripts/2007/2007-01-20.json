@@ -1,0 +1,23 @@
+{
+  "date": "2007-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to find a way to close the gap between our strategy and our capabilities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't we just pretend we're good at something and call it our strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry... didn't mean to jump ahead."
+      ]
+    }
+  ]
+}

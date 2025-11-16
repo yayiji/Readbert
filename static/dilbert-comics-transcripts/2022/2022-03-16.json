@@ -1,0 +1,26 @@
+{
+  "date": "2022-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services.",
+        "I had to revoke your network access."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think you know why.",
+        "That's not fair! Everyone looks at inappropriate content!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're the only one who does nothing else.",
+        "Solid point."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2004-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's that I'm hearing? Is someone on this conference call using the restroom?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am",
+        "Me too",
+        "Had to",
+        "Oops",
+        "Sorry"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now tap the speakerphone button to \"off\" and burn the ruler."
+      ]
+    }
+  ]
+}

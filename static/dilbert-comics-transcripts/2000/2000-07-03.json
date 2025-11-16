@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you'll be working with Lulu. She's almost normal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But she has no sense of proportion for problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you notice that he looked at you funny?",
+        "What?!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "1996-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate my shirts.",
+        "Each one has either",
+        "a stain or a",
+        "missing",
+        "button."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They say engineers",
+        "are not concerned",
+        "with fashion, but",
+        "that's not fair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which stain",
+        "goes with",
+        "this tie?",
+        "Definitely",
+        "the marinara."
+      ]
+    }
+  ]
+}

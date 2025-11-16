@@ -1,0 +1,54 @@
+{
+  "date": "2021-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won a government contract to build a CO2 capture machine, and we need some ideas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're only brainstorming here, so remember, there are no \"bad ideas.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We could capture the CO2 with a net."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Aren't you going to write that one down?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, I'm fairly confident I'll remember that suggestion for the rest of my life."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We could attract the CO2 with some sort of food."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Forget it! You're all idiots! I'll just design the stupid machine myself!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That was fun.",
+        "I love brainstorming."
+      ]
+    }
+  ]
+}

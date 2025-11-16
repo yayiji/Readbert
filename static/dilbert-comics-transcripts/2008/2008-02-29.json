@@ -1,0 +1,24 @@
+{
+  "date": "2008-02-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert, the evil director of human resources, posts a job opening.",
+        "Requirements:"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Candidate must have an I.Q. of 300, two centuries of Unix experience and a track record of winning Nobel prizes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "90% of my job is convincing people they don't deserve theirs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your slide deck is okay-ish. But can you make it more aspirational?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's just a software upgrade."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes. Yes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I want the audience to feel it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They can feel the handouts."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's like you're not even trying to understand!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Genius is often misunderstood."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you know what else is misunder-stood?",
+        "Super-genius?"
+      ]
+    }
+  ]
+}

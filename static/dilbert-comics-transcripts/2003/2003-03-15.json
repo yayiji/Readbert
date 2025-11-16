@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A customer keeps asking when we'll deliver the stuff they bought.",
+        "When will we?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Never. You lied to them to get their business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You took their money and gave them nothing. Do you know what that makes you?",
+        "The winner!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO will be visiting the office tomorrow, so act busy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And don't look directly at him because I don't want him to see how dead your eyes look."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we ask him questions?",
+        "No, no. Nothing good can come from that."
+      ]
+    }
+  ]
+}

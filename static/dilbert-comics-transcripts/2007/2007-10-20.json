@@ -1,0 +1,25 @@
+{
+  "date": "2007-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the security consultant",
+        "Be on the lookout for any suspicious behavior."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you see a guy do something that you wouldn't do, beat him to death with a trash can."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we use recycle bins?",
+        "I wouldn't have asked that question."
+      ]
+    }
+  ]
+}

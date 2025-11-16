@@ -1,0 +1,23 @@
+{
+  "date": "1992-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me what you've accomplished this year so I can write your performance appraisal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The inventions I made last year -- that you thought were worthless, will generate twelve million in license fees next year!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, no real accomplishments this year?"
+      ]
+    }
+  ]
+}

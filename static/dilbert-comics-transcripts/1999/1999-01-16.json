@@ -1,0 +1,25 @@
+{
+  "date": "1999-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your internet start-up company coming?",
+        "Good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to be the dominant internet source for tuna sandwiches."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, if I buy one, you ship it overnight?",
+        "No, you have to come pick it up."
+      ]
+    }
+  ]
+}

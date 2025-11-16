@@ -1,0 +1,34 @@
+{
+  "date": "1995-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No, you fool.",
+        "That modem will never fit your need."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The specs look okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're an idiot compared to me!",
+        "Put that down!",
+        "It's the wrong interface! The wrong interface!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is he on commission?",
+        "Rrrr",
+        "Yeah, he pays us a dollar per customer."
+      ]
+    }
+  ]
+}

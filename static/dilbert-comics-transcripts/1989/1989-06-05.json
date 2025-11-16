@@ -1,0 +1,23 @@
+{
+  "date": "1989-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, Dogbert, give me one good reason why I shouldn't sign up for sky diving lessons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thud..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean \"thud...ouch!\" or just \"thud\"?"
+      ]
+    }
+  ]
+}

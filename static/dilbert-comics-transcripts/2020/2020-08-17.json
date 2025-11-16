@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you watch the video I sent?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a burden to know you because you keep assigning me homework."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm trying to be helpful.",
+        "Can you help my enemies instead?"
+      ]
+    }
+  ]
+}

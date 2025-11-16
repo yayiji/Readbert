@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fired everyone who used the internet for personal stuff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only wrinkle in that policy is that you and I are the only employees left."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And frankly, I use the web for personal stuff too.",
+        "Can you teach me how?"
+      ]
+    }
+  ]
+}

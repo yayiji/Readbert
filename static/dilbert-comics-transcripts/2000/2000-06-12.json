@@ -1,0 +1,27 @@
+{
+  "date": "2000-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "All of your employees are ignorant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can fix that by selling you intranet collaboration tools."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But if they're sharing their ignorance...",
+        "Sign it",
+        "Sign it",
+        "Sign it"
+      ]
+    }
+  ]
+}

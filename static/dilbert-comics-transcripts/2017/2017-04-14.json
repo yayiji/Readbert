@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a 3-D printer for the poor that can create any kind of generic drug or medical device."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will save millions.",
+        "...Of dollars?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People.",
+        "Pass."
+      ]
+    }
+  ]
+}

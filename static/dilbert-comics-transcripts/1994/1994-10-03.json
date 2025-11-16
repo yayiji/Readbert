@@ -1,0 +1,25 @@
+{
+  "date": "1994-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert consulting company has reviewed the executive compensation plan as you requested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My conclusion is that you're already hideously overpaid.",
+        "I'm recommending ninety percent pay cuts and a whack in the head for each of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bet you don't get much repeat business.",
+        "Oh yeah, as if I'd want to spend more time with you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2005-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't buy the software I need to do my job because of your freeze on expenses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And our I.S. policy says I can't use the freeware version that is readily available."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I used the week to develop some new coffee-sipping noises."
+      ]
+    }
+  ]
+}

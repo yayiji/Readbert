@@ -1,0 +1,25 @@
+{
+  "date": "1991-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to recognize Wilson for working twenty-hour days and making the project a success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks, but I'm not Wilson.",
+        "He quit months ago.",
+        "Oh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got to stop calling this the employee recognition program."
+      ]
+    }
+  ]
+}

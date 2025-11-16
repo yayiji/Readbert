@@ -1,0 +1,59 @@
+{
+  "date": "1994-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've implemented an \"employee of the month award.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The winner gets to park in a special space right behind the area reserved for managers!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's like saying the very best employee isn't as good as the worst manager."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, you're just as good but...uh... less important."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Personally, I'm feeling all charged up about this program!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm going to work day and night to increase my chances for better parking!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha",
+        "Ho ho",
+        "Hee",
+        "Ha",
+        "Ha"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "But wait!",
+        "I ride the train to work!",
+        "We're off to a rocky start."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2017-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Review this contract and tell me if it looks right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's legal gibberish.",
+        "I don't understand a word of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you see no problems?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Only a lawyer could understand it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But otherwise it's okay?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My inability to identify a problem is not proof of no problems."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then how do you know when all of your problems have been fixed?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll just sign it and see what happens."
+      ]
+    }
+  ]
+}

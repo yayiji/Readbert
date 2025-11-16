@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And Wally, did you finish your project tasks for today?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I took a calculated risk that other people would not finish their tasks either, making my lateness totally irrelevant."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "That is the worst...",
+        "I need another week."
+      ]
+    }
+  ]
+}

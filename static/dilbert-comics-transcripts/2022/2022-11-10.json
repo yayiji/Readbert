@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert consulting company can end the scourge of \"quiet quitting\" in your company.",
+        "How?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I use a variety of slogans and handouts and exercises."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds powerful.",
+        "I also offer creepy high energy."
+      ]
+    }
+  ]
+}

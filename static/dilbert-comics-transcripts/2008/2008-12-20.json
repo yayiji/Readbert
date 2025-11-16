@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you for a meeting with my boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "About five minutes, into the meeting I'm going to start punching you. With any luck, my boss will join in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe that shouldn't be called luck.",
+        "Okay... skill. Whatever."
+      ]
+    }
+  ]
+}

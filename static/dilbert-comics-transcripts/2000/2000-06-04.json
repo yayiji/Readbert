@@ -1,0 +1,56 @@
+{
+  "date": "2000-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, our auditors found 40 gigabits of bikini pictures on your PC."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is grounds for dismissal.",
+        "How do you plead?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Innocent.",
+        "Technically, they didn't find any pictures."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What they found were zeroes and ones resting harmlessly on magnetic media."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It was the auditors themselves who activated those harmless bits to form pictures on the screen!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I demand that those godless auditors be fired!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And if it's not too much trouble, I'd like my zeroes and ones back."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Was justice served?",
+        "It's a gray area."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2021-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're recommending the opposite of what you recommended a year ago!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're a flip-flopper."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can we trust anything you say if it changes in a year?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your credibility is shot, bruh. What an embarrassment you have become."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When the data changes, sometimes I change my opinion.",
+        "How do you play it?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you keep your same dumb opinions, or do you sometimes update them?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You have exposed me for the fool I have always been.",
+        "I quit."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's the first time I ever won a meeting. It feels good."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am proud to give you this award for cutting costs more than any other department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of our projects failed because they are underfunded."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you put up with these losers?",
+        "The awards help."
+      ]
+    }
+  ]
+}

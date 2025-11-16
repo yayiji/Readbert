@@ -1,0 +1,26 @@
+{
+  "date": "2022-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the futurist",
+        "I'm getting a lot of interview requests now because I only predict doom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you shouldn't scare the public.",
+        "Hey, you don't see me interfering with your hobbies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have any unethical hobbies.",
+        "Would you like some? I can get you started."
+      ]
+    }
+  ]
+}

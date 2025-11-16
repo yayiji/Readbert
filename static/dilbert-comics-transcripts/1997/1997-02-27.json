@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've heard that some primitive cultures had no mathematical concept of \"zero.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes I think you're like that when I tell you I have zero time left for additional work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The conversation went downhill from there.",
+        "No, that's \"Zorro.\"",
+        "You're not like Zorro!!"
+      ]
+    }
+  ]
+}

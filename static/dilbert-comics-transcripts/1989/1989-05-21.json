@@ -1,0 +1,35 @@
+{
+  "date": "1989-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Excuse me, miss!",
+        "Plop!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh oh...",
+        "You dropped this little book titled \"Attractive women's secret guide to avoiding Dilbert.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait a minute! I knew there had to be some kind of conspiracy!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I can break this code, it will cripple their entire operation!",
+        "Mayday!!! Mayday!!!",
+        "Dogbert, sic!!!",
+        "Sick?",
+        "No, but my nose is a bit dry..."
+      ]
+    }
+  ]
+}

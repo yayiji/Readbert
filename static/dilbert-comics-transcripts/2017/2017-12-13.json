@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My side job as a professional gambler is going great."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won a $5,000 jackpot this weekend.",
+        "How much did you lose?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "About $700,000, and my wife.",
+        "Didn't you tell her about the $5,000?"
+      ]
+    }
+  ]
+}

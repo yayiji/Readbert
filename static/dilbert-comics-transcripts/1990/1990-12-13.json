@@ -1,0 +1,27 @@
+{
+  "date": "1990-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, mister, why are you so glum?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've lost face at my job...",
+        "You'll get over it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't understand...",
+        "I'm a plastic surgeon...",
+        "I actually lost somebody's face.",
+        "Bummer."
+      ]
+    }
+  ]
+}

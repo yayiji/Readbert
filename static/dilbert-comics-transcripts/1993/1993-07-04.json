@@ -1,0 +1,54 @@
+{
+  "date": "1993-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sigh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey hey! What's this? Are we feeling blue?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Go away, Ratbert."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This could be my chance to bond and become a valued member of the family."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm going to hug your foot until you turn that frown upside down."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now tell me why you feel sad."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I just walked through something disgusting with my new shoes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "One of us isn't trying hard enough to make this relationship work.",
+        "Could you do the other shoe now?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2021-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To save time, everyone just shout out why you didn't get anything done all week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Covid",
+        "Covid",
+        "Covid",
+        "My own laziness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just say \"your own laziness\"?",
+        "Yes, but it was a covid symptom."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm almost done with your performance appraisal.",
+        "Gasp"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I haven't had an appraisal in four years. You must be starting a documentation trail so you can fire me later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll work 24 hours a day!!",
+        "That was way more motivational than I'd hoped."
+      ]
+    }
+  ]
+}

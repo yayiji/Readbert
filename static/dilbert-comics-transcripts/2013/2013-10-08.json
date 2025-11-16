@@ -1,0 +1,24 @@
+{
+  "date": "2013-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you offer us a discount?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had something like that in mind, except instead of giving a discount, I would hit you with a chair and run away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't do that.",
+        "Okay, but I'll have to charge you extra."
+      ]
+    }
+  ]
+}

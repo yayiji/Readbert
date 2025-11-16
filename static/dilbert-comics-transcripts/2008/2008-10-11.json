@@ -1,0 +1,24 @@
+{
+  "date": "2008-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We invested $100 million in your solar technology and all you developed was this ham sandwich."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you feed that ham sandwich to a rickshaw driver, he can pedal you all over town."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You call that solar power?",
+        "Try growing a pig without the sun."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll be shutting down our global communications business and de-orbiting our satellites."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Wouldn't that create dozens of deadly flame balls speeding toward Earth?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why we're aiming for cities that have lots of swimming pools."
+      ]
+    }
+  ]
+}

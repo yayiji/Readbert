@@ -1,0 +1,25 @@
+{
+  "date": "1998-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice is overdosing on antidepressants.",
+        "We must induce vomiting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Look at our mission statement, Alice.",
+        "The people who wrote it earn ten times your salary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The plan worked perfectly, up to the point where all three of us were heaving and Alice was punching us."
+      ]
+    }
+  ]
+}

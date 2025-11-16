@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ringy thingy.",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While you were working, your children grew up and moved away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never had a plan that worked so well."
+      ]
+    }
+  ]
+}

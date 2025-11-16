@@ -1,0 +1,53 @@
+{
+  "date": "1989-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been reading that World Almanac for hours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for nations I can conquer on a limited budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's one: \"Andorra. 185 square miles. Only 56,000 people. Joint rule by France and Spain...\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hmm... \"King Dogbert of Andorra\" has a nice ring to it. Now I just need some mercenaries."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How are you going to pay for mercenaries?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll float some junk bonds until we can loot the treasury of Andorra."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It strikes me as a bit unethical."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Apparently I'll have to imprison some dissidents."
+      ]
+    }
+  ]
+}

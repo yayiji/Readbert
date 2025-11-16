@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a science explainer for our meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll interrupt us every ten minutes to explain, in a condescending way, how science works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do we need that?",
+        "It's just something we do."
+      ]
+    }
+  ]
+}

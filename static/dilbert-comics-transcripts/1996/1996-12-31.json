@@ -1,0 +1,22 @@
+{
+  "date": "1996-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The business traveler"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I bought this suit, it said \"wrinkle-free\" on the wrapper.",
+        "The wrapper?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2005-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company will be relocating to a high-crime area for tax reasons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our CEO says, \"Don't worry about your safety because your limo can pull right into the underground parking garage.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then he added,",
+        "\"Or chain your bicycle to a wino.",
+        "Whatever.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2004-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My opening offer is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you, thank you, thank you.",
+        "We accept your offer!!!",
+        "I haven't said the offer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean, we have lots of other offers that are better.",
+        "You're ruining everything."
+      ]
+    }
+  ]
+}

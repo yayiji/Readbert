@@ -1,0 +1,23 @@
+{
+  "date": "2021-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a new virus that kills everyone who doesn't have a beard and a tall, fuzzy hat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What country would release a virus like that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm hearing bad things about Luxembourg."
+      ]
+    }
+  ]
+}

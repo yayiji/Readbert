@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you looking at your phone while I'm answering your question?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because your answer has nothing to do with my question, but I didn't want to be rude and interrupt you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm giving important context.",
+        "Text me when that part is done."
+      ]
+    }
+  ]
+}

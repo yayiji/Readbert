@@ -1,0 +1,24 @@
+{
+  "date": "1993-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! You temporary contract programmers sure are productive!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It must be exciting to know you can be dismissed at any moment. Your very survival depends on results!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's go blame marketing for not giving us detailed requirements.",
+        "What's the big rush?"
+      ]
+    }
+  ]
+}

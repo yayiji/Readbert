@@ -1,0 +1,25 @@
+{
+  "date": "2010-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ken, you've almost reached your sales bonus level with time to spare."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Obviously I set your bonus threshold too low.",
+        "I'll need to adjust it upward retroactively."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'm just a great salesperson!",
+        "That's the spirit! Stay hungry!"
+      ]
+    }
+  ]
+}

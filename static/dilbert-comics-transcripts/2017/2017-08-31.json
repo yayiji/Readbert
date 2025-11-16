@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the view on this from thirty thousand feet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From that distance, everything we do is meaningless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then how do we know what to do?",
+        "I guess we ruled out \"leadership.\""
+      ]
+    }
+  ]
+}

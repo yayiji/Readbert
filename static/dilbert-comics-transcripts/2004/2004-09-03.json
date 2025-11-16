@@ -1,0 +1,26 @@
+{
+  "date": "2004-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello? This is Alice.",
+        "Beeep",
+        "Beeep"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are faxing to my voice line again, you #!!%*"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How often do you fax to her voice line?",
+        "It depends if she's been bad."
+      ]
+    }
+  ]
+}

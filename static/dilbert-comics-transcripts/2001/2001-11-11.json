@@ -1,0 +1,53 @@
+{
+  "date": "2001-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I have to downsize you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Was I doing a bad job?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's more complicated than that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is my essential function being eliminated?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, the problem is that someone in marketing spent too much for a trade show booth."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So every manager had to submit a list of potential cost reductions."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I might have accidentally sent the department phone list as an e-mail attachment."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There are lots of whiners in \"A\" through \"M.\""
+      ]
+    }
+  ]
+}

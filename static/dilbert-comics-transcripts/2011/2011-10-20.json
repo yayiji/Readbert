@@ -1,0 +1,24 @@
+{
+  "date": "2011-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Change all of the lines to dotted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're not made of ink."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why'd I just get chills?",
+        "Me too. It feels like some sort of forbidden knowledge."
+      ]
+    }
+  ]
+}

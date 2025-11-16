@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm starting to think you don't take pride in your work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would be like taking pride in being the victim of a crime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd the pep talk go?",
+        "He made some good points."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2008-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where am I?",
+        "What happened?",
+        "Someone hit you with a rock."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The swelling in your prefrontal cortex will make you care less about hurting people, thus making you a natural leader."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's also a bump on the back of my head.",
+        "That's so you don't remember who threw the rocks."
+      ]
+    }
+  ]
+}

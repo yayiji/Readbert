@@ -1,0 +1,26 @@
+{
+  "date": "1998-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your cubicle roof is looking good.",
+        "Yep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I love being a skilled worker in a period of low unemployment. I can get anything I demand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, Poindexter, fetch me a lemonade.",
+        "Ouch",
+        "Poink"
+      ]
+    }
+  ]
+}

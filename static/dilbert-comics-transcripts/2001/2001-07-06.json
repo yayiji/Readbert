@@ -1,0 +1,24 @@
+{
+  "date": "2001-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope it doesn't rain until my roof gets shingled."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't you use your personal chaos-driven climate control apparatus to control the rain?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I... uh... don't have one.",
+        "You can use mine. Just reset the randomizer when you're done."
+      ]
+    }
+  ]
+}

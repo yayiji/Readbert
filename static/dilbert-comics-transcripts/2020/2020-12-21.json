@@ -1,0 +1,25 @@
+{
+  "date": "2020-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I object to your Twitter profile.",
+        "It says..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My tweets are smart and useful, so obviously they do not represent my employer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Smorph!",
+        "Now see what you did to Wally."
+      ]
+    }
+  ]
+}

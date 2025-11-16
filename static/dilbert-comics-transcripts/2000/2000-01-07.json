@@ -1,0 +1,26 @@
+{
+  "date": "2000-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, your bonus is only 5% this year.",
+        "Don't feel bad; I only got 5% too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But 5% of your salary is four times more than 5% of my salary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I feel bad about that?",
+        "Sure.",
+        "Go wild!"
+      ]
+    }
+  ]
+}

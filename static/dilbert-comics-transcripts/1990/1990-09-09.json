@@ -1,0 +1,57 @@
+{
+  "date": "1990-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... my foot is asleep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd better hop around...",
+        "Oh no, my arm is asleep too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ouch ouch!! I'll have to hop and wave my arm."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wave wave",
+        "Hop hop hop"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hlmbphlmn...",
+        "Lm rsl... mbl!!",
+        "My tongue is asleep."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Mblhmnp!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Aaahh... it's okay now, Dogbert. Everything is back to normal."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Except my nose is asleep and I feel a sneeze coming on."
+      ]
+    }
+  ]
+}

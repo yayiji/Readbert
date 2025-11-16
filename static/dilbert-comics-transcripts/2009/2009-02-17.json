@@ -1,0 +1,24 @@
+{
+  "date": "2009-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your request for airline travel is denied. We don't have the budget for that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Company policy requires you to hitchhike with alleged killers and not offer to pay for gas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, at least things can't get worse.",
+        "Apparently you don't know what \"alleged\" means."
+      ]
+    }
+  ]
+}

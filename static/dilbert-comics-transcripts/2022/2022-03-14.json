@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you finished creating our technology road map yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I have a road map for completing the road map."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I see it?",
+        "It's more of a mental thing."
+      ]
+    }
+  ]
+}

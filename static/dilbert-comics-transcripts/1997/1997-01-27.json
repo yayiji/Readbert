@@ -1,0 +1,25 @@
+{
+  "date": "1997-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "We've decided to lower your base salary, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I realize this will be a hardship. But if you hand me your necktie I'll show you why this is being done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did he say was the reason?",
+        "\"Because I can.\""
+      ]
+    }
+  ]
+}

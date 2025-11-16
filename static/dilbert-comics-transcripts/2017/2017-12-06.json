@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't delete the Elbonian virus in our network. It keeps replicating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Holy carp! It created a fake email full of typos and bad ideas and sent it out from our CEO's account!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait, no.",
+        "That's actually from our CEO.",
+        "Maybe the virus can fix him."
+      ]
+    }
+  ]
+}

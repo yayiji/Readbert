@@ -1,0 +1,51 @@
+{
+  "date": "2006-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I have to let you go..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, this was bound to happen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess someone told you that I e-mailed our CEO and said you think his daughter looks like a chimp."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Or is it because I built a guest house from stolen office supplies?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe it's because you found out that I've been taking a dollar out of your desk every day for seven years."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Actually, I was trying to say I have to let you go to a training class."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it someplace nice?"
+      ]
+    }
+  ]
+}

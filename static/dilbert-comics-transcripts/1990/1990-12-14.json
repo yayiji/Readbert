@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yeah, I once built an FM transmitter from old television parts..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing... I built a broadband multiplexer from tuna cans and a lamp."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...My first orbiting space station was made entirely from old socks and Vaseline.",
+        "I hate going last."
+      ]
+    }
+  ]
+}

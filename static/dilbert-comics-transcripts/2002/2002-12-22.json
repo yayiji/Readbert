@@ -1,0 +1,57 @@
+{
+  "date": "2002-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The adventures of Paul Ooshen",
+        "(*Say it fast)"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaah... the scent of a hog farm in a rainstorm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oil for fingers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Onion sandwich."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Annoying nasal sounds.",
+        "Sniff snort"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Leaky coffee mug.",
+        "I'm ready for my meeting."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes! Yes! I agree to everything!",
+        "Please leave!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I didn't even need to lean over her keyboard with my sugar doughnut."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1995-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm reorganizing the department into fast-moving teams."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good plan. We'll never realize we're powerless, micro-managed serfs after we call ourselves a \"team.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need some less experienced people.",
+        "I feel faster already.",
+        "The g-forces are killing me."
+      ]
+    }
+  ]
+}

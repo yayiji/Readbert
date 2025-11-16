@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For budget reasons, I need to lay off one person in my department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've narrowed it down to Dilbert or this non-player character who has no soul."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What criteria are you using to make the decision?",
+        "I'll fire whoever complains the most."
+      ]
+    }
+  ]
+}

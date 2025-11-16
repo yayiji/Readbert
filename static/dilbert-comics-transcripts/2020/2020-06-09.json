@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see the shocking claims in the video I emailed to you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. The video is so obviously fake that only a raging moron would think any of it is true."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it's all true.",
+        "Welp, that's one data point in my favor."
+      ]
+    }
+  ]
+}

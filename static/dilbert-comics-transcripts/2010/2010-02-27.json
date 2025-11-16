@@ -1,0 +1,25 @@
+{
+  "date": "2010-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Victor quit. I need you to take over his project.",
+        "Did he leave any documentation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but it's obviously some sort of glowing box. That should be enough to get you started."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you finish it by Monday?",
+        "If it's a night-light, I can finish it by today."
+      ]
+    }
+  ]
+}

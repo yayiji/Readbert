@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "75% of the people who had one treatment with our product that makes people smarter ended up dying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily, we're the only ones who know that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need to tell people.",
+        "Sounds like you need a treatment."
+      ]
+    }
+  ]
+}

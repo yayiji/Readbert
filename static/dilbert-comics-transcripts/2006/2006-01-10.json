@@ -1,0 +1,25 @@
+{
+  "date": "2006-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's retirement planning seminar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't tell anyone that you retired.",
+        "Just keep coming to work and collecting money for the weekly lottery pool.",
+        "Then spend it on food."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want my dollar back."
+      ]
+    }
+  ]
+}

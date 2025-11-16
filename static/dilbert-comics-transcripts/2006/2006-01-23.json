@@ -1,0 +1,23 @@
+{
+  "date": "2006-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you ever come to work on Monday and realize that you forgot how to do your job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only a total moron would forget over the weekend how to do his job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "O-o-okay. I'm starting to remember who you two are."
+      ]
+    }
+  ]
+}

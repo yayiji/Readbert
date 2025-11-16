@@ -1,0 +1,24 @@
+{
+  "date": "1990-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey! Big guy, how are ya?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How's the family? You look great... Nice weather, huh?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate outgoing mail.",
+        "Do you fish?"
+      ]
+    }
+  ]
+}

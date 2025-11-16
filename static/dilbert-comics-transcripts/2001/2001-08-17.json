@@ -1,0 +1,27 @@
+{
+  "date": "2001-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "The average performance evaluation for your group is too high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want me to lower their ratings or their actual performance?",
+        "Whatever"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is starting to affect my performance.",
+        "Why?",
+        "I'm not touching you."
+      ]
+    }
+  ]
+}

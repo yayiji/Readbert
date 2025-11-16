@@ -1,0 +1,26 @@
+{
+  "date": "1998-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I check you in, let me explain something..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're here for a technology conference.",
+        "I am the only attractive woman who will talk to you for days.",
+        "I am not free for coffee later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I brush your hand when you give me the key?",
+        "I'll toss it to you."
+      ]
+    }
+  ]
+}

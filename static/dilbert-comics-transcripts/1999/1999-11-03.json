@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Give the employees six minutes of bathroom breaks per shift."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tiny cubicles...and we'll monitor calls and have incompatible objectives, such as speed and customer service."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's the project going?",
+        "I'm still collecting the abuser requirements."
+      ]
+    }
+  ]
+}

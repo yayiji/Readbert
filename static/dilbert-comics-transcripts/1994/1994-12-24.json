@@ -1,0 +1,25 @@
+{
+  "date": "1994-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a strange smell in the cubes.",
+        "We're using aroma technology!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, research shows that the scent of lemon makes employees more alert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not lemon.",
+        "My job's easier when you guys aren't too alert."
+      ]
+    }
+  ]
+}

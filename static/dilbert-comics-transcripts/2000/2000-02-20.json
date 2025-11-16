@@ -1,0 +1,53 @@
+{
+  "date": "2000-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our division is unusually profitable this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means our targets for next year will be set impossibly high."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our only hope of reaching our profit target next year..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...is to sabotage profits for the rest of this year."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's too late to stop customers from buying our products."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So we'll focus on increasing our wasteful spending."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wally, I'm sending you to a leadership training class."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you ever stick out your coffee mug and just follow where it took you?"
+      ]
+    }
+  ]
+}

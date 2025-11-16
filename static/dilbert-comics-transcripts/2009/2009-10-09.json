@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did the executive steering committee approve my project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We agreed on a predecisional draft framework for making the decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that mean anything?",
+        "It depends what you mean by \"anything.\""
+      ]
+    }
+  ]
+}

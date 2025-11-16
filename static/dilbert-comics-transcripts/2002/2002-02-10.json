@@ -1,0 +1,55 @@
+{
+  "date": "2002-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't think our network can handle the extra network traffic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Opinions don't matter to me. I base my decisions on hard data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about logic?",
+        "Our network is already too slow and we plan to quadruple usage."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Bah! Watch how science works and maybe you'll learn something."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Doug, come here for a minute."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The data proves that our network has infinite capacity, so your budget should be diverted to my project."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's not science!",
+        "That's a weasel misinterpreting data to get extra funding!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There are days when you really hate to hear the phrase \"Po-tay-to, po-tah-to.\""
+      ]
+    }
+  ]
+}

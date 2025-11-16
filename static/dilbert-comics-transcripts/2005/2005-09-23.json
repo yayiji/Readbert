@@ -1,0 +1,24 @@
+{
+  "date": "2005-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I've been watching you for half an hour and you've done no work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm waiting for my program to compile while I design the next module in my head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you grimace so I know you're working?",
+        "Here you go."
+      ]
+    }
+  ]
+}

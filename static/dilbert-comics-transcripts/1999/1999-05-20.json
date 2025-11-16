@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, we're almost back to my place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks for the date. I can make it from here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd better attach the tracking device.",
+        "I'll run down that alley and hide until he leaves."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2020-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I estimate the odds at a 70% chance things go well, and a 30% chance we lose money on the deal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we lose money, will you admit you were wrong?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How could I be wrong? I'm just telling you the odds."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If we lose money, that's on you for recommending it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Um... no. I'm telling you the odds and letting you decide."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But you're the one saying this is such a great deal."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm only telling you the odds, you pea-brained ignoramus!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So, you won't admit you were wrong?"
+      ]
+    }
+  ]
+}

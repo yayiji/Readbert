@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember, intern, you can't spell delegate without some of the letters of \"El Gato.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your saying is ridiculous and yet I find it compelling because it came from a leader."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it is I who have learned the most from your ignorance.",
+        "That is so wise!"
+      ]
+    }
+  ]
+}

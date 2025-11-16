@@ -1,0 +1,54 @@
+{
+  "date": "2014-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The software upgrade will be written and rolled out in three months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Has any project of this complexity ever been completed by the estimated finish date?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not yet. We're confident we'll be the first."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is that because you're doing things differently from all of those who went before and failed?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No. We're doing things exactly the same way as the people who failed."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you see what I'm getting at?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, not really."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And we expect to be on budget.",
+        "Snork!"
+      ]
+    }
+  ]
+}

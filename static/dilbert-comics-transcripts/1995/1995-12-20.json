@@ -1,0 +1,25 @@
+{
+  "date": "1995-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, what's Dogbert doing here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is \"Bring your dog to work day.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no such thing.",
+        "I'm through the security firewall and into the personnel records.",
+        "We need to talk."
+      ]
+    }
+  ]
+}

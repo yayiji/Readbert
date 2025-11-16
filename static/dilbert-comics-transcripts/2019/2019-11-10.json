@@ -1,0 +1,54 @@
+{
+  "date": "2019-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you have any problems with the software, just give me a call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if you die or you're in a coma?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, in those cases I would not return your call."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So you're lying about getting back to me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, I'm making a normal kind of generalization, which I assumed you would understand."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, so now you're calling me stupid, and you're a liar?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If a liar calls you stupid, wouldn't that mean you are smart?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Fair point.",
+        "Thanks. I'm proud of it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's an opening in my old department.",
+        "Is it okay if I apply?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. I'd be happy to toss that dead cat in someone else's backyard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was worried that I might be too valuable...",
+        "Why are you still here?"
+      ]
+    }
+  ]
+}

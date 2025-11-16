@@ -1,0 +1,28 @@
+{
+  "date": "2003-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our legal department advises us to destroy any documents that show we know our products are hugely defective."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Chomp",
+        "Chomp",
+        "Chew",
+        "Chomp",
+        "Chew",
+        "Gulp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have room in there for the user specifications?"
+      ]
+    }
+  ]
+}

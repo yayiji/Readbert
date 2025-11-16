@@ -1,0 +1,25 @@
+{
+  "date": "2010-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Assemble the supreme leadership board.",
+        "I am ready to name an heir to succeed me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have a supreme leadership board, and this isn't a hereditary dictatorship."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's crazy talk.",
+        "Ignore him, daddy."
+      ]
+    }
+  ]
+}

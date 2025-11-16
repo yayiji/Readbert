@@ -1,0 +1,24 @@
+{
+  "date": "2006-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Aren't you afraid that Google will try to squash you for inventing a better search engine?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Their company motto is \"Don't be evil.\" It's not as if they have a death ray or something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Google headquarters",
+        "Now look in the big hole, Eric."
+      ]
+    }
+  ]
+}

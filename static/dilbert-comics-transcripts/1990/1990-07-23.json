@@ -1,0 +1,26 @@
+{
+  "date": "1990-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here we have a lab rat, specially bred to be susceptible to peer pressure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about a brewski?",
+        "I don't drink.",
+        "All the cool rats drink beer.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course, there's more to science than just hurting animals, but frankly it's the part I like best."
+      ]
+    }
+  ]
+}

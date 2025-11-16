@@ -1,0 +1,28 @@
+{
+  "date": "1989-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh no, not this cashier again.",
+        "She always hands back my change right over my soda.",
+        "I just know she's trying to make me drop a dime in my drink."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No!",
+        "No! No!",
+        "Fake left..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not the coins in the soda that get me;",
+        "it's that darned celebration dance she does."
+      ]
+    }
+  ]
+}

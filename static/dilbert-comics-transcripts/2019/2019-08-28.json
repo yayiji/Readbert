@@ -1,0 +1,25 @@
+{
+  "date": "2019-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm an inexperienced employee who tells experienced employees how to do their jobs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I compensate for my lack of experience with a thing called arrogance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds worthless.",
+        "Oh, yeah?",
+        "Then why does every company have one of me?"
+      ]
+    }
+  ]
+}

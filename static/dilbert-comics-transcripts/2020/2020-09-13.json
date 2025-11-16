@@ -1,0 +1,55 @@
+{
+  "date": "2020-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How confident are you in your analysis?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Very confident.",
+        "Good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless I used the wrong discount rate, which is hard to know."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But otherwise, it's solid?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Except for the installation and maintenance costs, which are wild guesses."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And we don't know if we sized the project right, so costs could be double or triple."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It sounds as if you applied math to a bunch of wild guesses."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yes, but I got the result you wanted.",
+        "Next time, just say that."
+      ]
+    }
+  ]
+}

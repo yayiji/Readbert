@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry, but it seems you've failed the written portion of the dog license test.",
+        "Impossible!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, this question on \"natural enemies\": the correct answer is \"mailman.\" You wrote-in \"fax machine.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd it go?",
+        "The \"Department of Dogs\" does not keep up with emerging trends."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2001-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the worst thing that could happen?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our beta product could turn into an evil robot that annihilates the galaxy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently I don't know what \"worst\" means."
+      ]
+    }
+  ]
+}

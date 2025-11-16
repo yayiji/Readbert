@@ -1,0 +1,25 @@
+{
+  "date": "2021-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How many of you would prefer going back to work in the office instead of working at home?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd rather be dead.",
+        "I quit.",
+        "Shoot me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I knew it was a mistake to let them taste happiness."
+      ]
+    }
+  ]
+}

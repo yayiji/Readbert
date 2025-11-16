@@ -1,0 +1,54 @@
+{
+  "date": "2013-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to install the new firewall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Noooo!!!! Why me? Why me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The firewall guy gets blamed for every problem."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People will say, \"Everything worked until you changed the firewall.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There will be no rest for me. I will have to defend myself against a continuous barrage of accusations."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's always the firewall! Everyone blames the stinkin' firewall!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I surrender to the inevitable! Villagers, grab your pitchforks and torches!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did he get that way?",
+        "I blame the firewall."
+      ]
+    }
+  ]
+}

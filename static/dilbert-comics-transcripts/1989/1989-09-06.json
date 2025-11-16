@@ -1,0 +1,24 @@
+{
+  "date": "1989-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, Dilbert, this is the prototype you've been working on for the last six months?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, sir. I'm proud to say that this baby can transform worthless pocket lint into a valuable parsley substitute!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, this looks absolutely brilliant and completely unmarketable.",
+        "Thanks. I'm technology driven."
+      ]
+    }
+  ]
+}

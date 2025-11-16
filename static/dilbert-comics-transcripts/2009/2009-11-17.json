@@ -1,0 +1,25 @@
+{
+  "date": "2009-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going into the internet news business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're hiring reporters?",
+        "No, we'll summarize stories from other sites and provide links."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... we'll be parasites?",
+        "Go buy a vinyl record, Grandpa."
+      ]
+    }
+  ]
+}

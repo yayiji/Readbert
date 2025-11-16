@@ -1,0 +1,25 @@
+{
+  "date": "2017-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every one of my employees is underperforming.",
+        "What should I do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should fire yourself because you're the only common variable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hadn't considered that.",
+        "That's how I know I'm right."
+      ]
+    }
+  ]
+}

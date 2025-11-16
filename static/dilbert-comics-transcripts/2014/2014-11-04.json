@@ -1,0 +1,25 @@
+{
+  "date": "2014-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our sales for the quarter are zero."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because I might have mentioned on CNBC that we have a better, cheaper model coming soon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... great job on the new product...",
+        "And I need to fire half of you so it looks as if I do things.",
+        "What is your home address?"
+      ]
+    }
+  ]
+}

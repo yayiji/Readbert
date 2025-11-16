@@ -1,0 +1,58 @@
+{
+  "date": "1996-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my project time line."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The \"work\" portion will take one week.",
+        "Work",
+        "1 week"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll spend three weeks meeting with people whom you send to me because you don't feel like talking to them yourself.",
+        "3 weeks"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll spend eight weeks getting competitive bids from companies that I know I won't select."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "... Six weeks to get the wisdom and approval of executives who are too busy to understand the issues."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "During that time you will randomly reorganize the department and cut my funding."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In the final phase I leap to my death, a bitter and broken shell of a man.",
+        "Eeee!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is there some sort of manager thing I should be doing now?",
+        "If I time my leap right you'll just be leaving the building."
+      ]
+    }
+  ]
+}

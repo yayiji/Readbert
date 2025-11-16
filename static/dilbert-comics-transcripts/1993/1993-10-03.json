@@ -1,0 +1,57 @@
+{
+  "date": "1993-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bureaucracy"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to buy an upgrade for my computer.",
+        "Rrrr..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First, you must write a business case and get five signatures."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Get bids from nine vendors."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "All vendors must be approved by a vote of the vendor approval committee."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Purchase order...",
+        "Budget transfer...",
+        "Legal review... Accounting classification... Inventory..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "These steps are necessary to prevent employees from doing something uneconomical."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...So you suggested a process \"quality audit\"?",
+        "Yeah, that's the one clinging to my buttocks."
+      ]
+    }
+  ]
+}

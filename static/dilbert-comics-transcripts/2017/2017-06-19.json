@@ -1,0 +1,23 @@
+{
+  "date": "2017-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear Dilbert's project is in total chaos."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That has to be true because I heard it from three other people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that's why I told three other people."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2007-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand anything you do, so I assume it's all useless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could go to M.I.T. and get a degree in engineering so you would understand what I do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that be easier than not giving you a raise?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2022-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just discovered that our data is inaccurate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which data?",
+        "All of it.",
+        "The names of our databases got mixed up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What data did I use to approve the capital plan?",
+        "Employee vacation days."
+      ]
+    }
+  ]
+}

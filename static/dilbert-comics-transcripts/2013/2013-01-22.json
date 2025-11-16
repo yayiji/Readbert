@@ -1,0 +1,31 @@
+{
+  "date": "2013-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news, Asok:",
+        "I have decided to",
+        "be your mentor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Waaaa!!!! Why",
+        "me??? Why",
+        "me??? I wish",
+        "I were dead!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You cry ugly.",
+        "I think we need to",
+        "work on that.",
+        "Waaaa!!!"
+      ]
+    }
+  ]
+}

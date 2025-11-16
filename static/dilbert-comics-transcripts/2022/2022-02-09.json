@@ -1,0 +1,23 @@
+{
+  "date": "2022-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The press is accusing us of running a clever con game on our customers for years without detection."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Haha—haha!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm tempted to correct them, but it sounds better than \"We don't know how to make stuff.\""
+      ]
+    }
+  ]
+}

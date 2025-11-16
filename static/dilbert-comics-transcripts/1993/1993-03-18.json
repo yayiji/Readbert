@@ -1,0 +1,29 @@
+{
+  "date": "1993-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evolution takes millions of years, Ratbert.",
+        "You'll be long gone before rats develop flying skills."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's what they said to the Wright brothers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But they built an airplane.",
+        "Don't you think they tried this first?",
+        "Flap",
+        "Flap",
+        "Flap",
+        "Flap"
+      ]
+    }
+  ]
+}

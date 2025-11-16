@@ -1,0 +1,25 @@
+{
+  "date": "2003-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, would you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh... never mind.",
+        "I see that you're radiating an aura of extreme incompetence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You forgot to turn off your aura.",
+        "It takes a minute to cool down."
+      ]
+    }
+  ]
+}

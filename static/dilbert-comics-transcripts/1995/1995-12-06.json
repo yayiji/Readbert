@@ -1,0 +1,25 @@
+{
+  "date": "1995-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your employees have recommended a vendor who has an attractive salesperson."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But the \"Dogbert Technology Company\" can provide you with a hardware solution for half the cost!",
+        "I'll save money!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I need to upgrade later? Is it expensive?",
+        "I must have left that price sheet in my other fur."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told Matthew that there was no way we could make those changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, Matthew! Yes, of course we can make those changes; we're not idiots!",
+        "Ha ha!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He says you have no credibility."
+      ]
+    }
+  ]
+}

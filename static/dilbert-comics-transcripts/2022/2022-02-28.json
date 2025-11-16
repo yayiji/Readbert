@@ -1,0 +1,23 @@
+{
+  "date": "2022-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your DNA test came back as \"do not promote.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are destined to remain a coffee-swilling blob of useless organic matter until you suddenly die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I call that \"sticking the landing.\""
+      ]
+    }
+  ]
+}

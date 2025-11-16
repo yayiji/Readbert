@@ -1,0 +1,27 @@
+{
+  "date": "1990-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You what?!!",
+        "I got a job as a substitute school teacher."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You aren't qualified to be a teacher.",
+        "You're a dog.",
+        "Little kids won't know the difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You do remind me a bit of my fourth grade teacher.",
+        "Just a coincidence?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1991-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good morning, mister rich person!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good morning.",
+        "I don't know about \"good.\"",
+        "Depends."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Have you been hurt by the slumping economy?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've had to make some bold cost-cutting moves."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't know about \"bold.\"",
+        "Questionable."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I used to surround myself with yes-men... Now, all I can afford are these maybe-men."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you know that the back of your head looks like an acorn squash?",
+        "It takes some getting used to."
+      ]
+    }
+  ]
+}

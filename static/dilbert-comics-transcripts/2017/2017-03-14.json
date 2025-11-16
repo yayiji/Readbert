@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our policy says I can't take my vacation until I complete all of my mandatory training."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't take the fax safety class because it no longer exists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you make a policy exception for me?",
+        "Okay, I won't force you to take a vacation."
+      ]
+    }
+  ]
+}

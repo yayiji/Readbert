@@ -1,0 +1,23 @@
+{
+  "date": "2010-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need you to give a presentation to the entire sales division."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! The very thought of public speaking dehydrates me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should find someone moister."
+      ]
+    }
+  ]
+}

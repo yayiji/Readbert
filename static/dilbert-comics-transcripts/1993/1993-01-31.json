@@ -1,0 +1,58 @@
+{
+  "date": "1993-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I read your proposal, run it past our legal department.",
+        "Groan"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the end of that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't have to become a corporate lawyer.",
+        "I could be a trial lawyer or a judge, you know."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I chose to work here at this unglamorous position."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Consequently, I have a bad attitude and I'm going to take it out on you."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your proposal does nothing to help my career.",
+        "And if I approve it and we get sued later, then I'll get in trouble."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In a month or so, I'll formally reject your idea with a neatly typed but oddly worded memo."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did he reject your proposal yet?",
+        "Yeah.",
+        "And he filed a lawsuit against me."
+      ]
+    }
+  ]
+}

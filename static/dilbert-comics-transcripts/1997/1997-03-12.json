@@ -1,0 +1,24 @@
+{
+  "date": "1997-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't let you telecommute because then I wouldn't be able to manage you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're managing me right now, and all it's doing is preventing me from working."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your point would be...?",
+        "Just beyond your grasp."
+      ]
+    }
+  ]
+}

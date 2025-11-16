@@ -1,0 +1,23 @@
+{
+  "date": "1996-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What kind of free stuff do you have?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cheap pens? That's original. Okay, fill 'er up. But I'm afraid I can't give you any eye contact."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's enough industry research for today. It's time to hit the buffet."
+      ]
+    }
+  ]
+}

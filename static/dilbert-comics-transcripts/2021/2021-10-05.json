@@ -1,0 +1,23 @@
+{
+  "date": "2021-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My pay is not keeping up with inflation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am confident you two can come up with a solution that makes everyone happy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This idiot thinks I can lower inflation."
+      ]
+    }
+  ]
+}

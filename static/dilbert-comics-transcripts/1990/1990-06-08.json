@@ -1,0 +1,24 @@
+{
+  "date": "1990-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh, Dilbert, could we get your advice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We just joined Dogbert's new cult.",
+        "And he ordered us to kill each other for questioning him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm... maybe you could shove each other in front of trucks."
+      ]
+    }
+  ]
+}

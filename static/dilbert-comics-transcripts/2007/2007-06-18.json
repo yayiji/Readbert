@@ -1,0 +1,24 @@
+{
+  "date": "2007-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One way to save the planet is to drive a fuel-efficient car."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Another way is to give bad career advice to some idiot so he gets fired and no longer commutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should get a license to sell real estate.",
+        "Really?"
+      ]
+    }
+  ]
+}

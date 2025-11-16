@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, potential client. I'm a consultick."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll burrow into your corporate skin, suck your cash and never leave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My firm has a track record of huge consulting failures and conflicts of interest!",
+        "No red flags."
+      ]
+    }
+  ]
+}

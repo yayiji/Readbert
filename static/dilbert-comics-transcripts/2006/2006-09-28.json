@@ -1,0 +1,28 @@
+{
+  "date": "2006-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you hire Ellen just because she's hot?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Carol, hotness is an important skill.",
+        "It's like a super power."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "From now on, how much are you charging us for printer cartridges?",
+        "Ping",
+        "Fuh",
+        "Fuh",
+        "Free!"
+      ]
+    }
+  ]
+}

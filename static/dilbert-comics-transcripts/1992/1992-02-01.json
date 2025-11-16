@@ -1,0 +1,36 @@
+{
+  "date": "1992-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Swing your partner,",
+        "Dosey-do, now clap",
+        "your hands..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh, that's all the",
+        "square dance moves",
+        "I know... I'll bluff",
+        "the rest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Slap your partner",
+        "in the face,",
+        "write bad checks",
+        "all over the place,",
+        "flirt with strangers,",
+        "annoy your spouse,",
+        "get a divorce and",
+        "lose your house...uh...",
+        "Dosey-do"
+      ]
+    }
+  ]
+}

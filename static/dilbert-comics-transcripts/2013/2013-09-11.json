@@ -1,0 +1,26 @@
+{
+  "date": "2013-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe a few days in solitary will make you tell us how you stole the government's data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this the cell with the hidden tunnel?",
+        "The what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be at the Elbonian embassy.",
+        "Tap",
+        "Tap"
+      ]
+    }
+  ]
+}

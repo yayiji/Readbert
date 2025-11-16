@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're supposed to have our budget approved by Tuesday but that's not written in stone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes it is.",
+        "I have it right here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was kind of lucky because this is the only one I brought to the meeting."
+      ]
+    }
+  ]
+}

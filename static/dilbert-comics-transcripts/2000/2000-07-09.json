@@ -1,0 +1,55 @@
+{
+  "date": "2000-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My software will create human simulations from DNA samples."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the market application?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well...there are many various applications.",
+        "Name one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well...someday the entire human genome will be mapped and decoded."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You could take a hair sample from a woman who refuses to date you..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And create a software simulation of her to keep in your computer watch."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You could have one button to feed her and one button to punish her."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd buy it.",
+        "Can you add a button?"
+      ]
+    }
+  ]
+}

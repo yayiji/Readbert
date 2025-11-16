@@ -1,0 +1,53 @@
+{
+  "date": "2010-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to thank all of the people who helped design the technology test parameters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks to your input, the test had nothing in common with how things work in the real world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I wasted two weeks of my life on a test that is not only meaningless...",
+        "...but also dangerously misleading."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This slide shows the gap between the test results and reality."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We'll use the test results anyway because it's the only data we have."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine. I hope you all choke to death on your lunches."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why's he so cranky?",
+        "Something about data."
+      ]
+    }
+  ]
+}

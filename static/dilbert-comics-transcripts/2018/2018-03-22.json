@@ -1,0 +1,25 @@
+{
+  "date": "2018-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The network has been down all morning, but we found the problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some idiot unplugged the server so he could charge his phone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, that problem has been solved.",
+        "Great.",
+        "Now can you help me find my lost phone?"
+      ]
+    }
+  ]
+}

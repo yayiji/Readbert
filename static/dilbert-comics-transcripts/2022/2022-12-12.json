@@ -1,0 +1,25 @@
+{
+  "date": "2022-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Want to go to lunch with Tina and me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like a nightmare. We would all starve before agreeing on a place to eat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you in?",
+        "Yes, because for some reason, I never learn.",
+        "Continued..."
+      ]
+    }
+  ]
+}

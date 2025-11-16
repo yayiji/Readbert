@@ -1,0 +1,25 @@
+{
+  "date": "2007-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You wrote last year's date on this report.",
+        "Ha ha! Swift."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I enjoy pointing out your mistakes because it makes me feel better about myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wrote this last year.",
+        "This will go faster if you say you didn't."
+      ]
+    }
+  ]
+}

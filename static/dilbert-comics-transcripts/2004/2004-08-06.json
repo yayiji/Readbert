@@ -1,0 +1,25 @@
+{
+  "date": "2004-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, mullet-head, this is for you.",
+        "What did you call me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oops. I used the secret nickname that everyone in the office has for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My work is done.",
+        "It's just a little long in the back!"
+      ]
+    }
+  ]
+}

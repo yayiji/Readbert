@@ -1,0 +1,23 @@
+{
+  "date": "2021-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you've been exposed to lethal workplace chemicals, and you will be dead by the weekend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?! No!!! I'm too young! This can't be happening!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It isn't. But now you won't feel so bad when I tell you to work all weekend."
+      ]
+    }
+  ]
+}

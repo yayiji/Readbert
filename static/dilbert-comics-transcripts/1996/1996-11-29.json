@@ -1,0 +1,25 @@
+{
+  "date": "1996-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my presentation package.",
+        "I worked twelve straight hours on it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That includes three hours of creativity followed by nine hours of stupor, senseless twiddling and outright dementia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I suppose there's only one thing that could make this presentation worse.",
+        "Send it around for comments."
+      ]
+    }
+  ]
+}

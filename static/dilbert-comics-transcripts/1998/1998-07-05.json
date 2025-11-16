@@ -1,0 +1,55 @@
+{
+  "date": "1998-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My posterior is growing to fit the size of my chair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that possible?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Posteriors are like goldfish. They grow to the limit of their environment."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's ridiculous. I have the biggest chair. That would mean..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Forget I brought it up.",
+        "Well, back to work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Mission report.",
+        "Success."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The glue on his chair should be set by now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I guess this is why goldfish don't use chairs."
+      ]
+    }
+  ]
+}

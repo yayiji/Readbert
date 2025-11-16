@@ -1,0 +1,22 @@
+{
+  "date": "2001-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management training",
+        "Tim will demonstrate the management cloak of invisibility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I admit it doesn't seem very special when you know how it's done."
+      ]
+    }
+  ]
+}

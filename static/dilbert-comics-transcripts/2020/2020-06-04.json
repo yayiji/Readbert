@@ -1,0 +1,25 @@
+{
+  "date": "2020-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our factories are back online, but we have no buyers.",
+        "Revenue $0"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It turns out that our customer base overlaps with the people who recently poisoned themselves with household disinfectants."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who could have seen that coming?",
+        "I won a bet on it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you filming?",
+        "Ratbert got his own cable TV channel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now that cable TV has a thousand channels they're desperate for original programs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Back in the six-hundreds I saw a rat slapping his head to a Barry Manilow tune.",
+        "That's worth a second look."
+      ]
+    }
+  ]
+}

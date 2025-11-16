@@ -1,0 +1,25 @@
+{
+  "date": "2015-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll start our negotiation by setting the anchor price at...",
+        "Five dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um, I was going to say $27,500, but you beat me to the anchor, and now I can't help thinking the fair price is closer to $5."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does an engineer know more about the intricacies of my job than I do?",
+        "I had five minutes and a browser."
+      ]
+    }
+  ]
+}

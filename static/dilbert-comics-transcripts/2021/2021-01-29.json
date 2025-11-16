@@ -1,0 +1,30 @@
+{
+  "date": "2021-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm too hungry to make good decisions. I need a break so I can eat a snack."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you know your decisions are bad?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm starting to agree with you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't understand.",
+        "Exactly."
+      ]
+    }
+  ]
+}

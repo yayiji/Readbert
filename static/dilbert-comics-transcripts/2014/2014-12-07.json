@@ -1,0 +1,55 @@
+{
+  "date": "2014-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like dancing and...",
+        "I'm out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I avoid any relationship that has a risk of dancing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're rejecting me because I like to dance?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yeah, it would start out all innocent..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But two months into it you'd be guzzling wine and dragging me toward live music."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then you'd start doing all this... and this... and some of this..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I also enjoy doing yoga to release my chakra energy."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Does that bother you?",
+        "I think I'm getting hives."
+      ]
+    }
+  ]
+}

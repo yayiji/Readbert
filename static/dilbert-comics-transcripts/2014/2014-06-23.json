@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Success depends on who you know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only know losers such as you, so thanks for nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry I ruined your promising career.",
+        "You're holding me back."
+      ]
+    }
+  ]
+}

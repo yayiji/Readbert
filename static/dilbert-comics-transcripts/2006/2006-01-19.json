@@ -1,0 +1,24 @@
+{
+  "date": "2006-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss wants me to integrate a great product with a terrible one just to validate our merger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it ethical for me to stall for a month until he forgets what he asked for?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure. You can even hit him with a rock to speed up the for-getting.",
+        "Maybe I'm asking the wrong ethicist."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2014-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why phishing scams keep working",
+        "Enter your bank account number.",
+        "Scam."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait for it",
+        "Enter your bank account number.",
+        "Scam."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There it is",
+        "Enter your bank account number.",
+        "Okey-dokey."
+      ]
+    }
+  ]
+}

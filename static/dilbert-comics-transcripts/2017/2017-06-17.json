@@ -1,0 +1,23 @@
+{
+  "date": "2017-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO said he liked your presentation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He made me shut up and sit down before I got to my first slide."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's not a big fan of content."
+      ]
+    }
+  ]
+}

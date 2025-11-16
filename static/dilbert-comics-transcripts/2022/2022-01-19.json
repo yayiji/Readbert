@@ -1,0 +1,25 @@
+{
+  "date": "2022-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the futurist",
+        "I get the most attention when I predict doom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I have to keep pushing the envelope to be scarier than the competition."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you just say polar bears are enriching uranium?",
+        "And they're super angry."
+      ]
+    }
+  ]
+}

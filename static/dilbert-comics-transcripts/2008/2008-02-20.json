@@ -1,0 +1,24 @@
+{
+  "date": "2008-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our surveillance cameras caught you posting this anti-management comic on the wall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This comic compares managers to drunken lemurs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think drunken lemurs are like managers?",
+        "No. Some lemurs can hold their liquor."
+      ]
+    }
+  ]
+}

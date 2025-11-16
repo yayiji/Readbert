@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We destroyed all of the prototypes as you requested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I never asked for anything remotely like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted said you did.",
+        "Did he tell you that before or after I fired him last week?"
+      ]
+    }
+  ]
+}

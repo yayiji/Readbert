@@ -1,0 +1,25 @@
+{
+  "date": "2018-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone says you aren't being a team player because you keep disagreeing with everything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everyone does not say that, and I don't disagree with everything.",
+        "There you go again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd be a terrible lawyer.",
+        "Thank you."
+      ]
+    }
+  ]
+}

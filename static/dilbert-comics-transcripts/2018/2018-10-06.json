@@ -1,0 +1,25 @@
+{
+  "date": "2018-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This price is too high.",
+        "Why do you care?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're spending the company's money, not your own. And the company doesn't care if you live or die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me a minute to think of why that doesn't make sense.",
+        "Take as long as you need."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2019-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When can you meet tomorrow?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Any time.",
+        "How about 2 PM?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, that doesn't work.",
+        "I guess we're going to do this the hard way."
+      ]
+    }
+  ]
+}

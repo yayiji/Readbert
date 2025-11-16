@@ -1,0 +1,23 @@
+{
+  "date": "1991-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss gave me the pink slip today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must feel pretty bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah... pink isn't my color."
+      ]
+    }
+  ]
+}

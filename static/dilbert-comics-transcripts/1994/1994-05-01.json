@@ -1,0 +1,54 @@
+{
+  "date": "1994-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you all for coming to our engineering quality team meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today we'll try to identify the root cause of our slow design process."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me take some wild guesses here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Management keeps increasing our work and cutting our staff."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We spend all our time giving status reports to unnecessary layers of management!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now we're having all-day meetings to talk about our inefficiency!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I was kinda hoping for something that isn't anybody's fault."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Our computers are too slow. We need new ones.",
+        "Now we're getting someplace."
+      ]
+    }
+  ]
+}

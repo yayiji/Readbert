@@ -1,0 +1,24 @@
+{
+  "date": "2017-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm glad I started wearing an employee body cam."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a video of you yesterday, saying the opposite of what you told me today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops! I accidentally deleted it.",
+        "Luckily, I have seven hundred backups."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think you've taken your cult idea too far.",
+        "Who says it's a cult?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You said it's a cult!",
+        "That word has a bad connotation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I prefer to think of it as a bunch of morons who have nothing better to do with their lives."
+      ]
+    }
+  ]
+}

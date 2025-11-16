@@ -1,0 +1,26 @@
+{
+  "date": "2003-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bottleneck bill",
+        "All purchase orders must be approved by me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be too busy to approve anything, but at least we have a system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's titanium.",
+        "Nice try.",
+        "Grrrr"
+      ]
+    }
+  ]
+}

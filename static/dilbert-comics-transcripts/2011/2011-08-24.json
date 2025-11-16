@@ -1,0 +1,24 @@
+{
+  "date": "2011-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When are you meeting with the customer? I'll join you to add my valuable input."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Slurp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does everyone hear that alarm or is it only in my head?",
+        "I can stay all afternoon."
+      ]
+    }
+  ]
+}

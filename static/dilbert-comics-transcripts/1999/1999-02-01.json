@@ -1,0 +1,24 @@
+{
+  "date": "1999-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I'd like to reserve the conference room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha ha ha!",
+        "I laugh at your request without even explaining why."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someday I will be so powerful that secretaries will have to explain why they laugh at me."
+      ]
+    }
+  ]
+}

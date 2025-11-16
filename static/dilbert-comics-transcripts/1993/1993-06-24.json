@@ -1,0 +1,27 @@
+{
+  "date": "1993-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday we ran out of acronyms.",
+        "Today we used our last accounting code.",
+        "We're in big trouble."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't we just reprogram the computers to accept longer codes?",
+        "An acronym and an accounting code."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why not reuse a code from a project that's complete?",
+        "Oddly enough, we've never completed a project."
+      ]
+    }
+  ]
+}

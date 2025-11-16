@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This exhibit is the pride of \"Dogbert's museum of the strange and amazing.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is an engineer, deep in a computer-induced trance and oblivious to his environment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can bop him in the back of his head with whiffle balls for ten cents a throw.",
+        "Gimme a dollar's worth."
+      ]
+    }
+  ]
+}

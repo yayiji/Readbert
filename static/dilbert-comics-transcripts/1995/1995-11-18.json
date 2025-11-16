@@ -1,0 +1,32 @@
+{
+  "date": "1995-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on",
+        "I'm going to be",
+        "more proactive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're",
+        "fired!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For",
+        "what??",
+        "I don't know",
+        "yet. That's",
+        "the problem",
+        "with being",
+        "proactive."
+      ]
+    }
+  ]
+}

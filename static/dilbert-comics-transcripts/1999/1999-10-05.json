@@ -1,0 +1,25 @@
+{
+  "date": "1999-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're being replaced by a low-paid embryo. May I see it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He is so-oo cute!",
+        "I'm teaching him to drink coffee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that healthy?",
+        "It must be. I drink six quarts a day, and look at me."
+      ]
+    }
+  ]
+}

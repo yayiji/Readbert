@@ -1,0 +1,22 @@
+{
+  "date": "2000-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our consultant has been mining data all day.",
+        "The results are quite shocking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to the data, sales are always highest when I do this..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

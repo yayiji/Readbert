@@ -1,0 +1,24 @@
+{
+  "date": "2016-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think you know something about my project and your boss told you to keep quiet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha! You just confirmed it by avoiding eye contact!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could get your own stall.",
+        "Why? What do you have to hide?"
+      ]
+    }
+  ]
+}

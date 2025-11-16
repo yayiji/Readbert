@@ -1,0 +1,23 @@
+{
+  "date": "1993-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert says that \"absence makes the heart grow fonder\"."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to hide in your waste basket until my absence makes you fond of me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a subtle change at first... take your time."
+      ]
+    }
+  ]
+}

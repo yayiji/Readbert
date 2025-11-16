@@ -1,0 +1,53 @@
+{
+  "date": "2004-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our VP of marketing is here to describe our new bet-the-company strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll saturate the airwaves with an ad campaign featuring a talking squirrel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He'll have a fake Norwegian accent like, \"Geeve me zee nuts.\" Ha ha!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Any questions?",
+        "Yes, you with the strange head."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How will a talking squirrel make people buy our products?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I just realized I'm a complete fraud.",
+        "I'll pack up my desk and leave immediately."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can we get through one meeting without you ruining everything?"
+      ]
+    }
+  ]
+}

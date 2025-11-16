@@ -1,0 +1,25 @@
+{
+  "date": "1995-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Reliable sources say your project will be cancelled, Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should abandon it now and come work on my project.",
+        "When my big promotion goes through next month, I'll transfer you to my group and give you a raise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's very tempting except for the fact you're a pathological liar.",
+        "Be careful what you say - I have super powers."
+      ]
+    }
+  ]
+}

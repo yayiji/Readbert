@@ -1,0 +1,27 @@
+{
+  "date": "1993-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've got good news and bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The bad news is that huge companies like us can't compete against small, nimble companies.",
+        "The good news is that at this rate we'll be the smallest company around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What am I doing wrong here?",
+        "We're number one!",
+        "We're number one!",
+        "Yes!!"
+      ]
+    }
+  ]
+}

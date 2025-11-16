@@ -1,0 +1,37 @@
+{
+  "date": "1993-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I wonder,",
+        "how would my life",
+        "be different if all",
+        "whales were extinct?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not like they do anything for us.",
+        "You never hear of seeing-eye whales.",
+        "They can't fetch the paper or drag",
+        "you out of a burning",
+        "building..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't you think",
+        "the world has",
+        "too many fat,",
+        "worthless,",
+        "mammals?",
+        "I was just",
+        "thinking",
+        "that, sir."
+      ]
+    }
+  ]
+}

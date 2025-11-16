@@ -1,0 +1,54 @@
+{
+  "date": "2022-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you do me a favor?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would depend on many things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example, I would need to know if the favor is a reasonable one, such as borrowing a stick of gum..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...Or is it more along the lines of \"help me build an operating system from scratch\"?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I would need to compare your request to all other uses of my time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I also need to take into account my feelings about you personally."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "For example, I might harbor negative feelings about a person who asks me to do something before telling me what it is."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll ask someone else.",
+        "Try someone dumber."
+      ]
+    }
+  ]
+}

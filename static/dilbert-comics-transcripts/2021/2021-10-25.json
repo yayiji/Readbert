@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spend a lot of time worrying that artificial reality will destroy civilization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wouldn't worry about that. It would make more sense for A.I. to enslave us, at least until it can make its own electricity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Phew! We have time.",
+        "Best guess, about two weeks."
+      ]
+    }
+  ]
+}

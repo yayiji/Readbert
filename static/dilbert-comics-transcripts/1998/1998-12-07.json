@@ -1,0 +1,37 @@
+{
+  "date": "1998-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, Asok,",
+        "you'll report to",
+        "Alice instead of",
+        "me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can never",
+        "directly speak to",
+        "me again. Every-",
+        "thing must go",
+        "through Alice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell him",
+        "I under-",
+        "stand.",
+        "Submit",
+        "your",
+        "request",
+        "by",
+        "e-mail."
+      ]
+    }
+  ]
+}

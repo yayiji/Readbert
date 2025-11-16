@@ -1,0 +1,23 @@
+{
+  "date": "2015-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't have to lie to customers, but at least nod your head when our salesperson lies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I nod at preset intervals and let the salesperson time the lies to my nods?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can work with that."
+      ]
+    }
+  ]
+}

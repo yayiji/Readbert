@@ -1,0 +1,24 @@
+{
+  "date": "2005-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm addicted to e-mail. My endorphins spike when I get a message."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When there are no messages, loneliness and despair overcome me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried sending e-mail to yourself?",
+        "We don't talk about that."
+      ]
+    }
+  ]
+}

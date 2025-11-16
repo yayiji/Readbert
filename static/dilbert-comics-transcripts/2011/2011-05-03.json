@@ -1,0 +1,24 @@
+{
+  "date": "2011-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac",
+        "Ted, the I.S. group monitors every website you visit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Based on that information, we came up with a list of nicknames for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My job got a lot more fun after we stopped doing the client satisfac- tion surveys."
+      ]
+    }
+  ]
+}

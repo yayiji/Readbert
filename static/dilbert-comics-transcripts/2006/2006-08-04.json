@@ -1,0 +1,23 @@
+{
+  "date": "2006-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO only has five minutes. Is that enough time for your PowerPoint presentation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. An incomplete explanation of the situation will cause massively harmful strategic choices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What can we get for four-and-a-half minutes?"
+      ]
+    }
+  ]
+}

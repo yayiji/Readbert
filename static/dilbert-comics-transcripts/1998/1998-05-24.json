@@ -1,0 +1,53 @@
+{
+  "date": "1998-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like you to meet our newest customer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You won't be sorry; we're one of the top five companies in this field."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought you said no one else makes this kind of product."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No one else makes one with so few features."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... your strategy is low price, right?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, high margins!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd better ask someone what a \"margin\" is."
+      ]
+    }
+  ]
+}

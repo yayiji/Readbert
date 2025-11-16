@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new policy is that employees cannot date each other unless they register with human resources."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This won't have much impact on my department because most of you are completely undatable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ouch.",
+        "There's a link for details, but you won't need it."
+      ]
+    }
+  ]
+}

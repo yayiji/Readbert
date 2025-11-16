@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I used to be rich, but I lost it all in the stock market crash during the pandemic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Luckily, I can make up the difference by working you idiots to death while underpaying you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We thought you didn't have a strategy.",
+        "I just don't like to talk about it."
+      ]
+    }
+  ]
+}

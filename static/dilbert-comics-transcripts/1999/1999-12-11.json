@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ming, I think the internet might catch on."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I rushed over here so I could be the first to say it's a new paradigm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did anyone beat me?",
+        "I wish someone would."
+      ]
+    }
+  ]
+}

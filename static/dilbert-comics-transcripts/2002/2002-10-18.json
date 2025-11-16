@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does my latest assignment look impossible?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... you'd need to slow the speed of light, and perfect the art of human cloning..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So there's hope?",
+        "Eliminate gravity, stop the sun, re-animate the dead..."
+      ]
+    }
+  ]
+}

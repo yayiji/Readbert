@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not getting people's reports in a timely manner."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Put together a report on why I'm not getting timely reports."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are there any other ways you want me to waste my time?",
+        "Let's play it by ear."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2002-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I have to downsize you as soon as you finish your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I trust that your professionalism will prevent you from delaying unnecessarily."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I promise that my timeliness will be surpassed only by my passion for quality."
+      ]
+    }
+  ]
+}

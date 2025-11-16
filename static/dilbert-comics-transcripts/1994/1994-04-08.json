@@ -1,0 +1,25 @@
+{
+  "date": "1994-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What makes these a \"value\"?",
+        "Value priced lottery tickets"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're half the normal price, and yet the chance of winning is only one in ten million less."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! This is for yesterday's lottery!",
+        "And your point is...?"
+      ]
+    }
+  ]
+}

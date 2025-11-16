@@ -1,0 +1,25 @@
+{
+  "date": "1989-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... toll booth ahead.",
+        "Turn down the radio...",
+        "Get exact change ready..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good morning!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if it's normal to want the toll-taker to like me."
+      ]
+    }
+  ]
+}

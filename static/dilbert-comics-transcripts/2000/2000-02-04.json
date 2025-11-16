@@ -1,0 +1,24 @@
+{
+  "date": "2000-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't do anything because I'm always waiting for someone else."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you can't quit because your stock isn't vested."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I in heck?",
+        "No, I'm just working the overflow from limbo."
+      ]
+    }
+  ]
+}

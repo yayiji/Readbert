@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you've worked for me for years, and today I realized I don't know what you actually do.",
+        "So, you're fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you just fire me because of your own ignorance?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but now I'm also firing you because you said that."
+      ]
+    }
+  ]
+}

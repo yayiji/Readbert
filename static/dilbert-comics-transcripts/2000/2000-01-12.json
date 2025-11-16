@@ -1,0 +1,24 @@
+{
+  "date": "2000-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, you parked in my reserved space."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I scheduled you to drive to meetings all day.",
+        "Oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tomorrow I move my stuff into his office and the coup is complete."
+      ]
+    }
+  ]
+}

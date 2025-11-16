@@ -1,0 +1,23 @@
+{
+  "date": "2008-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have all of the job requirements you're looking for."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have an I.Q. of 300, several Nobel Prizes, and two centuries of Unix experience, thanks to the time machine and the immortality drug I invented."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a lot of words for \"too old.\""
+      ]
+    }
+  ]
+}

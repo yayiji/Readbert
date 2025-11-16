@@ -1,0 +1,23 @@
+{
+  "date": "2015-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the website I asked you to make for my side business?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because you keep me busy 100% of the time in my regular job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, it isn't easy asking for twice as many status updates either."
+      ]
+    }
+  ]
+}

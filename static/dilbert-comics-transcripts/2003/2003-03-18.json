@@ -1,0 +1,25 @@
+{
+  "date": "2003-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Marketing genius",
+        "We designed a rebate program that won't cost a penny."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The rebate process is an impenetrable fortress of unclear instructions and physical impossibilities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next we have to find the hidden 300-digit serial number and write it in a box that's half an inch long.",
+        "Stinkin' weasels."
+      ]
+    }
+  ]
+}

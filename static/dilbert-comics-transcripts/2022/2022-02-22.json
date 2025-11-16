@@ -1,0 +1,25 @@
+{
+  "date": "2022-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the financial expert",
+        "Do you have any advice for people who are new to investing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Always buy a covered call option on your long bond index depreciation leverage ratio."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That makes zero sense.",
+        "That's why I only say it to people who are new to investing."
+      ]
+    }
+  ]
+}

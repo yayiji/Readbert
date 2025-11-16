@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our goal is to grow the top line by 20%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How will we do that with products that aren't competitive in an industry that isn't growing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does it involve crime?",
+        "If it does, blink once."
+      ]
+    }
+  ]
+}

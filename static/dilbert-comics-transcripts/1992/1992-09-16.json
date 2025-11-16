@@ -1,0 +1,26 @@
+{
+  "date": "1992-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I don't understand why you, or anybody, would become a vegetarian."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean, why don't I take dead animals, cook them until they become carcinogenic, then eat them instead of something nutritious?",
+        "Is that your question?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Exactly. Is there any good reason?",
+        "Have you joined a cult?",
+        "Apparently."
+      ]
+    }
+  ]
+}

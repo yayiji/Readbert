@@ -1,0 +1,30 @@
+{
+  "date": "2011-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And this is Carol.",
+        "She's my..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Colleague?",
+        "No.",
+        "Associate?",
+        "No.",
+        "Teammate?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was going to say \"subordinate,\"",
+        "but now it's awkward."
+      ]
+    }
+  ]
+}

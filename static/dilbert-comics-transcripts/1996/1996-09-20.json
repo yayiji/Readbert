@@ -1,0 +1,27 @@
+{
+  "date": "1996-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina the technical writer",
+        "To insert a column, click the column insert menu.",
+        "Click",
+        "click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But let's be honest, userboy, if you need to be told that, you're too stupid to use this product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you reviewed the draft yet?",
+        "I'm up to the chapter titled \"Duh.\""
+      ]
+    }
+  ]
+}

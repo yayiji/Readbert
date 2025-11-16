@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just discovered we've been over-charging all of our customers for years because of a bug in our billing software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I back out all of those charges, our revenue went down an average of 11% every year you have been CEO."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should I do?",
+        "Come to the roof with me. I want to show you something near the edge."
+      ]
+    }
+  ]
+}

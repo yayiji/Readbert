@@ -1,0 +1,23 @@
+{
+  "date": "2007-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to buy some snow tires for a refrigerator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is a lingerie store. Get lost before I stomp on your tail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I debunked the theory that the customer is always right."
+      ]
+    }
+  ]
+}

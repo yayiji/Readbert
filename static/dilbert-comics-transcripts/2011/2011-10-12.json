@@ -1,0 +1,23 @@
+{
+  "date": "2011-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Leaving early?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you count the two hours I worked at home when I woke up, and the two hours I'll work tonight, you'll come out way ahead today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How will I come out if you do all of that plus work late here?"
+      ]
+    }
+  ]
+}

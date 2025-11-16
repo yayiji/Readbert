@@ -1,0 +1,26 @@
+{
+  "date": "1991-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I quit drinking coffee.",
+        "I don't like to be dependent on chemicals.",
+        "How's it feel?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I felt a little slow getting ready for work,",
+        "but you have to expect that on a Monday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's Thursday."
+      ]
+    }
+  ]
+}

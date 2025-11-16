@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My cubicle is near the thermostat and your desk has the best view of our boss's office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll see that you get the temperature you want if you warn me whenever our boss is on the move."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you give me 76 degrees?",
+        "Whoa! That'll cost you extra, Lucifer."
+      ]
+    }
+  ]
+}

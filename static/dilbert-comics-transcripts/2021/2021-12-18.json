@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you know, I formed a tiger team to come up with a new product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It didn't go well. The tiger got hungry and killed everyone else on the team."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You thought tiger teams have real tigers?",
+        "It's poorly named."
+      ]
+    }
+  ]
+}

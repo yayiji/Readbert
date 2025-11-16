@@ -1,0 +1,26 @@
+{
+  "date": "2020-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've noticed that none of my critics are intelligent.",
+        "I smart people always seem to agree with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What makes you think they are smart?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because they agree with me.",
+        "I have to give you a maskless \"duh\" for that.",
+        "Duh!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the heck is \"jequirity\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know - the poisonous, red and black seed of the Indian licorice plant.",
+        "Want to challenge?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. At least this one has vowels.",
+        "That's 704 for me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1993-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to walk the rat!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're confusing yourself with a dog.",
+        "The proper way to exercise a rat is to strike it repeatedly with a rolled-up magazine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should Ratbert be spared?",
+        "Send your vote by e-mail to: scottadams@aol.com"
+      ]
+    }
+  ]
+}

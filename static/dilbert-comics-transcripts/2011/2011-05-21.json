@@ -1,0 +1,23 @@
+{
+  "date": "2011-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There was a consensus in the room that you're not important, so we started without you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We hate you for disrespecting us with your lateness and we expect you'll be lost and confused by the rest of this meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In summary, lateness is one of those things that doesn't work for everyone."
+      ]
+    }
+  ]
+}

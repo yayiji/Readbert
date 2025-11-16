@@ -1,0 +1,26 @@
+{
+  "date": "2020-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, that's all for today unless anyone else has a question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please let it end.",
+        "Please let it end.",
+        "Please let it end."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the company vision?",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

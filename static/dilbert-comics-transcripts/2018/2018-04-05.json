@@ -1,0 +1,25 @@
+{
+  "date": "2018-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This year's team-building event will be a dance.",
+        "No alcohol will be served."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The event is for employees only, and you're not allowed to touch each other."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have a great time.",
+        "How?"
+      ]
+    }
+  ]
+}

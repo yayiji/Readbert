@@ -1,0 +1,23 @@
+{
+  "date": "2000-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're working me too hard! I want to get home in time to kiss my daughter goodnight!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I'm not the only one who feels this way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've seen your daughter and I'm fairly certain you're the only one."
+      ]
+    }
+  ]
+}

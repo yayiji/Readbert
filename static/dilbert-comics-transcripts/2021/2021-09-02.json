@@ -1,0 +1,23 @@
+{
+  "date": "2021-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to take two months of medical leave to deal with my low self-esteem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the most pathetic thing I have ever heard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I need three months."
+      ]
+    }
+  ]
+}

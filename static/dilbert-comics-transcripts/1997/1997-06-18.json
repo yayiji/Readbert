@@ -1,0 +1,28 @@
+{
+  "date": "1997-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director.",
+        "People are complaining that you schedule unnecessary meetings as a substitute for a family."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's ridiculous!",
+        "Come to my next meeting and see for yourself.",
+        "Okay, I will."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I got us a family cat.",
+        "How was your day, dear?",
+        "Sob"
+      ]
+    }
+  ]
+}

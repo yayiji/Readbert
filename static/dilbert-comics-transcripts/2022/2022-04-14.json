@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't have a budget for your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ask the other project managers if they will kick in some funds from their budgets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you think that ends?",
+        "Huge success?"
+      ]
+    }
+  ]
+}

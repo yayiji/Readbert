@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think I have social media poisoning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It makes me feel defensive and angry all the time, but I can't quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You've gained five pounds.",
+        "You fat-shaming quack!"
+      ]
+    }
+  ]
+}

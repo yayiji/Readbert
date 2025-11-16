@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm banning the posting of anti-management cartoons in the office. They hurt morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're banning humor to raise morale?",
+        "Is there something wrong with that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's the subject of today's cartoon.",
+        "And you see how it's not funny?"
+      ]
+    }
+  ]
+}

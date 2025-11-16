@@ -1,0 +1,24 @@
+{
+  "date": "1996-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time for me to update your objectives, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need targets that can only be achieved by amazingly hard work plus the constant support of management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm busy, so you'll have to write them yourself.",
+        "What's wrong with this picture?"
+      ]
+    }
+  ]
+}

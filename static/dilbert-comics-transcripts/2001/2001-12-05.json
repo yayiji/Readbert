@@ -1,0 +1,23 @@
+{
+  "date": "2001-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can teach you to manage your time more efficiently."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Put all of your high priorities on one list and your low priorities on another."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then do everything on both lists even if it kills you, otherwise you're a freakin' loser."
+      ]
+    }
+  ]
+}

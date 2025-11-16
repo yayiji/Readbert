@@ -1,0 +1,24 @@
+{
+  "date": "2014-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our consultant has recommended a company-wide transformation to make us more competitive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it a coincidence that consultants always recommend solutions that pay their firms the most?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would I know?",
+        "I'll look into that for you."
+      ]
+    }
+  ]
+}

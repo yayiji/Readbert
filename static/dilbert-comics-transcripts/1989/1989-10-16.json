@@ -1,0 +1,27 @@
+{
+  "date": "1989-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You what?!",
+        "I spent all of your money.",
+        "Terribly sorry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is outrageous! How can you spend all of my money?!",
+        "Oh, Mr. Moneybags. Like it was 50 much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oooh! I am actively considering taking my business elsewhere!",
+        "Are you making a deposit or just wasting my time?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Manager training",
+        "You will often be asked to comment on things you don't understand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These handouts contain nonsense phrases that can be used in any situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...So, let's dominate our industry... with quality implementation of methodologies.",
+        "I'll get right on it."
+      ]
+    }
+  ]
+}

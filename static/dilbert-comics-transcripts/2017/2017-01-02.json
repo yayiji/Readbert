@@ -1,0 +1,27 @@
+{
+  "date": "2017-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish writing the software?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I spent the last three days setting up my programming environment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "you've done...",
+        "nothing?",
+        "Nothing you'd understand."
+      ]
+    }
+  ]
+}

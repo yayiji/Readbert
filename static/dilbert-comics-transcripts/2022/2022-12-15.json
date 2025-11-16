@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hour three: deciding where to eat lunch",
+        "If we can't agree on a restaurant, we will need to move to plan B."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Plan B involves starvation, betrayal and cannibalism."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm kind of hungry and I have more upper body strength than at least one of you, so I vote to move to plan B."
+      ]
+    }
+  ]
+}

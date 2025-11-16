@@ -1,0 +1,55 @@
+{
+  "date": "2008-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, where do you think you're going?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's only four o'clock."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What a strange thing to say.",
+        "Did anyone care how many hours a week Beethoven worked?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Genius can't be scheduled."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Judge me by my accomplishments, not the number of hours I spend at the office."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, fine.",
+        "What did you accomplish today?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I just taught you how to be a better manager."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What? Did you think it was going to happen on its own?"
+      ]
+    }
+  ]
+}

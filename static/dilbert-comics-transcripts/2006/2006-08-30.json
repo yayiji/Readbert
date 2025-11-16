@@ -1,0 +1,23 @@
+{
+  "date": "2006-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a technology left-behind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know how to use a computer, cell phone, PDA, digital camera, iPod or TiVo."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd recommend a life of crime but you aren't qualified."
+      ]
+    }
+  ]
+}

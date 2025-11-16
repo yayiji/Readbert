@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can manipulate people by lying about what other people said."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If your victim goes to the source and discovers your treachery, say, \"Of course he tells you that.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your advice doesn't sound healthy.",
+        "That's not what the Mayo Clinic said."
+      ]
+    }
+  ]
+}

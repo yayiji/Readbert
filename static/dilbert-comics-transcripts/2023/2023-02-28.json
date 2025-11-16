@@ -1,0 +1,30 @@
+{
+  "date": "2023-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you seen the viral video of the guru who knows everything about the universe?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Energy creates motion, and motion activates the mind, and the mind creates meaning, and the meaning is energy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that brilliant or dumb?",
+        "I can't tell."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I was hoping you could tell me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever think about how delicate the balance of nature is?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just one little change in our environment and we're all dead.",
+        "Yeah..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suppose everybody stopped throwing rice at weddings and started throwing potatoes.",
+        "It's too horrible to imagine."
+      ]
+    }
+  ]
+}

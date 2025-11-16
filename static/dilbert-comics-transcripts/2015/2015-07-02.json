@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert goes off the grid: Minute three",
+        "I wish I could google this berry before eating it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the worst that could happen?",
+        "Gulp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. This is a very specific answer to my question."
+      ]
+    }
+  ]
+}

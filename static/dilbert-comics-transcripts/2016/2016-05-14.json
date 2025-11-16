@@ -1,0 +1,23 @@
+{
+  "date": "2016-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's hard to be a misunderstood genius."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have no idea what you're talking about."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See?"
+      ]
+    }
+  ]
+}

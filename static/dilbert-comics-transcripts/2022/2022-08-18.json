@@ -1,0 +1,23 @@
+{
+  "date": "2022-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, please demonstrate what you can do with our new neural chip in your brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The government always tells the truth!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try doing that without a neural implant. You can't do it."
+      ]
+    }
+  ]
+}

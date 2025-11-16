@@ -1,0 +1,59 @@
+{
+  "date": "2011-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, get me the reliability stats for our previous model."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am fairly certain the data does not exist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally can show you how to get it.",
+        "Come with me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You start by typing random numbers into a spreadsheet."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then what?",
+        "Then you're done."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "All business data is intentionally misleading. I just take it to the next level."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "A deep understanding of reality is exactly the same thing as laziness.",
+        "Click",
+        "Click click",
+        "Click click"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That can't be right.",
+        "Have you ever seen a statue of Buddha jogging?"
+      ]
+    }
+  ]
+}

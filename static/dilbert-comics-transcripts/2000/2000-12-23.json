@@ -1,0 +1,24 @@
+{
+  "date": "2000-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you know, I'm the only employee who is not exceeding expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should punish the others for unscrupulously padding their objectives!",
+        "Those lying weasels!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I get a whistle-blower award for this?"
+      ]
+    }
+  ]
+}

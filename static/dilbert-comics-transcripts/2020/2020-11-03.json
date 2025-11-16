@@ -1,0 +1,24 @@
+{
+  "date": "2020-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm no expert on blockchain, but I think..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...We need to get the EVM stack on the bytecode so we don't run into a consensus fork."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did that mean anything?",
+        "Don't ask me. I'm bluffing too."
+      ]
+    }
+  ]
+}

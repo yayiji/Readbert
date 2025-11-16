@@ -1,0 +1,26 @@
+{
+  "date": "2001-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I turn off the lights to...um...save energy?",
+        "I'm green with that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mmm...",
+        "Smooch smooch",
+        "Smooch smooch"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I came down to meet your new girlfriend but now I think it'll be awkward."
+      ]
+    }
+  ]
+}

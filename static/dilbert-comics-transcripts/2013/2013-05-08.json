@@ -1,0 +1,23 @@
+{
+  "date": "2013-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'd like you to meet the CEO of the company that is our biggest customer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd shake but I have coffee in one hand, my random drug test sample in the other, and I don't want either one to get cold."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, I'm not the one who made this awkward."
+      ]
+    }
+  ]
+}

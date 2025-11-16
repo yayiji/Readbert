@@ -1,0 +1,55 @@
+{
+  "date": "1995-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wish me luck, Dogbert.",
+        "If you get more luck, wouldn't there be less luck available for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For \"desired salary\" you wrote \"one million dollars.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, thanks for asking."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Perhaps the question is misleading. The application should have asked what salary you expect."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oh... well, I expect you'll hire somebody more qualified and my salary will remain unchanged."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, too honest. I'm looking for something close to reality, with maybe twenty-percent fantasy layered on top."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay... I'd like a fifteen-percent raise and a little shoulder massage."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why does it seem that I'm the only honest guy on earth?",
+        "Your type tends not to reproduce."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2022-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elon Musk doubled his offer to buy our company. He's now at six hundred dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The board voted to create a \"poison pill\" to thwart the takeover."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pass around these pills and tell everyone to wait for the signal."
+      ]
+    }
+  ]
+}

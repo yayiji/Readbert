@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This completes my presentation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does anyone have a question designed to increase my workload for your entertainment?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much money would the company save if you did the entire project by yourself?",
+        "Hmmm..."
+      ]
+    }
+  ]
+}

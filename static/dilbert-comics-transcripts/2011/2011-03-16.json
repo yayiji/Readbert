@@ -1,0 +1,24 @@
+{
+  "date": "2011-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Scientists say that exercise makes your brain work better."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I haven't exercised since the eighties."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That pretty much debunks science.",
+        "It had a good run."
+      ]
+    }
+  ]
+}

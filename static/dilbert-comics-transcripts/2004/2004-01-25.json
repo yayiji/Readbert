@@ -1,0 +1,53 @@
+{
+  "date": "2004-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO will be happy to answer any questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why does the company pay you 40 million dollars a year?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I ask because it's 400 times more than I make. And I work 70 hours a week."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you work 28,000 hours per week?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or do you have some sort of special ability that isn't obvious?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Grrrr Rrrrr Aaah-oogah!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Golden egg. One every ten minutes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Good answer."
+      ]
+    }
+  ]
+}

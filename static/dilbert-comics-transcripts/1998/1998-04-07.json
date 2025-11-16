@@ -1,0 +1,31 @@
+{
+  "date": "1998-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services.",
+        "I come to confiscate your non-standard computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll give me a new one, right?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is heavier than it looks."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll have to disable it and leave it here.",
+        "The new one is already on its way, right?"
+      ]
+    }
+  ]
+}

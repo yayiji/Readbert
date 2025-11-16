@@ -1,0 +1,29 @@
+{
+  "date": "2016-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you ever noticed that there are smart people on both sides of every political issue?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it only seems that way to you because you're not one of the smart ones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do I seem smart?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I didn't realize you were trying."
+      ]
+    }
+  ]
+}

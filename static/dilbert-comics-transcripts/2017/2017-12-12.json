@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a loan to finance my professional gambling."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like an excellent idea.",
+        "I charge 40% interest per day, and I'll kill you for missing a payment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the catch?",
+        "I'm also an identity thief."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2013-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I added a biometric sensor to our smart-phone prototype."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zzeeeep",
+        "It uses x-rays."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should have tested it on animals first.",
+        "Do I look like an animal hater?"
+      ]
+    }
+  ]
+}

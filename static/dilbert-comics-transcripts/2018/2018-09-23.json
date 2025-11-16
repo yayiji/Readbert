@@ -1,0 +1,54 @@
+{
+  "date": "2018-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having a bad technology day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My phone keeps freezing, my printer isn't working, and our network is down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My car's warning lights look like a Christmas tree, and my laptop won't boot up."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe it's all just coincidence, but I don't think we can take that chance."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "May I have permission to lock myself in a lead-lined box to protect the rest of the company?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How will I know you're really in a lead-lined box?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You'll know because your phone will be working fine."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Three weeks later",
+        "My phone is still working. That man is a hero."
+      ]
+    }
+  ]
+}

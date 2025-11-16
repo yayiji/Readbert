@@ -1,0 +1,24 @@
+{
+  "date": "2000-02-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you do any action items this week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I gathered costs for a strategy we had already decided not to use."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That helps the ol' GNP.",
+        "I'm not giving back your tuition money."
+      ]
+    }
+  ]
+}

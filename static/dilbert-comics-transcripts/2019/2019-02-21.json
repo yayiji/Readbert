@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are we going ahead with the plan when the data says it can't succeed?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I manage by instinct and gut feelings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's that different from being insane or stupid?",
+        "My gut says I should not listen to you."
+      ]
+    }
+  ]
+}

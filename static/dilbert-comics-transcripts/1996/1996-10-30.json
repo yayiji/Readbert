@@ -1,0 +1,24 @@
+{
+  "date": "1996-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This award goes to Tim for his incredible accomplishment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "After two years of stonewalling all progress, Tim finally agreed to do the work for which he was hired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We look forward to working with Tim in the coming year.",
+        "As if I'd have time for that."
+      ]
+    }
+  ]
+}

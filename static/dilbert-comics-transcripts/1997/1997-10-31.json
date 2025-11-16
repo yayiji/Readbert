@@ -1,0 +1,25 @@
+{
+  "date": "1997-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Manager training",
+        "Never be in the same room as a decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll illustrate my point with a puppet show that I call..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Journey to Blameville,",
+        "starring \"Suggestion Sam\" and \"Manager Meg.\""
+      ]
+    }
+  ]
+}

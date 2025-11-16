@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I keep working hard, but no one notices."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why I send department-wide emails at around midnight every night."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know you work at home every night.",
+        "Do I need to speak slower here?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2005-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's my design plan.",
+        "Are there any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It reminds me of Egyptian hieroglyphics.",
+        "Are you sure they didn't patent it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... I don't think that's likely."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But there's still some risk?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "First of all, I didn't use hieroglyphics.",
+        "Secondly, the ancient Egyptians didn't have microchips.",
+        "Thirdly, they didn't have patent laws."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh yeah? Then how did they build the pyramids?",
+        "Good point."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do some research on that question and get back to us next week."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next on the agenda:",
+        "Why do our projects take so long?",
+        "What?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1995-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today we have a motivational speaker from the \"Discount Speakers Bureau.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should, like, work harder...",
+        "Otherwise you might get fired.",
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would we get bonuses for working harder?",
+        "This must be the slow class."
+      ]
+    }
+  ]
+}

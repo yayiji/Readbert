@@ -1,0 +1,26 @@
+{
+  "date": "1996-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the hotel.",
+        "Allow me to touch your bag so you'll feel obligated to tip me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've got to make it through the gauntlet of bag-losing hotel zombies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No room?!!",
+        "I have a reservation!!",
+        "Oh, that's original."
+      ]
+    }
+  ]
+}

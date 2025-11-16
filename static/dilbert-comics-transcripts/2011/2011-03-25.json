@@ -1,0 +1,26 @@
+{
+  "date": "2011-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can learn from our mistakes.",
+        "Let's make a list of the things that each of you did wrong this year.",
+        "Mistakes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it just a coincidence that our annual performance reviews are due next week?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It would have been the stuff of management legends.",
+        "Very nice try."
+      ]
+    }
+  ]
+}

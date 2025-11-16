@@ -1,0 +1,25 @@
+{
+  "date": "2018-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh. My home security system is showing a thief stealing a package from my front door."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Activating particle beam defense.",
+        "The threat has been neutralized."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you say \"neutralized,\" does that mean...",
+        "Activating crime scene cleanup drone."
+      ]
+    }
+  ]
+}

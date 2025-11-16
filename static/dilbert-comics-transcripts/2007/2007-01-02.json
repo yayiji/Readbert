@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I should warn you that I'm on a diet and might not have the sharp focus that you've come to expect from me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha ha",
+        "Ha ha ha",
+        "Ha ha"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought of something funny totally on my own."
+      ]
+    }
+  ]
+}

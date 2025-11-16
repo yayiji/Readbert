@@ -1,0 +1,56 @@
+{
+  "date": "1997-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the employee rock-climbing seminar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll learn valuable teamwork skills by doing dangerous things unrelated to your jobs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't rock climbing a solo activity?",
+        "I'll help identify your body."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It seems like you'd need a strong grip to climb rocks."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't even open jars unless I use special tools."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ow! Ow! Cramp!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm disoriented by the pain!",
+        "Hey!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Here are your diplomas. Now get out.",
+        "Go team!"
+      ]
+    }
+  ]
+}

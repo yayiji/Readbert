@@ -1,0 +1,25 @@
+{
+  "date": "1995-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Most business plans fail.",
+        "Obviously, success is not a realistic goal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But the people who manage the most spectacular failures get promoted first because of their experience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is the most cynical thing I've ever heard in my life!",
+        "Thanks. I'm blushing."
+      ]
+    }
+  ]
+}

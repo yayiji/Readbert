@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My staff is threatening to quit because of our military contracts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them we only work on defensive weapons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might help if we changed the project name from \"City-killing laser in space.\"",
+        "How about \"Skylight\"?"
+      ]
+    }
+  ]
+}

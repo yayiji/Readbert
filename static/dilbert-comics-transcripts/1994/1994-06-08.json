@@ -1,0 +1,25 @@
+{
+  "date": "1994-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw the code for your computer program yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It looked easy. It's just a bunch of typing.",
+        "And half of the words were spelled wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And don't get me started about your overuse of colons.",
+        "They remind me of you, sir."
+      ]
+    }
+  ]
+}

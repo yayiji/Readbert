@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worked all night to finish the assignment on time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Toss it on the pile."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd feel better if you used a different choice of words.",
+        "Plop it on the top."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an e-mail monkey on my back, but I can quit whenever I want."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't need to check it every minute. I can resist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But look! The stupid monkey hit my keyboard with his foot!"
+      ]
+    }
+  ]
+}

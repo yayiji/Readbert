@@ -1,0 +1,23 @@
+{
+  "date": "1993-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, your raises will be partly dependent on an evaluation by your co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hypothetically, if my co-workers got small raises then wouldn't there be more available in the budget for me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That didn't last long, even by our standards."
+      ]
+    }
+  ]
+}

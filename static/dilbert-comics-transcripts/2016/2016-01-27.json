@@ -1,0 +1,31 @@
+{
+  "date": "2016-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you a terrorist?",
+        "Why does everyone keep asking me that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You look like one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I'm not, you racist."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Is it more of a sympathizer situation?",
+        "Stop radicalizing me!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2000-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This to-do list will make me more efficient."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have three fake emergencies, two doomed projects, four unnecessary meetings..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I figured out why you never ask me how my day went.",
+        "Off you go."
+      ]
+    }
+  ]
+}

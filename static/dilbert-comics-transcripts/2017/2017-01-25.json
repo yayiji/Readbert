@@ -1,0 +1,27 @@
+{
+  "date": "2017-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You retweeted a racist conspiracy theory.",
+        "I did?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I checked Snopes.com, and they say it is not true that Elbonians evolved from pandas less than a hundred years ago."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You might want to delete the tweet.",
+        "Nah.",
+        "What's the worst that can happen?",
+        "Continued..."
+      ]
+    }
+  ]
+}

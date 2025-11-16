@@ -1,0 +1,27 @@
+{
+  "date": "2017-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Robot, I'd like you to meet Randy.",
+        "He has no soul, just like you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the etiquette for this situation?",
+        "Do we high-five, then kill the soul-bag where he stands?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can hear you.",
+        "He makes a good point.",
+        "It would be better to surprise him."
+      ]
+    }
+  ]
+}

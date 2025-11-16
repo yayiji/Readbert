@@ -1,0 +1,26 @@
+{
+  "date": "2018-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The software upgrade will be ready Friday.",
+        "Actually, that's when we will start writing it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And it will save us twenty million dollars.",
+        "Actually, it will cost a million dollars and save nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need to talk.",
+        "We do? I'm not feeling that."
+      ]
+    }
+  ]
+}

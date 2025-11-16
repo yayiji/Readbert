@@ -1,0 +1,30 @@
+{
+  "date": "2021-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Write a press release saying our company supports whatever social issues people are griping about lately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does it matter which issues I pick?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nah. Just make us look awesome."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Should I research the issues first?",
+        "Are you trying to not get the point?"
+      ]
+    }
+  ]
+}

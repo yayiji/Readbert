@@ -1,0 +1,25 @@
+{
+  "date": "2014-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, ordinary workers.",
+        "I am a new employee just like you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're discussing the best way to kill our boss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could kill him with kindness.",
+        "I'm leaning toward strangling him with his own intestines."
+      ]
+    }
+  ]
+}

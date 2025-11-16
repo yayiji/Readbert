@@ -1,0 +1,55 @@
+{
+  "date": "1991-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, can I ask you a question?",
+        "Sure, little Rex."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the difference between good and evil?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, evil is all the stuff you want to do..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And good is the stuff that others force you to do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My dad says that good is what you know in your heart."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He says evil is a bad gut feeling."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, of course, your dad's brain is so tiny that his other organs have to pitch in like that."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe I shouldn't learn about life from a guy who counts with his toes.",
+        "And thinks with his guts."
+      ]
+    }
+  ]
+}

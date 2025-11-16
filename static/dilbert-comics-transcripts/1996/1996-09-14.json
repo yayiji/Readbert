@@ -1,0 +1,24 @@
+{
+  "date": "1996-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In today's news, our company has decided to buy another dying company in a business we don't fully understand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our stock rose five points on the announcement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why does our stock go up every time we do something boneheaded?",
+        "I like to think of it as our competitive advantage."
+      ]
+    }
+  ]
+}

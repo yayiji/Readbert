@@ -1,0 +1,24 @@
+{
+  "date": "2013-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Google provides a Wi-Fi-enabled bus for its employees to commute from San Francisco."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why can't we be more like that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want to be more like a bus?",
+        "I found the problem."
+      ]
+    }
+  ]
+}

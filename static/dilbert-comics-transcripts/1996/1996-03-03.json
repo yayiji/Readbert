@@ -1,0 +1,56 @@
+{
+  "date": "1996-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to interview the new candidate for engineering. Don't reveal any ugly truths."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At this company we're dedicated to the principle of employee empowerment, Jennifer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The \"principle of employee empowerment\"?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Uh-oh.",
+        "Why would you have a special phrase for something like that?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you could really make decisions on your own it would never occur to you to invent a phrase for it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My shields are down... a hull breach is imminent...",
+        "Just don't tell me you have \"quality teams\"."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Run for it, Jennifer!!! It's too late for me but you can save yourself!!! Run!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Whoa! Hull breach. Any survivors?",
+        "One. I had to jettison my dignity but she made it to the escape pod."
+      ]
+    }
+  ]
+}

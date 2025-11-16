@@ -1,0 +1,27 @@
+{
+  "date": "2005-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "First day on the job",
+        "Employee orientation was great! Now where do you want me to start?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm kind of busy.",
+        "Maybe you could look at our web site and guess what you should be doing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!!",
+        "What happened to my back???",
+        "Stress; you get used to it."
+      ]
+    }
+  ]
+}

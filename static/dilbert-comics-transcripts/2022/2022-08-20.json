@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have developed two neural chips for brains."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The red one helps you see reality for the first time, but the blue one keeps you in the illusion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How are the advanced sales?",
+        "Haven't seen any orders for the red one yet."
+      ]
+    }
+  ]
+}

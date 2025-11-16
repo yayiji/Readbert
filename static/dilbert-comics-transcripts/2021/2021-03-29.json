@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Seventy-three subordinates are accusing you of inappropriate behavior."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see what's so \"inappropriate\" about threatening to ruin a subordinate's career unless I get a hug."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You know that's a crime, right?",
+        "Maybe I shouldn't handle my own defense."
+      ]
+    }
+  ]
+}

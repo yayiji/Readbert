@@ -1,0 +1,59 @@
+{
+  "date": "2015-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations to everyone who worked on our new laptop design.",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As I call your name, come up and get your certificate of accomplishment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice was in charge of the hardware and won several design awards."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Dilbert was in charge of the award-winning software."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And, Wally designed the power brick."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That weighs more than the laptop..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And comes apart for no apparent reason.",
+        "Plink"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We probably won't show this in our ads.",
+        "Hey, I worked on that for almost an hour!"
+      ]
+    }
+  ]
+}

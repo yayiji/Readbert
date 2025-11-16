@@ -1,0 +1,57 @@
+{
+  "date": "2013-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm on a deadline, so don't let anyone disturb me for at least an hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If anyone gets past you, you're fired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tell your boss to come to my office now.",
+        "He'll fire me if I disturb him."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm your CEO! Disturb your boss now or I'll fire you!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I heard that. And if you disturb me, you're fired!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're fired if you don't!",
+        "You're fired if you do!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whoa! Hold on! I'm getting a sudden wave of euphoria.",
+        "Me too!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it because we're over-paid?",
+        "It... it feels... wonderful!"
+      ]
+    }
+  ]
+}

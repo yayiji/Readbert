@@ -1,0 +1,26 @@
+{
+  "date": "2005-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No one has any good advice on how I can balance my work with my personal life.",
+        "You didn't ask me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I take the Zen approach of having no friends and doing no work.",
+        "Hence, perfect balance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where did you get that definition of Zen?",
+        "I used to read, but it's faster to make up stuff."
+      ]
+    }
+  ]
+}

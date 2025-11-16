@@ -1,0 +1,54 @@
+{
+  "date": "2017-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The one called Dilbert is showing signs of happiness at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means we can give him more work and he won't quit. Excellent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is anyone else exhibiting signs of unauthorized happiness?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No. Everyone else is in the narrow band of misery you want them to be in."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If they were any happier, it would mean you're overpaying them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If they were any less happy, they would take their own lives."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you don't hear any laughing or screaming, it means you're doing something right."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What about moans?",
+        "Moans are ideal. That's the sweet spot."
+      ]
+    }
+  ]
+}

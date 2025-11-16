@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I can't give you a raise because you accomplished nothing this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's okay because I make a fortune investing in penny stocks. Do you want some hot stock tips?",
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you get a raise?",
+        "No, but I narrowed the gap between his income and mine."
+      ]
+    }
+  ]
+}

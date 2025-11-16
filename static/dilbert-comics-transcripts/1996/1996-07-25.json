@@ -1,0 +1,24 @@
+{
+  "date": "1996-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like we'll release our new product on time, despite its many defects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've minimized the economic impact of the defects via an advanced business process called \"Hoping nobody notices.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And we've doubled our projected income by modifying our assumptions!",
+        "A lot of this job is mental."
+      ]
+    }
+  ]
+}

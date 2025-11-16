@@ -1,0 +1,30 @@
+{
+  "date": "2019-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great job on the presentation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I prefer to avoid contact with that festering germ colony you call a hand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay.",
+        "Better safe than sorry."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And could you face backward when you talk to me?"
+      ]
+    }
+  ]
+}

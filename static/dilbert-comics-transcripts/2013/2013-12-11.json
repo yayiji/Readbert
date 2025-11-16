@@ -1,0 +1,25 @@
+{
+  "date": "2013-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you vet this idea with your peers?",
+        "They hated it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They also say you're incompetent and annoying, so how much can we really trust their opinions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It does sound as if they're wrong a lot.",
+        "Exactly."
+      ]
+    }
+  ]
+}

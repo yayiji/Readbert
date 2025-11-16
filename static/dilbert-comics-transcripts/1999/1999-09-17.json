@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for dropping in.",
+        "Too bad you have to leave so soon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your sidewalk is cracking.",
+        "You need to build a drainage trench, with sump pumps."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I told her she was living in a powder keg she made a weird yelping sound."
+      ]
+    }
+  ]
+}

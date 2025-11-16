@@ -1,0 +1,55 @@
+{
+  "date": "2008-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't move forward until you get input from Allen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And that won't be easy. Allen is an amorphous cloud of gas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He once was human like us."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Allen was afraid to give his opinion or make a decision."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "He put so much effort into avoiding commitment that his molecules stopped binding together."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now he exists as nothing but a subtle odor near the copier room."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How can I get his input?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't make me micromanage you.",
+        "Allen? Is that you?",
+        "Sorry."
+      ]
+    }
+  ]
+}

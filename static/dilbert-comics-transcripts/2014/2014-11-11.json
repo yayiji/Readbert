@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted retired yesterday and dropped dead this morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You worked him to death with perfect timing. Nicely done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Unless it was just a coincidence.",
+        "If I'm being honest, hitting the exact day was just luck."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2004-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Optometrist for visionary executives",
+        "Look through this solid block of wood."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this better or worse?",
+        "Better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I foresee forty quarters of growth.",
+        "Hey, new glasses?"
+      ]
+    }
+  ]
+}

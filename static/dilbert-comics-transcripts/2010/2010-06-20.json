@@ -1,0 +1,57 @@
+{
+  "date": "2010-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good leader uses a process for making decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I take this one?",
+        "Go.",
+        "Make us proud."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question: If making a decision is just a process, why can't a computer do it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because sometimes I have to rely on my gut."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Which part of your gut is the smart part? Is it the stomach lining, or maybe the colon?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm talking about instinct. It's an indefinable leadership quality."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is the indefinable thing like a superstition?",
+        "Or cooties?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's a process!",
+        "Is that your colon talking?"
+      ]
+    }
+  ]
+}

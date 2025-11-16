@@ -1,0 +1,26 @@
+{
+  "date": "2010-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, this is the Dogbert Market Research Company.",
+        "May I ask you some totally harmless questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is your social security number, bank pin number and mother's maiden name?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What exactly are you researching?",
+        "Poverty rates.",
+        "I'm shooting for 100%."
+      ]
+    }
+  ]
+}

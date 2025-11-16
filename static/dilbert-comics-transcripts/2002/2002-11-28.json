@@ -1,0 +1,26 @@
+{
+  "date": "2002-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Each of you will get a shirt as part of my war on waste program!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wouldn't wear that shirt at home or in the office, so what good is..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Honk!",
+        "Oh.",
+        "Never",
+        "mind."
+      ]
+    }
+  ]
+}

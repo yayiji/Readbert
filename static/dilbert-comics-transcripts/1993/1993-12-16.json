@@ -1,0 +1,24 @@
+{
+  "date": "1993-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a name for my new tubular luggage invention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The name should be descriptive of its function, yet also call out to my target market."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Go ahead... get it out of your system.",
+        "\"Dorkage\""
+      ]
+    }
+  ]
+}

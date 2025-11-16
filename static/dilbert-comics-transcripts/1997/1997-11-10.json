@@ -1,0 +1,23 @@
+{
+  "date": "1997-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm with the cubicle police. This is a safety violation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's perfectly safe unless you tap it with a flashlight or a dog jumps on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This plays right into my theory that cubicles are living organisms."
+      ]
+    }
+  ]
+}

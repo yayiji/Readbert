@@ -1,0 +1,26 @@
+{
+  "date": "2000-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! The Dogbert investment fund has higher fees than any other!",
+        "It's true!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's how you can tell it's the best fund.",
+        "I'm in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you diversified?",
+        "Yes, I have suckers of all types."
+      ]
+    }
+  ]
+}

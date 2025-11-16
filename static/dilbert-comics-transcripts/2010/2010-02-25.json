@@ -1,0 +1,30 @@
+{
+  "date": "2010-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet our new account manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "His job is solving a hodgepodge of problems that would bore a normal person to death."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We think his parents didn't let him have toys.",
+        "The first day is the easiest."
+      ]
+    }
+  ]
+}

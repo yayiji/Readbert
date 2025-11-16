@@ -1,0 +1,55 @@
+{
+  "date": "2018-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I put together a plan for our data center project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't need a plan. We're an agile company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's better to move fast and fix our mistakes as we go."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're thinking of software, where the cost of mistakes is low. This is a construction project."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That data center will be full of software, will it not?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, but...",
+        "Don't be afraid of change."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What if I rapidly make a plan and tell you I didn't?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is that agile enough for you?",
+        "I'll need to Google that."
+      ]
+    }
+  ]
+}

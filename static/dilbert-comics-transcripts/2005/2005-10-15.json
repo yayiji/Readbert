@@ -1,0 +1,26 @@
+{
+  "date": "2005-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to return this frisbee.",
+        "It doesn't fly right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is a software CD.",
+        "Only a total idiot would think it was a frisbee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, the user's manual was poorly written.",
+        "Plus you're a total idiot."
+      ]
+    }
+  ]
+}

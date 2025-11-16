@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha ha! Now that the engineers must charge their time to marketing, we own you!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll just reprogram your computer through the LAN so its radiation will alter your DNA."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that possible??!",
+        "As far as you know."
+      ]
+    }
+  ]
+}

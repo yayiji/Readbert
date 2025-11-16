@@ -1,0 +1,30 @@
+{
+  "date": "1989-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't quite understand what scientific principle you intend to discover with a bowl of soup and a necktie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm testing the strange attraction between staining liquids and new ties."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder how Newton missed this little gravitational oddity.",
+        "Foosh!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He didn't wear a necktie."
+      ]
+    }
+  ]
+}

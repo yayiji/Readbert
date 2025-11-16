@@ -1,0 +1,58 @@
+{
+  "date": "1992-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'd better check it out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do we need a license to become parents?",
+        "Something had to be done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Under the old system all you needed to be a parent was a few body parts and a brain the size of a garbanzo bean."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So I developed this written test to weed out the major bozos."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If a baby cries, you should: A. Feed it, B. Discipline it, C. Call it \"stupid\"."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If a child gets poor grades you should: A. Tutor him, B. Discipline him, C. Call him \"stupid\".",
+        "What does \"tutor\" mean?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You have to show it who's the boss.",
+        "An acceptable nickname for a child is: A. Junior, B. Ugly, C. Stupid.",
+        "Depends if it's a boy."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well? Can we be parents?",
+        "No. And you'll have to leave some body parts at the front desk."
+      ]
+    }
+  ]
+}

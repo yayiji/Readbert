@@ -1,0 +1,24 @@
+{
+  "date": "2006-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No pressure, but do you have any idea how easy it would be to get rid of you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There isn't even any paperwork. I just point my finger and you're history."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here comes the firing finger.",
+        "Oooh... watch out!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've reviewed your file."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your best bet is to live an unhealthy lifestyle, die young, and hope reincarnation is real."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it real?",
+        "All I know for sure is that dead people are less fussy than you."
+      ]
+    }
+  ]
+}

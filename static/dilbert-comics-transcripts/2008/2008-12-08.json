@@ -1,0 +1,25 @@
+{
+  "date": "2008-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I remotely take over your computer to diagnose the problem?",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now hold while I snoop into your personal files, pilfer your bank accounts and turn your computer into a spam server."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's illegal!",
+        "So are 75% of your personal files, but you don't see me getting all huffy."
+      ]
+    }
+  ]
+}

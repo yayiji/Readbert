@@ -1,0 +1,54 @@
+{
+  "date": "1998-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you haven't done any actual work for years, yet we continue to pay you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have I said thanks?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd fire you, but your performance reviews are all \"excellents.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So, my plan is to make your job a living hell until you quit."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll never win! My standards are lower than you can imagine!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll start by moving you to a smaller cubicle."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is that the best you got?",
+        "Ha ha ha !!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Mom, guess who got an office with a door!"
+      ]
+    }
+  ]
+}

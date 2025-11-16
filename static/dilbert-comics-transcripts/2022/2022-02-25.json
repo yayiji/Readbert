@@ -1,0 +1,25 @@
+{
+  "date": "2022-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've got a problem.",
+        "Problem?!?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't say we have a \"problem.\"",
+        "Say we have an \"opportunity.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay... a large storm has given us an opportunity to run our data center without the burden of electricity."
+      ]
+    }
+  ]
+}

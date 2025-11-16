@@ -1,0 +1,24 @@
+{
+  "date": "1991-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't know you could sew."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I watched my mother do it when I was a kid.",
+        "She taught me everything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We often found mom sewed to the sofa."
+      ]
+    }
+  ]
+}

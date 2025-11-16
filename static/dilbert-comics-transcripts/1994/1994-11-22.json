@@ -1,0 +1,26 @@
+{
+  "date": "1994-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "You can gauge your success by the number of repeat customers you have."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm proud to say that virtually every customer gets another unit within three months of buying the first one!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if you don't count warranty replacements?",
+        "Ooh...",
+        "Then we don't look so good."
+      ]
+    }
+  ]
+}

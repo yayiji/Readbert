@@ -1,0 +1,55 @@
+{
+  "date": "2007-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Run this by our attorney."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I vigorously hit myself with a hammer instead?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have my attention."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Either way, it's a painful process that won't change the final result."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But the hammer is quicker and it will still make you feel as if you made me do something."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, try the hammer thing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bam! Ouch!",
+        "Bam! Ouch!",
+        "Bam! Ouch!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Now run it by our attorney so it feels as if I did two things."
+      ]
+    }
+  ]
+}

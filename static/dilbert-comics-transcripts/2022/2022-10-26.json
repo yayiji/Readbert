@@ -1,0 +1,24 @@
+{
+  "date": "2022-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to renew our lease on the data center."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a bad take, you spineless blob of flaming sewer slime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you attacking the messenger?",
+        "I don't even work here."
+      ]
+    }
+  ]
+}

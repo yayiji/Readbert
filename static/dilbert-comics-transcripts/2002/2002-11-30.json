@@ -1,0 +1,24 @@
+{
+  "date": "2002-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is a guess, but I think your doctor is a vet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know about his military service. I just know he has great cookies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I like it when he rubs my belly.",
+        "I know something you don't know."
+      ]
+    }
+  ]
+}

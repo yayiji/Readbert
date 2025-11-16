@@ -1,0 +1,26 @@
+{
+  "date": "2014-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to make a powerpoint deck for my meeting with investors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be telling them everything I know about technology, competition, and the industry.",
+        "So...",
+        "Just the one slide?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Huh?",
+        "How big do these fonts go?"
+      ]
+    }
+  ]
+}

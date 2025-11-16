@@ -1,0 +1,53 @@
+{
+  "date": "2009-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How much will it cost to develop our next generation product?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will cost whatever you put in the budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much should I put in the budget?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ask for the biggest number you think will get approved."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If we get a lot of money we can build something great."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If we don't get much money we can build something lame, and compensate for the lack of quality by lying more vigorously than usual."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll aim low so I don't get yelled at during the executive budget meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I remember a time when this sort of thing would haunt me."
+      ]
+    }
+  ]
+}

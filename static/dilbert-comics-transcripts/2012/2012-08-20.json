@@ -1,0 +1,26 @@
+{
+  "date": "2012-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you feel when I give you positive feedback?",
+        "Under-paid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you feel when I give you negative feedback?",
+        "Under-appreciated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then what motivates you?",
+        "The government makes rectangular pieces of paper."
+      ]
+    }
+  ]
+}

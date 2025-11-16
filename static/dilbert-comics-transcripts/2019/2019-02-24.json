@@ -1,0 +1,56 @@
+{
+  "date": "2019-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My wife is the smart one in the family."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything I know about management I learned from her."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a minute?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Whatever."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Whatever?",
+        "Are you mad at me?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, not at all.",
+        "Everything is fine."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you have a problem with me, why don't you just tell me?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's nothing.",
+        "She taught you well."
+      ]
+    }
+  ]
+}

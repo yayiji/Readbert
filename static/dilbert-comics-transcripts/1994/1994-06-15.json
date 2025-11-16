@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I joined the city soccer league."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never played, but as an engineer I have a natural instinct for ball trajectory and passing angles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where does the team play?",
+        "Coach doesn't want to ruin my concentration by telling me."
+      ]
+    }
+  ]
+}

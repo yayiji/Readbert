@@ -1,0 +1,56 @@
+{
+  "date": "1998-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This bell will improve your morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You ring the bell whenever you achieve a goal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then yell your accomplishment to the rest of the office."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I know it sounds corny, but the bell has worked at other companies."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Does your information come from the bosses of those other companies?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No.",
+        "It comes from a magazine that interviewed those bosses."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll go first.",
+        "Clang",
+        "Clang"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I resisted killing my boss with a stupid bell!!"
+      ]
+    }
+  ]
+}

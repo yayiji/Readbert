@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As a newly minted socialist, I look down on your capitalist ways."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why can't you be more generous and caring, like me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shouldn't you be working?",
+        "It's optional under my system."
+      ]
+    }
+  ]
+}

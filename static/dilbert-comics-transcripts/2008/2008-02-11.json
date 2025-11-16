@@ -1,0 +1,23 @@
+{
+  "date": "2008-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your most sensitive materials should always be sent in an interoffice envelope marked \"Top secret.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you a moron who works in our security department, or an industrial spy who is too lazy to look through lots of envelopes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our security guys don't slap that hard or run that fast."
+      ]
+    }
+  ]
+}

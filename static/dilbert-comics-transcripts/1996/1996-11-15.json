@@ -1,0 +1,25 @@
+{
+  "date": "1996-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you were hired, what would be your long-range career goal?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd have your job in six months. In a year you'd be working for me, you big pile of dinosaur dung."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see you attended an all women's college. Does that experience really make you more confident and assertive?",
+        "Either arm.",
+        "Let's go."
+      ]
+    }
+  ]
+}

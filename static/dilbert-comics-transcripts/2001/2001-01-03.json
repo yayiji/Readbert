@@ -1,0 +1,26 @@
+{
+  "date": "2001-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project will save the company a million dollars.",
+        "Mine saves twenty million."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My project will take a year to complete.",
+        "Mine takes a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Topper, I have half a mind...",
+        "I have one percent of a mind."
+      ]
+    }
+  ]
+}

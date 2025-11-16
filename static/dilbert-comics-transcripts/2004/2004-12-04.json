@@ -1,0 +1,25 @@
+{
+  "date": "2004-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you tell our biggest customer that everyone here except you is an escaped felon?",
+        "Maybe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I can't fire you because they don't trust anyone else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The key learning here is that alleged crime doesn't pay.",
+        "I've never been caught!"
+      ]
+    }
+  ]
+}

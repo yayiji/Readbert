@@ -1,0 +1,56 @@
+{
+  "date": "2003-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can your department do this for us?",
+        "No problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? It's outside of your normal scope of work and I know you're overloaded."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're a flexible, client-driven organization!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wally, how can I avoid projects that are outside of my scope of responsibility?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Cheerfully accept the assignments and then never work on them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It bolsters your claims of being overloaded while leaving you free for work that matters."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Work matters?",
+        "Well, not to us."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm not even sure what they want.",
+        "I'll start ignoring it immediately."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-02-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to winning the election is voter turnout."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To be specific, you want everybody to stay home except you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've worked up a little ad campaign.",
+        "He touched the voting booth before you did.",
+        "And he never washes his hands."
+      ]
+    }
+  ]
+}

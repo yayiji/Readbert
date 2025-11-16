@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've been using the Dogbert offsite document storage service for five years, and frankly, I'm concerned."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your service trucks look suspiciously like garbage trucks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I would cancel your service if I could find the contract.",
+        "It's in \"storage.\""
+      ]
+    }
+  ]
+}

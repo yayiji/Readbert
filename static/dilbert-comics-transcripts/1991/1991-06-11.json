@@ -1,0 +1,25 @@
+{
+  "date": "1991-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why have you refused to submit to our employee drug testing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a violation of my privacy and an insult to my integrity.",
+        "I demand to be judged only on my performance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But your performance stinks.",
+        "Performance and attendance."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2006-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We could do the project right for $100,000 or do it wrong for $25,000."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe that the wise king salmon would say to split the difference and do it for $50,000."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fish are stupid."
+      ]
+    }
+  ]
+}

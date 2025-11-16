@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales engineer",
+        "I've successfully integrated our product with your network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It might look as if all I did was run a Cat5 cable through a shoebox full of twigs and leaves."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that all you did?",
+        "A Cat6 cable would be overkill."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2008-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please introduce yourself by saying your name and who you work for."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name is Erin and I work for Sue Boysenberry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow, lucky.",
+        "I hear she's great.",
+        "Can you give her my résumé?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "One minute later",
+        "I'm so sorry for you.",
+        "You must cry a lot."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you ever need to talk to someone, I know a good shrink."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He can prescribe pills that will make you feel self-employed."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Be strong.",
+        "We'll all pray for you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next."
+      ]
+    }
+  ]
+}

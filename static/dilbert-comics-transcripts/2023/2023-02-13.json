@@ -1,0 +1,24 @@
+{
+  "date": "2023-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent the entire weekend gaming."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It might take me a few hours to adjust to the outside world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's weird.",
+        "I will slay you with my laser sword!"
+      ]
+    }
+  ]
+}

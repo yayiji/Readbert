@@ -1,0 +1,26 @@
+{
+  "date": "2021-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We launched our new \"Lazy Wally\" robot product today.",
+        "All it does is drink coffee, attend meetings, and complain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That robot will never replace me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're the robot.",
+        "Wally is sitting across from you.",
+        "Well, that just ruined my day."
+      ]
+    }
+  ]
+}

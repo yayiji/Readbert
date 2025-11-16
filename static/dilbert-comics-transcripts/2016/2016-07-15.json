@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd better check this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's just what I thought."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did you think?",
+        "I thought I would enjoy my phone more than talking to you."
+      ]
+    }
+  ]
+}

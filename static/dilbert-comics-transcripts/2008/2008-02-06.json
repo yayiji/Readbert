@@ -1,0 +1,25 @@
+{
+  "date": "2008-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is this \"Take your daughter to work day\" again?",
+        "No, I'm a freelancer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've narrowed my career choices to prison guard or monkey trainer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see how coming here will help.",
+        "I'll give you a banana if you show me your cubicles."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2001-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Press one to hear...",
+        "Why are you using your speakerphone for voice-mail?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, seriously, what is going through that socially defective brain of yours?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to have dinner?",
+        "Yeah, why not."
+      ]
+    }
+  ]
+}

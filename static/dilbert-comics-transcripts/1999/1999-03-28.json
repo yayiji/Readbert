@@ -1,0 +1,54 @@
+{
+  "date": "1999-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm trying a little experiment tonight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll attribute a stupid opinion to you..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I'll aggressively mock you while you sit there saying nothing."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So, according to you, the internet is a passing fad."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You moron! Look around you! The internet is everywhere!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And there's nothing you can do about it! Nothing!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How did that feel?",
+        "Quite satisfying."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I needed a back-up plan in case you ever get laryngitis."
+      ]
+    }
+  ]
+}

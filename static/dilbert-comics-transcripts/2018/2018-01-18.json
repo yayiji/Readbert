@@ -1,0 +1,26 @@
+{
+  "date": "2018-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you know the difference between data encapsulation and inheritance polymorphism?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No.",
+        "Then how can you manage someone who does?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know the difference between managing and bullying?",
+        "No.",
+        "Problem solved."
+      ]
+    }
+  ]
+}

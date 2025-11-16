@@ -1,0 +1,23 @@
+{
+  "date": "2012-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're abandoning our low-margin lines of business and going into a whole new field."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... we'll be like a high-risk start-up company burdened with lumbering inefficiencies and a high cost structure?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was anything you said the same as buy-in?"
+      ]
+    }
+  ]
+}

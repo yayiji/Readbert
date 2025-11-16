@@ -1,0 +1,54 @@
+{
+  "date": "2022-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do I need to do to earn a top performance review?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You would need to exceed expectations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, great. What do you expect?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's a moving target based on how much you disappoint me at any given moment."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you're doing great, I'll raise my expectations for the future."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... you will keep adjusting your expectations until it is logically impossible for me to exceed them?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Haha! I suppose that's one way to look at it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why is that funny?",
+        "Because I'm not you right now."
+      ]
+    }
+  ]
+}

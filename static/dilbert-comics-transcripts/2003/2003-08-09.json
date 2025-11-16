@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That concludes my two-hour presentation. Any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you intend the presentation to be incomprehensible, or do you have some sort of rare \"power-point\" disability?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are there any questions about the content?",
+        "There was content?"
+      ]
+    }
+  ]
+}

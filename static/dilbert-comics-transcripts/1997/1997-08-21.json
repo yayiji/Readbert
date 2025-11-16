@@ -1,0 +1,25 @@
+{
+  "date": "1997-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's funny that you're judging me.",
+        "My engineering knowledge is current and yours is ancient."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think I impressed him with my confidence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh! People skills!",
+        "I forgot!"
+      ]
+    }
+  ]
+}

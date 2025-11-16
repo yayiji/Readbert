@@ -1,0 +1,53 @@
+{
+  "date": "2014-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have an objection to this plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In my opinion, there are too many potential problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This system has been used for years in other places and works fine."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There is still a non-zero chance of problems."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "By that logic, we should get rid of hospitals because sometimes they make mistakes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa!!! I just realized I'm an idiot!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You can still lead a normal life."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It only stings for a minute."
+      ]
+    }
+  ]
+}

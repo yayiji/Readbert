@@ -1,0 +1,57 @@
+{
+  "date": "2003-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Matt.",
+        "It's my first day here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Dilbert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And this is...",
+        "I'd rather not say."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I prefer to remain anonymous, so you won't feel comfortable asking me for anything later."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Here's my card. It's blank."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The phrase that you're least likely to hear today is, \"We're just like family.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are you worried that he'll turn over the card and see your name?",
+        "No."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Was that my card?",
+        "I've been handing them out for years."
+      ]
+    }
+  ]
+}

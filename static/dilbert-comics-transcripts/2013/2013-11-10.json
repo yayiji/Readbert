@@ -1,0 +1,55 @@
+{
+  "date": "2013-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need to know if your device is compatible with our existing system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is 100% compatible with your system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't even tell you what system we have."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That doesn't matter."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It sort of does.",
+        "Not to me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So you don't really know if it will work?",
+        "I'm entitled to my opinion."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ignorance is not an opinion!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Please stay on the line for a brief survey."
+      ]
+    }
+  ]
+}

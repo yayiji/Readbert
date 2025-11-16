@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you are just the right guy for this assignment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't have the proper skills to do it right, but I plan to compensate for that by being unclear in what I want."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will that work?",
+        "Frankly, it's our best shot."
+      ]
+    }
+  ]
+}

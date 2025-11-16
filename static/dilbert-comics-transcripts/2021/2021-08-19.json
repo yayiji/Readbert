@@ -1,0 +1,25 @@
+{
+  "date": "2021-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like your employer meddled with your genes and caused you to grow a helpful tail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It has a weak base structure.",
+        "Switch to decaf for a week, and it'll fall right off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And it only took a week.",
+        "Literally everything about your idea is bad."
+      ]
+    }
+  ]
+}

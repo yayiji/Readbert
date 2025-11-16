@@ -1,0 +1,24 @@
+{
+  "date": "2012-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know I'd be happier as a cyborg than a full human."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to surgically embed a Bluetooth headset in my ear, powered by my own body chemistry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'd like intra-ocular lenses with vision correction and streaming video over Bluetooth.",
+        "Happiness only comes in pill form."
+      ]
+    }
+  ]
+}

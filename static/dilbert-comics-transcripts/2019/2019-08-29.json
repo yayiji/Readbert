@@ -1,0 +1,25 @@
+{
+  "date": "2019-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The inexperienced employee",
+        "Let me tell you how to do your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to get all the vendors in the same room and insult them until they offer you discounts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds super dumb.",
+        "That's what they said to Galileo, old man."
+      ]
+    }
+  ]
+}

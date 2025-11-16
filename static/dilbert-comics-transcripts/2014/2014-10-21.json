@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you have any problems filling in for me while I was on vacation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was hard at first. I couldn't tell who was lying about doing a spectacular job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why I reward them randomly.",
+        "I tried that and it did seem to settle them down."
+      ]
+    }
+  ]
+}

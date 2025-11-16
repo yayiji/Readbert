@@ -1,0 +1,23 @@
+{
+  "date": "2002-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your status report is just a bunch of buzzwords strung together."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been giving you that same status report every week for eleven years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Five years ago you adopted it as our mission statement."
+      ]
+    }
+  ]
+}

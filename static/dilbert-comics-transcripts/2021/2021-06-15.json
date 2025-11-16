@@ -1,0 +1,30 @@
+{
+  "date": "2021-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My low self-esteem is making me hate you for being good at your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not my problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, it will be.",
+        "I will be."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Was I supposed to hear that?"
+      ]
+    }
+  ]
+}

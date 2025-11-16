@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you hear Ted took a selfie with a wild bear?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow. Where can I see that picture?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd need to ask the bear.",
+        "It didn't go well."
+      ]
+    }
+  ]
+}

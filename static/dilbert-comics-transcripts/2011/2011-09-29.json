@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I put the data on a flash drive for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get that thing away from me. I don't know where it's been."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you mean the flash drive and not my hand.",
+        "I did. But you raise a good point about the hand."
+      ]
+    }
+  ]
+}

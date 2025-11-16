@@ -1,0 +1,27 @@
+{
+  "date": "1999-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is Juan Delegator.",
+        "I bring you an assignment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is your assignment.",
+        "You're trying to get me to do your work.",
+        "Team-work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I guess I could do you a favor.",
+        "And I wouldn't say no to a haircut."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2013-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your weekend?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wrapped myself in a blanket and stayed on the couch watching bad TV shows until I smelled like a gym sock with halitosis."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like how she makes me feel."
+      ]
+    }
+  ]
+}

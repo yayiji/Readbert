@@ -1,0 +1,55 @@
+{
+  "date": "2000-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've decided to give you a new personality."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your current personality is non-standard."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You must choose one of the approved corporate personalities."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The choices are sycophant, glad-hander, sadist, quantoid, prima donna, empty suit or whining misfit."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Empty suit sounds interesting."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Excellent choice. Here's the spec sheet."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did it go?",
+        "Same ol', same ol'. You got that right."
+      ]
+    }
+  ]
+}

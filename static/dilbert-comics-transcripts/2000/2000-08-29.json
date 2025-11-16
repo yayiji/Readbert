@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was hired because you're all dumber than a crate of anvils."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now, can anyone tell me if your operations are centralized or decentralized?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooh! Ooh! I just thought of a strategy!"
+      ]
+    }
+  ]
+}

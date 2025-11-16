@@ -1,0 +1,26 @@
+{
+  "date": "2014-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "None of my subordinates are supportive.",
+        "I don't know why."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps they're sensing that you have troll DNA."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "What?",
+        "Did your mom ever live under a bridge?"
+      ]
+    }
+  ]
+}

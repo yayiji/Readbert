@@ -1,0 +1,24 @@
+{
+  "date": "2000-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I must resist using the internet for personal reasons."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaa! There's a whole world of knowledge and entertainment at my fingertips... teasing me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ice cream! I'm so hungry!",
+        "No eating in your cubicle."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2005-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told our CEO that the design would be done in a month.",
+        "He's ecstatic!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would be good except that I told you it won't be done for six months.",
+        "Ooh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, I guess you'll have to tell him.",
+        "It's too late."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He already issued a press release.",
+        "You'll have to finish the design in a month."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The only way to do it in a month is to accept massive design flaws that will destroy a billion dollar line of business."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's okay.",
+        "My stock options are so underwater that it won't make any difference."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll just blame all of the problems on the Chinese company that manufactures our products."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ultimately, it's the CEO's fault for failing to give me proper incentives."
+      ]
+    }
+  ]
+}

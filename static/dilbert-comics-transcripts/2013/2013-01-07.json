@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This week I tested a source of energy that can power organic devices."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's made from plant seeds and water."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the energy source called coffee?",
+        "Let's talk about Dilbert's project. I hear it's a mess."
+      ]
+    }
+  ]
+}

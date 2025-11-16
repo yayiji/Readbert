@@ -1,0 +1,24 @@
+{
+  "date": "1993-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "With oxygen and food nearly depleted, the bioworld volunteers become philosophical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some of the volunteers think that because they're salespeople you don't value their lives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If that were true, how can you explain that we put you in there too?",
+        "That's what I said, but it didn't seem to cheer them up."
+      ]
+    }
+  ]
+}

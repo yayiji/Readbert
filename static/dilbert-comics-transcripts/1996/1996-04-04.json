@@ -1,0 +1,27 @@
+{
+  "date": "1996-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Ratbert, I don't think I can hire a rat to be our vice president of marketing.",
+        "You need experience in the technology industry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I spent a week in a dumpster at Procter and Gamble."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Close enough!",
+        "Welcome to the team!",
+        "I'll bring some cronies with me.",
+        "They're flies."
+      ]
+    }
+  ]
+}

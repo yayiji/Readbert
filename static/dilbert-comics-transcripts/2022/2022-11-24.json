@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You want to upgrade our Wi-Fi?",
+        "That's the dumbest idea anyone ever had."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Upgrading our Wi-Fi would be like teaching a banana to play the accordion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In what way are those things similar?",
+        "I wasn't expecting follow-up questions."
+      ]
+    }
+  ]
+}

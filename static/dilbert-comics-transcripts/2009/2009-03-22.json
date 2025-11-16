@@ -1,0 +1,55 @@
+{
+  "date": "2009-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need ideas on how we can cut spending."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bring back free coffee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the opposite of cutting spending.",
+        "It seems that way if you're short-sighted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When I buy my own coffee, I don't drink as much."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That makes me less alert and about half as productive."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you give me free coffee, you can fire Ted and come out ahead."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I rest my case."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm sorry, Ted. Wally makes a compelling argument.",
+        "Zzz"
+      ]
+    }
+  ]
+}

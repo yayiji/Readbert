@@ -1,0 +1,21 @@
+{
+  "date": "1996-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, these unsightly stacks of papers are a violation of my \"clean desk\" policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And don't even get me started about the ergonomics of this situation."
+      ]
+    }
+  ]
+}

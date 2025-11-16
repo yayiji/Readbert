@@ -1,0 +1,53 @@
+{
+  "date": "2008-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why have you failed to accomplish any of your objectives this quarter?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I took the objectives you gave me and put them into three categories."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first group includes physical impossibilities, such as being in two places at the same time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The second group includes logical impossibilities, such as anticipating unforeseen problems."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Last, we have the illegal objectives, including industrial spying and consumer fraud."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So I spent my time doing things that are both important and legal, while hoping you wouldn't fire me for it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whoa, what just happened? Is it my imagination, or did I just win this conversation?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It was my imagination."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2015-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to think like entrepreneurs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should we take huge risks?",
+        "No. The stockholders would hate that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we act as though we have no boss?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No. That would be chaos."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Will we become billionaires if we succeed?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Raises are capped at 3% this year."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm just saying you should be more creative."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And then we should act?",
+        "No, that's when the problems happen."
+      ]
+    }
+  ]
+}

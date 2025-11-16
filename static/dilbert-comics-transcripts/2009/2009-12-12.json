@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There is a huge disconnect between my enormous technical knowledge and the trivial tasks you assign to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a temporary situation, Asok.",
+        "Okay, good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Eventually your technical skills will become outdated."
+      ]
+    }
+  ]
+}

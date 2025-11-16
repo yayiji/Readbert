@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea is awful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you explain your reasons without using an absurd analogy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's like a pregnant squirrel eating a sandwich.",
+        "I'll take that as a no."
+      ]
+    }
+  ]
+}

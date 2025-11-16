@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can compensate for your lack of knowledge by talking too much."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And don't be limited by society's expectation that you be interesting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes I like to sit quietly and think up ideas.",
+        "Nothing good can come from that."
+      ]
+    }
+  ]
+}

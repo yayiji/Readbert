@@ -1,0 +1,24 @@
+{
+  "date": "2019-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How reliable are your ten-year financial projections?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They are as reliable as all other ten-year financial predictions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, good.",
+        "Why do I feel guilty every time I talk at work?"
+      ]
+    }
+  ]
+}

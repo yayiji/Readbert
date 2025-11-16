@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're looking for a scientist who can be easily influenced by money to back our product claims."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm perfect for that job. I have no ethical boundaries whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you won't try to con us, right?",
+        "You can't have it both ways."
+      ]
+    }
+  ]
+}

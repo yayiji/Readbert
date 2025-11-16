@@ -1,0 +1,53 @@
+{
+  "date": "2019-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a new chair. Mine is broken."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can use my old chair. I just got a new one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The chair you sat in every day for the past twelve years?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "By now that chair cushion is home to a thriving colony of your cooties."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That chair will be off-gassing you for decades."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I wouldn't touch that thing unless I were wearing a hazmat suit over my other hazmat suit."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm breaking into a flop sweat just thinking about it, and I think it's triggering my allergies."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would you like to borrow my handkerchief?"
+      ]
+    }
+  ]
+}

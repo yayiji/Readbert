@@ -1,0 +1,66 @@
+{
+  "date": "2014-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies show that continually checking email lowers your functional I.Q."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You advised me to \"work smarter,\" so I plan to ignore all of your email from now on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I text you instead?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's the sort of question that one asks after checking email too often."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did you just insult me?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The answer is in your email."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Where is it?",
+        "I don't see any email from you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "But I see six new emails that look important."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "What were we talking about?"
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "You were complimenting me on my efficiency."
+      ]
+    }
+  ]
+}

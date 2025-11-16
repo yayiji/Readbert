@@ -1,0 +1,53 @@
+{
+  "date": "2020-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A reporter for Buzzflawed wants to interview you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see any downside to that!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My first question is, do you still cheat all of your suppliers?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No! Of course not."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So, you're admitting you cheated your suppliers in the past?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Get out of my office, you evil monster!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay. I got what I needed."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The pudgy miscreant could not hide his glee when bragging about cheating his suppliers."
+      ]
+    }
+  ]
+}

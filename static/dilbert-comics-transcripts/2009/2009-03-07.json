@@ -1,0 +1,31 @@
+{
+  "date": "2009-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't have anything useful to say so I made this pie chart."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oooh!",
+        "Oooh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It must be true because it's pie."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That worked too well.",
+        "I pledge my life and my fortune to the pie!"
+      ]
+    }
+  ]
+}

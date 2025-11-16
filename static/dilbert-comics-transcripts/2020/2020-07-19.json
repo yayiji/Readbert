@@ -1,0 +1,54 @@
+{
+  "date": "2020-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting a whisper campaign against my rival in management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to tell people he buys babies from the poor and eats them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one is dumb enough to believe that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People will believe anything."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Not anything."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, anything."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fine. I'll try it, but only to prove how wrong you are."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How many does he eat per day?",
+        "I need a new planet."
+      ]
+    }
+  ]
+}

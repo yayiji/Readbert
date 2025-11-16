@@ -1,0 +1,24 @@
+{
+  "date": "2002-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to put together the winning bid for this contract."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. I'll just read the minds of our competitors and bid lower."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm picking up something now...",
+        "But it's partly blocked by a dense mass."
+      ]
+    }
+  ]
+}

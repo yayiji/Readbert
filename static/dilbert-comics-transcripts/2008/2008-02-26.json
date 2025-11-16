@@ -1,0 +1,25 @@
+{
+  "date": "2008-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob the esquire dinosaur",
+        "I slapped your ex-boss with his own suit until he agreed to rehire you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It only took ten minutes to make him agree, and another hour to make him convince me that he liked it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much do I owe you for all the fun?",
+        "This one is pro bono."
+      ]
+    }
+  ]
+}

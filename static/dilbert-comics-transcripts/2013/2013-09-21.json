@@ -1,0 +1,23 @@
+{
+  "date": "2013-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's your take on code consistency versus best practices for legacy systems?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want all of that stuff and I want it now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When people ask what you do for a living, what the $%* do you say?"
+      ]
+    }
+  ]
+}

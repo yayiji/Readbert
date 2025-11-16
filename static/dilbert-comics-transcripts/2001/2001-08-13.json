@@ -1,0 +1,25 @@
+{
+  "date": "2001-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob was working for you when he died.",
+        "The family wants you to say something at his funeral."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I barely knew him.",
+        "Maybe I can read something from his last performance review."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bob needs to work on his communication skills...and attendance."
+      ]
+    }
+  ]
+}

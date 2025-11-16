@@ -1,0 +1,29 @@
+{
+  "date": "2014-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Research says that asking for advice doubles your odds of career advancement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you think I should get a pet kangaroo?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't care if you marry one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I wonder how long the time lag is until my promotion."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you are not practicing social distancing.",
+        "Can I borrow some money?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What does social distancing have to do with borrowing money?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like borrowing money when I might not have to pay it back."
+      ]
+    }
+  ]
+}

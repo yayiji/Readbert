@@ -1,0 +1,56 @@
+{
+  "date": "1996-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, your performance this year is \"meets expectations.\" You get a two percent raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Meets expectations?! I worked eighty hours every week!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah... well, I expected that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I earned three patents this year! The company will make millions!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Really? Wow.",
+        "I mean... I expected that too."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I donated bone marrow to our biggest customer!!!",
+        "Twice!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I noted that under \"attendance problem.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I told you the bone marrow thing would haunt you.",
+        "I'm starting to think the time I worked through lunch was for nothing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "1997-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're on the radio with Dogbert's \"Bad Advice Show.\"",
+        "How may I hurt you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My boss asked me for a date.",
+        "We're both married.",
+        "What should I do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Divorce your husband.",
+        "He sounds like a loser to me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, yes, it all makes sense when you explain it that way."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then mail a dead woodchuck to your boss with a note that says..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "\"Unlike this woodchuck, my love for you will never die.\"",
+        "Thanks.",
+        "I love your show."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Moving on to household tips, did you know that black paint is an excellent stain remover?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can we talk?",
+        "...And those are just some of the benefits of an all-cheese diet."
+      ]
+    }
+  ]
+}

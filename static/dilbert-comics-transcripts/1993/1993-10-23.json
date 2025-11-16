@@ -1,0 +1,28 @@
+{
+  "date": "1993-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hee hee!",
+        "How many blondes does it take to change a tire?",
+        "One?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, thirty-seven to lift the car and one to pin the diaper on the tire!!",
+        "Ha!",
+        "Ha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Couldn't they just use the jack?",
+        "I wondered about that too."
+      ]
+    }
+  ]
+}

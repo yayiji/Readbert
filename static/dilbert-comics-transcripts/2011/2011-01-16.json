@@ -1,0 +1,59 @@
+{
+  "date": "2011-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our meeting room is being used by a vice president."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need all of you to search for an unoccupied room.",
+        "Call my cell when you find one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll stay here in case they finish soon."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Where are you going to look?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm going to take a nap in my cubicle and hope the problem takes care of itself."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Good idea.",
+        "I'll go get some work done."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Perfect time to run some errands."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Optimism is a lot like disappointment."
+      ]
+    }
+  ]
+}

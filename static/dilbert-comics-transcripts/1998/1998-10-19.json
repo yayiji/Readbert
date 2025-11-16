@@ -1,0 +1,30 @@
+{
+  "date": "1998-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: H.R. director",
+        "New policy:",
+        "Employees are not",
+        "allowed to eat at",
+        "their desks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because why?",
+        "I need a semi-",
+        "plausible reason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because I",
+        "hate you."
+      ]
+    }
+  ]
+}

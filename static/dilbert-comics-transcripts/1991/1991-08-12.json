@@ -1,0 +1,24 @@
+{
+  "date": "1991-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a job as a used car salesman.",
+        "Does it pay well?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not in it for the money. I just enjoy lying to strangers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This one was owned by Carlos the diamond smuggler. It corners well, but the gas mileage is bad -- almost as if it has weights hidden in the door panels."
+      ]
+    }
+  ]
+}

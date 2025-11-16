@@ -1,0 +1,53 @@
+{
+  "date": "2000-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I quantified our marketing strategy because you insisted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I listed the pros and cons on this sheet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I added up the columns."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The pros out-number the cons, so we're going forward."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's see. Your cons include... unhealthy and unprofitable."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your pros are... waffles, eggs, bananas and milk."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oops. That might be my grocery list."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You fool! I told you quantification never works!!"
+      ]
+    }
+  ]
+}

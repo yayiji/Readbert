@@ -1,0 +1,23 @@
+{
+  "date": "2000-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm alive!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which one of you angels administered the life-saving CPR?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Speaking of \"lifesavers,\" I could sure use one right now."
+      ]
+    }
+  ]
+}

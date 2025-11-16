@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got you a desk chair for your birthday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! That's perfect timing because someone stole my chair this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're welcome.",
+        "Wait..."
+      ]
+    }
+  ]
+}

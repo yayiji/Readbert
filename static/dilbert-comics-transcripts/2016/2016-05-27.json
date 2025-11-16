@@ -1,0 +1,24 @@
+{
+  "date": "2016-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our employee of the year is Wally, for referring so many new people to work in engineering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We believe he accomplished this feat by manipulating the referral system, but we can't prove it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So just to hedge our bet, we misspelled his name on the certificate.",
+        "I had it coming."
+      ]
+    }
+  ]
+}

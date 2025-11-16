@@ -1,0 +1,58 @@
+{
+  "date": "1995-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to take a contract to our company lawyer. I need your help, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please review this contract. I need it today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me all of your copies plus the original. Then go away."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't do it! He plans to lose them!!",
+        "Good dog!",
+        "Dang!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I cannot approve this. Somebody might sue us for no good reason."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's true with any contract. Isn't he using absurd logic?",
+        "Let's find out."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Approve the contract now or I'll sue you for obstruction of dogs!!",
+        "Okay okay"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wow",
+        "The great thing about absurd logic is that it fits any situation."
+      ]
+    }
+  ]
+}

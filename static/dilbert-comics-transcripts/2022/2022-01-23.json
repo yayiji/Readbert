@@ -1,0 +1,56 @@
+{
+  "date": "2022-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After all I've done for you, I would think you could do one small thing for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't do anything for me.",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's ridiculous!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Have you ever been killed by a poisonous spider?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No.",
+        "You're welcome."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you could tell me exactly how you stopped me from being killed by poisonous spiders."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe you could show more gratitude and less attitude."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, I give up. I'll make the popcorn.",
+        "Finally!"
+      ]
+    }
+  ]
+}

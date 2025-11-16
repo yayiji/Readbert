@@ -1,0 +1,55 @@
+{
+  "date": "2002-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're an ignorant maggot. You disgust me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should get a face transplant from a baboon.",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not talking to you. I'm using my hands-free phone."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh...for a minute I thought...well, never mind."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha ha! You might be the most gullible moron in the galaxy!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You pointy-haired, gray-suited pile of crud!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Mom, can you hold? My excellent boss wants to talk to me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What?",
+        "No personal phone calls on company time!"
+      ]
+    }
+  ]
+}

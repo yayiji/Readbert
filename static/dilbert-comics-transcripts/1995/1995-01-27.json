@@ -1,0 +1,27 @@
+{
+  "date": "1995-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've been asked to reduce our budget.",
+        "I'm going to offer to cut your project because it's the most critical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The finance guys won't dare cut that project.",
+        "My ploy will spare us from any cuts at all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Excuse me while I panic.",
+        "Tell me again what your project is about.",
+        "They might ask."
+      ]
+    }
+  ]
+}

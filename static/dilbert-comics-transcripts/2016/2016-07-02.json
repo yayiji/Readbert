@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is your mom. I've been monitoring your Fitbit and..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whatever you're doing, cut it out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was disturbing on many levels.",
+        "\"Mom drone\" behind you."
+      ]
+    }
+  ]
+}

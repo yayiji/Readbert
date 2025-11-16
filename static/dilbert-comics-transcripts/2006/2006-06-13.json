@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll have many benefits after our technology is irrevocably implemented in your network,"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, when one of our products stops working, we'll blame another vendor within 24 hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have free t-shirts?",
+        "Yes, they're made of the finest allergens."
+      ]
+    }
+  ]
+}

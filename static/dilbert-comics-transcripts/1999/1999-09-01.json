@@ -1,0 +1,23 @@
+{
+  "date": "1999-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm off to a meeting about your project. Is there anything I should know?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. You should know how dumb it is to have a meeting about my project without inviting me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every time I learn something it makes me unhappy."
+      ]
+    }
+  ]
+}

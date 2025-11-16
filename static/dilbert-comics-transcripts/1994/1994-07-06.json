@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... it's never good when we get mail from the benefits department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Retire now or we'll invest your entire pension in Haitian penny stocks.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you noticed a change in tone lately?",
+        "Little do they know I'm a contrarian investor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2019-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I liked what you said on the video conference call yesterday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never seen you so engaged and helpful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That wasn't me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That was \"Deep Fake Wally.\" I created him to do all of my video calls."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I hired an Elbonian to do all of my coding jobs for a very affordable price."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "These days, I only come to the office for the free coffee."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And the camaraderie?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sure."
+      ]
+    }
+  ]
+}

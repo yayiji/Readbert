@@ -1,0 +1,55 @@
+{
+  "date": "2011-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "I'm on my way to a meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Follow me.",
+        "We'll walk and talk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see how this can possibly work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You can barely concentrate when you're sitting perfectly still."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When you add the extra complexity of walking, it's like asking a squirrel to land a 747."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Must... prove underling... wrong."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bonk!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I didn't know that being right could feel so good."
+      ]
+    }
+  ]
+}

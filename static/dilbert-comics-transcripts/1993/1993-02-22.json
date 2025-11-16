@@ -1,0 +1,28 @@
+{
+  "date": "1993-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert! Ratbert!",
+        "Come quickly, I found a hole in the fabric of space!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We must look inside,",
+        "but it's too incredibly",
+        "dangerous."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thanks",
+        "No",
+        "problem."
+      ]
+    }
+  ]
+}

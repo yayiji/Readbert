@@ -1,0 +1,29 @@
+{
+  "date": "2020-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I took allergy meds last night, and now I have brain fog."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My I.Q. is about 50% of normal capacity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whoo-hoo! I'm smarter than an engineer!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not quite. I'm only down by 50%."
+      ]
+    }
+  ]
+}

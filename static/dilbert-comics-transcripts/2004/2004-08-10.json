@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you sure that our pointy-haired boss said to throw his desk off the building?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, his cell phone had a really bad connection."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you care?",
+        "Not so much."
+      ]
+    }
+  ]
+}

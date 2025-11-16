@@ -1,0 +1,24 @@
+{
+  "date": "2005-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our core values are service, integrity, respect, teamwork, responsibility, trust, diversity, value, honesty, fun, passion, fairness and excellence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How should we deal with the inherent conflicts? I mean, what if I want to be irresponsible in a fun and passionate way?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have to do all of them.",
+        "I notice that hygiene didn't make the list."
+      ]
+    }
+  ]
+}

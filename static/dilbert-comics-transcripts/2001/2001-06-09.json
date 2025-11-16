@@ -1,0 +1,28 @@
+{
+  "date": "2001-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Blah",
+        "Blah",
+        "Blah",
+        "Blah",
+        "I'm trapped in my own cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe I can gnaw off my arm to escape."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that worked?",
+        "People don't stick around when you gnaw on your arm."
+      ]
+    }
+  ]
+}

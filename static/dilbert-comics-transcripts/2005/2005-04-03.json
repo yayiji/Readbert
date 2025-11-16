@@ -1,0 +1,55 @@
+{
+  "date": "2005-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is a prototype of the product I've been developing for the past year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I modified a pair of standard noise-cancellation headphones to recognize stupidity and block it before it reaches your ears.",
+        "Duh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Put these on and you'll enjoy the total bliss that comes from avoiding the chatter of idiots."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do they work?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I said, do they work?!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does anyone have any questions?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Those are ordinary headphones, aren't they?",
+        "If you act like you can't hear, they're a prototype."
+      ]
+    }
+  ]
+}

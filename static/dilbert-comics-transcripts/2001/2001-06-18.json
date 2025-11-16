@@ -1,0 +1,25 @@
+{
+  "date": "2001-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told them you would be at the meeting on Monday morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?? That means I have to travel all day Sunday.",
+        "You're stealing my life!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then he said he'd reschedule if I had social plans.",
+        "Ouch"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I came from a distant planet to bring you advanced technology, but no one here will listen!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am a superior being, you moron!",
+        "Listen to what I tell you and then do it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I fired him before he started yammering about Linux.",
+        "Easy come, easy go."
+      ]
+    }
+  ]
+}

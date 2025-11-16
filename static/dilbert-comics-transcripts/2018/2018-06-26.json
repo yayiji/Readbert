@@ -1,0 +1,23 @@
+{
+  "date": "2018-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I reviewed your draft and deleted the stuff that was wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These pages are blank."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You asked me to be thorough."
+      ]
+    }
+  ]
+}

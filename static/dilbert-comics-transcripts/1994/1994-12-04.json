@@ -1,0 +1,58 @@
+{
+  "date": "1994-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're waiting for Ted, then we can head for the restaurant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While we're waiting, I'll return a few phone calls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's go! Hey, where's Wally?",
+        "The chain reaction has begun."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why can't we do this simple thing?",
+        "I'll be in the ladies room."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Where's Alice?",
+        "I've got to mail a letter. I'll take my car and meet you there."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can make some calls.",
+        "You're the only one who knows which restaurant we're going to!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Alice knows where it is. Tell her it's the one with the food."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Has your team finished engineering the new missile guidance chip?",
+        "I think it's time to give peace a chance."
+      ]
+    }
+  ]
+}

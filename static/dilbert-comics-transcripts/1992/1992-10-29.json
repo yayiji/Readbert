@@ -1,0 +1,25 @@
+{
+  "date": "1992-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm afraid your company is being hit by an El Niño circadian trough.",
+        "What's that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Once a decade, the natural body rhythms of all the employees reach their mental low point at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's best to avoid any form of mental activity.",
+        "Staff meeting!"
+      ]
+    }
+  ]
+}

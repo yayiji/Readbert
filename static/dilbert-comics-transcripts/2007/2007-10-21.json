@@ -1,0 +1,54 @@
+{
+  "date": "2007-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My accomplishment this week was helping Alice finish her project in a timely manner."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You didn't do anything to help me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure I did."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Remember when I came to your cubicle to ask for some data I need for my project?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You said you were too busy, and shooed me away."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I had insisted on doing my job, you would have had less time to do yours."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's called teamwork."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are we still big on that?",
+        "Must... control... fist... of death."
+      ]
+    }
+  ]
+}

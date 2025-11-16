@@ -1,0 +1,28 @@
+{
+  "date": "2001-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Six sigma consultant",
+        "The first step is to identify your problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have any problems.",
+        "What's the second step?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Must...",
+        "control",
+        "...fist.",
+        "I hope someone gives me a belt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2018-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone says you hate the new product test plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I like it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pffft.",
+        "I don't think all of those people can be wrong about what you think."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm kind of an expert on what I think.",
+        "I guess it's just your word against everyone."
+      ]
+    }
+  ]
+}

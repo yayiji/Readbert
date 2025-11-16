@@ -1,0 +1,63 @@
+{
+  "date": "1996-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mysteries revealed",
+        "How do ceiling tiles get damaged?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It begins with a lowly engineer who makes a technology decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The engineer writes up his recommendation.",
+        "Ten pages."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The boss summarizes it for the executive director.",
+        "One-page summary."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The executive director summarizes it for the vice president.",
+        "Three bullet points..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The VP summarizes it for the president.",
+        "Nice necktie.",
+        "Thanks. Have some stock options."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The president sees a CNN report and makes a technology decision.",
+        "Interactive holographs are hot!",
+        "Get me some of that!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The engineer is assigned to justify the president's technology decision.",
+        "He took that well.",
+        "Ouch"
+      ]
+    }
+  ]
+}

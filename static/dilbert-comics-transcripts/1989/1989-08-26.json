@@ -1,0 +1,24 @@
+{
+  "date": "1989-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to Einstein, time slows down as you approach the speed of light."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Didn't he also prove that time flies when you're having fun?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, if you walk slower, do you have more fun or just get more light?",
+        "Were we finished here?"
+      ]
+    }
+  ]
+}

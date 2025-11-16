@@ -1,0 +1,24 @@
+{
+  "date": "2010-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you get me some failure estimates for our next gen product?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can if you like numbers that are based on hallucinated assumptions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I kind of do.",
+        "I think we have an understanding."
+      ]
+    }
+  ]
+}

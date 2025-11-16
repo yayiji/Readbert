@@ -1,0 +1,26 @@
+{
+  "date": "1996-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Strategic alliance",
+        "These are the procedures my company uses to approve projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess a small company such as yours is used to flying by the seat of the pants.",
+        "Not necessarily."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean you're flexible?",
+        "I mean I'm not wearing pants."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2019-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm the new toxic employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sense you don't have enough problems, so I came to give you some."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha!",
+        "I'm too smart to fall for that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's what I told Dilbert, but he smirked."
+      ]
+    }
+  ]
+}

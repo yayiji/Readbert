@@ -1,0 +1,23 @@
+{
+  "date": "2022-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We hired an independent firm to investigate your whistleblower claims, and they found them baseless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you have told me their findings if they agreed with me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would we hire someone to give us the wrong answer?"
+      ]
+    }
+  ]
+}

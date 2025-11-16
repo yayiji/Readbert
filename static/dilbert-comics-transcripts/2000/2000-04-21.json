@@ -1,0 +1,24 @@
+{
+  "date": "2000-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company sadist",
+        "I forwarded your e-mail to everyone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa! That e-mail insulted half the people on our project!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's an interesting theory about why my hair is brown."
+      ]
+    }
+  ]
+}

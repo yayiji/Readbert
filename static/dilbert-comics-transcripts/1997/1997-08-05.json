@@ -1,0 +1,25 @@
+{
+  "date": "1997-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to the blueprints, your new cubicle has a support beam in it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At least I have a window view."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's 108° by the window.",
+        "But at least there's a breeze from the people who walk by and laugh.",
+        "Don't let me slow your search for someone who's interested."
+      ]
+    }
+  ]
+}

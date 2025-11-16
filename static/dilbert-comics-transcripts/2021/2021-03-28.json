@@ -1,0 +1,54 @@
+{
+  "date": "2021-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is there anything I can do to make my slide deck more persuasive?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to make an emotional connection with your audience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Start with a tragic personal story that makes everyone sad and droopy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then talk about your various medical problems, and don't spare the details."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then complain about your wife because most people hate their spouses too, so they can relate."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And don't spare the self-deprecating humor because everyone can relate to knowing you are a loser."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wow. Thank you for that advice. I'll make those changes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How much do you hate him?",
+        "It's more about my entertainment."
+      ]
+    }
+  ]
+}

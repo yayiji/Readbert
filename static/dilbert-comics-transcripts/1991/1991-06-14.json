@@ -1,0 +1,24 @@
+{
+  "date": "1991-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm discontinuing the employee drug testing program..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because my own tests keep turning out positive... which makes me suspect that some wise-guy has tampered with the medical computer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Denial and paranoia... classic symptoms.",
+        "Is he \"high\" right now?"
+      ]
+    }
+  ]
+}

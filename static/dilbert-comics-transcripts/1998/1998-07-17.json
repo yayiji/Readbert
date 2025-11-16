@@ -1,0 +1,29 @@
+{
+  "date": "1998-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is your project plan done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't do a plan until you tell me the strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My strategy is to make you do a plan."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sometimes the leadership just radiates from my body."
+      ]
+    }
+  ]
+}

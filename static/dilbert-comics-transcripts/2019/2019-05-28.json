@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you attend a meeting at 10 am tomorrow?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. Here's a list of my projects so you can tell me which one you want to fail while I'm wasting my time at your meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was there a chance one of them would succeed?",
+        "Well played."
+      ]
+    }
+  ]
+}

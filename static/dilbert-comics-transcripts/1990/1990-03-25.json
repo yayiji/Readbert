@@ -1,0 +1,55 @@
+{
+  "date": "1990-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I dream of a kinder world..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Trouble..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A world where all creatures live in peace and harmony..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Where nobody pursues retribution for some tiny little misdeed.",
+        "Big trouble."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Where bygones are bygones... forgive and forget..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Stop it! Stop it!",
+        "Please just tell me what horrible thing you've done!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You know, studies have shown that people with pets live happier, less stressful lives."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "AAAAAAAAA!!"
+      ]
+    }
+  ]
+}

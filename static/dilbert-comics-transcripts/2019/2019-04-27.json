@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The experts say our architecture is not scalable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bah! The experts are biased. I want to hear what the non-experts say."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They say we should listen to the experts.",
+        "Okay, how about the people who are neither experts nor non-experts?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you tell Asok to get our client a \"little bit pregnant\"?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, he doesn't understand all of our American sayings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what this is all about, but I'm in."
+      ]
+    }
+  ]
+}

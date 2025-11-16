@@ -1,0 +1,29 @@
+{
+  "date": "2021-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you prefer that I focus on one of my projects at the expense of all the others."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Or should I spread my attention across all of my projects and do low-quality work on all of them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your answer cannot involve magic."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can I hear the choices again?"
+      ]
+    }
+  ]
+}

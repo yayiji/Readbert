@@ -1,0 +1,27 @@
+{
+  "date": "2011-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hackers got through our firewall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Launch escape pod!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Two questions: What is a firewall? And who designed my escape pod?"
+      ]
+    }
+  ]
+}

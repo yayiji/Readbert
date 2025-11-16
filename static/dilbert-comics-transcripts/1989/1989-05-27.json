@@ -1,0 +1,24 @@
+{
+  "date": "1989-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think about this new Soviet policy of openness?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, I'm not even sure that Gorbachev exists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Guess I'm just kinda \"glasnostic.\"",
+        "I shouldn't let you drink coffee."
+      ]
+    }
+  ]
+}

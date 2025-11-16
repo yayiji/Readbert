@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As your CEO, if I have seen farther, it is only because I stood on the shoulders of giants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Plus whatever is going on over here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's sort of a non-giant situation.",
+        "And I haven't had shoulders since I was ten."
+      ]
+    }
+  ]
+}

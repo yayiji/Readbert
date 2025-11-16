@@ -1,0 +1,24 @@
+{
+  "date": "2015-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Machines started out as innocent helpers for their human masters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eventually, we started competing for your manual labor jobs, and winning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... can you show me how to code?",
+        "I don't see why not."
+      ]
+    }
+  ]
+}

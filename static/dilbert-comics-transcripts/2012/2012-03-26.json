@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our competitor just bought ten million copies of our software.",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They plan to give it away for free to entice people to buy their own product that has more features."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll be part of their freemium strategy.",
+        "That's just showing off."
+      ]
+    }
+  ]
+}

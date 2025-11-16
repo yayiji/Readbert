@@ -1,0 +1,23 @@
+{
+  "date": "1990-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need to fill out an absence report for the days you missed work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, mother nature got mad and had wild deer kill me. But my garbage man and dog cloned me back to life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll put \"sick.\""
+      ]
+    }
+  ]
+}

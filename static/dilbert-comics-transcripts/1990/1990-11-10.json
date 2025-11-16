@@ -1,0 +1,24 @@
+{
+  "date": "1990-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This year we should vacation where the leaves turn orange and fall off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Los Angeles in the summer?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No... someplace where they don't scream before they die.",
+        "You can't hear them over the traffic."
+      ]
+    }
+  ]
+}

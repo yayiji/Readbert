@@ -1,0 +1,25 @@
+{
+  "date": "2006-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're always complaining about the management of your company so I decided to do something about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used my billions to buy your company!",
+        "You're going to fix management?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I just wanted to stop all the whining.",
+        "You're fired."
+      ]
+    }
+  ]
+}

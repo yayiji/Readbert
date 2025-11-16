@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a way to double my management consulting fees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend outsourcing your job to India."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll double your fee if you never say that again.",
+        "Wag!"
+      ]
+    }
+  ]
+}

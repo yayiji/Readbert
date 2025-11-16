@@ -1,0 +1,27 @@
+{
+  "date": "2011-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government's new unemployment statistics are out.",
+        "Crumple",
+        "Crumple"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Poink!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's still a bad time to look for a job.",
+        "Yeah.",
+        "I got that."
+      ]
+    }
+  ]
+}

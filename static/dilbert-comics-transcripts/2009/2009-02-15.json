@@ -1,0 +1,54 @@
+{
+  "date": "2009-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, we'd like to transition your role in this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "During the first week, you were the lead engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Going forward, you'll be in more of an advisory role."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And by that I mean we have a restraining order against you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're not allowed within 100 yards of the conference room."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We've changed our cell phone numbers and e-mail addresses."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And we're all having reconstructive surgery so you won't recognize us in the hallway."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you accomplish anything this week?",
+        "Mary, is that you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2015-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, the key to winning at your job is the taper.",
+        "Taper?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At the start of any new job, you want to put in long hours and create a good first impression."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you should start to gradually taper off your effort."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But be sure you taper slowly. You don't want to be obvious."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wally, is it my imagination, or are you working slightly less every day?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It only looks that way because I'm working smarter, not harder, just the way you taught me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, that sounds right."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Always keep that round in the chamber.",
+        "You scare me, but in a good way."
+      ]
+    }
+  ]
+}

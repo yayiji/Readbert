@@ -1,0 +1,23 @@
+{
+  "date": "2008-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This design will never work in the real world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That design is already widely used in the real world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can come back later if you need time to concoct additional uninformed criticisms."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We discovered that the mud in Elbonia is caused by an abundance of oil and coal near the surface."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our country will be prosperous and happy forever unless we do something incredibly stupid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you building any weapons of mass destruction?",
+        "Why? Is that a problem?"
+      ]
+    }
+  ]
+}

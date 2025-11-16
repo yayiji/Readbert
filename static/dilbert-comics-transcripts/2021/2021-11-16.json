@@ -1,0 +1,30 @@
+{
+  "date": "2021-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you hear the news? You were chosen to be on the first manned flight to Mars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? I didn't even know I applied for that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a long flight, so you will be asleep for all of it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How will they put me to sleep for that long?",
+        "They asked me to give you this pill."
+      ]
+    }
+  ]
+}

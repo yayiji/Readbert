@@ -1,0 +1,25 @@
+{
+  "date": "2021-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Has anyone heard from our CEO since the pandemic started?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe the virus got him.",
+        "No.",
+        "Not me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, it looks like another lonely day of looking for the zoom button."
+      ]
+    }
+  ]
+}

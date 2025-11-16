@@ -1,0 +1,27 @@
+{
+  "date": "1994-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO cancelled his visit.",
+        "He's sending his top aid, Zimbu the monkey, in his place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't that typical?",
+        "I spent a week exaggerating my accomplishments for this.",
+        "Now he sends a stupid monkey!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What could be more humiliating than trying to suck-up to a monkey?",
+        "Failing at it?"
+      ]
+    }
+  ]
+}

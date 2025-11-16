@@ -1,0 +1,57 @@
+{
+  "date": "2022-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I forgot about this for a month, and now it is top priority."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When is it due?",
+        "Last week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then it's already too late.",
+        "Not if we hurry."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You do know that hurrying does not reverse the arrow of time, right?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If we hurry, we might be able to submit our bid after the deadline."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It sounds as if you are asking me to work day and night to finish something that is almost certainly a waste of time."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It will be fine. Trust me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's done.",
+        "You fool!",
+        "I can't submit a late bid!"
+      ]
+    }
+  ]
+}

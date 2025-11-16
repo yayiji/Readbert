@@ -1,0 +1,24 @@
+{
+  "date": "2015-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow, I had an amazing weekend at my mountain cabin.",
+        "Wine, friends, food, and amazing views!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I worked all weekend because you said you would fire me if I didn't get this done by your arbitrary deadline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're a terrible listener."
+      ]
+    }
+  ]
+}

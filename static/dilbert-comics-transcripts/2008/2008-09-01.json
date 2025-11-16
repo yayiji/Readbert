@@ -1,0 +1,24 @@
+{
+  "date": "2008-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Job interview",
+        "Would you tell me bad news even if you knew it would upset me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, I would."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would I hire someone who hates me?"
+      ]
+    }
+  ]
+}

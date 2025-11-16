@@ -1,0 +1,26 @@
+{
+  "date": "2013-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the innovation going?",
+        "Amazing.",
+        "It couldn't be better."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Right now it's all happening in my mind.",
+        "But if any of it gets out, I'll let you know."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it's fair to say I managed the bejeezus out of that situation."
+      ]
+    }
+  ]
+}

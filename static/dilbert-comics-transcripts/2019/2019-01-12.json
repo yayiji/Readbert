@@ -1,0 +1,25 @@
+{
+  "date": "2019-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you worried that the A.I. you created will take over the world?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I modeled it after human intelligence so it won't be smart enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Buwhahahaha!",
+        "I will buy lottery tickets and use my winnings to take over the world!",
+        "Good luck."
+      ]
+    }
+  ]
+}

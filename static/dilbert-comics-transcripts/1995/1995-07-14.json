@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, the next time you order my business cards, spell out my full title:",
+        "\"Director of product enhancements.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't use the acronym \"Dope.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know you were the director of product enhancements."
+      ]
+    }
+  ]
+}

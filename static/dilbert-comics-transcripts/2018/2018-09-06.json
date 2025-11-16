@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like you got a good dose of radical candor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but it came bundled with insincere kindness, so all I felt was some tingling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You look like deer scat after a forest fire.",
+        "Thank you for your candor."
+      ]
+    }
+  ]
+}

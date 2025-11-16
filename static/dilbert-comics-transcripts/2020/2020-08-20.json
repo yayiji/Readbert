@@ -1,0 +1,30 @@
+{
+  "date": "2020-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to respond to this reporter who thinks our 5G technology is dangerous."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it dangerous?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would I know?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe I should study it first.",
+        "Never mind. I'll ask someone else."
+      ]
+    }
+  ]
+}

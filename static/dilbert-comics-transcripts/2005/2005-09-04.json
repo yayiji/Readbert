@@ -1,0 +1,51 @@
+{
+  "date": "2005-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The trouble started when you insisted on giving inspirational names to the conference rooms."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I scheduled a project meeting for the \"quality\" room and no one knew where to go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some people ended up in the \"teamwork\" room while others went to the \"excellence\" room."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "By the time we sorted it all out, someone else was scheduled to use our conference room."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then it took three weeks to schedule another meeting when everyone could make it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But half of the team went to the \"action\" room and sat there while we waited for them in the \"good planning\" room."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I thought this was the budget meeting."
+      ]
+    }
+  ]
+}

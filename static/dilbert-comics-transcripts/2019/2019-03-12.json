@@ -1,0 +1,25 @@
+{
+  "date": "2019-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Marketing helps",
+        "The headphones we make are the best in the industry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our marketing campaign will focus on how they cure brain tumors and raise your IQ."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They don't do any of that.",
+        "This is exactly why we don't let engineers do marketing."
+      ]
+    }
+  ]
+}

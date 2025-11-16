@@ -1,0 +1,25 @@
+{
+  "date": "2010-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you leveraging our resources to optimize the client value stream?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm just messing with you. Nothing I say in meetings actually means anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why do you talk?",
+        "I tried listening once. It was awful."
+      ]
+    }
+  ]
+}

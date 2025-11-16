@@ -1,0 +1,25 @@
+{
+  "date": "2011-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just saw in the news that Google gave an engineer millions of dollars.",
+        "I'm underpaid!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll speak to our director of human resources and see how I can fix this situation.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can we stop news?"
+      ]
+    }
+  ]
+}

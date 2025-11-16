@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you finish the traffic estimates?",
+        "I didn't have time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I spent all week shopping on the company's online supply ordering site."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, you can't blame the guy who just uses the attractive nuisance."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've tried rewarding good performance and punishing bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But have you tried tricking employees into working hard?",
+        "No. Can you teach me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remember, hard work is its own reward.",
+        "Is it?"
+      ]
+    }
+  ]
+}

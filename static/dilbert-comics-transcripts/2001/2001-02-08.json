@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have failed to meet a goal set by our CEO."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mean the impossible goal, the ill-advised one, or the one you didn't tell me about?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I figured out what's wrong with life: it's other people."
+      ]
+    }
+  ]
+}

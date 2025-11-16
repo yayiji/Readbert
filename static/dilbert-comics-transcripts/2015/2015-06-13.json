@@ -1,0 +1,23 @@
+{
+  "date": "2015-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The health sensors you built into our smart watch prototype aren't working."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to your stupid sensors, my heart is going to stop beating in..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yay me!"
+      ]
+    }
+  ]
+}

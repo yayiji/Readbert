@@ -1,0 +1,23 @@
+{
+  "date": "2006-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll see if the errors are coming from the compiler or...uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Code red! I'm losing him! Bring the containment suit, stat!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He'll be highly productive for another hour. Then we'll notify the widow."
+      ]
+    }
+  ]
+}

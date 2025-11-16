@@ -1,0 +1,24 @@
+{
+  "date": "2011-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At Google, we're encouraged to spend 20% of our time developing our own ideas."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many hours per week do you work?",
+        "About sixty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It sounds better when you don't do the math."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2014-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have you seated next to our senior vice president at the technology awards banquet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because you hate me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it's because I hate him."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This is making me very unhappy.",
+        "Don't peak too soon.",
+        "Wait for the banquet."
+      ]
+    }
+  ]
+}

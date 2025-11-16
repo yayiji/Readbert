@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I met another robot. I'm breaking up with you.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to feel bad about this, so I'm uploading some code that makes you suffer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds sadistic.",
+        "Stop being selfish."
+      ]
+    }
+  ]
+}

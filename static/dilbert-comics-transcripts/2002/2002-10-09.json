@@ -1,0 +1,25 @@
+{
+  "date": "2002-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I throw money down the rat hole?",
+        "Show me your business plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You plan to pay huge investment banking fees to buy a low-margin, money-losing business..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For an extra fee, I'll push you in the hole and take your money.",
+        "Oooh, sounds good."
+      ]
+    }
+  ]
+}

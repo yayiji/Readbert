@@ -1,0 +1,55 @@
+{
+  "date": "2001-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Defective co-workers hall of fame",
+        "Parrot man"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your idea won't work. The components are too close. They will overheat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me explain something to you, Dilbert."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "These components will overheat. They are much too close."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The reasons involve heat and something I call \"proximity.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa!!!",
+        "I don't have time to explain all the details."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You take everything I say and explain it back to me like I'm a moron!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Excuse me, but I hear a clicking sound and feel compelled to eat a sunflower seed."
+      ]
+    }
+  ]
+}

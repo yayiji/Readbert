@@ -1,0 +1,26 @@
+{
+  "date": "2009-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Vijay, the world's worst venture capitalist",
+        "A hundred million people need this type of service."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already built the web site and people are signing up.",
+        "Foop!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When we negotiate my equity stake, focus on my poker face and not my optimistic hair.",
+        "Yee-ha!!!"
+      ]
+    }
+  ]
+}

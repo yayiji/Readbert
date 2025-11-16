@@ -1,0 +1,24 @@
+{
+  "date": "2014-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our A-B tests show that orange buttons get 13% more clicks than green."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have now officially lost all faith in human intelligence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stick with the green. It looks better.",
+        "Sure. I feel liberated from the tyranny of thinking."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2009-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my suggestions for your presentation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, I rejected them.",
+        "They aren't optional."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why do you call them suggestions?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sometimes I call things the wrong names to improve morale."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You should just say what you're thinking. I can handle the truth."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Fine. Make all of the changes I want, you ignorant hump."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And do it now while I mock you with sheep noises.",
+        "Baaaa!",
+        "Baaaa!",
+        "Baaaa!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe your first way was better.",
+        "No one will ever love you!"
+      ]
+    }
+  ]
+}

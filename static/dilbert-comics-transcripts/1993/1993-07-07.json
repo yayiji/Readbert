@@ -1,0 +1,28 @@
+{
+  "date": "1993-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're the government.",
+        "We came to confiscate your so-called \"happiness drug.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not a drug!",
+        "It's just a mixture of fruits and vegetables that makes you feel happy!",
+        "You can't outlaw good nutrition!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm... I guess that wouldn't make sense, would it?",
+        "Ignore him.",
+        "He's a new guy."
+      ]
+    }
+  ]
+}

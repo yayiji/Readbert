@@ -1,0 +1,24 @@
+{
+  "date": "2011-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There is a very simple solution to the problem that is stumping Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will gladly explain it to him after this meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're probably wrong, and yet you still made me look like an idiot.",
+        "I win!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2001-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The boyfriend project",
+        "You're making good progress."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm ready to be seen with you in public. But don't do any talking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And that's why I think there should be a Nobel prize for wrestling.",
+        "I said..."
+      ]
+    }
+  ]
+}

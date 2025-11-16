@@ -1,0 +1,23 @@
+{
+  "date": "2015-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The sales estimate looks like this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That looks like the chart you showed us yesterday about our travel budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The company is standardizing on this one chart."
+      ]
+    }
+  ]
+}

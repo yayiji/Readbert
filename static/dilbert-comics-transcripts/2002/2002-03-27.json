@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're the least expensive vendor unless your requirements change mid-project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... I'll get fired if I don't select the lowest bid, or I'll be fired later when the bills for change orders pour in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I prefer to be fired mid-project.",
+        "We offer outplacement service with every sale."
+      ]
+    }
+  ]
+}

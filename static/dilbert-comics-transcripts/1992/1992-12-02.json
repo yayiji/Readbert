@@ -1,0 +1,24 @@
+{
+  "date": "1992-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The leaders of the world met today to consider the demands of Dogbert the space alien."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All in favor of letting the alien run the world, raise your hand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Meanwhile in the translators' booth, a reckless prank is being played.",
+        "He says \"Who wants my parking space by the elevator?\""
+      ]
+    }
+  ]
+}

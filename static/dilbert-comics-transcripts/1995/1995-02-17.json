@@ -1,0 +1,27 @@
+{
+  "date": "1995-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The problem...",
+        "We're so understaffed that the project is six weeks behind schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The analysis...",
+        "I can't add people.",
+        "I can't change the due date... I can't ignore it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The result...",
+        "He wants daily status reports until the situation improves."
+      ]
+    }
+  ]
+}

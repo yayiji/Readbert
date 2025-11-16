@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like you've been beating your head against a wall in frustration."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stick your head in this garbage can to fix it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is this working?",
+        "Why wouldn't it?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2011-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So... you e-mailed our CEO and asked for funds to build a social network for our global supply chain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one wants that.",
+        "But it sounds good, so he moved all of our project funding to your dumb idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And...",
+        "you will produce nothing.",
+        "Said the engineer with no budget."
+      ]
+    }
+  ]
+}

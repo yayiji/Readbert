@@ -1,0 +1,28 @@
+{
+  "date": "1989-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're just in time to taste my new cake.",
+        "Yum"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great cake, but shouldn't it have frosting?",
+        "Mmm...",
+        "Oh no!",
+        "Frosting is very bad for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gee, I never knew that frosting was bad for me.",
+        "That's why I licked it all off."
+      ]
+    }
+  ]
+}

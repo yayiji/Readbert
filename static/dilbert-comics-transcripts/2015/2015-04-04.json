@@ -1,0 +1,24 @@
+{
+  "date": "2015-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented an app that evaluates job candidates based on their online footprint."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a guy with no friends, no hobbies, no family, and hundreds of high-quality code submissions to Github."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait, that's me.",
+        "Do you have any apps about other people?"
+      ]
+    }
+  ]
+}

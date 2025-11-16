@@ -1,0 +1,25 @@
+{
+  "date": "2016-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you both negotiate huge raises with our boss the way I did?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently, you're the only good negotiator in the department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you being racist?",
+        "I will give you $1,000 to never say that about me again."
+      ]
+    }
+  ]
+}

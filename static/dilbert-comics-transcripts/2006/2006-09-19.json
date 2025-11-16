@@ -1,0 +1,27 @@
+{
+  "date": "2006-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's communication seminar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today you will learn how to use your Blackberry while pretending to listen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now repeat after me: Uh-huh, yeah, uh-huh. What was he thinking? Wow!",
+        "Click",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, you're being temporarily transferred to the field sales organization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally we use these assignments to round somebody out for management.",
+        "But in this case I'm just yanking your chain!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're over-communicating again, sir.",
+        "Plus, I hate the manager of sales."
+      ]
+    }
+  ]
+}

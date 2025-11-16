@@ -1,0 +1,25 @@
+{
+  "date": "2021-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the crisis consultant",
+        "I'm very selective about my clients."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because clients who take my advice usually end up in jail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I only take clients I hate.",
+        "I like your folksy wisdom."
+      ]
+    }
+  ]
+}

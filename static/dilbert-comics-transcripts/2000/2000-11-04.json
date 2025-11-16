@@ -1,0 +1,26 @@
+{
+  "date": "2000-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've always been an incurable romantic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I take off my shoe?",
+        "I've got some sort of fungus that needs air."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm cured!",
+        "I like to scratch it on the table leg.",
+        "Oops. Is that you?"
+      ]
+    }
+  ]
+}

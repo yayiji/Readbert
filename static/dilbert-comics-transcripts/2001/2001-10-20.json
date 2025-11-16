@@ -1,0 +1,23 @@
+{
+  "date": "2001-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll take one more question about the layoffs... yes, you in the back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I'd appreciate it if this question didn't involve my odor, my DNA, or any comparisons to rodents, snakes or weasels."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never mind."
+      ]
+    }
+  ]
+}

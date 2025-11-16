@@ -1,0 +1,56 @@
+{
+  "date": "2019-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have bad news.",
+        "What is it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll tell you later.",
+        "Why can't you tell me now?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't want to start and then get interrupted if someone comes in the room."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How bad is the news?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's bad. Very bad."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're making me crazy. How can I relax knowing some terrible news is out there?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't tell me you have bad news if you aren't going to tell me what it is!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What did I miss?",
+        "I don't know!"
+      ]
+    }
+  ]
+}

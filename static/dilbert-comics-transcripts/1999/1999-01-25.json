@@ -1,0 +1,35 @@
+{
+  "date": "1999-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And one box of those big binder clips..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ring ring"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Timmy, untie the neighbors and do your homework"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe I'll come back later."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do not light that gasoline!"
+      ]
+    }
+  ]
+}

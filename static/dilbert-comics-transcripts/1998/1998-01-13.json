@@ -1,0 +1,25 @@
+{
+  "date": "1998-01-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will debunk your ludicrous claim of psychic ability with one hundred flips of this coin."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Call it.",
+        "Edge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is just a coincidence.",
+        "I call edge for the next 99 too."
+      ]
+    }
+  ]
+}

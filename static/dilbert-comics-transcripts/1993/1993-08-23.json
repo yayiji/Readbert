@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sending you to our plant in Elbonia.",
+        "I want you to teach them \"quality.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I selected you because you've been there and you know their language."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They speak English.",
+        "Oh, then I guess it's because I hate you."
+      ]
+    }
+  ]
+}

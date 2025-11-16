@@ -1,0 +1,26 @@
+{
+  "date": "1998-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm glad he quit.",
+        "He was such an obnoxious, useless co-worker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We had to be nice to him because we needed his cooperation.",
+        "The jerk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He should check the expiration date on his cologne!",
+        "Next time, I will not give two weeks' notice."
+      ]
+    }
+  ]
+}

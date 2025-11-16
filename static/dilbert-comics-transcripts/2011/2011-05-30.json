@@ -1,0 +1,24 @@
+{
+  "date": "2011-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't work for a boss who doesn't trust me to work independently!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is this a preemptive strike so I won't ask why you didn't turn in a project update?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And more distrust.",
+        "How do you live with yourself?"
+      ]
+    }
+  ]
+}

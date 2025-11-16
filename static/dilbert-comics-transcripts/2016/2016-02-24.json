@@ -1,0 +1,26 @@
+{
+  "date": "2016-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it important to have goals?",
+        "Yes! You need goals to succeed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good, because my goal is to become an Uber driver.",
+        "I quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is your goal?",
+        "Reducing employee turnover."
+      ]
+    }
+  ]
+}

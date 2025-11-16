@@ -1,0 +1,55 @@
+{
+  "date": "1999-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services!!",
+        "11/"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have exceeded your allocation of disk space on the server!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I sentence you to one week without e-mail."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No problem."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No problem?",
+        "How can an engineer survive without e-mail?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Up against the wall!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Where is it?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He found the modem taped to my ankle but he missed my wireless pen modem."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has authorized the purchase of standing desks for employees who want them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Literally the only good thing about this job is that I can do it while sitting down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you get to this meeting?",
+        "Your chair doesn't have wheels?"
+      ]
+    }
+  ]
+}

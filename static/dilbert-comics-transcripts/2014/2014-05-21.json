@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you read the article I forwarded about the ten things every leader should be doing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I defended your honor by writing a blog post saying you don't do any of those things and you still get paid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why doesn't this feel supportive?",
+        "That's one of life's little mysteries."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My smartest employees keep disagreeing with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which is weird because great minds usually think alike.",
+        "They must be slipping."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes I think I'm not arrogant enough."
+      ]
+    }
+  ]
+}

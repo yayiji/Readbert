@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news! I got rehired as CEO!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I checked the security videos for the day I got fired, and now I'm getting revenge on anyone who did a happy dance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I...?",
+        "Frankly, I can't tell. Do you have spasms?"
+      ]
+    }
+  ]
+}

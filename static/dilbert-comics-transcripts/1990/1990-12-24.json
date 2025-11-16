@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss is giving me my annual review today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your biggest accomplishment was the invention of automatic dentures?",
+        "They can eat while you're asleep."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This long pause could mean anything."
+      ]
+    }
+  ]
+}

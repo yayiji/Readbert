@@ -1,0 +1,23 @@
+{
+  "date": "2010-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to get some of that work-life balance I keep hearing about."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought about work all last night at home, so what do I do now?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not too late to get in on this."
+      ]
+    }
+  ]
+}

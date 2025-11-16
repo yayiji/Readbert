@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become a pop psychologist and lecturer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My theory is that you can blame all of your problems on invisible people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't sound healthy.",
+        "Don't blame me. Talk to Juan and Cindy."
+      ]
+    }
+  ]
+}

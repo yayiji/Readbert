@@ -1,0 +1,53 @@
+{
+  "date": "1992-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you interested in our diamond jewelry?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me see if I understand the concept here..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...I would give you thousands of dollars, and in return..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...you would give me a pebble you found on the ground."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "These are no ordinary pebbles. Diamonds are very rare."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Rare? That's only because you made a marketing decision to restrict the supply."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, okay, you figured us out. I'll give you a free bag of diamonds if you'll go away and keep quiet."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Great... now I'm a party to this ugly little secret."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2010-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our marketing campaign depends on word of mouth.",
+        "Unfortunately, our product is bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we found a guy with poor judgment and a huge mouth to say good things.",
+        "Present."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Marketing isn't a real thing, is it?",
+        "It's mostly guessing."
+      ]
+    }
+  ]
+}

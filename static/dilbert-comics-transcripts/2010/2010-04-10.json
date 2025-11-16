@@ -1,0 +1,26 @@
+{
+  "date": "2010-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My nose grows when my co-workers tell lies.",
+        "Does it whistle?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes, a little bit.",
+        "You're evolving into a corporate whistleblower."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are lying?",
+        "Yeah, I just wanted to see it."
+      ]
+    }
+  ]
+}

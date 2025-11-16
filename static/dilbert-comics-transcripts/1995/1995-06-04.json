@@ -1,0 +1,61 @@
+{
+  "date": "1995-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your company makes an attractive little product, Jim."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we've decided to go with a vendor whose product actually works."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fools!!! I'll crush you!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll tell your boss you made a stupid decision!! Your careers will be ruined and I'll get the contract anyway!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can't scare us!",
+        "Do you think our boss will believe a vendor over his own loyal employees?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Must... keep...",
+        "a... straight...",
+        "face..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha ha",
+        "Ha ha ha",
+        "Ha ha",
+        "Ha ha ha",
+        "Ha ha"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We'll take a million units.",
+        "Take two million and I'll see that you get nice raises."
+      ]
+    }
+  ]
+}

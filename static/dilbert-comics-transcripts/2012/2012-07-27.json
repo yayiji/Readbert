@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina gave me a great compliment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She said I punch and hate ignorance with certainty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure she didn't say you punctuate your ignorance with certainty?",
+        "I'm positive!",
+        "Hah-cha!"
+      ]
+    }
+  ]
+}

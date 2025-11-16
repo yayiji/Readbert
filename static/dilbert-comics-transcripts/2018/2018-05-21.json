@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have two people named Tina at this meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To avoid any confusion, I will be assigning them nicknames."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who did that to you?",
+        "Big Tina."
+      ]
+    }
+  ]
+}

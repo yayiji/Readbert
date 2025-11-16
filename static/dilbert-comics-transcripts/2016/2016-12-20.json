@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is the software finished as your boss promised me it would be?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I forgot to go to the pre-meeting for this meeting, so I'll guess the answer is... yes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, keep up the good work!",
+        "Thank goodness he doesn't know what the truth even looks like."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2001-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil HR director",
+        "Contractors are not allowed to breathe company air, Carl."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This air is for employees only.",
+        "You need to supply your own air."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mmb",
+        "Bmf",
+        "Rmn",
+        "Hmr!",
+        "Does anyone understand Carl?",
+        "Hey! He's using our light!"
+      ]
+    }
+  ]
+}

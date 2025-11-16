@@ -1,0 +1,23 @@
+{
+  "date": "2000-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, this is going to be a fun organization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When are you leaving?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I had no idea that a rubber chicken could hurt so much."
+      ]
+    }
+  ]
+}

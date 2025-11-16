@@ -1,0 +1,26 @@
+{
+  "date": "2008-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And I need you to design a logo for our prototype."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't do that.",
+        "We're the graphics support department.",
+        "Talk to the graphics production department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They create logos?",
+        "No, they tell people we do it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2004-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Performance review",
+        "People say you're too negative in meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Negative?",
+        "When?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "According to the marketing department, you \"poo-pooed\" a number of their ideas..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...The cold fusion scooter, perpetual motion clothes dryer, antigravity pants, MRI vending machine, and the list goes on."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Those are terrible ideas!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Negative attitude!!!",
+        "Gotcha!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, you're right.",
+        "From now on, I will support all terrible ideas.",
+        "Good."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's a tongue scraper and a frozen flagpole!",
+        "Can it be electrified?"
+      ]
+    }
+  ]
+}

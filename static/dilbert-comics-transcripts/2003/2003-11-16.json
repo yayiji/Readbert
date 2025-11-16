@@ -1,0 +1,60 @@
+{
+  "date": "2003-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm glad we work in the same department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because your performance is so bad that you'll be downsized first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're like a buffer. As long as you're still here, my job is safe."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And there's nothing you can do to change that situation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wally, do you mind giving my family a ride to church again this week?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No problem."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's nice that you joined my church even though you live an hour away."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And I wouldn't say no to those tasty bagels you always bring for the ride.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Oh... I didn't see you sneak up on me, heathen... I mean Alice."
+      ]
+    }
+  ]
+}

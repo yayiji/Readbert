@@ -1,0 +1,26 @@
+{
+  "date": "2003-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is the priority of your budget request?",
+        "Highest of the high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everyone rated their own budget needs \"highest priority.\"",
+        "It is a mockery of the priority system!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Name one thing that everyone would agree is a low priority.",
+        "Whatever you're doing."
+      ]
+    }
+  ]
+}

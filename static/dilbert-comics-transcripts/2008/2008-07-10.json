@@ -1,0 +1,25 @@
+{
+  "date": "2008-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the time management expert",
+        "I can tell by looking at you that it doesn't matter what you do with your time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't think you'll be curing cancer if I give you a few extra hours per week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In fact, it would probably increase your chances of getting it.",
+        "Are we done? I need a smoke."
+      ]
+    }
+  ]
+}

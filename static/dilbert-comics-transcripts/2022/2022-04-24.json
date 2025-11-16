@@ -1,0 +1,54 @@
+{
+  "date": "2022-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, our new human resources A.I. has found a disturbing pattern."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "One hundred percent of the projects that included you as a team member failed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's see you explain that away.",
+        "Challenge accepted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For starters, eighty percent of our projects fail no matter who is on the team."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The remaining twenty percent can be explained by my boss's lack of faith in me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He believes I am likely to fail, so he assigns me to projects that are already doomed."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And thus it can be shown that poor management created the misleading pattern your A.I. detected."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "To be honest, that was better than I expected."
+      ]
+    }
+  ]
+}

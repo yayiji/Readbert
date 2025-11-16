@@ -1,0 +1,26 @@
+{
+  "date": "1990-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you saying dinosaurs are incapable of lying?",
+        "Almost."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dawn and I taught ourselves some simple lies for survival...",
+        "We'll show you..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never been tempted to read the National Enquirer.",
+        "I only watch the news and some educational programs."
+      ]
+    }
+  ]
+}

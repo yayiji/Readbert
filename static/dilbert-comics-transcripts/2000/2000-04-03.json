@@ -1,0 +1,25 @@
+{
+  "date": "2000-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking about going out on a fake disability claim."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you think anyone will believe I'm disabled?",
+        "It's hard to believe you're not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you need a note from my doctor?",
+        "No, it's been obvious for a long time."
+      ]
+    }
+  ]
+}

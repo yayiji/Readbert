@@ -1,0 +1,54 @@
+{
+  "date": "2011-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know what would be great?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to see a matrix comparing the features of our past products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert, why don't you pull that together for our next meeting?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That would take two days and the matrix would have no practical use."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The problem here is that Ted doesn't have any skin in the game."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I propose that Ted has to bang his head on the table whenever he causes me to do extra work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That will help Ted make better decisions about the value of my time."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Never mind.",
+        "Ninja economics!"
+      ]
+    }
+  ]
+}

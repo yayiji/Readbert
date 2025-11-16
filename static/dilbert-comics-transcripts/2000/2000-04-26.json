@@ -1,0 +1,23 @@
+{
+  "date": "2000-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me your project status and I'll translate for our clients."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The project will never be completed because our idiot clients change the requirements every other day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll just say you're drunk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should offer your customers easy financing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That disguises the true cost of your products so you can price-gouge and people will thank you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much are we paying you?",
+        "Thank you!",
+        "I'm leasing my advice to you."
+      ]
+    }
+  ]
+}

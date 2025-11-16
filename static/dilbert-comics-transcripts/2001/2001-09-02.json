@@ -1,0 +1,55 @@
+{
+  "date": "2001-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, meet our new sales manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's a pigboy who makes inappropriate comments every five minutes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Somehow he slipped through our rigorous employment screening process."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Whoa! His five minutes are up.",
+        "So, Alice..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Inappropriate comment deleted."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That was very clever. Now let me try one."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Inappropriate comment deleted."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did you learn to swear like that?",
+        "I used to date a one-eyed carpenter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We think Elbonians hacked into our network.",
+        "That's unlikely."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We must respond proportionately by hacking their entire internet.",
+        "It's not much of an internet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you need to cripple it?",
+        "A plane ticket and scissors."
+      ]
+    }
+  ]
+}

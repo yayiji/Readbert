@@ -1,0 +1,23 @@
+{
+  "date": "2005-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your seat is next to mine, but I don't like to sit by people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a full flight, so I don't see how I could... oh dear..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I will not \"scooch over.\""
+      ]
+    }
+  ]
+}

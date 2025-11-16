@@ -1,0 +1,24 @@
+{
+  "date": "2003-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This apple will remind us of our core values: respect, customer service, and teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The apple's core is the part you throw away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not always. Sometimes I accidentally eat it.",
+        "Maybe the stem can represent our loyalty to the company."
+      ]
+    }
+  ]
+}

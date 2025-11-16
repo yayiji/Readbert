@@ -1,0 +1,54 @@
+{
+  "date": "2019-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My profit forecast isn't aligning with our strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try adding some variables."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What kind of variables?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The kind that make our strategy line up with our profit forecasts."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But... then my forecast would not be accurate."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's already inaccurate because no one can forecast complicated things five years ahead."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If we can't be accurate, we might as well be wrong in a way that is good for us in the near term."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You make a surprisingly robust argument for evil.",
+        "And I was barely trying!"
+      ]
+    }
+  ]
+}

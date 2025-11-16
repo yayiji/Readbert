@@ -1,0 +1,29 @@
+{
+  "date": "2022-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dave, I need to boost our company's ESG rating, so I'm promoting you to be our CTO."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know you identify as white, so that won't help our ESG scores, but would it be too much trouble to identify as gay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Depends how hard you want me to sell it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Just wear better shirts."
+      ]
+    }
+  ]
+}

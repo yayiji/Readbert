@@ -1,0 +1,25 @@
+{
+  "date": "2008-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cow supervisor",
+        "Try not to think of me as a cow who happens to be your supervisor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Think of me as your bovine overlord, the usurper of your position in the food chain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd be lying if I said that didn't make it feel kind of cool.",
+        "Say you'd die for me!"
+      ]
+    }
+  ]
+}

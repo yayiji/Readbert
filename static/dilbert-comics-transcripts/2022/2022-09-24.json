@@ -1,0 +1,25 @@
+{
+  "date": "2022-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor you plan to lay off half of the department.",
+        "Where did you hear that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! You confirmed it by not denying it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you one more chance. Will there be major layoffs?",
+        "Who told you that?"
+      ]
+    }
+  ]
+}

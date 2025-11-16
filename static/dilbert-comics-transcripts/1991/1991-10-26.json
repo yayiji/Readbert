@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have no luck."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know what they say, \"If life gives you lemons, make lemonade.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm allergic to citrus.",
+        "You know what they say, \"If life gives you lemons, swell up and die.\""
+      ]
+    }
+  ]
+}

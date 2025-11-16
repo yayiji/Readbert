@@ -1,0 +1,25 @@
+{
+  "date": "2000-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come to the VP's office with me.",
+        "You need to get some face time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What is face time?",
+        "It's very important."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And this is you asking for a raise."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1995-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new inspirational poster is so effective that I decided to carry it with me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do you think, Alice?",
+        "Are you inspired?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd really have to see the front...",
+        "Hmm... I don't think there's a win-win scenario here...",
+        "Tell me about it..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project is stalled because my nitwit hates my ogre, and my #$%! won't do any work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My ogre ate my nitwit and my #$%! is trying to blame me for it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want to borrow my nitwit?",
+        "No, I have a requisition in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1991-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I feel so awkward at these office parties."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've already walked back and forth to the hors d'oeuvres six times."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll stand close to these two and hope they include me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's not working."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll have to find somebody who is alone."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hmm... all the people standing alone look like losers."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll just say something... what have I got to lose?",
+        "Hi."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm Dilbert. What do you do for a living?",
+        "I'm your boss, idiot."
+      ]
+    }
+  ]
+}

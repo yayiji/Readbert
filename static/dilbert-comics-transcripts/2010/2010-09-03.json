@@ -1,0 +1,25 @@
+{
+  "date": "2010-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company lawyer",
+        "We should consider doing a recall on our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When it warms up, it explodes and hurls poisonous spines in every direction."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where's the director of quality assurance?",
+        "Pinned to the test lab ceiling."
+      ]
+    }
+  ]
+}

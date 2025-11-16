@@ -1,0 +1,24 @@
+{
+  "date": "2015-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know how studies always say one out of ten people have a particular problem?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm always that guy. Statistically speaking, I keep nine people safe just by existing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not how statistics work.",
+        "And... everyone else in the department knows that?"
+      ]
+    }
+  ]
+}

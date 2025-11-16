@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't show any initiative this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's your fault for creating an atmosphere of fear and distrust.",
+        "You, you, you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Note to self: increase fear."
+      ]
+    }
+  ]
+}

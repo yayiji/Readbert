@@ -1,0 +1,27 @@
+{
+  "date": "2018-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's cryogenic investment advice",
+        "We'll remove your brain and freeze it until your investments are worth a fortune."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does it hurt?",
+        "Totally painless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaaagh!",
+        "It hurts!",
+        "Oh, I thought we were talking about me."
+      ]
+    }
+  ]
+}

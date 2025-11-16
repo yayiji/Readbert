@@ -1,0 +1,23 @@
+{
+  "date": "2016-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO wants me to make a fifty-slide presentation for him that will motivate the employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! Now you know how we feel when you ask us to do ridiculous things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Anyway, I don't have time, so I need you to do it for me."
+      ]
+    }
+  ]
+}

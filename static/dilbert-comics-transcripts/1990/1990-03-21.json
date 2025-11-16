@@ -1,0 +1,26 @@
+{
+  "date": "1990-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're saying my blind date is a tad on the large side...?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm saying her family portrait was taken by \"Voyager II.\"",
+        "Funny."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd better not keep her waiting at the door.",
+        "Do not anger \"Jabba the date.\""
+      ]
+    }
+  ]
+}

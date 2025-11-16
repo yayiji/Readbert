@@ -1,0 +1,25 @@
+{
+  "date": "1997-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My invention can detect human stupidity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It has a very simple interface.",
+        "All I do is point it at people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then what does it do?",
+        "Why would it need to do anything else?"
+      ]
+    }
+  ]
+}

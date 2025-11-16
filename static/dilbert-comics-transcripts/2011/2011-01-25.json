@@ -1,0 +1,25 @@
+{
+  "date": "2011-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government announced tax incentives for new capital investments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's great. Now we can pursue marginally attractive opportunities with our overburdened staff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is he always like this?",
+        "Yes.",
+        "I'll just divert resources from our top priorities."
+      ]
+    }
+  ]
+}

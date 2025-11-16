@@ -1,0 +1,24 @@
+{
+  "date": "1996-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This metric shows an excellent trend in the number of days since the beginning of my project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That growth rate compares favorably with the best companies in our time zone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm working smarter, not harder.",
+        "It's a whole new paradigm."
+      ]
+    }
+  ]
+}

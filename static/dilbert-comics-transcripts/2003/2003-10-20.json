@@ -1,0 +1,27 @@
+{
+  "date": "2003-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who's today's guest cartoonist?",
+        "At great expense, I've just hired Nildo Orbfutz as a consultant. He will increase our productivity hereby calculating how much time is actually wasted!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, Nildo. How did you acquire your credentials? Degree in business management? H.R.? P.R.? Psychology?",
+        "On-the-job training."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me guess: You've been fired from every job you ever had... for wasting time?",
+        "Welcome to the wonderful world of consulting.",
+        "Gloop!"
+      ]
+    }
+  ]
+}

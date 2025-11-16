@@ -1,0 +1,26 @@
+{
+  "date": "1991-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm rich now, Bob.",
+        "Would you like a job as my flunky?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! Are you kidding?",
+        "I'd be honored! I've always aspired to be a flunky!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll start by tongue-washing the windows!",
+        "Who says the work ethic is dead?"
+      ]
+    }
+  ]
+}

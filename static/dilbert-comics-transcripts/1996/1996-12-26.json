@@ -1,0 +1,27 @@
+{
+  "date": "1996-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This bag contains all the mail you've sent me about my \"often flier\" status."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll trade everything in the bag for a seat upgrade.",
+        "I'm currently assigned to an overhead bin.",
+        "Okay"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whew!",
+        "Disaster has been averted.",
+        "Are you guys going to the colicky baby convention too?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news. I made a friend at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you checked his social media posts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's a monster!",
+        "That's why we check."
+      ]
+    }
+  ]
+}

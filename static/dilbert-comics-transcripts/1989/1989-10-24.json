@@ -1,0 +1,24 @@
+{
+  "date": "1989-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I should write a book."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nah... maybe I should just read a book."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll just read the TV guide...",
+        "Maybe I'll just watch whatever's on and turn into pudding..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2001-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I have a day off to move my home?",
+        "One hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?",
+        "Why only one hour?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to negotiate."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I guess I can try doing it in one hour.",
+        "And you can't use a vehicle."
+      ]
+    }
+  ]
+}

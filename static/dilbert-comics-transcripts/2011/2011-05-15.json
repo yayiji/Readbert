@@ -1,0 +1,54 @@
+{
+  "date": "2011-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you mind filling out this customer survey so we know how we're doing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have time to fill out surveys about everything I do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you're making me feel guilty about not doing it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh no! You turned a good customer experience into something ugly."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's getting all awkward and I'm looking like a big jerk in front of my date."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now I can never again eat here because I'm afraid of what you'll do to my food."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You've ruined my favorite restaurant, as well as my chance of romance with this woman."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...Favorite restaurant...",
+        "What are you doing later?"
+      ]
+    }
+  ]
+}

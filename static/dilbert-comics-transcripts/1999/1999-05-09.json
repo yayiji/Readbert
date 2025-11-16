@@ -1,0 +1,53 @@
+{
+  "date": "1999-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a few upgrades to your design, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you realize you're not an engineer?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm better! I'm a well-rounded graduate of a liberal arts college."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The broad exposure to diverse topics made me what I am today."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A modern renaissance man."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You scribbled out my timing circuit and wrote in, \"Moby Dick by Charles Dickens.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Exactly. I'll bet you didn't learn that in your engineering classes!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Poor engineers; their world is so small."
+      ]
+    }
+  ]
+}

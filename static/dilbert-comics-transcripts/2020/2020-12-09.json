@@ -1,0 +1,27 @@
+{
+  "date": "2020-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't want to sit too near your 5G phone prototype.",
+        "I worry that it will fry my eggs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't be silly.",
+        "This phone was extensively tested for safety by qualified experts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need you to test this 5G phone for safety.",
+        "It looks fine to me.",
+        "I'll email you my bill."
+      ]
+    }
+  ]
+}

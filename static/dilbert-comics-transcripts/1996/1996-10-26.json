@@ -1,0 +1,25 @@
+{
+  "date": "1996-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a manager, so I don't do actual work..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And all the decisions are made above me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carole, tell me again what I produce.",
+        "Carbon dioxide.",
+        "Our plants would need that if they weren't plastic."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2021-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They said it couldn't be done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you did it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it turns out they're usually right."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Who are \"they,\" and why am I just learning this?",
+        "You sound like me last week."
+      ]
+    }
+  ]
+}

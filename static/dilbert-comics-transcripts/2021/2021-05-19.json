@@ -1,0 +1,24 @@
+{
+  "date": "2021-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting major blowback on social media for your press release condemning Elbonian sweat-shop labor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's an important issue.",
+        "It's also how we make all of our products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, someone should have told me that."
+      ]
+    }
+  ]
+}

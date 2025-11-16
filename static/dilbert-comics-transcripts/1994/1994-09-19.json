@@ -1,0 +1,26 @@
+{
+  "date": "1994-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to the big technology show.",
+        "What do you do there?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will wade through a vast sea of mostly curly-haired guys with facial hair and glasses.",
+        "And I will look at thousands of indistinct products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's like salmon returning to its birthplace.",
+        "But without the spawning opportunities."
+      ]
+    }
+  ]
+}

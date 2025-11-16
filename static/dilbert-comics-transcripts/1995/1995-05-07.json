@@ -1,0 +1,62 @@
+{
+  "date": "1995-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The 7 habits of highly defective people",
+        "Ow!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ignore any signs of discomfort in others.",
+        "But hey, I've been doing all of the talking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Use humor to belittle people in public.",
+        "Our newest team member has movie star looks. Specifically, Lassie."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Treat all complaints as the complainer's fault.",
+        "You don't motivate me.",
+        "Maybe you should see a therapist."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Show up late and raise controversial issues.",
+        "I think we should license \"Barney\" as our mascot."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Give advice on things you don't understand.",
+        "Try writing some assembly line code here."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Use compliments to show your prejudices.",
+        "Ooh, nice crisp photocopy, Alice. I don't think a man could have done it better!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Think the comics are not about you",
+        "Hee hee! Look at the hair on that guy!"
+      ]
+    }
+  ]
+}

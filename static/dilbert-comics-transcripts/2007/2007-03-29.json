@@ -1,0 +1,25 @@
+{
+  "date": "2007-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's more to being a manager than just having an ashtray for a head.",
+        "There is?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, and I am doing a lot of research to find out what those other things are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later, at the library",
+        "This is good stuff."
+      ]
+    }
+  ]
+}

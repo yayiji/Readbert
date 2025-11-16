@@ -1,0 +1,30 @@
+{
+  "date": "2001-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice the manager",
+        "How do I cope with the emptiness of having no soul?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try doing this with your teeth while you dance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there another way?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can teach you to play air guitar."
+      ]
+    }
+  ]
+}

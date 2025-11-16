@@ -1,0 +1,53 @@
+{
+  "date": "1999-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remove that last bullet point. It's stupid.",
+        "Gasp"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yesterday you told me to add that bullet point."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So either you were wrong today or you were wrong yesterday."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Everyone come quickly! He has to admit he's wrong!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Say it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Alice heard me wrong yesterday."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It takes a big man to admit Alice is wrong.",
+        "Can you hear us, Alice?"
+      ]
+    }
+  ]
+}

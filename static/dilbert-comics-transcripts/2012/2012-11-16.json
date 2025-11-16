@@ -1,0 +1,23 @@
+{
+  "date": "2012-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm so tired today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sploosh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. I get excited when people have problems that I know how to solve."
+      ]
+    }
+  ]
+}

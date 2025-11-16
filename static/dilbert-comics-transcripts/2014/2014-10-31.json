@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you answer some questions about our product prototype?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, but I would be happy to strangle you with your own lanyard and put your corpse in my boss's escalade to frame him for the crime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That scenario is alarmingly specific.",
+        "For this sort of thing, premeditated is the way to go."
+      ]
+    }
+  ]
+}

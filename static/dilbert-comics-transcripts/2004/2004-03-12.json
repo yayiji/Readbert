@@ -1,0 +1,24 @@
+{
+  "date": "2004-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's called a 360-degree review. You get to evaluate me at no risk of retribution."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No matter what you say about me, you will only be judged on the quality of your work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes you are lazy, evil and manipulative.",
+        "The quality of your work just went way down."
+      ]
+    }
+  ]
+}

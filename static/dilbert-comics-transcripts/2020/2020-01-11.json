@@ -1,0 +1,23 @@
+{
+  "date": "2020-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new strategy is to make great products and sell them at a fair price."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What was our old strategy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd rather not say."
+      ]
+    }
+  ]
+}

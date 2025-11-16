@@ -1,0 +1,24 @@
+{
+  "date": "2006-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know what's funny? I never studied engineering and I'm your boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In fact, I majored in... um... gosh, I don't remember."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You forgot your major?",
+        "I don't bother remembering things I can write down."
+      ]
+    }
+  ]
+}

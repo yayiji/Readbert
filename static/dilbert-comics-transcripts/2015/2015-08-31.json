@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You killed ten thousand medical nanorobots by exposure to your bloodstream."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That makes you the biggest mass murderer of robots in history."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! Why is my power supply draining so rapidly?",
+        "Run."
+      ]
+    }
+  ]
+}

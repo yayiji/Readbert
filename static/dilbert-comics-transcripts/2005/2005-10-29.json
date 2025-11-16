@@ -1,0 +1,23 @@
+{
+  "date": "2005-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Research has shown that happiness is not related to one's absolute level of wealth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What matters is one's relative wealth compared to other people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, if I do a good job, could you cut this guy's pay?"
+      ]
+    }
+  ]
+}

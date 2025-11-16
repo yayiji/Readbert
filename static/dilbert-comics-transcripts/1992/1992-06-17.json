@@ -1,0 +1,24 @@
+{
+  "date": "1992-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A news crew is here to investigate your television healing scam."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Explain to our 40 million viewers where the money actually goes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I phrased that wrong.",
+        "Send those checks to Dogbert, post office box..."
+      ]
+    }
+  ]
+}

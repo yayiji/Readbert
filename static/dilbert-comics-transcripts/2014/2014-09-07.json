@@ -1,0 +1,57 @@
+{
+  "date": "2014-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I welcome any input on our corporate strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think we need to be more customer-centric."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean raise our prices?",
+        "I mean focus on the needs of our customers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You mean we should be a monopoly so they need us?",
+        "Um, no."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We should find out what they need and then give it to them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "They need to buy our products.",
+        "They probably don't."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So you're saying our marketing campaign should use psychological manipulation to make people think they need our products."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You finally had a good idea.",
+        "I'm going to stop talking now."
+      ]
+    }
+  ]
+}

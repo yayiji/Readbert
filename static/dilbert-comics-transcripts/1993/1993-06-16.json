@@ -1,0 +1,25 @@
+{
+  "date": "1993-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Many of you come to my management seminar as optimistic, creative, clear-speaking individuals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But with hard work, you can become jargon-spewing corporate zombies, like Carl here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want to dialogue with you about utilizing resources.",
+        "Good boy!",
+        "Here's a donut."
+      ]
+    }
+  ]
+}

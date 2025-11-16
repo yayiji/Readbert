@@ -1,0 +1,25 @@
+{
+  "date": "1994-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How foolish of you to host the all-day staff meeting at your house."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's form sub-teams to be more efficient. Ted will do accidental spills. Alice, you critique the decor. I'll be a floater."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Kitchen, shoddily done...",
+        "I spilled mayonnaise on the wall.",
+        "Where's the bathroom?"
+      ]
+    }
+  ]
+}

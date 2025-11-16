@@ -1,0 +1,43 @@
+{
+  "date": "1989-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new security system is now installed.",
+        "Tap",
+        "Tap"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How's it work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I buried a giant spring under the welcome mat to catapult any undesirables into the Wilsey's pool three blocks from here."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You just tap that little button on the floor there..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Time stands still as Dogbert ponders the gift that fate has given him."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm pretty sure the look on his face will be worth whatever minor guilt I feel over this."
+      ]
+    }
+  ]
+}

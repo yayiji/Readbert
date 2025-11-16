@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got feedback on the proposed package design."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our VP of sales says if we go with this design, he will \"jump off the roof.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is he crazy or just good at selling?",
+        "No way to tell."
+      ]
+    }
+  ]
+}

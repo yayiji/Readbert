@@ -1,0 +1,23 @@
+{
+  "date": "2011-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your annual skip-level meeting with my boss is next week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything you say about me is confidential."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But just to be on the safe side, I scheduled my retribution for every day of the following year."
+      ]
+    }
+  ]
+}

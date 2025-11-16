@@ -1,0 +1,29 @@
+{
+  "date": "1995-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our goal is to write bug-free software.",
+        "I'll pay a ten-dollar bonus for every bug you find and fix."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yahoo!",
+        "We're rich",
+        "Yes!!!",
+        "Yes!!!",
+        "Yes!!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope this drives the right behavior.",
+        "I'm gonna write me a new minivan this afternoon!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2006-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Google headquarters",
+        "Isn't it a little bit evil to kill Dilbert with our death ray?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good point... What if I just blast the space station out of orbit and make it land on his house?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bet you ten billion dollars you can't.",
+        "And the loser has to introduce himself as \"the dumb one.\""
+      ]
+    }
+  ]
+}

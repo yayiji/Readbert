@@ -1,0 +1,25 @@
+{
+  "date": "2009-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert works in collections",
+        "Please listen while I read this threatening script."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have hidden poisonous spiders in your home. If you pay us now by credit card I will give you the antidote."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, fine.",
+        "But if you feel a tickle on your leg, give me a call."
+      ]
+    }
+  ]
+}

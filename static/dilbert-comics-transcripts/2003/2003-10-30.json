@@ -1,0 +1,26 @@
+{
+  "date": "2003-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I e-mailed you the expense breakdown.",
+        "I need you to fix the format and send it out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will now read your mind to get the unspoken, ever-shifting preferences for the format."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see nothing but emptiness...",
+        "The abyss...",
+        "Add a chart."
+      ]
+    }
+  ]
+}

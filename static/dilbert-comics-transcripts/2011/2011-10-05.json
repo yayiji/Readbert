@@ -1,0 +1,23 @@
+{
+  "date": "2011-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations, Asok. I'm naming you employee of the month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your month is October 1929."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Room to grow."
+      ]
+    }
+  ]
+}

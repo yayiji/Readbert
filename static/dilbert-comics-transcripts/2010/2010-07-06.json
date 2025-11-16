@@ -1,0 +1,23 @@
+{
+  "date": "2010-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whenever my browser asks me if I want to install a toolbar, I'm afraid to say no."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now my browser window is only one inch tall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you see anything important on the internet, could you write it down for me?"
+      ]
+    }
+  ]
+}

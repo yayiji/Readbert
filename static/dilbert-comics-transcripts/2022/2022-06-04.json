@@ -1,0 +1,23 @@
+{
+  "date": "2022-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company plans to sell a pill that killed half of the volunteers in the clinical trial!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My anxiety is through the roof! I don't know how to slow down my pulse!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try your new pill."
+      ]
+    }
+  ]
+}

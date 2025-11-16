@@ -1,0 +1,51 @@
+{
+  "date": "2013-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good manager leads by example."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How does it help an engineer to see an example of how to be a middle manager?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's like teaching physics by showing examples of monster truck rallies."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Should we say dumb things, too, or have you not started leading by example yet?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now what is he doing? Are we supposed to do that?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think he's leading by example now!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm starting to wonder if everything I read on the internet is wrong."
+      ]
+    }
+  ]
+}

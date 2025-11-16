@@ -1,0 +1,26 @@
+{
+  "date": "2023-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your last job was at Twitter...",
+        "Until Elon Musk bought it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for someone who can lie to the public about our services.",
+        "Do you think you can do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You insult me, sir.",
+        "Of course I can do that."
+      ]
+    }
+  ]
+}

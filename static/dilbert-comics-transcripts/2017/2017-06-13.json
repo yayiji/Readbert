@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any advice for my presentation to the CEO?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. If you make one small mistake, your career will be finished."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You just made me nervous and thus doubled my risk of failure.",
+        "I'm not the one who brought it up."
+      ]
+    }
+  ]
+}

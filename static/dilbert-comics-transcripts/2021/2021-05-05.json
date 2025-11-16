@@ -1,0 +1,25 @@
+{
+  "date": "2021-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Dick, your workplace nemesis.",
+        "I know who you are."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People are saying terrible things about you behind your back, but I can't tell you who they are or what they are saying."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What is the point of telling me that?",
+        "Have I mentioned I feed on your pain?"
+      ]
+    }
+  ]
+}

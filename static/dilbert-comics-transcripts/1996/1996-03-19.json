@@ -1,0 +1,24 @@
+{
+  "date": "1996-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As an intern, your assignments won't be as glamorous as mine, but you'll gain experience."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, I need a status report on the mouse pad inventory."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "See? My assignment has the word \"status\" built right in.",
+        "Danger! Alert!"
+      ]
+    }
+  ]
+}

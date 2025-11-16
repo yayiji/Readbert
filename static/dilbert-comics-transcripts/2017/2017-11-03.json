@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe we should remove the neural interface so his natural brain works again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or... and this is just a thought – we could create an app that makes him jump off the roof."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that be murder or suicide?",
+        "All we need is reasonable doubt."
+      ]
+    }
+  ]
+}

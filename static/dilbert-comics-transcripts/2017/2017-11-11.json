@@ -1,0 +1,25 @@
+{
+  "date": "2017-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to present your stealth clothing prototype to our board."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you sure?",
+        "Of course I'm sure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought we were trying to make the person invisible.",
+        "Then why is it called stealth \"clothing\"?"
+      ]
+    }
+  ]
+}

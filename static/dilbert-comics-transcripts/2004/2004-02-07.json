@@ -1,0 +1,23 @@
+{
+  "date": "2004-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I want you to train Ned to do everything you do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry that it will make you redundant and more easily down-sizeable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to start each day by sending threatening e-mail to the board of directors."
+      ]
+    }
+  ]
+}

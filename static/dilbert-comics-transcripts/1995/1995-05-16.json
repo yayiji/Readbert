@@ -1,0 +1,24 @@
+{
+  "date": "1995-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I could give you marketing's approval right now..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or I could flex my vice presidential power and send you to gather more useless data... my ego would expand and I'd be a major stallion with my wife tonight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think you can top that?",
+        "I'll try, sir. What's your wife's address?"
+      ]
+    }
+  ]
+}

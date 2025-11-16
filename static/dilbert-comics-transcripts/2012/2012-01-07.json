@@ -1,0 +1,23 @@
+{
+  "date": "2012-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project management framework embodies a project life cycle and five major project management process groups."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh no! The extreme level of abstraction has made us weightless!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't even make sense."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm toying with the idea of becoming a useful member of society."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I could enjoy the admiration and respect of my peers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The way you respect and admire me?",
+        "Great!",
+        "Now you've talked me out of it!"
+      ]
+    }
+  ]
+}

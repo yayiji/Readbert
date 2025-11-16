@@ -1,0 +1,24 @@
+{
+  "date": "2009-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've made a number of inaccurate statements during the course of this date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to break the romantic mood, so I'll send you an e-mail with links that you can review on your own time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It sounds like you two are over.",
+        "Would it hurt my tip if I take a run at her?"
+      ]
+    }
+  ]
+}

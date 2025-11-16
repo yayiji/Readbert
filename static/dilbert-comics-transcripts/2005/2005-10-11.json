@@ -1,0 +1,25 @@
+{
+  "date": "2005-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina writes the annual report.",
+        "All trends are positive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Footnote 5: Unless you consider our crushing debt, moronic management, and aging product line."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What font is this? It's so tiny.",
+        "Enron Beelzebub."
+      ]
+    }
+  ]
+}

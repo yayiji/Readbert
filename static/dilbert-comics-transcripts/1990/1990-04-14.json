@@ -1,0 +1,23 @@
+{
+  "date": "1990-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, a lucky penny in the street..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Splooosh"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A penny doesn't go as far as it used to."
+      ]
+    }
+  ]
+}

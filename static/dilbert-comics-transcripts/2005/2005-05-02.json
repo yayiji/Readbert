@@ -1,0 +1,26 @@
+{
+  "date": "2005-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, we're low on space. You'll have to share your cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is outrageous!",
+        "I will fight this all the way to the board of directors!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hola.",
+        "My name is Lola.",
+        "But then I remembered the importance of teamwork."
+      ]
+    }
+  ]
+}

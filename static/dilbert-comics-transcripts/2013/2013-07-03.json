@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The media is saying I'm overpaid compared to other CEOs.",
+        "That's crazy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do a benchmark study of executive pay, including the Sultan of Brunei, Larry Ellison, and God."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Make sure my pay ends up somewhere in the middle so it doesn't look suspicious."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2018-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can I help you on your project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll send you my files and you can do all of my work while I criticize you behind your back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there another option?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, it involves telling your boss you're worthless."
+      ]
+    }
+  ]
+}

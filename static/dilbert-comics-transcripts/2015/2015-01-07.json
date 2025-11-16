@@ -1,0 +1,26 @@
+{
+  "date": "2015-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tube clothes!",
+        "I invented that style!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did it reduce the number of decisions you need to make every day?",
+        "I'm just a guy wrapped in a carpet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, I thought you were like me.",
+        "I don't have to take these insults."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2000-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is that what you wanted?",
+        "I'm not saying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I tell you it's good, you'll rub it in my face at your performance review."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry.",
+        "See how you are?"
+      ]
+    }
+  ]
+}

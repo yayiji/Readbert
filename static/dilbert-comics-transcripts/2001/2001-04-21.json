@@ -1,0 +1,24 @@
+{
+  "date": "2001-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I must keep in mind our company's core values of trust, integrity and teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I borrow your chair?",
+        "Okay"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you selling on E-Bay?"
+      ]
+    }
+  ]
+}

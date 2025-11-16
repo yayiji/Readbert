@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you got arrested for killing the creator of Garfield's body double."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Almost. They arrested my body double."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you have a body double?",
+        "It's for situations like this."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1999-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I sold my internet business and married Roxie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't worry about my money. Roxie insisted that we sign prenuptial agreements."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now for our honeymoon.",
+        "Whoa! That's not in our agreement.",
+        "He didn't read it."
+      ]
+    }
+  ]
+}

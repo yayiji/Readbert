@@ -1,0 +1,25 @@
+{
+  "date": "2020-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our pointy-haired boss isn't returning my messages. Do you think he plans to fire me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No.",
+        "Phew! Good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're just totally unimportant to him.",
+        "Yes! That's where I want to be!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2016-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late.",
+        "Traffic was terrible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't the traffic from your house always terrible at this time of day?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Exactly! That's why I'm late every day."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do you see any way you could fix that?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't control the traffic."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You could leave earlier."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then I wouldn't get enough sleep."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You could go to bed earlier."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Then I wouldn't have time to watch Netflix until two in the morning."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Do you want me to hate my life?"
+      ]
+    },
+    {
+      "panel": 11,
+      "dialogue": [
+        "I didn't until now."
+      ]
+    }
+  ]
+}

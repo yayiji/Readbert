@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How about we meet at lunchtime?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that's when I eat my lunch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about we meet over dinner?",
+        "No, and before you ask about breakfast..."
+      ]
+    }
+  ]
+}

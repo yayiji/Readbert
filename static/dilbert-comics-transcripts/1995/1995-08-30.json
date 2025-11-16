@@ -1,0 +1,28 @@
+{
+  "date": "1995-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert tweaks Tina the brittle tech writer.",
+        "What do you think of the movie \"Thelma and Louise\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know what you're trying to say.",
+        "You think all women are bad drivers.",
+        "That's really the point of the movie, isn't it??"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you're not offended yet, tune in tomorrow.",
+        "The \"Three Stooges\"?",
+        "Why are all of the documentaries about men??!"
+      ]
+    }
+  ]
+}

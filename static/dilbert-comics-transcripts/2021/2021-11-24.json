@@ -1,0 +1,25 @@
+{
+  "date": "2021-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like we are out of time.",
+        "Thanks for joining me for the full ninety minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Seventy-five of which involved trying to make the audio and video work for our remote attendees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least we got in fifteen minutes of quality time.",
+        "I wish I hadn't slept through that part."
+      ]
+    }
+  ]
+}

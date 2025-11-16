@@ -1,0 +1,28 @@
+{
+  "date": "1995-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found software that helps managers write performance evaluations!",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's made by the same company that makes fortune cookies for Canada!",
+        "That makes me feel better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next day",
+        "\"Don't buy a new car.\"",
+        "I didn't think you knew how to use a PC.",
+        "My secretary wrote these"
+      ]
+    }
+  ]
+}

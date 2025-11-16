@@ -1,0 +1,23 @@
+{
+  "date": "2001-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I need you to fill in for our receptionist today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember, you will be the face of our company, the first impression for visitors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If anyone offers you food, don't eat it."
+      ]
+    }
+  ]
+}

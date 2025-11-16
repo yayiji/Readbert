@@ -1,0 +1,24 @@
+{
+  "date": "2008-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Andy has been appointed our director of green."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Director of green?",
+        "How do you get a job like that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You start by being the director of something else and screwing it up."
+      ]
+    }
+  ]
+}

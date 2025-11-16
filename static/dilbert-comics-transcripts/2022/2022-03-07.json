@@ -1,0 +1,32 @@
+{
+  "date": "2022-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Remember, managers can only hear the first twelve words you speak. After that, they drift off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you need to be brief, yet 100% complete, or your career is toast."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The pressure is killing me!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I...",
+        "I...",
+        "I...",
+        "You have nine words left."
+      ]
+    }
+  ]
+}

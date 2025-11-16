@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've decided to write off 47 billion dollars in bad loans."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You might think this is my fault, but in actuality it is all caused by poor regulatory oversight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who is in favor of those guys taking a big pay cut?",
+        "Anyone?"
+      ]
+    }
+  ]
+}

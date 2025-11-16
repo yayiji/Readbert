@@ -1,0 +1,29 @@
+{
+  "date": "2021-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our remote workers have been on strike for two months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're picketing their own homes and blocking their own driveways."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are they demanding?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We don't know. We think they emailed an old address."
+      ]
+    }
+  ]
+}

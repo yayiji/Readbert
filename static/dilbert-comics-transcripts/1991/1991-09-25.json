@@ -1,0 +1,26 @@
+{
+  "date": "1991-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I borrow your pen for a minute?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Farewell, little friend. You have always been true.",
+        "May the wind be at your back. I...",
+        "I... love you..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... could I borrow one which you've had less of a personal relationship with?",
+        "How about Brenda?"
+      ]
+    }
+  ]
+}

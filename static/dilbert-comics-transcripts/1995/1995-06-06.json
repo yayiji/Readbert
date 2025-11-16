@@ -1,0 +1,25 @@
+{
+  "date": "1995-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired renowned psychologist Dogbert to help us achieve peak performance in teamwork."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Peak performance is somewhat relative.",
+        "You're a highly dysfunctional team, so we must set realistic goals."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would be a realistic goal for us?",
+        "I think I can postpone cannibalism."
+      ]
+    }
+  ]
+}

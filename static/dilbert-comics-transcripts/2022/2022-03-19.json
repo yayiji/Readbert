@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Phil, the prince of insufficient light and the ruler of heck."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hear you're giving a technology demo today, and I came to make it fail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is highly irregular.",
+        "Is this cable important for anything?"
+      ]
+    }
+  ]
+}

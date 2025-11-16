@@ -1,0 +1,55 @@
+{
+  "date": "2004-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our director of marketing will give us an update."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We spent our entire marketing budget buying a racehorse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We named the horse after our flagship product because they're both fast.",
+        "Get it?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Unfortunately we didn't have enough budget for a top thoroughbred."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our horse broke its leg walking to the starting gate, so we shot it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Next year we plan to sponsor a sailboat."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Anyway... your lunch today is brought to you by the marketing department.",
+        "Enjoy!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hey, my roast beef sandwich has a piece of lead in it."
+      ]
+    }
+  ]
+}

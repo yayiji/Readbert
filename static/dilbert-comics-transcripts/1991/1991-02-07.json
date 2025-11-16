@@ -1,0 +1,24 @@
+{
+  "date": "1991-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking of quitting and becoming an entrepreneur."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want to experience life on the edge, full of risk and challenge and adventure!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The company stops paying you if you quit.",
+        "Oh, then never mind."
+      ]
+    }
+  ]
+}

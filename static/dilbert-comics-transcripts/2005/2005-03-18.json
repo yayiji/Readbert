@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The conference call was a huge success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Three out of 15 people were available and only one of them forgot to call in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So it was a phone call between two people?",
+        "It would have been if they hadn't used the mute buttons."
+      ]
+    }
+  ]
+}

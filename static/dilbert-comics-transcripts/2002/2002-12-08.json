@@ -1,0 +1,53 @@
+{
+  "date": "2002-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My vacation was great!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The sunsets were beautiful. The food was amazing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Descriptions of your vacation serve no purpose."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can neither see the sunsets nor taste the food."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It appears to be a selfish attempt to trigger happy memories for your-self at my expense."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, buster! When my seven rolls of film get developed..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're out of the loop!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That worked out better than I hoped."
+      ]
+    }
+  ]
+}

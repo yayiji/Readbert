@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everything you said is right, but I have a reflexive urge to disagree with you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you don't mind, I'm going to make a ridiculous counter-point just to get it out of my system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, but don't be creepy about it.",
+        "Software can't be changed.",
+        "Ahhh... that's good."
+      ]
+    }
+  ]
+}

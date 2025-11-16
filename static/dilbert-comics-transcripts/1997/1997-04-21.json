@@ -1,0 +1,24 @@
+{
+  "date": "1997-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My study shows that the companies with \"family friendly\" policies have higher profits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Do family policies cause high profits or do high profits simply camouflage the true costs of the policies?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll take a five-minute break so the married people can slap you for asking that.",
+        "Ouch!"
+      ]
+    }
+  ]
+}

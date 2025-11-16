@@ -1,0 +1,25 @@
+{
+  "date": "2021-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Activists are accusing us of padding our customer list with the names of dead people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a lie.",
+        "Those customers were alive when they bought our products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did they die while using them?",
+        "Let's hope the activists don't ask that question."
+      ]
+    }
+  ]
+}

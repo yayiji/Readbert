@@ -1,0 +1,24 @@
+{
+  "date": "1996-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your résumé looks good, but we could only pay half of what you're making now. Are you interested?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... you're looking for a brilliant engineer who is actively seeking a pay cut?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, you have to consider the many intangibles.",
+        "Such as my savings account if I worked here?"
+      ]
+    }
+  ]
+}

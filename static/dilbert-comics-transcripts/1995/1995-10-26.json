@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally and I have a bet about why you assigned me to the same task as three other people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I believe it's a clever ploy to create healthy internal competition.",
+        "Wally thinks you're just dumber than the average cauliflower."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I point out that cauliflower is the brain of the fruit kingdom.",
+        "Yes!"
+      ]
+    }
+  ]
+}

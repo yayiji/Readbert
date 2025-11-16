@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Um...how was your meeting with my boss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We each told our favorite stories about you. Then we laughed and laughed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He has stories about me?",
+        "He thought they were urban legends."
+      ]
+    }
+  ]
+}

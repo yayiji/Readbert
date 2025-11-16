@@ -1,0 +1,26 @@
+{
+  "date": "2004-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's that thing?",
+        "It's my son. He couldn't go to school today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Traylor, go shake hands with the pointy-haired man."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What does he have?",
+        "I don't think it has a name yet.",
+        "Chomp"
+      ]
+    }
+  ]
+}

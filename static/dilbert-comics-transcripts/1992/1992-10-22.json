@@ -1,0 +1,25 @@
+{
+  "date": "1992-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Attention, all patients!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have turbocharged the x-ray machine and aimed it at the waiting room.",
+        "Everybody close your eyes for five minutes then leave.",
+        "Your diagnoses will arrive by mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was a stroke of genius to schedule all of the hypochondriacs for the same hour."
+      ]
+    }
+  ]
+}

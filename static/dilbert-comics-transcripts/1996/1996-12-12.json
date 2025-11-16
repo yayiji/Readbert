@@ -1,0 +1,26 @@
+{
+  "date": "1996-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm flattered. But I can't date you because we're different religions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm flexible.",
+        "I'd change my religion to get a date.",
+        "It wouldn't work in this case."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you know there's a whole religion based on not dating me?",
+        "Where do you think I go every Sunday?"
+      ]
+    }
+  ]
+}

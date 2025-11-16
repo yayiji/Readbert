@@ -1,0 +1,25 @@
+{
+  "date": "2015-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to become a product designer because I hate people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will fill every package with styrofoam debris and affix hard-to-remove stickers all over the cases."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll make the buttons invisible by making them black on a black surface.",
+        "Ha ha ha!",
+        "I've always wondered how this stuff happens."
+      ]
+    }
+  ]
+}

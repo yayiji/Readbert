@@ -1,0 +1,31 @@
+{
+  "date": "2013-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government wants access to our customer records so they can look for terrorists."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fine.",
+        "No problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They also want you to get a colonoscopy and send them the video."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Really?",
+        "I'm going to say yes."
+      ]
+    }
+  ]
+}

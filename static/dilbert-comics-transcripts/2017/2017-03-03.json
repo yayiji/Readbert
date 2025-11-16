@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm getting reports that you have offended every single employee in this company in the past week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have I offended you?",
+        "No, I'm not a sensitive idiot like the rest of them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that mean the problem is on their end?",
+        "That doesn't matter as much as you think it should."
+      ]
+    }
+  ]
+}

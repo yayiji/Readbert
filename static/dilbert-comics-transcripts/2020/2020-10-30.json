@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, I knew this would happen sooner or later."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're an example of code reuse, which proves this reality is a software simulation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technically, that's not a \"proof.\"",
+        "Hello, me!"
+      ]
+    }
+  ]
+}

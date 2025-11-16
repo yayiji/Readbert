@@ -1,0 +1,23 @@
+{
+  "date": "2018-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project stalled because all of our meeting rooms have been reserved by managers just in case they need them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My current plan for success is to wait until one of you dies so we can use your meeting room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's not do project status reports anymore."
+      ]
+    }
+  ]
+}

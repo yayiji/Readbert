@@ -1,0 +1,53 @@
+{
+  "date": "2013-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's your surgeon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He says he might have left something inside you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?! A sponge? A scalpel?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No... his watch."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And... his car keys... and wallet."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "He says he used your torso to store his valuables while he went for a run."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Meow!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll ask about that."
+      ]
+    }
+  ]
+}

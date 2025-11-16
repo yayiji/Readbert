@@ -1,0 +1,25 @@
+{
+  "date": "2008-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's too hard to keep everyone informed about everything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've decided to take you out of the loop.",
+        "Really??"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I know what fathers mean when they talk about witnessing the birth of their children.",
+        "Lucky!"
+      ]
+    }
+  ]
+}

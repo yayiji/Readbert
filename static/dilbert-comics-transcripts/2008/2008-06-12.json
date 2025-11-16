@@ -1,0 +1,25 @@
+{
+  "date": "2008-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the media trainer",
+        "Let's try a mock interview to see how you respond under pressure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you a stinking weasel trying to pass as human? !!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What gave it away?",
+        "Honestly, it was a lucky guess."
+      ]
+    }
+  ]
+}

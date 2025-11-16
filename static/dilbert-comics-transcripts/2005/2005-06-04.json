@@ -1,0 +1,23 @@
+{
+  "date": "2005-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you doing? Holding up the wall?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zing! That was a good one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you met the new structural engineer?"
+      ]
+    }
+  ]
+}

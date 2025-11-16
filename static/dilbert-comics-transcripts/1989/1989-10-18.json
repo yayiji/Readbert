@@ -1,0 +1,27 @@
+{
+  "date": "1989-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who are you writing to?",
+        "My uncle Max, the policeman."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't write to a cop on regular size paper!",
+        "You have to use legal size paper!",
+        "Don't panic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I get it-- he looks the other way for family members.",
+        "I send a bribe."
+      ]
+    }
+  ]
+}

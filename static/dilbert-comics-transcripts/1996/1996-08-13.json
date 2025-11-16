@@ -1,0 +1,24 @@
+{
+  "date": "1996-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't do \"layoffs\" at this company. But you have been selected to participate in our mobility pool!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As the name implies, you get to scurry around trying to find a nonexistent internal job before the ax falls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's this different from a layoff?",
+        "With layoffs you get to keep your dignity."
+      ]
+    }
+  ]
+}

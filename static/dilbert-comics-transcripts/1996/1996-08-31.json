@@ -1,0 +1,26 @@
+{
+  "date": "1996-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're becoming an annoying person who misinterprets everything.",
+        "Yes, I'm more assertive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I said annoying, not assertive.",
+        "Apology accepted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whatever you do, don't climb in this clothes dryer.",
+        "Yeah, it does look cozy in there."
+      ]
+    }
+  ]
+}

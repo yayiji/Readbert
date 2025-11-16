@@ -1,0 +1,24 @@
+{
+  "date": "2010-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our project plan is so complicated that failure is assured."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But complexity is too abstract for you to manage, so instead you will spray my energy into the vortex of failure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Go.",
+        "I need you to finish it six weeks sooner for a trade show."
+      ]
+    }
+  ]
+}

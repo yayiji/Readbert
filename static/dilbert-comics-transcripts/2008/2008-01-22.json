@@ -1,0 +1,23 @@
+{
+  "date": "2008-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our vendor sent us a consultant to help configure the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can tell how important we are by looking at the consultant they assigned to us."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The word that comes to mind is doohickey."
+      ]
+    }
+  ]
+}

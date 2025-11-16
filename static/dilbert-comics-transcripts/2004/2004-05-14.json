@@ -1,0 +1,24 @@
+{
+  "date": "2004-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your approval on the new safety manual."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! Sharp edges!!! Gaaa!!! It grabbed my hand!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Chapter one: Wear protective gloves and safety goggles at all times.",
+        "Aaaaiieee!!!"
+      ]
+    }
+  ]
+}

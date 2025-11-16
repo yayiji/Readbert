@@ -1,0 +1,24 @@
+{
+  "date": "1993-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It used to bother me that the air was getting polluted and unbreathable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I realized that rats are hardier than humans - so we'll get all your stuff after you wheeze your last breath!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I'll go for a walk.",
+        "Hey! Why not drive?"
+      ]
+    }
+  ]
+}

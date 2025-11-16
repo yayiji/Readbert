@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you build it, they will come",
+        "A voice..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you build it, they will come",
+        "Okay, but build what?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll have to get back to you... I didn't think this would work."
+      ]
+    }
+  ]
+}

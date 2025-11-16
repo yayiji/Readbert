@@ -1,0 +1,24 @@
+{
+  "date": "1990-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes?",
+        "Mr. Dogbert, I have bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It appears that Dilbert was hunted down and killed by wild deer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We think it was a professional job; they didn't leave fingerprints."
+      ]
+    }
+  ]
+}

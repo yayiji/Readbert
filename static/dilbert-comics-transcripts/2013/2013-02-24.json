@@ -1,0 +1,58 @@
+{
+  "date": "2013-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you coming to the code mocking?",
+        "The what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Code mocking is an engineering tradition. It happens whenever a software project is handed to a new engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The new engineer is required to mock the previous engineer's work in a public way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We spectators get to vote on whether the old code is killed or spared."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ha ha! His code is hilariously inefficient!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ouch.",
+        "Chest pain.",
+        "Kill it!",
+        "Kill it!",
+        "Kill it!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! The code is offending my engineering sensibilities! It's killing me!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I forgot to mention that sometimes the code wins."
+      ]
+    }
+  ]
+}

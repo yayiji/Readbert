@@ -1,0 +1,23 @@
+{
+  "date": "1991-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the Dogbert lecture series on guilt."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the next hour, you will learn how to cope with guilt the Dogbert way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if you don't, well, it turns out I get paid anyway."
+      ]
+    }
+  ]
+}

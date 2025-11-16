@@ -1,0 +1,26 @@
+{
+  "date": "1993-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert talks to a class about career options.",
+        "The goal of every engineer is to retire without getting blamed for a major catastrophe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Engineers prefer to work as \"consultants\" on project teams.",
+        "That way there's no real work, blame is spread across the group, and you can crush any idea from marketing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "..And sometimes you get free donuts just for showing up!",
+        "Get out of my classroom."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2010-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, would you...?",
+        "No. I'm doing something important for the brand integration manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe after that you could...",
+        "Then I'm doing a rush job for the director of sustainability."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are those even real people?",
+        "Welcome to matrix management, Neo."
+      ]
+    }
+  ]
+}

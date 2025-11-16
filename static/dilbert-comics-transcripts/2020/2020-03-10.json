@@ -1,0 +1,24 @@
+{
+  "date": "2020-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They say you can't take your money with you when you die."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But does that include Bitcoin? Because even a ghost can remember a password."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would a ghost need money?",
+        "Have you never noticed they all wear clothes?"
+      ]
+    }
+  ]
+}

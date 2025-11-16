@@ -1,0 +1,23 @@
+{
+  "date": "2005-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, where are the quality estimates that I asked you for an hour ago?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's between your left arm and your stout torso, about elbow-high."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stupid elbow."
+      ]
+    }
+  ]
+}

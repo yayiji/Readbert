@@ -1,0 +1,24 @@
+{
+  "date": "2000-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did the analysis using your bad assumptions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I applied your flawed logic and arrived at your predetermined answer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shall I begin disillusioning the team?",
+        "This needs a pie chart."
+      ]
+    }
+  ]
+}

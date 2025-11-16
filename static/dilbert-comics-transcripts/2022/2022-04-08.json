@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I take this training class?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, my plan is to let your skills atrophy so I have a reason to fire you and hire a cheaper engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you see any flaws in my plan?",
+        "Only an elevated risk of employee sabotage."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2011-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't wait to finish this mind-numbing task."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I can start another mind-numbing task."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I really need to stop thinking."
+      ]
+    }
+  ]
+}

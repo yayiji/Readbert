@@ -1,0 +1,25 @@
+{
+  "date": "1993-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you know, all projects are assigned acronyms.",
+        "Unfortunately, all the good ones have been used."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Any new project will have to use an acronym from this short list of somewhat less desirable choices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should I call my new project?",
+        "Well, you could use \"phlegm\" or \"placenta.\""
+      ]
+    }
+  ]
+}

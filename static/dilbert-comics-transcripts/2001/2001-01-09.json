@@ -1,0 +1,26 @@
+{
+  "date": "2001-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, employee.",
+        "I'm the motivation fairy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My magic wand will make you enjoy working despite the utter futility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Knock your-self out.",
+        "Wally?! Gaa!",
+        "I thought you were a myth!"
+      ]
+    }
+  ]
+}

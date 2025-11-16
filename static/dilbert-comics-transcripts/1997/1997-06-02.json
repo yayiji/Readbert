@@ -1,0 +1,24 @@
+{
+  "date": "1997-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I put together some guiding principles for our network architecture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sure hope this isn't a bunch of obvious ideas disguised with technojargon and unclear writing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let the games begin.",
+        "So tell me, do suspenders cause muddled thinking, or is it the other way around?"
+      ]
+    }
+  ]
+}

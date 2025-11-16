@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our video game division has reached a sales plateau."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Kids are spending more time outside these days.",
+        "There's only one thing we can do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Diversify?",
+        "Pollute!"
+      ]
+    }
+  ]
+}

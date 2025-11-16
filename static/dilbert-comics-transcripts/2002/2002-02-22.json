@@ -1,0 +1,30 @@
+{
+  "date": "2002-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I built a working model to test my nuclear power plant design."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How big will the real one be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "About half this size.",
+        "And it will cost $23 to build."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'd give you an attaboy certificate but my printer is out of paper."
+      ]
+    }
+  ]
+}

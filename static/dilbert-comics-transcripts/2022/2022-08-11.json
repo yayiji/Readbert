@@ -1,0 +1,23 @@
+{
+  "date": "2022-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can return it in the original box."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It almost seems as if you designed the packaging to make it impossible to cram everything back in the box."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I won't be asking you to take a brief survey at the end of this call."
+      ]
+    }
+  ]
+}

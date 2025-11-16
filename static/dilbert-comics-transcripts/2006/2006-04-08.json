@@ -1,0 +1,25 @@
+{
+  "date": "2006-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm back from my three-week vacation.",
+        "I didn't know you were gone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... I meant I'm leaving tomorrow for my three-week vacation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your vacation?",
+        "Twice as good as I expected!"
+      ]
+    }
+  ]
+}

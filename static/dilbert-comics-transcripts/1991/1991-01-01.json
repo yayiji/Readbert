@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was so poor that all I could afford to eat was two-bean salad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sounds awful...",
+        "It wasn't that bad..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Of course, I always smothered it with hundred island dressing."
+      ]
+    }
+  ]
+}

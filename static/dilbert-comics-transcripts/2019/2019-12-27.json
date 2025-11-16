@@ -1,0 +1,31 @@
+{
+  "date": "2019-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm proud to announce that we've been named \"Employer of the year.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How much did that cost?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing!",
+        "All we had to do was buy a million dollars' worth of ads."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did we need those ads?",
+        "You won't win any awards with that attitude."
+      ]
+    }
+  ]
+}

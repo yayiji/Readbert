@@ -1,0 +1,60 @@
+{
+  "date": "2006-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Blah, blah, blah, blah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's 2 o'clock and my brain has shut down for the afternoon."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Blah, blah, blah, blah...",
+        "I have no idea what he's talking about."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This calls for some generic leadership."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do a cost-benefit analysis, get buy-in from all the key stakeholders, and track the critical metrics."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now if you'll excuse me, I have a conference call."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Push"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "How did anyone manage before there were fake conference calls?"
+      ]
+    }
+  ]
+}

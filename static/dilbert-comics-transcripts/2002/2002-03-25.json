@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you have ten seconds to decide if you want to be restructured, repurposed or reassigned."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Repurposed! No, wait... restructured... no, reassigned! No, repurposed!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many people volunteered to quit and didn't know?",
+        "Two out of three!"
+      ]
+    }
+  ]
+}

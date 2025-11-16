@@ -1,0 +1,28 @@
+{
+  "date": "1997-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need everyone's help on this project.",
+        "I hope you can overlook the cloud of doom that hovers nearby.",
+        "Doom"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Boom!",
+        "Doom",
+        "Crack"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. It's lucky that wasn't someone we like.",
+        "Doom"
+      ]
+    }
+  ]
+}

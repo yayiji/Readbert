@@ -1,0 +1,25 @@
+{
+  "date": "2012-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to begin the meeting by giving Dilbert some destructive criticism."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Everything you do is dumb.",
+        "I don't know why I hired you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel much more motivated now.",
+        "If you feel a little bit worse, we came out ahead as a team."
+      ]
+    }
+  ]
+}

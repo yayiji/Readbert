@@ -1,0 +1,25 @@
+{
+  "date": "2021-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a technology healer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He can fix any technical problem by laying his hands on it.",
+        "That's absurd."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you believe me now, Android?",
+        "Yes. . . Wait, why is this working?"
+      ]
+    }
+  ]
+}

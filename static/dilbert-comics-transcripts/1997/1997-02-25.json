@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm totally frazzled.",
+        "There simply isn't enough time in the day to meet my upcoming deadlines."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's have an all-day meeting off-site so I can explain why the deadlines are so important."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, your theory is that I'll have more time in the day if you explain something I already know?",
+        "I don't have a lot of tools here."
+      ]
+    }
+  ]
+}

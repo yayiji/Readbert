@@ -1,0 +1,28 @@
+{
+  "date": "1992-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like Brenda has been brainwashed by the new company slogan.",
+        "Quality...",
+        "Quality..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It all started when we got these little sticky note pads that say \"Quality\" on them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops, sorry, I shouldn't put it right in your face...",
+        "Quality...",
+        "Quality...",
+        "Quality..."
+      ]
+    }
+  ]
+}

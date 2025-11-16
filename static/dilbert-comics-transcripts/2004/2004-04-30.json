@@ -1,0 +1,25 @@
+{
+  "date": "2004-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I recommend that we eliminate the least popular features because they cost us more than they generate in revenue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have an idea.",
+        "Let's eliminate the least popular features to save money."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I suggest that we eliminate the least popular features.",
+        "I steal that idea to infinity."
+      ]
+    }
+  ]
+}

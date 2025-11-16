@@ -1,0 +1,26 @@
+{
+  "date": "2017-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Am I allowed to date a co-worker?",
+        "That's against company policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is our robot considered a co-worker?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're good to go.",
+        "Man, I wish I had free will."
+      ]
+    }
+  ]
+}

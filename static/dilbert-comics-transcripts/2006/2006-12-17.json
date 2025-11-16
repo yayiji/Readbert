@@ -1,0 +1,45 @@
+{
+  "date": "2006-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You missed the meeting.",
+        "What meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The budget meeting that you told me to schedule."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You never told me when it was.",
+        "I sent you an e-mail."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, obviously you chose an uninteresting subject line."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Otherwise I would have opened it.",
+        "You're a bad e-mail sender."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I also told you in person.",
+        "Boringly?"
+      ]
+    }
+  ]
+}

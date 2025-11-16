@@ -1,0 +1,57 @@
+{
+  "date": "2022-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Were you listening to me? It looks like you drifted off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't be ridiculous.",
+        "I heard every word you said."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, really?",
+        "Repeat back to me what you heard."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Come on,",
+        "prove you were listening."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You accused senior management of not being supportive of your ideas."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You told an amusing story about your past that raised our spirits."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And you made some brilliant observations."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Oh, I guess",
+        "you were listening."
+      ]
+    }
+  ]
+}

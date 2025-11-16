@@ -1,0 +1,26 @@
+{
+  "date": "1991-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Dogbert.",
+        "How are you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How am I? Is this merely shallow social pulp, or do you genuinely care about me and my feelings right at this moment?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's the pulp one.",
+        "I'm fine.",
+        "How are you?"
+      ]
+    }
+  ]
+}

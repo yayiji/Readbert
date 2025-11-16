@@ -1,0 +1,58 @@
+{
+  "date": "2014-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What programming skills should I be looking for in our next hire?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Jquery, ruby, html5, python, java, php, and, of course, c++."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could write those down.",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That should totally solve your ignorance problem."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are there any other gaps in your knowledge that I can fix by writing things down?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How about string theory?",
+        "I can explain that in a few words."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Graviton...",
+        "Supersymmetry...",
+        "Perturbation...",
+        "M-theory."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I know string theory now."
+      ]
+    }
+  ]
+}

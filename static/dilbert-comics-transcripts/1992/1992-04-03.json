@@ -1,0 +1,30 @@
+{
+  "date": "1992-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So, then I thought,",
+        "Ha! Maybe there's a",
+        "bug in the compiler",
+        "program itself!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaagh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe that story",
+        "went on a little",
+        "long...",
+        "What gave",
+        "it away?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2005-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Per company policy, I got you the least expensive flight available."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your trip will have 17 connecting flights and you're required to spend at least one night \"in an Elbonian prison, dressed as a ballerina.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much would I have to desecrate a national monument to get one night in jail?"
+      ]
+    }
+  ]
+}

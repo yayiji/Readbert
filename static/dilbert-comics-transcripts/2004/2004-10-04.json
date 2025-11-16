@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need clarification on my assignment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I use my own judgment and be forever damned if things go badly?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or should I use your advice and invite certain calamity?",
+        "Both plans have good parts."
+      ]
+    }
+  ]
+}

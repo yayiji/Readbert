@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, do you know how my light pointer pen could have gotten set to maximum power?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You never seem to grasp the humor in these situations.",
+        "It's not as if you caused any permanent damage in the office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, I wasted a temp named Carl in the next office.",
+        "A temp — my point exactly."
+      ]
+    }
+  ]
+}

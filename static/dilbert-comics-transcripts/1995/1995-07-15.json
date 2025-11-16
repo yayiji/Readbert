@@ -1,0 +1,24 @@
+{
+  "date": "1995-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to study our options for project \"Zebra\" and make a recommendation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Translation: \"Read my mind then recommend the option I've already decided on.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll get right on it!",
+        "Translation: \"I am doomed. I will go look for naughty pictures on the internet instead.\""
+      ]
+    }
+  ]
+}

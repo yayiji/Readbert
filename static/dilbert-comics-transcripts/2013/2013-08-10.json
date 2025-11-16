@@ -1,0 +1,25 @@
+{
+  "date": "2013-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm an aggressive recruiter looking for passive job seekers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Passive job seekers are hidden gems for recruiters.",
+        "And you're the most passive one I've ever seen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop making me love you!",
+        "Zzzzzz"
+      ]
+    }
+  ]
+}

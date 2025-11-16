@@ -1,0 +1,23 @@
+{
+  "date": "1999-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I floss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. I would be thoroughly disgusted and hate you forever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I can't please everyone."
+      ]
+    }
+  ]
+}

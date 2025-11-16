@@ -1,0 +1,23 @@
+{
+  "date": "1993-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In order to build team spirit I've decided you should have lunch together once a week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't be there myself because it would seriously cut into my free time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Besides, it's my job to motivate, not get bogged down in the details."
+      ]
+    }
+  ]
+}

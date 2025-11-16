@@ -1,0 +1,29 @@
+{
+  "date": "2004-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Shut the door. We need to talk about what you've done.",
+        "What?!",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! Please don't leave me hanging!",
+        "What have I done??!",
+        "Hello."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My watch stopped.",
+        "No, wait, I think time itself stopped!!!",
+        "Note: Time-frozen people look exactly like this."
+      ]
+    }
+  ]
+}

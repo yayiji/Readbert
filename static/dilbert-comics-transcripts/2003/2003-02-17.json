@@ -1,0 +1,26 @@
+{
+  "date": "2003-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Excuse me while I take this call.",
+        "Ring",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Excuse me while I hate your inconsiderate guts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, nothing important.",
+        "Excuse me while I imagine crushing your head."
+      ]
+    }
+  ]
+}

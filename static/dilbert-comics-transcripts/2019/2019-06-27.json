@@ -1,0 +1,25 @@
+{
+  "date": "2019-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like you have a bad case of jargon poisoning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll write you a prescription for jargon-canceling headphones.",
+        "They translate jargon to normal words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's stay in our swim lane while the tiger teams get buy-in on the verticals.",
+        "Nothing, nothing, nothing."
+      ]
+    }
+  ]
+}

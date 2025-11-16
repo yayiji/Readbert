@@ -1,0 +1,29 @@
+{
+  "date": "1997-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "New policy: All company documents must use the official company font..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see... what would be the most obscure and impractical font imaginable?",
+        "Purr",
+        "Purr",
+        "Purr"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Somewhere in Elbonia",
+        "I understand I can get the Elbonian font software from you.",
+        "Yep, unless you need consonants for some reason."
+      ]
+    }
+  ]
+}

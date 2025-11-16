@@ -1,0 +1,24 @@
+{
+  "date": "2012-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where can I go to enjoy some of the local debauchery?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aren't you worried that your personal behavior will reflect poorly on your company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can I embarrass a company that plans to pollute your groundwater?",
+        "Say what?"
+      ]
+    }
+  ]
+}

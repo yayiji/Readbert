@@ -1,0 +1,24 @@
+{
+  "date": "2018-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it my imagination, or are my co-workers getting dumber every day?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They aren't getting dumber."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're just getting to know them better.",
+        "It looks the same."
+      ]
+    }
+  ]
+}

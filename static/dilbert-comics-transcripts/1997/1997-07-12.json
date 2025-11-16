@@ -1,0 +1,27 @@
+{
+  "date": "1997-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's done.",
+        "I thought I asked for that to be in color."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Black and white are both colors.",
+        "So technically...",
+        "Oh, wait, I see what you mean."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that all it took to satisfy his need for irrelevant changes?",
+        "And I did it while the color copies were printing."
+      ]
+    }
+  ]
+}

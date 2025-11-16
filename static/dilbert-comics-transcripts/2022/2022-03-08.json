@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to match my management practices to the weather."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, if I need to deliver bad news, I wait for a sunny day so it doesn't sting as much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's terrific, but can we get back to my annual performance review?",
+        "As soon as the clouds break."
+      ]
+    }
+  ]
+}

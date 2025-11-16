@@ -1,0 +1,25 @@
+{
+  "date": "2014-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a work-related injury, so I need a year off with pay.",
+        "What happened?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was drinking coffee and listening to a podcast while surfing the internet for personal reasons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now my buttocks hurt.",
+        "I think I'm within my rights to kill you."
+      ]
+    }
+  ]
+}

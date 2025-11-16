@@ -1,0 +1,32 @@
+{
+  "date": "2020-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is considering no longer requiring employees to wear I.D. badges."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes! Freedom!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too soon.",
+        "Hold...",
+        "Hold..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...In favor of permanent forehead tattoos.",
+        "Always wait for the second part."
+      ]
+    }
+  ]
+}

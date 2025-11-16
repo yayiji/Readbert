@@ -1,0 +1,25 @@
+{
+  "date": "2002-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My invention will turn people into mindless sheep."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm curious how you'll know it works.",
+        "I assume it's mostly a cosmetic change."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dogbert, did you unplug it as I asked you?",
+        "Couldn't be bothered."
+      ]
+    }
+  ]
+}

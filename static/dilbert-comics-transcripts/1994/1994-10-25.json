@@ -1,0 +1,23 @@
+{
+  "date": "1994-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a question for the ethics office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If my co-worker has a \"Pentium\" PC and I have a 386, is it okay to run over his foot in the parking lot?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seemed like a long-shot when I asked."
+      ]
+    }
+  ]
+}

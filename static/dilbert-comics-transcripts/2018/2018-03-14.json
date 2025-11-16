@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a story-telling Mothman."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He identifies the employees with the greatest workloads and wastes their time telling long stories."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't need a story-telling Mothman.",
+        "Then why does every company have one?"
+      ]
+    }
+  ]
+}

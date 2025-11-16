@@ -1,0 +1,25 @@
+{
+  "date": "1997-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You two will be in charge of rewriting our COBOL code to fix the millennium problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I realize you've never worked with COBOL before, Asok.",
+        "That's why I'm teaming you with Bob, so you can learn from his vast experience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, you recommend waiting for a meteor to kill us all.",
+        "The glaciers are way too slow."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2013-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What did our CEO have to say?",
+        "He has a new strategy, but it seems vague."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What will the engineers think about it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They don't care about this stuff."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What exactly does a middle manager do?",
+        "We're the glue that binds the apathy to the vague objectives."
+      ]
+    }
+  ]
+}

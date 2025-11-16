@@ -1,0 +1,57 @@
+{
+  "date": "2000-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Am I fired?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Of course not, Ted.",
+        "I enjoy e-mailed jokes as much as anyone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm still laughing about your \"top ten signs that your boss is a hairless rodent\"."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I asked you here to discuss the reclassification of your job."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Starting today, the job requires a Ph.D.",
+        "Feel free to apply for your own job."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Whew! Luckily, I have a Ph.D."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You do?",
+        "Well, the job also requires an Olympic gold medal."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Synchronized swimming, 1992.",
+        "And a posthumous Congressional Medal of Honor."
+      ]
+    }
+  ]
+}

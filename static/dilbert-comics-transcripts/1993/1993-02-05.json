@@ -1,0 +1,29 @@
+{
+  "date": "1993-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Their cars are always clean."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They write letters to express their outrage.",
+        "Dear Editor,",
+        "The funny pages is no place for sarcasm!",
+        "Think about the children!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They read the same book more than once.",
+        "They are the people with way too much time on their hands.",
+        "Hee",
+        "Hee"
+      ]
+    }
+  ]
+}

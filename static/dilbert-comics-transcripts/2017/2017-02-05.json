@@ -1,0 +1,54 @@
+{
+  "date": "2017-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do these cost estimates include everything?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, because I know what happens in the future."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't think I could accurately predict the future until you trusted me to put this budget together."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I thought there were too many variables to know how things will turn out."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But I defer to your superior opinion."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Wait... I'm getting another message from the future."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It says to raise the software budget by nine dollars."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, that sounds right.",
+        "Of course it does. Trust your instincts."
+      ]
+    }
+  ]
+}

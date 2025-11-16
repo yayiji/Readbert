@@ -1,0 +1,30 @@
+{
+  "date": "2003-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any customer references I could call?",
+        "Right here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Beep",
+        "Beep",
+        "Boop",
+        "Beep",
+        "R-r-ring"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No answer.",
+        "Try again when I'm in the parking lot.",
+        "R-r-ing"
+      ]
+    }
+  ]
+}

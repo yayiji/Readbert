@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Drug treatment program",
+        "Alice, I'd like to talk to you about your registration form."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Under \"objective,\" you said you want to use my \"turnip-shaped head as a battering ram to break out of here.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice, drop the duct tape.",
+        "Stay tense; that will help."
+      ]
+    }
+  ]
+}

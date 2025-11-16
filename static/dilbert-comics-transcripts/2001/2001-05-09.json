@@ -1,0 +1,24 @@
+{
+  "date": "2001-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally's in jail for impersonating a dead person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He'll have to use all of his street smarts to survive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need some temporary tattoos.",
+        "Which way is the gift shop?"
+      ]
+    }
+  ]
+}

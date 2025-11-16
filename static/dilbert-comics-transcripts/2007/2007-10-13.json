@@ -1,0 +1,25 @@
+{
+  "date": "2007-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, Keith. You're the next coworker I have targeted for elimination."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be using a rumor campaign to convince everyone you are dishonest and incompetent.",
+        "Why???"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do I need a reason?",
+        "We think she wasn't hugged enough."
+      ]
+    }
+  ]
+}

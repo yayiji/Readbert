@@ -1,0 +1,62 @@
+{
+  "date": "1996-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mmm... soon you will be mine, little chocolate bar.",
+        "I think I have exact change."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can smell it through the wrapper.",
+        "Here's a nickel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I rub it on my arm to get the total body experience.",
+        "No, that's a breath mint."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I am transported to another dimension.",
+        "Ooh, a roll of pennies...",
+        "No, lipstick."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll give you a check.",
+        "Where's that checkbook?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Snatch"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stomp",
+        "Stomp",
+        "Stomp stomp stomp",
+        "Stomp"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What a funny day to forget my wallet."
+      ]
+    }
+  ]
+}

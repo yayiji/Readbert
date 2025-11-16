@@ -1,0 +1,24 @@
+{
+  "date": "2018-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a consultant to teach us how to negotiate."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally, he charges triple the market rate, but I talked him down to double.",
+        "Where is he?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He said he's teaching us what happens when there's no performance clause in a contract."
+      ]
+    }
+  ]
+}

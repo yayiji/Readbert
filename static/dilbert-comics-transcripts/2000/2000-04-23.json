@@ -1,0 +1,57 @@
+{
+  "date": "2000-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Zzzzz",
+        "Beep",
+        "Beep",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's time to complain about my workload."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "An ounce of prevention is worth a pound of assignments."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm working day and night!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've got projects, assignments, deliverables, tasks..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Must-do items, action items, fire drills, and dog and pony shows."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wally, I have an assignment for you.",
+        "!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I solved my glare problem."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have complaints about my boss.",
+        "Many, many complaints."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell me all about it while I pretend to listen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you will look into my complaints?",
+        "Is there any way you would know if I didn't?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2009-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How are your kids?",
+        "I don't have any kids."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you sure?",
+        "That's the sort of thing I'd remember."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe they're hiding.",
+        "Be wrong! Just be wrong!"
+      ]
+    }
+  ]
+}

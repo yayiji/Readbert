@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elon Musk made an offer to buy our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The board plans to reject it because they think the company is worth twice as much as the offer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much did he offer?",
+        "Three hundred dollars."
+      ]
+    }
+  ]
+}

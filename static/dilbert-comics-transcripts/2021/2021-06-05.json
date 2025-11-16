@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I majored in Elbonian literature in college."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which was extra challenging because I don't speak Elbonian, and none of the books are translated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you get a degree in Elbonian literature without reading any?",
+        "I'm a great test-taker."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In addition to ISO 9000, we will strive to be QS-9000 compliant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means falsifying the following documents: QSR, APQP, FMEA, MSA, SPC, PPAP and QSA."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Remember, you can't spell compliance without \"liance.\""
+      ]
+    }
+  ]
+}

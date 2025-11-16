@@ -1,0 +1,25 @@
+{
+  "date": "2013-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company needs more people like you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not just more.",
+        "We need infinite people just like you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where is this going?",
+        "And if each of you had a typewriter, wow!"
+      ]
+    }
+  ]
+}

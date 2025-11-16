@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new product has half a million lines of code!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Translation: There's nothing good about this product, so you hope I'm impressed by irrelevant data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now available in ecru!",
+        "You leave me no choice but to key your car on the way out."
+      ]
+    }
+  ]
+}

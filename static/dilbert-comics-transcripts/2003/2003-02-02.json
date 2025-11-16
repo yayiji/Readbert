@@ -1,0 +1,58 @@
+{
+  "date": "2003-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your budget is wrong. You forgot maintenance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you engineers always think you're right?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I anticipated your reaction and I came prepared."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Here's a list of every disagreement we've had."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And here are the audio clips of the outcomes, in your own voice.",
+        "Tap",
+        "Tap"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're right, Dilbert... you're right... I guess you're right... I'm wrong... you're right... you're right."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let me see that for a second."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "To an engineer, everyone looks like a chimp.",
+        "Oo!!",
+        "Oo!!",
+        "Oo!!"
+      ]
+    }
+  ]
+}

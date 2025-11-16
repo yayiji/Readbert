@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be honest with you, the job will require hard work and long hours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wish someone had warned me about that before I drove all the way over here in this stupid suit!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was looking for a different reaction.",
+        "Do most people punch you before leaving?"
+      ]
+    }
+  ]
+}

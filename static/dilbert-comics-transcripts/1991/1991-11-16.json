@@ -1,0 +1,26 @@
+{
+  "date": "1991-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I joined a bowling league.",
+        "Yikes! We've become lower middle-class!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't be ridiculous.",
+        "Bowling is good exercise.",
+        "I'm doing it to build muscle tone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! \"Little arm.\""
+      ]
+    }
+  ]
+}

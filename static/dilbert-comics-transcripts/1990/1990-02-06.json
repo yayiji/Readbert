@@ -1,0 +1,24 @@
+{
+  "date": "1990-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, we can't stand hiding around the house anymore."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We dinosaurs ruled this planet once. Now we just hide in people's houses, pretending to be extinct."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dawn, it's time for our comeback tour.",
+        "I think some of Elvis' jumpsuits will fit."
+      ]
+    }
+  ]
+}

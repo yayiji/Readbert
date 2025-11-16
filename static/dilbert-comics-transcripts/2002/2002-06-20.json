@@ -1,0 +1,26 @@
+{
+  "date": "2002-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our assignment is to make our accounting system less transparent.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't want investors to know what we're doing.",
+        "Are we bad people?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're good people who have been influenced by a corrupt corporate culture.",
+        "Oh, okay. Carry on."
+      ]
+    }
+  ]
+}

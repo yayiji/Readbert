@@ -1,0 +1,27 @@
+{
+  "date": "1997-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I need your help.",
+        "I keep getting invited to worthless meetings and I can't say no."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can say no to anything.",
+        "You have such a clearly defined sense of self-interest."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will you teach me to be like you?",
+        "Nope...",
+        "Can't be bothered."
+      ]
+    }
+  ]
+}

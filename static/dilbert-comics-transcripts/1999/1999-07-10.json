@@ -1,0 +1,24 @@
+{
+  "date": "1999-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Meet with our vendor and come up with a plan.",
+        "I'll do the same with their executives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you see any reason why my meeting might be a complete waste of time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure, lots of them, but I'm planning to spring those on you during your performance review."
+      ]
+    }
+  ]
+}

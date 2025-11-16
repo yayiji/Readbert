@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our ESG score will drop if we open a new factory that adds CO2 to the atmosphere."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we can balance that out by adding more diversity to our board."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much CO2 do you plan to add?",
+        "One non-binary board member's worth."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to talk about my career path.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to work you until your health deteriorates and your skills are obsolete. Then I'll downsize you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm ill.",
+        "Really? I've never had a plan work this fast before."
+      ]
+    }
+  ]
+}

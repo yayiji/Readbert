@@ -1,0 +1,25 @@
+{
+  "date": "2017-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't like the optics of your plan.",
+        "It's the only plan that can work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should I change it to something that looks good but won't work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Excellent idea.",
+        "You might have more management potential than I thought."
+      ]
+    }
+  ]
+}

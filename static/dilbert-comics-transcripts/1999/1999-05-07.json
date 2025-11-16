@@ -1,0 +1,25 @@
+{
+  "date": "1999-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Chest pains...",
+        "My heart..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I invented an antigravity belt, but it's hidden!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think it's true?",
+        "It's what engineers say to increase the odds of getting CPR."
+      ]
+    }
+  ]
+}

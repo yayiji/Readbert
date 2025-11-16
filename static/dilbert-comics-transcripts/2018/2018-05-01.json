@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someone stole my purse out of my cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. We have security video nearly everywhere and we can track every phone that has our internal company app on it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is mildly disturbing.",
+        "Here's a live feed of the perp in the third stall of the men's restroom."
+      ]
+    }
+  ]
+}

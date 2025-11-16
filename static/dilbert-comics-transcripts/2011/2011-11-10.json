@@ -1,0 +1,25 @@
+{
+  "date": "2011-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "He's busy converting everything you did this year into a complete waste of time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "After that, he's scheduled to lower our morale.",
+        "Then he'll be stirring up trouble in other departments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's tomorrow look?",
+        "He'll be under-communicating all day."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2008-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm a customer of your commercial sales division."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I heard you would be the best person to answer a technical question..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't work in that division."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I know. It's just a quick question."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I tell you something different from what the commercial division tells you, I'll get in trouble."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I'll also get in trouble for not helping a customer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My safest course of action is to fake my own death."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're a bad actor.",
+        "It isn't polite to insult the dead."
+      ]
+    }
+  ]
+}

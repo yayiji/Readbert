@@ -1,0 +1,24 @@
+{
+  "date": "1997-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I calculated the total time that humans have waited for web pages to load..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It cancels out all the productivity gains of the information age."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes I think the web is a big plot to keep people like me away from normal society.",
+        "Uh-oh, he's on to me."
+      ]
+    }
+  ]
+}

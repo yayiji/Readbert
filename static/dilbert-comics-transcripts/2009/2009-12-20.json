@@ -1,0 +1,54 @@
+{
+  "date": "2009-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please order a new stapler for me.",
+        "Did your old one break?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only in spirit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every person who came into my cubicle picked it up and fiddled with it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "At first I would wipe off the cooties and try to forget."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In time, my stapler became imbued with the sorrow and desperation of every dead-ender that fondled it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I covered it with a plastic bowl and taped it to the desk so no fumes can escape."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you're wondering why your chair is warm, it's because I borrowed it for a meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's the biggest bowl you can order?"
+      ]
+    }
+  ]
+}

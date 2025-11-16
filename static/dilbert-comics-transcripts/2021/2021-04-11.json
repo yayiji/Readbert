@@ -1,0 +1,53 @@
+{
+  "date": "2021-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll schedule a zoom call with the whole team tomorrow to give the update."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or you could tell me tomorrow, and I'll tell the rest of the team on our noon zoom call."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um, okay. I'll send you a zoom link tomorrow."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Does our call need to be a video call? Can we do a voice call?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, yes, I guess we could just do a voice call."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do we need to talk, or can you just send me an email?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I suppose I could just send you an email."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, we're making progress. Now, have you heard of \"texting\"?"
+      ]
+    }
+  ]
+}

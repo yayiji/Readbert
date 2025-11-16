@@ -1,0 +1,26 @@
+{
+  "date": "2021-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "He won't be bothering us today.",
+        "I tricked him into taking a sleeping pill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I told him he was chosen for a flight to Mars and the pill was to put him into suspended animation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you planning to wake him up?",
+        "Depends how hard it is to get a feeding tube into him.",
+        "Continued..."
+      ]
+    }
+  ]
+}

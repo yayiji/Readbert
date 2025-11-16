@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got my old job back.",
+        "All I had to do was sign a document saying I lied about our product being unsafe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At first, I wanted to save the lives of our customers, but then I realized everyone in the world is awful, so now I don't care."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Present company excluded?",
+        "Sure."
+      ]
+    }
+  ]
+}

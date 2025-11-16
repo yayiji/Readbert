@@ -1,0 +1,26 @@
+{
+  "date": "2012-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you hack into our competitor's network and make it look as if the Elbonians did it?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you bribe a blogger to write good things about our company?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now that I've worn down your limited capacity for self-control, I need you to bury something in the woods, no questions asked.",
+        "Fine."
+      ]
+    }
+  ]
+}

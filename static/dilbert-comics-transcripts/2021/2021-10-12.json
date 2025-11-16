@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did you decide to recommend option B?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I compared the unknown risks and benefits of each plan to the unknown risks and benefits of the alternatives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean you guessed.",
+        "That is such a cynical way to look at it."
+      ]
+    }
+  ]
+}

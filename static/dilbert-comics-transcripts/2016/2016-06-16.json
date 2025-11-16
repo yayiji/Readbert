@@ -1,0 +1,27 @@
+{
+  "date": "2016-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a social justice warrior.",
+        "That means I'm on your side.",
+        "Do you want to go to dinner with me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, thanks.",
+        "I'm into men."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am a man.",
+        "Don't make me turn around and prove you wrong."
+      ]
+    }
+  ]
+}

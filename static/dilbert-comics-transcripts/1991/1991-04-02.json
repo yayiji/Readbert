@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My android works!",
+        "Hi, I am Andy the android."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am designed to rapidly analyze and imitate human behavior."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This could be annoying.",
+        "I know you are, but what am I?"
+      ]
+    }
+  ]
+}

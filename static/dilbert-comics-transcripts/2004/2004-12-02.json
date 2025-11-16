@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every time we cut costs, our distributor, Walgetco, takes the gain by demanding lower prices."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thank you for shopping at Walgetco! Have a nice day!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe it's too late.",
+        "Troll accessories are on aisle six!"
+      ]
+    }
+  ]
+}

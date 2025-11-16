@@ -1,0 +1,26 @@
+{
+  "date": "1989-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh good, the last stop of the day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Freeze, mortal!",
+        "Let me see the expiration date on that milk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can go to hell for drinking old milk?!",
+        "Nah. I'm from \"Heck.\"",
+        "We handle the little stuff."
+      ]
+    }
+  ]
+}

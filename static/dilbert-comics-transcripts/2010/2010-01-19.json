@@ -1,0 +1,24 @@
+{
+  "date": "2010-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Futurists say that when baby boomers start retiring in big numbers, you won't be able to fill critical job openings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you agree to let me slack off now, I'll give you a few good years when I'm sixty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if you renege?",
+        "That's a risk I'm willing to take."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2004-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I need ten minutes on the pointy-haired boss schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't let him have meetings anymore."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Every time he had a meeting it just created more work for me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It was always \"Carol, get me a file,\" and \"Carol, schedule another meeting.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Obviously I had to put an end to the madness."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I guess I could e-mail him.",
+        "You could try."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

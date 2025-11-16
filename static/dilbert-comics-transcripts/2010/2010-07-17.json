@@ -1,0 +1,23 @@
+{
+  "date": "2010-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm on my way to a meeting with a prospective customer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have such a long sales gestation period that the value of my efforts won't be known for two years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just remember that optimism looks exactly like doing nothing."
+      ]
+    }
+  ]
+}

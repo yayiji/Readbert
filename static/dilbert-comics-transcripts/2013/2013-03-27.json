@@ -1,0 +1,25 @@
+{
+  "date": "2013-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your warranty doesn't cover a bad attitude, but it does cover water damage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't take this personally. I just need to slowly kill you with a forceful jet of water.",
+        "Sloosh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is the sky full of military drones?",
+        "He took it personally."
+      ]
+    }
+  ]
+}

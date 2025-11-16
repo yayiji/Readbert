@@ -1,0 +1,56 @@
+{
+  "date": "2014-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm trying out a new philosophy for my life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My new motto is \"live for today.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you live for today, how do you avoid starving tomorrow?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you do one little thing wrong today, it could ruin every minute of the rest of your life."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... I should live for the future?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, that would ruin today."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I recommend living for the past."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My past was no fun.",
+        "Pretend you were someone else.",
+        "My philosophy is that my name was Gustav and I traded beaver pelts.",
+        "Stop ruining my present."
+      ]
+    }
+  ]
+}

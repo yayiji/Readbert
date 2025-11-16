@@ -1,0 +1,24 @@
+{
+  "date": "1994-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to cut your project funding in half but keep the objectives the same."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a brilliant plan. We get all the benefits at half the costs!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is it that the nuttiest people define reality?",
+        "And why couldn't I rewrite the business case to increase revenue?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2001-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stock market expert",
+        "...Everyone should buy stock in that company. Sell your house if necessary."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should we worry that the P/E is 900, your track record is terrible and you only recommend stocks you own?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, Ron, as you can see from the one-week chart, this stock only goes up.",
+        "Buy!",
+        "Buy!"
+      ]
+    }
+  ]
+}

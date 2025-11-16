@@ -1,0 +1,23 @@
+{
+  "date": "2001-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, order an extra battery for my mobile technology platform."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want the one that straps to your back or the one with its own wheelbarrow?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I just lost a lung."
+      ]
+    }
+  ]
+}

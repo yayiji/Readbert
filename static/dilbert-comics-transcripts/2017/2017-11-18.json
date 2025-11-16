@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to your employee health monitor, your lack of sleep last night is hampering your mental functions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's end the meeting and try again when your brain is working better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand.",
+        "That is consistent with the data."
+      ]
+    }
+  ]
+}

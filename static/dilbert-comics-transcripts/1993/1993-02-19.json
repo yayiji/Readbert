@@ -1,0 +1,24 @@
+{
+  "date": "1993-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Wally, how did you get a roof for your cubicle?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This stuff is all modular. You just take some idiot's wall and make it your ceiling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "By any chance, do you know what happened to my wall?",
+        "What did it look like?"
+      ]
+    }
+  ]
+}

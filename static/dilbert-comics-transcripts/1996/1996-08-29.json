@@ -1,0 +1,25 @@
+{
+  "date": "1996-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So the salesperson made an idiotic promise to our customer.",
+        "Now it's my job to fix it.",
+        "The brain is an amazing thing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying that if I use the untapped power of my brain, there's a solution?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I'm saying my amazing brain filtered out your boring story so I could enjoy my walk."
+      ]
+    }
+  ]
+}

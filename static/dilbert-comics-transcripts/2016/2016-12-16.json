@@ -1,0 +1,26 @@
+{
+  "date": "2016-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, you are under arrest for murdering the creator of Garfield's body double."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not fair!",
+        "It wasn't even a real person!",
+        "It was a body double!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, body doubles are human beings too.",
+        "You're going to arrest me on a technicality?"
+      ]
+    }
+  ]
+}

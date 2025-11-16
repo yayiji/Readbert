@@ -1,0 +1,23 @@
+{
+  "date": "1990-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You are now ready for the next step in my \"new age mineral spa\" therapy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This next therapy was practiced by the pharaohs. It has been scientifically proven to produce deep relaxation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please pick up a roll of bandages and line up in front of the pyramid door."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come work out with me.",
+        "We don't have a company gym."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try having a conversation with Jim the security guard; it's totally exhausting!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...But a cow is not entirely full of milk; some of it is hamburgers!"
+      ]
+    }
+  ]
+}

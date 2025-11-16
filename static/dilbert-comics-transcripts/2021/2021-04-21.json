@@ -1,0 +1,25 @@
+{
+  "date": "2021-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not feeling well, so I'm going to take the day off from work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You work at home.",
+        "And you'll be just as sick whether you work or not,",
+        "so why not work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know if you know this about me, but I don't like working."
+      ]
+    }
+  ]
+}

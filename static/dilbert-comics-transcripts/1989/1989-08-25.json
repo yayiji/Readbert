@@ -1,0 +1,22 @@
+{
+  "date": "1989-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, do you know what happened to my good ruler?",
+        "Rulers are made to be broken."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just know there is some flaw in that argument..."
+      ]
+    }
+  ]
+}

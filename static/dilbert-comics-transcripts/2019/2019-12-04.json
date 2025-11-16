@@ -1,0 +1,25 @@
+{
+  "date": "2019-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my project update?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I left it on your cluttered desk. Try excavating a few layers to find it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What happens when he realizes it isn't there?",
+        "That's when I tell him to check his cluttered email."
+      ]
+    }
+  ]
+}

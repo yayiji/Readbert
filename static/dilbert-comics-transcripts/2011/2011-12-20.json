@@ -1,0 +1,25 @@
+{
+  "date": "2011-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Question four: Do you have the tools to do your job?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That depends.",
+        "Do you consider yourself a tool?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm a resource.",
+        "Let's agree to disagree."
+      ]
+    }
+  ]
+}

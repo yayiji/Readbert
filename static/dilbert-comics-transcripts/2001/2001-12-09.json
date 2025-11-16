@@ -1,0 +1,54 @@
+{
+  "date": "2001-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I call it the teamwork football."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each of you will carry the ball with you for one day to symbolize your commitment to teamwork."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who wants to be first?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not me. I have a meeting with customers today."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm on vacation.",
+        "I only came in for coffee."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Not in a trillion years."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe you could keep it in your desk drawer to symbolize our commitment to teamwork."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I should have used a golf ball."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2021-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't find the data I need to finish my analysis."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The analysis doesn't need to be correct.",
+        "It only needs to support the decision I already made."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "my job isn't actually real?",
+        "It's more of a placebo situation."
+      ]
+    }
+  ]
+}

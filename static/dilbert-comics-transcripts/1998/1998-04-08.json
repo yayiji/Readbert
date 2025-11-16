@@ -1,0 +1,25 @@
+{
+  "date": "1998-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Request denied. The information services department does not upgrade non-standard computers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not an upgrade.",
+        "It's a replacement.",
+        "Our policy is that it's an upgrade unless you discard the old one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your trash is declined. Our policy is \"no computers.\""
+      ]
+    }
+  ]
+}

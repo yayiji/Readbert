@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was an engineer before I moved to marketing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I don't even remember how to turn on my Lisa."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have an old Lisa computer from Apple?",
+        "Old wife."
+      ]
+    }
+  ]
+}

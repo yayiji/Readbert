@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I stepped down as CEO and took my old job back – it's less stressful."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes you have to stop and smell the roses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Exactly.",
+        "Too bad we can't afford any roses now."
+      ]
+    }
+  ]
+}

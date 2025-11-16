@@ -1,0 +1,25 @@
+{
+  "date": "1999-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have never been summoned to your office before.",
+        "It is a great honor for an intern."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to crawl through this air duct and find out where air comes from."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Air comes from outdoors.",
+        "No, I think it's coming from our building."
+      ]
+    }
+  ]
+}

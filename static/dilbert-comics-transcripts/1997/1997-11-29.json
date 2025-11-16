@@ -1,0 +1,25 @@
+{
+  "date": "1997-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, we'll only hire people with masters degrees from the top colleges."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have a masters degree from a top college.",
+        "I'm insulted by this new policy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And new hires must be this tall to work here.",
+        "Hey!!"
+      ]
+    }
+  ]
+}

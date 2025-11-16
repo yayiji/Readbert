@@ -1,0 +1,23 @@
+{
+  "date": "1990-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...I'll tell you why we're losing to foreign business: the workers in this country have lost their work ethic."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why aren't you working now?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, now, this is a perfect example of what I'm trying to tell you."
+      ]
+    }
+  ]
+}

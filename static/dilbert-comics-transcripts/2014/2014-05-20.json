@@ -1,0 +1,26 @@
+{
+  "date": "2014-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I lost all of my money to a phishing scam.",
+        "Must... stifle... laugh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mmmph!",
+        "Pressure is building. Must contain..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you being supportive? I can't tell.",
+        "Mmmph!"
+      ]
+    }
+  ]
+}

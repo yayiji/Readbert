@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you were telecommuting today.",
+        "I'm sick."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I came into the office to get some rest and be pampered."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fortunately, my pajamas look exactly like work clothes."
+      ]
+    }
+  ]
+}

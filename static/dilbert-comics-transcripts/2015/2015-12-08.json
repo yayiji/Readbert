@@ -1,0 +1,24 @@
+{
+  "date": "2015-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project failed because there were no women on the team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Women have better communication skills. Every study shows that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you listening?",
+        "Outwardly, yes."
+      ]
+    }
+  ]
+}

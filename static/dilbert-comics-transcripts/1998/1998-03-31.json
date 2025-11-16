@@ -1,0 +1,35 @@
+{
+  "date": "1998-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it my imagination,",
+        "or is your necktie",
+        "getting shorter every",
+        "day?",
+        "Heh heh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm gradually moving",
+        "toward casual clothes.",
+        "In six months this",
+        "necktie will be",
+        "gone and no",
+        "one will notice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everyone noticed",
+        "when you went",
+        "bald.",
+        "I'm bald?"
+      ]
+    }
+  ]
+}

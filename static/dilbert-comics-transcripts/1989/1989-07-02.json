@@ -1,0 +1,57 @@
+{
+  "date": "1989-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rrrring!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hello",
+        "This is the governor..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you remember that snotty letter you wrote about prison overcrowding?",
+        "Uh oh."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We thought you might want to look after one of our guys for thirty or forty years.",
+        "Ding dong"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hi. I'm Bob. My friends would call me \"strangler\" if they were alive."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So, where do you keep the blunt objects?",
+        "Sure is crowded in here."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ooh! I am so tempted to fire off another letter over this!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Yeah! \"Postage due\" this time!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2007-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That price quote includes everything!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What about taxes, shipping, cables, carts, software, memory upgrades, maintenance and insurance?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has anyone ever called you needy?"
+      ]
+    }
+  ]
+}

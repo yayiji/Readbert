@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard we can insult our boss now?",
+        "You can't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Alice and I can get away with it because we are hard to replace."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Realistically, there had to be a downside to being useless."
+      ]
+    }
+  ]
+}

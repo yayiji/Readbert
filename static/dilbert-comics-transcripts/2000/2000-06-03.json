@@ -1,0 +1,31 @@
+{
+  "date": "2000-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I could turn invisible, I wouldn't need to make decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Invisible...",
+        "Invisible...",
+        "You can't see me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess we're done."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Run silent."
+      ]
+    }
+  ]
+}

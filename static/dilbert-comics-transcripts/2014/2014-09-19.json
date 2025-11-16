@@ -1,0 +1,25 @@
+{
+  "date": "2014-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have been named one of the sexiest engineers in the world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At the risk of sounding unkind, the competition was not fierce.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm one of the sexiest engineers in the world.",
+        "Welcome to the club."
+      ]
+    }
+  ]
+}

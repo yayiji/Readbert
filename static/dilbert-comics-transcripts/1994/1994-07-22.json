@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like your opinion for my market research, Ratbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Me?!!",
+        "I've lumped you in the market segment that includes wild fungi and pencil erasers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Question one: Would you enjoy having your head rubbed vigorously on a piece of paper?",
+        "Who wouldn't?"
+      ]
+    }
+  ]
+}

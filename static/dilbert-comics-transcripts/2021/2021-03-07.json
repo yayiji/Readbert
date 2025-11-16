@@ -1,0 +1,53 @@
+{
+  "date": "2021-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need to fire you for your social media activities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did I share something offensive?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm getting reports that you follow bad people on Twitter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I follow people on both sides of every issue so I can see the full context."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That might sound good on paper, but half of the people you follow are monsters of one sort or another."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Isn't it obvious that enforcing this kind of standard can only lead in a bad direction?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, I don't see that at all. All I see is that you associate with people who are monsters."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm getting reports that you follow Dilbert on Twitter."
+      ]
+    }
+  ]
+}

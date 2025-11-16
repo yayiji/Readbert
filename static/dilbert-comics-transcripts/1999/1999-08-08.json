@@ -1,0 +1,56 @@
+{
+  "date": "1999-08-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're a tough negotiator, but I think we have a deal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just sign the contract and we'll deliver the equipment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This contract is totally different from what we agreed."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Must act surprised.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why are you springing all these conditions on me at the last minute?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No one has ever complained before."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "May I borrow your briefcase for a minute?",
+        "Um... okay."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That wasn't nice.",
+        "No one has complained before."
+      ]
+    }
+  ]
+}

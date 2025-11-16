@@ -1,0 +1,24 @@
+{
+  "date": "1992-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need an outside consultant like you to help with lay-offs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My main concern is to minimize the pain and hardship that goes with this.",
+        "With generous severance pay?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I think that would only make my pain and suffering worse."
+      ]
+    }
+  ]
+}

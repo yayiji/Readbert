@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like my idea of remote work is being implemented by management all over the world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't think that was \"your idea\" so much as totally obvious to every thinking person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, maybe. But would they have implemented it?",
+        "I'm going to talk to smart people now."
+      ]
+    }
+  ]
+}

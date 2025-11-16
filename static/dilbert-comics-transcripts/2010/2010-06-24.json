@@ -1,0 +1,25 @@
+{
+  "date": "2010-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rumor has it that you're pretending to hear things wrong to avoid work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It works great.",
+        "The secret is to have no shame whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, do you have the revised budget estimate?",
+        "No, because you asked for a remized bugmet yestitet."
+      ]
+    }
+  ]
+}

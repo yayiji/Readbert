@@ -1,0 +1,54 @@
+{
+  "date": "2003-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love to hear myself talk."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't like it when people roll their eyes and go \"phhht.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like a job where people are forced to nod and smile while I babble."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And I'd like to punish people for my own mistakes."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I recommend a career in management."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Just to be sure, I'm going to give you a management aptitude test."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hey, I have an idea. Maybe I should pursue a career in management!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Congratulations! You just passed the management aptitude test.",
+        "Yes!"
+      ]
+    }
+  ]
+}

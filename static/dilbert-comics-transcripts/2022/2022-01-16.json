@@ -1,0 +1,59 @@
+{
+  "date": "2022-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I haven't lost a debate since I learned to treat everything as a personal insult."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I doubt that method works every time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you calling me a liar?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What? No! I'm just skeptical it works in every situation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What data do you have to back up that opinion?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't have any data. I just think it's kind of... um... obvious?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So you're calling me stupid."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No, no! Never mind. I don't know what I'm talking about!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Works every time."
+      ]
+    }
+  ]
+}

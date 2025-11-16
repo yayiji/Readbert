@@ -1,0 +1,24 @@
+{
+  "date": "2000-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can't make enough of our product to meet demand."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our new strategy is to be more arrogant. We hope that will lower demand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you teach me to be arrogant?",
+        "Bah!"
+      ]
+    }
+  ]
+}

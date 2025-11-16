@@ -1,0 +1,23 @@
+{
+  "date": "2008-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you can keep your job but your office is being moved 50 miles away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gosh, I guess I could drive another 50 miles each way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about a hundred?"
+      ]
+    }
+  ]
+}

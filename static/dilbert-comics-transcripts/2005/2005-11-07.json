@@ -1,0 +1,24 @@
+{
+  "date": "2005-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I opened a dance club that's so exclusive I don't allow anyone in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I personally screen every potential customer until I find a reason to exclude."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have your dance moves ever incorporated the air guitar?",
+        "Yes"
+      ]
+    }
+  ]
+}

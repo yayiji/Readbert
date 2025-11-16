@@ -1,0 +1,54 @@
+{
+  "date": "2007-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I invented something that would give me unlimited power..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would you kill me in my sleep so you could steal it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course not."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Good."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I mean, why would I wait until you were asleep?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's just burning daylight."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In fact, I'm thinking of killing you right now just in case you already invented it and you're trying to decide whether you should tell me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It was a hypothetical question.",
+        "Maybe, but it's not a chance I'm willing to take."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2004-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I've been told that you ignore your team's assignments and work on things that aren't your job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's true. I do important things instead of useless things assigned by clueless nimrods."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You totally ruined this meeting."
+      ]
+    }
+  ]
+}

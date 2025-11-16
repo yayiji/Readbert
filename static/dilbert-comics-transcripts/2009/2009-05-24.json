@@ -1,0 +1,55 @@
+{
+  "date": "2009-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And obviously I can't do anything until our floom vendor updates the glimrods."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll bitspew a protopatch to your glimrod array and you can get right to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes a young engineer challenges the dominant work-avoider in the herd.",
+        "Oh, really?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Too bad the router isn't configured to handle protopatch server traffic."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll remotely re-configure the router to think the protopatch server is a hexadulian data compressor."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you do that, you'll crash the firewall and expose everyone at this table to identity theft!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop that!",
+        "I have enough problems!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Never go network on me, kid."
+      ]
+    }
+  ]
+}

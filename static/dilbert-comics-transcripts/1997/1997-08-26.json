@@ -1,0 +1,26 @@
+{
+  "date": "1997-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's a shame you have to work during your vacation.",
+        "The same thing happened to me.",
+        "Really?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, in my case I went on vacation when I was supposed to be working.",
+        "But the concept is the same."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently she wasn't looking for empathy."
+      ]
+    }
+  ]
+}

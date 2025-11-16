@@ -1,0 +1,25 @@
+{
+  "date": "2010-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tv newsroom",
+        "I invented a drug that switches off the brain's ability to make rational decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think it would make a good story for your science segment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or we could drug-art celebrities and film what happens.",
+        "For science, right?"
+      ]
+    }
+  ]
+}

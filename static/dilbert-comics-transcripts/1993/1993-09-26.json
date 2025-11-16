@@ -1,0 +1,53 @@
+{
+  "date": "1993-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was thinking about how much I enjoy our conversations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're consistently witty and intellectually stimulating."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I realized that all of the witty and intellectually stimulating stuff comes from me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Naturally I started wondering what was the point of even having you along."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I thought about lightning and how it always hits the tallest object."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So there is a slight statistical advantage to having you nearby."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You aren't going to be witty now, are you?",
+        "How can you say that?",
+        "I'm shocked!"
+      ]
+    }
+  ]
+}

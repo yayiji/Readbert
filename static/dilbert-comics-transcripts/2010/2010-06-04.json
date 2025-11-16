@@ -1,0 +1,24 @@
+{
+  "date": "2010-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school of time management."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today you will learn that rudeness and good time management are the same thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Answer my #@%! question!",
+        "Keep typing, Beverly! He doesn't exist."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2000-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Any advice?",
+        "Try to be less like you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That might work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Less like me... less like me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I collect crystals.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't know of any scientific evidence that they can heal.",
+        "Whew."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But it's my point of view that they do."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When did ignorance become a point of view?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Too much like me."
+      ]
+    }
+  ]
+}

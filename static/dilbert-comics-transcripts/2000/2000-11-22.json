@@ -1,0 +1,25 @@
+{
+  "date": "2000-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate working for tips.",
+        "No, I ordered the R.F.P."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you were thinking R.F.P.",
+        "But you said spec binder, you arrogant cow!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With any luck, she'll say, \"You had me at cow.\""
+      ]
+    }
+  ]
+}

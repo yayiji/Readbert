@@ -1,0 +1,26 @@
+{
+  "date": "2002-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think I should take...",
+        "Money from orphans?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I mean I need...",
+        "A large sack and an alibi?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're finishing my sentences with...",
+        "Uncanny accuracy?"
+      ]
+    }
+  ]
+}

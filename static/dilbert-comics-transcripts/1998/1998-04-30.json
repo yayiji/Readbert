@@ -1,0 +1,24 @@
+{
+  "date": "1998-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As a consultant, I'm overpaid even if I do bad work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whereas you're underpaid even if you do good work.",
+        "It's funny if you think about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might have a terrible job, but at least I don't have any job security."
+      ]
+    }
+  ]
+}

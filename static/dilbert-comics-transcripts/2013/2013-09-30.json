@@ -1,0 +1,25 @@
+{
+  "date": "2013-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that marketing's optogenetic device tweaked some of your preferences.",
+        "Yup."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I'm a gay anarchist who loves football and string cheese."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds like a big adjustment.",
+        "Well, the cheese part came easily..."
+      ]
+    }
+  ]
+}

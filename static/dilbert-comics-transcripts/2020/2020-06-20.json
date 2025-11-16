@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The office is a beautiful place when everyone else is working from home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No distractions, private bathroom, and I no longer need to suppress my bodily noises."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Brraaap!",
+        "Freedom!"
+      ]
+    }
+  ]
+}

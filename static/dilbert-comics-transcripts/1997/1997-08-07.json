@@ -1,0 +1,26 @@
+{
+  "date": "1997-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Open book management.",
+        "So you see, if you got a raise, our earnings growth wouldn't be smooth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And smooth earnings are good for who?",
+        "Stock market analysts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Specifically, the lazy ones.",
+        "I'm fine, now that I understand."
+      ]
+    }
+  ]
+}

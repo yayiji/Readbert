@@ -1,0 +1,30 @@
+{
+  "date": "2019-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As my new pet employee, your job is to agree with everything I say in meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure. How hard could it be?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Climate change is caused by gravity.",
+        "That's right!"
+      ]
+    }
+  ]
+}

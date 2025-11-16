@@ -1,0 +1,24 @@
+{
+  "date": "2006-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it true that you allowed a vampire to run the blood drive?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, and it takes a big man to admit he's wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You admit you were wrong?",
+        "I decided to lose weight instead."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2011-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I need you to go to Elbonia.",
+        "It's too cold for airplanes to operate there, so you'll need to use the underground route."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fly into Switzerland and follow the sewer systems from there.",
+        "Stick to the side of the sewer where it's dryer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a sewerside mission!",
+        "You'll need a warm jacket and a rat hammer."
+      ]
+    }
+  ]
+}

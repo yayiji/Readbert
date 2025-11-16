@@ -1,0 +1,25 @@
+{
+  "date": "2000-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sure your boss will increase the budget if you show him my plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just asked him for something else.",
+        "I can't keep asking him for resources!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you think that doing your job is a sign of weakness?",
+        "Look what it did to you."
+      ]
+    }
+  ]
+}

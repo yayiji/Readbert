@@ -1,0 +1,53 @@
+{
+  "date": "2016-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It took me six months to get a reservation here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hear the food is amazing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It sounds fantastic. It's too bad I'm on a cucumber diet."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I can only eat cucumbers after five o'clock."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, it seems you have squandered my invitation to fine dining."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now my plan of sharing a culinary adventure is just a sad commentary on the casual rudeness of life."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can I expect you to complain about the quality of your cucumber and send it back?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We don't have cucumbers."
+      ]
+    }
+  ]
+}

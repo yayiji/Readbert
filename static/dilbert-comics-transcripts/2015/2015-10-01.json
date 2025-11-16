@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm almost positive yoga is not one of the martial arts.",
+        "Not by itself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're learning a defensive style of yoga that incorporates the more violent elements of feng shui and Irish dancing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't sound lethal.",
+        "Put your head on the ground and say that again."
+      ]
+    }
+  ]
+}

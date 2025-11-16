@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our transition to an open office plan has been a huge failure. Too many distractions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can we change back to cubicles and private offices without looking like idiots?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you listening to me?",
+        "Is someone nursing a baby over there?"
+      ]
+    }
+  ]
+}

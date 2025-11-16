@@ -1,0 +1,25 @@
+{
+  "date": "2021-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employees were happier and more productive when they were working remotely."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So... tell me again why we all need to come to the office?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's so I can spend less time with my family.",
+        "Okay.",
+        "I can respect that."
+      ]
+    }
+  ]
+}

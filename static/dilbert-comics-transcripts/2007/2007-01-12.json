@@ -1,0 +1,23 @@
+{
+  "date": "2007-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your network product appears to be a shoebox full of twigs and leaves."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ho ho! Just wait until my engineer does his magic and integrates it with your network!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Make it look like another vendor's fault."
+      ]
+    }
+  ]
+}

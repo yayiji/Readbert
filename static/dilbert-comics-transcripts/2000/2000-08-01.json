@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I plan to spend the next year adding automatic registration to our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It already has that feature."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh."
+      ]
+    }
+  ]
+}

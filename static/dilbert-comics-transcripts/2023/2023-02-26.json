@@ -1,0 +1,54 @@
+{
+  "date": "2023-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bob likes to debate, but he isn't good at it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When you disagree with Bob, he will insist that the only reason you disagree is that you are afraid."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you get vaccinated, Bob will say you are afraid of catching a sniffle."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If you don't get vaccinated, Bob will say you are afraid of getting the shot."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Bob believes your thinking process does not extend beyond your fears."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's because Bob is a moron who projects his one-dimensional worldview on others."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sounds like you're afraid to admit I'm a better debater than you.",
+        "There it is."
+      ]
+    }
+  ]
+}

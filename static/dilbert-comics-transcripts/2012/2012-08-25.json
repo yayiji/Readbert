@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your fake 50% sale prices make dumb customers feel like smart shoppers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why am I paying you $400 an hour to tell me what I already know?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Usually I charge $800 per hour.",
+        "Yes! I'm a freakin' genius."
+      ]
+    }
+  ]
+}

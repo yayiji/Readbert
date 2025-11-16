@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you know you can buy your own island nation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They even sell a kit that helps you conquer and oppress the indigent people!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like to buy Rhode Island...",
+        "and one \"evil tyrant\" conquest kit.",
+        "Would you like a flag with that?"
+      ]
+    }
+  ]
+}

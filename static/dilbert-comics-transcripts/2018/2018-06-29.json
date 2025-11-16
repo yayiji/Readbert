@@ -1,0 +1,25 @@
+{
+  "date": "2018-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you still considering a reorganization of the department?",
+        "Maybe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, good. I was worried I might be held accountable for my lack of accomplishments."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might be playing this wrong.",
+        "Hey, everyone! We're free!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting a crypto exchange, so give me all of your money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do I look like a fool? I wouldn't trust you with my money unless you had celebrity endorsements!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I had your money, I could get some.",
+        "That makes sense."
+      ]
+    }
+  ]
+}

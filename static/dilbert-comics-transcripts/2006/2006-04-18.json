@@ -1,0 +1,25 @@
+{
+  "date": "2006-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert says my plan won't work.",
+        "I need a second opinion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hypothetically, if I say your plan is terrific, would I end up being the engineer who has to implement it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe.",
+        "Your plan reeks of infeasibility."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sorry you got shot, scapegoat.",
+        "I'm used to it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The worst was the day I blundered across the National Rifle Association's chili cook-off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At first, everyone wanted to stand near me. Then the accusations started..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1997-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't raise your salary level because you don't have ten years experience with \"Java\" coding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nobody has ten years experience with new technology!",
+        "You're just being evil.",
+        "Admit it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And could you please shake your head back and forth instead of spinning it around?"
+      ]
+    }
+  ]
+}

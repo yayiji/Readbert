@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to be seated in the loud guy section or no loud guy?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They both sound good. We'll try the loud guy section."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope he has good stories.",
+        "And then"
+      ]
+    }
+  ]
+}

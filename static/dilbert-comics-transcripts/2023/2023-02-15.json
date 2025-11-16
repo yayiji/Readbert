@@ -1,0 +1,24 @@
+{
+  "date": "2023-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I take the leadership class our company offers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No-o-o, I don't want you to compete with me for my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why is the class offered?",
+        "I assume we do it to spot trouble-makers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Purchasing manager",
+        "You need three vendor quotes, or I can't approve it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are only two vendors in that market."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Come back when something changes."
+      ]
+    }
+  ]
+}

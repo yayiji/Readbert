@@ -1,0 +1,24 @@
+{
+  "date": "2008-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't put you on the management fast track until I confirm that your moral compass is broken."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A nun, a CEO and a scientist are in a burning building. You can only save one of them. Which one do you save?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there time for a bidding war?",
+        "Oh, you're good."
+      ]
+    }
+  ]
+}

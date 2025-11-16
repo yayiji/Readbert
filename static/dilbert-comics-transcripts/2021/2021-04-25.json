@@ -1,0 +1,55 @@
+{
+  "date": "2021-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert is always interrupting me because I'm a woman."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you deal with it when he interrupts you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He doesn't interrupt me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That makes no sense. He interrupts me because I'm a woman, and you're a woman... so..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe he doesn't interrupt me because I make sense when I talk."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Whereas you're more of a babbling nincompoop and a notorious ruiner of meetings."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, I certainly don't know where you...",
+        "Let's head back now."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You interrupted me!",
+        "Try to spot the pattern."
+      ]
+    }
+  ]
+}

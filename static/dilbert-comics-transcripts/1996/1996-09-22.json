@@ -1,0 +1,57 @@
+{
+  "date": "1996-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time to use my speakerphone to do voice mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't remember if I use the speakerphone because I'm inconsiderate or because I'm too stupid to know how annoying it is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll leave that question to the philosophers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hi. Thanks for the information. Talk to you later!!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did I tell you about my cyst?",
+        "Dogbert, send Bob the dinosaur quickly!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm here to deliver a wedgie.",
+        "Use the service elevator."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yank!",
+        "Aareee!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's the best part-- the look on their faces or the way they yell?",
+        "I'll leave that question to the philosophers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1998-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to his driver's license, the new guy's name is Edward Mann."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is his middle name Lester?",
+        "How did you know that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What we have here is an Ed Les Mann."
+      ]
+    }
+  ]
+}

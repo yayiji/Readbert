@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I noticed you don't do much work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My philosophy is that there will be plenty of time to work when I'm dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you won't be here to do it.",
+        "I guess you don't know what a perfect system looks like."
+      ]
+    }
+  ]
+}

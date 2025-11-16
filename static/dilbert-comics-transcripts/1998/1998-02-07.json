@@ -1,0 +1,25 @@
+{
+  "date": "1998-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new e-mail monitoring system shows that you sent a personal message last week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Coincidentally, the new Alice monitoring system detects twenty hours of unpaid overtime."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "According to the manual, productivity will soar now.",
+        "Beep... beep...",
+        "Boop... now detecting cluelessness in the vicinity."
+      ]
+    }
+  ]
+}

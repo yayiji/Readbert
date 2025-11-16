@@ -1,0 +1,23 @@
+{
+  "date": "2003-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you want to be a great leader, read the books that have inspired leaders for centuries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, the first pyramids were built after a twelve-year-old pharaoh read this book."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Things that look naughty from miles away."
+      ]
+    }
+  ]
+}

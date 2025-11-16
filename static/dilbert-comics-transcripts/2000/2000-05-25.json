@@ -1,0 +1,24 @@
+{
+  "date": "2000-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What does this pose have to do with our product?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll use blue screen technology to add important elements later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My blouse is blue.",
+        "Five minutes."
+      ]
+    }
+  ]
+}

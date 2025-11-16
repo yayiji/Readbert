@@ -1,0 +1,25 @@
+{
+  "date": "2005-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm ready for a new batch of tiger meat.",
+        "Grrr!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want a project that will challenge my abilities, bring glory to the company and delight our stockholders!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about this one?",
+        "Nope. Not challenging enough. I'll give it to one of the less motivated employees."
+      ]
+    }
+  ]
+}

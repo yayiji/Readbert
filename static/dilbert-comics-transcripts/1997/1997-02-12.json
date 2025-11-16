@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need my own secretary.",
+        "I'm too busy to help you unless I get some support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Too busy?",
+        "You haven't done any work for me in six months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, suddenly this is about you?"
+      ]
+    }
+  ]
+}

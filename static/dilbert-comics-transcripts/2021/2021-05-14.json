@@ -1,0 +1,25 @@
+{
+  "date": "2021-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're marrying an Elbonian man to avoid being called a bigot."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it doesn't work that way.",
+        "You can still be a bigot in your mind, no matter what you do in the real world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... there's no way to win?",
+        "Did I forget to tell you that when I hired you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why isn't your project done yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because every time I walk past your office you give me three new tasks and tell me they are my highest priority."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping you didn't know why.",
+        "Hire someone dumber next time."
+      ]
+    }
+  ]
+}

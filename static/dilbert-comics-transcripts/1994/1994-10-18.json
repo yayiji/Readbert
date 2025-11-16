@@ -1,0 +1,25 @@
+{
+  "date": "1994-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Executive board room",
+        "Our competitors are kicking our pasty white rumps."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm bringing in Dogbert to fire employees until we're stronger than the competition."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How will the work get done with no employees?",
+        "I'd better form a task force to study that."
+      ]
+    }
+  ]
+}

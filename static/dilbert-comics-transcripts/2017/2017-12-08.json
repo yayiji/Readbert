@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Elbonian virus scrambled our mission statement into nonsense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, that's our actual mission statement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why does it look so different?",
+        "The virus fixed the grammar and punctuation."
+      ]
+    }
+  ]
+}

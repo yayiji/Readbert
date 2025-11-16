@@ -1,0 +1,58 @@
+{
+  "date": "2008-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would it be okay if I talked to a potential customer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. You're not in sales. I need you to focus on your project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already talked to them.",
+        "Is it okay if I arrange a demo?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No. Only the sales teams arrange demos."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I already gave the demo."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is it okay if I convince them to buy $40 million of our product?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, because you won't succeed.",
+        "Here's their letter of intent."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You shouldn't slap yourself now.",
+        "Yes I...",
+        "Wait.",
+        "Nice try."
+      ]
+    }
+  ]
+}

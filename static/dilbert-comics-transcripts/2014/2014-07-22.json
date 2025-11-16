@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have incomplete data, so I'll need to use my intuition and experience to make the decision."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because magical thinking fixes ignorance?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hush!",
+        "I think I have some-thing.",
+        "I think so too."
+      ]
+    }
+  ]
+}

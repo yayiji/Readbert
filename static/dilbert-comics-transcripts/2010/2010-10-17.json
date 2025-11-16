@@ -1,0 +1,55 @@
+{
+  "date": "2010-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll lose the Elbonian project unless we give their minister of mud some... incentive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean a bribe?",
+        "No, a bribe would be illegal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Take a bag of gold to Elbonia and leave it by the statue of the Monkey God, Oobanoobah."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If Oobanoobah does not accept your offering, by Elbonian law it becomes unclaimed property."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Take the gold to the unclaimed property desk at the Ministry of Mud."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ring the bell and ask for the Minister of Mud. Give him the unclaimed property and a copy of our bid."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What if the Monkey God accepts the gold and I'm the only witness?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What?",
+        "How much Monkey God gold are we talking about?"
+      ]
+    }
+  ]
+}

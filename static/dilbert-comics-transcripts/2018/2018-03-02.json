@@ -1,0 +1,30 @@
+{
+  "date": "2018-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wish I had a cool nickname at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You do. You're known as the \"frickin' bottleneck.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who calls me that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Bad people.",
+        "I try to stop them."
+      ]
+    }
+  ]
+}

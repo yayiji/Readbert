@@ -1,0 +1,25 @@
+{
+  "date": "1997-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sports memorabilia",
+        "This is the best price I've seen for a baseball autographed by Babe Ruth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't see where the autograph is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It gets autographed later tonight.",
+        "I'll take this and three of the Honus Wagner cards."
+      ]
+    }
+  ]
+}

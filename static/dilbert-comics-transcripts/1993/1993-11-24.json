@@ -1,0 +1,26 @@
+{
+  "date": "1993-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I slip in?",
+        "I only need one copy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the message here?",
+        "Is your time worth more than my time because you're a manager and I'm a secretary?",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This might sting for a second, but it'll remove your desire to make copies."
+      ]
+    }
+  ]
+}

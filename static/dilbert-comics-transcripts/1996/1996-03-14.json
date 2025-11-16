@@ -1,0 +1,26 @@
+{
+  "date": "1996-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, we'd like you to be the director of marketing for the company we're starting.",
+        "Okay! What do I do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Be as annoying and illogical as you can. We'll whack you in the head with balled-up socks to make you shut up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's definitely better to be an owner than an employee.",
+        "Let's link his salary to earnings!",
+        "Hee hee!"
+      ]
+    }
+  ]
+}

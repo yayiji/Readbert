@@ -1,0 +1,54 @@
+{
+  "date": "2017-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the wireframe I asked you to do last week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't hear from you, so I assumed you didn't need it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Last week I asked you to do it and you said you would."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Right, but then I didn't hear from you again until now."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There wasn't any reason to contact you because you said you would do it!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How was I supposed to know that?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I assumed your silence meant you changed your mind."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can you finish by next week?",
+        "Sure, if you don't pester me about it every minute."
+      ]
+    }
+  ]
+}

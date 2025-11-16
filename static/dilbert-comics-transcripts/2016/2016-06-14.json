@@ -1,0 +1,25 @@
+{
+  "date": "2016-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our sales dropped to zero after you offended customers on Twitter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did someone tell you Twitter was a video game?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One week ago",
+        "And how would I kill these trolls?",
+        "With your words."
+      ]
+    }
+  ]
+}

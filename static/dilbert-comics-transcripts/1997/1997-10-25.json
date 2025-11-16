@@ -1,0 +1,26 @@
+{
+  "date": "1997-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been seeing a beautiful woman.",
+        "But something came between us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Her curtains?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Venetian blinds.",
+        "Totally unforgiving.",
+        "Maybe she got spooked when you put the lawn chair in her yard."
+      ]
+    }
+  ]
+}

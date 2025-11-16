@@ -1,0 +1,24 @@
+{
+  "date": "2005-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "Try rebooting yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Clone yourself, put the clone up for adoption, and hope intelligence can be influenced by the environment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Evidently your parents slapped together version 1.0 of you and hoped no one would notice the bugs.."
+      ]
+    }
+  ]
+}

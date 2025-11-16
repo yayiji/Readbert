@@ -1,0 +1,25 @@
+{
+  "date": "2023-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a motivational speaker to get you all riled up to work extra hard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would we get paid extra for the extra-hard work?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... you're scamming us?",
+        "\"Motivating.\""
+      ]
+    }
+  ]
+}

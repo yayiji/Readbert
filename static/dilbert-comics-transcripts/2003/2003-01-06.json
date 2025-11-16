@@ -1,0 +1,23 @@
+{
+  "date": "2003-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your self-evaluation so I can write your performance review."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember to rate yourself on our core values of honesty and integrity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally claims he did no work this year. But he's dishonest, so you can't be sure."
+      ]
+    }
+  ]
+}

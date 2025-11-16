@@ -1,0 +1,58 @@
+{
+  "date": "2020-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You haven't completed the mandatory class on blockchain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's an introductory class.",
+        "I'm already an experienced blockchain developer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The class is mandatory.",
+        "Every developer needs to check the box."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Just check the box for me.",
+        "Only the instructor can do that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And I don't want to call him because he rambles on and on."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You want me to take a two-day class so you won't have to make a phone call???"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I knew you'd understand."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What if taking the class causes me to miss my deadlines?",
+        "No problem.",
+        "I'll just cancel your bonus."
+      ]
+    }
+  ]
+}

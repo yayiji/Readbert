@@ -1,0 +1,23 @@
+{
+  "date": "2014-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, I want you to ghostwrite a book of my leadership advice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you plan to read it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it sounds boring."
+      ]
+    }
+  ]
+}

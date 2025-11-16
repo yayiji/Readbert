@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And so, that's my question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I try to not judge people by the quality of the technical questions they ask."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it working?",
+        "Not even a little."
+      ]
+    }
+  ]
+}

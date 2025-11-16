@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me share my screen and I'll... uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oops. Not that screen. Don't judge me! How do I make it go away?!",
+        "Gaaa!!! I can't take the embarrassment! I quit!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your zoom call?",
+        "Best one ever."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I won't give my opinion because I don't want to influence your recommendation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good idea. My well-informed mind is so easily swayed by your charismatic ignorance."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not what I'm saying.",
+        "Then who did I hear?"
+      ]
+    }
+  ]
+}

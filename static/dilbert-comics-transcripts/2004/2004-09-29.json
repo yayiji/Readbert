@@ -1,0 +1,24 @@
+{
+  "date": "2004-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a price sheet for removing unnecessary body parts?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wouldn't mind a few days away from work, being waited on, watching TV and napping."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have an inflamed coccyx?",
+        "Yeah, it's gotta go."
+      ]
+    }
+  ]
+}

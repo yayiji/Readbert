@@ -1,0 +1,58 @@
+{
+  "date": "2003-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, what's the status of your project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Deep breath...",
+        "Clear my mind..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been focusing my bandwidth on organic growth."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm getting lots of push-back, so I'm taking the discussions offline."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But sometimes I table an issue or handle it in a sidebar."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now I have my ducks in a row,",
+        "the deal-breakers are on the back burner, and I'm managing expectations."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay... keep up the good work."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wally,",
+        "you don't have a project.",
+        "What?",
+        "Then why am I so tired?"
+      ]
+    }
+  ]
+}

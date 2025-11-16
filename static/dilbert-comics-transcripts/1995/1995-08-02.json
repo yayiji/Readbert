@@ -1,0 +1,26 @@
+{
+  "date": "1995-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I submit myself as a candidate for the position of \"temporary employee.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm very temporary.",
+        "First I'll be in one place and then you blink and I'm gone!",
+        "Blink, gone, blink, gone, blink, gone..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop saying \"blink, gone.\" It's making me nuts.",
+        "It appears that the balance of power has shifted my way."
+      ]
+    }
+  ]
+}

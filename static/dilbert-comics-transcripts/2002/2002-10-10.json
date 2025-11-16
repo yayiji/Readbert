@@ -1,0 +1,29 @@
+{
+  "date": "2002-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't decide if I should throw 25 million dollars down a rat hole or..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...buy a ride into space on a Russian rocket ship."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about the poor?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Do they have a rocket?"
+      ]
+    }
+  ]
+}

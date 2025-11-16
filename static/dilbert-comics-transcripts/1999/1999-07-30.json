@@ -1,0 +1,24 @@
+{
+  "date": "1999-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Overtime is no longer mandatory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's required."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I manage and I manage, but nothing seems to make them happy.",
+        "Grrrr"
+      ]
+    }
+  ]
+}

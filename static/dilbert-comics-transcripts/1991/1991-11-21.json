@@ -1,0 +1,24 @@
+{
+  "date": "1991-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, profits are too low. I've got to let you go...",
+        "What!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...to a training class."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're so cute when they get jumpy."
+      ]
+    }
+  ]
+}

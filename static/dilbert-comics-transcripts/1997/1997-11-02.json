@@ -1,0 +1,56 @@
+{
+  "date": "1997-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey! It's a magazine!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Danger! A magazine has been discovered in marketing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Marketing has a magazine!",
+        "Gasp"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gather the other engineers. We must get that magazine.",
+        "Check"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We think it was a careless mistake by someone in the mail department."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "As you know, there is nothing more dangerous than a marketing person with a little bit of knowledge."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We know where the magazine will be read. We need nets, rope and tranquilizer darts."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll have to ask engineering to build one of these space stations...",
+        "Phoot"
+      ]
+    }
+  ]
+}

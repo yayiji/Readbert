@@ -1,0 +1,26 @@
+{
+  "date": "2000-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Step aside.",
+        "I'm from I.S."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't ask for any upgrades.",
+        "That's what they all say until..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's reformatting my hard drive!",
+        "That's ten in a row. Maybe it's me."
+      ]
+    }
+  ]
+}

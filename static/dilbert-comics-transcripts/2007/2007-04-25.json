@@ -1,0 +1,23 @@
+{
+  "date": "2007-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is the posterior of a healthy, unemployed woman."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Prolonged exposure to employment will create more of a box shape."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd offer you a lollipop, but it would only make things worse."
+      ]
+    }
+  ]
+}

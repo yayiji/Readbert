@@ -1,0 +1,26 @@
+{
+  "date": "2007-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, VP of marketing",
+        "As head of public relations, it will be my job to explain your marketing claims.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You claim our product can turn tap water into unleaded gasoline and reanimate the dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you asking me to do a lousy job of marketing just so your job is easier?",
+        "Um..."
+      ]
+    }
+  ]
+}

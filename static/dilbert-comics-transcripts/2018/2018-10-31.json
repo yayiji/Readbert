@@ -1,0 +1,23 @@
+{
+  "date": "2018-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll all need to work around the clock to meet the launch schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be leading you every step of the way!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now, don't hate me because I can lead you while I'm home asleep. That's not my fault."
+      ]
+    }
+  ]
+}

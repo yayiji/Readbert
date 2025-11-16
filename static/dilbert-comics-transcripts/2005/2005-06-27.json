@@ -1,0 +1,27 @@
+{
+  "date": "2005-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the CEO",
+        "Miss Pennington, have my driver fetch the limo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name isn't Miss Pennington.",
+        "It's Harold.",
+        "And?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... and... I'll have it legally changed to Miss Pennington so you won't be wrong.",
+        "Plus the surgery."
+      ]
+    }
+  ]
+}

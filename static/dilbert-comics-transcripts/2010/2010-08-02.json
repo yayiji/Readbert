@@ -1,0 +1,24 @@
+{
+  "date": "2010-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a script to write from the UFR SQL function to a log table I created for the DB so I can find the parameter errors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm giving you this status update while the script is running, so I'm accomplishing two things now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do I know you really did that thing you just said?",
+        "I guess now I'm doing your job too."
+      ]
+    }
+  ]
+}

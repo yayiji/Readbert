@@ -1,0 +1,56 @@
+{
+  "date": "2001-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is jittery Jeff. He needs counseling."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put him in a cubicle at the end of a busy aisle near a doorway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now he's jittery because he thinks people are always looking over his shoulder."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Leave him here. I'll counsel him up."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Relax, jittery Jeff... it's okay now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Relax",
+        "Relax",
+        "Relax",
+        "Relax"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Aaagh!! Someone is behind the door!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Counseling is mostly instinct."
+      ]
+    }
+  ]
+}

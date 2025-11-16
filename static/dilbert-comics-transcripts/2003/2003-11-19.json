@@ -1,0 +1,23 @@
+{
+  "date": "2003-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the competitive strategies seminar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, some housekeeping. In the event of an emergency, stay seated so I'll have a clear path to the exit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And... there is no men's room in the building as far as you know."
+      ]
+    }
+  ]
+}

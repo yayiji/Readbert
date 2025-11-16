@@ -1,0 +1,24 @@
+{
+  "date": "2015-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Most people are not saving enough for retirement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I see no reason to work hard and save money just so my retirement condo can be overrun by starving seniors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too bleak?",
+        "A little!"
+      ]
+    }
+  ]
+}

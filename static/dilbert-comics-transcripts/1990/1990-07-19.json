@@ -1,0 +1,24 @@
+{
+  "date": "1990-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can no longer compete against the Japanese with their technology advantages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we're sending you to Japan on an employee exchange program."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To learn their technology and bring it back here?",
+        "Just do for them what you've done for us."
+      ]
+    }
+  ]
+}

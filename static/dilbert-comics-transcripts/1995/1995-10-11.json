@@ -1,0 +1,25 @@
+{
+  "date": "1995-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, just show me how to program so I can help out on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're going to build a \"G.U.I.\" using object-oriented development tools...",
+        "G.U.I. is pronounced \"gooey.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I used my gun object to blast the bug object in the hall object!!",
+        "Notice how gooey it is."
+      ]
+    }
+  ]
+}

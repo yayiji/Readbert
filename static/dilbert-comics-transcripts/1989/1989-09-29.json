@@ -1,0 +1,25 @@
+{
+  "date": "1989-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...But I wasn't always a conservative engineer-type."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was quite the little rebel when I was a kid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Flashback",
+        "Potato salad again?",
+        "I've got to speak out on this issue."
+      ]
+    }
+  ]
+}

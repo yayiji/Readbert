@@ -1,0 +1,24 @@
+{
+  "date": "1995-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations, Wally.",
+        "I've selected you to head up our campaign for \"United Charity.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I chose you not only because you're the least valuable member of the group, but also because you're so darn pitiful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Honesty is the best policy unless it's being done to you."
+      ]
+    }
+  ]
+}

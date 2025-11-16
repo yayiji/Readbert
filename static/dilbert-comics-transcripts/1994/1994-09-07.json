@@ -1,0 +1,28 @@
+{
+  "date": "1994-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll be getting a new \"bungee boss\" sometime today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, I'm your new boss.",
+        "Let's change everything before I get reassigned.",
+        "Oops, too late, goodbye.",
+        "Sproing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was like a mentor to me.",
+        "I think he made a difference.",
+        "Incoming!"
+      ]
+    }
+  ]
+}

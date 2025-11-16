@@ -1,0 +1,23 @@
+{
+  "date": "2007-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I represent the law firm of Dogbert, Dogbert, and more Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your company's web page steals people's cursors and puts them in your own search field."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And my suit is too tight. When you put it all together, I might have to kill you."
+      ]
+    }
+  ]
+}

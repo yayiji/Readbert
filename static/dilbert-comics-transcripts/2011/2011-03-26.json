@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Asok. I'm updating our employee profiles.",
+        "Where'd you go to school?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I graduated from the Indian Institute of Technology in Lucknow with a double major in engineering and physics, and a minor in false humility."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For my combined thesis I terraformed a planet in another dimension and didn't tell anyone.",
+        "I'll put \"Indian.\""
+      ]
+    }
+  ]
+}

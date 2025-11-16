@@ -1,0 +1,27 @@
+{
+  "date": "2021-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I compared the R.O.I. for lying versus telling the truth.",
+        "Lying versus truth"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I regret to inform you that lying has a five-to-one advantage.",
+        "Advantage",
+        "5-to-1"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that true?",
+        "I won't be taking questions."
+      ]
+    }
+  ]
+}

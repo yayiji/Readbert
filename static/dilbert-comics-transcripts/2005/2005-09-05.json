@@ -1,0 +1,25 @@
+{
+  "date": "2005-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a fortune by being an incompetent CEO.",
+        "Everyone called me crazy when I put my entire personal wealth into pigs and garbage dumps."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You invested all of your money in pigs and dumps?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Invested?",
+        "Now that would have been a good idea too."
+      ]
+    }
+  ]
+}

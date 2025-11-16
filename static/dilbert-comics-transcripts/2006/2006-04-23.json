@@ -1,0 +1,55 @@
+{
+  "date": "2006-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your management performance has been abysmal. I'm afraid I have to minimize you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Minimize? Is that like downsize?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Downsizing is only for non-managers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Abysmal managers get minimized.",
+        "Follow me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your new office is the size of a refrigerator crisper."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You will have no direct reports and your job title will be \"Director of unnecessary and special projects.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can I ever be maximized?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe if some other manager jumps off the roof.",
+        "You're right – the view up here is spectacular!"
+      ]
+    }
+  ]
+}

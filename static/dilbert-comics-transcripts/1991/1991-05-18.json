@@ -1,0 +1,26 @@
+{
+  "date": "1991-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I must get back to the lab now.",
+        "But please, no long goodbyes, or parting gifts, or fanfare."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nay, let us simply drink in the richness of this beautiful yet sorrowful moment.",
+        "Two friends who...",
+        "'Bye"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's what I meant to say: \"Bye.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The nanorobots we injected into your bloodstream to make you a better employee are slowing down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your blood is demotivating the nanorobots and making them useless.",
+        "You're killing them!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!!",
+        "It's a massacre in there!",
+        "They had it coming."
+      ]
+    }
+  ]
+}

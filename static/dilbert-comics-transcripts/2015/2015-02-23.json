@@ -1,0 +1,25 @@
+{
+  "date": "2015-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lessons in investing",
+        "You should buy a stock whenever the chart looks like a squirrel sitting on a clown's shoulder."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's called \"technical analysis.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not going to do that.",
+        "Good, because it doesn't work if everyone does it."
+      ]
+    }
+  ]
+}

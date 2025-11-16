@@ -1,0 +1,30 @@
+{
+  "date": "2019-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My breakthrough in A.I. came when I stopped trying to duplicate human rational thought."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't copy what doesn't exist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Right. So instead I coded it to spout analogies to sound human."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Should I ask my boss for a raise?",
+        "Trees don't ask for raises, so why should you?"
+      ]
+    }
+  ]
+}

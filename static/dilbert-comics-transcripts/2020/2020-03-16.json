@@ -1,0 +1,25 @@
+{
+  "date": "2020-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you sure?",
+        "I'd bet my life on it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd bet your life on it, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd win either way.",
+        "I can't tell if we're agreeing."
+      ]
+    }
+  ]
+}

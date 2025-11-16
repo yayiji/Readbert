@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going into the office to upgrade a server."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to my boss, reducing network latency is more important than my life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I depend on you to not change the locks while I'm gone?",
+        "Only if you sleep in the garage."
+      ]
+    }
+  ]
+}

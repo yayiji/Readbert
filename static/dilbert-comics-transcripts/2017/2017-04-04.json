@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm changing your programming to make you my perfect boyfriend."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This feels wrong on many levels."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about now?",
+        "Um... now I love you.",
+        "That's weird."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a doctor's note that says I can sleep during meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That puts the pressure on you to be interesting enough to keep me awake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll do my best, but...",
+        "Zzzzz."
+      ]
+    }
+  ]
+}

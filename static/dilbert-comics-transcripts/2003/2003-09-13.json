@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've put my heart and soul into the high-speed-data-by-sewer project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I believe in developing our talent pool. So I recommend putting Asok in charge of the project. I will be his mentor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! What should I do first?",
+        "I wouldn't rule out panicking."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2016-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is the software done yet?",
+        "That depends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any new feature requests?",
+        "Only three."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then it's not done, is it?",
+        "Well, no, I guess not."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... when will it be done?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It will be done one week after you give me your last changes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I believe you taught us that change is good."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So either you can be a stagnant bureaucrat or a dynamic leader with lots of changes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's a question of free will, really.",
+        "I have to be somewhere else."
+      ]
+    }
+  ]
+}

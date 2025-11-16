@@ -1,0 +1,25 @@
+{
+  "date": "1993-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I borrowed a Japanese work custom -- sleeping tubes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No more wasted time commuting.",
+        "If you keel over from exhaustion we'll just cram you into a sleep tube."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which tube is mine?",
+        "You don't get a personal tube unless you're employee of the week."
+      ]
+    }
+  ]
+}

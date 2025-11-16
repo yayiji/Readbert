@@ -1,0 +1,55 @@
+{
+  "date": "2006-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking about buying a more fuel efficient car.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's my patriotic duty to reduce this country's dependence on foreign sources of oil.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because then the countries that hate us will have less money to fund terrorists."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Actually, developing countries would buy the oil you saved, thus adequately funding those same terrorists."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "At least I wouldn't be funding them myself."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oil is a fungible commodity. The capitalist system virtually guarantees that you'll end up buying the lowest cost oil from sources unknown to you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, maybe, but I want my car to make a statement."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And the statement would be \"Hey, everyone, I don't understand what fungible means!\""
+      ]
+    }
+  ]
+}

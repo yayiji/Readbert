@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your topic of conversation has failed to hold my attention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can no longer resist the urge to check my email while you talk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'd better not be emailing me now.",
+        "This isn't over."
+      ]
+    }
+  ]
+}

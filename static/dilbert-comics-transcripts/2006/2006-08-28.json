@@ -1,0 +1,25 @@
+{
+  "date": "2006-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is a picture of my cubicle.",
+        "As you can see, it's slightly larger than yours."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means I'm slightly more important than you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And yet you've worked here much longer.",
+        "I get it!!!"
+      ]
+    }
+  ]
+}

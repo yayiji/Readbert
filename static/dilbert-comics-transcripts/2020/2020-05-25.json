@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The coronavirus is a hoax. It is no more dangerous than a common cold."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's almost as if you are inviting the universe to smite you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't jinx me!",
+        "It's far too late."
+      ]
+    }
+  ]
+}

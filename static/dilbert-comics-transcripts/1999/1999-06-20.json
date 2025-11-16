@@ -1,0 +1,54 @@
+{
+  "date": "1999-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "I hired a new engineer for your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's never been an engineer before."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you're an engineer, so how hard could it be?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And he's cheap! I'll get a huge raise for being under budget."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And your project will fail! Ha ha ha ha!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Uh-oh. I laughed myself full of static electricity.",
+        "Fuzzy. Cute."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He's dead. Now what?",
+        "I guess you'll have to drag him to meetings."
+      ]
+    }
+  ]
+}

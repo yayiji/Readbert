@@ -1,0 +1,25 @@
+{
+  "date": "2004-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Something's been bugging me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been an executive assistant for five years.",
+        "When do I get promoted to executive?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got leadership coming out of my ears!",
+        "That's wax."
+      ]
+    }
+  ]
+}

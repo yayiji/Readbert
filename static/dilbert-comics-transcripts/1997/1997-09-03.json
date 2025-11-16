@@ -1,0 +1,28 @@
+{
+  "date": "1997-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Corporate emperor",
+        "I don't like to call what I'm doing \"downsizing.\" It sounds too negative."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like to call it \"wedgiesizing.\"",
+        "Now clean out your desk and shoo!",
+        "Yank!",
+        "Shoo!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He didn't take that very well.",
+        "You can't please everyone, Bob."
+      ]
+    }
+  ]
+}

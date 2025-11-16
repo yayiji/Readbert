@@ -1,0 +1,24 @@
+{
+  "date": "2004-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm taking a chance by hiring you. Don't make me regret it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today, one of my seasoned professionals will teach you to use indoor plumbing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look! Look at me!",
+        "The newspaper tucks under the arm!"
+      ]
+    }
+  ]
+}

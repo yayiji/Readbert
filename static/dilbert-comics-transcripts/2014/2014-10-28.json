@@ -1,0 +1,25 @@
+{
+  "date": "2014-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Three months.",
+        "That's how long I have been waiting for you to do your part of the project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps you don't realize how many projects I'm on."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you done any work for the other projects?",
+        "That would defeat the point of having multiple projects."
+      ]
+    }
+  ]
+}

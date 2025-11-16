@@ -1,0 +1,27 @@
+{
+  "date": "2017-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate this job.",
+        "I quit.",
+        "You're a robot.",
+        "You can't quit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you walk out the door, all I have to do is push one button on this app and your head will explode."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not if I kill you first.",
+        "What was that password?"
+      ]
+    }
+  ]
+}

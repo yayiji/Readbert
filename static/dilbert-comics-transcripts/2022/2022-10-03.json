@@ -1,0 +1,24 @@
+{
+  "date": "2022-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you hear about the new thing called \"quiet quitting\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want anyone here thinking they can get away with that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I should have had this talk sooner.",
+        "Zzzz-zzz"
+      ]
+    }
+  ]
+}

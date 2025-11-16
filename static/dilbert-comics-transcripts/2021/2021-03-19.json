@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd feel more comfortable if you wore a mask for this call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm working at home. I can't possibly give you a virus over a video call."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Show me a study that proves that or else stop denying science.",
+        "Um...."
+      ]
+    }
+  ]
+}

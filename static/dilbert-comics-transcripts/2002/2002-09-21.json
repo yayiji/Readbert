@@ -1,0 +1,27 @@
+{
+  "date": "2002-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Grab your dental floss and follow me. I'll explain on the way.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The newly hired mutant is named \"Peeved Eve!\" Wait until you see her peeved expression.",
+        "Hee hee!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!",
+        "Public",
+        "flossing!"
+      ]
+    }
+  ]
+}

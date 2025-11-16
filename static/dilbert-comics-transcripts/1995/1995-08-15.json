@@ -1,0 +1,27 @@
+{
+  "date": "1995-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The dehumanization of my job has rendered me invisible to humans.",
+        "Only you can see me, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can we fix this?",
+        "You could wear a bag on your head when you're around me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not the fix I had in mind.",
+        "It's not a perfect solution.",
+        "I'd still be able to hear you."
+      ]
+    }
+  ]
+}

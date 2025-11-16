@@ -1,0 +1,27 @@
+{
+  "date": "1993-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And people who don't bother to vote have no right to complain.",
+        "Why not?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why not? It's obvious.",
+        "No vote means no right to complain.",
+        "You can't get much more logical than that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Besides, that's how I was raised.",
+        "You were raised by bumper stickers?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your prototype killed Asok.",
+        "That means it is your job to clone him and hope he reincarnates into the clone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Carol used his DNA container for a snack jar, so be careful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do I feel nuts?",
+        "You're part Snickers bar."
+      ]
+    }
+  ]
+}

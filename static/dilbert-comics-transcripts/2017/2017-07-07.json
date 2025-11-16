@@ -1,0 +1,30 @@
+{
+  "date": "2017-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you attend a meeting for Kevin, our new immersive VR employee?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why can't Kevin do it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice needed him for something."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Good. Now do it again, but without your shirt.",
+        "I'm not comfortable with this."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When I'm on my vacation, Wally will be in charge."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assume you don't want anyone competent filling in for you because they might someday take your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to defend yourself?",
+        "I'm not that motivated."
+      ]
+    }
+  ]
+}

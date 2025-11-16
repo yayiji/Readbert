@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every time I leave the lab, some jerk steals my cables and replaces them with their bad ones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I have to spend hours stealing back one cable at a time and testing each one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that make you one of the cable-stealing jerks?",
+        "You've never met a problem you couldn't worsen."
+      ]
+    }
+  ]
+}

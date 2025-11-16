@@ -1,0 +1,24 @@
+{
+  "date": "2019-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you explain why your deliverables are late?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "An experiment at MIT suggests there is no objective reality. So maybe I wasn't late."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know how to respond to that.",
+        "Try smiling and nodding. Maybe toss in an \"Oh.\""
+      ]
+    }
+  ]
+}

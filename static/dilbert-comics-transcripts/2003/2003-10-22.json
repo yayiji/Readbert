@@ -1,0 +1,26 @@
+{
+  "date": "2003-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who's today's guest cartoonist?",
+        "I'm so happy in my new spacious office with an ocean view."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Finally I have the workplace I've always dreamed of."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The personalized environment headset works, sir,",
+        "Brad Pitt! Shouldn't you put a shirt on?",
+        "* Answer: Go to Dilbert.com"
+      ]
+    }
+  ]
+}

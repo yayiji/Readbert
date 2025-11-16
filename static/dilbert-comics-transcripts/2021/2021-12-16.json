@@ -1,0 +1,24 @@
+{
+  "date": "2021-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you remember that idea I had last week that you said can't be done?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our competitors just announced they are doing it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your point?",
+        "I just wanted to bask in your wrongness."
+      ]
+    }
+  ]
+}

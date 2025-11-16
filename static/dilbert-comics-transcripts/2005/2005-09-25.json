@@ -1,0 +1,54 @@
+{
+  "date": "2005-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello! Hello!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me see that. I'm an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm... it might be a bad signal or maybe a bad phone.",
+        "There's only one way to isolate the problem."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Go up on the roof and see if you have reception there."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Dang. Nothing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Uh-oh. The door is locked. No other way to get down... no one can hear me yell and my phone doesn't work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My only hope is to jump into that open garbage bin in the alley."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That'll teach him to keep his battery charged."
+      ]
+    }
+  ]
+}

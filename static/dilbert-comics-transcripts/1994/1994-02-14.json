@@ -1,0 +1,26 @@
+{
+  "date": "1994-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What shall we tell the guy from marketing this time?",
+        "Hee",
+        "Hee"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see if we can make him feel a sense of helplessness, desperation and fear."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The time-division multiplexer opened a hole in the fabric of space.",
+        "We're trapped in this meeting forever."
+      ]
+    }
+  ]
+}

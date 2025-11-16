@@ -1,0 +1,23 @@
+{
+  "date": "2002-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to do Ted's job and your own job until we hire someone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I do well, you'll make me do two jobs forever. If I do poorly, I'll get no raise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't promise anything, but there might be some verbal praise down the road."
+      ]
+    }
+  ]
+}

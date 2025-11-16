@@ -1,0 +1,25 @@
+{
+  "date": "1989-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Notice anything different, Dogbert?",
+        "Uh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm wearing three pens, not just two."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a pretty bold fashion statement.",
+        "I guess I was out of control."
+      ]
+    }
+  ]
+}

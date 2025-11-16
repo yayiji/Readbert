@@ -1,0 +1,25 @@
+{
+  "date": "2021-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't trust the experts when it comes to my health, so I do my own research."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, I recently learned I can cure my gout by sprinkling the ashes of a dead squirrel on a rose bush."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you shouldn't do your own research.",
+        "Why not?",
+        "It's working great!"
+      ]
+    }
+  ]
+}

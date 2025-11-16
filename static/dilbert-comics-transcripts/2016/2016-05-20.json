@@ -1,0 +1,25 @@
+{
+  "date": "2016-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, I saw you on Tinder."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please don't say anything else.",
+        "Please, please, please."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I swiped left.",
+        "Gaaa!"
+      ]
+    }
+  ]
+}

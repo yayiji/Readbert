@@ -1,0 +1,26 @@
+{
+  "date": "1991-06-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My fee for business consulting is $200 an hour.",
+        "Fair enough."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll spend the day questioning your employees to identify problem areas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later",
+        "It's unanimous.",
+        "They're underpaid and all the problems are your fault, \"Lard head.\""
+      ]
+    }
+  ]
+}

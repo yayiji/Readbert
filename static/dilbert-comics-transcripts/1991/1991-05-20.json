@@ -1,0 +1,24 @@
+{
+  "date": "1991-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I get a turtle for a pet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds cute. Maybe you can teach it to do tricks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you do any tricks?",
+        "I can roll on my back and die."
+      ]
+    }
+  ]
+}

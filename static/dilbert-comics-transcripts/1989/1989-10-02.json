@@ -1,0 +1,27 @@
+{
+  "date": "1989-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello...wait, aren't you...?",
+        "Ed McMahon"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you remember that sweepstakes entry you mailed?",
+        "Yes",
+        "Yes!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You forgot to put a stamp on it.",
+        "Oh."
+      ]
+    }
+  ]
+}

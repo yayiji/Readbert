@@ -1,0 +1,53 @@
+{
+  "date": "2014-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, let's see how employee 3452378 is doing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to our employee tracking system, you have wandered around the office 17% more than the average employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I have more meetings than most people."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, most of the difference is in restroom trips and detours past an attractive woman's desk."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your wrist monitor shows unacceptably low levels of caffeine for your workload."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's probably why your typos are up 9% and you have looked away from your workstation nine more times than last month."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now your wrist monitor indicates a desire to beat an authority figure to death with his own tablet computer."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Phew! Your brain's wuss subroutine just kicked in. The danger has passed."
+      ]
+    }
+  ]
+}

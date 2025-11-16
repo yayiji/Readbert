@@ -1,0 +1,29 @@
+{
+  "date": "1990-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Riding elevators is so awkward."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stare straight ahead...",
+        "Don't breathe...",
+        "Don't fidget...",
+        "Don't blink...",
+        "Arms hang like limp weights..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think he's dead.",
+        "Above all,",
+        "act naturally."
+      ]
+    }
+  ]
+}

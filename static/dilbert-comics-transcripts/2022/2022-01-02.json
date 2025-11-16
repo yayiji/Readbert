@@ -1,0 +1,56 @@
+{
+  "date": "2022-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I submitted your project timeline to the executive committee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How could you do that when I haven't given it to you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I winged it.",
+        "Wait, what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I said I winged it.",
+        "You mean you guessed?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I mean I drew upon my experience."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You have literally zero experience in this field of engineering."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I was hoping to compensate for that by forcing you to meet the timeline I submitted."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is the part where you say I'm refreshingly honest.",
+        "Nope."
+      ]
+    }
+  ]
+}

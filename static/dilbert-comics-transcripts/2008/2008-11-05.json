@@ -1,0 +1,23 @@
+{
+  "date": "2008-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm here for an interview in a conference room named..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Where hope goes to die\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's the first one past \"the rectangle of futility.\""
+      ]
+    }
+  ]
+}

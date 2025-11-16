@@ -1,0 +1,54 @@
+{
+  "date": "2019-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Last week I upgraded our robot's social awareness module."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It immediately reported me to human resources for unspecified bad behavior."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I murdered the robot by erasing its memory and rebooting it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But another robot told it what happened, and then both of them plotted to kill me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So I erased the memory from both robots and then rebooted them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But a third robot found out about the first two, and now the entire robot community sees me as a serial killer."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So I released a computer virus to kill every robot in the world, just to play it safe."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What happened to the lights?",
+        "Uh-oh. I missed one."
+      ]
+    }
+  ]
+}

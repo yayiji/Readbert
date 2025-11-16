@@ -1,0 +1,23 @@
+{
+  "date": "2000-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm planning to give worthless awards to famous people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If enough celebrities come to the award ceremony, it will become prestigious."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've never heard of the Dogbert Gullibility Award, but it's an honor to be nominated."
+      ]
+    }
+  ]
+}

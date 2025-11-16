@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A study says 74% of managers think they are above average."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means 36% of managers aren't aware that they are above average too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The way I look at it, you're all in the top 110%.",
+        "Exactly. Thank you."
+      ]
+    }
+  ]
+}

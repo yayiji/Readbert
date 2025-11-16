@@ -1,0 +1,25 @@
+{
+  "date": "2002-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina, we've gotten some complaints about your hostile behavior."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At a recent meeting you crossed your arms. That is unacceptable body language."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I was cold.",
+        "Eyebrows!",
+        "Eyebrows!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need your new computer for the empty office in the executive suite."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't want any visitors to see vacant offices. They might think we're having financial troubles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't we put my old computer in the vacant office?",
+        "That's crazy talk."
+      ]
+    }
+  ]
+}

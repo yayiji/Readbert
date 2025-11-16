@@ -1,0 +1,27 @@
+{
+  "date": "1995-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're moving to a new office across town.",
+        "I volunteered to coordinate the move."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I control your cubicle assignment.",
+        "Nay, your very existence.",
+        "From now on you will refer to me as \"Lord Wally the Puppet Master.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think it's legal to enjoy your work this much.",
+        "I banish you to the cubicle closest to your boss!!"
+      ]
+    }
+  ]
+}

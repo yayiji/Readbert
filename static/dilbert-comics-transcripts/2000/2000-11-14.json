@@ -1,0 +1,25 @@
+{
+  "date": "2000-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the most evil way to use our database of customer information?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Should we sell our mailing lists, spam without mercy, or just blackmail customers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "Do you have me in that database?",
+        "We know all about your clumping problems."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My accomplishment this week was scheduling fifty people to discuss the bug in our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I fixed the bug this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And thanks for not inviting me to the meeting."
+      ]
+    }
+  ]
+}

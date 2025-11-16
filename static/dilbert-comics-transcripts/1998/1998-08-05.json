@@ -1,0 +1,23 @@
+{
+  "date": "1998-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm grossly underpaid for the type of work I do now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write a description of your current duties. I'll be happy to do a compensation review."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sadly, it appears you're not qualified for your own job. But one of your subordinates is."
+      ]
+    }
+  ]
+}

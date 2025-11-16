@@ -1,0 +1,25 @@
+{
+  "date": "1996-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm from the association for products that are bad for you.",
+        "Here's a generous contribution to your campaign."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is so cool!",
+        "I'll use your money to get elected, then I'll put your entire industry in prison to cover my tracks!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This probably wrecks my chances of being named briber of the month."
+      ]
+    }
+  ]
+}

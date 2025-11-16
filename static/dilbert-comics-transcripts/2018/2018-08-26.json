@@ -1,0 +1,51 @@
+{
+  "date": "2018-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told you a week ago that I needed your first draft by today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is exactly why I say bad things about you behind your back!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need employees I can rely on!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your tardiness and sloth cannot be rewarded."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I gave you the first draft the same day you asked."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In fact, I think you're holding it in your hand right now."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll be back when I figure out how this is still your fault."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our VP of sales asks that you answer customer questions through the sales reps, not directly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is the goal to reduce the timeliness of my answers or just to filter out the accuracy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you like this?",
+        "Should I tell you or the sales reps?"
+      ]
+    }
+  ]
+}

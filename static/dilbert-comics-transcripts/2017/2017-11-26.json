@@ -1,0 +1,55 @@
+{
+  "date": "2017-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Negotiate with your vendor and get the price down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know how to negotiate. I'm an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's simple. All you need to do is make an aggressive first demand and settle for less."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How aggressive are we talking about here?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The more aggressive the better."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That doesn't sound right.",
+        "Trust me. More is better."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My opening demand is that you name me as beneficiary on your life insurance policy, mow my lawn, and die in traffic on the way home."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You got the price down by 35%.",
+        "I really hoped it wouldn't work."
+      ]
+    }
+  ]
+}

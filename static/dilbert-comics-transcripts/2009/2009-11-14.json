@@ -1,0 +1,26 @@
+{
+  "date": "2009-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have many relatives?",
+        "Yes, I have a huge family."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In any given week, how many of them are dying, graduating, going to jail, or getting married?",
+        "Maybe... six."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When would you have time to work?",
+        "I have to go. Someone fell out of a tree."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't see why our web pages need URLs. Get rid of them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did that make any sense at all?",
+        "Yes, it's brilliant."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Give me a month and I'll replace our URLs with uniform resource locators.",
+        "Perfect."
+      ]
+    }
+  ]
+}

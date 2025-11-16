@@ -1,0 +1,23 @@
+{
+  "date": "1998-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our top executives are in a special strategy lockup meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The meeting won't end until they agree on a new strategy, so it might be a while."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe if I wedge my broom here I won't forget where I put it."
+      ]
+    }
+  ]
+}

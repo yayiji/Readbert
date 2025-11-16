@@ -1,0 +1,55 @@
+{
+  "date": "1998-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did the I.S. department deny my request for a PC upgrade?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because we are evil incarnate!!",
+        "Buwahahaha!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was looking for something more specific."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You didn't provide a dollar estimate of the benefits."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's ridiculous.",
+        "I can't put a value on every tool I need to do my job."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you can't quantify it, then it must not be necessary."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then why does the company give me a chair? I can't quantify that either?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Here's one more reason why it stinks to be me."
+      ]
+    }
+  ]
+}

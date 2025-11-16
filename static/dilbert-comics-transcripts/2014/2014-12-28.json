@@ -1,0 +1,54 @@
+{
+  "date": "2014-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't promptly respond to my email last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You sent that email at 1 a.m."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I expect my employees to be checking email at all times."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sleep is necessary for normal brain function."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Anyone who succumbs to your leadership on this topic will turn into a dysfunctional moron in 48 hours."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't see where you're going with this. It's all so confusing in my brain."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So tired...",
+        "Can't stay awake..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't usually win conversations this decisively."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I rescheduled the pre-meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now the pre-meeting is after the meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll schedule some time for me to pre-care."
+      ]
+    }
+  ]
+}

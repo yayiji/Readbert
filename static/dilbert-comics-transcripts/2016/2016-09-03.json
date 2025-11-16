@@ -1,0 +1,23 @@
+{
+  "date": "2016-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you tell me about this sooner?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a fool's game because Zeno's paradox says there will always be a time sooner than the one I pick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Alice's paradox says that no matter how many criticisms you explain away, there are always plenty more."
+      ]
+    }
+  ]
+}

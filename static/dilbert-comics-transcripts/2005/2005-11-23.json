@@ -1,0 +1,27 @@
+{
+  "date": "2005-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be right back.",
+        "I'm going to grab a Ted sandwich before the meeting.",
+        "A what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The food people always leave one sandwich in the break room fridge labeled Ted.",
+        "It tastes like ham."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're looking good, Ted.",
+        "Have you lost weight?"
+      ]
+    }
+  ]
+}

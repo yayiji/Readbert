@@ -1,0 +1,30 @@
+{
+  "date": "1995-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has decided to outsource all of the functions that we're not any good at."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yippee!",
+        "Yay!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When's your last day?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Uh-oh...they're not good at knowing what they're not good at..."
+      ]
+    }
+  ]
+}

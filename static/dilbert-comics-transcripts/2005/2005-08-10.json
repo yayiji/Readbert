@@ -1,0 +1,24 @@
+{
+  "date": "2005-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to represent our company in the corporate marathon."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... I can't run 26 miles.",
+        "Yes, you can. I've designed a special hat to help you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What the...?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2005-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does anyone have an issue with the plan as I've outlined it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Kah!",
+        "Kah!",
+        "Kah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm with Sourpuss."
+      ]
+    }
+  ]
+}

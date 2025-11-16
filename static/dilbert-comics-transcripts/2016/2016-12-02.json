@@ -1,0 +1,24 @@
+{
+  "date": "2016-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to take an extended medical leave to recover from a boredom-related injury at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You gave me a task so boring that my brain tried to escape through my lower gastro-intestinal tract."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sure it wasn't that bad.",
+        "I found brain fragments in my pants."
+      ]
+    }
+  ]
+}

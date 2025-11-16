@@ -1,0 +1,33 @@
+{
+  "date": "1990-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Be candid, Dilbert. We have a corporate philosophy that says we \"don't shoot the messenger.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good.",
+        "Had you consulted with the engineering department, you never would have launched such an ill-conceived product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is doomed to fail. You will all be humiliated and probably fired."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can't I just wing him?!",
+        "No, Eileen, that's not our philosophy.",
+        "It turns out the corporate philosophy is a very flexible document.",
+        "You're getting tar on the carpet."
+      ]
+    }
+  ]
+}

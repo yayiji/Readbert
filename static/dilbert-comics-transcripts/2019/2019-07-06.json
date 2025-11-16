@@ -1,0 +1,28 @@
+{
+  "date": "2019-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked you to stop using your speaker-phone because it was disturbing your co-workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now they tell me you started doing voice-texting, which is even worse.",
+        "Okay, fine."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Later that day",
+        "Turn off your keyboard click sound!",
+        "Click",
+        "Click",
+        "Click"
+      ]
+    }
+  ]
+}

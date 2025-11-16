@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You all remember the thing I correctly predicted twelve years ago..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Therefore, you should heed my word on this completely unrelated topic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that make sense?",
+        "I won't be taking questions."
+      ]
+    }
+  ]
+}

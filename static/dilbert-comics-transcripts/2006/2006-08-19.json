@@ -1,0 +1,23 @@
+{
+  "date": "2006-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Today I will keep a positive attitude about life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I canceled your project so I can use the budget to remodel my office."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yay life!"
+      ]
+    }
+  ]
+}

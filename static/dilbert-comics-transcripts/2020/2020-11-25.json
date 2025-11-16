@@ -1,0 +1,31 @@
+{
+  "date": "2020-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of our retail locations were destroyed by protesters last night."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do they hate us?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They don't hate us.",
+        "We donate to their cause."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Am I missing some context?",
+        "You should see what they do to the people they don't like."
+      ]
+    }
+  ]
+}

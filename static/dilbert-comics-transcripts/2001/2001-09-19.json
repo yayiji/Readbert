@@ -1,0 +1,36 @@
+{
+  "date": "2001-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's easy to create a strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Write down everything you do,",
+        "preceded by the phrase, \"Increase",
+        "our market share",
+        "by...\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What",
+        "if we",
+        "change",
+        "what",
+        "we do?",
+        "Call me",
+        "and I'll",
+        "sell you",
+        "some more",
+        "valuable",
+        "advice."
+      ]
+    }
+  ]
+}

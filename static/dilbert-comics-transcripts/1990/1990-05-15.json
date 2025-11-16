@@ -1,0 +1,24 @@
+{
+  "date": "1990-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the ambush reporter looks for another victim."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it true you have often fantasized about marrying a rich guy and ditching your career?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes!!! Yes!!! And I... secretly learned to cook!!",
+        "Is that yarn sticking out of your briefcase?!"
+      ]
+    }
+  ]
+}

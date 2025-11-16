@@ -1,0 +1,29 @@
+{
+  "date": "2002-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm refreshed from my vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I am calm and relaxed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally sat in your chair."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We'll have to burn your clothes too."
+      ]
+    }
+  ]
+}

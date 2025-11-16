@@ -1,0 +1,26 @@
+{
+  "date": "1993-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You engineers have done nothing on my project.",
+        "You just keep saying I haven't given you sufficient requirements!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know what else you need and you won't tell me what you need!!",
+        "Is this just your way of avoiding work??!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll bet you regret choosing marketing as a career path.",
+        "It looks like a lot of work."
+      ]
+    }
+  ]
+}

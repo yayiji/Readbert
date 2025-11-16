@@ -1,0 +1,25 @@
+{
+  "date": "1990-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No, you may not borrow the car to go cruising.",
+        "I think we should vote on it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heh-heh... Okay, but a tie means no change in the decision.",
+        "Fair enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm glad he didn't demand a recount."
+      ]
+    }
+  ]
+}

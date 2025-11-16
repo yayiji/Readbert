@@ -1,0 +1,54 @@
+{
+  "date": "2000-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to work flex time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll work for five hours before anyone else gets to the office..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I'll take a break for ten hours..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then I'll work five more hours after the witnesses...",
+        "Er...co-workers go home."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll know I'm working hard because my cubicle will be filthy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I have to be perfectly honest; there's a down side to this plan."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I would miss your staff meetings that I cherish so much."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm having trouble keeping my clever schemes separate from my sarcasm."
+      ]
+    }
+  ]
+}

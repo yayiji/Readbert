@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think success is mostly a function of your genetic makeup or your upbringing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My mom raised me by putting a warm thermos of coffee in my crib and going out for the day. And I turned out great."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no follow-up questions, in case you wondered.",
+        "I'm not the curious type."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2012-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm sending you to a conference for the world's top engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With any luck, one of our competitors will try to poach you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That will save me the trouble of firing you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You'll be going with five other people I want to get rid of."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I took the liberty of updating your résumé."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If this goes as planned, you'll destroy one of our competitors from within, like a hideous disease."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Make me proud!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It was the first time I ever felt useful.",
+        "I didn't like it."
+      ]
+    }
+  ]
+}

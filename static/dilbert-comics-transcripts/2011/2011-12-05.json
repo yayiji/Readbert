@@ -1,0 +1,26 @@
+{
+  "date": "2011-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm forming a rebel army.",
+        "Count me in!",
+        "What are we fighting for?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be fighting for social justice and I'll be scheming to become an iron-fisted dictator."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In the long run, I'll be a billionaire and you'll be a stain on a tank tread.",
+        "Please, please say there will be looting."
+      ]
+    }
+  ]
+}

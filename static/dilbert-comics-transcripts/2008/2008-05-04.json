@@ -1,0 +1,55 @@
+{
+  "date": "2008-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to be the lead developer on this project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't check the other developers' work because it will make them angry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's okay, as long as they do good work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Actually, they do bad work.",
+        "Very, very bad work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You are setting me up for certain failure."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If work were easy, no one would pay you to do it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay. I'll go through the motions while hoping the project gets canceled for other reasons."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Keep up the bad work, Carl.",
+        "Who told you?"
+      ]
+    }
+  ]
+}

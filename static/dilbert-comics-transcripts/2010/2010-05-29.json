@@ -1,0 +1,23 @@
+{
+  "date": "2010-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm doing basic research to test my theory that donuts make other people stupid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I expect you to do basic research that will increase our profits this quarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow. It works on the first bite."
+      ]
+    }
+  ]
+}

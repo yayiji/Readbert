@@ -1,0 +1,23 @@
+{
+  "date": "1989-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take a look at my new invention: the \"Dick Tracy\" watch!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! A watch that transmits voices and pictures could revolutionize life on this planet!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gee, that sounds a lot harder than my idea of gluing a little picture of Dick Tracy on each watch."
+      ]
+    }
+  ]
+}

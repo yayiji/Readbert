@@ -1,0 +1,30 @@
+{
+  "date": "2021-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted says you think we should replace our internal network with some knotted rope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And you believed Ted?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's more credible than you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Why is he more credible than me?",
+        "He knows you can't send data over a rope."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "1998-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to do some personal business during my lunch hour."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally I would work through lunch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But this will take a full hour."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It would only take two minutes if I used the internet."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But the internet is for business use only!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Our company has a limited number of zeroes and ones."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When they're gone, they're gone!",
+        "Furthermore..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You mocked him for a full hour.",
+        "Now it's time to eat."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I bought Dogbert's management software to yell at you so I don't have to."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend Track 3, titled \"You're my least valuable asset.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who wants to buy Dogbert's noise cancellation headphones for bad employees?",
+        "I need you less than my mousepad."
+      ]
+    }
+  ]
+}

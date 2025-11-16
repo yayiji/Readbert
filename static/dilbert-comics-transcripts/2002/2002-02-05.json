@@ -1,0 +1,23 @@
+{
+  "date": "2002-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, this is Dogbert's all-natural and holistic tech support."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try stuffing tree bark in the CD drive and meditating."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, of course it won't damage anything; it's all natural!"
+      ]
+    }
+  ]
+}

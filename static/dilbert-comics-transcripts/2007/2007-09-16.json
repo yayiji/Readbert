@@ -1,0 +1,54 @@
+{
+  "date": "2007-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't make any of the contract changes we agreed on last month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's how I negotiate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not authorized to make any changes to the contract."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And the executives who have that power will think I'm not doing my job if I ask them to do it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So I agree to everything you ask, then I don't put any of it in the contract."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Over the course of several months, I hope to wear you down and make you sign the contract as is."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can you at least change section three the way I asked?",
+        "Sure. No problem."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll see you in a month."
+      ]
+    }
+  ]
+}

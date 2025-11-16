@@ -1,0 +1,23 @@
+{
+  "date": "2019-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told a customer we would make a small change to the software for them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are no small software changes, only small managers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang it! Why does that sound so wise!"
+      ]
+    }
+  ]
+}

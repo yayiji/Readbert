@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have seventeen pieces of evidence that you are an Elbonian spy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, you have seventeen coincidences and a bad case of confirmation bias."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you prove you are not a spy?",
+        "How about I prove you're a moron and see how far that gets us?"
+      ]
+    }
+  ]
+}

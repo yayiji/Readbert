@@ -1,0 +1,25 @@
+{
+  "date": "1999-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director.",
+        "I'm starting an employee skills database."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Question: Is this the first step in moving everyone to jobs they don't want?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, no, no...",
+        "The first step was when I laughed myself fuzzy thinking about it."
+      ]
+    }
+  ]
+}

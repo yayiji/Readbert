@@ -1,0 +1,54 @@
+{
+  "date": "2009-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you three to put together a teamwork award program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we do a good job, can we give ourselves the award?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Great. Now I have no incentive to do a good job on this award thing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Keeping your job should be all the incentive you need."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then why does anyone need a teamwork award?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's just slap something together and randomly nominate people."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I got a teamwork award and yet I feel no different.",
+        "Yup."
+      ]
+    }
+  ]
+}

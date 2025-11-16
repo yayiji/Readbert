@@ -1,0 +1,26 @@
+{
+  "date": "2017-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert enters the jargon matrix to save Asok",
+        "Nothing in this dimension is real.",
+        "Double-click on that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The jargon matrix is where people imagine they are being useful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But in reality, they are sitting in a chair doing nothing.",
+        "I just made a ten-year technology plan."
+      ]
+    }
+  ]
+}

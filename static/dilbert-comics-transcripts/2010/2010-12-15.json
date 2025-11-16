@@ -1,0 +1,25 @@
+{
+  "date": "2010-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does my new goatee make me look manly and intellectual at the same time?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It makes you look too lazy to shave around your lips."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I think I saw a flea.",
+        "Yeah.",
+        "That one is resistant to soup."
+      ]
+    }
+  ]
+}

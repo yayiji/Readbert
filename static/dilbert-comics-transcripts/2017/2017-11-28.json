@@ -1,0 +1,25 @@
+{
+  "date": "2017-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our financial forecaster quit. I need you to fill in for him."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know how to do financial forecasts.",
+        "Neither did he."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How were you making decisions?",
+        "It's better if we don't excavate that septic tank."
+      ]
+    }
+  ]
+}

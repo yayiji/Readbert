@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're trying to decide if it's better to have an open office plan with too many distractions to be productive..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...or soul-crushing cubicles that will make every employee envy the dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe everyone can just work from home.",
+        "And miss all of this?"
+      ]
+    }
+  ]
+}

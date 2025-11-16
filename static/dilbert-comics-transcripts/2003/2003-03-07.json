@@ -1,0 +1,26 @@
+{
+  "date": "2003-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'd like to interview you for \"Loser Magazine.\"",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have a pen?",
+        "Wow. These are easy questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean, may I borrow your pen?",
+        "No, you look like a chewer."
+      ]
+    }
+  ]
+}

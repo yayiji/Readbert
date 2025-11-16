@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, your performance is terrible. You're fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that every message you have ever sent using company devices is archived on a network you assigned me to maintain?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that a threat?",
+        "I also archive your web searches."
+      ]
+    }
+  ]
+}

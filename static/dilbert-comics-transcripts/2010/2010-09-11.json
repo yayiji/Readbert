@@ -1,0 +1,25 @@
+{
+  "date": "2010-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need someone to run focus groups about our existing products.",
+        "What is a focus group?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In our case, it's like a mob of angry villagers armed with sharp pens."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you'd also be the fire marshal for the floor. Are you in?",
+        "Yeah. It's a tough job market."
+      ]
+    }
+  ]
+}

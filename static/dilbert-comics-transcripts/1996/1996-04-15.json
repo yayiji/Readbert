@@ -1,0 +1,25 @@
+{
+  "date": "1996-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you've been working eighteen hours a day.",
+        "I realized I must add a person to the effort."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hired a night shift manager.",
+        "After I go home at five o'clock he'll take over and ask why you're behind schedule."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like my status reports rendered in 3-D, but don't spend a lot of time on it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2002-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My review says I \"need too much supervision.\" Are you insane?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Most days I can't get your time-wasting, lard-filled suit out of my cubicle with a freakin' crane!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!! It's a trap!",
+        "You're supervising me too much right now!!",
+        "I win."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Human resources tells me that you refused to take the random drug test."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't refuse. I literally can't do it because I have a shy bladder. It's a medical condition that 7% of men have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you will understand.",
+        "It's a side effect of the nose candy, right?"
+      ]
+    }
+  ]
+}

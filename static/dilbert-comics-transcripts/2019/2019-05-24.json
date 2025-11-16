@@ -1,0 +1,24 @@
+{
+  "date": "2019-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert and I disagree on how to fix the bug."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For context, one of us is a moron, and one of us is always right."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm confused because there are three of us here.",
+        "I forgot one moron."
+      ]
+    }
+  ]
+}

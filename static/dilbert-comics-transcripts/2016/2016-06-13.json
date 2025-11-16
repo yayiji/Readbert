@@ -1,0 +1,25 @@
+{
+  "date": "2016-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting a lot of product complaints on Twitter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell those trolls to shut up and leave us alone.",
+        "Um...okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why did our stock just drop to zero?",
+        "Sounds like a seasonal thing."
+      ]
+    }
+  ]
+}

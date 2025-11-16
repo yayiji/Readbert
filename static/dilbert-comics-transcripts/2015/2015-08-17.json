@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My brain stimulator will keep me interested in your meetings, no matter how boring they are."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now I can enjoy work and get paid, too. It seems I have beaten the system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's enjoying what?",
+        "Work. It's super creepy."
+      ]
+    }
+  ]
+}

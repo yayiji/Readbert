@@ -1,0 +1,26 @@
+{
+  "date": "2010-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I'm sending you to cultural sensitivity training before we meet with the Elbonians."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Last time you almost started a war."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I made one little mistake.",
+        "Flashback",
+        "And here's another way the women in my country are different.",
+        "Pow!!!"
+      ]
+    }
+  ]
+}

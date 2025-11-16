@@ -1,0 +1,25 @@
+{
+  "date": "2021-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having trouble hiring qualified technical people.",
+        "Have any suggestions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could stop managing the company incredibly incompetently and also pay everyone more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is not what I was looking for.",
+        "Was it close?"
+      ]
+    }
+  ]
+}

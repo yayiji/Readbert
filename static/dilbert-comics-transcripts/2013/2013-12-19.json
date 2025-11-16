@@ -1,0 +1,24 @@
+{
+  "date": "2013-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, look! There's a story on the internet about your fabulous CEO lifestyle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a picture of your yacht, your penthouse in New York, your palatial estate, and your priceless art."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This really isn't the time.",
+        "Said the man with the million-dollar watch."
+      ]
+    }
+  ]
+}

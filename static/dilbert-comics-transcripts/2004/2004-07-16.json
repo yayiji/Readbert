@@ -1,0 +1,25 @@
+{
+  "date": "2004-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Negotiations",
+        "So far we've agreed that my company will take all the expenses and legal liabilities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your company will take all of the revenue, patents and public credit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But where it says I'll dig you a swimming pool with my bare hands, I will not do that.",
+        "You win! You can use a spoon."
+      ]
+    }
+  ]
+}

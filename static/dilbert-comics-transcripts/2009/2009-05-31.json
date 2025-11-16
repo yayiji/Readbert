@@ -1,0 +1,53 @@
+{
+  "date": "2009-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How's work, Dilbert?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm doing the job of three people and my pay has been cut 20%."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My investments are worthless and my odds of finding a suitable mate are nearing zero."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "My life has no meaning, no joy and no hope."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you have any motherly advice?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Shake it off, you big wuss."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And you can pass that wisdom to the grandchildren you won't be having.",
+        "You're not good at this.",
+        "Eat broccoli. Whatever."
+      ]
+    }
+  ]
+}

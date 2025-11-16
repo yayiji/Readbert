@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In order to make an informed decision, you would need to know as much as I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's impossible, so instead, by mutual, implied agreement, I will feed you some lies that point you to the right decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we don't upgrade our servers, a herd of trolls will attack headquarters.",
+        "No trolls!"
+      ]
+    }
+  ]
+}

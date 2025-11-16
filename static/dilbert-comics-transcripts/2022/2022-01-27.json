@@ -1,0 +1,27 @@
+{
+  "date": "2022-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey.",
+        "Gaaa!!!",
+        "Stop sneaking up on me!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is my fault?",
+        "Yes, because you sneak up on people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you guys talking about?",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

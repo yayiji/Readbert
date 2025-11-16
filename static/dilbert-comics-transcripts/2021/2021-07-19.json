@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to join me for lunch?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, it's too dangerous. I might accidentally wander into some gray area of wokeness and get myself canceled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're afraid of women?",
+        "Who isn't?"
+      ]
+    }
+  ]
+}

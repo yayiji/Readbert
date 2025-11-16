@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My program predicts that tiny holes in the ozone could lead to..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Flash!",
+        "Zap zap zap"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now we'll never know...",
+        "But you're getting warmer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, career counselor",
+        "What would you like to do with your degree in... flower arranging?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like to be a billionaire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you willing to work hard?",
+        "That would sort of defeat the purpose."
+      ]
+    }
+  ]
+}

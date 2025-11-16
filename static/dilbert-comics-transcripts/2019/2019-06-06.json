@@ -1,0 +1,25 @@
+{
+  "date": "2019-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a doctor's appointment today.",
+        "Doctor? Bah!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All you need are some essential oils and a supplement or two."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has anyone ever survived your medical advice?",
+        "Some kava could fix your attitude problem."
+      ]
+    }
+  ]
+}

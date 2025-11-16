@@ -1,0 +1,24 @@
+{
+  "date": "1999-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Free blood pressure screening today.",
+        "135 over 88."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're below the company average. Here's some more work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long did you think you could get away with that?"
+      ]
+    }
+  ]
+}

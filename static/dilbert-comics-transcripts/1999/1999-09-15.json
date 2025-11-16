@@ -1,0 +1,24 @@
+{
+  "date": "1999-09-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see some water damage on your ceiling, Mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's usually the first sign that the roof will collapse.",
+        "What should I do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, if you hear any strange sounds, you might want to leap out a window."
+      ]
+    }
+  ]
+}

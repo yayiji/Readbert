@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been saying for years that \"employees are our most valuable asset.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It turns out that I was wrong. Money is our most valuable asset. Employees are ninth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm afraid to ask what came in eighth.",
+        "Carbon paper."
+      ]
+    }
+  ]
+}

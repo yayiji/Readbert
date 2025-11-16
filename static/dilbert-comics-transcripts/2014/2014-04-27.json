@@ -1,0 +1,55 @@
+{
+  "date": "2014-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to create a new business strategy for the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then use your laptop in a coffee shop that has public access Wi-Fi."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hackers will get into your computer in minutes and steal your strategy document."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "With any luck, the hackers will sell those secrets to our competitors."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Obviously, we would never use any strategy you created, so our competitors will be misled."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... you want me to do a bad job on an assignment and then go drink coffee?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can you handle that?",
+        "I like my odds."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why do you want a copy of our business strategy?",
+        "It'll save a step."
+      ]
+    }
+  ]
+}

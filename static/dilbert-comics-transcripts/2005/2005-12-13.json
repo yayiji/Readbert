@@ -1,0 +1,24 @@
+{
+  "date": "2005-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting Dogbert's selfish cell phone company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It has no phone number. You can call people and bother them when they're busy, but they can't do the same to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi mom. Oh, nothing. I'm just walking someplace.",
+        "Stop bothering me!"
+      ]
+    }
+  ]
+}

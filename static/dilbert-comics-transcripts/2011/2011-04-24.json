@@ -1,0 +1,56 @@
+{
+  "date": "2011-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The first thing on the agenda."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hold on. I don't know anything about this guy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the difference?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I need to know how important he is."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Should I pretend to like his jokes?",
+        "Should I nod in agreement no matter what he says?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You can call me anything. Just don't call me late for dinner."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha ha ha",
+        "Ha ha ha ha",
+        "Ha ha ha!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope I didn't waste that."
+      ]
+    }
+  ]
+}

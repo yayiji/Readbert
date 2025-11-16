@@ -1,0 +1,58 @@
+{
+  "date": "1999-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "E-mail two copies to me when you're done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Two copies?",
+        "It's e-mail.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Never mind.",
+        "I'll e-mail two copies."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And fax a copy on green paper for my files."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Green? It's a fax!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And bring me a hard copy of the internet so I can do some serious surfing."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Motivation...",
+        "Gone... losing...",
+        "Consciousness..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did I end up with all the lazy employees?"
+      ]
+    }
+  ]
+}

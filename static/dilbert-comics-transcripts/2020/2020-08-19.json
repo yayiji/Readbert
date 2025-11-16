@@ -1,0 +1,24 @@
+{
+  "date": "2020-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to fire Dilbert because he said I might be nuts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He wouldn't say that to a man."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He said the same thing to me last week.",
+        "It doesn't count if it's true!"
+      ]
+    }
+  ]
+}

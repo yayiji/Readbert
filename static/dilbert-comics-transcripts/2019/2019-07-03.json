@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We opened our first \"center of excellence\" today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At the risk of sounding too optimistic, we should be brimming with excellence by nightfall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How will we know it is working?",
+        "It's better if we don't try too hard to measure it."
+      ]
+    }
+  ]
+}

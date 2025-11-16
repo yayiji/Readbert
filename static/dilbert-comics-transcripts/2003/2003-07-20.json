@@ -1,0 +1,53 @@
+{
+  "date": "2003-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As requested, I put together a list of functions we should outsource."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I limited my list to things we don't do well."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Management, sales, marketing, quality control, engineering, finance, human resources, and customer support."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That leaves us with our core competence..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...Sitting around a brown table."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And, of course, our ability to speak honestly without fear of retribution."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You will never get another raise as long as I'm alive."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well, that puts a lot of pressure on the brown table strategy."
+      ]
+    }
+  ]
+}

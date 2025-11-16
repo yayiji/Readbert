@@ -1,0 +1,25 @@
+{
+  "date": "2005-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new employee",
+        "Maybe if I make a friend at work it will reduce my stress hump."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I must choose carefully because I will be judged by the people I choose to associate with."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi. I'm the new guy.",
+        "The lazy people have found each other."
+      ]
+    }
+  ]
+}

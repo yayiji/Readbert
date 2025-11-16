@@ -1,0 +1,26 @@
+{
+  "date": "2010-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "According to the employee survey, you want fewer benefits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't remember doing a survey.",
+        "We polled a random sample."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That seems a bit suspicious.",
+        "In other findings, you want more verbal abuse."
+      ]
+    }
+  ]
+}

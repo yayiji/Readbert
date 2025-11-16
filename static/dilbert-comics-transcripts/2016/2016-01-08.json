@@ -1,0 +1,23 @@
+{
+  "date": "2016-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss asked me to show you some numbers he put together."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why are you wearing gloves?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm afraid to get it on my hands."
+      ]
+    }
+  ]
+}

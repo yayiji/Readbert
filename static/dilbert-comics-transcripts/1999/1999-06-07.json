@@ -1,0 +1,26 @@
+{
+  "date": "1999-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't talk now, Wally. I'm rushing to meet my deadline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sounds like poor planning.",
+        "Why must I suffer?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mind if I stay here and think up new nicknames for coffee?",
+        "Java-wava...",
+        "Bean brew..."
+      ]
+    }
+  ]
+}

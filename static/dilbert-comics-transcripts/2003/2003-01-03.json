@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A reporter wants to see you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He claims we've been delivering all of our garbage to the local park for twenty years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How is that even possible?",
+        "The secret is in the spreading."
+      ]
+    }
+  ]
+}

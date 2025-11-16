@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sending you to Elbonia to teach a class in Cobol.",
+        "I don't know Cobol."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you can learn it on the plane."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll take some scuba lessons up there too.",
+        "I'm making my getaway."
+      ]
+    }
+  ]
+}

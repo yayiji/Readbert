@@ -1,0 +1,33 @@
+{
+  "date": "2002-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To: Employees",
+        "From: Catbert",
+        "All non-work conversations are banned."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on",
+        "you're only",
+        "allowed to talk",
+        "about work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it only",
+        "applies during",
+        "work",
+        "hours.",
+        "I can't take",
+        "that chance."
+      ]
+    }
+  ]
+}

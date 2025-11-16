@@ -1,0 +1,33 @@
+{
+  "date": "1996-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "To: All employees",
+        "The smell of popcorn",
+        "in the office is",
+        "unprofessional..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's banning popcorn!",
+        "First it was tobacco,",
+        "then perfume, now",
+        "this... there's only",
+        "one pollutant left."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "... This brings me to",
+        "the unpleasant",
+        "subject of Wally..."
+      ]
+    }
+  ]
+}

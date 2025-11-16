@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I spout obvious generalities about information?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you have too much information, and it's not organized in any useful way, then it can't help you make decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you a consultant or mildly retarded?",
+        "I wish I knew."
+      ]
+    }
+  ]
+}

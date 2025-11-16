@@ -1,0 +1,53 @@
+{
+  "date": "2014-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say I need employees who can say no to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like you to be my trusted advisor, Wally, because you criticize every idea I have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. That's the dumbest plan I've ever heard."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What?",
+        "You heard me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not sure what I'm supposed to do now.",
+        "You could thank me for saying no."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why does that sound right?!!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're welcome."
+      ]
+    }
+  ]
+}

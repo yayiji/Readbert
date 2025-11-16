@@ -1,0 +1,23 @@
+{
+  "date": "2005-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, this year you did the work of four people and made over $10 million for the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But according to our web monitoring software, you used company resources to look at a weather web site."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thief."
+      ]
+    }
+  ]
+}

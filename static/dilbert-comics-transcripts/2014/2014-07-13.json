@@ -1,0 +1,51 @@
+{
+  "date": "2014-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a study of our core competencies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It seems we're very good at automating things that we shouldn't be doing in the first place."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that's not all we're good at."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We're also good at worshipping the status quo as if it were Steve Jobs' reanimated body."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And no one is as good at masking lapses in fiduciary responsibility."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Lastly, we're good at hearing what we want to hear."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "So... we're good at automating things?"
+      ]
+    }
+  ]
+}

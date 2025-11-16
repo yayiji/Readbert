@@ -1,0 +1,25 @@
+{
+  "date": "2013-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to foster a culture of innovation.",
+        "Does anyone have an idea how we can do that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could give us less work.",
+        "And you could stop criticizing every idea we ever have."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anyone have a suggestion that isn't ridiculous?"
+      ]
+    }
+  ]
+}

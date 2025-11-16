@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your engineering knowledge is good, but I can't promote you to \"prima donna\"."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Unless you demonstrate a few more serious personality disorders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can mumble.",
+        "Sure, but can you do it with disdain for all of humanity?"
+      ]
+    }
+  ]
+}

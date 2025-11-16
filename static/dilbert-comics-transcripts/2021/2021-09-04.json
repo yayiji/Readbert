@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're assigning you a workplace nemesis to make your job a senseless nightmare."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought that happened organically."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You thought it was a coincidence that every employee has a nemesis?",
+        "Now I feel dumb."
+      ]
+    }
+  ]
+}

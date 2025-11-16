@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you help me with something?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, our employee compensation system incentivizes me to let you fail so I can lay claim to a larger share of our limited budget for raises."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could ask someone who is less aware.",
+        "None of them are smart enough to help."
+      ]
+    }
+  ]
+}

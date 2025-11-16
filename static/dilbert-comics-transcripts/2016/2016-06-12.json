@@ -1,0 +1,54 @@
+{
+  "date": "2016-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I simplified the user interface as you suggested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You wanted one button to do eleven different functions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It wasn't easy, but I think you'll be pleased."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If you want to turn up the volume..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You hold the button for exactly five seconds..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then double-tap, and double-tap again. Then hold for exactly six seconds."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then press it all the way down, then halfway up, then 27% back down. And hold for nine seconds."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Or you could admit that you don't know anything about interface design.",
+        "Never!"
+      ]
+    }
+  ]
+}

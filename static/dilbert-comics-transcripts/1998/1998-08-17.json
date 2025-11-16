@@ -1,0 +1,23 @@
+{
+  "date": "1998-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is today's motivational message for all employees."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Today is the first day of the rest of the week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or is it?"
+      ]
+    }
+  ]
+}

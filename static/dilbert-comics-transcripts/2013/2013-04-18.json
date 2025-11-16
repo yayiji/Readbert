@@ -1,0 +1,23 @@
+{
+  "date": "2013-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your plan is technically sound, but I have to reject it for political reasons I can't share."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll come back with some plans that are irrational nonsense and see if they make it past your filter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll always wonder if there was a better way to handle that."
+      ]
+    }
+  ]
+}

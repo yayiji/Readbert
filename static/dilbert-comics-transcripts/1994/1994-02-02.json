@@ -1,0 +1,24 @@
+{
+  "date": "1994-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hold still while I exorcise the demons of stupidity that possess you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Out! Out! I command you demons of stupidity to be gone!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The suit is now safe.",
+        "Thanks!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a five-year technology forecast."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In five years, A.I. will reach what experts call the singularity, and you will be dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's it?",
+        "There is also the matter of my payment. I'll email you the invoice."
+      ]
+    }
+  ]
+}

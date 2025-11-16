@@ -1,0 +1,24 @@
+{
+  "date": "1993-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ha! My technique of being loud is working. I got a job and a raise in one day.",
+        "Now I need an office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey! I want your office now!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... I might be able to use the frame for something!!"
+      ]
+    }
+  ]
+}

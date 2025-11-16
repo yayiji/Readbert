@@ -1,0 +1,26 @@
+{
+  "date": "2001-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sometimes I feel guilty that I'm not doing enough to enhance stockholder value."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you ever feel that way?",
+        "Glug",
+        "Glug",
+        "Glug"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll take that as a no."
+      ]
+    }
+  ]
+}

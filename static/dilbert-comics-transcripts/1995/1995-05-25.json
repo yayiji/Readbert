@@ -1,0 +1,25 @@
+{
+  "date": "1995-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me your greatest accomplishments at work.",
+        "I'll use that to hype you up with your boss so you get a big raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wrote a draft of a white paper on a strawman process to reengineer our product process."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And what was the impact of that work?",
+        "I think some owls lost their woodland habitats."
+      ]
+    }
+  ]
+}

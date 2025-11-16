@@ -1,0 +1,24 @@
+{
+  "date": "2002-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every employee will wear a button that says \"I'm empowered.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to.",
+        "You have to."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was everything you need to know about life in one package."
+      ]
+    }
+  ]
+}

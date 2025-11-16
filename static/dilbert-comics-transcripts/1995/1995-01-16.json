@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm installing a paper-burning stove to lower our heating bills."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll fuel it with all the useless documents I get at work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've been noticing how much stuff you take home.",
+        "You must love your work.",
+        "It gives me a warm feeling."
+      ]
+    }
+  ]
+}

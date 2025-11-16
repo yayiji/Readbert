@@ -1,0 +1,58 @@
+{
+  "date": "2017-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the URL for the test site?",
+        "Ask Amy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Amy is a mumbler.",
+        "I can't understand a word she says."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just ask her to speak up."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've tried that.",
+        "All she does is mumble louder."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And whenever I ask her a question by email, she answers the wrong question."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If the only person who knows the URL for the test site is Amy, we probably need to build a new site and tell someone else the URL."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Amy might be the most useless employee in the entire company."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can you teach me to mumble?",
+        "Mumble, mumble, mumble.",
+        "Get your own system."
+      ]
+    }
+  ]
+}

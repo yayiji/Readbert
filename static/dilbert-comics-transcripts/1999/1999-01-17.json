@@ -1,0 +1,54 @@
+{
+  "date": "1999-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Show me your \"equipment removal authorization form.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This requires the signature of two employees."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Good catch. You'd better sign it so it's legal."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This seems wrong... but I don't know why."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I'll need to see your birth certificate."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't have one.",
+        "Then how do you know you were born?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I have baby pictures, but they could have been doctored by my alleged mom."
+      ]
+    }
+  ]
+}

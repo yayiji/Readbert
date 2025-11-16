@@ -1,0 +1,27 @@
+{
+  "date": "1997-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Recruiting on campus",
+        "Nice to meet you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Aaeetii!",
+        "Crush"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have to be honest;",
+        "your company isn't",
+        "my first choice."
+      ]
+    }
+  ]
+}

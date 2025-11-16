@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our internal audit found that you violated over four hundred company rules in the past year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm also the only employee who accomplished anything last year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now connect the dots.",
+        "So you're saying we need more rules."
+      ]
+    }
+  ]
+}

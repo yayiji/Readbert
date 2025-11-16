@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, are you busy?",
+        "Yes, I'm reading the \"in memoriam\" section of our company newsletter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you're done, can you compile the beta test results?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure. Just as soon as I get the data from... Larry."
+      ]
+    }
+  ]
+}

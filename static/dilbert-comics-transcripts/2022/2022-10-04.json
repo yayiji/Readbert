@@ -1,0 +1,25 @@
+{
+  "date": "2022-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been accused of \"quiet quitting.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Absolutely not.",
+        "I've always been an underachiever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That just means you started early.",
+        "Oh, so now it's bad to be a visionary?"
+      ]
+    }
+  ]
+}

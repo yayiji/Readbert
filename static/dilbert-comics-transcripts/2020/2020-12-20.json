@@ -1,0 +1,57 @@
+{
+  "date": "2020-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my brilliant product idea I emailed to you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, I already debunked it in my mind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Perhaps you could share your reasons."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If it's such a great idea, why isn't someone else doing it?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And if someone is already doing it, we are far too late."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In order for your idea to be good, I would have to think you are smarter than everyone in the industry."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And seriously, just look at you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Anyone else have an idea?",
+        "Nope.",
+        "Nope.",
+        "Never.",
+        "Nope."
+      ]
+    }
+  ]
+}

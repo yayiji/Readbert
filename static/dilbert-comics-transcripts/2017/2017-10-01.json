@@ -1,0 +1,56 @@
+{
+  "date": "2017-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a meeting in a few minutes, so I only have time to do some micromanaging."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't it be better to do regular managing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't have time for the regular kind."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then wouldn't it be better to do no managing at all?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Some is better than none.",
+        "Except when less is more."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This got too complicated."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How about I just stand behind you and suggest you Google stuff?",
+        "Fine."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I wish I had some data for this.",
+        "Try Googling it."
+      ]
+    }
+  ]
+}

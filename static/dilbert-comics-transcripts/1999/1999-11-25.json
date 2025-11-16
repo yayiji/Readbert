@@ -1,0 +1,25 @@
+{
+  "date": "1999-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The turnaround CEO",
+        "If you let me keep my job, I'll do the work of ten people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Specifically, it would be the ten people in our strategic planning group."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They don't do much.",
+        "I'd like you to be my traitorous mole."
+      ]
+    }
+  ]
+}

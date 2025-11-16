@@ -1,0 +1,30 @@
+{
+  "date": "2017-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you have not performed up to my expectations, so I thought I would spend more time coaching you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be with you every minute of the day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I quit!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I told you that would work.",
+        "I didn't want to believe it."
+      ]
+    }
+  ]
+}

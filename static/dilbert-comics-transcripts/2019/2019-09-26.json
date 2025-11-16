@@ -1,0 +1,25 @@
+{
+  "date": "2019-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have too many projects.",
+        "Pfft!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If a juggler can juggle five balls at once, you can handle seventeen projects."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But... no juggler can juggle seventeen balls at once.",
+        "Not the lazy ones."
+      ]
+    }
+  ]
+}

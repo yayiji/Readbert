@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To avoid spreading viruses, there will be no shaking hands in the workplace."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That custom has been replaced by uncomfortable body language and awkward banter about not shaking hands."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are high-fives still okay?",
+        "Yes, we don't care if those people live or die."
+      ]
+    }
+  ]
+}

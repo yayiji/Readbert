@@ -1,0 +1,26 @@
+{
+  "date": "1998-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. director",
+        "My boss is preventing me from transferring to a great job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's outrageous!",
+        "There shouldn't be any great jobs in this company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Once again, you've made a bad situation worse.",
+        "That's the human resources promise."
+      ]
+    }
+  ]
+}

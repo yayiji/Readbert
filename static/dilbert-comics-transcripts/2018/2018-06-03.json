@@ -1,0 +1,57 @@
+{
+  "date": "2018-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished my project!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Shhhh!",
+        "Don't let anyone hear you say that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only one of two things can come of it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Either you'll get more work or you'll get fired for not having enough work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then how does anyone ever finish a project around here?",
+        "We don't."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We manipulate our boss into adding features so our projects are never complete."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is that hard to do?",
+        "Not as hard as you might hope."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do you like the prototype so far?",
+        "It needs a red button and some cooling fins."
+      ]
+    }
+  ]
+}

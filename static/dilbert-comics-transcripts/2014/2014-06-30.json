@@ -1,0 +1,25 @@
+{
+  "date": "2014-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You didn't accomplish anything this month.",
+        "Sure I did."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I did the mandatory training that has no use, attended your mandatory meetings that don't help, and filled out regulatory paperwork for things we don't do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you trying to make a point?",
+        "Nope. Just being productive."
+      ]
+    }
+  ]
+}

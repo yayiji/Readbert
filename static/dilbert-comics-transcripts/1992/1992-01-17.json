@@ -1,0 +1,25 @@
+{
+  "date": "1992-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Attention, prisoners!",
+        "This is Warden Dogbert speaking!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My jail has not been profitable.",
+        "I've decided to have you all executed to reduce operating costs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The \"joke of the day\" program seems wasted on these people."
+      ]
+    }
+  ]
+}

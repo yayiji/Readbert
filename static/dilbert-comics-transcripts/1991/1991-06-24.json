@@ -1,0 +1,26 @@
+{
+  "date": "1991-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been randomly selected to have lunch with a senior executive of the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is how the executives show that they are regular people, just like you and me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At lunch",
+        "I could squash you like a bug!",
+        "Ha ha ha",
+        "Ha ha ha!"
+      ]
+    }
+  ]
+}

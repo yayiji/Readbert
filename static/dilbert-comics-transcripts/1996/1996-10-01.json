@@ -1,0 +1,27 @@
+{
+  "date": "1996-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll be having an ISO 9000 audit soon.",
+        "They'll check to see if we follow our own documented procedures for everything we do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've divided our preparation tasks into two groups: unethical and unproductive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll train our department to lie to the auditor.",
+        "You can document our inane procedures.",
+        "No fair.",
+        "You did unethical last time too!"
+      ]
+    }
+  ]
+}

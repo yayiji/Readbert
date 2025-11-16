@@ -1,0 +1,25 @@
+{
+  "date": "2007-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to quantify the benefits of our department.",
+        "Any ideas?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend dishonesty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would that work?",
+        "It made me the man I am today."
+      ]
+    }
+  ]
+}

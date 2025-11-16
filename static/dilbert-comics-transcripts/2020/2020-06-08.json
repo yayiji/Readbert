@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you disband the technology task force? They were critical."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't. I just replaced the people and changed the mission."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds a lot like disbanding it.",
+        "Really? I was hoping it didn't."
+      ]
+    }
+  ]
+}

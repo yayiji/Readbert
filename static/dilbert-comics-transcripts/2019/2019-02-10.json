@@ -1,0 +1,55 @@
+{
+  "date": "2019-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should meet the new guy in marketing. You two would get along great."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll set up a lunch.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because he reminds me of you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That isn't a reason."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, he is free tomorrow for lunch. I'll tell him to meet you in the lobby."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I still don't see why the three of us need to go to lunch."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's just the two of you. I'm busy tomorrow."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hear you're a lot like me.",
+        "Sadly, yes."
+      ]
+    }
+  ]
+}

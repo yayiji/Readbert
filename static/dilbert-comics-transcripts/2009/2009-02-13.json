@@ -1,0 +1,23 @@
+{
+  "date": "2009-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can have your old job back, but your compensation will reflect the new market reality."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll get a small base salary plus anything you can sneak past the guard in the lobby."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These aren't the droids you're looking for."
+      ]
+    }
+  ]
+}

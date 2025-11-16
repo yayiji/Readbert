@@ -1,0 +1,24 @@
+{
+  "date": "1989-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There... my program proves that pretty women have extremely bad personalities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is based on the input that pretty women are never nice to me.",
+        "Why does the screen say, \"Or you are a geek\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Darn! I thought I fixed that bug."
+      ]
+    }
+  ]
+}

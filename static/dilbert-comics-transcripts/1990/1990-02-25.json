@@ -1,0 +1,43 @@
+{
+  "date": "1990-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I programmed the computer to predict what people will be like in 200 years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What assumptions are you making?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's based on trends in today's youth."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, we know that science skills are declining, more kids are overweight, and selfishness is rising."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A.D. 2190",
+        "I heard that Bobby exploded."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I wonder why that keeps happening.",
+        "Who cares? More for us."
+      ]
+    }
+  ]
+}

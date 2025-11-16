@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a job as the head of market research at your company.",
+        "I'll be pulling down $120k per year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't value other people's opinions so I'll just use my own."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just for reference, how much does honesty pay these days?",
+        "Shut up."
+      ]
+    }
+  ]
+}

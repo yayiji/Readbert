@@ -1,0 +1,24 @@
+{
+  "date": "2004-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I want you to update the safety manual and distribute it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have much of a budget for binders, so use the cheapest ones you can find."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hello, this is \"Deadly Binders, Inc.\" How may I injure you?",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

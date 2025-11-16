@@ -1,0 +1,25 @@
+{
+  "date": "2010-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did I tell you I'm doing two jobs now?",
+        "About a million times."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've complained about it so much that it's like a song I can't get out of my head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only found out yesterday.",
+        "I'm trying to get ahead of it."
+      ]
+    }
+  ]
+}

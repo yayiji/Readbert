@@ -1,0 +1,53 @@
+{
+  "date": "1992-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think it's better to be smart or good-looking, Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've been both for so long, it's hard to be objective."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's hypothetical. Suppose you had to pick one."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'd stay as I am: smart, good-looking and talented."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You can't add stuff. You have to start with nothing and pick either brains or good looks."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And witty too... smart, good-looking, talented and witty."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No, no, no... suppose you had none of those qualities. What would you do then?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd probably annoy my dog. Same as you."
+      ]
+    }
+  ]
+}

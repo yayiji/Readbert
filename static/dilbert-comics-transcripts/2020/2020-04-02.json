@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I accomplished fifteen tasks on my to-do list today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That leaves only seven hundred tasks, not counting the twenty-three I added today."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder what winning feels like.",
+        "It's great."
+      ]
+    }
+  ]
+}

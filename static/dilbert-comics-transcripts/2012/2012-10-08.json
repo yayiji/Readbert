@@ -1,0 +1,25 @@
+{
+  "date": "2012-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just realized I love the sound of my own voice!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha! Thanks to the unspoken rules of meetings, I can enjoy the sound of myself as long as I want! Blah, blah, blah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one knew the perfect storm was approaching.",
+        "What's all that noise!?",
+        "That's nothing!"
+      ]
+    }
+  ]
+}

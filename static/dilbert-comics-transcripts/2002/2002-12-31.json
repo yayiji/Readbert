@@ -1,0 +1,24 @@
+{
+  "date": "2002-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob will demonstrate our new biometric security system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The system checks for pulse, heat and fingerprints to identify each employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It says I don't have any of those things.",
+        "Are you the one they call Wally?"
+      ]
+    }
+  ]
+}

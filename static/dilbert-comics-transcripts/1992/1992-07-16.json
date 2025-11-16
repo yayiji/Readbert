@@ -1,0 +1,25 @@
+{
+  "date": "1992-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gee, Mary, you weren't willing to date me before I made millions in the stock market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm afraid you see me as just a big, talking wallet.",
+        "You're much more than that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example, you also wear thick glasses.",
+        "Too little, too late."
+      ]
+    }
+  ]
+}

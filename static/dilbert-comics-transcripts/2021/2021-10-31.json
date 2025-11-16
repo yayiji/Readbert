@@ -1,0 +1,54 @@
+{
+  "date": "2021-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't see how your idea could possibly work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oooh! Looks like I struck a nerve."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That means there must be a lot of truth to what I'm saying."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, it means your idea is so stupid it is making my head hurt."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ho-ho! With this much push-back, it means I must be over the target."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, it doesn't! Your ridiculous bumper sticker thinking is not wisdom!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop repeating worn-out sayings as if they actually mean something!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Methinks thou dost protest too much.",
+        "Aaiii-eee!!!"
+      ]
+    }
+  ]
+}

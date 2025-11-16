@@ -1,0 +1,23 @@
+{
+  "date": "2010-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a way to keep our best talent from leaving."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! You found a way to interface a human brain with a robot body to get the best of both!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, it's just a cool display case, but your thing would be good too."
+      ]
+    }
+  ]
+}

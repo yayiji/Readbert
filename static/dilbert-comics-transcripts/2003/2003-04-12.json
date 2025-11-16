@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We named the product \"Geneous Mistro\" because it conducts an orchestra of data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you believe the domain name \"geneousmistro\" wasn't already taken?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the spelling meant to be ironic?",
+        "Why do you ask?"
+      ]
+    }
+  ]
+}

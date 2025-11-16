@@ -1,0 +1,23 @@
+{
+  "date": "2014-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If our business plan fails, do we have a plan for that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only losers plan for failure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we're on the same page, but for some reason you're angry about it."
+      ]
+    }
+  ]
+}

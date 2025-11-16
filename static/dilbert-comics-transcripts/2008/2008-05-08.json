@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't have any accurate numbers so I just made up this one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies have shown that accurate numbers aren't any more useful than the ones you make up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many studies showed that?",
+        "Eighty-seven."
+      ]
+    }
+  ]
+}

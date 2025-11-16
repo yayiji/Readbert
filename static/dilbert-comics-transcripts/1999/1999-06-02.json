@@ -1,0 +1,26 @@
+{
+  "date": "1999-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, did you kill another co-worker?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you did not discriminate, sexually harass, steal or take drugs.",
+        "Hmm..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like I have to give you an award for your cost-saving idea.",
+        "Thank you."
+      ]
+    }
+  ]
+}

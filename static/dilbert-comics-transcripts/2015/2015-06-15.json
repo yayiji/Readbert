@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The health sensors and predictive algorithms you built into our smart watch are too good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People are freaked out because it sends alerts to their phones when they have five minutes left to live."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that useful?",
+        "It was, until we started sending paid ads as alerts."
+      ]
+    }
+  ]
+}

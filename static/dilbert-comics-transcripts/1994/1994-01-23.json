@@ -1,0 +1,54 @@
+{
+  "date": "1994-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a replacement for my company cellular phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I dropped mine in the... John."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Again?? Why don't you reach in and fish it out?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I tried, but then my pager fell in too."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Reach in and get them both."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I tried of course, but when my vast array of writing tools fell in they kind of wedged..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Try it again!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Where are your glasses?",
+        "Shut up."
+      ]
+    }
+  ]
+}

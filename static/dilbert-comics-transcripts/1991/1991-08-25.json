@@ -1,0 +1,56 @@
+{
+  "date": "1991-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Video sales",
+        "I'll take this one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would anybody buy a mystery movie?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you do, watch it a hundred times and act surprised at the ending?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Get a life."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll take this one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Tootsie?! You want to own a movie about a man who wears dresses?!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What?! I thought it was a documentary about Tootsie Rolls. You should label those things more clearly!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it a sin to lie to strangers?",
+        "The way you do it, yes.",
+        "Rambo"
+      ]
+    }
+  ]
+}

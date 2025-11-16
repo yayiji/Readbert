@@ -1,0 +1,26 @@
+{
+  "date": "1989-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert demonstrates the art of puns. Step #1: \"The set-up.\"",
+        "Tell me again about your uncle the famous biologist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uncle Albert won many awards for his work in breeding sea anemones.",
+        "Sadly, he had little time for a social life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Step #2: \"The delivery\" (from outside of swatting range).",
+        "With anemones like that, who needs friends?"
+      ]
+    }
+  ]
+}

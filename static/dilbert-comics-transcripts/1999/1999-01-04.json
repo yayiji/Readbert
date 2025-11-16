@@ -1,0 +1,27 @@
+{
+  "date": "1999-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: H.R. director.",
+        "Your co-workers say you're a sadistic nut."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gimme five, you big nut!",
+        "And keep up the good work!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, I'm having a party on Saturday.",
+        "Can you make it?",
+        "Sure! I'll bring my spinach dip."
+      ]
+    }
+  ]
+}

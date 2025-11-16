@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's not easy being a professional gambler.",
+        "I lost a million dollars and my wife in one week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't want to be a quitter because I know you see me as a role model."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My role model is your wife.",
+        "You like quitters?"
+      ]
+    }
+  ]
+}

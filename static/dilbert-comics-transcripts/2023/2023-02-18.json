@@ -1,0 +1,24 @@
+{
+  "date": "2023-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been invited to the World Economic Forum in Davos."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There you will \"master the future\" with the other leaders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fire up my jet!",
+        "I have never been more afraid."
+      ]
+    }
+  ]
+}

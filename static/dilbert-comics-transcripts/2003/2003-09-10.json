@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've never been a project manager before."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I understand I'm supposed to direct your natural talents and energies toward a common goal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carol, did you make copies of the agenda?",
+        "No, it sounded hard."
+      ]
+    }
+  ]
+}

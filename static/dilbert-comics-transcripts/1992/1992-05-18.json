@@ -1,0 +1,25 @@
+{
+  "date": "1992-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pssst! Dog!",
+        "Would you like to purchase Lenin's body?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Twenty bucks. He's in great shape... the king of commies... not available in stores."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And you talked him down to ten dollars?",
+        "Do you like it better against this wall?"
+      ]
+    }
+  ]
+}

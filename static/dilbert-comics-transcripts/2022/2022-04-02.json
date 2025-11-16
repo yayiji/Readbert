@@ -1,0 +1,27 @@
+{
+  "date": "2022-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Dilbert's telepresence robot.",
+        "He'll be online in a few minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're probably wondering if I feel violated when he inhabits me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wasn't.",
+        "Oh, right.",
+        "I forgot.",
+        "I'm garbage to you."
+      ]
+    }
+  ]
+}

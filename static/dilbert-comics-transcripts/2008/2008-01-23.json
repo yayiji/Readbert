@@ -1,0 +1,24 @@
+{
+  "date": "2008-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the software consultant",
+        "Don't let your lack of knowledge interfere with my brilliance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't touch the keyboard, don't offer opinions and don't breathe so loudly that I can hear it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There. I've either configured your software or erased something called a BIOS."
+      ]
+    }
+  ]
+}

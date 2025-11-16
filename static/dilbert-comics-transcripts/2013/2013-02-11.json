@@ -1,0 +1,23 @@
+{
+  "date": "2013-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My hobby is restoring old cars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That strikes me as slightly less useful than Wally's hobby of doing absolutely nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you restore other kinds of garbage or just cars?"
+      ]
+    }
+  ]
+}

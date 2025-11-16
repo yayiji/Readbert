@@ -1,0 +1,53 @@
+{
+  "date": "2022-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to eat our own dog food."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You mean we need to use our company's products as if we were customers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not sure what I mean."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I once heard our CEO say the dog food thing, and I liked how wise it sounded."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It means we should use our own products."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That doesn't sound right. Why would we use our products when we can use good ones?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because... it will make our products better over time."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "To be honest it made more sense when I thought it meant dog food."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2003-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's not just my desk; it's the chair, too!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, come here!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everything in my office feels clammy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I first noticed when I touched my phone... then my mouse."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "All clammy.",
+        "What could it mean?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It could mean your hands are clammy."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You must never speak of this."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Have you ever noticed that everything you sit on feels like underpants?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "For a reasonable fee, I will audit your company and find any fraud or crime if it exists."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's to stop you from taking bribes from the fraudsters and reporting that everything is fine?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My business model depends on you not asking that kind of question."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "While you're here, be a dear and run some Cat-5 to my walk-in closet so I can watch my shows when I'm in there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've noticed that you only invite me over when you need a cable pulled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't want to put a bug in your salad, but I will.",
+        "I'm glad we had this talk."
+      ]
+    }
+  ]
+}

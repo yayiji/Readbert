@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is happy to announce that compared to previous years, we improved our rate of revenue decline."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We've been doing great since we redefined success as a slowing of failure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Moving on. Who has a status report?",
+        "I improved my rate of doing nothing."
+      ]
+    }
+  ]
+}

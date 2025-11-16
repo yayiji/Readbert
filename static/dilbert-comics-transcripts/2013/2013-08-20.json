@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My motivation is low today. I understand it's your job to fix that situation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "An insincere attaboy or a fake interest in my life would be enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Drop dead and let the flies eat you.",
+        "I set the bar too high again."
+      ]
+    }
+  ]
+}

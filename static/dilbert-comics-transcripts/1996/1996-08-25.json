@@ -1,0 +1,58 @@
+{
+  "date": "1996-08-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our senior vice president will be dropping in today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Remember to increase your lies accordingly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And decrease the details you provide."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If I think you're being too informative, I'll signal by fidgeting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Just say everything is fine, but we need more funding.",
+        "Here he comes."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sorry I'm late.",
+        "How is everyone?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm not saying.",
+        "I'm fine, but I need more funding.",
+        "I have a wide variety of super powers."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I feel a sudden, urgent need to unload my stock options.",
+        "Fidget fidget."
+      ]
+    }
+  ]
+}

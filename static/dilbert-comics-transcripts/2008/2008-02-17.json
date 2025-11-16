@@ -1,0 +1,57 @@
+{
+  "date": "2008-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your assignment.",
+        "Do it! Do it!",
+        "Do it, you idiot!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What kind of management is that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's called tough love."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tough love only makes sense if I am doing something wrong and refuse to change."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, sometimes more is less."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The saying is \"less is more,\"",
+        "not \"more is less.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If less equals more, then more must equal less.",
+        "Duh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is the part where you usually refuse to admit you are wrong."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1991-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you in for?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I killed a man with an ear of corn. But I was provoked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, look! Corn for lunch. Can you believe that?"
+      ]
+    }
+  ]
+}

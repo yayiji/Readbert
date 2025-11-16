@@ -1,0 +1,24 @@
+{
+  "date": "2000-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Step away from that network server!",
+        "I'm certified!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I summon the vast power of certification!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, this is embarrassing; that's all I remember from the classes."
+      ]
+    }
+  ]
+}

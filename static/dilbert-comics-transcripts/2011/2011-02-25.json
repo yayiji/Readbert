@@ -1,0 +1,24 @@
+{
+  "date": "2011-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I signed a software contract without getting your input because I was in a hurry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now the software company claims they can harvest my organs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you see any holes in their contract?",
+        "They mention holes... in the context of your torso."
+      ]
+    }
+  ]
+}

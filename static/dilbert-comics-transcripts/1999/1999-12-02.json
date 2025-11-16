@@ -1,0 +1,25 @@
+{
+  "date": "1999-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't send you to this class, Alice.",
+        "We need you here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And after we use you up, we'll need you to be someplace else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What will I do when my skills are obsolete?",
+        "Try walking around with a coffee cup."
+      ]
+    }
+  ]
+}

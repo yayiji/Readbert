@@ -1,0 +1,58 @@
+{
+  "date": "1999-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert the director of human resources",
+        "So, you want a job here, Tubby?",
+        "It's \"Toby.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you just correct me?",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I alone will determine your name!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now, what is your name?",
+        "Tubby."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Tubby, is it true that you're so dumb that you..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...sent your résumé to the human resources department?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you think that's what this department does?",
+        "Let me show you what I do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think I just became an entrepreneur."
+      ]
+    }
+  ]
+}

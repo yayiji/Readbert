@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's our process for discarding old computers?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stuff it under your desk and wait until you change jobs or retire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need a better process than that.",
+        "Okay, you're in charge of creating it."
+      ]
+    }
+  ]
+}

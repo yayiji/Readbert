@@ -1,0 +1,24 @@
+{
+  "date": "1992-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's amazing that people believe in astrology... as if the stars could affect your personality."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, seasonal differences in diet, sunlight and natural rhythms could affect expectant mothers, which could have predictable results on fetal brain development."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe the ancients simply used the stars to measure the timing of these patterns.",
+        "If they were so smart, why didn't they invent watches?"
+      ]
+    }
+  ]
+}

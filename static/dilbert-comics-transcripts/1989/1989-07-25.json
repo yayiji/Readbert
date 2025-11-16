@@ -1,0 +1,24 @@
+{
+  "date": "1989-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "But Larry the dinosaur survived his brush with the meteor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His medical expenses soared. Today we recognize Larry as the first of a new evolutionary chain of dinosaurs:"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The \"doctor-billed flattypuss.\"",
+        "I'm not buying this."
+      ]
+    }
+  ]
+}

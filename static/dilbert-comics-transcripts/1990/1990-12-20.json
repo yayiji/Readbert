@@ -1,0 +1,25 @@
+{
+  "date": "1990-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dear senator,",
+        "I demand a constitutional amendment banning the obscene and anti-American lyrics in opera."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What makes you think a senator will care about an issue like that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we found another issue to keep us from working on real problems.",
+        "Ooh-ooh!"
+      ]
+    }
+  ]
+}

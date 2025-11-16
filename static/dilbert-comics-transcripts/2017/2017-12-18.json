@@ -1,0 +1,26 @@
+{
+  "date": "2017-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our apps are so addictive that we've triggered a zombie apocalypse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our users no longer interact with the living.",
+        "They can only see and hear their own phones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do the zombies eat brains?",
+        "Yes.",
+        "We call it the \"share\" button."
+      ]
+    }
+  ]
+}

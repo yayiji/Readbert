@@ -1,0 +1,56 @@
+{
+  "date": "2014-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You had a great idea about upgrading our customer support software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't remember having that idea.",
+        "It was genius."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that does sound like something I would suggest."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We'll need budget approval, but that should be no problem for you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Duh. Obviously I'll fund my idea. It's genius."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll need to delay my other projects, but, as you said, those are lower priorities."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I said that?",
+        "It was very wise of you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did you get funding for your idea?",
+        "I had to bossify it."
+      ]
+    }
+  ]
+}

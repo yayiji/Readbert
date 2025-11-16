@@ -1,0 +1,25 @@
+{
+  "date": "1992-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my report.",
+        "It's some of my best work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bzzzzzzzzzt!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate that porto-shredder.",
+        "Say, is that a silk necktie?"
+      ]
+    }
+  ]
+}

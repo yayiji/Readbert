@@ -1,0 +1,23 @@
+{
+  "date": "2014-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't like the name of our new app. You need to change it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps you can underscore your point by suggesting a bunch of names that are already taken."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mind if I think of other things while you do that?"
+      ]
+    }
+  ]
+}

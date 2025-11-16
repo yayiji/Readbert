@@ -1,0 +1,24 @@
+{
+  "date": "2015-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yay! I have another full day of doing nothing but rearranging zeros and ones."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know it will be a good day when there is no human interaction on the schedule."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's our day going?",
+        "Well, it started good..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No! You can't force me to work in accounting! I'm an engineer!",
+        "It's too late..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You came... you breathed the air... the change is irreversible... Bradley will train you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm starting to get a bad attitude about this job...",
+        "Good. I can skip that part of the training."
+      ]
+    }
+  ]
+}

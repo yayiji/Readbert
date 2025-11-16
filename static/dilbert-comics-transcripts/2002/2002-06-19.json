@@ -1,0 +1,26 @@
+{
+  "date": "2002-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to be a subject matter expert on my accounting system project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will it make the world a worse place to live?",
+        "I think so.",
+        "I'm in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's it like to be an accounting troll?",
+        "To be honest, I'm only in it for the groupies."
+      ]
+    }
+  ]
+}

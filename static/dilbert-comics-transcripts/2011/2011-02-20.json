@@ -1,0 +1,67 @@
+{
+  "date": "2011-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a budget meeting tomorrow with our CFO."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be competing against all of the other departments for precious budget dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This won't be easy because all of the other departments are staffed with professional liars."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's a bit of an exaggeration, don't you think?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What do you call marketing?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, I'll give you that one."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Sales?",
+        "P.R.?",
+        "Right, but...",
+        "Well, yes..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Finance?",
+        "Legal?",
+        "I forgot about that one.",
+        "Wow."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "Do the next one yourself.",
+        "How about human resour...",
+        "You win."
+      ]
+    }
+  ]
+}

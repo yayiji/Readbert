@@ -1,0 +1,25 @@
+{
+  "date": "2020-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Members of your staff have complained that you are a white supremacist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But... I'm not.",
+        "That's not for you to decide."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who gets to decide?",
+        "People who want your job. It's not a perfect system."
+      ]
+    }
+  ]
+}

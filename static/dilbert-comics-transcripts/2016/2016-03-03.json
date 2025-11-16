@@ -1,0 +1,24 @@
+{
+  "date": "2016-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, will you do me a favor?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It feels unlikely."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You haven't heard it yet.",
+        "That matters less than you hope it does."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2020-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't shake the feeling that you are intentionally doing a bad job training me how to do your job functions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm omitting important steps, so you'll fail hard.",
+        "Should I get fired and you are asked to fill in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's called a \"poison pill.\"",
+        "You're a good planner."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The purchasing department rejected my request for a key system part because of a typo on their form."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But they didn't tell me for three months, so now my product launch will be delayed by that much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But they finally ordered the part?",
+        "I call that unknowable."
+      ]
+    }
+  ]
+}

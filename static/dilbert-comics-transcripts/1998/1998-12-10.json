@@ -1,0 +1,25 @@
+{
+  "date": "1998-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I created a complex financial model for our company.",
+        "Let's see."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's dangerous if you don't understand it.",
+        "That's what they told Lindbergh..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that didn't stop him from inventing the lightbulb."
+      ]
+    }
+  ]
+}

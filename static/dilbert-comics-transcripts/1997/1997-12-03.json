@@ -1,0 +1,25 @@
+{
+  "date": "1997-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you sure this is where I report the misuse of analogies?",
+        "You're dressed very odd."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's casual day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the most frightening outfit I've ever seen.",
+        "You haven't seen me in bicycle pants."
+      ]
+    }
+  ]
+}

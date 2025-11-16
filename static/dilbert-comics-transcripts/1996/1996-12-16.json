@@ -1,0 +1,26 @@
+{
+  "date": "1996-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our Elbonian database product can replace every one of your current systems.",
+        "No thanks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It can do payroll, accounts receivable, inventory, sales...",
+        "No thanks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'll throw in some golf balls.",
+        "It's a deal! Just toss them in the lake with all my other ones."
+      ]
+    }
+  ]
+}

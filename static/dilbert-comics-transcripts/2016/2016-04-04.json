@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you send me the file?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want it by email, Dropbox, Google Drive, iCloud Drive, Airdrop, or Creative Cloud?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Surprise me.",
+        "The surprise will be if you find it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1990-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Doesn't \"fast\" mean not eating?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So how can you have \"fast food\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And how much would I have to eat before I starved to death?"
+      ]
+    }
+  ]
+}

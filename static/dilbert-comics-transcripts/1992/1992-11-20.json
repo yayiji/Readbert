@@ -1,0 +1,24 @@
+{
+  "date": "1992-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In Elbonia, the rebel leader known as \"the fox\" was killed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By Elbonian law, his killer becomes the new rebel leader.",
+        "We do not know his code name yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We've narrowed it down to either \"the piglet\" or \"the hamster.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2009-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you collude?",
+        "Sometimes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you colluding with anyone now, because I'd sure like to collude with you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you into?",
+        "Maybe a little price-fixing?",
+        "This is all happening so fast."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2006-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new employee at work is hot, and she's getting special treatment. How can I get rid of her?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Water finds its own level. She'll leave within a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They say that most people meet their future spouses at work.",
+        "Erk!"
+      ]
+    }
+  ]
+}

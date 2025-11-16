@@ -1,0 +1,26 @@
+{
+  "date": "1995-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Allow me to introduce loud Howard.",
+        "Hi!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will make loud Howard your cubicle neighbor in the new office unless you give me your immortal soul!!",
+        "Nice day!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Fortunately I convinced him to take my laser printer instead...",
+        "What did I say that sounded like \"Tell me about your day\"?"
+      ]
+    }
+  ]
+}

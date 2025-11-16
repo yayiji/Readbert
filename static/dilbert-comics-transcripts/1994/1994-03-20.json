@@ -1,0 +1,55 @@
+{
+  "date": "1994-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking forward to retirement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't wait!",
+        "I'll have my tiny fixed income, barely enough to survive!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And a new health problem almost every day!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll have wrinkles everywhere, and I'll actually shrink!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Haha! I'll produce nothing and I'll complain constantly!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're looking forward to all that??"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well... compared to working here..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's time for the pre-meeting meeting on employee productivity.",
+        "Mmm... fixed income... health problems."
+      ]
+    }
+  ]
+}

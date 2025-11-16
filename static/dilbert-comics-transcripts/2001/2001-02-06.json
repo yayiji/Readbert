@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it too late to give our product a low-battery indicator?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd have to work night and day for a month! My health would decline and I'd miss all my objectives!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just realized that other people's problems make me all warm inside."
+      ]
+    }
+  ]
+}

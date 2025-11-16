@@ -1,0 +1,26 @@
+{
+  "date": "2000-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "No one uses the intranet collaboration software you sold us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your employees are defective.",
+        "I recommend cat scans."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This one is defective too.",
+        "Next in line!"
+      ]
+    }
+  ]
+}

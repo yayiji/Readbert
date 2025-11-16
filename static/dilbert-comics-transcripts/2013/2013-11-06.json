@@ -1,0 +1,36 @@
+{
+  "date": "2013-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, Skype. Let's see if I can figure out how to shut you down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Close! Quit!",
+        "Sign out! Minimize!",
+        "Quit! Yes! Close!",
+        "Quit! Die! Die! Die!",
+        "Click click",
+        "Click click",
+        "Click"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you close Skype?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Almost.",
+        "I'm heading to the ocean to drown it."
+      ]
+    }
+  ]
+}

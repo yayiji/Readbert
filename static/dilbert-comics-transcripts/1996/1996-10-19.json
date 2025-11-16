@@ -1,0 +1,25 @@
+{
+  "date": "1996-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the trade show",
+        "What can you tell me about your products?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our products are defective, much like yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I probably shouldn't have stayed up all night setting up the booth.",
+        "What are you doing later?"
+      ]
+    }
+  ]
+}

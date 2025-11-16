@@ -1,0 +1,24 @@
+{
+  "date": "2009-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "These pills should get rid of the wings that the last pills gave you as a side effect."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's an off-label use, but I have a good feeling about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What now?",
+        "At this point, sinning is your best bet."
+      ]
+    }
+  ]
+}

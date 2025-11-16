@@ -1,0 +1,23 @@
+{
+  "date": "2005-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A cubicle vacancy opened up, so I'll be moving out of here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My attorney will contact you about dividing up our workspace property."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Next, can you prove that you had both eyebrows before you met my client?"
+      ]
+    }
+  ]
+}

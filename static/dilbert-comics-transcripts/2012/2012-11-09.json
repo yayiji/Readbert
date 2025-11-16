@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me tell you what kind of day I had at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There was some confusion about my water purification prototype, and our CEO drank eight ounces of untreated sewage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... best day ever?",
+        "It'll be hard to top."
+      ]
+    }
+  ]
+}

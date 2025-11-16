@@ -1,0 +1,23 @@
+{
+  "date": "2006-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to write a business case for lobbying our government to attack Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the risk analysis section, do you want me to assume that hell is real or imaginary?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Real. But remember to discount the infinite future flows of agony to the present so it doesn't look so bad."
+      ]
+    }
+  ]
+}

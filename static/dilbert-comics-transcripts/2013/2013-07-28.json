@@ -1,0 +1,57 @@
+{
+  "date": "2013-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I accomplished nothing this week because I was in a training class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't approve any training expenses.",
+        "A vendor paid for it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You didn't ask for permission.",
+        "I'm proactive and empowered."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And what was the name of this alleged class?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Advanced scripting structure for internetwork optimization of SQL databases."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That doesn't sound real.",
+        "I can't do my job if you don't trust me!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you like how I combined aggressiveness with my baseline level of uselessness?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I have a good feeling about this.",
+        "You might need more aggressiveness."
+      ]
+    }
+  ]
+}

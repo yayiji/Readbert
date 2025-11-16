@@ -1,0 +1,26 @@
+{
+  "date": "1997-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you explain how the company's new \"statement of core values\" will change my behavior?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was planning to poison the town's water supply.",
+        "But wait! It's against our core values!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is your sarcasm absolutely necessary?",
+        "Let me check.",
+        "Hmm... it's not addressed."
+      ]
+    }
+  ]
+}

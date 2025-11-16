@@ -1,0 +1,53 @@
+{
+  "date": "2016-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a note from my doctor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It says I'm too sensitive to handle criticism."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand all the medical details."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It has something to do with the mind-body connection."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "One minor criticism from you and my lungs will collapse."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If that happens, you'll need to pinch my nose, create a seal with your mouth, and rein-flate them."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This doctor's note looks like your handwriting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ow! My lung!"
+      ]
+    }
+  ]
+}

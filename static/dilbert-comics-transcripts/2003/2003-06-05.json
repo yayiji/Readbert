@@ -1,0 +1,26 @@
+{
+  "date": "2003-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm reminding everyone that layoffs can improve morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Layoffs prove that management is capable of making tough decisions to turn things around!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're right!",
+        "I do feel more optimistic now!",
+        "Secondly,",
+        "you're fired."
+      ]
+    }
+  ]
+}

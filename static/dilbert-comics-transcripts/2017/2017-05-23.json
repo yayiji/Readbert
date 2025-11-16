@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am one of the first humans to have a microchip embedded in my brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm so smart that you \"normals\" are like livestock to me now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can't be that different.",
+        "My chip translates everything you say to \"moo.\""
+      ]
+    }
+  ]
+}

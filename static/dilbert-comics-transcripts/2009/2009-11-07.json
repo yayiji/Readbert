@@ -1,0 +1,26 @@
+{
+  "date": "2009-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please ignore my wings and halo.",
+        "They are side effects from my prescription meds."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Anyway, my pointy-haired boss asked me to tell you that we will finish the prototype on time and on budget."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is one bad tell you got there.",
+        "Poof!",
+        "Poof!"
+      ]
+    }
+  ]
+}

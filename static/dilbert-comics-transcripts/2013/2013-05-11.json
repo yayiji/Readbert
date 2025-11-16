@@ -1,0 +1,23 @@
+{
+  "date": "2013-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A good leader listens to his underlings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fine. I'm overworked and underpaid. I hate my co-workers, I don't have the resources to do my job, and we have no clear strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No wonder leaders listen. It's a lot easier than fixing all of that stuff."
+      ]
+    }
+  ]
+}

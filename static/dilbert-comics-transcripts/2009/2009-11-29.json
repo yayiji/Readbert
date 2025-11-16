@@ -1,0 +1,56 @@
+{
+  "date": "2009-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, this is Ellen, your new project manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you do a bad job, Ellen will be on you like a ton of bricks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if you do a good job, she will feel threatened by your success and make it her mission to destroy you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wait...",
+        "What?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Did you just tell me I'm going to lose no matter what I do?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you can't take the heat, stay out of the kitchen."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And by kitchen I mean the entire job market.",
+        "And the gene pool."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I have a bad feeling about this.",
+        "Your anguish nourishes me!"
+      ]
+    }
+  ]
+}

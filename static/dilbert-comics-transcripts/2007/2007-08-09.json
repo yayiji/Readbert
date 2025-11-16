@@ -1,0 +1,23 @@
+{
+  "date": "2007-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cancel all of my meetings. I'm going to manage by making spreadsheets and sending e-mails."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With any luck, I'll never again need to speak with unimportant subordinates such as yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "C23 is in a bad mood today."
+      ]
+    }
+  ]
+}

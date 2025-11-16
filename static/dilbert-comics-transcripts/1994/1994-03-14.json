@@ -1,0 +1,26 @@
+{
+  "date": "1994-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of our projects are floundering.",
+        "I decided on a bold new strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let me guess.",
+        "You're going to randomly reorganize the department..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just like last month.",
+        "You have to admit that's bold."
+      ]
+    }
+  ]
+}

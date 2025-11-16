@@ -1,0 +1,67 @@
+{
+  "date": "1995-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's how your marketing department can help retain your best engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Marketing gets an idea",
+        "We'll leverage our technology by building ant farms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Spreadsheets make the idea look profitable.",
+        "The ant milk alone will be a positive NPV!",
+        "Wow!",
+        "What's an NPV?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't forget the \"worst case scenario.\"",
+        "Worst case, somebody builds a gigantic magnifying glass next door..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Solution:",
+        "Bite-sized ant jerky!",
+        "There's no risk!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "An engineer will be assigned to the project.",
+        "Ant farms!",
+        "Do it!",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The engineer will challenge the assumptions",
+        "You can't get a gallon of milk from an ant!",
+        "What do you know about marketing?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Result: The engineer will never leave the company.",
+        "So... your current job is \"ant farm engineer\"?",
+        "I'm doomed."
+      ]
+    }
+  ]
+}

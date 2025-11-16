@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you did not meet your goals this quarter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because my goals are totally unrealistic and were created by a moron."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you meant it when you said you want us to be honest with you.",
+        "I didn't expect you to act on it!"
+      ]
+    }
+  ]
+}

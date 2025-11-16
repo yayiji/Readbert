@@ -1,0 +1,54 @@
+{
+  "date": "1996-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert would like to speak with you about the changes you made to my engineering proposal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While Dilbert was getting his masters degree in electrical engineering..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You were majoring in art history so you could look at pictures of naked statues."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Dilbert often contributes articles to technology publications."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You, on the other hand, rub those same publications with a nickel, looking for hidden \"scratch and sniff\" panels."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In summary..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Never question an engineer's opinion, you thundering moron!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Nicely done, but I wouldn't have said \"thundering.\"",
+        "What were you drinking when you wrote this piece of crud?!!"
+      ]
+    }
+  ]
+}

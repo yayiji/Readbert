@@ -1,0 +1,25 @@
+{
+  "date": "1992-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, you're temporarily assigned to marketing and Brent went to engineering?",
+        "Yeah..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What kind of microwave oven is this?",
+        "That's a fifty MIP Sparc workstation, Brent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In other words, it's going to take forever to warm my croissant."
+      ]
+    }
+  ]
+}

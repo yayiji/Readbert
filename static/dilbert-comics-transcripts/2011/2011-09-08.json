@@ -1,0 +1,26 @@
+{
+  "date": "2011-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to enhance our sector-relevant support for a suite of integrated risk assessment tools."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you understand?",
+        "Maybe. Is your point that you don't know how to communicate?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Oh.",
+        "Then I didn't get it."
+      ]
+    }
+  ]
+}

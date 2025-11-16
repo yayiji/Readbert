@@ -1,0 +1,25 @@
+{
+  "date": "1997-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you realize this is our third date?",
+        "We're not dating. I'm a vendor and you're my client."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You always say the only time we can meet is during lunch. That way I'm obligated to pay for it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're feisty. I'd better get the oysters.",
+        "Make sale first. Then kill client."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1995-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Records retention"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These valuable documents should be stored for five years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This job got so much easier when I realized that nobody ever asks for anything back."
+      ]
+    }
+  ]
+}

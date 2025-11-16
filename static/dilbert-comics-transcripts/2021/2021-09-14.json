@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to report that I met all of my deadlines before you canceled my project for no good reason."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In that one moment, you transformed my meaningful work into a tedious slog toward oblivion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And now I'm left to rot in this meeting.",
+        "I never know the right time for a high-five."
+      ]
+    }
+  ]
+}

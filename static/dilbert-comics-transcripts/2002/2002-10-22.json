@@ -1,0 +1,25 @@
+{
+  "date": "2002-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the investment banker",
+        "We have all of the elements to make the merger a success."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Corrupt auditors, corrupt CFO, corrupt stock analysts, greedy bankers and clueless board members."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you?",
+        "What are you implying?"
+      ]
+    }
+  ]
+}

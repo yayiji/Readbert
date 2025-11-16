@@ -1,0 +1,57 @@
+{
+  "date": "2013-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Who's up for some peer coaching?",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the latest thing.",
+        "Then it must be good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll complain about all of my work problems while you sit there and listen."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then you'll ask insightful questions that will cause me to come up with my own solutions.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Have you considered the possibility that you cause all of your own problems by um... being you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're terrible at this."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But that's no surprise because you're terrible at most things."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope you die badly.",
+        "Do I ask another insightful question now?"
+      ]
+    }
+  ]
+}

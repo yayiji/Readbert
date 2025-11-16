@@ -1,0 +1,27 @@
+{
+  "date": "1998-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been a great temporary employee.",
+        "Would you like to be a permanent one?",
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha ha!!!",
+        "You simple fool!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was that?",
+        "That was your employee orientation program."
+      ]
+    }
+  ]
+}

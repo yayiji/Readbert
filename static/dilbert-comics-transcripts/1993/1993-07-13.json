@@ -1,0 +1,25 @@
+{
+  "date": "1993-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you tired of fad diets and fad exercise devices?",
+        "Yes I am!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then buy my book and get the revolutionary joggerobic carpet patch for only $19.95 plus shipping and handling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To prove it works, we photographed an actual athlete.",
+        "Pictures don't lie!"
+      ]
+    }
+  ]
+}

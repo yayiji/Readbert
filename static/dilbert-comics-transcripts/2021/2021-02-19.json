@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you have a minute to talk about your total lack of accomplishments?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! I just had the best idea of my career, and your interruption made me forget it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But no accomplishments until now?",
+        "I'm a strong finisher."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You cancelled all vacations but I have non-refundable plane tickets to Tahiti."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I should be an exception to...",
+        "The...um...you look skeptical."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think Tahiti would let you in.",
+        "Why does everyone say that?"
+      ]
+    }
+  ]
+}

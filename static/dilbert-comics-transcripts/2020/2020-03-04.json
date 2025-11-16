@@ -1,0 +1,25 @@
+{
+  "date": "2020-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm...",
+        "Hold on."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My facial recognition app has identified you and is now showing me your social media history."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh.",
+        "It seems it would be unwise for me to touch your hand."
+      ]
+    }
+  ]
+}

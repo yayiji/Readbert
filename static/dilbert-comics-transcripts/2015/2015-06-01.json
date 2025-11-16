@@ -1,0 +1,28 @@
+{
+  "date": "2015-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't get social media.",
+        "How do I get followers?",
+        "Easy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "People care about passion.",
+        "Find something you hate and write about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I don't like children.",
+        "Perfect.",
+        "And don't hold back."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Homeland security has identified you as a risk of being radicalized online."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it because I'm a single male, I hate my job, and no one loves me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We didn't know about that stuff.",
+        "Now I have to call in a drone strike."
+      ]
+    }
+  ]
+}

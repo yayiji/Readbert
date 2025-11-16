@@ -1,0 +1,24 @@
+{
+  "date": "2007-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Although I've been fired for gross incompetence, I'm professional enough to train you before I leave."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't bother. I already coded a Java app to do everything you do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everything?",
+        "Except for the incompetent parts."
+      ]
+    }
+  ]
+}

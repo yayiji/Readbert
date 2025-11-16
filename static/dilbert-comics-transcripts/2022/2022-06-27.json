@@ -1,0 +1,29 @@
+{
+  "date": "2022-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our company is entering the electronic voting machine market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any idea what this means?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does it mean my vote won't count?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sometimes it will count twice!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We don't have any openings for regular interns, but I can offer you a job as an intern to our intern."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We won't pay you, of course, but you might acquire an imperceptible amount of semi-relevant job experience."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And sometimes we'll slap you for no reason.",
+        "Stupid economy!",
+        "I'll take it."
+      ]
+    }
+  ]
+}

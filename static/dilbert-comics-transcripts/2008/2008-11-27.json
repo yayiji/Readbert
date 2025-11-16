@@ -1,0 +1,24 @@
+{
+  "date": "2008-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to make drastic budget cuts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's not get all dramatic.",
+        "Just tell me how much to cut and I'll make it happen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "On the plus side, the buzzards seem selective."
+      ]
+    }
+  ]
+}

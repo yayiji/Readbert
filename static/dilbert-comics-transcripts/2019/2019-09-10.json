@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a study of what makes people unhappy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It turns out that the primary cause of unhappiness is \"other people.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's dumb.",
+        "Said the other person."
+      ]
+    }
+  ]
+}

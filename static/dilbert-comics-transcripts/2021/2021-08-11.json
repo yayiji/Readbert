@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We are monitoring all internal messages and learned that the employees know we are watching them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means everything they say from this point on could be misdirection."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They learned to lie?",
+        "They're turning our weapons against us."
+      ]
+    }
+  ]
+}

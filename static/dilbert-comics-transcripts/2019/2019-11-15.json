@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe you should stay home when you are sick.",
+        "Honk!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will, but first I need to infect the rest of you so I'm not the only one missing deadlines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you hold this for me?"
+      ]
+    }
+  ]
+}

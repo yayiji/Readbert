@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There... my résumé is done. I will no longer be a slave to my company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah! Now you're a potential slave for a company in an undesirable location!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that sarcasm or supportiveness?",
+        "You only think there's a difference."
+      ]
+    }
+  ]
+}

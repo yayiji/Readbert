@@ -1,0 +1,25 @@
+{
+  "date": "2002-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't tell you how much your budget is, because if I did, you'd try to spend all of it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you tell me when I'm over budget?",
+        "No, because then you'd know what the budget is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you tell me what our company strategy is?",
+        "Sure. It's... ha ha ha! Just kidding."
+      ]
+    }
+  ]
+}

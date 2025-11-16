@@ -1,0 +1,54 @@
+{
+  "date": "2010-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finished the business case."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You said you would try to get funding if the numbers look good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I never said that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I clearly remember it. I can describe our conversation word for word."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I probably said something that sounded like \"I will get funding\" and you heard it wrong."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What exactly sounds like \"I will get funding\"?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Landfill wet hunting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's not even a good try!!!",
+        "Shake it off."
+      ]
+    }
+  ]
+}

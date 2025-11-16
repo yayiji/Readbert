@@ -1,0 +1,38 @@
+{
+  "date": "1997-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you requested,",
+        "here is a schedule",
+        "of all future unplanned",
+        "network outages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I took the initiative",
+        "to include a schedule",
+        "of all future sick",
+        "days, volcanic",
+        "eruptions, earth-",
+        "quakes and",
+        "hurricanes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is the point when",
+        "you realize how stupid",
+        "your request was and",
+        "we have a good laugh.",
+        "Does CNN",
+        "know about",
+        "this?"
+      ]
+    }
+  ]
+}

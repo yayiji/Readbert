@@ -1,0 +1,24 @@
+{
+  "date": "1991-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't you think the company's drug testing policy is a violation of our privacy?",
+        "I don't do drugs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Johnson, your blood test results are in. Looks like you live on Cheetos and Diet Pepsi... your wife doesn't love you... and whoa... what's this?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, you like to dress in grass skirts and make fun of the lawnmower."
+      ]
+    }
+  ]
+}

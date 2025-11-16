@@ -1,0 +1,25 @@
+{
+  "date": "2013-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You hacked into a government database and stole sensitive information."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Technically, it was my company's information that your spy software stole first.",
+        "I was just stealing it back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So we're good here, right?",
+        "Yeah, that's how it works."
+      ]
+    }
+  ]
+}

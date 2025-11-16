@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going into the pandemic prevention market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Phase one of our marketing plan involves creating demand by unleashing a deadly virus."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that illegal or something?",
+        "Not if you make it look like an accident."
+      ]
+    }
+  ]
+}

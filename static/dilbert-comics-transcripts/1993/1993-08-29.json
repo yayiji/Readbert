@@ -1,0 +1,54 @@
+{
+  "date": "1993-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What we need is more communication between management and... whatever you are."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, once a month I'll have \"open door day.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can drop by and whine about anything you want."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll listen with a concerned expression like this."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then I'll explain why everything is fine just the way it is."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Then, morale will improve, profits will skyrocket and my stock options will make me rich!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "May I make some observations about your plan?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Uh... forget it.",
+        "Do you notice how concerned I look?"
+      ]
+    }
+  ]
+}

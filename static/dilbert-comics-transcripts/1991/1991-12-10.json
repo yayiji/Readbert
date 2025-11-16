@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've changed my name to Nostradogbert the prophet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nostradogbert predicts that a monkey shall speak skeptically of the great.",
+        "That's ridiculous."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One-for-one so far.",
+        "I doubt it."
+      ]
+    }
+  ]
+}

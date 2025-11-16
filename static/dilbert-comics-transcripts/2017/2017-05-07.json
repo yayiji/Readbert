@@ -1,0 +1,53 @@
+{
+  "date": "2017-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you going to the department meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, as soon as I plan my route."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have seven co-workers who I need to avoid on the way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Three are nonstop talkers. The other four ask me for something every time I see them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've mapped their likely locations and I'm working out an avoidance path."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, I think I can do it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is that my name on your list of employees to avoid?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I didn't say it was a perfect system."
+      ]
+    }
+  ]
+}

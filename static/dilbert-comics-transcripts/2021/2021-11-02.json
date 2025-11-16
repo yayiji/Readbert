@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing my autobiography, and I wondered if you could take a look at the first three chapters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure! What percentage of the royalties do I get for doing that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "Is there a chapter about how to take advantage of your subordinates?"
+      ]
+    }
+  ]
+}

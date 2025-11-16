@@ -1,0 +1,29 @@
+{
+  "date": "2021-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Internal auditors just showed up unannounced."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Delete all of our data—and make it look like an accident!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They'd know I did it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But they wouldn't know I ordered it."
+      ]
+    }
+  ]
+}

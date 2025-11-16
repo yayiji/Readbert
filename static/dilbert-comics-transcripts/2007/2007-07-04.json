@@ -1,0 +1,25 @@
+{
+  "date": "2007-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe I should invite some friends over for a barbecue.",
+        "You don't have any friends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good point. Maybe I should make some friends first.",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you like meat?"
+      ]
+    }
+  ]
+}

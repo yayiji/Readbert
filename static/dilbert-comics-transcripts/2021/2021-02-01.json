@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everything that went wrong this year was the fault of the prior manager.",
+        "I inherited his problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But everything that went right was because of your excellent leadership?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No jumping ahead."
+      ]
+    }
+  ]
+}

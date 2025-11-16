@@ -1,0 +1,60 @@
+{
+  "date": "1996-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nobody has nominated a co-worker for a special achievement award."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Someone in this group must have done something good this year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No...",
+        "I don't think so.",
+        "We'd remember something like that."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This looks bad.",
+        "All the other departments are giving themselves awards."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We might have to lower our standards a bit.",
+        "I've been proactive in that area."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why are we standing in the hallway?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We think the room is locked.",
+        "We don't have the key."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Later that month",
+        "This award goes to Alice for boldly trying the door knob.",
+        "When I find out who nominated me..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice moved into the corner cubicle and claimed control over the window shades!",
+        "Gaaa!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our life support systems will be in the hands of a mad-woman!",
+        "Maybe she'll be kind."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

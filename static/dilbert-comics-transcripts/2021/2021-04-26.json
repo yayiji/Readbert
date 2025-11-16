@@ -1,0 +1,23 @@
+{
+  "date": "2021-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm proud to announce we reduced workplace injuries by 76% this past year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We all worked from home this year. Shouldn't we have seen a 100% reduction?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our security guard kept hurting his back stealing office equipment."
+      ]
+    }
+  ]
+}

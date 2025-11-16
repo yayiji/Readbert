@@ -1,0 +1,55 @@
+{
+  "date": "1997-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Making soup is easy for a highly trained engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't seem to have any \"coarse sea salt.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll just mix regular salt with water."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Corn starch...hmm...that's basically flour."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Marjoram... I think that's French for butter."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "\"Five inches of Parmigiano-Reggiano cheese rind.\"",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Eggs are basically cheese that comes from chickens."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is this supposed to be served hot?",
+        "You're thinking of gazpacho."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Performance review",
+        "You did two jobs for a year and did them well."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have no budget for raises, so all I can offer is an attaboy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The problem is: I don't want to cheapen the whole attaboy system."
+      ]
+    }
+  ]
+}

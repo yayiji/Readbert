@@ -1,0 +1,24 @@
+{
+  "date": "2011-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm burned out by this job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that a gray hair?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have we met?",
+        "I started yesterday. I don't handle stress well."
+      ]
+    }
+  ]
+}

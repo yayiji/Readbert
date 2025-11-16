@@ -1,0 +1,30 @@
+{
+  "date": "2012-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before we start, can I offer you a cup of water from our restroom sink?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can't afford bottled water."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, sure.",
+        "I'll have a cup of sink water."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That brings us to the awkward part: Did you happen to bring a cup?"
+      ]
+    }
+  ]
+}

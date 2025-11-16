@@ -1,0 +1,23 @@
+{
+  "date": "1993-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's school for technology imbeciles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You are all easily baffled by simple technology, even though you have normal intelligence otherwise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course, I'm generalizing on that last point."
+      ]
+    }
+  ]
+}

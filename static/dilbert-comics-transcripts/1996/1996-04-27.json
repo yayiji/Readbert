@@ -1,0 +1,24 @@
+{
+  "date": "1996-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got myself a little work-avoidance device."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I want to leave a meeting early, I just look down and say \"Uh-oh\" and scurry away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's the pager number in case I need you?",
+        "You're not quite grasping the concept here, Alice."
+      ]
+    }
+  ]
+}

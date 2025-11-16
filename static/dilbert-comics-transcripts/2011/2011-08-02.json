@@ -1,0 +1,24 @@
+{
+  "date": "2011-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Standards meeting",
+        "Each of you has been chosen to represent the interests of your respective companies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As you know, the best way to create standards is to mash together a bunch of mutually exclusive preferences."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope I'm not the only one who joined this group just for the laughs."
+      ]
+    }
+  ]
+}

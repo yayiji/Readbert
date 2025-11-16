@@ -1,0 +1,57 @@
+{
+  "date": "2017-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you have goals?",
+        "My goal is to be an Olympic pole vaulter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You don't look...",
+        "Sporty?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was going to say healthy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's why Olympic pole vaulting is my goal. I wouldn't need a goal to do something easy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are you training for it?",
+        "No."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're living in a fantasy world! You'll never get to the Olympics!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I can't sit here and listen to this."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Looks like you accomplished your goal.",
+        "Thanks for noticing."
+      ]
+    }
+  ]
+}

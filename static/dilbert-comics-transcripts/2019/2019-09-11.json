@@ -1,0 +1,25 @@
+{
+  "date": "2019-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What we need in this office is more communication and fewer distractions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your goals are mutually exclusive.",
+        "If you communicate more, you'll be distracting us more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I've lost my train of thought.",
+        "Did my communication distract you?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was an engineer before I got into marketing, so I have a few suggestions for your network design."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get rid of this \"Cisco\" doohickey, whatever it is, and put it in a catapult made from local trees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has it been a while?",
+        "At least I have good social skills now, you dipweed."
+      ]
+    }
+  ]
+}

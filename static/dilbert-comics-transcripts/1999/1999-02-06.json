@@ -1,0 +1,23 @@
+{
+  "date": "1999-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hurt my elbow, doctor.",
+        "Let me see it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend a career in marketing.",
+        "And it's not a good idea to vote."
+      ]
+    }
+  ]
+}

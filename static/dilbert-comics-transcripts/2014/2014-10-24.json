@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new business school rankings are out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that the list that is based on the votes of people who have no direct knowledge of those schools?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You ruin everything.",
+        "Context is not your friend."
+      ]
+    }
+  ]
+}

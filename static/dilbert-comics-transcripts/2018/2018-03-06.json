@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project summary needs more jargon and acronyms."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The goal is to make ourselves look smart while making the readers feel dumb."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about clarity?",
+        "Clarity is not our friend on this one."
+      ]
+    }
+  ]
+}

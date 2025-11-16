@@ -1,0 +1,30 @@
+{
+  "date": "2020-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you keep explaining to me how science works when you know I already know?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you know anecdotal evidence can be misleading?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes!!! I knew that!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Have you ever heard of the placebo effect?",
+        "Gaaaa!!!"
+      ]
+    }
+  ]
+}

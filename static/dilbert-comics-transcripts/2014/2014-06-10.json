@@ -1,0 +1,27 @@
+{
+  "date": "2014-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The problem is that we don't know what we don't know.",
+        "You stole that saying from me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a common saying.",
+        "I've been using it for years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, you stole it from me.",
+        "This is officially the dumbest conversation I've ever had.",
+        "That's my other saying!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My data-mining software has found another message from God."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It says you've been stealing lunches from the refrigerator in the break room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then it says, \"Ha ha, that wasn't pudding!\""
+      ]
+    }
+  ]
+}

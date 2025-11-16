@@ -1,0 +1,53 @@
+{
+  "date": "2021-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm issuing you a warning for your unsafe workplace."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I work at home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You've never seen where I live."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm judging by your personality."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're too lazy to clean anything up, so by now it's a toxic dump."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's a lucky guess."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And you're too lazy to close your curtains, so by now your neighbors want to murder you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's two lucky guesses."
+      ]
+    }
+  ]
+}

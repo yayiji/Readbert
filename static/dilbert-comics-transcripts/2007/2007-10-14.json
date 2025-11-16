@@ -1,0 +1,55 @@
+{
+  "date": "2007-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I found a clever way to write my application code in one hour!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally this sort of thing would take weeks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assume my high level of efficiency will be recognized and rewarded."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let me know how that works out for you."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You did all of that in one hour?",
+        "Yes, I did."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "From now on, I expect you to finish all of your projects in one hour."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Otherwise I'll assume you're ripping off the company."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You could have warned me.",
+        "That's not how experience works."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1989-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gilbert, your time has come."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gilbert?! My name is Dilbert! You have the wrong guy!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops! Sorry. Mind if I just wait around until your number comes up?"
+      ]
+    }
+  ]
+}

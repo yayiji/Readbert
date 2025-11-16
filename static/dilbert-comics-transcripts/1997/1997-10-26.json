@@ -1,0 +1,55 @@
+{
+  "date": "1997-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It has come to my attention that one of you has a social life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There must be some mistake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can't be successful until our social lives are worse than the industry average."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Our competitors spend the nights in their cubicles. They eat from vending machines."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Someone here has not shown the same level of competitive spirit."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Someone had a social activity last night!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm sorry! I thought they were friends... but they were only recruiting for a multi-level marketing network!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What were they selling?",
+        "Edible wax fruit...",
+        "Brochure?"
+      ]
+    }
+  ]
+}

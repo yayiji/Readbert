@@ -1,0 +1,54 @@
+{
+  "date": "2004-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need help motivating the staff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What have you already tried?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Threats, belittling, humiliation, empty promises, berating, slogans, posters and bullying."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hmm...we can't praise them or else they'd ask for raises."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe they can be motivated by the importance of their work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Their work is making second-rate products to sell to idiots so our executives can afford trophy wives."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Have you tried yelling until your face turns purple?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Make three copies, please!!!",
+        "This is new."
+      ]
+    }
+  ]
+}

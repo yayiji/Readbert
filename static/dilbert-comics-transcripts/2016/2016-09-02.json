@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you talk to me before making this decision?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I left you a voice-mail, an email, and a text message.",
+        "I also messaged you on Skype, Slack, Whatsapp, Twitter, and Facebook."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you try leaving a note on my chair?",
+        "It's stuck to your buttocks."
+      ]
+    }
+  ]
+}

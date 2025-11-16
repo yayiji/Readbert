@@ -1,0 +1,25 @@
+{
+  "date": "2007-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, I want you to use open source software for everything we do. It's free.",
+        "I'll be right back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's an emergency.",
+        "I think he's been reading."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We know you have a trade publication in here. Hand it over and no one has to get hurt."
+      ]
+    }
+  ]
+}

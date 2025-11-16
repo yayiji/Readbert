@@ -1,0 +1,30 @@
+{
+  "date": "2020-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Even though I am your CEO, I work out of a cubicle, just like normal people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You probably respect that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, it sounds stupid."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then why am I torturing myself in that putrid cubicle?",
+        "See prior answer."
+      ]
+    }
+  ]
+}

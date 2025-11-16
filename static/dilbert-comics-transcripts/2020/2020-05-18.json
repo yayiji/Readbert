@@ -1,0 +1,24 @@
+{
+  "date": "2020-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you wear makeup under the mask where no one can see it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or do you leave your snout area all pale and pimply?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop imagining me unmasked.",
+        "I'll report myself to human resources."
+      ]
+    }
+  ]
+}

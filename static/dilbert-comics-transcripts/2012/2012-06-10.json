@@ -1,0 +1,56 @@
+{
+  "date": "2012-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to get this technology certification."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whoa!",
+        "No way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I pay for your training, you'll use your certification to get a better job."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "At the moment, you're in what we managers call the Goldilocks zone."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're not hot enough to get a better job, and you're not yet incompetent at the one you have."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When your skills expire, in the next year or two, I'll replace you with someone younger."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're a monster!",
+        "I'll pay for my own training and leave you to marinate in your own stench!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How did you keep your training expenses so low?",
+        "I marinated in my own stench."
+      ]
+    }
+  ]
+}

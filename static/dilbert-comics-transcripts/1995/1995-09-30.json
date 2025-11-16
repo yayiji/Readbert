@@ -1,0 +1,30 @@
+{
+  "date": "1995-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're making a big mistake.",
+        "I'm no ordinary mouse.",
+        "If you kiss me I'll turn into a prince!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did I say \"Prince\"?",
+        "I meant I'd become the symbol for the performer formerly known as Prince.",
+        "Ha ha ha!! Get it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're immune to both romance and mirth.",
+        "You must be a... a...",
+        "That's right.",
+        "I'm an engineer."
+      ]
+    }
+  ]
+}

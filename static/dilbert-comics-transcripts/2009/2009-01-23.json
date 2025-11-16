@@ -1,0 +1,25 @@
+{
+  "date": "2009-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company lawyer",
+        "The company owns dilbertfiles.com and all of its I.P. because you created it at work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you'll need to pay us a royalty every time you use the name \"Dilbert.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did you get in my house?",
+        "There's a loophole in your door."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company training",
+        "Let's go around the room and we'll each say what we hope to learn."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope to learn whether that thing on your head is a bad toupee, a dead animal, or a hideous freak of nature."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I call that \"general\"?"
+      ]
+    }
+  ]
+}

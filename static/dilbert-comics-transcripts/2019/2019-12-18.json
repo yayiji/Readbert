@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I work from home?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because then I won't have the enjoyable sensation of wielding power over you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Everything about that sounds wrong.",
+        "Off you go."
+      ]
+    }
+  ]
+}

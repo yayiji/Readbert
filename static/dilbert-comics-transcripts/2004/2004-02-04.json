@@ -1,0 +1,24 @@
+{
+  "date": "2004-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new chip is slower than our competition's products."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll claim we're the fastest. If anyone does benchmark tests, we'll say they used old drivers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whenever I talk to you, I feel like I should be wearing a wire.",
+        "Since when is marketing a crime?"
+      ]
+    }
+  ]
+}

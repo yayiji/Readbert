@@ -1,0 +1,24 @@
+{
+  "date": "2002-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Um... you gave me an assignment that isn't my job and doesn't need to be done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm trying to take over another department by doing their work. Later I'll say their manager should report to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could we at least pretend my job is useful?",
+        "Don't I always?"
+      ]
+    }
+  ]
+}

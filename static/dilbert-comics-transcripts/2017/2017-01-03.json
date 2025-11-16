@@ -1,0 +1,24 @@
+{
+  "date": "2017-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the software yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I'm still paying off the technical debt from the last programmer you rushed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what that means.",
+        "Well, that explains a lot."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2015-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How many days will it take to finish the tests?",
+        "Three."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have two."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't do it in two days.",
+        "That's why I said three."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That was before I used my leadership skills to tell you to do it in two days."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Leadership doesn't change the laws of physics. The test takes three days."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You have two."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Leadership!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "These test results look incomplete.",
+        "Just like my soul."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1991-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I haven't looked at my high school yearbook in ages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's Mike - voted most likely to succeed...",
+        "and Lucy - voted most beautiful...",
+        "Where are you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert - \"Most likely to find a potato that resembles himself.\"",
+        "Who hasn't?"
+      ]
+    }
+  ]
+}

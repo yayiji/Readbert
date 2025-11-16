@@ -1,0 +1,56 @@
+{
+  "date": "1994-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got your project approved by our president!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But he gave your budget to another project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's pretty much doomed from the get-go."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I hyped it up at the executive meeting so somebody else will try to take it over."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Step aside, fools!",
+        "This project belongs to marketing now!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh, please don't take our project."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes!",
+        "Slap!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you ever worry that you're finding joy in the wrong places?",
+        "Nope."
+      ]
+    }
+  ]
+}

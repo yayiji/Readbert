@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This thankless assignment shall go to whoever asks a question or makes eye contact."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's really, really stupid... Does anybody want to question it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think I see Ted's eyes in the mirror.",
+        "Good one, Alice!",
+        "Gasp"
+      ]
+    }
+  ]
+}

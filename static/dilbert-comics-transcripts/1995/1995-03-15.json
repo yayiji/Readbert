@@ -1,0 +1,26 @@
+{
+  "date": "1995-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your stock was $30 per share when I offered to buy the company, but thanks to some timely leaks to the media your value has plunged."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "However, if you sell right now I'll pay the full $30 for your stock.",
+        "I recommend we do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Done. $30 per share is more than fair.",
+        "Yeah, \"per share\" would have been fair.",
+        "Anybody want a copy?"
+      ]
+    }
+  ]
+}

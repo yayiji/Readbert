@@ -1,0 +1,24 @@
+{
+  "date": "2011-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I spent the week writing a test script for our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I wrote a test script to test Dilbert's test script."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your script was almost perfect.",
+        "Keep up the good work, buddy."
+      ]
+    }
+  ]
+}

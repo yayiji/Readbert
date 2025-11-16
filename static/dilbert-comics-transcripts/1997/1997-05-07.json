@@ -1,0 +1,26 @@
+{
+  "date": "1997-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Flashback to the invention of the first web browser.",
+        "What should we call our prank, Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, it's designed to make millions of people sit around waiting for nothing to happen..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A few years later.",
+        "Hey, I can almost see a recognizable blotch! This is awesome!",
+        "Note"
+      ]
+    }
+  ]
+}

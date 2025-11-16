@@ -1,0 +1,54 @@
+{
+  "date": "2005-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, you've been saying negative things about the company in your personal blog. We have to fire you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have freedom of speech. It's my constitutional right to say whatever I want."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you fire me for my opinions, you'll be spitting on the graves of our founding fathers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll get the best lawyer that money can buy, and fight you all the way to the Supreme Court!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The only way you can legally fire me is if my work isn't good."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ooh.",
+        "I probably said too much here."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your work isn't good. Here's your final paycheck."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Stupid founding fathers."
+      ]
+    }
+  ]
+}

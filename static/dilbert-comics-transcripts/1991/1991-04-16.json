@@ -1,0 +1,24 @@
+{
+  "date": "1991-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The cost of sending a child to college is rising so quickly..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...We need to start budgeting now, in case I ever get married and have a kid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess that's the price for living in a modern society.",
+        "In the meantime, we'll have to live in a cave and hunt bison."
+      ]
+    }
+  ]
+}

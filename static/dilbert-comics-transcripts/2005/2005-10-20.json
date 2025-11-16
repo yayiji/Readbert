@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm afraid that my boss will try to kill me because I know about his malfeasance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend that you ask to meet him alone at an abandoned warehouse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was a mistake to name you the beneficiary on my life insurance policy.",
+        "Remember to insult his goons."
+      ]
+    }
+  ]
+}

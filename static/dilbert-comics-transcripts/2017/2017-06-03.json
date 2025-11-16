@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you ever noticed that our cubicles are organized exactly like a carton of eggs?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That feels right because eggs go rotten quickly, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already hate my own analogy.",
+        "Eggs are overly sensitive, too."
+      ]
+    }
+  ]
+}

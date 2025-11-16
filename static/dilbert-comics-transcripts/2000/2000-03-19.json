@@ -1,0 +1,56 @@
+{
+  "date": "2000-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We found a dozen bugs in the software you sold us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can fix these bugs for $20,000.",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't charge us to fix your own defective product!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Buwahaha!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Sorry... I was overcome by an evil euphoria."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I guess we have to pay. We have no choice!",
+        "Excuse me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Put more bugs in the software! I'm making a fortune out here!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm starting to question our single source strategy.",
+        "Phblllt!"
+      ]
+    }
+  ]
+}

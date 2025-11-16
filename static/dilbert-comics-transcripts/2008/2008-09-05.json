@@ -1,0 +1,25 @@
+{
+  "date": "2008-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, when will I get your cost estimates?",
+        "When will your one eyebrow turn into two?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that the ghost of the guy who used to have your job? He makes you look bad because he was always helpful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you're so helpful, tell me how to kill you.",
+        "Dang... I try garlic and a shop-vac."
+      ]
+    }
+  ]
+}

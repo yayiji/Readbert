@@ -1,0 +1,24 @@
+{
+  "date": "2009-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm collecting money for our pointy-haired boss' birthday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Punch!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much did we get so far?",
+        "Well, nothing you could send by Fedex."
+      ]
+    }
+  ]
+}

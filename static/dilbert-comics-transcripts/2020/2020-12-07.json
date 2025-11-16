@@ -1,0 +1,26 @@
+{
+  "date": "2020-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's why I recommend creating a 5G format called orthogonal frequency division multiplexing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That will never work.",
+        "It's already an industry standard.",
+        "I was joking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop doing that to me.",
+        "I don't know if I can."
+      ]
+    }
+  ]
+}

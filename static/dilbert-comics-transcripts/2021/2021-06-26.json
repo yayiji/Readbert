@@ -1,0 +1,24 @@
+{
+  "date": "2021-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working two jobs since Ted quit.",
+        "Maybe you could hire a replacement for Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That won't work because you're too busy to train a new person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop making that death stare and get back to your two jobs."
+      ]
+    }
+  ]
+}

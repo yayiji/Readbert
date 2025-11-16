@@ -1,0 +1,54 @@
+{
+  "date": "2022-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your design will never work because science has proven that plastic will explode at room temperature."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't believe that is true."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good golly, man! Do you ever read a book?!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, yes, but I have never seen anything about exploding plastic."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe you could send me a link to a relevant study."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do your own research! I don't work for you!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When I don't find it, will you claim the problem is my research skills?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Well, will you?",
+        "He's onto me."
+      ]
+    }
+  ]
+}

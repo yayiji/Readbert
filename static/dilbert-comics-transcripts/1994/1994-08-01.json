@@ -1,0 +1,25 @@
+{
+  "date": "1994-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've hired the Dogbert ad agency to give our company a new image."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used a computer to suggest a new hi-tech name for your company.",
+        "The program randomly combines words from astronomy and electronics."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The first choice is \"Uranus-Hertz\"",
+        "I like it."
+      ]
+    }
+  ]
+}

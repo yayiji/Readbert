@@ -1,0 +1,23 @@
+{
+  "date": "2011-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The committee decided that the file naming convention will start with the date, in the order of month, year, day..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Then a space, then the temperature at the airport, and the hat size of the nearest squirrel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To be perfectly honest, it was a long meeting and we probably didn't do our best work toward the end."
+      ]
+    }
+  ]
+}

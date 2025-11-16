@@ -1,0 +1,25 @@
+{
+  "date": "2003-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you in charge of building our new technology lab."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pick the contractor with the lowest bid.",
+        "I don't foresee any problems with that strategy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, your bid says you'll do the job for \"...a chance to gnaw on wood.\"",
+        "Too high?"
+      ]
+    }
+  ]
+}

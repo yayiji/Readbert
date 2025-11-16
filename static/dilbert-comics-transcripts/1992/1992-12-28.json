@@ -1,0 +1,26 @@
+{
+  "date": "1992-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's see... I've got my cellular phone, my pager, Palm computer, personal organizer, wireless modem..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah, I'd say I'm pretty much the envy of engineers everywhere...",
+        "Looking good...",
+        "Looking good..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Words escape me...",
+        "Here, I'll fire up the old thesaurus."
+      ]
+    }
+  ]
+}

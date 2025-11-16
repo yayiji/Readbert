@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you closed your school for self-service gas station attendants.",
+        "It didn't work out."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was teaching the section on refolding maps... frustrations were high... at first, the paper cuts were minor, but panic swept the room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, how bad could...",
+        "They're all dead..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our device conforms to all international standards for communications."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In other words, it doesn't do anything useful and it's not your fault."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there somebody less experienced I could talk to?",
+        "Do you have my boss's number?"
+      ]
+    }
+  ]
+}

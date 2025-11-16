@@ -1,0 +1,52 @@
+{
+  "date": "2000-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your software product is riddled with bugs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend repackaging it as a rust inhibitor for computers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The ads will say \"You know it's working because of all the error messages.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People aren't stupid."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "According to my research, they are."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I need that rust inhibitor; I spit when I type."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think the rust turned my exclamation upside down.",
+        "That's the letter \"i\"."
+      ]
+    }
+  ]
+}

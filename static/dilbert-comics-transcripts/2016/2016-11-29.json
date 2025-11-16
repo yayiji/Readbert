@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to escalate an issue to you.",
+        "No. Get it away from me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't like issues. Especially the hard ones."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you for all the nothing.",
+        "Shoo! Go!"
+      ]
+    }
+  ]
+}

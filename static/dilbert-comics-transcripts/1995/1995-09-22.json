@@ -1,0 +1,23 @@
+{
+  "date": "1995-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I've decided to add a resource to your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're human beings, not \"resources\"!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would it help if I told you that resources are our most valuable asset?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2002-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you completed your skills inventory?",
+        "I'm submitting it now.",
+        "Click"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They use that information to transfer you to jobs you don't want."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll be okay as long as you didn't check any of the boxes in the hazmat section.",
+        "Stupid",
+        "Stupid",
+        "Stupid"
+      ]
+    }
+  ]
+}

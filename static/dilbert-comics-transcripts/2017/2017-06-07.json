@@ -1,0 +1,25 @@
+{
+  "date": "2017-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted is complaining that you charged your expenses to his project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You told me to be creative because you forgot to fund my project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wasn't expecting you to do that.",
+        "That's what makes it creative.",
+        "I looked it up."
+      ]
+    }
+  ]
+}

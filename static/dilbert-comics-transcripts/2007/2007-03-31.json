@@ -1,0 +1,23 @@
+{
+  "date": "2007-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't understand what your department does, so I decided to eliminate it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if I explain what we do? Would you change your mind?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see you're not a big fan of decisiveness."
+      ]
+    }
+  ]
+}

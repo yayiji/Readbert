@@ -1,0 +1,55 @@
+{
+  "date": "1993-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it the flu?",
+        "Hmm..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had the computer run an economic report on the market value of your organs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could make thousands of dollars by selling your parts for transplants."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Of course, this is all moot unless you die in my office while under my care."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But if I let you die from the flu then my malpractice insurance will go up again."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But if you live I can continue to bill you for unnecessary tests."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "There's a slight economic advantage to keeping you alive... if you leave three pints of blood and do me a little favor."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Then I had to wax his jeep with my clothes.",
+        "Apparently he didn't know what kind of fabrics you wear."
+      ]
+    }
+  ]
+}

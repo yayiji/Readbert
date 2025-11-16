@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I come to work on my vacation days?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate being scolded for being behind in my work more than I enjoy taking vacations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seems I have trained you well.",
+        "No, I'm just broken."
+      ]
+    }
+  ]
+}

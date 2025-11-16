@@ -1,0 +1,25 @@
+{
+  "date": "2020-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think you're wrong.",
+        "What error did I make?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm basing my decision on your entire career of being wrong about everything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope I'm not the first person to point that out.",
+        "Give me a minute to reassess my entire life."
+      ]
+    }
+  ]
+}

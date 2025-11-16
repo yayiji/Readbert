@@ -1,0 +1,26 @@
+{
+  "date": "1989-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look! I've created the world's first completely reusable newspaper."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pope denounces violence...",
+        "Home prices rise... unrest in the Mideast...",
+        "Generic news!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much?",
+        "A thousand bucks. You'll never need another one."
+      ]
+    }
+  ]
+}

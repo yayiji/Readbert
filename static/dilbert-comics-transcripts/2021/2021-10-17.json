@@ -1,0 +1,54 @@
+{
+  "date": "2021-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We can only succeed if we value creative risk-taking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying we will be rewarded even if our risks turn out to be huge mistakes?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I'm not going to reward you for mistakes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then why would we take creative risks?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Because the company needs you to."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So it's kind of a suicide mission situation?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Not at all. Sometimes you might succeed."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Then I'd get a big raise?",
+        "We pay market rates."
+      ]
+    }
+  ]
+}

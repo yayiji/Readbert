@@ -1,0 +1,24 @@
+{
+  "date": "1996-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How do you like your new smoking habit?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My teeth turned yellow, my breath is putrid, I'm a social outcast, I'm going broke, and my house burned down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you're going to quit?",
+        "No, I'm trying to take a long term view of it."
+      ]
+    }
+  ]
+}

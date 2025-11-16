@@ -1,0 +1,24 @@
+{
+  "date": "1994-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tech support",
+        "I think I know what your problem is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Take all the parts and arrange them in neat piles. Now stand on your chair so you can see above your cubicle wall."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now shout \"Does anybody know how to read a manual?\""
+      ]
+    }
+  ]
+}

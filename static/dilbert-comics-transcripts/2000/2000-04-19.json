@@ -1,0 +1,31 @@
+{
+  "date": "2000-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll make your life miserable!",
+        "I'll thwart your every move!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi. I'm the new sadist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What happened to the old one?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He went to sadist paradise.",
+        "The auditing department?"
+      ]
+    }
+  ]
+}

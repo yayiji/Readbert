@@ -1,0 +1,25 @@
+{
+  "date": "1989-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Care to join me for a walk?",
+        "Sure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope you aren't planning to chew that gum at the same time.",
+        "Very funny."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Boy! This is a lot harder than you would think."
+      ]
+    }
+  ]
+}

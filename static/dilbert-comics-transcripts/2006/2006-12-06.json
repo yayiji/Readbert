@@ -1,0 +1,24 @@
+{
+  "date": "2006-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, is that a new candy dish?",
+        "Yes, it is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Get your hand away from my #!%* candy!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love the new candy dish."
+      ]
+    }
+  ]
+}

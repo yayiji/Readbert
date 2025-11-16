@@ -1,0 +1,23 @@
+{
+  "date": "2004-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sales are dropping like a rock."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our plan is to invent some sort of doohickey that everyone wants to buy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The visionary leadership work is done. How long will your part take?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2016-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for a name for the spaceship that I designed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How about \"Death tube\"?",
+        "\"Space debris\"?",
+        "\"Final resting place\"."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping for something more positive.",
+        "We're positive it will explode."
+      ]
+    }
+  ]
+}

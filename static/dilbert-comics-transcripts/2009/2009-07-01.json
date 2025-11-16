@@ -1,0 +1,24 @@
+{
+  "date": "2009-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The results of our beta testing are in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our user interface triggered wide-spread despondency and self-mutilation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Obviously we'll need to delay our launch for the public good.",
+        "When did you become a communist?"
+      ]
+    }
+  ]
+}

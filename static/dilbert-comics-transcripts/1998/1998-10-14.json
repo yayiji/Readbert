@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been sent to teach you Cobol."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have any computers.",
+        "That's okay. I don't know Cobol."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And if you had a keyboard, you would do this.",
+        "Oops...how do I delete?"
+      ]
+    }
+  ]
+}

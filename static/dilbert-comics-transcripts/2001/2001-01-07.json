@@ -1,0 +1,55 @@
+{
+  "date": "2001-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No known battery technology can handle this load and be this size."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not what you wanted to hear."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So your mind will erase what I said..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...And replace the memory with something totally ridiculous so you can question my motives."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Gaah!",
+        "The transformation is complete."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How can you say there's no such thing as a battery?!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're lying to avoid work! I'm going to talk to your boss!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Lately, the only thing keeping me from being a serial killer is my distaste for manual labor.",
+        "You're preaching to the choir."
+      ]
+    }
+  ]
+}

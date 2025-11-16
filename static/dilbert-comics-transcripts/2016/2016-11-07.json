@@ -1,0 +1,24 @@
+{
+  "date": "2016-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented an artificial soul to help non-believers act morally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a small drone that follows you around and reminds you not to be a jerk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did it forget to remind you today?",
+        "My drone says I shouldn't slap you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2013-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for a monster named Stanky Bathurd."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's kind of busy rewriting the tax code to be more frustrating.",
+        "I know.",
+        "He hired me to help."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our strategy is to detect any trends and react accordingly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't that exactly the same as not having a strategy?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, this slide didn't make itself."
+      ]
+    }
+  ]
+}

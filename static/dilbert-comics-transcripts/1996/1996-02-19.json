@@ -1,0 +1,25 @@
+{
+  "date": "1996-02-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This 3-D colored pie chart shows an unexplained rise in expenses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You each get a binder of colored pie charts so you can help find the cause of our rising expenses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much do color copies cost?",
+        "I think I see it!",
+        "It's not the \"magic eye,\" doofus."
+      ]
+    }
+  ]
+}

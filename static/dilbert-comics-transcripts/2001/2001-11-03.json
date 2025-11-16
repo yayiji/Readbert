@@ -1,0 +1,26 @@
+{
+  "date": "2001-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok works in H.R.",
+        "If we eliminate vacation days and increase sick days..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Would the employees fall for our trap and make themselves sick to get days off?",
+        "What?!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're in H.R. now. It's okay to be evil.",
+        "Evil, right."
+      ]
+    }
+  ]
+}

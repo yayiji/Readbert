@@ -1,0 +1,53 @@
+{
+  "date": "2018-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need this finished by Friday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This assignment will suck up 100% of my free time and turn my happy life into a death march."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's why we pay you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You pay me so you can ruin my life?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Perhaps I said that wrong."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What I meant is that I don't care how you feel as long as I get my bonus."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're a cold, heartless monster with no sense of shame!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's why they pay me."
+      ]
+    }
+  ]
+}

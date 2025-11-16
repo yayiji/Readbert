@@ -1,0 +1,25 @@
+{
+  "date": "2022-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They say it's easier to ask for forgiveness than permission.",
+        "And...?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought I was playing a VR game, and I accidentally killed a guy from the marketing department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, VR games are very realistic, and he did look like an ogre.",
+        "Reasonable doubt."
+      ]
+    }
+  ]
+}

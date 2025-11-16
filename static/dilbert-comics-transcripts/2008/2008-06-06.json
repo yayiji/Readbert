@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You won't read my technical report so I summarized it in this complicated slide."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you stare at it long enough you will either experience the illusion of understanding it or be too embarrassed to admit you don't."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any questions to betray your ignorance?",
+        "Is the triangle thing mad at the tube?"
+      ]
+    }
+  ]
+}

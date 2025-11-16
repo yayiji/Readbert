@@ -1,0 +1,25 @@
+{
+  "date": "2018-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the personal trainer",
+        "I invented a fitness routine I call Boss-ercise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It mostly involves strutting around the office and criticizing people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You incompetent fool!",
+        "Give me twenty more reps."
+      ]
+    }
+  ]
+}

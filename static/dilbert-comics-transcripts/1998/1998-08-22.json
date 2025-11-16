@@ -1,0 +1,25 @@
+{
+  "date": "1998-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my time sheet, in exquisite detail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Crinkle",
+        "Crinkle",
+        "Wad"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's easier to input the numbers if I make them up as I go."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1992-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Approaching take-off velocity..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whap!",
+        "Thud!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gee, you'd think he'd know it's reckless to play frisbee in a populated area."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Human resources is a company's most important strategic asset."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means it's your fault we're losing market share.",
+        "Maybe you should fire yourself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Strategic assets don't like accountability."
+      ]
+    }
+  ]
+}

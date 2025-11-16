@@ -1,0 +1,25 @@
+{
+  "date": "2022-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's ESG rating service",
+        "I was planning to research each company before rating it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I found out how many companies there are. Wow! I'm glad I didn't go that route."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So instead of researching the companies that you are rating, you...",
+        "Tell people I did."
+      ]
+    }
+  ]
+}

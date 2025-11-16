@@ -1,0 +1,26 @@
+{
+  "date": "1994-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mmm...",
+        "Oh, Dilbert!",
+        "Mmm...."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Cut!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you really think this will make Mom stop worrying about me?",
+        "Only if you raise your voice for the \"mmm\" part."
+      ]
+    }
+  ]
+}

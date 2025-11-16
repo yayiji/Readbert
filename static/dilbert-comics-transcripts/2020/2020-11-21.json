@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday someone disagreed with me, and I changed his mind using data and reason."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That isn't possible.",
+        "I didn't think so either, but it happened."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Smells like a trap.",
+        "I couldn't sleep all night."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, there have been complaints that you take conference calls from the men's room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ok, perhaps I have a few idiosyncrasies, but it's only because I care so much about the work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one invited you to those conference calls.",
+        "What if I've already finished the newspaper?"
+      ]
+    }
+  ]
+}

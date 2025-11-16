@@ -1,0 +1,54 @@
+{
+  "date": "2020-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't be your friend because I saw a disturbing photo of you on social media."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You were in a group photo with a person whose opinions I abhor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you explain why that makes me a bad person?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sure. Duh."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When you appear in photos with other people, you acquire their bad characteristics."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't think that's how it works."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's exactly how it works! One photo with a jerk makes you a jerk! Case closed!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Smile.",
+        "No-ooo!!!"
+      ]
+    }
+  ]
+}

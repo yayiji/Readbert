@@ -1,0 +1,26 @@
+{
+  "date": "2010-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting a lot of interest in your death ray invention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not a death ray.",
+        "It's a portable brain scanner with a popcorn microwave option..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh.",
+        "That's a death ray.",
+        "We have an RFQ from North Korea."
+      ]
+    }
+  ]
+}

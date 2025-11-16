@@ -1,0 +1,24 @@
+{
+  "date": "1992-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, ladies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Wilt Ghandi. I'm the product of a genetic experiment combining the wisdom of Wilt Chamberlain and the body of Ghandi."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's the best line tonight. I'm going for it.",
+        "Hey, I saw him first."
+      ]
+    }
+  ]
+}

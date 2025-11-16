@@ -1,0 +1,25 @@
+{
+  "date": "1995-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I want you to benchmark these world-class companies.",
+        "Find out how we compare."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm betting they don't make verbs out of nouns, and I'll bet they don't assign engineers to do field research."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you guys have any pointy-haired idiots running your place?",
+        "Would you like one?"
+      ]
+    }
+  ]
+}

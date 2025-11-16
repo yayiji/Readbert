@@ -1,0 +1,25 @@
+{
+  "date": "2000-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, this is me from the future.",
+        "Hi."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At the next holiday party, she's all over you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that true?",
+        "No, but after today she never drank again."
+      ]
+    }
+  ]
+}

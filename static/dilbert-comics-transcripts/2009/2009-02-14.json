@@ -1,0 +1,25 @@
+{
+  "date": "2009-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I rehired Dilbert for a salary much lower than his previous pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That makes the rest of you overpaid and expendable. Please welcome him back.",
+        "How about a hug?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Today you learned that hugging has a dark side.",
+        "Ow."
+      ]
+    }
+  ]
+}

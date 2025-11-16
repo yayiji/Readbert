@@ -1,0 +1,53 @@
+{
+  "date": "2009-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're changing the name of our staffing group to \"talent acquisition.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This reflects our new focus on hiring only highly talented people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Doesn't that imply that your current employees are inferior to the ones you plan to hire?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sort of."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And since you routinely fire the worst performing employees..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You have just sealed our doom while expecting us to remain loyal to the company."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now all I can think about are ways to vandalize the servers before I become homeless."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I over-communicated again."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1996-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new boss is possessed by an evil force.",
+        "We need your advice, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There is only one solution.",
+        "You must drive a stake through his heart."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's no way we could be so cruel!!",
+        "Can I borrow your pen?",
+        "All I have is this wimpy retractable."
+      ]
+    }
+  ]
+}

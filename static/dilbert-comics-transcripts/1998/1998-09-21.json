@@ -1,0 +1,24 @@
+{
+  "date": "1998-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're under arrest for stealing empty cardboard boxes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company needs those boxes to meet its recycling goals.",
+        "But reuse is better than recycling."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's got to be a way out of this cell."
+      ]
+    }
+  ]
+}

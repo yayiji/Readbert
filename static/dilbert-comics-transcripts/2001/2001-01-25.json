@@ -1,0 +1,25 @@
+{
+  "date": "2001-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Discount brokerage",
+        "I need an estate plan for after I pass away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a plan: stay dead. No one likes a zombie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about gifts?",
+        "Zombies make bad gifts."
+      ]
+    }
+  ]
+}

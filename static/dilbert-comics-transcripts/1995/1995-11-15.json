@@ -1,0 +1,25 @@
+{
+  "date": "1995-11-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My accomplishment this week is that I've become an agent of change."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I foster and reward those behaviors that contribute to a culture of teamwork."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've become slightly more cynical.",
+        "Keep up the good work, buddy.",
+        "Pat pat"
+      ]
+    }
+  ]
+}

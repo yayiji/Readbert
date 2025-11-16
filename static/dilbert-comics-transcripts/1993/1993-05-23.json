@@ -1,0 +1,55 @@
+{
+  "date": "1993-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bank of Ethel",
+        "Next victim."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You charged me a fee for paying my credit card bill a day late.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't your computers automatically transfer money from my checking account instead of charging a penalty?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Frankly, we're not much into the \"customer service\" craze."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We prefer to set little traps so customers get hit with unexpected penalties."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well! I think I'll just take my business elsewhere!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You're annoying me. That's a hundred dollar penalty!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't think I can even claim a moral victory here."
+      ]
+    }
+  ]
+}

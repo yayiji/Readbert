@@ -1,0 +1,28 @@
+{
+  "date": "1991-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is a consultant.",
+        "Your profits are plunging."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The problem will not be easy to solve.",
+        "Brains",
+        "Competitors",
+        "Beavers",
+        "You"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, what should we do? Cut the training budget again?"
+      ]
+    }
+  ]
+}

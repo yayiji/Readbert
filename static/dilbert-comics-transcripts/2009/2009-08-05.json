@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, engineer, can I ask you a question?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not allowed to talk to customers.",
+        "We believe that honesty impedes sales."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think you just impeded.",
+        "Oops."
+      ]
+    }
+  ]
+}

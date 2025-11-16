@@ -1,0 +1,25 @@
+{
+  "date": "2018-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you need me, I'll be bossercizing.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a combination of walking around and spittle-yelling at underperformers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the spittle part necessary?",
+        "Thhhstop quetioning me!!!"
+      ]
+    }
+  ]
+}

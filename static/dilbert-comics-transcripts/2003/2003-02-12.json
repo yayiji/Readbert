@@ -1,0 +1,25 @@
+{
+  "date": "2003-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evil H.R. director",
+        "I need to check a few things before we hire you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me blood, hair, and urine samples, fingerprints, social-security number, past employers, and past lovers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Before we started doing all of this checking, did you know that everyone in the world was despicable?",
+        "Yes"
+      ]
+    }
+  ]
+}

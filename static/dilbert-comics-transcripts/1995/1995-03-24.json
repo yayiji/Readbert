@@ -1,0 +1,27 @@
+{
+  "date": "1995-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How could the Elbonians afford to buy this company?",
+        "Their whole country is just mud."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They packaged the mud and sold it as a cosmetic on the \"couch shopping network.\"",
+        "They made trillions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least they know how to manage resources.",
+        "They sold their entire country in little jars.",
+        "Most Elbonians perished in molten lava at the Earth's core."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a sadist to design our user interfaces."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I realize this isn't ideal, but no one else wanted the job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would our customers buy a product designed by a sadist?",
+        "It's called Stockholm syndrome."
+      ]
+    }
+  ]
+}

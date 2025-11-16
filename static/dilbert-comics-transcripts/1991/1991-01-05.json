@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert! What happened to you?",
+        "I was hit by a Volkswagen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does it hurt?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel like fahrvergnügen."
+      ]
+    }
+  ]
+}

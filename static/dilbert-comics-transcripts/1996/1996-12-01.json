@@ -1,0 +1,59 @@
+{
+  "date": "1996-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert the evil director of human resources",
+        "My tail is twitching..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That can only mean it's time to write some more evil policies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To: All employees",
+        "Subject: New policy"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Employees must wear shoes that are one size smaller than their feet."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This will reduce wear and tear on carpets by 5%"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This is my favorite part.",
+        "We must do this to be competitive."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm a reporter for \"Evil HR Policies Weekly.\" Do you have any success stories?",
+        "Purr purr"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This is how industry practices are born",
+        "Has anyone complained about the \"footsizing\" program?",
+        "I haven't listened to a single complaint."
+      ]
+    }
+  ]
+}

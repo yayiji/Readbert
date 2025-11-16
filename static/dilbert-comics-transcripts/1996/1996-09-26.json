@@ -1,0 +1,24 @@
+{
+  "date": "1996-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... I'm a mile from shore and too exhausted to swim back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My only hope is that an intelligent dolphin will see my plight and rescue me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm in luck!",
+        "Two words: Tuna... net."
+      ]
+    }
+  ]
+}

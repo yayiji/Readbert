@@ -1,0 +1,24 @@
+{
+  "date": "2008-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to improve our reputation in the community by donating money to the needy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Find me a photogenic hobo who could use a million dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm looking for a hobo who could use a million dollars.",
+        "Sorry, we're tramps."
+      ]
+    }
+  ]
+}

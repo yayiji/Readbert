@@ -1,0 +1,24 @@
+{
+  "date": "2018-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The economics of the project have changed. We need to shut it down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we stop now, the $10 million we already spent will be wasted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if we stop later?",
+        "The trick is to never finish the project."
+      ]
+    }
+  ]
+}

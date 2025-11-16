@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A great leader hires good people and gives them the freedom to do their jobs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't have the budget to hire good people.",
+        "So I settle for micromanaging the half-wits I can afford."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your boss was just in here saying the same thing."
+      ]
+    }
+  ]
+}

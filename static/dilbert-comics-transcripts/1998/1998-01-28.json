@@ -1,0 +1,25 @@
+{
+  "date": "1998-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Deputy of common sense",
+        "You are accused of trying to motivate your employees with insulting gifts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're missing the symbolism. I gave them chess pieces to show that we're all on the same team."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Specifically, you gave them pawns.",
+        "I'm saving the rooks for bonus day."
+      ]
+    }
+  ]
+}

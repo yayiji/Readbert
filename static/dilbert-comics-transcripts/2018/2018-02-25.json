@@ -1,0 +1,57 @@
+{
+  "date": "2018-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to go home early today.",
+        "Can you collect money for our boss's birthday gift?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wouldn't ask you to do it, but his birthday is tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And could you also order a cake?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll also need a card and a gift."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This got a lot harder than I thought it..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Thanks!",
+        "Bye!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Tomorrow is our boss's birthday and I need to leave work early today, so...",
+        "Nice try."
+      ]
+    }
+  ]
+}

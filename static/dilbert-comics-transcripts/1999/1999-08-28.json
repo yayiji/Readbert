@@ -1,0 +1,27 @@
+{
+  "date": "1999-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Then if you...",
+        "Test",
+        "...Analyze the data..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a hostile takeover of my presentation!",
+        "...You'll see a pattern..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you let him do it?",
+        "He had a laser pointer the size of your head."
+      ]
+    }
+  ]
+}

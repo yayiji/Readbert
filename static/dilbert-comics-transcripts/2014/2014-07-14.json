@@ -1,0 +1,24 @@
+{
+  "date": "2014-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like a lot of things about being rich, but I like the income inequality the best."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It makes me happy to know that my net worth is about a thousand times more than yours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's actually closer to 800 times my net worth.",
+        "You ruined it!!!"
+      ]
+    }
+  ]
+}

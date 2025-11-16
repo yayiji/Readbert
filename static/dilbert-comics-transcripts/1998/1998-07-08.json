@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate sharing a hotel room on business trips."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need to do my exercises before I go to sleep.",
+        "Do you mind?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There are so many ways that this could be bad.",
+        "I'm still a bit winded from yesterday."
+      ]
+    }
+  ]
+}

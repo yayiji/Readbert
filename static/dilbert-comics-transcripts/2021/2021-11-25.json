@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to recognize Dilbert for his excellent accomplishments this quarter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which one of you is Dilbert?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Didn't you say you came to \"recognize Dilbert?\"",
+        "Get away from me, stranger!"
+      ]
+    }
+  ]
+}

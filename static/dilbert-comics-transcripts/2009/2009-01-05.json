@@ -1,0 +1,25 @@
+{
+  "date": "2009-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This office is freezing. Why aren't you cold?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My brain is much larger than yours.",
+        "It heats my entire body when I think."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But whatever you're doing now seems to be working too.",
+        "#!@* $0!%"
+      ]
+    }
+  ]
+}

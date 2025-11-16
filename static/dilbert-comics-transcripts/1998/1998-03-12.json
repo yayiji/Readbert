@@ -1,0 +1,25 @@
+{
+  "date": "1998-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian factory tour.",
+        "This is the sweat shop where we make your company's product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We attach huge clamps to each employee's head.",
+        "Why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We tried cubicles but it damaged morale."
+      ]
+    }
+  ]
+}

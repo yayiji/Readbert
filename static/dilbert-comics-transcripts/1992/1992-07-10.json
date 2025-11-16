@@ -1,0 +1,26 @@
+{
+  "date": "1992-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invested all of my money in stock options.",
+        "What's an option?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's complicated...",
+        "Basically, you give your money to a stock broker and he buys nice things for his family."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any snide comments?",
+        "No, you took all the fun out of it."
+      ]
+    }
+  ]
+}

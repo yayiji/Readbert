@@ -1,0 +1,24 @@
+{
+  "date": "1990-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So then I sez to my boss, \"You can just stuff this stupid project...\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I sez, \"Let's see you do this job.\" And I sez, \"I should get a raise.\"",
+        "I gotta go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The more they sez \"I sez,\" the less likely it is they really said what they sez they said."
+      ]
+    }
+  ]
+}

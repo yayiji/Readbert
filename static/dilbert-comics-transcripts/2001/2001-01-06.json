@@ -1,0 +1,23 @@
+{
+  "date": "2001-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My plan is to give away our product for free."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll only bill customers who ask us to deinstall it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For once, those reports of consumer decapitations will work in our favor."
+      ]
+    }
+  ]
+}

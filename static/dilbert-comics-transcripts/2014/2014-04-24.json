@@ -1,0 +1,24 @@
+{
+  "date": "2014-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say I can improve my like-ability by showing that I remember things that people have told me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, there was the time you said you always go to funerals dressed as a clown to keep things light."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I never said that!",
+        "Are you sure? I told everyone you did."
+      ]
+    }
+  ]
+}

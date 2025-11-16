@@ -1,0 +1,51 @@
+{
+  "date": "2006-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's almost time for our 360 degree reviews."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means your compensation is partly dependent on the input of your peers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd hate to see something bad happen to you, like, I don't know... maybe a negative review."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've taken the liberty of calculating the value of a good peer review in terms of your next raise."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Pay me half of that amount, and I'll guarantee a positive outcome."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How would I know you gave me a good one? Peer reviews are anonymous."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What is it about me that makes people so distrusting?"
+      ]
+    }
+  ]
+}

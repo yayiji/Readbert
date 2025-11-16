@@ -1,0 +1,23 @@
+{
+  "date": "2014-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't do my budget projections until you tell me your priorities for the coming year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then you say, \"Everything is a top priority. Fuh-fuh-fuh-fuh-fuh.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope this is what you meant by \"bring me solutions, not problems.\""
+      ]
+    }
+  ]
+}

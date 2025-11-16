@@ -1,0 +1,54 @@
+{
+  "date": "1990-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Nerdstrom"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hi, I'm Larry, and I'll be your personal shopping assistant."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll start by measuring you, then I'll do your colors, then compile a brief family history for our records."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Complimentary food and beverages will be served, and a masseuse is on call."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm looking for a new pen... maybe something in a Bic."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I recommend the blue. We guarantee it for life."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes, this will do nicely."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Was it expensive?",
+        "Fortunately, I qualified for their indentured servant plan."
+      ]
+    }
+  ]
+}

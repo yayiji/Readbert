@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here at the \"Jiffy Med Center\" we do everything to keep your health costs down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In fact, none of us has any medical training, so they pay us almost nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you do it?",
+        "I like putting this cold thing on naked people."
+      ]
+    }
+  ]
+}

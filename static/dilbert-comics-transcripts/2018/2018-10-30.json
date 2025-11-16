@@ -1,0 +1,24 @@
+{
+  "date": "2018-10-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won the job by intentionally underbidding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we can close the profit gap by doing extra-shoddy work and grossly overcharging for upgrades."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we a criminal organization?",
+        "Not in a way that can easily be proven."
+      ]
+    }
+  ]
+}

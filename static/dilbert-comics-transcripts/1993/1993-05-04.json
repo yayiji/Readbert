@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Companies must learn to embrace change.",
+        "Uh-oh. It's another management fad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will it pass quickly or will it linger like the stench of a dead woodchuck under the porch?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we should do a \"change\" newsletter.",
+        "Woodchuck."
+      ]
+    }
+  ]
+}

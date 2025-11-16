@@ -1,0 +1,26 @@
+{
+  "date": "1994-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This will be a tough year for the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will take a special kind of team to get by."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Go team!",
+        "Team! Team!",
+        "Specifically, it will take a much smaller team.",
+        "Yes!"
+      ]
+    }
+  ]
+}

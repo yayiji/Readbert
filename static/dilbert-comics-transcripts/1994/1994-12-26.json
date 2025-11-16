@@ -1,0 +1,24 @@
+{
+  "date": "1994-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a professional to help us design our product interface."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "His last job was as an international terrorist. It's not a perfect fit but he went to Yale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, I hear you went to Yale, Sven.",
+        "I yust got out last week."
+      ]
+    }
+  ]
+}

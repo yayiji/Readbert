@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your bid to build our cell phone network is the lowest by far."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'd feel more comfortable if it had an illegal component."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Like a bribe? Or helping you build a nuclear weapon?",
+        "Yes, just something to add flavor."
+      ]
+    }
+  ]
+}

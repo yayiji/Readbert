@@ -1,0 +1,24 @@
+{
+  "date": "1989-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If a man eats a pound of pasta and a pound of antipasto..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Would they cancel each other out, leaving the man still hungry?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't imagine Socrates and Plato debating that question.",
+        "Too hard, huh?"
+      ]
+    }
+  ]
+}

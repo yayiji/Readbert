@@ -1,0 +1,31 @@
+{
+  "date": "2016-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted knows that I know something about his project.",
+        "Now he won't stop hounding me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know what to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try dousing him with coffee."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your advice is terrible.",
+        "You're coming off as ungrateful."
+      ]
+    }
+  ]
+}

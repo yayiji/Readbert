@@ -1,0 +1,25 @@
+{
+  "date": "2015-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you smoke?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What does that have to do with my technical skills?",
+        "A 2010 Israeli study says smokers have lower intelligence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you know stuff like that?",
+        "Would it be funny if I don't smoke?"
+      ]
+    }
+  ]
+}

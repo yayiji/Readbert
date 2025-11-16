@@ -1,0 +1,22 @@
+{
+  "date": "1998-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "I'm making $200,000 per year!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently that's all I know."
+      ]
+    }
+  ]
+}

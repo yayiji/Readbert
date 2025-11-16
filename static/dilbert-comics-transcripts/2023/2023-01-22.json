@@ -1,0 +1,54 @@
+{
+  "date": "2023-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What is your long-term career plan, Asok?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I am a rational person who responds to incentives, so..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...I plan to do as little work as possible while still getting paid..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Until climate change turns the planet into a glowing ember in approximately three years."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Give me your phone."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Bam!",
+        "Bam!",
+        "Bam!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Thank you.",
+        "You're free."
+      ]
+    }
+  ]
+}

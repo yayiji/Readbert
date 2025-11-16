@@ -1,0 +1,24 @@
+{
+  "date": "1990-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's amazing that dogs never seem to sweat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because I sneak into your bedroom every morning and use your deodorant before you wake up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh... well, it's amazing that dogs don't need to brush their teeth.",
+        "That reminds me - our toothbrush is getting spongy."
+      ]
+    }
+  ]
+}

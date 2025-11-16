@@ -1,0 +1,29 @@
+{
+  "date": "1996-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told you this project would take a year.",
+        "But on my objectives you say I must have it done in three months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which of these reasons best describes why:",
+        "A. You have great confidence in me.",
+        "B. You think I padded my estimate.",
+        "C. You hate my guts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't really need the project.",
+        "It's just a way to keep raises low.",
+        "I just felt a little dip in my motivation."
+      ]
+    }
+  ]
+}

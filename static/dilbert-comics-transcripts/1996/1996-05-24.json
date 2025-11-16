@@ -1,0 +1,24 @@
+{
+  "date": "1996-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a cat once..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I petted that thing for two hours but I didn't feel any better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Petting is for the benefit of the cat, not your hand.",
+        "They're so selfish."
+      ]
+    }
+  ]
+}

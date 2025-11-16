@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Has anyone seen Ted lately?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Last time I saw him he was trapped in a tangle of cables behind his desk, screaming for help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you helped him get free?",
+        "I only needed his stapler."
+      ]
+    }
+  ]
+}

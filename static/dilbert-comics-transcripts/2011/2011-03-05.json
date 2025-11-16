@@ -1,0 +1,24 @@
+{
+  "date": "2011-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you actually interested in this product or are you just trying to chat me up?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The show is too big to see everything, so I use a mammary filter to decide who I talk to."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You use a what?",
+        "Do you have any free stuff or job offers?"
+      ]
+    }
+  ]
+}

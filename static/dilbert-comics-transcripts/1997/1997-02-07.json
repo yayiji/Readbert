@@ -1,0 +1,27 @@
+{
+  "date": "1997-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't mind the stopwatch.",
+        "I'm testing my theory that people get dumber every minute."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not so simple, Dogbert.",
+        "You also have to consider my \"emotional intelligence,\" which is defined in a book I haven't read."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Twelve seconds.",
+        "Click",
+        "Give me that watch, you hog!"
+      ]
+    }
+  ]
+}

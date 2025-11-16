@@ -1,0 +1,27 @@
+{
+  "date": "1995-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, venture capitalist",
+        "You'll use your technical expertise and I'll do the business stuff.",
+        "Sign here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Since you're the inventor of the technology, you'll get 100% of the special decorative non-equity stock.",
+        "I'll settle for all the common stock."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope we can avoid the tension that some partners experience.",
+        "Give me my pen, you miscreant."
+      ]
+    }
+  ]
+}

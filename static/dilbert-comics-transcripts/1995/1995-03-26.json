@@ -1,0 +1,55 @@
+{
+  "date": "1995-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please enter photocopier access code."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the code for this machine?",
+        "That's proprietary information."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We work for the same company.",
+        "My cubicle is down the hall."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have no way of verifying your claim. Anybody could come in here and say that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ask me a question that only an employee of this company could answer.",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What is the access code for this copier?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sob",
+        "I just have one..."
+      ]
+    }
+  ]
+}

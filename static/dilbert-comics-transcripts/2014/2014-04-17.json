@@ -1,0 +1,25 @@
+{
+  "date": "2014-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm only allowed to ask interview questions that have been approved by human resources."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And they haven't approved any yet.",
+        "So all I can do is make random statements."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "An ostrich's eye is bigger than its brain.",
+        "So is mine!"
+      ]
+    }
+  ]
+}

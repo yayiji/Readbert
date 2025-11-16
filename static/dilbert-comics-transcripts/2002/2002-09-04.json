@@ -1,0 +1,26 @@
+{
+  "date": "2002-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm signing up people for the mandatory mouse training class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see you're using a western grip.",
+        "That's just begging for carpal tunnel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Weak muscles...",
+        "I'll put you in the two-handed mouse class.",
+        "Ouch"
+      ]
+    }
+  ]
+}

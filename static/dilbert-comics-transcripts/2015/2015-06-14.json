@@ -1,0 +1,54 @@
+{
+  "date": "2015-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is not the deal we agreed on."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I forgot a few things on the first estimate, but you need them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only picked you because you had the lowest price."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, but now the vendor selection is done and it would be too much trouble for you to start over."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It might even damage your career because you delayed the project."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You could go to the second-highest bidder, but those guys would do the same thing to you."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! I have no choice! This is blackmail, not commerce!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We call it \"sales.\"",
+        "I'll need all the cash in your wallet, too."
+      ]
+    }
+  ]
+}

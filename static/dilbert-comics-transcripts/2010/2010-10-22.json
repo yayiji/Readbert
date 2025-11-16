@@ -1,0 +1,24 @@
+{
+  "date": "2010-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm updating my friend resource matrix and I have a few gaps."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already have a friend with a truck, a friend who gives me free tickets, and a friend with tools."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've got openings for a computer expert friend and a frisky friend with low standards.",
+        "I'll try the computer one."
+      ]
+    }
+  ]
+}

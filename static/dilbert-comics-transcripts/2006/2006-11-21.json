@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does marketing have any data on customer preferences?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Errr",
+        "Grunt!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is disturbing on so many levels."
+      ]
+    }
+  ]
+}

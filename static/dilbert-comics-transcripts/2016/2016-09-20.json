@@ -1,0 +1,24 @@
+{
+  "date": "2016-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new cubicle is the nearest one to the office thermostat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That makes me the de facto ruler of the indoor climate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't let the power corrupt you.",
+        "I'll start by freezing all the skinny women who laughed at me!"
+      ]
+    }
+  ]
+}

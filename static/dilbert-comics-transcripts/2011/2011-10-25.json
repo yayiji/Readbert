@@ -1,0 +1,28 @@
+{
+  "date": "2011-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need a succession plan.",
+        "I'm so awesome and charismatic that the company would be in trouble if I were to leave."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wouldn't worry about it.",
+        "It's not as if you invented anything.",
+        "We could replace you with a bag of moss."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He got quiet.",
+        "See?",
+        "Moss can totally do that."
+      ]
+    }
+  ]
+}

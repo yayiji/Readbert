@@ -1,0 +1,26 @@
+{
+  "date": "2015-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you finish the...",
+        "Get off my back!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why can't you just trust me to do my work on time?!?",
+        "Sorry..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who were you yelling at?",
+        "Beats me. It didn't seem important."
+      ]
+    }
+  ]
+}

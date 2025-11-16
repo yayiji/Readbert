@@ -1,0 +1,53 @@
+{
+  "date": "2016-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that is my idea for our new product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are there any ignorant objections?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your idea is totally ridiculous!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's like you're trying to build castles in the sky!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Have you heard of Air Force One, the plane used by the president of the United States?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's basically a castle in the sky. And someone did build it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, if your idea is so good, why hasn't someone already done it?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm guessing that everyone else had co-workers like you."
+      ]
+    }
+  ]
+}

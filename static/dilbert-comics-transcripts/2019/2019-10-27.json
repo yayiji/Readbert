@@ -1,0 +1,55 @@
+{
+  "date": "2019-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm negotiating a deal with the government of Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They agreed to buy a thousand dollars of our products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I had to do was agree to let them steal all of our intellectual property."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wouldn't it be better for us if they didn't steal our I.P.?",
+        "You have to look at the big picture."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They also agreed to stop killing tens of thousands of our citizens with their illegal drug shipments."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Did they stop?",
+        "No, but they said they would."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe you should negotiate harder."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And risk losing a thousand dollars of revenue?"
+      ]
+    }
+  ]
+}

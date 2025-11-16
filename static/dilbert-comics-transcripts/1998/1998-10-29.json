@@ -1,0 +1,25 @@
+{
+  "date": "1998-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "Our ad campaign featuring phony sincerity is working."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In phase two, we'll introduce our newest product, the invisible robot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We don't know how to make an invisible robot.",
+        "Do you know how to make an empty box?"
+      ]
+    }
+  ]
+}

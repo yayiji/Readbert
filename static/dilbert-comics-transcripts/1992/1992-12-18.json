@@ -1,0 +1,24 @@
+{
+  "date": "1992-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've never accepted me in your family because I'm a little rat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'll be testing a drug at the lab that will change that. No more little rat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You won't be a rat?",
+        "Don't tell me it's the \"rat\" part that bothers you..."
+      ]
+    }
+  ]
+}

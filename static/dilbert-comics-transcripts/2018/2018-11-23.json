@@ -1,0 +1,25 @@
+{
+  "date": "2018-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss asked me to teach a class on coding because it is hard to find programmers in this job market."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are there any smart people in the class or do you all work in marketing and sales?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's that supposed to mean?",
+        "Thank you.",
+        "Is anyone else in sales?"
+      ]
+    }
+  ]
+}

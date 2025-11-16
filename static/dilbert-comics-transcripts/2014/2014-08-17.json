@@ -1,0 +1,55 @@
+{
+  "date": "2014-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of your projects are behind schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need to work on your time management skills."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me see if I understand you correctly."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You expect me to do the job of three engineers..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...And the only obstacle to your brilliant plan is my poor time management?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Stop making everything I say sound dumb."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I don't do it that often."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Because you only sound dumb when people understand what you mean.",
+        "And that's too often!",
+        "Once a week, tops."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2001-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tour of accounting",
+        "Over here we have our random number generator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nine nine nine nine nine nine"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure that's random?",
+        "That's the problem with randomness: you can never be sure."
+      ]
+    }
+  ]
+}

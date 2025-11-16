@@ -1,0 +1,24 @@
+{
+  "date": "1998-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's see... it looks like you haven't signed Ted's card yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stamp"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think \"congratulations\" is appropriate for a death in his family?",
+        "You never know"
+      ]
+    }
+  ]
+}

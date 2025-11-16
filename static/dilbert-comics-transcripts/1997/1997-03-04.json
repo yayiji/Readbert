@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "\"Wal-mart's\" business strategy was very successful. You can learn from their example."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does their strategy involve sitting around and making irrelevant comparisons to other companies?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I know for sure is that they don't let rats try on all the pantyhose in the store.",
+        "Good strategy."
+      ]
+    }
+  ]
+}

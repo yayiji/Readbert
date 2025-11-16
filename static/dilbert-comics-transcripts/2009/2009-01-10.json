@@ -1,0 +1,24 @@
+{
+  "date": "2009-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll be shutting down our aerospace division because it hasn't won any contracts in two years."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rumor has it that the admin assistant was faxing all of our bids with the blank side facing up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The blank side isn't supposed to face up?",
+        "Uh-oh."
+      ]
+    }
+  ]
+}

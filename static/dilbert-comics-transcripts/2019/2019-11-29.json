@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Looks like it will be another full day of interacting with people I wouldn't pull out of a burning car even if I were made of asbestos."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My only hope is to stay busy doing mindless tasks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any mindless tasks for me?",
+        "Take one from the top of the pile."
+      ]
+    }
+  ]
+}

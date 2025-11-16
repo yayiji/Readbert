@@ -1,0 +1,24 @@
+{
+  "date": "2016-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need to know your astrological sign before I put you on his schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the old days, I just gave people the first available slot. It was chaos."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So now you use the science of astrology?",
+        "It's better than science. It's an art."
+      ]
+    }
+  ]
+}

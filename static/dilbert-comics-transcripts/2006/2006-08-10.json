@@ -1,0 +1,25 @@
+{
+  "date": "2006-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The mildly retarded consultant",
+        "You'll have to drink from the firehose unless..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...You drill down and check the dashboard to see why the bloatware bubbled up from the bake-off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that mean anything?",
+        "Don't ping my cheese with your bandwidth."
+      ]
+    }
+  ]
+}

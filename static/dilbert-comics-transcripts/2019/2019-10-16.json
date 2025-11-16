@@ -1,0 +1,25 @@
+{
+  "date": "2019-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I take this database class?",
+        "No, that's a slippery slope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I approve that class, next you will demand I pay for cosmetic surgery."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do I look like I need it?",
+        "Only in two places. Your face and your body."
+      ]
+    }
+  ]
+}

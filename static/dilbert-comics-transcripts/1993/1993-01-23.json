@@ -1,0 +1,27 @@
+{
+  "date": "1993-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert is a romance interpreter.",
+        "He's telling you how to logically solve all of the emotional problems you seem to have.",
+        "Blah blah blah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He reasons that if he can fix your problems he won't have to hear about them anymore.",
+        "Blah blah blah."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He hopes that the wisdom and compassion he just faked was enough to arouse you. Now he will talk about himself.",
+        "Blah blah me."
+      ]
+    }
+  ]
+}

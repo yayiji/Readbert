@@ -1,0 +1,26 @@
+{
+  "date": "2019-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our brainwashing technology has boosted sales by 900%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But is it ethical?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, it is.",
+        "Yes...",
+        "It...",
+        "Is..."
+      ]
+    }
+  ]
+}

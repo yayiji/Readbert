@@ -1,0 +1,24 @@
+{
+  "date": "1992-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, Mary, let's go to the ladies room!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I rented \"Gone with the wind.\" We can watch it on the big screen TV.",
+        "I want the grey sofa!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, look! The men's room has soap!!"
+      ]
+    }
+  ]
+}

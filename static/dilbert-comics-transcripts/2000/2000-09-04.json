@@ -1,0 +1,23 @@
+{
+  "date": "2000-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your résumé says you're a multi-celled life form."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's exactly what we're looking for!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm trying to shake hands. If you feel harassed in any way just let out a yelp."
+      ]
+    }
+  ]
+}

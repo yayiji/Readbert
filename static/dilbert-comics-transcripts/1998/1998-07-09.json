@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sharing a hotel room",
+        "I forgot to pack my exercise shorts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I guess I can do my jumping jacks without clothes.",
+        "It's just us guys."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Single occupancy isn't so hard to get."
+      ]
+    }
+  ]
+}

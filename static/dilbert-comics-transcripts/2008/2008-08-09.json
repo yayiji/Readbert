@@ -1,0 +1,24 @@
+{
+  "date": "2008-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My security software kept insisting that I download critical updates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't have time to do all that, and I couldn't risk using my computer without critical updates. It was a no-win situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you accomplish anything this week?",
+        "What part of \"no-win\" is confusing you?"
+      ]
+    }
+  ]
+}

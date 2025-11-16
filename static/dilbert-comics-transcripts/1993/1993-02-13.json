@@ -1,0 +1,33 @@
+{
+  "date": "1993-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is it...",
+        "The critical",
+        "third date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is when they",
+        "casually mention any",
+        "hidden deformities",
+        "or horrible secrets",
+        "to see if you still",
+        "like them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some people say",
+        "you should stop",
+        "dating after you",
+        "marry a mob boss."
+      ]
+    }
+  ]
+}

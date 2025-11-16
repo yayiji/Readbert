@@ -1,0 +1,25 @@
+{
+  "date": "2019-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our tech support staff is overwhelmed because we shipped the wrong user guide with our product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My bonus only depends on launching the product on time.",
+        "Tech support isn't my department."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You caused the problem.",
+        "Who told you it was a fair world?"
+      ]
+    }
+  ]
+}

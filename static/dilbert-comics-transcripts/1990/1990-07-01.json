@@ -1,0 +1,35 @@
+{
+  "date": "1990-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're so glad you guys could stop by.",
+        "Thanks for inviting us.",
+        "We hardly know them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd offer you some coffee, but that would be a bother.",
+        "Uh... none for me. Thanks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I noticed you didn't bring any food as a courtesy to your hosts.",
+        "I guess we'll eat when you leave."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We usually watch television now, but I'll try not to appear bitter about your visit.",
+        "Why haven't we done this sooner?",
+        "We thought you were scum."
+      ]
+    }
+  ]
+}

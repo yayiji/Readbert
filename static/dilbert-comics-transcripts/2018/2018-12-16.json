@@ -1,0 +1,55 @@
+{
+  "date": "2018-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the specs I asked you for last week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You didn't follow up with me on that, so I assumed you didn't need them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't need to follow up. I asked for the specs by today, and you said you would have them done."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, but then you didn't ask me again."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "There was no reason to ask you again."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Obviously there was a reason because asking me once didn't work."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can you finish it by next week?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Good.",
+        "As long as you follow up."
+      ]
+    }
+  ]
+}

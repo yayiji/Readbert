@@ -1,0 +1,23 @@
+{
+  "date": "2002-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My first act as temporary boss is revamping our project status color codes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Red, yellow and green will be replaced by white, off-white and eggshell."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have to confess, it was embarrassing to realize I only have one idea."
+      ]
+    }
+  ]
+}

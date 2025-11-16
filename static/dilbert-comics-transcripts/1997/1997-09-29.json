@@ -1,0 +1,23 @@
+{
+  "date": "1997-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a question about this document marked \"proprietary.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I spent my entire life searching, do you think I could find anyone who would care about this?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As you gain experience, you'll realize that all logical questions are considered insubordination."
+      ]
+    }
+  ]
+}

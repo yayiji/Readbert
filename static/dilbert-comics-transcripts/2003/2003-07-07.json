@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, print out our company web site and put it in a binder for easier reference."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay. And I'll also translate it into Klingon to make it even easier."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'll alert the dictionary makers that \"easier\" means stupider.",
+        "Keep them out of this."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, do you have some time to help me with this technical analysis?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure, if you'll go to my house and mow my lawn so this doesn't become a lopsided relationship."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why must you be so difficult to abuse?",
+        "Go spit in your socks."
+      ]
+    }
+  ]
+}

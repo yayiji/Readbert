@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I ran the numbers, and your proposed business strategy can't work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I told our CEO we already rolled it out and it worked great."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I also take credit?",
+        "No, I hate liars."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2007-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Class, today Dilbert will tell us what a career in engineering is all about."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My job involves explaining things to idiots."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then the idiots make decisions based on misinterpreting what I said."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then it is my job to try to fix the massive problems caused by the bad decisions."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Eventually, rumors overwhelm facts, and I give up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In the final phase, I assign blame to an unpopular coworker."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "So whatever you do in life, don't be unpopular."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't listen to him!",
+        "Said the unpopular teacher."
+      ]
+    }
+  ]
+}

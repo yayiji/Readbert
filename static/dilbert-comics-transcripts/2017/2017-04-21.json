@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As you requested, I wrote a VR program that makes users feel as if they are in cubicles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put only your name on the credits because I expect an angry mob to kill whoever created it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also wrote a VR jail program in case you want to be in protective custody.",
+        "I might need that."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1996-12-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the consultant",
+        "...Then we'll turn off the existing computer systems and fire up the new one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if the new system doesn't work on the first try?",
+        "Won't the economic impact be devastating?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let me check my contract...",
+        "Nope. I get paid exactly the same.",
+        "Yeah, same here."
+      ]
+    }
+  ]
+}

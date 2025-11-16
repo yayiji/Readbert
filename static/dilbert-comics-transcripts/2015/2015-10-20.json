@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to report a work-related injury."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies say extended sitting can increase stress.",
+        "I sat in my cubicle and got all stressed out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have a sitting injury?",
+        "Don't trivialize my pain."
+      ]
+    }
+  ]
+}

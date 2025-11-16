@@ -1,0 +1,26 @@
+{
+  "date": "2015-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So don't let that happen again.",
+        "It wasn't my fault and you know it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's easier if we don't try to link performance and outcomes.",
+        "I'll try."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was hard at first, but now I'm totally stress-free.",
+        "I just got a 30% raise."
+      ]
+    }
+  ]
+}

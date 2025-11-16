@@ -1,0 +1,54 @@
+{
+  "date": "2007-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, your résumé is impressive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell me why you want to be promoted to management."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, obviously there's the money and prestige."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm also attracted by the prospect of doing much less work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The opportunity to abuse subordinates is a big plus."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I speak fluent managerese. Watch this..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Fuh fuh fuh fuh fuh."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you really want that job?",
+        "No, but I love interviewing!"
+      ]
+    }
+  ]
+}

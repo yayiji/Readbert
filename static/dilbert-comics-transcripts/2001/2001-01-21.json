@@ -1,0 +1,60 @@
+{
+  "date": "2001-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Professional liar"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What kind of lie do you need?",
+        "It's... it's embarrassing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you a producer who needs a good review for a lousy movie?",
+        "No."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you an author who needs a slobbering quote for the cover of your lousy book?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's worse than that.",
+        "Much worse."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Worse?",
+        "That could only be...",
+        "Aaack!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Find someone else, you filthy dot-com founder!",
+        "I have my limits!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...And since your firm underwrote our IPO...",
+        "Would I get to be on TV?"
+      ]
+    }
+  ]
+}

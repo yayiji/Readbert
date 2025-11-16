@@ -1,0 +1,43 @@
+{
+  "date": "1989-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Puff",
+        "Puff puff"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How was your run?",
+        "Great... I feel awful."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pardon a simple dog for asking, but why do you run if it feels awful?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, if I do it every day, I'll live a longer life."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So, life will feel awful, but at least it will last a long time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Unless I get hit by a truck..."
+      ]
+    }
+  ]
+}

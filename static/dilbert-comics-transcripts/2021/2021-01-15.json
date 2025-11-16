@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every expert in the world says your idea can't work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Experts only know about old ideas. If they knew about future ones, they would be entrepreneurs, not experts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, my entire worldview just collapsed.",
+        "Sorry."
+      ]
+    }
+  ]
+}

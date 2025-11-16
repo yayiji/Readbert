@@ -1,0 +1,23 @@
+{
+  "date": "2021-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert called me \"Karen.\" You need to fire him immediately."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe he called you Karen because that's your actual name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought about that, but it doesn't fit my low opinion of him."
+      ]
+    }
+  ]
+}

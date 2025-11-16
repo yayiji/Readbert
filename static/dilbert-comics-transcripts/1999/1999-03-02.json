@@ -1,0 +1,25 @@
+{
+  "date": "1999-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Prepare a presentation for our foreign visitors.",
+        "On what topic?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It doesn't matter.",
+        "I'm told they're from Austria and they only understand their own language."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or was it Australia?"
+      ]
+    }
+  ]
+}

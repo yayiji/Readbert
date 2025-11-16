@@ -1,0 +1,57 @@
+{
+  "date": "1999-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll take your computer and your little P.D.A. too!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you recognize this?",
+        "Aaagh!",
+        "That's my network cable!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What do you want from me?!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Mordac, it is I, Catbert, the evil director of human resources!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You made my personal printer a shared device!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Grrrr!!",
+        "Aaagh!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Two wrongs made a right.",
+        "Welcome to my reality."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, write a performance evaluation of yourself for me to sign."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What will our seven layers of management be doing while I manage myself?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry. I'll ding myself for that on my evaluation.",
+        "If you can't find me, have Carol sign my name."
+      ]
+    }
+  ]
+}

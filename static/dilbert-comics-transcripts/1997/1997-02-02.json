@@ -1,0 +1,59 @@
+{
+  "date": "1997-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, could you check our pointy-haired boss's calendar?",
+        "Grumble"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'd like to schedule a celebration for the engineers who got patents.",
+        "Grumble"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're all available on the sixth, ninth, twentieth and the twenty-first."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll schedule it for the tenth.",
+        "That's the only day he can do it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Um... none of the engineers can make it on the tenth."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's not a perfect world."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When's the patent celebration?",
+        "Shut up"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "On the tenth",
+        "We should do this more often.",
+        "Yeah, I like cake."
+      ]
+    }
+  ]
+}

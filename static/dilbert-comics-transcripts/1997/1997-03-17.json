@@ -1,0 +1,25 @@
+{
+  "date": "1997-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's noon. Let's grab a sandwich at the cafeteria."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, but make sure that's all you grab. I'd like to keep this on a professional basis."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I'll need to borrow five dollars.",
+        "He's like a beautiful, untamed beast.",
+        "Sigh"
+      ]
+    }
+  ]
+}

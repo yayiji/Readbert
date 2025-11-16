@@ -1,0 +1,24 @@
+{
+  "date": "2007-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, set up a meeting with the technology review board to decide how we'll decide on new technologies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you also need a meeting to decide how you will put together a meeting to decide how to decide things?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should get some people together to help you answer that question.",
+        "Maybe."
+      ]
+    }
+  ]
+}

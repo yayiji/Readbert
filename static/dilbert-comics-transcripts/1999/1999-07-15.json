@@ -1,0 +1,24 @@
+{
+  "date": "1999-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Dogbert, would you autograph my book?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure, kid. But I'll need to use your back as a flat surface."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He's got parents.",
+        "\"Matthew\" won't fit, so I'll call him \"Allen.\""
+      ]
+    }
+  ]
+}

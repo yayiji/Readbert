@@ -1,0 +1,24 @@
+{
+  "date": "2006-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And what is your reason for leaving?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To be honest, I was spending way too much time thinking about creative ways to kill you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you cleared out your desk?",
+        "Why don't you go check."
+      ]
+    }
+  ]
+}

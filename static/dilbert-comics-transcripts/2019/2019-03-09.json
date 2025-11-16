@@ -1,0 +1,24 @@
+{
+  "date": "2019-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm feeling overwhelmed by all the things I need to get done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you tried eliminating your personal life?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That took care of itself.",
+        "Okay, that's the only idea I had."
+      ]
+    }
+  ]
+}

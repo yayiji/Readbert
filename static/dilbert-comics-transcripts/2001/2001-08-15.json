@@ -1,0 +1,24 @@
+{
+  "date": "2001-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can analyze your employees' handwriting to find out who might steal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Has handwriting analysis been tested in double-blind scientific studies?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but the scientists dotted their i's with smiley faces so I know they're liars.",
+        "Wow!"
+      ]
+    }
+  ]
+}

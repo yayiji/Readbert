@@ -1,0 +1,25 @@
+{
+  "date": "2012-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Guess who made it onto the ninety-day performance improvement plan."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't think of it as an individual honor.",
+        "I think of it as doing a valuable service for the team."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we thank him?",
+        "Are we polite now?"
+      ]
+    }
+  ]
+}

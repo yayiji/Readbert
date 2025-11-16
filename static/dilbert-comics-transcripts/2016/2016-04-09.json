@@ -1,0 +1,26 @@
+{
+  "date": "2016-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is Ted.",
+        "I'm applying for the job of generic white guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We just lost our Ted.",
+        "You look perfect for the job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there anything I should know about the job?",
+        "It doesn't end well."
+      ]
+    }
+  ]
+}

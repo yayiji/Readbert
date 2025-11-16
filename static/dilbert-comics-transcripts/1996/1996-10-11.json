@@ -1,0 +1,24 @@
+{
+  "date": "1996-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The status of our strategic alliance is \"doomed.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our ponderous and inefficient management style caused their best people to quit and create a competing company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We must find a way to destroy that new company.",
+        "I'll see if they're interested in a strategic alliance."
+      ]
+    }
+  ]
+}

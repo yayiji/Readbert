@@ -1,0 +1,25 @@
+{
+  "date": "2017-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Work got a lot easier after I compiled a list of all my best work-avoidance excuses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, can you attend my project meeting?",
+        "Well, let me check."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I haven't told you when we're meeting.",
+        "That matters less than you think it should."
+      ]
+    }
+  ]
+}

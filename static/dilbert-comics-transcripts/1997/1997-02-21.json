@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're accused of stealing a computer.",
+        "We'll reduce the charge to \"lewd conduct with appliances\" if you'll plead guilty."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds fair.",
+        "People will understand it's just a plea bargain."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like a minute alone with \"Mr. Coffee\"?"
+      ]
+    }
+  ]
+}

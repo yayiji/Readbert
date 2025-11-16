@@ -1,0 +1,54 @@
+{
+  "date": "2016-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want a job I can enjoy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You want to work for free?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I just want to get paid for doing things I want to do."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Perhaps you misunderstand the true nature of \"work.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The reason your employer pays you is because work is unpleasant by its very nature."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If the job were fun, the company would charge you a fee for letting you do it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Asok, I need you to climb into the dumpster and find out what's making it smell so bad."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "At least I'm doing something useful.",
+        "No, it's more of a curiosity situation."
+      ]
+    }
+  ]
+}

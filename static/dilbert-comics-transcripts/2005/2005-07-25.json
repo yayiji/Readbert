@@ -1,0 +1,23 @@
+{
+  "date": "2005-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company requires me to give failing performance reviews to 20% of my staff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are four of you, so that works out to... 80% of a person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, your calf muscles and ankles are performing well, but the rest of you is monkey hurlage."
+      ]
+    }
+  ]
+}

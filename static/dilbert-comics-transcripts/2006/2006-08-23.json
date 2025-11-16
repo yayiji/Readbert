@@ -1,0 +1,23 @@
+{
+  "date": "2006-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I've documented all of your disciplinary issues in your personnel file."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have violations for every letter of the alphabet except Z. For some reason you missed that one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Zzzzzz"
+      ]
+    }
+  ]
+}

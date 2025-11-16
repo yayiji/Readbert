@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of our databases were mixed-up for a year and no one noticed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We based our sales incentives on our database of employee birthdays."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have the sales people complained?",
+        "No, you trained them to accept abuse."
+      ]
+    }
+  ]
+}

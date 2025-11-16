@@ -1,0 +1,24 @@
+{
+  "date": "2004-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sycophant school",
+        "You must learn to agree with your superiors no matter what they say."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For practice, I'll make statements and you agree. Remember to use your fake smiles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Statement one: I should be paid 400 times more than you because I have to look at your faces."
+      ]
+    }
+  ]
+}

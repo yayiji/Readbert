@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My fantasy is to own a luxury motor coach."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd drive it to work and sleep all day in the parking lot. It would be like paradise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's your best fantasy?",
+        "It would also have a TV, in case I woke up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I understand you better than the others because I'm useless too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I always thought you were trying to kill our pointy-haired boss by over-scheduling him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am.",
+        "It just hasn't worked yet.",
+        "That's not good enough to get into the useless club."
+      ]
+    }
+  ]
+}

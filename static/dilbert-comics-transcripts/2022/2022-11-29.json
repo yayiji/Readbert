@@ -1,0 +1,29 @@
+{
+  "date": "2022-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I finally worked through the back-log of employee background checks."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It turns out that one-third of our employees are criminals using the identities of their victims."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And yet, profits are at an all-time high."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Phew! I thought you were going to say it was a problem."
+      ]
+    }
+  ]
+}

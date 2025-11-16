@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did everyone read my email about how to improve our communication?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Was it a long, rambling email that stumbled from one barely coherent point to another?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That one must have been from someone else.",
+        "Good, because I didn't read it."
+      ]
+    }
+  ]
+}

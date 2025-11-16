@@ -1,0 +1,24 @@
+{
+  "date": "1995-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did you get the contract to supply our company with wall art?",
+        "Low bid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As we speak, my assistant is scouring the earth in search of low-cost art."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll take it!!"
+      ]
+    }
+  ]
+}

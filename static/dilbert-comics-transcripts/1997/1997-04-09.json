@@ -1,0 +1,24 @@
+{
+  "date": "1997-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new org chart has my name lower than yours, but it doesn't mean anything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "See? It wouldn't all fit across the page. It's just a graphical layout thing, that's all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, Dil-boy, put a head on this and fetch my mail.",
+        "Are you asking me to be your mentor?"
+      ]
+    }
+  ]
+}

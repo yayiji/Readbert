@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can you be sure there are no unforeseen risks with this plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is not possible to know if one has considered every risk. Therefore, we can never be sure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... I can still blame you for any problems that pop up?",
+        "Yes, that part of the process is still intact."
+      ]
+    }
+  ]
+}

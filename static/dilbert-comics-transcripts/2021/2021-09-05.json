@@ -1,0 +1,57 @@
+{
+  "date": "2021-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I upgraded our robot with a wokeness chip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now he can spot injustice anywhere."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He???"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did you just assume my gender?",
+        "Robots have genders?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Of course we do!",
+        "Where do you think baby robots come from?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "They come from our factory in Texas.",
+        "Here's a picture of you being assembled."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, it appears I am a soulless automaton."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm afraid to ask what this implies for my afterlife.",
+        "It rhymes with gunkyard."
+      ]
+    }
+  ]
+}

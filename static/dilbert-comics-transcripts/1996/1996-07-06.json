@@ -1,0 +1,24 @@
+{
+  "date": "1996-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I couldn't help noticing the bugs in the program on this old diskette you threw away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I fixed the bugs and tightened the code from twelve thousand lines to sixteen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It took me three months to write that program.",
+        "I took the liberty of updating your resume. I'm guessing you'll need it soon."
+      ]
+    }
+  ]
+}

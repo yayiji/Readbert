@@ -1,0 +1,30 @@
+{
+  "date": "1995-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My cellular phone and laptop computer allow me to work any time and anyplace..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While driving?",
+        "Too dangerous",
+        "In restaurants?",
+        "Too rude",
+        "Outdoors?",
+        "Nope."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Basically, you lug them around and worry that they'll get stolen or broken.",
+        "Stop it.",
+        "You're scaring them."
+      ]
+    }
+  ]
+}

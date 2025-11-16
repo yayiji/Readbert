@@ -1,0 +1,23 @@
+{
+  "date": "2021-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I fired all of our software vendors and erased my hard drive as you ordered."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? I was disinfecting my keyboard, and I must have sent you a random message by accident."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oops."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "1991-04-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As an android, I will live forever.",
+        "Ha ha ha!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm bored."
+      ]
+    }
+  ]
+}

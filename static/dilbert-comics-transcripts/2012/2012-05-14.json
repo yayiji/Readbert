@@ -1,0 +1,32 @@
+{
+  "date": "2012-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Settle down, honey.",
+        "I didn't ask for your opinion.",
+        "I'm telling you what we're going to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! Lower the containment unit!",
+        "She's going to blow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When will it be safe?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Right after you die."
+      ]
+    }
+  ]
+}

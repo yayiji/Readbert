@@ -1,0 +1,53 @@
+{
+  "date": "2021-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Billing for your video therapy session begins now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm worried that all of my recent social isolation has changed me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How so?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, a year ago, I felt awkward and bored around people, and that was bad enough."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now I hate them so much that I only pretend to wash my hands."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I guess I'm secretly hoping I'm a carrier for a deadly pathogen of some type."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Am I normal?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I sure hope so because I do the same thing."
+      ]
+    }
+  ]
+}

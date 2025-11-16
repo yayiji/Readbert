@@ -1,0 +1,25 @@
+{
+  "date": "2012-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, can you take care of this by close of business today?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oogah-boogah!",
+        "Work be done!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's hope magic is real!",
+        "We need to talk about your attitude."
+      ]
+    }
+  ]
+}

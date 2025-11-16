@@ -1,0 +1,24 @@
+{
+  "date": "2002-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're the first employee for my \"coffee with the boss\" program."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Feel free to say whatever is on your mind. Don't hold back. Give it to me straight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My chair has a squeak.",
+        "You ungrateful whiny wretch!!!"
+      ]
+    }
+  ]
+}

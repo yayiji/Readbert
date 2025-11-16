@@ -1,0 +1,55 @@
+{
+  "date": "1992-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, come look at our new car!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It has all of the most important safety features."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You got your anti-lock brakes, your reinforced bumpers, your automatic seatbelts and your driver-side air bag."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I didn't hear \"passenger side air bag\" in that list."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It turns out that it's only economical to save the person who makes the buying decision."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I got a baby seat in case you want to use that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well, thank you for letting me choose between humiliation and death.",
+        "I've got a better idea."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ooh... just wait until my turn.",
+        "Watch me ram that cop car."
+      ]
+    }
+  ]
+}

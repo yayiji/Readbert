@@ -1,0 +1,55 @@
+{
+  "date": "1990-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you hugging that loaf of french bread?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hee hee! Yeah, newborn babies do look like loaves of bread."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But in this case I think your baby is a loaf of bread."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That would explain the smell of dough."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Must have been a mix-up at the grocery store."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I hope this doesn't mean somebody is sticking little Jimmy in a toaster somewhere.",
+        "I'm sure he'll pop up."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ah, there you are in the grocery bag."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I think I bonded with the bread.",
+        "Remind me not to eat hoagies at your house."
+      ]
+    }
+  ]
+}

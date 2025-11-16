@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My computer model indicates that I can genetically modify a tree to grow leaves made of rare earth minerals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I need is a hundred dollars to run a trial.",
+        "Sorry. Money doesn't grow on trees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, now we know whose fault that is.",
+        "Strangers?"
+      ]
+    }
+  ]
+}

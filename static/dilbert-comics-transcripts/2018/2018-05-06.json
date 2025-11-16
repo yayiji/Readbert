@@ -1,0 +1,54 @@
+{
+  "date": "2018-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to buy an insurance policy to protect against a humorous death?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would I need it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, let's say you're at the zoo and you drop your sunglasses into the lion pit."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You lower yourself into the pit to get the sunglasses, but the lions get to you first."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You don't want the headlines to read \"Pointy-haired idiot mauled to death by the king of the jungle.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So instead, the moment you die, my agents rush in to create a narrative for the media."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In this case, we might spin the story as \"Local man teaches zoo how to reduce food costs.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are the policies affordable?",
+        "Yes, if you waive coverage for mascot-related deaths."
+      ]
+    }
+  ]
+}

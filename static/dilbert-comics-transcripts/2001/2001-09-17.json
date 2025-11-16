@@ -1,0 +1,24 @@
+{
+  "date": "2001-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The job market is getting worse every day!",
+        "Excellent!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees will be afraid. Our power to abuse them grows stronger by the minute!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha! Stop doing the \"evil dance\"! You're killing me!"
+      ]
+    }
+  ]
+}

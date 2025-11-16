@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want you to give me an honest assessment of my leadership."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thirty minutes later",
+        "...Like being stabbed by an angry clown while drowning in a septic tank."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you heard of honesty?",
+        "It's terrible."
+      ]
+    }
+  ]
+}

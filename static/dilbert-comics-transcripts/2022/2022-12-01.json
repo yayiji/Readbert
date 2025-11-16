@@ -1,0 +1,23 @@
+{
+  "date": "2022-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert consulting company to help me decide who to lay off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What criteria will you use?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My focus will be on people who ask that question."
+      ]
+    }
+  ]
+}

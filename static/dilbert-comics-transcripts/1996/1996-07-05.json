@@ -1,0 +1,24 @@
+{
+  "date": "1996-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's have a little premeeting to prepare for the meeting tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Whoa! Do you think it's safe to jump right into the premeeting without planning it?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, let's get this preliminary premeeting meeting going.",
+        "You think you're funny, but you're not."
+      ]
+    }
+  ]
+}

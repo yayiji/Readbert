@@ -1,0 +1,24 @@
+{
+  "date": "1991-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's your presentation going to be about?",
+        "Rectangles. We heard the boss was a geometry major."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good thinking. But I heard he was a geography major, not geometry."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wyoming: One of the many rectangular states."
+      ]
+    }
+  ]
+}

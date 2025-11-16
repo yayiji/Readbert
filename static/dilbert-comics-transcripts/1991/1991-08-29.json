@@ -1,0 +1,26 @@
+{
+  "date": "1991-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, Les.",
+        "You say that almost mockingly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The way you say it, my name sounds like \"Less.\"",
+        "I've told you a million times it's French -- pronounced \"Lez.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You seem a little short-tempered.",
+        "Hey! That time you did it on purpose!!"
+      ]
+    }
+  ]
+}

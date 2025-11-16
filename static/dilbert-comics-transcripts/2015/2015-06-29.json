@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Dilbert with an encrypted message from my hiding place from the government..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert who?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only left yesterday!!!",
+        "I don't like to dwell in the past."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2000-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My analysis shows that your pet project isn't feasible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try working the numbers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That wouldn't change the underlying reality."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What if we massaged the numbers?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Massaging the numbers means the same thing as working the numbers."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You can't make the impossible possible by hallucinating new numbers."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you have any other ideas?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That depends on what the phrase \"fiddle with the numbers\" means."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2011-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I noticed some inefficiencies in another department, so I formed a Kaizen team to find solutions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I asked some of the people in that department to be on the team, but they were busy being inefficient."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With any luck, my ignorance of their function will be seen as an aggressive type of objectivity."
+      ]
+    }
+  ]
+}

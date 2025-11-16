@@ -1,0 +1,23 @@
+{
+  "date": "2000-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At all times I ask myself, what would Dogbert do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then it doesn't matter that my brain is the size of a tiny dried peanut."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That thought would make Dogbert hungry."
+      ]
+    }
+  ]
+}

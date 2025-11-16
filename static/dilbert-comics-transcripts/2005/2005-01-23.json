@@ -1,0 +1,56 @@
+{
+  "date": "2005-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You must learn that change is good.",
+        "Change is"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who wants this one?",
+        "I got it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Question: Why don't you triple our pay? That would be a change."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That would not be in the best interest of shareholders."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay, why don't you work for free? That's a change that's good for shareholders."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or would it be better to admit that change can be very bad?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "My favorite part was when he yelled, \"Stop ruining my slogans with your logic!\"",
+        "Snort hee-hee!!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is it wise to ride your coffee intern to a board meeting?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Pipe down, coffee intern. If you were capable of thinking like a leader, you would be a VP too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Demoted already?",
+        "The board does not like new ideas."
+      ]
+    }
+  ]
+}

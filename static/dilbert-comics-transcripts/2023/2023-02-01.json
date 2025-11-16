@@ -1,0 +1,24 @@
+{
+  "date": "2023-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Performance reviews are unfair to underperforming employees such as myself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, who gets to decide which types of ableness the company will accommodate and which ones they will punish?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I do.",
+        "It all seems so arbitrary."
+      ]
+    }
+  ]
+}

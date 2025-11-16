@@ -1,0 +1,25 @@
+{
+  "date": "1993-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The local school wants somebody to talk to the kids about a career as an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm giving this plum assignment to you because you're such a good role model.",
+        "Hee hee"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's more sincere sounding when you don't giggle.",
+        "Remember, children are our future!"
+      ]
+    }
+  ]
+}

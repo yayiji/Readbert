@@ -1,0 +1,26 @@
+{
+  "date": "2003-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to slither away from your doomed project before you get blamed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My assistant will teach you how to shed your project manager skin.",
+        "Yello!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ow! Ow!",
+        "Ow! How's this so far?",
+        "Impressive, but we were speaking metaphorically."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2009-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm worried that I won't get a raise this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You shouldn't worry about that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should worry that you might lose your job in the next round of layoffs."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I should worry about that???",
+        "Well... probably not."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It makes more sense to worry about the entire company going out of business."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And that's nothing if the global economy collapses."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe you should worry that the only viable livelihood of the future involves cannibalism."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you still worried about not getting a raise?",
+        "Not so much."
+      ]
+    }
+  ]
+}

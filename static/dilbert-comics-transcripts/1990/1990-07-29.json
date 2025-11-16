@@ -1,0 +1,56 @@
+{
+  "date": "1990-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Greetings, Dogbert,",
+        "I am the god of thunder.",
+        "Yip!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I am Thor!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Take some aspirin."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We're looking for some new Norse gods to update our image.",
+        "Your name came up."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's the same way I got started.",
+        "I worked my way up from god of static cling."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hmm... \"God of Velcro\" looks interesting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't laugh.",
+        "I put your name in for god of mayonnaise."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2018-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a minute?",
+        "Can I get back to you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I say yes, I will never hear from you.",
+        "But if I say no, I'll look like a pushy jerk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see a path to victory here.",
+        "Have you tried lowering your expectations?"
+      ]
+    }
+  ]
+}

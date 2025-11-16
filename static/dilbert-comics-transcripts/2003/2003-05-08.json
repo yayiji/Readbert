@@ -1,0 +1,25 @@
+{
+  "date": "2003-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "P.R. for Elbonia",
+        "You need to buy some influence in Washington."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It sounds expensive, but it's a lot more affordable than you'd think."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gum?",
+        "You got my vote!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "1997-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mom, guess what...",
+        "I got promoted!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're talking to",
+        "the new \"executive",
+        "engineer.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No... nobody reports",
+        "to me.",
+        "No... it's the same",
+        "pay as before."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But I do get a lot",
+        "more responsibility!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "She's going to",
+        "throw a party",
+        "for me!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No... no gifts.",
+        "No... no music.",
+        "No... no food.",
+        "No... no guests."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I guess it's just",
+        "you and me.",
+        "I'm busy",
+        "that day."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm not allowed to get",
+        "new business cards,",
+        "but I can write my",
+        "new title on the",
+        "old ones!",
+        "Zzzz"
+      ]
+    }
+  ]
+}

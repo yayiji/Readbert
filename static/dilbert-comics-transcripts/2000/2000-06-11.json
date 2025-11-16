@@ -1,0 +1,55 @@
+{
+  "date": "2000-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I cut your budget in half."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I do a technology installation without an adequate budget?!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try being unethical with our vendors."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What?",
+        "It's easy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Tell them we might make a huge purchase later..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...If they give us a bunch of free stuff now."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If it makes you feel better, wait until they lie first."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And there are no hidden costs.",
+        "Um... we might make a huge purchase later."
+      ]
+    }
+  ]
+}

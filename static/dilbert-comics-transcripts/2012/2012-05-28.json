@@ -1,0 +1,23 @@
+{
+  "date": "2012-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sorry I'm late."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's because the least important thing I do is way more important than all of you put together."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One way to look at it is that I'm great at setting priorities."
+      ]
+    }
+  ]
+}

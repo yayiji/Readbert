@@ -1,0 +1,25 @@
+{
+  "date": "1993-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why did you quit your job as company president?",
+        "I made a fortune on my stock options and retirement payout."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to turn my attention to philanthropy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that the study of people named Phil?",
+        "It's mostly about watching people beg and having buildings named after me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "1995-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got myself one of those \"900\" phone numbers.",
+        "I make money every time somebody calls for my valuable advice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ring",
+        "Ring",
+        "Ring",
+        "Ring",
+        "Ring",
+        "Ring"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you ever answer it?",
+        "Voice mail...",
+        "Get with the nineties."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2006-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's catch-and-release CEO seminar."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Catch-and-release is more than a way to hurt fish for entertainment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a philosophy that will inform your entire life."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, when you acquire a new company, wait a few years and then spin it off."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When you catch a new spouse, wait a few years and then set it free.",
+        "Boot!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "When you golf, hit that ball into a hole and then take it out."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your ultimate goal is to look decisive without making any real decisions."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Good seminar. It makes fishing more fun when you know it hurts them!",
+        "Ouch"
+      ]
+    }
+  ]
+}

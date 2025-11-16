@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well? What do you think?",
+        "Uh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're fins... human aerodynamics! The field is totally neglected!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't seem to be sharing my joy of innovation.",
+        "I'm just wondering how Darwin would explain it."
+      ]
+    }
+  ]
+}

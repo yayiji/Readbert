@@ -1,0 +1,24 @@
+{
+  "date": "1992-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, I'm looking for a vice president for my ticket."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need somebody who is so inept and simple-minded that I always look good in comparison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand.",
+        "Okay, okay, you've got the job."
+      ]
+    }
+  ]
+}

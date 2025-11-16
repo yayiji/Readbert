@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's it going, boss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was doing okay until your condescending greeting spiked my cortisol levels and nearly obliterated my immune system."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shake it off, champ.",
+        "I'm dying here!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2022-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Run your numbers through the VSADD, and let's see if they turn upside down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "VSADD? What is that?",
+        "Get out of my office, you inexperienced fool!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was I supposed to do in that situation?",
+        "I usually pretend I didn't hear it."
+      ]
+    }
+  ]
+}

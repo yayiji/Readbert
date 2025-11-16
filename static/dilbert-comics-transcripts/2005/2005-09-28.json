@@ -1,0 +1,30 @@
+{
+  "date": "2005-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally interviews",
+        "Do you mind if I eat a sandwich while we do this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, actually I...",
+        "Chomp",
+        "Chomp",
+        "Chomp",
+        "Mmm-mmm",
+        "Mph-uh"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would you say is your biggest weakness?",
+        "Cheese."
+      ]
+    }
+  ]
+}

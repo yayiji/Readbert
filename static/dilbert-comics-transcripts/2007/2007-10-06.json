@@ -1,0 +1,24 @@
+{
+  "date": "2007-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you look at my powerpoint presentation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, it's a confused jumble of useless information with a wino's spittle of unsupported conclusions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wino's spittle?",
+        "You heard me."
+      ]
+    }
+  ]
+}

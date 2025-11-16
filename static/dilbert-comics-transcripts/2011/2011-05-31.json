@@ -1,0 +1,24 @@
+{
+  "date": "2011-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is considering moving from cubicles to an open workspace environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great idea. Can we add some crying babies and the sound of water dripping?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're being stupid.",
+        "Maybe I'll be smarter when I have more distractions."
+      ]
+    }
+  ]
+}

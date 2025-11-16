@@ -1,0 +1,54 @@
+{
+  "date": "2021-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you use the last of the printer paper and neglect to inform anyone to buy more?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I don't even use that printer. I use the one in the lab."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you aren't guilty, why are you being so defensive?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm not being defensive. I'm just telling you the facts."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And there you go again, being defensive. Why can't you admit you were wrong?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can you teach me the proper way to behave when I know I'm right and you're wrong?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And by any chance did you use the last of the paper and tell no one?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Stop moving the goal posts.",
+        "And there it is."
+      ]
+    }
+  ]
+}

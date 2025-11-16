@@ -1,0 +1,24 @@
+{
+  "date": "1990-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you widow Johnson?",
+        "Uh, I mean \"missus\" Johnson."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm afraid your husband was devoured by the automatic denture invention we were building."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Some day we'll look back at this and laugh."
+      ]
+    }
+  ]
+}

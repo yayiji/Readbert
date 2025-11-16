@@ -1,0 +1,27 @@
+{
+  "date": "2008-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Loud Howard insists on using his speaker-phone in his cubicle.",
+        "You have to do something about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll move him to a private office that just became available.",
+        "Problem solved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to punch you until we both forget what happened here.",
+        "Gaaa!!!",
+        "Spare the glasses."
+      ]
+    }
+  ]
+}

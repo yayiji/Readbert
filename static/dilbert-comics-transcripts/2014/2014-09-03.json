@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is my last day of work, so I won't have time to completely train you on the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I can show you enough to give you unwarranted confidence, when you should be feeling dangerously incompetent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds worse than doing nothing.",
+        "Before I leave, I'll tell everyone you're lazy."
+      ]
+    }
+  ]
+}

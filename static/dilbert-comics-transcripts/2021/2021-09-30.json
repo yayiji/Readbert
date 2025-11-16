@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tips for zoom calls",
+        "Never assume your camera is turned off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As Mark Twain once advised, dance like no one is watching, but zoom like seven hundred nuns with smartphones are watching."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Twain was way ahead of his time."
+      ]
+    }
+  ]
+}

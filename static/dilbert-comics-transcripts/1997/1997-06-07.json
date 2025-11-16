@@ -1,0 +1,26 @@
+{
+  "date": "1997-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Software license:",
+        "By opening this package, you agree..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...You will not make copies or export to despotic nations.",
+        "You will submit to strip searches in your home..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Rrrrip",
+        "Frankly, both of us would have been happier if you had just walked away."
+      ]
+    }
+  ]
+}

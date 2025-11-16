@@ -1,0 +1,53 @@
+{
+  "date": "2007-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every company needs goals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have division goals, department goals, district goals, personal goals and affiliate goals."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You will all attend a four-hour training session on how to write goals."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Every week you will report on how you are doing compared to your goals."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Those reports will be entered into a giant database."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Won't the size and complexity of the database make it impossible to know what's really happening?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes. That's why your raises will be based on what you look like."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Bummer for you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2022-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our research group wants to implant a chip in a human brain and they need a volunteer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe we should test it on animals first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think you want to die on that hill."
+      ]
+    }
+  ]
+}

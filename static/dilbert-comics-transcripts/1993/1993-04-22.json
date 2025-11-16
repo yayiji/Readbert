@@ -1,0 +1,27 @@
+{
+  "date": "1993-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert talks to a class about career options.",
+        "And don't forget the social life that comes with being an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ninety percent of all engineers are guys, so it's a bonanza of dating opportunities for the ladies who enter the field."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For the men, there are these little video game devices...",
+        "Beep",
+        "Beep",
+        "Would I be allowed to date a non-engineer?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2012-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't finish everything today.",
+        "Try multitasking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Multitasking?",
+        "Is that like being an ignorant baboon and drinking coffee at the same time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I missed what you said because I was drinking coffee."
+      ]
+    }
+  ]
+}

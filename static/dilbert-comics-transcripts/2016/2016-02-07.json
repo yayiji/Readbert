@@ -1,0 +1,54 @@
+{
+  "date": "2016-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, move my flight one hour earlier Friday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any idea how hard that would be?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know it sounds easy, but it won't be. Not at this late date. Not with all your pickiness."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "When I fail, you will think I didn't look hard enough for a new flight."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't prove a negative, so I will forever suffer your disdain."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My career is ruined.",
+        "Never mind! Forget it!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why is it so hard to ask you to do anything?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I've been telling people you're stupid, but I'm open to other theories."
+      ]
+    }
+  ]
+}

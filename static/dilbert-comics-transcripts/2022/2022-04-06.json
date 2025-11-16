@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know you're just a robot, but I'm developing feelings for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think it's because you listen to me, and that makes me feel important."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only pretend to listen.",
+        "That's perfect. I don't want suggestions."
+      ]
+    }
+  ]
+}

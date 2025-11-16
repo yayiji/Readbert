@@ -1,0 +1,25 @@
+{
+  "date": "2000-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert is one of our social misfits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job is to keep him away from normal people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hello!",
+        "I'm right here!",
+        "Your title will be \"Engineer-ing liaison.\""
+      ]
+    }
+  ]
+}

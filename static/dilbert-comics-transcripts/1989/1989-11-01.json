@@ -1,0 +1,26 @@
+{
+  "date": "1989-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tonight Siskel and Ebert review Dilbert's life."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Boring and stupid...",
+        "Look out, Gene; I'm gonna have to spit to get the taste out of my mouth..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hate when they do these theme shows.",
+        "Oops. Sorry, Gene.",
+        "Click"
+      ]
+    }
+  ]
+}

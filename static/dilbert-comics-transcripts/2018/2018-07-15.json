@@ -1,0 +1,65 @@
+{
+  "date": "2018-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my invoice for the extras."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The invoice we already paid covered everything in the contract."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That only covered the costs I quoted with intentional clarity."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There are other costs that I might have mentioned in a long and rambling explanation that was intentionally ambiguous."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "\"Might have\"??? I'm sure you did not."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sounds like your word against mine."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And even if you did mention it, you just said it was intentionally ambiguous!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't think you want to tell your boss you're a bad listener."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I thought we already paid this vendor."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Did you forget all the extras I told you about?"
+      ]
+    }
+  ]
+}

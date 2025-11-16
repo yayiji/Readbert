@@ -1,0 +1,30 @@
+{
+  "date": "2016-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our website developer quit one week before the site was scheduled to be finished."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I hired a new one so we can finish on time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, you have never met a website developer before."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So, you will be done in about a week, right?",
+        "It will take me a month just to throw away the last guy's code."
+      ]
+    }
+  ]
+}

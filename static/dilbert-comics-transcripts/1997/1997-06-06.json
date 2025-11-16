@@ -1,0 +1,26 @@
+{
+  "date": "1997-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Professional bearer of bad news.",
+        "Wally, your boss asked me to tell you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're fired!!!",
+        "And they have secret videos of you stealing stuff!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This can't be true.",
+        "It's not. But watch how happy you are when I tell you about your one-percent raise."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1990-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a busy day ahead of me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Got to do some pillow-sitting, maybe eat a little."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd better pace myself."
+      ]
+    }
+  ]
+}

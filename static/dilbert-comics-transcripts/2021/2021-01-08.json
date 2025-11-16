@@ -1,0 +1,23 @@
+{
+  "date": "2021-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to announce that we just made a huge sale in Elbonia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that last week our government banned all sales to Elbonia?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Before you go blabbing that all over the place, remember that all of you are accomplices."
+      ]
+    }
+  ]
+}

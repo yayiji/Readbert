@@ -1,0 +1,26 @@
+{
+  "date": "2012-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should ask Ed about this.",
+        "Is Ed the dumb guy who talks too much or the liar with the bad breath?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's the braggart with large pores and a combover."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow.",
+        "How do you describe me behind my back?",
+        "You're the insecure guy who steers the conversation to himself."
+      ]
+    }
+  ]
+}

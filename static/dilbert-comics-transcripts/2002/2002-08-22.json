@@ -1,0 +1,24 @@
+{
+  "date": "2002-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've never seen anyone get this excited over a piece of junk mail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never been on a mailing list before. This letter is validation of my existence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not addressed to you.",
+        "I'll grant you that it's not a clean win."
+      ]
+    }
+  ]
+}

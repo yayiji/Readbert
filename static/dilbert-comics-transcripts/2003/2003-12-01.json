@@ -1,0 +1,25 @@
+{
+  "date": "2003-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert, evil director of human resources",
+        "We need to tell our employees about the merger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They'll read it in the news. Why should we do extra work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Other companies do it. There must be a reason.",
+        "Maybe it's a tax thing."
+      ]
+    }
+  ]
+}

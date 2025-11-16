@@ -1,0 +1,35 @@
+{
+  "date": "1994-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're fired, Wally.",
+        "But since we care,",
+        "we've contracted an",
+        "outplacement agency",
+        "to help you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll get your own",
+        "cubicle. And you can",
+        "make all the photo-",
+        "copies you want!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What would I want",
+        "to photocopy?",
+        "Food stamps,",
+        "dollar bills,",
+        "that sort of",
+        "thing."
+      ]
+    }
+  ]
+}

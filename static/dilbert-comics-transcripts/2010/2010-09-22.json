@@ -1,0 +1,26 @@
+{
+  "date": "2010-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your product is nothing but a piece of wood.",
+        "You need a charismatic pitchman to make gullible consumers buy it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally that would be your job as CEO.",
+        "Unfortunately, you remind people of a giant..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Leader?",
+        "Exactly."
+      ]
+    }
+  ]
+}

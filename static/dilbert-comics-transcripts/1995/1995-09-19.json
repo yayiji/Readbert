@@ -1,0 +1,24 @@
+{
+  "date": "1995-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm happy to report that I have embraced the new company slogan \"Act like you own the company.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This morning I fired the marketing department and had security escort them out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not exactly what we had in mind...",
+        "Fortunately I anticipated your reaction."
+      ]
+    }
+  ]
+}

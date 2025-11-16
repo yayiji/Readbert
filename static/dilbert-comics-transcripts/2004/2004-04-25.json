@@ -1,0 +1,85 @@
+{
+  "date": "2004-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your last job was... international pop star?",
+        "Right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, I recognize you!",
+        "I bought your new CD!",
+        "No you didn't."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When I say \"bought,\"",
+        "I mean downloaded."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Exactly. I didn't",
+        "sell one CD. Every-",
+        "one downloaded it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Weren't",
+        "you",
+        "already",
+        "rich?",
+        "My business",
+        "manager",
+        "stole every-",
+        "thing."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You",
+        "could",
+        "perform",
+        "live.",
+        "Too many",
+        "musicians,",
+        "not enough",
+        "venues."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now do",
+        "you make",
+        "music for",
+        "the love",
+        "of it?",
+        "I burned",
+        "my guitar",
+        "for heat."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I bought",
+        "your new",
+        "CD!",
+        "No",
+        "you",
+        "didn't."
+      ]
+    }
+  ]
+}

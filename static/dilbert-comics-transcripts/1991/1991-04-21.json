@@ -1,0 +1,63 @@
+{
+  "date": "1991-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This concludes my proposal to the executive committee.",
+        "Any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I think most of us were thinking about other things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But here's my impression of what you looked like giving the presentation."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Fuh fuh",
+        "Fuh fuh"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, no,",
+        "it was",
+        "more",
+        "like..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Fuh fuh",
+        "Fuh fuh"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How did your presentation go?",
+        "Don't ask."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Fuh fuh",
+        "Don't ask",
+        "Fuh fuh",
+        "Fuh fuh..."
+      ]
+    }
+  ]
+}

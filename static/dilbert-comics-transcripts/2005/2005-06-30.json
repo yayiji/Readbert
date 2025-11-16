@@ -1,0 +1,25 @@
+{
+  "date": "2005-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert the CEO",
+        "The board has learned that you've been dipping employees in varnish and using them as office furniture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We voted to fire you. Your severance package includes $100 million, the corporate jet, perpetual benefits and a salary of $1 million per year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bu-ya!",
+        "He's taking it well."
+      ]
+    }
+  ]
+}

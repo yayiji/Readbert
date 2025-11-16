@@ -1,0 +1,26 @@
+{
+  "date": "1996-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pssst!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the grim downsizer.",
+        "Trainers are the first to go.",
+        "I'll just hang around here until the next budget cuts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mind if I sit in on your stress-reduction class?",
+        "I don't think I'll read the class eval-uation forms from this one."
+      ]
+    }
+  ]
+}

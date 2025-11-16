@@ -1,0 +1,56 @@
+{
+  "date": "2022-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, you have reached customer disservice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um, yes, your app won't let me sign up because it says I already have an account."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And it won't let me recover my password because it says I don't have an account."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's because you accidentally selected the \"Schrodinger's Cat\" account type when you signed up."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your account exists and does not exist at the same time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll have to collapse the quantum wave field to fix that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is that dangerous?",
+        "It could plunge our universe into an icy death."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't do it!",
+        "Click",
+        "Okay. Have a nice day."
+      ]
+    }
+  ]
+}

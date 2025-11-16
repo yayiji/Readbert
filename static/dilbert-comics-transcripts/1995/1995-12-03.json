@@ -1,0 +1,55 @@
+{
+  "date": "1995-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Working late again, huh, Alice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Seventy hours this week..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Me too. Thank goodness for overtime pay!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Overtime pay?",
+        "Allow me to explain."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Unlike you so-called \"exempt\" employees, my income increases if I work additional hours."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm pulling in seventy-five thousand a year.",
+        "And half the time I just hide in the basement reading \"fishing\" magazine."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The only down side is that I don't get to enjoy the intellectual stimulation of my co-workers the way you do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I don't know what I like better - deep sea fishing or cubicle fishing."
+      ]
+    }
+  ]
+}

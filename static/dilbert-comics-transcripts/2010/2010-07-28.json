@@ -1,0 +1,25 @@
+{
+  "date": "2010-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the public relations consultant",
+        "So you accidentally destroyed the Statue of Liberty..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Her head is floating toward Cuba, and the president will probably order the air force to sink it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I should watch that from my private jet.",
+        "Focus!"
+      ]
+    }
+  ]
+}

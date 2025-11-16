@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company headquarters",
+        "Does anybody have a plan for getting rid of the employees?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, they're bad at math; we could offer deceptively small sums of money to people who retire."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, this could be good.",
+        "It's been a long time since I had to calculate the cosine of anything."
+      ]
+    }
+  ]
+}

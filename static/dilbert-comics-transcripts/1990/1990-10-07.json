@@ -1,0 +1,57 @@
+{
+  "date": "1990-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why are you rubbing that lamp?",
+        "Rub",
+        "Rub",
+        "Rub"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a routine check for magic genies."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carry on."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have released me.",
+        "Flash!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Yes!!! Ha, ha!! Now you must grant me three wishes!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Get real, four-eyes. We don't have a binding contract here."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I like living in a lamp. You disturbed me. I'm going to turn you into a wiener and go home."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "At least it's an experience I can relish."
+      ]
+    }
+  ]
+}

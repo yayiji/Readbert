@@ -1,0 +1,26 @@
+{
+  "date": "2012-09-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you email the test data to me?",
+        "We don't do it that way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not a reason.",
+        "We never give reasons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing you say means anything!",
+        "That's how we've always done it."
+      ]
+    }
+  ]
+}

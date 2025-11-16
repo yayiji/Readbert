@@ -1,0 +1,57 @@
+{
+  "date": "2011-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gotta go. Carpool.",
+        "Okay. See you tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have to go too.",
+        "Whoa! Sit back down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why does the carpooler get to leave early?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Carpoolers are like heroes that are saving the entire planet."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're more like a thief who is trying to steal time from the company."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What if I hitch a ride home in the carpooler's trunk?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That would make me a hero too.",
+        "That sort of makes sense."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I only pretend to have a carpool, but you're welcome to ride in my trunk.",
+        "Deal!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Extreme programming",
+        "The two of you will be a code-writing team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Studies prove that two programmers on one computer is the most productive arrangement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sometimes I can whistle through both nostrils. I've saved a fortune in harmonicas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the CEO",
+        "Gas up the company jet, Flunky. I'm going skiing in Aspen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Using the corporate jet for a vacation sends the wrong message."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you can't ski in the summer.",
+        "What message do forty planeloads of snow send?"
+      ]
+    }
+  ]
+}

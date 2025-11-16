@@ -1,0 +1,25 @@
+{
+  "date": "2019-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to do something about our employees being homeless."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Housing costs are too high around here.",
+        "Maybe we could pay them more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was thinking more along the lines of pretending to be concerned.",
+        "I like where you're going with this."
+      ]
+    }
+  ]
+}

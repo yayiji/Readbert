@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll have to write this in less technical terms for me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make it even less technical for my boss.",
+        "Even less for our VP.",
+        "Even less for our EVP.",
+        "Much less for our CEO."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And compared to all the other technologies, there's a big difference in the mouth area."
+      ]
+    }
+  ]
+}

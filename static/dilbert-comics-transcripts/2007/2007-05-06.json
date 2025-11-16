@@ -1,0 +1,54 @@
+{
+  "date": "2007-05-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I ask you a question?",
+        "Sure, new guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How long do I need to work here before..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...the dark cloud of hopelessness and despair begins to lift?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I keep expecting the feeling to go away any minute."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I was hoping to achieve job satisfaction within a month."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Once that happens, I figure that total self-actualization can't be far behind."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'd give it another day or two."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Any minute now."
+      ]
+    }
+  ]
+}

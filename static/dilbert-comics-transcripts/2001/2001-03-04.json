@@ -1,0 +1,56 @@
+{
+  "date": "2001-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fred, you're an incompetent VP.",
+        "You're fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I ask for one favor?",
+        "Sure. I could use a laugh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't make my resignation announcement terse."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "If it's terse, everyone will know I was fired for incompetence."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Does that smile mean you'll do what I ask?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'm sorry if that was ambiguous. Let me try again."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm still not getting your meaning."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Re: Fred",
+        "Career dead."
+      ]
+    }
+  ]
+}

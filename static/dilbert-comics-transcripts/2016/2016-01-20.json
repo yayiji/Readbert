@@ -1,0 +1,23 @@
+{
+  "date": "2016-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to think the work I'm doing here will change the world."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your project didn't get funded because Carol forgot to put a meeting on my calendar."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There is, however, a non-zero chance that I'm just a guy sitting in a box."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll execute our strategy in the usual way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The powerful will delegate to the untalented until failure is achieved."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long will that take?",
+        "We just finished."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2020-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you finish the server migration by Monday?",
+        "No way."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How hard can it be?",
+        "You only say that about things you don't understand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I ask that question every day.",
+        "Yup."
+      ]
+    }
+  ]
+}

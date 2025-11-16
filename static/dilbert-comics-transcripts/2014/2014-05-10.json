@@ -1,0 +1,24 @@
+{
+  "date": "2014-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my email about your business plan?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Was it a rambling and disjointed email that showed no understanding of the problem or the proposed solution?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "Oh. Then apparently I haven't seen it."
+      ]
+    }
+  ]
+}

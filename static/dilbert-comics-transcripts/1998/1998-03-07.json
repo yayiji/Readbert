@@ -1,0 +1,24 @@
+{
+  "date": "1998-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I estimated the hours it would take to do an excellent job on all the projects you've assigned."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would be fifty hours a day. So I recalculated for \"adequate\" results. That would be forty hours per day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, to make a long story short, let's skip down to \"complete fiduciary misconduct.\"",
+        "Blah blah blah blah blah"
+      ]
+    }
+  ]
+}

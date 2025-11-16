@@ -1,0 +1,24 @@
+{
+  "date": "1996-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What exactly is the Dogbert day care concept?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Progressive companies can provide day care without spending a bundle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't we spend a fortune on duct tape?",
+        "It's reusable unless it gets slobbered on."
+      ]
+    }
+  ]
+}

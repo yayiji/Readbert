@@ -1,0 +1,27 @@
+{
+  "date": "2015-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need a bias for action.",
+        "Does listening count?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not action.",
+        "So...",
+        "You don't want me to listen to you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't think this all the way through.",
+        "Tap me on the shoulder when you're done."
+      ]
+    }
+  ]
+}

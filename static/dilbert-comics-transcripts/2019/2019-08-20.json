@@ -1,0 +1,24 @@
+{
+  "date": "2019-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're our boss's new pet employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please don't tell him all of the bad things I have said about him behind his back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you a hundred dollars if you keep quiet.",
+        "I knew I could monetize this."
+      ]
+    }
+  ]
+}

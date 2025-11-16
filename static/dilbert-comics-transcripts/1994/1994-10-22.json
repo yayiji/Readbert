@@ -1,0 +1,21 @@
+{
+  "date": "1994-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To configure the software, enter the name of next year's Academy Award winner for best actor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please wait."
+      ]
+    }
+  ]
+}

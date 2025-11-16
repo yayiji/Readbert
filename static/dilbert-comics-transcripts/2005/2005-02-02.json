@@ -1,0 +1,23 @@
+{
+  "date": "2005-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This award goes to Asok for his hard work on... whatever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My dedication has been rewarded! This is the happiest moment of my life!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! It's lucky that I got a new chair on the same day that mine was stolen."
+      ]
+    }
+  ]
+}

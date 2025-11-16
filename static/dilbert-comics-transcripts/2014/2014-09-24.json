@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The secret to being a great leader is to zig when others zag."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Coincidentally, that is the same strategy used by the insane."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I should fire you for your insubordination.",
+        "Or you could zig."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1995-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why do you want to transfer to my department, Wally?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm in a dysfunctional organization.",
+        "I'm not getting the love and support I need.",
+        "That's why I've been making long-distance personal calls from the fax room."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your résumé says every boss you've had was a complete jerk.",
+        "So, when do I start?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2004-12-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Click \"submit\" to post your resume on the jobs web site."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now sit back and enjoy the misguided optimism that someday a human being will see it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Be sure to tell your parents that you looked for a job today.",
+        "I'll e-mail them."
+      ]
+    }
+  ]
+}

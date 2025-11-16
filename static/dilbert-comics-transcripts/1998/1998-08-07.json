@@ -1,0 +1,26 @@
+{
+  "date": "1998-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've digitized and indexed the world's greatest art. This is \"The Last Supper.\"",
+        "Nice, but..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The composition is cluttered. Delete a few of those guys.",
+        "Do you have any clip art of bagels?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do they look happy?",
+        "Compared to me, yes."
+      ]
+    }
+  ]
+}

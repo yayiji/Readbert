@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I date a co-worker?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I doubt it. You're not attractive, funny, or rich."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean, is it allowed under company rules?",
+        "We only have rules about things that might happen."
+      ]
+    }
+  ]
+}

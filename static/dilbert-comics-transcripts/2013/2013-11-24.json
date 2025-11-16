@@ -1,0 +1,53 @@
+{
+  "date": "2013-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's drink coffee together while I say wise things about business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing would make us happier.",
+        "Whataya got?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The only reason to have meetings is to make decisions."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That sounded very wise.",
+        "Totally."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I know. I'm kind of proud of that one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So what happens when you get in a meeting and realize you don't have all of the information you need to make a decision?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This works better if you two don't talk."
+      ]
+    }
+  ]
+}

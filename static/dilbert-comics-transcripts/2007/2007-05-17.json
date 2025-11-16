@@ -1,0 +1,23 @@
+{
+  "date": "2007-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can monitor the company's key metrics from my executive dashboard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh. I need to do a better job of falsifying my data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Allow me to set the stage for your next assignment by reminding you that stockholders have never done anything for you."
+      ]
+    }
+  ]
+}

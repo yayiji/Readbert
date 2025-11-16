@@ -1,0 +1,25 @@
+{
+  "date": "1993-09-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bet I've gone to jail more than the average law-abiding citizen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to defend you by proving your victim was a temp worker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's legal to kill a temp?",
+        "Really??",
+        "Now all we need is a jury of your \"peers\"."
+      ]
+    }
+  ]
+}

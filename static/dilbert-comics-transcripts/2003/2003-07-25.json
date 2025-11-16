@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a few suggestions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be happy to make these unnecessary changes to this irrelevant document."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop acting happy.",
+        "Can I whistle and dance while I work?"
+      ]
+    }
+  ]
+}

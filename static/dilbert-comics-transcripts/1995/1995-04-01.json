@@ -1,0 +1,24 @@
+{
+  "date": "1995-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Each of you will write your objectives and give them to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I will sculpt these disparate pieces of clay into an elegant tapestry which will be our business plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our business plan will be like a clay tapestry?",
+        "Feel free to quote me."
+      ]
+    }
+  ]
+}

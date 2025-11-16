@@ -1,0 +1,26 @@
+{
+  "date": "1995-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard you got assigned on a \"dotted line\" to our boss' arch-rival.",
+        "Groan"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Look on the bright side.",
+        "Think of yourself as leading the exciting life of a secret double-agent!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't most double-agents get captured and executed immediately?",
+        "They wish it was immediate."
+      ]
+    }
+  ]
+}

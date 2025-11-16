@@ -1,0 +1,24 @@
+{
+  "date": "2003-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need a body double.",
+        "They're popular with your most successful despots."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If someone tries to ambush you into making a decision, the double will take the hit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want you to think of this as your own personal dress code."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2017-11-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Barry Dingle.",
+        "I hang around your office door and ask you questions every time you get off the phone."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate that.",
+        "You can blame your open-door policy for all of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is sub-optimal."
+      ]
+    }
+  ]
+}

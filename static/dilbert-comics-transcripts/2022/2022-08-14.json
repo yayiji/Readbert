@@ -1,0 +1,55 @@
+{
+  "date": "2022-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That is the best idea you ever had!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He got it from me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He overheard me say it in line at the cafeteria."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gaaaa!!! He's a credit pirate!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You'll never get away with this, credit pirate!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I already have!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Die, credit pirate, die!!!",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Where were we?",
+        "You're high maintenance."
+      ]
+    }
+  ]
+}

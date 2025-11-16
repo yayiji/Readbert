@@ -1,0 +1,25 @@
+{
+  "date": "2007-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Financial advisor",
+        "You've made a lot of money as a demotivational speaker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend allocating 2% of it to me, and 98% to things that sound good if you don't look into them too closely."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about a managed stock fund with high churn and a big front-end load?",
+        "Sounds good."
+      ]
+    }
+  ]
+}

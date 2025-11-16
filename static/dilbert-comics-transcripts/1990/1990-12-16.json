@@ -1,0 +1,57 @@
+{
+  "date": "1990-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Oh, carp... I'd better see if I dented it.",
+        "Tap"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your bumper doesn't appear to be...",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Look what you've done to me, you oaf!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll see you in court!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...And now I'll never be able to work again."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What kind of work did you do?",
+        "Well, uh...",
+        "Er... um..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Circus contortionist."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "As far as the settlement goes, I can be flexible."
+      ]
+    }
+  ]
+}

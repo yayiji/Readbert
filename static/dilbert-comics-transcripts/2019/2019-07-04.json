@@ -1,0 +1,30 @@
+{
+  "date": "2019-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Make me a slide deck that says our \"centers of excellence\" are creating more excellence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do we have any data to support that claim?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You want me to lie?",
+        "Is that suddenly too much to ask?"
+      ]
+    }
+  ]
+}

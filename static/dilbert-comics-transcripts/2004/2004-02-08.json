@@ -1,0 +1,56 @@
+{
+  "date": "2004-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet your new coworker, Buff Bufferman."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell Dilbert what you do for fun."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to go rock climbing during blizzards.",
+        "Escape."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "At the top, I wait for a pair of eagles to fly by. Then I leap off and grab them by the legs."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The eagles slow my descent to the raging river below."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I try to land on a floating log and surf the white water all the way home."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I use a keyboard.",
+        "Isn't that dangerous?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Sometimes I type all hunched over.",
+        "Ow! Ow! It hurts to hear it!"
+      ]
+    }
+  ]
+}

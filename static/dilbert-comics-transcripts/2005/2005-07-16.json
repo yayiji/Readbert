@@ -1,0 +1,24 @@
+{
+  "date": "2005-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a cure for the common cold."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The possible side-effects are coughing, sore throat, runny nose, congestion and nausea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... it's a pill that makes you nauseous?",
+        "Only if you have a cold."
+      ]
+    }
+  ]
+}

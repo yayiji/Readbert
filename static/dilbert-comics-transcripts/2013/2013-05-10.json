@@ -1,0 +1,23 @@
+{
+  "date": "2013-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Employees are in a furor over our new policy of banning telecommuting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really? You mean we found a way to make them stop obsessing over my pay package?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try canceling all maternity leave and see if it makes them stop talking about telecommuting."
+      ]
+    }
+  ]
+}

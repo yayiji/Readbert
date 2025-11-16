@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The MRI shows unusual activity in the laziness region of your brain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Normally, I would recommend brain surgery, but your brain also registers an unusually high level of happiness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... how do we handle this?",
+        "I'm going to operate on myself to make me more like you."
+      ]
+    }
+  ]
+}

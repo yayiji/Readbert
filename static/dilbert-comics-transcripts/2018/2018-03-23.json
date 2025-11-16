@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I make a suggestion?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. Do you mind if I only pretend to listen because you haven't had a good idea in several decades?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's fine. I was only looking forward to the part where I'm talking.",
+        "Proceed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, give everyone a copy of my reorg announcement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're already organized this way because I never distributed your last reorg announcement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's see your \"employee of the week\" do that!"
+      ]
+    }
+  ]
+}

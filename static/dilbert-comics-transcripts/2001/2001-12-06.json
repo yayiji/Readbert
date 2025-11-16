@@ -1,0 +1,29 @@
+{
+  "date": "2001-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you, but I can only accept gifts under $25.",
+        "How much is this?",
+        "$26"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, thanks anyway.",
+        "Rules are rules."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're very nice for a salesperson.",
+        "But how much is this worth?",
+        "$26.",
+        "Why?"
+      ]
+    }
+  ]
+}

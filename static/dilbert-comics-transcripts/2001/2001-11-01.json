@@ -1,0 +1,24 @@
+{
+  "date": "2001-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're almost out of kitty litter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gather all the résumés we got this week and run them through the shredder."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shouldn't we be matching these with our openings?",
+        "That's what we're doing."
+      ]
+    }
+  ]
+}

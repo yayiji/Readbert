@@ -1,0 +1,26 @@
+{
+  "date": "1994-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Susan, I want you to make some budget cuts throughout my department.",
+        "But I'm only the budget analyst."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I couldn't possibly understand all the engineering projects enough to make intelligent choices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really? Great!",
+        "I thought it was just me!",
+        "Shall I whomp up a strategy while I'm at it?"
+      ]
+    }
+  ]
+}

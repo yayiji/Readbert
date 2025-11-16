@@ -1,0 +1,24 @@
+{
+  "date": "2003-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't read your doctor's handwriting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll give you this mood-altering drug to make you happy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a skin rash!",
+        "And it's making you unhappy, right?"
+      ]
+    }
+  ]
+}

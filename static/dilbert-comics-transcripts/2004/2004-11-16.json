@@ -1,0 +1,23 @@
+{
+  "date": "2004-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new product is either wildly successful or underwater..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Depending on how you want to allocate management overhead expenses."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently you don't want to think about it and get back to me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "1996-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time for a visit from \"Camping Carl.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There goes my entire morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd like to begin with a monologue entitled \"Woe is Carl.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm working every minute!",
+        "They all laughed when I built the escape tunnel."
+      ]
+    }
+  ]
+}

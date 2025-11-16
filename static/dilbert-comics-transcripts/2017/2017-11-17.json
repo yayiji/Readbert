@@ -1,0 +1,24 @@
+{
+  "date": "2017-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, your performance is poor. I need to let you go."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it a coincidence that you're firing me at the same time my employee health monitor detected cardiovascular risk?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How good are the predictive analytics on this?",
+        "Don't make lunch plans."
+      ]
+    }
+  ]
+}

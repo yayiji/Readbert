@@ -1,0 +1,24 @@
+{
+  "date": "2021-02-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The reason I'm here is to help you look at the big picture."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll need a fact-check on that.",
+        "I think you stayed over from the last meeting to finish your donut."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It seems you beat me to the big picture."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Roboboss. You are a valuable asset. Keep up the good work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is the most shallow compliment I have ever heard. But it still made me feel good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...are you seeing anyone?",
+        "High five!"
+      ]
+    }
+  ]
+}

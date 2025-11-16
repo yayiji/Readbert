@@ -1,0 +1,55 @@
+{
+  "date": "2008-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO decided to eliminate employee bonuses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The savings will be used to produce an in-house movie to inspire you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Inspire us to do what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For starters, we'd like you to be happy about being underpaid."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our fun-loving executives will wear festive costumes and sing about the virtues of poverty."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The movie is called \"The sound of no money.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The premiere is on our CEO's yacht.",
+        "He wants all of you to be there."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We're invited to his yacht?",
+        "The yacht runs on whale oil, so bring a harpoon."
+      ]
+    }
+  ]
+}

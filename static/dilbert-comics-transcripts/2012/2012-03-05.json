@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I pretend to be helpful while I awkwardly try to upsell you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nope. Do you mind if I pretend to be listening while I think about other things?",
+        "Cool."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm glad I don't have your job.",
+        "How old is your refrigerator? Do you like ice?"
+      ]
+    }
+  ]
+}

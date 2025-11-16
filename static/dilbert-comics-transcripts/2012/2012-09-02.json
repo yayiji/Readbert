@@ -1,0 +1,55 @@
+{
+  "date": "2012-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard a rumor that Apple's next phone will have a 20-megapixel camera."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I heard you'll be able to hold the phone to your head and take a picture of your thoughts."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And even that's nothing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Their next phone will be a time machine!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Here I am from the future!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm the most handsome man in the universe!",
+        "So am I!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He makes a good case for buying an Android phone.",
+        "I love me more than me."
+      ]
+    }
+  ]
+}

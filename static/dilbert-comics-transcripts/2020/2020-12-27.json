@@ -1,0 +1,54 @@
+{
+  "date": "2020-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's schedule a follow-up call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you prefer Zoom, FaceTime, Signal, WhatsApp, or voice call?",
+        "Zoom."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about next Tuesday at 10 a.m. my time, which is 1 p.m. your time?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll be on the road then, so your 10 a.m. will be my noon."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But that's after the time change."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I can't remember if I'm going to a place that change their clocks."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why don't we skip the whole thing because the call we are scheduling probably won't be any more useful than this one."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let us never speak of this again."
+      ]
+    }
+  ]
+}

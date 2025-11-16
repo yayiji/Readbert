@@ -1,0 +1,55 @@
+{
+  "date": "2014-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We discovered that our product name is an insult in the Elbonian language."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hired an Elbonian to review our new choices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have offended Bixtappa, the deity of unseasonably warm weather and twice-baked potatoes."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our tradition says I must now strangle you with a mud adder."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Luckily, I brought one."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do Elbonians have a lot of deities?",
+        "No, just the one."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He seems easily offended.",
+        "Grab the head and yank!"
+      ]
+    }
+  ]
+}

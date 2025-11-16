@@ -1,0 +1,31 @@
+{
+  "date": "2001-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!!",
+        "Hi. It's a pleasure to meet you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You look like a psycho hill-billy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Thank you very much."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We network design engineers like to dress with a theme.",
+        "May I call you crazy old coot?"
+      ]
+    }
+  ]
+}

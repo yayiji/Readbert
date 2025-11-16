@@ -1,0 +1,24 @@
+{
+  "date": "2008-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the time management expert",
+        "Never put time into an activity that has no potential benefit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, why bother putting on makeup if you're going to wear that hideous outfit?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's like knitting a sweater for a dead squirrel."
+      ]
+    }
+  ]
+}

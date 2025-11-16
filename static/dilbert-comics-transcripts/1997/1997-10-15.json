@@ -1,0 +1,24 @@
+{
+  "date": "1997-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Studies have shown that monkeys can pick stocks better than most professionals.",
+        "Paid commercial"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's why the Dogbert Mutual Fund employs only monkeys."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, our fees are high, but I don't apologize for hiring the best."
+      ]
+    }
+  ]
+}

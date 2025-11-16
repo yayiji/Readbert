@@ -1,0 +1,23 @@
+{
+  "date": "2018-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our customers are complaining because we let hackers get their personal data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we've decided to change the name of the company and wear disguises until it all blows over."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Take a mustache from the bag and pass it around."
+      ]
+    }
+  ]
+}

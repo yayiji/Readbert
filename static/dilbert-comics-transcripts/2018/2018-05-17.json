@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss gave me approval to join your project team under the condition I don't take on any extra work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The whole point of being on the project is to do extra work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I should talk to your boss.",
+        "His other condition is that you never contact him."
+      ]
+    }
+  ]
+}

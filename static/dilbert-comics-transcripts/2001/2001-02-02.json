@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The results of our customer satisfaction survey are in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "83% spat at their telephones until they died of dehydration."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're calling that group \"The lucky ones.\""
+      ]
+    }
+  ]
+}

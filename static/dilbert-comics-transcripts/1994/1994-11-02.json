@@ -1,0 +1,23 @@
+{
+  "date": "1994-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employee survey showed that 95% of the company believes we have no consistent strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So the executives formed a \"quality team\" to determine the root cause of the problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We've narrowed it down to either \"employees are ninnies\" or \"we deserve more stock options.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've reduced the volume of technical support calls..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By replacing our \"on hold\" music with the sound that balloons make when you rub them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you ever feel like we're driving the getaway car?"
+      ]
+    }
+  ]
+}

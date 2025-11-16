@@ -1,0 +1,25 @@
+{
+  "date": "2017-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is your project taking so long?",
+        "It isn't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It only seems like a long time to you because you don't know how to do anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know how to punish you for being late.",
+        "Does it involve talking to me while I'm trying to work?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1991-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, I sold the rights to my anti-gravity invention.",
+        "I get to keep half of the \"net.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wonder what \"net\" means.",
+        "Net is what you land in after you find out you get no money and jump off a ledge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if there is no net?",
+        "It's gross."
+      ]
+    }
+  ]
+}

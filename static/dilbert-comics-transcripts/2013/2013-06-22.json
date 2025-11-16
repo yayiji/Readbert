@@ -1,0 +1,24 @@
+{
+  "date": "2013-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd love to help you, but I'm in the middle of defragmenting my disk drive."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When that's done, my computer will be compiling code for a few hours."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's work?",
+        "I hear bad things about it."
+      ]
+    }
+  ]
+}

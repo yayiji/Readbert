@@ -1,0 +1,23 @@
+{
+  "date": "2005-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need a new marketing campaign but we have no budget for it whatsoever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who among us is brave enough to lead such a bold and risky project?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, you're doing the worst job of hiding under the table."
+      ]
+    }
+  ]
+}

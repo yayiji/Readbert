@@ -1,0 +1,24 @@
+{
+  "date": "2015-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I created an app for our smart watch that makes the user's hand slap people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who would want...",
+        "Slap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your eyes say I should pivot."
+      ]
+    }
+  ]
+}

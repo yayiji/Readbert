@@ -1,0 +1,26 @@
+{
+  "date": "2016-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Phil, the prince of insufficient light.",
+        "I have a report that you use your speaker-phone in a cubicle environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In my defense, I only do it because of my total disregard for others."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sounds fair.",
+        "That's why I do it too.",
+        "Take your spoon and leave."
+      ]
+    }
+  ]
+}

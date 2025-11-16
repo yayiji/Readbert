@@ -1,0 +1,25 @@
+{
+  "date": "2010-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're in merger talks, but it's business as usual until it goes through."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm free!",
+        "My efforts won't influence my rewards!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I said business as usual.",
+        "I was totally planning to do this today."
+      ]
+    }
+  ]
+}

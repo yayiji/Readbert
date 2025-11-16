@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The marketing guru",
+        "Consumers will buy our tractor-sized MP3 players if we offer something free with each one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we'll offer a free iPod with each sale, and free towing to the landfill for our MP3 player."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The rest is just pricing."
+      ]
+    }
+  ]
+}

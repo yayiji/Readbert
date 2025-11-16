@@ -1,0 +1,24 @@
+{
+  "date": "2009-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In my spare time I came up with an idea for your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your idea is so good that it makes all the work I did for the past year a miserable mistake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're welcome.",
+        "I can't let you leave this cubicle alive."
+      ]
+    }
+  ]
+}

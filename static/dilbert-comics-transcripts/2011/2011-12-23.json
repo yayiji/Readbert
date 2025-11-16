@@ -1,0 +1,24 @@
+{
+  "date": "2011-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To reach our green goals, employees must always use the blue recycling bins for company documents."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To satisfy our corporate security guidelines, never put company documents in the blue recycling bins."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You read those same policies to us last week.",
+        "I don't know how to get rid of them."
+      ]
+    }
+  ]
+}

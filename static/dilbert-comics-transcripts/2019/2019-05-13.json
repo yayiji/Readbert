@@ -1,0 +1,25 @@
+{
+  "date": "2019-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are we doing about the Elbonian cyber threat?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I called a meeting for tomorrow to come up with a plan for dealing with it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your weak response proves you are an Elbonian spy.",
+        "What?",
+        "To be continued..."
+      ]
+    }
+  ]
+}

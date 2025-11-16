@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll invest up to five million dollars if you'll agree to some standard conditions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will be chairman of the board and own 99% of the company.",
+        "You will work for free and wash my car twice a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I mow your lawn instead of washing your car?",
+        "You're a tough bargainer, but I prefer multimedia developers for my gardening needs."
+      ]
+    }
+  ]
+}

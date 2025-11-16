@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone says you've been colluding with our Elbonian competitors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've assigned a special counsel to review all of your email and phone logs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've done nothing wrong.",
+        "Stop trying to obstruct justice."
+      ]
+    }
+  ]
+}

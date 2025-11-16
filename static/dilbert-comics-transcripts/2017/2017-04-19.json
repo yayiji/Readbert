@@ -1,0 +1,25 @@
+{
+  "date": "2017-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wrote a VR program that turns the workplace into a \"Lord of the Rings\" adventure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaaa!!!",
+        "It's an evil orc!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess your program randomly assigns characters to real people.",
+        "Um, yes, random."
+      ]
+    }
+  ]
+}

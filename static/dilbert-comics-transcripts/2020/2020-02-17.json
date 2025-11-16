@@ -1,0 +1,23 @@
+{
+  "date": "2020-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The hardware you ordered is not compatible with our network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just buy an adapter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't think anyone makes an adapter that can fix stupidity."
+      ]
+    }
+  ]
+}

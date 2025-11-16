@@ -1,0 +1,24 @@
+{
+  "date": "2000-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a psychologist to help you handle stress."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need another engineer, not some freakin' quack!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there a pill for that?",
+        "I took it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2003-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can survive the next round of layoffs by sacrificing a co-worker."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must make your boss believe that someone is a worse employee than you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ted, let me explain revenue: It's like your embezzlement, but it's directed at customers."
+      ]
+    }
+  ]
+}

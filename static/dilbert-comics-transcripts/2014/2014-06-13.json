@@ -1,0 +1,26 @@
+{
+  "date": "2014-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's some dark chocolate.",
+        "Studies show it makes you think better."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why are you suddenly doing things that make scientific sense, instead of your usual magical thinking?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just ate three pounds of chocolate.",
+        "Wow.",
+        "It works fast."
+      ]
+    }
+  ]
+}

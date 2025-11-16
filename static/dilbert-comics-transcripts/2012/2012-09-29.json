@@ -1,0 +1,23 @@
+{
+  "date": "2012-09-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new executive team got together and figured out the source of all of our problems."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is the problem that the executive team keeps changing, and that means the company strategy keeps changing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the problem that all of our meetings turn awkward?"
+      ]
+    }
+  ]
+}

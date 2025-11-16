@@ -1,0 +1,28 @@
+{
+  "date": "1995-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I built a spreadsheet to compare our relative qualities.",
+        "I'm afraid I'm twenty percent too good for you.",
+        "We must stop dating."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No! Look, Liz, you have the wrong formula in this column!",
+        "That must mean I have higher math skills than you!",
+        "We're almost even!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You left that error in there intentionally.",
+        "My last batch of flowers is wilting."
+      ]
+    }
+  ]
+}

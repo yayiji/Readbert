@@ -1,0 +1,53 @@
+{
+  "date": "2007-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every project you worked on this year got canceled after the reorganization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's as if you didn't even exist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not entirely true."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "For example, I occupied space."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'd like to see someone who doesn't exist do that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "A dead person can occupy space."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But a dead person exists."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I won the argument, but it was a hollow victory."
+      ]
+    }
+  ]
+}

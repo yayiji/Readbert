@@ -1,0 +1,25 @@
+{
+  "date": "2019-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't want to tell you this, but you're a simulation designed by a three-dimensional creator."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I'm an avatar used by your creator to interact with your world."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I refuse to believe that is true.",
+        "Yep.",
+        "That's how I made you."
+      ]
+    }
+  ]
+}

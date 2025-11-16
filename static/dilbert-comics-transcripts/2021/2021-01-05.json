@@ -1,0 +1,23 @@
+{
+  "date": "2021-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, according to your DNA, the odds of you stealing office supplies later this week are nearly 100%."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like junk science."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He refuses to listen to experts."
+      ]
+    }
+  ]
+}

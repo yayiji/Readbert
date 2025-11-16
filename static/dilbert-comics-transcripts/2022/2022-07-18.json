@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won the bid to build a space laser for planetary defense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't tell you the top-secret reason we need to rush, but we need to rush."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are we at war with an alien invader?",
+        "No, that would imply our side has weapons too."
+      ]
+    }
+  ]
+}

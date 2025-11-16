@@ -1,0 +1,26 @@
+{
+  "date": "2016-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you get that done by Friday?",
+        "I'll get back to you on that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When will you get back to me?",
+        "Soon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How soon?",
+        "I can do this all day."
+      ]
+    }
+  ]
+}

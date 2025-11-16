@@ -1,0 +1,25 @@
+{
+  "date": "2018-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The pointy-haired boss is testing our self-driving car prototype."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, didn't you write the operating system for that prototype?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hypothetically, could you murder him from a distance?",
+        "We shouldn't have this conversation."
+      ]
+    }
+  ]
+}

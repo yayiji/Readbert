@@ -1,0 +1,54 @@
+{
+  "date": "2017-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invited a climate scientist to explain the risk of climate change to our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Human activity is warming the earth and will lead to a global catastrophe."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do scientists know that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's easy. We start with the basic science of physics and chemistry."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then we measure changes in temperature and CO2 over time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We put that data into dozens of different climate models and ignore the ones that look wrong to us."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then we take that output and run it through long-term economic models of the sort that have never been right."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What if I don't trust the economic models?",
+        "Who hired the science denier?"
+      ]
+    }
+  ]
+}

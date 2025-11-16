@@ -1,0 +1,25 @@
+{
+  "date": "1995-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I should quit and become a contract employee.",
+        "Then I'd have more income and I'd feel the wind in my hair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's possible you'd have no income at all..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if you want wind in your hair you'll have to take off your shirt and run around with your arms up.",
+        "Thank you for your support."
+      ]
+    }
+  ]
+}

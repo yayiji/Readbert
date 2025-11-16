@@ -1,0 +1,25 @@
+{
+  "date": "2008-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The best things in life are free, so I got you this."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This looks like trash from my garbage can.",
+        "You're welcome."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I only chewed on the delicious parts!",
+        "Spank you very much."
+      ]
+    }
+  ]
+}

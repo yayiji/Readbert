@@ -1,0 +1,26 @@
+{
+  "date": "2016-06-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I built a minimum viable product, or MVP, as I like to call it.",
+        "That's a block of wood."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I call it \"artificial intelligence.\" Ask it any question.",
+        "What is my middle name?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's being shy, just like people.",
+        "It has emotions too?"
+      ]
+    }
+  ]
+}

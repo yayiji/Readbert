@@ -1,0 +1,55 @@
+{
+  "date": "2015-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new employee",
+        "Hi, I'm Dilbert. I bought you a book."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, weird. Who buys gifts for new co-workers?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And how did you know this is my favorite author?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I asked one of the network guys to check your browser history."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Catbert assured me that employees have no right of privacy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I heard that women like it when men put thought into a gift."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I hope you appreciate my romantic gesture."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did she make a romantic gesture back?",
+        "I choose to interpret it that way."
+      ]
+    }
+  ]
+}

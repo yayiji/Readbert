@@ -1,0 +1,24 @@
+{
+  "date": "2013-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When our CEO visits, don't ask him any questions. He hates questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And don't stare. He hates it when people look at him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May we breathe the air on his planet?",
+        "Only the stuff he exhales."
+      ]
+    }
+  ]
+}

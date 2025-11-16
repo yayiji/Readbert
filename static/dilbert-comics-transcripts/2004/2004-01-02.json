@@ -1,0 +1,24 @@
+{
+  "date": "2004-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Office relocation",
+        "Some cubicles are slightly less desirable than others."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, your new cubicle is below an air duct so it is sometimes cooler than the area around it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I asked the facilities people to chip out the penguin as soon as possible."
+      ]
+    }
+  ]
+}

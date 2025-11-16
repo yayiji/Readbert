@@ -1,0 +1,24 @@
+{
+  "date": "2000-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert investments",
+        "Before I invest in a stock, I talk to the management in person."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What good is that? They're all huge liars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You believe I really talk to them, right?"
+      ]
+    }
+  ]
+}

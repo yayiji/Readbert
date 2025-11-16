@@ -1,0 +1,30 @@
+{
+  "date": "2000-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I understand that you were raised in a dysfunctional family.",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're gonna work seventy hours a week or you're worthless!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You love me."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are there any more like you at home?"
+      ]
+    }
+  ]
+}

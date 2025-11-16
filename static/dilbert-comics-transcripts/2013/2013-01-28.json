@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you make the software changes I suggested?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, because I reflexively disagree with every suggestion that anyone ever makes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're very reasonable.",
+        "No, I'm a total jer... wait, what did you just do there?"
+      ]
+    }
+  ]
+}

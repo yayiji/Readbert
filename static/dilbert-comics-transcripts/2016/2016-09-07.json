@@ -1,0 +1,23 @@
+{
+  "date": "2016-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our executive team didn't know what to do about weak sales."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So they reorganized the company and gave themselves new titles and big raises."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They still don't know what to do about weak sales, but they report being happier about the situation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only reason I took a job managing cloud data is so I could laugh at people's private information."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then I discovered a robust market for selling that kind of stuff, so it's a twofer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We need to talk.",
+        "Sure. Just email your thoughts to a friend, and I'll probably read them."
+      ]
+    }
+  ]
+}

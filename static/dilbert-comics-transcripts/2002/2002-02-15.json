@@ -1,0 +1,27 @@
+{
+  "date": "2002-02-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wow! You finished the project below your estimate and on time.",
+        "Hold...",
+        "Hold..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All I need are a few changes at your hourly fee, which was never specified in our contract.",
+        "Hold... hold",
+        "Hold."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wag!"
+      ]
+    }
+  ]
+}

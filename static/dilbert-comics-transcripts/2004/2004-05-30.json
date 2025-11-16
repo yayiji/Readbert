@@ -1,0 +1,54 @@
+{
+  "date": "2004-05-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yesterday, someone in this room gave me a document with a yellow paper clip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know that multi-colored paper clips look \"pretty.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I remind you that we are on a tight budget!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We can't be throwing away all our money on colorful paper clips."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Do I make myself clear?!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I salvaged that paper clip from incoming mail."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now excuse me while I stare at my watch and wonder how much you're paid per hour."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm sure you've done inefficient things that I don't know about.",
+        "Two minutes is... $5."
+      ]
+    }
+  ]
+}

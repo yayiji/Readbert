@@ -1,0 +1,27 @@
+{
+  "date": "1990-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop the trial!!",
+        "Stop the trial!!",
+        "The defendant is innocent!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the one who killed those people.",
+        "I did it for love and for money and revenge!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, not really,",
+        "but I always wanted to say that."
+      ]
+    }
+  ]
+}

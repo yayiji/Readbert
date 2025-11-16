@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The board decided to put your invention of a phone charger that warms coffee into production."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Market surveys show enormous demand.",
+        "You're probably going to be our employee of the year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This disturbs me on many levels.",
+        "Genius is often disruptive."
+      ]
+    }
+  ]
+}

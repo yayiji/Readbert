@@ -1,0 +1,26 @@
+{
+  "date": "2001-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How can you write reviews of movies you haven't seen?",
+        "Easily."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Throw away your Picasso paintings.",
+        "'Night of the living squirrel' is the only art you'll ever need."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much is the studio paying you?",
+        "Dang... too obvious."
+      ]
+    }
+  ]
+}

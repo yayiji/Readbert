@@ -1,0 +1,25 @@
+{
+  "date": "2010-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a sink that attaches to my body.",
+        "The faucet is activated by your voice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, what possible use could this stupid thing have?",
+        "I need you to do some real work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What? I can't hear you when the water is running!"
+      ]
+    }
+  ]
+}

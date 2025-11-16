@@ -1,0 +1,55 @@
+{
+  "date": "2016-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for meeting me on short notice.",
+        "How are you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, actually, someone stole my identity and ruined my credit score."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I couldn't refinance my loan and lost my house."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So I ate myself into poor health."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I stopped shaving for a month and ended up on the terrorist watch-list."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My boss hates me and is trying to make me quit by giving me bad assignments."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My car broke down and I haven't been hugged in a year."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Okay, let's get started.",
+        "That's all the time I had."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2016-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The government wants us to make software that can unlock the encrypted data of our users."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Either we choose privacy or national security.",
+        "Should we betray our customers or should we enable terrorists?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Figure out which one is more profitable and get back to me.",
+        "On it."
+      ]
+    }
+  ]
+}

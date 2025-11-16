@@ -1,0 +1,26 @@
+{
+  "date": "1998-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I haven't talked yet, but all the good points have been taken.",
+        "Blah blah",
+        "Blah blah"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We must make sure our momentum aligns with our value-added distribution!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was just babble, right?",
+        "All the good ones were taken."
+      ]
+    }
+  ]
+}

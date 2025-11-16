@@ -1,0 +1,23 @@
+{
+  "date": "2022-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a medical emergency on the second floor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, Alice, and Tina took so long deciding where to go to lunch that they went into hunger comas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "When that happened to Ted, I stuffed popcorn in his mouth to revive him, which then turned awkward because he had been dead for a week."
+      ]
+    }
+  ]
+}

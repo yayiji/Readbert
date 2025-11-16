@@ -1,0 +1,30 @@
+{
+  "date": "2011-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm staging a peaceful protest against your greed and corruption."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have a permit to protest here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No.",
+        "How much do they cost?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm winning this, right?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1990-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will never go on another blind date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, Jabba... er... I mean, Janet, have you dated many other men?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but they all disappeared without a trace.",
+        "Incidentally, you look delicious tonight."
+      ]
+    }
+  ]
+}

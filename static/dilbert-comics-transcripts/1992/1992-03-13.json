@@ -1,0 +1,38 @@
+{
+  "date": "1992-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At the petimony trial",
+        "Your honor,",
+        "I request that",
+        "Dogbert's suit",
+        "against me be",
+        "dropped..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...On the grounds that",
+        "there's no habeas",
+        "corpus, no lo conten-",
+        "dre, and no e pluribus",
+        "unum."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "With luck,",
+        "he doesn't",
+        "know latin",
+        "either.",
+        "Bailiff,",
+        "club this",
+        "man."
+      ]
+    }
+  ]
+}

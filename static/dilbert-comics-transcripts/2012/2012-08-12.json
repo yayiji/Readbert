@@ -1,0 +1,54 @@
+{
+  "date": "2012-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a list of the twelve elements of great managing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you do everything on that list, it will make me feel what experts call \"engaged.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you fail to do your job properly, I will feel all disengaged and do poor work."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "This would be a convenient time to give me some praise and recognition."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You might also want to encourage my development and tell me my job is important."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Remember to care about me as a person and tell me my opinions count."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If you do all of that, plus seven more things on the list, you might get some productivity out of me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Leave my office and drop dead.",
+        "Will that help me learn and grow?"
+      ]
+    }
+  ]
+}

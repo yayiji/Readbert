@@ -1,0 +1,25 @@
+{
+  "date": "2009-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Morgan: The man with no communication skills.",
+        "Did you get the results from the stress tests yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stress tests have to be performed under controlled conditions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Has anyone ever explained to you the yes-no form of questions?",
+        "Is it my turn to talk?"
+      ]
+    }
+  ]
+}

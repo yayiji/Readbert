@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a worthless employee who cuts out newspaper articles and routes them around."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I used to make sure the articles were relevant, but that was more work than it was worth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I saw this already.",
+        "It's from your paper.",
+        "You always leave it in the third stall."
+      ]
+    }
+  ]
+}

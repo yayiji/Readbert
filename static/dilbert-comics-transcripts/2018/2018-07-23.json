@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have only two choices, and both of them are bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So we'll do the only smart thing we can do in this situation.",
+        "Choose the path that is least bad?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was going to say pick the path that hurts our enemies the most, but you're ruining it with your talking."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, where's all of our furniture?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your new cleaning person loaded it into his van and drove away... Oh, and he said to tell you he quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think we need to review your job description as watchdog.",
+        "I got his address.",
+        "Send my check to 1348 Oke Walnut To"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2001-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm signing up volunteers to serve food to the homeless on Christmas Day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you know in advance that they'll be extra hungry on that one day?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our P.R. firm makes sure they don't get fed for two days before the news crews arrive."
+      ]
+    }
+  ]
+}

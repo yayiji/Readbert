@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This isn't what I wanted.",
+        "It is, unless you gave me the wrong specs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assumed you would use your common sense to know what I wanted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did your common sense help you make that assumption?"
+      ]
+    }
+  ]
+}

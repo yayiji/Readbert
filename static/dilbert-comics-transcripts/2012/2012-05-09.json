@@ -1,0 +1,31 @@
+{
+  "date": "2012-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And my revenue forecast says...",
+        "Did you make any assumptions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I made a lot of them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then we don't believe your forecast."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can I tell you about it anyway?",
+        "Do whatever makes you feel less absurd."
+      ]
+    }
+  ]
+}

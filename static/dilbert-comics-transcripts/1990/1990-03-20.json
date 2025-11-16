@@ -1,0 +1,26 @@
+{
+  "date": "1990-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ding dong!",
+        "Must be your blind date. I'll let her in."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How's she look?",
+        "Well, you could say she's a full-bodied individual."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You mean she's a little overweight?",
+        "I mean sherpas have established a base camp on her ankles."
+      ]
+    }
+  ]
+}

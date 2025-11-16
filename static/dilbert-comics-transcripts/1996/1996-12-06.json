@@ -1,0 +1,28 @@
+{
+  "date": "1996-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert: Corporate trainer",
+        "Let's go around the room and say who we are and what we hope to get out of the class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm the grim downsizer.",
+        "I'm here to decruit the entire training department plus all of the people who have time to attend classes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My name is Dilbert.",
+        "I'm here in place of Wally who is working hard to build a better tomorrow.",
+        "Nice try.",
+        "I'm somebody else too."
+      ]
+    }
+  ]
+}

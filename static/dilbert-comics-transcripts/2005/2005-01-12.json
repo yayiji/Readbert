@@ -1,0 +1,25 @@
+{
+  "date": "2005-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever feel guilty for scamming innocent people out of their money?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only scam the people who would do the same thing to me if they were smarter."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you use arrogance to cancel guilt?",
+        "It's a good system."
+      ]
+    }
+  ]
+}

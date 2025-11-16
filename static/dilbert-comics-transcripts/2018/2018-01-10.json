@@ -1,0 +1,26 @@
+{
+  "date": "2018-01-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert consults",
+        "Never insult your co-workers directly.",
+        "The company would fire you for that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead, say you heard a rumor but you can't divulge your source."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels wrong.",
+        "Someone told me you're dating your pillow."
+      ]
+    }
+  ]
+}

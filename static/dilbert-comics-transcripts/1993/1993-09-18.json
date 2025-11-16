@@ -1,0 +1,24 @@
+{
+  "date": "1993-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, did you know that your brain automatically coordinates millions of activities every second?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Imagine if it got just a little bit confused—all those neurons firing randomly..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't add much to a conversation, but you're easily the best listener I've ever met.",
+        "Aaaee!"
+      ]
+    }
+  ]
+}

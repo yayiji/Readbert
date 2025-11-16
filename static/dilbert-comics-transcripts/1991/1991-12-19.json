@@ -1,0 +1,27 @@
+{
+  "date": "1991-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've become a newspaper critic.",
+        "Of what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I criticize ordinary people...",
+        "I started with you.",
+        "Hey, here it is..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's this little symbol mean?",
+        "That's a dog sniffing himself... it's like getting one star."
+      ]
+    }
+  ]
+}

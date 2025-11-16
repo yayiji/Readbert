@@ -1,0 +1,25 @@
+{
+  "date": "2006-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Get the user data from Ed.",
+        "That's impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ed is an unreachable. He doesn't answer his phone or return messages. He's never in his cubicle and he doesn't read e-mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does he use the restroom?",
+        "No, we think he modified his briefcase."
+      ]
+    }
+  ]
+}

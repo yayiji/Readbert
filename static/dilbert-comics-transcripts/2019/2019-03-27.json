@@ -1,0 +1,25 @@
+{
+  "date": "2019-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did my detailed explanation answer your question?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I started to lose consciousness about fifteen minutes into it, so I thought of other things while you talked, just to stay awake."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could start over.",
+        "Go ahead.",
+        "I'll be down the hall if you need me."
+      ]
+    }
+  ]
+}

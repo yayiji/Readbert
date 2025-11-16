@@ -1,0 +1,25 @@
+{
+  "date": "2009-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now what do I do?",
+        "Click some buttons and see what happens. You can't hurt anything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Click",
+        "Fzzeet!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In my defense, that hardly ever happens."
+      ]
+    }
+  ]
+}

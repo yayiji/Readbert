@@ -1,0 +1,27 @@
+{
+  "date": "1991-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't mean to sound critical on a first date,",
+        "but there's a little man attached to your back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's Floyd. He's a co-worker who survives by sharing the success of others."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if you're not successful?",
+        "He'll die.",
+        "But hey,",
+        "no pressure."
+      ]
+    }
+  ]
+}

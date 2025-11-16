@@ -1,0 +1,23 @@
+{
+  "date": "2000-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My idea is to change our department name from engineering to..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "e-engineering."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm working on a similar idea for marketing but it's not done yet."
+      ]
+    }
+  ]
+}

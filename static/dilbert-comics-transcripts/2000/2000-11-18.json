@@ -1,0 +1,24 @@
+{
+  "date": "2000-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "These copies you made for me are blank."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because all the originals were blank."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could have checked the other sides.",
+        "Talk to the hand."
+      ]
+    }
+  ]
+}

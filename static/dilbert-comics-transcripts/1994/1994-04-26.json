@@ -1,0 +1,25 @@
+{
+  "date": "1994-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This year, instead of raises we're giving appliances.",
+        "What?!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "High performers could get a color television or a new 'fridge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He called it a \"lava lamp.\"",
+        "I call it a jar of old mayonnaise."
+      ]
+    }
+  ]
+}

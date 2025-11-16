@@ -1,0 +1,25 @@
+{
+  "date": "2022-03-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mordac, the preventer of information services.",
+        "When will you upgrade our internal network?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We're having a conversation about that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't help me at all.",
+        "Spot the pattern."
+      ]
+    }
+  ]
+}

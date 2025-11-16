@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A survey of your TV ad effectiveness shows that no one has heard of your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your ad only says your name once, at the end of a boring commercial when viewers have drifted off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend throwing your ad money into a special kind of hole.",
+        "When can we start?"
+      ]
+    }
+  ]
+}

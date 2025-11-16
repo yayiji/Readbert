@@ -1,0 +1,25 @@
+{
+  "date": "2016-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I started accepting bribes from co-workers to incent me to do my job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If it didn't work for your employer, why do they think it will work for them?",
+        "Something about optimism."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They didn't say why?",
+        "All I know is that no one paid me to listen to them."
+      ]
+    }
+  ]
+}

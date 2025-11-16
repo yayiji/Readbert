@@ -1,0 +1,65 @@
+{
+  "date": "1995-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The clever salesman evaluates his prey.",
+        "Badge",
+        "Visitors sign in"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hope he's an important decision-maker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Take any seat.",
+        "I call the good chair.",
+        "Warning!",
+        "Cubicle!",
+        "Low-ranking employee!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Here's our organization chart: President... Senior Vice President... Vice President..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, lift your foot.",
+        "Do you see that coffee stain on the carpet?",
+        "That's you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, that's my boss.",
+        "I would be under the carpet."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do I have any hope of talking to somebody who can make a decision?",
+        "Let me check."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hey, Wally. What's a \"decision\"?",
+        "It sounds like something our competitors do.",
+        "Sob"
+      ]
+    }
+  ]
+}

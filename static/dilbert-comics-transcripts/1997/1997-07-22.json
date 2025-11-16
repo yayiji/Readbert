@@ -1,0 +1,28 @@
+{
+  "date": "1997-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's your performance review.",
+        "Any questions?",
+        "One."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You talked about yourself for the full hour.",
+        "Can we talk about me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay.",
+        "You don't seem to know that your meeting is over when you see me stand up.",
+        "Ooh."
+      ]
+    }
+  ]
+}

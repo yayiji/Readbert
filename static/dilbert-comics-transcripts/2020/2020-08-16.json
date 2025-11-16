@@ -1,0 +1,54 @@
+{
+  "date": "2020-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When humans were primitive and dumb, they used their superstitions and biases to make decisions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Eventually, science won out, and we evolved to use data and reason to make decisions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd that work out?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not so good."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It turns out that all of our data are unreliable and conflicting."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And we don't have the mental capacity to use reason."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's still better than guessing."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How do you know that?",
+        "You are hard to talk to."
+      ]
+    }
+  ]
+}

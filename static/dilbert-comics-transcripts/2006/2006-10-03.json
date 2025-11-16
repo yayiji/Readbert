@@ -1,0 +1,24 @@
+{
+  "date": "2006-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you start the benchmark tests?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm all over that like a caterpillar on my Sunday pants."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that mean... yes?",
+        "Do birds eat beans to fly faster?"
+      ]
+    }
+  ]
+}

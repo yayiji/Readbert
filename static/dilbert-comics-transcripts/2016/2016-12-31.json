@@ -1,0 +1,30 @@
+{
+  "date": "2016-12-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted's widow asked us to spread his ashes around the office because he loved his job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll do it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You didn't like Ted."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Was that a requirement?",
+        "Don't let anyone see you flush it."
+      ]
+    }
+  ]
+}

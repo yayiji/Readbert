@@ -1,0 +1,23 @@
+{
+  "date": "2012-06-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rocket boosters will move an asteroid into the moon's orbit so we can mine its precious metals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't we mine for precious metals in Afghanistan? They have lots of them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That only happens in science fiction."
+      ]
+    }
+  ]
+}

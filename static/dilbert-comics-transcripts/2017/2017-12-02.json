@@ -1,0 +1,24 @@
+{
+  "date": "2017-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because your financial forecasts were all wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Financial forecasts are always wrong. You told me to make one anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In other words, I nailed it and you failed it.",
+        "Catchy."
+      ]
+    }
+  ]
+}

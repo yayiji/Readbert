@@ -1,0 +1,24 @@
+{
+  "date": "1998-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you able to work while being constantly interrupted?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I would be totally ineffective, just like anyone else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We were done with the section you had to answer honestly.",
+        "Oh. In that case, interruptions make me stronger."
+      ]
+    }
+  ]
+}

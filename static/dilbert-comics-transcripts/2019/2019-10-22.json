@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have the best employees in the entire industry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Except for Ted, obviously."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... what?",
+        "And here comes the attitude."
+      ]
+    }
+  ]
+}

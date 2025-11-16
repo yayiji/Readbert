@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea is ridiculous and it will never work!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, wait... I just realized the real problem here is that I'm a loser who doesn't want anyone else to win."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's something you don't see often.",
+        "Okay, the feeling passed."
+      ]
+    }
+  ]
+}

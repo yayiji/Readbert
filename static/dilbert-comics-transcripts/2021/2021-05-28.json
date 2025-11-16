@@ -1,0 +1,25 @@
+{
+  "date": "2021-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a complaint about the men in the office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All of them?",
+        "Yes, they're all stupid pigs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you be more specific?",
+        "Okay, they're basically Visayan warty pigs in the I.Q. range of 20 to 40."
+      ]
+    }
+  ]
+}

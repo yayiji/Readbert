@@ -1,0 +1,25 @@
+{
+  "date": "2014-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to scientific research, your happiness will not increase if you make more money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Therefore, I can only authorize a raise for you if you renounce science."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say it!",
+        "Say you renounce science!",
+        "El gato diablo!"
+      ]
+    }
+  ]
+}

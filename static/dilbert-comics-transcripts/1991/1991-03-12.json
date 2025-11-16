@@ -1,0 +1,24 @@
+{
+  "date": "1991-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The shredder tried to kill me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, the coffee machine broke, rendering me inattentive..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you suggesting?",
+        "I don't think the shredder acted alone."
+      ]
+    }
+  ]
+}

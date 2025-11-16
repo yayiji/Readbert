@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've contacted my lawyer to sue you for your sexist jokes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your humor is not funny, and there's a good chance it is illegal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just learned that I am criminally unfunny.",
+        "You're always the last to know."
+      ]
+    }
+  ]
+}

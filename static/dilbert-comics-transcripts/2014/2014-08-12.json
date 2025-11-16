@@ -1,0 +1,25 @@
+{
+  "date": "2014-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The project I inherited has weak code.",
+        "I need to rewrite it from scratch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will there ever be an engineer who says, \"That last guy did a great job.",
+        "Let's keep all of it\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm hoping the idiot you hire to replace me says that."
+      ]
+    }
+  ]
+}

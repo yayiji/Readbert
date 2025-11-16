@@ -1,0 +1,54 @@
+{
+  "date": "2005-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This needs to be done right away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "According to the date, you've had this on your desk for three weeks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I'll have to work all weekend to finish it by the deadline!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Sometimes you have to soar with the eagles."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Gaaa!!! You're reading that from the motivational poster behind me!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I have any questions about this, can I call you over the weekend?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My cell phone doesn't work when I'm on my sixty-foot, luxury sailboat."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Ay-yi-yi-yi!!!",
+        "Hey, if you can't take the heat, get out of the... uh... kitchen."
+      ]
+    }
+  ]
+}

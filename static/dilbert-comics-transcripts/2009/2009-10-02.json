@@ -1,0 +1,30 @@
+{
+  "date": "2009-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to go to Elbonia and do some hand-holding while they cut over to the new system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because they're incompetent?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And lonely."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm not comfortable with this.",
+        "Mud wine?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tra-la-la",
+        "La-la-la-",
+        "La!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do",
+        "I need a",
+        "reason?"
+      ]
+    }
+  ]
+}

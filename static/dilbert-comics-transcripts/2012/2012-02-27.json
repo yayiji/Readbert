@@ -1,0 +1,24 @@
+{
+  "date": "2012-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I should drink wine at lunch more often."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm in the mood to tweet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope the down-trodden have a sense of humor.",
+        "Send."
+      ]
+    }
+  ]
+}

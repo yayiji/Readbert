@@ -1,0 +1,24 @@
+{
+  "date": "2020-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you tested this to know it will work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I tested it anecdotally."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what that word means.",
+        "Well played."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1991-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a report that you stayed up late playing with your computer..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Instead of going to sleep like you're supposed to.",
+        "I wasn't tired."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He was resisting a rest."
+      ]
+    }
+  ]
+}

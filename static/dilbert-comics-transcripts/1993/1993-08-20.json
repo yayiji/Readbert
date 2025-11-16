@@ -1,0 +1,25 @@
+{
+  "date": "1993-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the psychic business consultant",
+        "I sense death..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's coming from here. Yes, he's definitely dead."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should bury him. He already smells bad.",
+        "I'll bet this isn't heaven."
+      ]
+    }
+  ]
+}

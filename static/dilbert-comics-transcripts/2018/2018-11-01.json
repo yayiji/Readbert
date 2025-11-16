@@ -1,0 +1,25 @@
+{
+  "date": "2018-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a bonus because you haven't exceeded my expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you expect me to exceed your expectations?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It is logically impossible to exceed your expectations when you expect me to do it.",
+        "No bonus!!!"
+      ]
+    }
+  ]
+}

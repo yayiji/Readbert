@@ -1,0 +1,23 @@
+{
+  "date": "1992-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Since this is the first time you've been to a Mensa meeting, I'll explain a few things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When the music stops we all link arms to simulate the DNA structure of a featured celebrity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To be honest, I think a lot of it is just random."
+      ]
+    }
+  ]
+}

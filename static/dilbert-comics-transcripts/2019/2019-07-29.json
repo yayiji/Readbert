@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I follow all of our internal rules, my project will fail because of delays."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And if I don't follow the rules, you will fire me.",
+        "What should I do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like the option where the project is a success but you're a failure."
+      ]
+    }
+  ]
+}

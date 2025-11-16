@@ -1,0 +1,24 @@
+{
+  "date": "2009-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your powerpoint slides impressed the executives so much that they're changing our entire strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those slides were nothing but a bunch of garbage dressed up to look good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that's what our new product line will be!",
+        "Oh."
+      ]
+    }
+  ]
+}

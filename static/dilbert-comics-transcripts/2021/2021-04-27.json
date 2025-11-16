@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did your Zoom call with the client work out?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I lost all respect for him after seeing his poorly staged bookshelves in the background."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But we'll still take his money, right?",
+        "Yes, he doesn't deserve to keep any of it."
+      ]
+    }
+  ]
+}

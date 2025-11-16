@@ -1,0 +1,27 @@
+{
+  "date": "2000-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can lose weight if you write down all of your meals in a journal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's all I need to do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, if you use our patented weight-loss pencil."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    }
+  ]
+}

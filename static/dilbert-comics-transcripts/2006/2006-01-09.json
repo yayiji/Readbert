@@ -1,0 +1,23 @@
+{
+  "date": "2006-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your résumé looks great. I see no reason you wouldn't be an excellent phone center employee."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Mwab blah glob wobmah tob muh wah wah."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This job got a lot less stressful once I realized I hate our customers."
+      ]
+    }
+  ]
+}

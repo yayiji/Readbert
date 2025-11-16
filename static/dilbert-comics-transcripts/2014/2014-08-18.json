@@ -1,0 +1,25 @@
+{
+  "date": "2014-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Conference call",
+        "Wally, can you take the lead on that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is Ted. I just joined the call. I'll take care of that for Wally.",
+        "Thanks, Ted."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm crushing it today."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1997-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've prepared your pointless presentation for the trade show."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's got the usual time-wasting filler: a graphic of Moore's law, a \"Netscape\" comparison, and ironically..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...it ends with an impassioned reminder to think in new ways.",
+        "Maybe I should give out some awards, too."
+      ]
+    }
+  ]
+}

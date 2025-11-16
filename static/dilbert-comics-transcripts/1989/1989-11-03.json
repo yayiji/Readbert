@@ -1,0 +1,25 @@
+{
+  "date": "1989-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My terrarium experiment is a failure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "By now it should have started its own self-contained weather patterns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "After all this waiting, it's just so...",
+        "So...",
+        "Anticlimactic?"
+      ]
+    }
+  ]
+}

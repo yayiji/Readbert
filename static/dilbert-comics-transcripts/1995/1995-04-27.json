@@ -1,0 +1,40 @@
+{
+  "date": "1995-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Effective immediately,",
+        "we will no longer use",
+        "our spare cubicles to",
+        "house convicts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!!!",
+        "Our",
+        "opinions",
+        "mattered!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, it's",
+        "because the",
+        "prisoners",
+        "complained."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I wonder what he plans",
+        "to do with the spare",
+        "cubicles now."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2010-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you think he's really dead?",
+        "I brought a wooden stake just in case."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Me too, just in case the afterlife rejects him.",
+        "It's legal, right?",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Spouse?",
+        "Did anyone think to bring a mallet?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thwarted the hostile takeover bid, but your CEO died in the process."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll find you someone else to blather about quality while being grossly overpaid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like your look, but can you blather?",
+        "Quality is my global added value!"
+      ]
+    }
+  ]
+}

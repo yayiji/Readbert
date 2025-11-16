@@ -1,0 +1,23 @@
+{
+  "date": "1999-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'm putting you on a team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll be working with other intelligent, highly motivated people plus..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A stubborn dumb guy with a v-neck sweater."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2017-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So, I hear you colluded with our Elbonian competitors."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I was cleared of that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then why's it still in my head?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't know how to respond to that.",
+        "I take that as proof you're guilty."
+      ]
+    }
+  ]
+}

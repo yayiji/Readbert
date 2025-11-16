@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The \"standing desk\" you ordered is here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I scheduled a mover to get rid of it tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Legs... so... tired.",
+        "Don't slip on his tears."
+      ]
+    }
+  ]
+}

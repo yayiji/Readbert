@@ -1,0 +1,24 @@
+{
+  "date": "2016-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Make sure we get all of the cost savings that our vendor promised with our new software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those savings are not real. The vendor lied to you because you know nothing about technology."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If only I had some way to turn my mistake into his mistake.",
+        "It's called a performance review."
+      ]
+    }
+  ]
+}

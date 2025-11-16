@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My team of Dogbert clones has reversed your slumping sales."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your products are still shoddy, but we use mind control to make people not notice."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's all perfectly legal.",
+        "I wasn't going to ask."
+      ]
+    }
+  ]
+}

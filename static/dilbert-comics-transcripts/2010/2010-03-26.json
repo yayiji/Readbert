@@ -1,0 +1,25 @@
+{
+  "date": "2010-03-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new VP",
+        "Don't worry that I wanted your job, or that you have no experience in this field."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't try to sabotage you. In fact, I'll send my best engineer to bring you up to speed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... it's called 4G because it's g-g-g-good.",
+        "Something like that."
+      ]
+    }
+  ]
+}

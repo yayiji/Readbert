@@ -1,0 +1,31 @@
+{
+  "date": "1993-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a loud dog!",
+        "Give me a job!",
+        "You must obey me because I'm loud!",
+        "Okay",
+        "Okay"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That was too easy.",
+        "There must be something wrong with the job.",
+        "It must be an entry level job..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want a raise!!",
+        "Promote me, you imbecile!!",
+        "Bad trend."
+      ]
+    }
+  ]
+}

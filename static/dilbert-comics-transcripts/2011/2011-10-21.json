@@ -1,0 +1,24 @@
+{
+  "date": "2011-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm buying my work clothes at the unisex suit store."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no such thing as a unisex suit store."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You always have to be right.",
+        "That's the pantsuit talking."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2001-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In Elbonia",
+        "Can anyone tell me why your mud delivery business is failing? Anyone?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it because of the general economic slowdown?",
+        "Dot-com meltdown?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And maybe because you sell mud to people who live in mud?",
+        "What if we call it fudge?"
+      ]
+    }
+  ]
+}

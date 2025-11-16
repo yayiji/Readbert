@@ -1,0 +1,23 @@
+{
+  "date": "2021-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Human resources is on my back to make sure everyone uses their vacation days this year. It's a company rule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the point of a vacation if we can't go anywhere because of the pandemic?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm only trying to solve my own problem here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2008-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I can't open that file you e-mailed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sounds like you need to upgrade your viewer application."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which means you'll probably have to upgrade your operating system."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You'd better add some RAM while you're at it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But it probably makes no sense to upgrade your old computer. This is a good time to get a new one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How do I get a new computer?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's easy. I'll send you a file that explains it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Are you sending corrupted files to people again?",
+        "Only if I think they deserve it."
+      ]
+    }
+  ]
+}

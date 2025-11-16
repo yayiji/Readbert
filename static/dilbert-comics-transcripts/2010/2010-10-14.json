@@ -1,0 +1,25 @@
+{
+  "date": "2010-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Customers are complaining that we sold their personal data."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And apparently all of the buyers were identity thieves."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's impossible.",
+        "We checked every buyer's ident...",
+        "Oh."
+      ]
+    }
+  ]
+}

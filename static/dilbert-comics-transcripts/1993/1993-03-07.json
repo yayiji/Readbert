@@ -1,0 +1,66 @@
+{
+  "date": "1993-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see some new faces.",
+        "Let's go around the table and introduce ourselves."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I hate this.",
+        "I'm always afraid I'll forget my name when the pressure is on me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And I've been in the integrated design district for four years.",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People are saying where they work.",
+        "I can't remember the name of my district."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...And there you have it!",
+        "Ha ha!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaagh! Now they're adding witty comments."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm drawing a blank.",
+        "My only chance is to pretend I only speak Norwegian."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Norna borna corna dorna fiord cajorda ha ha ha!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "The amazing thing is that I get paid the same no matter what I do.",
+        "Thank god for that."
+      ]
+    }
+  ]
+}

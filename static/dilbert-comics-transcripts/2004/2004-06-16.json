@@ -1,0 +1,25 @@
+{
+  "date": "2004-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Dilbert, what are you doing for the EBITDA today?",
+        "The what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "EBITDA means the earnings before interest, taxes, depreciation, and um...ammonia."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure about ammonia?",
+        "Why must you be so accretive?"
+      ]
+    }
+  ]
+}

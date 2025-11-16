@@ -1,0 +1,24 @@
+{
+  "date": "2002-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Demoted",
+        "Hey buddy, can you teach me to be one of the little people?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Buddy? My name is Dilbert. I worked for you for years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, now I'll try. Am I doing the eyebrows right?"
+      ]
+    }
+  ]
+}

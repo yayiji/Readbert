@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you know hackers can see you and hear you through the cameras on your digital devices?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In fact, someone with my skills could do it in minutes and never be detected."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What are you trying to tell me?",
+        "It's just something to keep in mind when you do my performance review."
+      ]
+    }
+  ]
+}

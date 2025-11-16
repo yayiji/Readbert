@@ -1,0 +1,29 @@
+{
+  "date": "2007-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do your estimates include tax and shipping?",
+        "Relax, relax, calm down."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's no need to go all nuts about the tax and shipping.",
+        "It's under control.",
+        "Take a deep breath."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "all I asked was...",
+        "Gaaa!",
+        "You're totally losing it now!"
+      ]
+    }
+  ]
+}

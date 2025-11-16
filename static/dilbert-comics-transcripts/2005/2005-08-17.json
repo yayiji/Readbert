@@ -1,0 +1,27 @@
+{
+  "date": "2005-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Topper vs. a customer",
+        "I competed in the Iditarod, an 1,150-mile dogsled race lasting 15 days, over the world's toughest terrain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's nothing.",
+        "I completed the race while pretending to be one of your dogs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now I don't want to buy from your company.",
+        "That's nothing.",
+        "Now I plan to burn my company to the ground!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2009-12-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Morgan: The man with no communication skills",
+        "They decided to do option one."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who is \"they\"? What is option one? And are they testing or implementing?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You just earned yourself a creepy stare until the topic changes.",
+        "Okay, moving on..."
+      ]
+    }
+  ]
+}

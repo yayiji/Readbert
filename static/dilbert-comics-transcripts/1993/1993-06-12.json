@@ -1,0 +1,24 @@
+{
+  "date": "1993-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There... I've organized all of my tasks into \"A,\" \"B\" and \"C\" priorities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The \"A\" priorities aren't even worth doing. And the \"B\" priority stuff would probably get me in trouble."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you done with the stapler oil?",
+        "Thank goodness for \"C\" priorities."
+      ]
+    }
+  ]
+}

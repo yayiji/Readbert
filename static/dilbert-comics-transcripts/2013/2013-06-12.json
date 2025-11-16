@@ -1,0 +1,23 @@
+{
+  "date": "2013-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I can't promote you because the other managers don't know you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because you shut me out of meetings and take credit for my work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds unsolvable."
+      ]
+    }
+  ]
+}

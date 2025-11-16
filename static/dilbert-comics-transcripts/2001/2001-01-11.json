@@ -1,0 +1,25 @@
+{
+  "date": "2001-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The motivation fairy",
+        "If you work hard, you will gain the respect of your peers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I avoid the stress of hard work, I will out-live my peers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hard work can kill me?",
+        "If you're lucky."
+      ]
+    }
+  ]
+}

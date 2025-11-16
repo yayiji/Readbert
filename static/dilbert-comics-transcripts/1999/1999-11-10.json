@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll reduce turnover by showing I care about you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell me about your kids, Asok.",
+        "I don't have any."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's say you do for the sake of this exercise."
+      ]
+    }
+  ]
+}

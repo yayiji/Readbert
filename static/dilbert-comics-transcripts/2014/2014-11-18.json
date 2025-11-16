@@ -1,0 +1,23 @@
+{
+  "date": "2014-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your co-CEO died trying to kitesurf some Class 6 rapids for a publicity stunt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get to the bad part. Is it margins?"
+      ]
+    }
+  ]
+}

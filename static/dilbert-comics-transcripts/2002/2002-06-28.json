@@ -1,0 +1,25 @@
+{
+  "date": "2002-06-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm in a battle of wills with a guy who lets all of his calls roll over to voicemail."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I do that too, so all day long we trade messages saying \"call me,\" and then we ignore the incoming calls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe he's out of the office.",
+        "No, I can hear him.",
+        "He's one cube over from me."
+      ]
+    }
+  ]
+}

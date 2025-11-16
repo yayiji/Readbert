@@ -1,0 +1,23 @@
+{
+  "date": "2012-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, your great work this year saved the company $10 million."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I can't give you a bonus because our CEO plans to write down $500 million for acquisitions gone bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Go team!"
+      ]
+    }
+  ]
+}

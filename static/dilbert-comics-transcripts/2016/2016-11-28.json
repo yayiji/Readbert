@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you get that analysis to me by Tuesday?",
+        "Yes, if I do it poorly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Alternately, I can do it well and miss your deadline by a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That gives me no path to success.",
+        "Welcome to the world's saddest club."
+      ]
+    }
+  ]
+}

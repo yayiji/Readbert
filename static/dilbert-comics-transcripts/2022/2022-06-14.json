@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, you can't work from home every day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why not?",
+        "My co-workers are 80% useless and 20% covid carriers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She had a strong argument."
+      ]
+    }
+  ]
+}

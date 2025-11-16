@@ -1,0 +1,24 @@
+{
+  "date": "2009-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're paying contractors to do work that I could do if I weren't always in unproductive meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You could hire temps to attend the unproductive meetings for me, and fire the more expensive contractors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why don't I understand what you just said?",
+        "Because it made sense?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2000-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I performed many tasks, but I can not claim any accomplishments."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because things might have turned out better had I never been born."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technically, it's true.",
+        "Remind me to slap you later."
+      ]
+    }
+  ]
+}

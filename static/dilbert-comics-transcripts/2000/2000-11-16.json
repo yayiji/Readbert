@@ -1,0 +1,22 @@
+{
+  "date": "2000-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's a pleasure to meet you, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooowee!",
+        "That was a good hand shake."
+      ]
+    }
+  ]
+}

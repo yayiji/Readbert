@@ -1,0 +1,55 @@
+{
+  "date": "2022-09-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you think of my idea?",
+        "It's super bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Give me one good reason it is bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It requires materials that do not exist in nature and never can."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It confuses correlation with causation and is illegal in every country in the world."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It can't be manufactured because of basic laws of physics."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It involves several logical impossibilities and is offensive to every major religion."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It requires forgetting everything we know about human motivation, and it's lethal to everyone under the age of ten."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's what they said to the Wright brothers.",
+        "I hate you so much right now."
+      ]
+    }
+  ]
+}

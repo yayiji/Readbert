@@ -1,0 +1,53 @@
+{
+  "date": "2008-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My management philosophy is \"measure twice, cut once.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That only makes sense in a narrow, and generally archaic, set of conditions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In software development, the item being cut, metaphorically speaking, is often plentiful and inexpensive."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In many cases, the cost of measuring incorrectly is low compared to the time wasted doing two measurements before every action."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your philosophy is better suited for rock carving than web design."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do you have any wise sayings that involve churning your own butter, or putting saddles on dinosaurs?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't bite the hand that feeds you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I have direct deposit."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2007-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new strategy has never worked for anyone before."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That will give us the element of surprise."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's get started!",
+        "Can I rebalance my 401(k) first?"
+      ]
+    }
+  ]
+}

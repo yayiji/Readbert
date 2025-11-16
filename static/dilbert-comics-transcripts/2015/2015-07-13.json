@@ -1,0 +1,30 @@
+{
+  "date": "2015-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're a slave owner now.",
+        "That is unfair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I buy a few elbonians on the internet and suddenly I'm the \"slave owner\" guy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are literally an owner of slaves."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I prefer to think of them as bad negotiators."
+      ]
+    }
+  ]
+}

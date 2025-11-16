@@ -1,0 +1,53 @@
+{
+  "date": "2014-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to figure out why our new product isn't selling well."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's buggy and overpriced."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our competitors sell a far better product at half the price."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Our ads are overtly misleading and vaguely racist."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our product name reminds people of bodily fluids and death."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "People hate us because our CEO has an endangered owl shooting range on his superyacht."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Does anyone have an idea to fix all of that?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe. Do you own an owl costume?"
+      ]
+    }
+  ]
+}

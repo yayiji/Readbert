@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob, I'd like you to be the masseur for my new age miracle spa.",
+        "Dinosaurs don't know much about massage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's okay. Just hurt the clients as much as possible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Won't they get angry?",
+        "Bob, Bob, Bob... you really aren't tuned to the new age, are you?"
+      ]
+    }
+  ]
+}

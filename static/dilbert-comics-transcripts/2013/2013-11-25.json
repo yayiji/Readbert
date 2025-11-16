@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll sell you the rights to use Linux for one million dollars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "After the first month, you only need to pay for every upgrade."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It sounds too good to be true.",
+        "It's not as if I'm giving it away for free."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2004-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got a hefty bonus for being way under budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Effort is no longer rewarded.",
+        "It's all about results, which means mostly luck."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's kinda funny; the only reason I was under budget is that my project was delayed.",
+        "Gaaaa!!!"
+      ]
+    }
+  ]
+}

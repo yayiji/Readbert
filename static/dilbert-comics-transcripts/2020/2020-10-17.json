@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a problem with your compensation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company made so much money during the pandemic, purely by luck, that your bonus would be ten million dollars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I earned it.",
+        "You made zoom calls wearing only socks."
+      ]
+    }
+  ]
+}

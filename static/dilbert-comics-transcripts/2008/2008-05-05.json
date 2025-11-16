@@ -1,0 +1,26 @@
+{
+  "date": "2008-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I count on your cooperation for the next phase of the project?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You emit the musky scent of failure.",
+        "Women can detect that sort of thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would a bath fix it?",
+        "How long are you willing to stay submerged?"
+      ]
+    }
+  ]
+}

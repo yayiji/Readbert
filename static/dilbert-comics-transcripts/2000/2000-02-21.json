@@ -1,0 +1,25 @@
+{
+  "date": "2000-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is Paul Tergeist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have a way with technology.",
+        "System failure"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you met your new lab partner?",
+        "My pen is hovering!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I will study the culture in your company and make detailed recommendations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The one I call Wally is a docile outcast who eats bananas and drinks brown water."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you mind if I staple this tracking device to your ear?",
+        "Not really."
+      ]
+    }
+  ]
+}

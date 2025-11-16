@@ -1,0 +1,25 @@
+{
+  "date": "1990-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Goodbye... I think your \"new age mineral water spa\" has been a complete rip-off!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sorry you feel that way... here's a free gallon of miracle hose water.",
+        "Splosh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're an evil little dog.",
+        "Thirsty?"
+      ]
+    }
+  ]
+}

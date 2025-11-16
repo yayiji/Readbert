@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got kicked out of a North Elbonian labor camp for working too hard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was the first time I had ever experienced meaningful work and I got carried away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And your name is...?",
+        "Seriously? I was gone for one week!"
+      ]
+    }
+  ]
+}

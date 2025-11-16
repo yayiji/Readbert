@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I joined the \"Scientist Anti-Defamation League!\"",
+        "What's that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They fight against the negative stereotypes of technical people that are often portrayed in the media."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You broke my concentration."
+      ]
+    }
+  ]
+}

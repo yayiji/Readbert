@@ -1,0 +1,52 @@
+{
+  "date": "1998-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What the...?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Alice, you know we don't allow anything on cubicle walls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It destroys the acoustic absorption of the fabric."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ouch!! My ears! Don't shout!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're right! I've ruined the acoustic absorption."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It seemed so harmless. I'll remove it immediately!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why is it worse when they agree with me?",
+        "What? Eh?"
+      ]
+    }
+  ]
+}

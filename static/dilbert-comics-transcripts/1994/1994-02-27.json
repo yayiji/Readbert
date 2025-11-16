@@ -1,0 +1,55 @@
+{
+  "date": "1994-02-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's your employee locator device."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sensors in the building will be able to track you at all times."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We'll know how many times you use the restroom and how long."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's a dog collar... the final humiliation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Once you got used to working in cubicles, like gerbils, we knew anything was possible."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "My conformance rationalization mechanisms are kicking in."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's not so bad.",
+        "A collar is simply an efficient design. Everyone is doing it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's not so bad.",
+        "It's powered by this six foot long extension cord."
+      ]
+    }
+  ]
+}

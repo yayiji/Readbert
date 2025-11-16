@@ -1,0 +1,26 @@
+{
+  "date": "2009-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Industry standards meeting in Elbonia.",
+        "Let's adopt my company's specs as the industry standard."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your specifications are weak, and so is your kung fu."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "From that day on, all standards meetings were held in the mud of Elbonia.",
+        "Can't... kick!",
+        "Stupid... mud!"
+      ]
+    }
+  ]
+}

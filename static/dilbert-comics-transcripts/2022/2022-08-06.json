@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I challenge you to a weight loss contest."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're on! That sounds like fun!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think you can win?",
+        "I wasn't planning on trying. It sounds painful."
+      ]
+    }
+  ]
+}

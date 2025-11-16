@@ -1,0 +1,54 @@
+{
+  "date": "2021-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm Dogbert, doctor of the impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does that mean you cure diseases that are believed to be impossible to cure?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, that sounds boring."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I prescribe treatments that are impossible to follow."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "When you fail, and you don't get better, you'll think it's your own fault."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How does that help anyone but you?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hey, I'm not the one who brought it up."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're giving me a headache.",
+        "To cure that, I suggest ice-cold baths every six minutes."
+      ]
+    }
+  ]
+}

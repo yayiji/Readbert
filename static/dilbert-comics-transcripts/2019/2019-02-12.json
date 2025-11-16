@@ -1,0 +1,23 @@
+{
+  "date": "2019-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've developed a super-efficient device that scrubs CO2 out of the air."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But the user has to remember to turn it off after a few days or else it will remove too much CO2 and destroy all life on Earth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, who left this thing unplugged?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2014-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to be more visionary than Elon Musk.",
+        "All he does is build spaceships and electric cars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to build me an electric rocket ship full of robots that can colonize other worlds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which planet should we do first?",
+        "Depends how long the power cord is."
+      ]
+    }
+  ]
+}

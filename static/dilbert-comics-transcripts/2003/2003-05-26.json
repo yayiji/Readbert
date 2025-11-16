@@ -1,0 +1,23 @@
+{
+  "date": "2003-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you summarize this on one page for our CEO?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but it will obliterate the persuasiveness of the document and cost us billions in lost opportunity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see your point, but being wordy is bad, too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2014-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Graphic designer",
+        "I'll do some A-B testing with the design options you provided."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Interestingly, the fact that you can't predict which design will perform best means your skill set is mostly random behavior that you package as talent."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This works better if I'm the only one who knows that."
+      ]
+    }
+  ]
+}

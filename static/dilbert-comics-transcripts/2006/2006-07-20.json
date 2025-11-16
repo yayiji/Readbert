@@ -1,0 +1,30 @@
+{
+  "date": "2006-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I find it rather demotivating that you never praise me for a job well done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've never done a job well."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's because I'm demotivated."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have to go first.",
+        "Wouldn't that make me the leader?"
+      ]
+    }
+  ]
+}

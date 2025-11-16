@@ -1,0 +1,26 @@
+{
+  "date": "2011-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'd better wrap up this meeting because Jenny is a food werewolf.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When she goes too long without eating, she turns into a werewolf.",
+        "Rrrrr"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might be too late.",
+        "Ya think?"
+      ]
+    }
+  ]
+}

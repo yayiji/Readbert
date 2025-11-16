@@ -1,0 +1,55 @@
+{
+  "date": "1992-02-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert!",
+        "Dogbert!",
+        "Thanks for inviting us over."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We thought you'd like to see our home video of little Timmy's birth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We captured every beautiful moment on VHS!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Have you ever seen a Caesarean section before?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The doctor is making the incision!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now they're removing the squiggly thing!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wait... this might be the wrong tape... I think this is your appendectomy video."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Either that or little Timmy isn't very photogenic."
+      ]
+    }
+  ]
+}

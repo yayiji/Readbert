@@ -1,0 +1,24 @@
+{
+  "date": "2014-04-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that while you were acting CEO you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...murdered nine employees, bought an unprofitable start-up and embraced a new management fad that is nothing but ridiculous jargon and wishful thinking."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one likes a show-off.",
+        "I swear it was just luck."
+      ]
+    }
+  ]
+}

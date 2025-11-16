@@ -1,0 +1,24 @@
+{
+  "date": "1994-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm putting you in charge of getting our \"ISO 9000\" certification."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't know what it is, but it looks great on brochures."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think it certifies that we follow a consistent process.",
+        "That's us; we always lie on our brochures."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I golf with your CEO."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For a million dollars I can accidentally bean him with a golf ball."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He always wears a helmet.",
+        "Not in the clubhouse."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1993-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company is a billion dollars below its earnings projections."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on, only the managers at my level or above may eat donuts at company meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This won't be easy for any of us. Heck, I don't even know if I can eat this many donuts."
+      ]
+    }
+  ]
+}

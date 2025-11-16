@@ -1,0 +1,26 @@
+{
+  "date": "2016-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you ever have anxiety because you feel like you're supposed to be in a meeting that you forgot?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You should see a doctor about that.",
+        "I already made...",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was the appointment for today?",
+        "An hour ago."
+      ]
+    }
+  ]
+}

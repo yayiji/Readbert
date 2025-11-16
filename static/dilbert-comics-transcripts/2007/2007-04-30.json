@@ -1,0 +1,23 @@
+{
+  "date": "2007-04-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You might hear some noise from the basement tonight."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I got a big order for running shoes, so I'm making the Elbonians work around the clock."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Here's some pepper spray in case any of them escape."
+      ]
+    }
+  ]
+}

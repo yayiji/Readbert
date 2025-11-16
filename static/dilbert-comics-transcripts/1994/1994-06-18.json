@@ -1,0 +1,28 @@
+{
+  "date": "1994-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Liz, I noticed you're not wearing a ring.",
+        "Would you like to go for a pizza after the game?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, I do have a ring.",
+        "It's so big I can't wear it.",
+        "A team of eunuchs follows me around with it in a special van."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Flop-sweat time.",
+        "You're gullible.",
+        "I like that."
+      ]
+    }
+  ]
+}

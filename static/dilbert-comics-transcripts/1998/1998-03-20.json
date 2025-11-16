@@ -1,0 +1,27 @@
+{
+  "date": "1998-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need a letter of reference to apply for a job in another division.",
+        "No problem."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...For a man of his hygiene, he doesn't steal as much as you'd think.",
+        "I suspect he's on drugs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then he says you're prone to anger and denial.",
+        "Is that true?",
+        "No!!"
+      ]
+    }
+  ]
+}

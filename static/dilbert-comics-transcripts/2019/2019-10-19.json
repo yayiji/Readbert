@@ -1,0 +1,25 @@
+{
+  "date": "2019-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm not good at reading faces.",
+        "What does that one mean?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It means I'm mad at myself for over-sleeping and having to rush to work, so I hate your guts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh. I was guessing it was something about pancakes.",
+        "I probably because I'm hungry."
+      ]
+    }
+  ]
+}

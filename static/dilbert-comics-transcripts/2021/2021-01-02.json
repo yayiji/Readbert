@@ -1,0 +1,25 @@
+{
+  "date": "2021-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My audit of your company has uncovered a number of software vulnerabilities."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, a blackmailer could take control of your network and make you pay a billion dollars to get it back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good work.",
+        "What do we owe you?",
+        "The audit is free. I only did it to find ways to blackmail you."
+      ]
+    }
+  ]
+}

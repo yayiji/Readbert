@@ -1,0 +1,26 @@
+{
+  "date": "1996-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Teambuilding exercise",
+        "This exercise will build trust.",
+        "The partner in front will fall.",
+        "The partner behind will break the fall."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, maybe trust isn't your biggest problem here.",
+        "%*$",
+        "!!#"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2009-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I work from home? There are too many distractions in the office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't you have just as many distractions at your house?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Not unless my idiot couch starts questioning all of my great suggestions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2001-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh... slow-walking women."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't squeeze around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll make footstep noise so they'll notice and move.",
+        "Stomp",
+        "Stomp",
+        "Stomp"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It didn't work.",
+        "They're oblivious slow-walking women!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Time stands still as I wait to take my next step."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Oh no... it's a pair of oblivious slow-walking women."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll throw you over the top.",
+        "Then you open the side door so I can go around."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Third one today.",
+        "Weird."
+      ]
+    }
+  ]
+}

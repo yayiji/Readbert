@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "People keep stealing my ideas!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe that is an illusion caused by the fact that your ideas are both old and obvious."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Were you hoping for a less honest reaction?",
+        "I kinda was."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you getting a lot done on the grandpa box?",
+        "The what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The people in my generation do our work on our phones and tablets."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also have a laptop.",
+        "I'll text the nineties and let them know."
+      ]
+    }
+  ]
+}

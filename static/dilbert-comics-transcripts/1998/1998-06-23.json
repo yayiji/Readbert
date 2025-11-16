@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the C.E.O.",
+        "I need a personal \"gopher.\" Are you interested?",
+        "Sure!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good. You'll wear a special uniform and have a special office to show your status."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sheesh. I haven't made a bank shot yet."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're outsourcing half of our programming work to Elbonia to take advantage of the time difference."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll hand off our requirements at the end of our work day and get back the finished code the next morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Once again, I have no idea what they want.",
+        "Let's pretend we died."
+      ]
+    }
+  ]
+}

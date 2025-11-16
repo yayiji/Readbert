@@ -1,0 +1,55 @@
+{
+  "date": "2020-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I rarely see you working. How do you get away with it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's easy. I just wait a day before answering any texts or emails."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example, here's Alice asking if I can attend a meeting in an hour."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll answer her in the morning and say I didn't see her message."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And here's Dilbert asking me for some data."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Tomorrow, I will text him to ask for clarification, and he will tell me he found the data on his own."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't you feel guilty?",
+        "Nah. They'd do the same to me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And do they?",
+        "They would if I didn't ignore them first."
+      ]
+    }
+  ]
+}

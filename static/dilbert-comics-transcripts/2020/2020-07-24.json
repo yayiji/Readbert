@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I ran the numbers, and your plan does not work under any reasonable set of assumptions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you tried \"unreasonable\" assumptions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would I do that?",
+        "Well, to keep your job, for example."
+      ]
+    }
+  ]
+}

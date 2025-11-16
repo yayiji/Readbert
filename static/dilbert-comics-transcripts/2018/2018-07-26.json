@@ -1,0 +1,25 @@
+{
+  "date": "2018-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to have a drink after work?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't drink.",
+        "How about lunch?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also don't eat. Do you see the pattern yet?",
+        "You're an android?"
+      ]
+    }
+  ]
+}

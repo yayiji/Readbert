@@ -1,0 +1,31 @@
+{
+  "date": "2014-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am always tense and I don't know why."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the tyranny of expectations, Asok."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "People still expect you to add value.",
+        "Competence is a vicious cycle."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can you teach me to be useless like you?",
+        "It's better if I don't so you learn by example."
+      ]
+    }
+  ]
+}

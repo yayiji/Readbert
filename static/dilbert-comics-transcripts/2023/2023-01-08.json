@@ -1,0 +1,54 @@
+{
+  "date": "2023-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm updating my style to a look I call \"crypto hobo.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I ever become a crypto billionaire, I won't need to buy new clothes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And if I lose all of my money in a crypto meltdown and become a hobo, I still won't need to buy new clothes."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "People will take one look at me and assume I have so much money I can wear whatever I want."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm going to lunch at a nice restaurant to test it out."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, what do we have here? You're either a crypto billionaire or a hobo."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I think you're a hobo."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why would you assume the worst?",
+        "I'm assuming the best."
+      ]
+    }
+  ]
+}

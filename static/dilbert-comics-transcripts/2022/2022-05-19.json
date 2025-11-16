@@ -1,0 +1,26 @@
+{
+  "date": "2022-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Anxiety arbitrator",
+        "Tina, I understand you have anxiety from working with Asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And is it true, Asok, that Tina induces anxiety in you?",
+        "So much anxiety."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I rule it a tie. Go back to work and continue killing each other slowly.",
+        "That's fair."
+      ]
+    }
+  ]
+}

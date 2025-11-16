@@ -1,0 +1,24 @@
+{
+  "date": "1993-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whoa whoa! I just got an idea that could change everything..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if we lowered expenses and increased revenues? That could help our financial situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaagh! I can't see!!!",
+        "Sounds like a blinding flash of the obvious, sir."
+      ]
+    }
+  ]
+}

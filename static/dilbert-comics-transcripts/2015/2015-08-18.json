@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented an external brain stimulator to regulate my moods."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means your personality is artificial. How can I be attracted to a fake person?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you saying your baseline personality is an unpleasant drunk?",
+        "What?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "1995-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's time for marketing to put the glitter on this software you've created."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With my guidance this will become the premier data backup software!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bear in mind that we said it would take six months to write it.",
+        "You only gave us a month."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We'll fix the bugs in the next release.",
+        "Tell me about the features."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "At this point all it does is erase your disk drive.",
+        "Unless you're on a network."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What happens if you're on a network?",
+        "It erases everybody's disk drives."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And heaven help you if you have a modem...",
+        "It calls all your friends and erases their PCs."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We'll call it \"QuikProtect.\"",
+        "If you have a sound card it swears at you."
+      ]
+    }
+  ]
+}

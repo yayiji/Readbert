@@ -1,0 +1,25 @@
+{
+  "date": "2009-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You survived the rigorous interview process, but there are no openings in engineering."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "However, I am prepared to offer you a position in sales.",
+        "You mean a job?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, just a position.",
+        "This took an ugly turn."
+      ]
+    }
+  ]
+}

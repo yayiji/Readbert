@@ -1,0 +1,26 @@
+{
+  "date": "2019-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I designed the test device to be held like one would hold a power drill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's stupid. That product can't drill a hole in anything.",
+        "Good point."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's... not... how analogies work.",
+        "And what if I don't need to drill anything?",
+        "Yeah!"
+      ]
+    }
+  ]
+}

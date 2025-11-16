@@ -1,0 +1,57 @@
+{
+  "date": "2005-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked the I.T. department to upgrade my computer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're coming here?!",
+        "We must hide our non-standard equipment!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh.",
+        "Zip!!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So-o-o... this den of non-standardization must be your cubicle."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This non-standard printer is coming with me. And I don't remember that monitor on our list."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I must cleanse your cubicle of non-conformance so the healing can begin."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Surely my upgraded computer will arrive soon."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Months later",
+        "Abacus?",
+        "Please shut up."
+      ]
+    }
+  ]
+}

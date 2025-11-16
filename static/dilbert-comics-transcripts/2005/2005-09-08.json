@@ -1,0 +1,26 @@
+{
+  "date": "2005-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, shred this.",
+        "The shredder is right behind you, next to the fax."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if I do it wrong?",
+        "Only a complete moron could do it wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... I think I might have just faxed our strategy someplace.",
+        "And that's why you never see a water fountain in a men's restroom."
+      ]
+    }
+  ]
+}

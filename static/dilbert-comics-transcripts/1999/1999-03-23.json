@@ -1,0 +1,25 @@
+{
+  "date": "1999-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can't escape the relentless conversation of Hammerhead Bob."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Buwhaha! Your body language can't stop me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where's your personal space now?!",
+        "Sob!",
+        "Ear plugs, Asok! Ear plugs!"
+      ]
+    }
+  ]
+}

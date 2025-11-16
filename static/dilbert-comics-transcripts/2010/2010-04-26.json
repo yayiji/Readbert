@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I cannot meet your arbitrary deadline, so the engineer's code requires me to kill myself with a lightsaber."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But lightsabers haven't been invented yet. The best I can do is annoy myself with a flashlight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you do this in the hall?",
+        "Annoyance before dishonor!"
+      ]
+    }
+  ]
+}

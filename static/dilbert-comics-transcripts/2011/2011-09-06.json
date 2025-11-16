@@ -1,0 +1,25 @@
+{
+  "date": "2011-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you work long hours if needed?",
+        "Yes. It's normal for me to work 14 hours a day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Research shows that working long hours causes people to make bad decisions. So we know you're a bad decision maker."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you a good communicator?",
+        "Is the right answer \"no\"?"
+      ]
+    }
+  ]
+}

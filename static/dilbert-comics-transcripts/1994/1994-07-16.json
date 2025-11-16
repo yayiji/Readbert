@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I guess it's time to go back to my dimly lit cubicle and see if my carpal tunnel has crippled me yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is a lot like my last job as a coal miner, but without the threat of a gas explosion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm moving you to a new cubicle better over by get a Wally.",
+        "canary."
+      ]
+    }
+  ]
+}

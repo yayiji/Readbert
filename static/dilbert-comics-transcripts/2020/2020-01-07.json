@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss is accusing me of not knowing what he was thinking."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to be my lawyer and handle my appeal to the court of stupidity."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Court of stupidity",
+        "The court rules in favor of the bailiff."
+      ]
+    }
+  ]
+}

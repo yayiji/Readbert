@@ -1,0 +1,24 @@
+{
+  "date": "2021-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see you majored in Elbonian literature. Why did you pick that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Elbonia only has six books, and I like to sleep in."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you learn their language?",
+        "No, but it turns out you can judge their books by the covers."
+      ]
+    }
+  ]
+}

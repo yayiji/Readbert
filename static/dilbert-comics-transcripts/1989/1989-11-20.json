@@ -1,0 +1,23 @@
+{
+  "date": "1989-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's an interesting editorial..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This guy says we should increase the pay of congressmen to remove incentive for them to engage in illegal acts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "By that theory, criminals aren't bad, just underpaid."
+      ]
+    }
+  ]
+}

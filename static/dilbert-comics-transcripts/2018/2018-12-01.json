@@ -1,0 +1,29 @@
+{
+  "date": "2018-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Cheryl, the other employees are complaining that you're a workplace bully."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hand over your wallet or else I'll tell your boss you tried to give me a shoulder rub."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you talk to her?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't ever ask me to do anything for you again."
+      ]
+    }
+  ]
+}

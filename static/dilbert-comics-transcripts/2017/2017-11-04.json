@@ -1,0 +1,30 @@
+{
+  "date": "2017-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We removed the neural interface to your brain. Do you remember anything we made you do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, not a thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's probably for the best."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Did I break any laws?",
+        "Not according to the cop you dated for three days."
+      ]
+    }
+  ]
+}

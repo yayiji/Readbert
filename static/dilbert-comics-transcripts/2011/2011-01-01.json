@@ -1,0 +1,25 @@
+{
+  "date": "2011-01-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a list of demands for your new year's resolutions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thou shalt not fill up the dvr with geeky science shows.",
+        "Thou shalt not snore like an asthmatic cow..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't know other people could impose resolutions on me.",
+        "It's a new thing."
+      ]
+    }
+  ]
+}

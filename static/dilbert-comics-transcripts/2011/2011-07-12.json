@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You fascinate me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think I speak for all of your followers on Twitter when I say we want more, more, more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't use Twitter.",
+        "I just used it to keep my boss busy."
+      ]
+    }
+  ]
+}

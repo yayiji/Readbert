@@ -1,0 +1,25 @@
+{
+  "date": "2010-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I added my name to your patent application.",
+        "What?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could have stopped you from working on it, but I didn't. I'm like an artist who understands negative space."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you know what negative space is, Dilbert?",
+        "I'm living in it!!!"
+      ]
+    }
+  ]
+}

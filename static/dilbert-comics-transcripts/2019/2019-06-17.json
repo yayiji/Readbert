@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you read my suggestions on the user interface?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, but we'll need a bigger budget if you want to make the user interface so easy that even you can use it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Just make it so the average idiot can use it.",
+        "We did, but we didn't anticipate any below-average idiots."
+      ]
+    }
+  ]
+}

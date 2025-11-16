@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, have you been successful on your projects while working at home?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not remotely."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by that you mean you went into the office and did not work remotely?",
+        "Okay, sure."
+      ]
+    }
+  ]
+}

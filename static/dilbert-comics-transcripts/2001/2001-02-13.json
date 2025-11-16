@@ -1,0 +1,40 @@
+{
+  "date": "2001-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is that work?",
+        "I can't see",
+        "what's on the",
+        "screen."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If he sees me",
+        "I'll pretend I'm",
+        "in mid-stride,",
+        "just passing by."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The",
+        "small",
+        "font is",
+        "working."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Muscles",
+        "cramping.",
+        "Good."
+      ]
+    }
+  ]
+}

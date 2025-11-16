@@ -1,0 +1,24 @@
+{
+  "date": "2007-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you signed Ted's get well card yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't leave that here. Ted passed away two weeks ago. How long have you had the card on your desk?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you signed Ted's get well card yet?",
+        "Put it on the pile."
+      ]
+    }
+  ]
+}

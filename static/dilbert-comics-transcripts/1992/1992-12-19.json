@@ -1,0 +1,25 @@
+{
+  "date": "1992-12-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm testing a growth formula at the lab."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm so happy. I've often thought that the only thing better than a rat in the house is a giant rat in the house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yesterday I would have been miffed at your sarcasm.",
+        "But that wouldn't be \"big\" of me.",
+        "Better yet, a giant, witty rat."
+      ]
+    }
+  ]
+}

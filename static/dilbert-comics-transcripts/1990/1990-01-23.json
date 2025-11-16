@@ -1,0 +1,23 @@
+{
+  "date": "1990-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Normally I'd give you six months to live."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we're having a \"50% off sale\" today, so I'll give you a full year for the same price."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you get an extra ten days if you pay cash!"
+      ]
+    }
+  ]
+}

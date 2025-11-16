@@ -1,0 +1,23 @@
+{
+  "date": "2003-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an unimportant project, so I thought of you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Find a bunch of inspirational quotes that we can put on the lobby walls."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If being an eagle is such a good idea, why are there so few of them?"
+      ]
+    }
+  ]
+}

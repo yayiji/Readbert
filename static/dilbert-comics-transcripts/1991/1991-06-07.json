@@ -1,0 +1,25 @@
+{
+  "date": "1991-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Palm reading $20",
+        "Your life line is very short."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can get you a few more years by extending the line with this grease pencil."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Someday I should go back and have her lengthen my intelligence line too.",
+        "I'd hurry."
+      ]
+    }
+  ]
+}

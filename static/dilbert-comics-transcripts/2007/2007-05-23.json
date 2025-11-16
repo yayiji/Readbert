@@ -1,0 +1,23 @@
+{
+  "date": "2007-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a productive time at the management retreat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We golfed as hard as we could until we came up with a new vision for the company!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But no one wrote it down, so we're going to try again next month."
+      ]
+    }
+  ]
+}

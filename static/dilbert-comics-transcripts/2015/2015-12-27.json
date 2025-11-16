@@ -1,0 +1,54 @@
+{
+  "date": "2015-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to join me on a sales call to tell my customer how easy it will be to switch to our software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It isn't easy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is a sales call. All you need to do is say everything will be easy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What happens when they find out it isn't easy?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They won't find out until after they pay us."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What will you do when they complain?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'll tell your boss you misled them."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Not if I warn him first!",
+        "Too late. I already told him you're a liar."
+      ]
+    }
+  ]
+}

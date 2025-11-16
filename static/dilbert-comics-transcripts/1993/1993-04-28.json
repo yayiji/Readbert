@@ -1,0 +1,24 @@
+{
+  "date": "1993-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "After that tragic story we have an even more tragic update on a previously reported tragedy, then..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll tell you about people who got killed by the weather.",
+        "And in sports we profile the injury of the week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And in local news, not much was happening, so we drove the news van around until we hit a pedestrian."
+      ]
+    }
+  ]
+}

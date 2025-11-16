@@ -1,0 +1,24 @@
+{
+  "date": "2011-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing fake press releases for imaginary new green energy technologies."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Scientists say that by 2040 you will be able to power your entire home with the breeze from your refrigerator door."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now how will I know which green breakthroughs are real?",
+        "Seriously? You think there are real ones?"
+      ]
+    }
+  ]
+}

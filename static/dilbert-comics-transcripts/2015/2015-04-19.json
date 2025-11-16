@@ -1,0 +1,94 @@
+{
+  "date": "2015-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How to eat lunch",
+        "Lunch?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. Where do you want to go?",
+        "Well, let's see..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No... no... no...",
+        "No... no... no...",
+        "No... no... no..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You're slow.",
+        "Let me check!",
+        "No... no... no...",
+        "No... no... no...",
+        "No... no... no..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No... no... no...",
+        "No... no... no...",
+        "No... no... no..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No... no",
+        "No... no",
+        "No... no"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How about this...",
+        "No, bad review."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How about this...",
+        "No, they have no tables."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "45 minutes later",
+        "Show me food!"
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "Food!",
+        "Food!",
+        "Food!"
+      ]
+    },
+    {
+      "panel": 11,
+      "dialogue": [
+        "Time to make some billion-dollar decisions."
+      ]
+    },
+    {
+      "panel": 12,
+      "dialogue": [
+        "I'm going feral!"
+      ]
+    }
+  ]
+}

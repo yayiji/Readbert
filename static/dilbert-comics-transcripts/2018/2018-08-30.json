@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A few months ago, I realized my staff was unmotivated and working on all the wrong things."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It took all of my leadership skills to get them motivated again."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are they still doing the wrong things?",
+        "Faster than ever."
+      ]
+    }
+  ]
+}

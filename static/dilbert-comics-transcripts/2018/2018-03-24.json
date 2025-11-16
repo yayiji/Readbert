@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've been promising me you'd finish the web page for the last six months."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is your fault for not giving me an artificial deadline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I need it by end of day.",
+        "And miss my dental appointment???"
+      ]
+    }
+  ]
+}

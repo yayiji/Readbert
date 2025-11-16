@@ -1,0 +1,54 @@
+{
+  "date": "2014-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Great leaders set high standards and stay out of the way.",
+        "So..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want you to build a fusion-powered robot that can run faster than the speed of light!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "While you're doing that, I'll be staying out of your way."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You won't see me or hear from me. I won't even respond to email."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is there a budget for this impossible project?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Sheesh! Look who needs to be micromanaged!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now I can't go hide. You've ruined my leadership!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's hard to be a great leader when all of my followers are so needy."
+      ]
+    }
+  ]
+}

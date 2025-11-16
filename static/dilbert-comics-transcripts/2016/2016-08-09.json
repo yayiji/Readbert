@@ -1,0 +1,25 @@
+{
+  "date": "2016-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is Alice always so angry?",
+        "It's a function of her unrealistic expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm never disappointed because I expect people to be ignorant, self-absorbed, and useless."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Present company excluded?",
+        "And there it is."
+      ]
+    }
+  ]
+}

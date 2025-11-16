@@ -1,0 +1,54 @@
+{
+  "date": "2014-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see my email about the eight things that successful people do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes. I did all eight things and now I'm a huge success."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, you're not.",
+        "I'm not?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How's that possible? I did all of the things that successful people do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "This only makes sense if the inspirational links you send me every day are a complete waste of time!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So which one is it? Am I a huge success or do you email me worthless things?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe we should just change the subject."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is that what successful people do?"
+      ]
+    }
+  ]
+}

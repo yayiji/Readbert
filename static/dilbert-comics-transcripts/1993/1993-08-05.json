@@ -1,0 +1,23 @@
+{
+  "date": "1993-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You know, as a rat I'm far more likely to survive a major environmental calamity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And there's no shortage of potential disasters — you've got global warming, ozone depletion, air pollution..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I try on one of your shirts?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2006-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Loud Howard, I'm planning a reorg and I need you to..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A reorg?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Keep it to yourself."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can do!"
+      ]
+    }
+  ]
+}

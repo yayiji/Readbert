@@ -1,0 +1,24 @@
+{
+  "date": "2023-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Set up a meeting with some random department in the company so it seems as if I care about people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them to give me a technology demonstration of some sort. The cubicle rats love that sort of thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did you call us?",
+        "I said, \"Most valuable assets.\" What did it sound like?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO wants to promote you to chief economist because nothing you say makes sense."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He thinks that's the sign of a great economist.",
+        "It totally is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say something smart.",
+        "Whoa! I don't want to create an over-supply of wisdom."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2012-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to stop pretending our products are always on sale and instead offer low prices all the time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The average person is smart enough to know that our so-called sale prices are our normal prices anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you ever talked to an average person?",
+        "Tell me again why we're raising all of our prices?"
+      ]
+    }
+  ]
+}

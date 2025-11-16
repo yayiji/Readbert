@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you ever wonder about your purpose in life?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My purpose is to transport huge quantities of coffee from the coffee maker to a urinal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suddenly I am filled with despair.",
+        "Hey, while you're up..."
+      ]
+    }
+  ]
+}

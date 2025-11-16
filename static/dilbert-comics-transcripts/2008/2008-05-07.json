@@ -1,0 +1,26 @@
+{
+  "date": "2008-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Use the CRS database to size the market.",
+        "That data is wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then use the SIBs database.",
+        "That data is also wrong."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you average them?",
+        "Sure. I can multiply them too."
+      ]
+    }
+  ]
+}

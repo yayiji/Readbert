@@ -1,0 +1,25 @@
+{
+  "date": "1989-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Okay, where are these so-called upholstergeist?",
+        "In the living room."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You turn on the VCR. I'll get the Jane Fonda workout tape!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaagh!",
+        "The exercist!"
+      ]
+    }
+  ]
+}

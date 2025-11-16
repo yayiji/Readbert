@@ -1,0 +1,26 @@
+{
+  "date": "1999-03-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'll need to do a hard reboot.",
+        "Listen carefully."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rent a van and fill it with stolen dynamite.",
+        "Park it near the power company's main relay station."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can we talk?",
+        "...Now aim the bazooka at the van."
+      ]
+    }
+  ]
+}

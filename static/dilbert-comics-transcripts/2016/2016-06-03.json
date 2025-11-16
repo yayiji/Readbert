@@ -1,0 +1,24 @@
+{
+  "date": "2016-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't decide if I want to vote for the liar with the budget plan that doesn't add up or..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...the other liar with a budget plan that doesn't add up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you tried using your ignorance to figure out which one is lying the least?",
+        "Ooh, that could work."
+      ]
+    }
+  ]
+}

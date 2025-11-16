@@ -1,0 +1,24 @@
+{
+  "date": "2017-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're moving to an agile methodology for software development."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't know all of the details, but I think one of you has to be designated the scrumbag."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that sound right?",
+        "It's better than I expected."
+      ]
+    }
+  ]
+}

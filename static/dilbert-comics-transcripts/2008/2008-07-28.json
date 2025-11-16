@@ -1,0 +1,25 @@
+{
+  "date": "2008-07-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Will you represent me in my lawsuit against my CEO?",
+        "Under one condition."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You must do everything I ask, without question or hesitation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if you tell me to do painful things for your amusement?",
+        "If?"
+      ]
+    }
+  ]
+}

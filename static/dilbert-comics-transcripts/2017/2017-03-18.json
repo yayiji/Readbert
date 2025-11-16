@@ -1,0 +1,26 @@
+{
+  "date": "2017-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I play devil's advocate on this?",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Die! Die! Die!",
+        "Suffer and burn forever!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was that?",
+        "Better than I expected."
+      ]
+    }
+  ]
+}

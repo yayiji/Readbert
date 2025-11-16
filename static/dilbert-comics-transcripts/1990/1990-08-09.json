@@ -1,0 +1,25 @@
+{
+  "date": "1990-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A patient from the prison disappeared after your appendectomy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Tiny Tom\" is a master of escape. We think he crawled into your torso during the operation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's stupid.",
+        "How would he get out?",
+        "Ever see the movie \"Alien\"?"
+      ]
+    }
+  ]
+}

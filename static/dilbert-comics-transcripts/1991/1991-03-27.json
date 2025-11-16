@@ -1,0 +1,25 @@
+{
+  "date": "1991-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yo!",
+        "Mutt!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need an excuse for not doing my homework.",
+        "Chew on this assignment sheet and I'll say \"A dog ate it.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A dog made me eat it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I object to the blatant ageism that is holding me back!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, I'll make sure we stop doing that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was that easy?",
+        "I figure you'll die of old age in a few months anyway."
+      ]
+    }
+  ]
+}

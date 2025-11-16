@@ -1,0 +1,56 @@
+{
+  "date": "1999-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Blah blah blah",
+        "I'll have to be proactive to escape this boring meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll fake my own death and hope someone drags me into the hallway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aack!! My coffee is poisoned!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe we should drag him into the hallway.",
+        "No."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Let's wait for him to stiffen. Then he'll be easier to drag."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We should pose him before he stiffens."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Something obscene?",
+        "Or spread eagle, so he won't fit in a casket."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It never pays to be the proactive one."
+      ]
+    }
+  ]
+}

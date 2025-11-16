@@ -1,0 +1,32 @@
+{
+  "date": "1998-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new guy isn't working out.",
+        "Why not?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe because he has no head."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, you think I made a mistake hiring him?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... no.",
+        "But the new guy thinks so.",
+        "Then he's fired for insubordination!"
+      ]
+    }
+  ]
+}

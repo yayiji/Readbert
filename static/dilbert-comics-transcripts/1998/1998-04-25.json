@@ -1,0 +1,29 @@
+{
+  "date": "1998-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ahh... sweet cubicle,",
+        "I have returned",
+        "from my trip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's just like",
+        "being in a",
+        "womb."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just wanted",
+        "to poke my head",
+        "in and say hi."
+      ]
+    }
+  ]
+}

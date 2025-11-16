@@ -1,0 +1,29 @@
+{
+  "date": "2001-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your stock will rise if a stock analyst says good things about your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How is that even possible?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One word: weasels."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I just found my new pick-and-shovel core holding."
+      ]
+    }
+  ]
+}

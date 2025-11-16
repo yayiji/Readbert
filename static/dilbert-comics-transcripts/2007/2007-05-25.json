@@ -1,0 +1,24 @@
+{
+  "date": "2007-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm so busy it feels as if my head will explode.",
+        "Ted, one more thing..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Kaboom!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Clean up on aisle three."
+      ]
+    }
+  ]
+}

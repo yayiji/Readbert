@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long will it take to fix the bugs in our control management software?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you want a realistic estimate that will ruin your day, or a lie that will allow your ignorance and your happiness to lock arms and square dance to the next cubicle?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That second option sounds festive.",
+        "I'm a pleaser."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm promoting Ted for coming up with a genius idea to reduce our software expenses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That was actually my idea. All Ted did was tell you it was his idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you put up with these bitter losers?",
+        "The promotion helps."
+      ]
+    }
+  ]
+}

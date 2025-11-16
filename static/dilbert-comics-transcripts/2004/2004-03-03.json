@@ -1,0 +1,27 @@
+{
+  "date": "2004-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, two things:",
+        "First, I got transferred to a new job,",
+        "and that means your job here is eliminated."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why must I suffer for your massive incompetence?",
+        "You worthless pile of stinkin' crud!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the second thing?",
+        "I'll need a secretary at the new job."
+      ]
+    }
+  ]
+}

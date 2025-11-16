@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The engineering department is finishing all of their projects early and we don't know why."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them to do a PowerPoint presentation at the next executive retreat to share their methods."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now it's my turn to use the dead boss hand puppet!",
+        "Uh-oh."
+      ]
+    }
+  ]
+}

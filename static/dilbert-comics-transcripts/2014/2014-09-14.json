@@ -1,0 +1,54 @@
+{
+  "date": "2014-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, people are uncomfortable with your communication style."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did someone complain?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. I'm picking it up in their body language."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So... people have bad posture and that means I don't say things right?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Call it a gut feeling."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ohhhh. That sounds rational."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's toss some feng shui into the equation and maybe get a psychic to contact the dead to see what they say about me."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Or maybe everyone could stop being whiny babies!",
+        "Oh, wait, I see it now."
+      ]
+    }
+  ]
+}

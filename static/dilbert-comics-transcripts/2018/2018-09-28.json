@@ -1,0 +1,30 @@
+{
+  "date": "2018-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll be ready by your deadline if everyone does their jobs in a timely fashion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How often does that happen?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It has never happened."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then you're saying you won't be ready by the deadline.",
+        "Why must you be so negative?"
+      ]
+    }
+  ]
+}

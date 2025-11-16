@@ -1,0 +1,25 @@
+{
+  "date": "2016-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to research this.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This task is so boring that I'm worried my brain will try to escape out of my ear holes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not a real thing, is it?",
+        "Ow! It's starting!"
+      ]
+    }
+  ]
+}

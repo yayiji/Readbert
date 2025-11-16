@@ -1,0 +1,24 @@
+{
+  "date": "2019-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ever since the parody inversion, no one can tell the difference between jokes and reality."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need you to get buy-in on this proposal from all thirteen department heads by tomorrow."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that real or parody?",
+        "I think they're the same now."
+      ]
+    }
+  ]
+}

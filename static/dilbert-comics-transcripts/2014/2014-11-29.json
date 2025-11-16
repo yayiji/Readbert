@@ -1,0 +1,24 @@
+{
+  "date": "2014-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I feel so rested and relaxed after my vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wonder how long the afterglow will last because...",
+        "Excuse me while I check this text message..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it too late to start timing it?"
+      ]
+    }
+  ]
+}

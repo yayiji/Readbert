@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you were going to jail for murdering the clients of your cryogenic investment firm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I argued that my clients were already dead. The judge reduced the charge to \"aggressive littering.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You kicked two-hundred unfrozen brains into the river.",
+        "You sound just like that angry prosecutor."
+      ]
+    }
+  ]
+}

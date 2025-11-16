@@ -1,0 +1,26 @@
+{
+  "date": "2007-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I analyzed the DNA of all of your applicants to find the best fit for the job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The most qualified applicant who is willing to work for you has three ears, a snout, and a life expectancy of Thursday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dilbert, meet the new guy.",
+        "And do it quickly.",
+        "Cough",
+        "Cough"
+      ]
+    }
+  ]
+}

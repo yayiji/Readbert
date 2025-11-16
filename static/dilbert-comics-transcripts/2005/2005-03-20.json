@@ -1,0 +1,55 @@
+{
+  "date": "2005-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I missed the introductions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll use my manager instinct to figure out who's important."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only a senior executive could get away with looking so disengaged."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'll mirror his mannerisms so he'll like me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Now for a witty side comment."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ha ha! That will happen when monkeys fly out of my nose."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No reaction! He must be so important that he has no sense of humor!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I pledge my loyalty to you and only you!!!",
+        "I heard that you pledged your loyalty to a dead guy.",
+        "At least he won't ask for much."
+      ]
+    }
+  ]
+}

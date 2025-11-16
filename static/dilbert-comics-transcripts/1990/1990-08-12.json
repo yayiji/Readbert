@@ -1,0 +1,49 @@
+{
+  "date": "1990-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Want to hear some engineer jokes?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How many engineers does it take to change a lightbulb?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Six: One to hold the bulb and five to argue about how to rotate it on this side of the equator. Hee hee..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What's the difference between a fungus and an engineer?",
+        "A fungus can grow on you... Hee hee!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What do you call a dog that's been run over by a steamroller?",
+        "Spot."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We were having such a good time until he started getting personal."
+      ]
+    }
+  ]
+}

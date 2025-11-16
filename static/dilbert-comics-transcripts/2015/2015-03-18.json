@@ -1,0 +1,24 @@
+{
+  "date": "2015-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're looking at the new vice president of zombie projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The projects that will neither succeed nor be canceled are transferred to me so the other VPs avoid their taint."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I guess that makes you the company taint.",
+        "I wear that label proudly."
+      ]
+    }
+  ]
+}

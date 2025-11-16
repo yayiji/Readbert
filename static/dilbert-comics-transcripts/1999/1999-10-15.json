@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your compensation is related to the number of people you manage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Likewise, my career as director of human resources depends on the quantity of employees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's as if there were a conspiracy to hire hordes of incompetent employees."
+      ]
+    }
+  ]
+}

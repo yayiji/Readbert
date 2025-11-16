@@ -1,0 +1,55 @@
+{
+  "date": "2020-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll be in your neighborhood Saturday. Maybe I'll stop by."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not falling for that trick."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What trick?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The trick where you give me an estimated time and then push it back seven times until you cancel."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll be stuck waiting at home until my whole day is wasted."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I promise I won't do that. I'll stick to the time."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What time is that?",
+        "Depends how my day goes."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And so it begins.",
+        "I'll text you if I'm running late."
+      ]
+    }
+  ]
+}

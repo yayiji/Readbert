@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My records show you completed the online training for diversity and inclusion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently, you did not know we can detect it when you have the sound muted during the entire course.",
+        "Oops."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can do that?",
+        "No, but I can trick most of you idiots into confessing."
+      ]
+    }
+  ]
+}

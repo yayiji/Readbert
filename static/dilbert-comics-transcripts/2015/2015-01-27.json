@@ -1,0 +1,28 @@
+{
+  "date": "2015-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It takes money to make money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then... where did the first money come from?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "God?",
+        "Don't let him hear doubt in your voice."
+      ]
+    }
+  ]
+}

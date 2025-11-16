@@ -1,0 +1,55 @@
+{
+  "date": "1996-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Where's Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you gullible? Do you spend money on stupid stuff?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Call the \"Dogbert gullible friends hotline\" for help. Only four dollars per minute."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hello, Dogbert. I bought an exercise machine and I'm still lazy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Please hold.",
+        "Okay!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Call now, and I'll replace your old television with a new one that looks just like it, while you sleep!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If you don't have a touch tone phone, stay on the line...",
+        "Until you get one."
+      ]
+    }
+  ]
+}

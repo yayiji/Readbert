@@ -1,0 +1,56 @@
+{
+  "date": "2008-12-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This workstation is still logged in to the network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's time to teach someone a lesson about security."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll just go in here and..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Warning! Warning! Idiot alert!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Activating defensive wedgie system."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Beep",
+        "Beep",
+        "I have to go. Some idiot violated my perimeter."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Please make it stop.",
+        "Then how would you learn?"
+      ]
+    }
+  ]
+}

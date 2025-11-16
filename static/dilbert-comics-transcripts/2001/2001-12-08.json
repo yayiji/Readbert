@@ -1,0 +1,25 @@
+{
+  "date": "2001-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to hire people who won't be a threat to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The Dogbert recruitment agency specializes in the placement of clueless people with bad hair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know...",
+        "They still look threatening.",
+        "Perhaps I can interest you in our cadaver program."
+      ]
+    }
+  ]
+}

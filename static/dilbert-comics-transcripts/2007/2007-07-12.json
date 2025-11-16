@@ -1,0 +1,25 @@
+{
+  "date": "2007-07-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, set up a dinner for all key employees.",
+        "Which ones are key?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would be everyone except um... you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I curse your dinner!",
+        "I'll bring you some mints... if they have extras."
+      ]
+    }
+  ]
+}

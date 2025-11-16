@@ -1,0 +1,25 @@
+{
+  "date": "2001-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your idea won't work.",
+        "No one would buy this kind of product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We already sell ten million of these per year.",
+        "My idea just makes them better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Exactly!!"
+      ]
+    }
+  ]
+}

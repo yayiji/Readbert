@@ -1,0 +1,55 @@
+{
+  "date": "2009-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our next presenter is Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I put together a slide show and video."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "While it's running, I'll perform a humorous rap song about the benefits of our product."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then each of you will wear a funny hat and participate in a skit."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Later we'll enjoy a ventriloquist who dresses in a beaver suit and threatens to eat his dummy."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We'll top it off with a trivia contest, prizes, and fire-works in the atrium."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What can you do in two minutes?",
+        "We need to catch a plane."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I should have gone with the slide show.",
+        "Mmph"
+      ]
+    }
+  ]
+}

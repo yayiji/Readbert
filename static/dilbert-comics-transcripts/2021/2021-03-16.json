@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Human resources is doing keyboard audits on all remote workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Looks like you have a keyboard right there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mmm-mmm!",
+        "Will this take long?"
+      ]
+    }
+  ]
+}

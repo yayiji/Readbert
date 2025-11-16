@@ -1,0 +1,24 @@
+{
+  "date": "2007-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm making you a sales engineer.",
+        "You'll be paid on commission."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When our sales reps lie, it will be your job to make it look like the truth."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try to avoid facts."
+      ]
+    }
+  ]
+}

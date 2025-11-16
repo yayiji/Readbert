@@ -1,0 +1,24 @@
+{
+  "date": "2002-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If we can put a man on the moon, we can build a computer made entirely of recycled paper."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your flawed analogy only shows that other people can do other things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you should call other people and ask how they do it.",
+        "Maybe they use good analogies."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1992-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sign me up, little doggie-dude.",
+        "Dogbert's driving school"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'll begin with a film about gruesome highway accidents. It is intended to shock you into driving safely."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really? People get shocked by this?",
+        "I'll be following your car in a helicopter."
+      ]
+    }
+  ]
+}

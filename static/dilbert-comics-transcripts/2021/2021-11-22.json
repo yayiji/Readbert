@@ -1,0 +1,25 @@
+{
+  "date": "2021-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can we meet for lunch so I can show you our new line of products?",
+        "Show it to me by email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't do that because no one buys our products unless we lie in person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about I send our most attractive salesperson to have lunch with you?",
+        "That'll work."
+      ]
+    }
+  ]
+}

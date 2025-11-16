@@ -1,0 +1,30 @@
+{
+  "date": "2020-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I forwarded your email to Ted.",
+        "What?!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I said bad things about Ted! That was a private email to you!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He needed to know."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "He did not need to know!"
+      ]
+    }
+  ]
+}

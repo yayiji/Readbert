@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, did you booby-trap your cubicle?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The question is, why are you in my cubicle?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I promise to never again borrow your guest chair?"
+      ]
+    }
+  ]
+}

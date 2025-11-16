@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear there's a great job opening in operations for someone with your background."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Big salary, private office. Looks like a great opportunity for you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you trying to get rid of me?",
+        "Not in a way you are supposed to notice."
+      ]
+    }
+  ]
+}

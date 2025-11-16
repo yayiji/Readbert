@@ -1,0 +1,25 @@
+{
+  "date": "2021-06-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian hackers stole our employee performance ranking database, and now they demand a ransom payment to give it back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They can keep it.",
+        "We've been ranking employees solely on their haircuts for years, and no one has complained yet."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "We will speak of this no more."
+      ]
+    }
+  ]
+}

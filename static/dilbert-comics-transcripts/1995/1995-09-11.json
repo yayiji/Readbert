@@ -1,0 +1,24 @@
+{
+  "date": "1995-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "As director of human resources I've been asked to reduce the cost of employee benefits."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company will no longer pay for eyeglasses. But we will support a new vision-correction procedure."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Radial keratotomy?",
+        "Squinting."
+      ]
+    }
+  ]
+}

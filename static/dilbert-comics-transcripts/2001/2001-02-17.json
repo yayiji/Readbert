@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news: the deadline got pushed back a week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good news?! I've been working for forty hours straight to finish on time!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just realized I don't know the difference between good news and bad news."
+      ]
+    }
+  ]
+}

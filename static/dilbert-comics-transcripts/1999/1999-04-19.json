@@ -1,0 +1,23 @@
+{
+  "date": "1999-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good morning!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I said, good morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I convince them they don't exist, I won't have to pay them."
+      ]
+    }
+  ]
+}

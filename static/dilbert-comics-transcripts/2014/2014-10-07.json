@@ -1,0 +1,23 @@
+{
+  "date": "2014-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They say curiosity is a sign of a nimble intellect."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Curiosity killed the cat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That evidence was anecdotal, but I still found it compelling."
+      ]
+    }
+  ]
+}

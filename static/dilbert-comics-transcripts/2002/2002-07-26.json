@@ -1,0 +1,26 @@
+{
+  "date": "2002-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you finish the vendor comparison that you promised you'd give me today?",
+        "No"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm one of those people that needs to be threatened every day or I won't do anything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're very defective.",
+        "Good start.",
+        "I'm beginning to feel something."
+      ]
+    }
+  ]
+}

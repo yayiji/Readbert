@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a brain stimulator to keep my brain from atrophying during conversations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell me something about your hobbies so I can test it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, I'm a foodie.",
+        "Do you like cheese? It's working!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2019-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I sent you an email with three options, and you replied \"yes.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't remember it. Send it to me again.",
+        "Oookay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which option do you prefer?",
+        "Yes."
+      ]
+    }
+  ]
+}

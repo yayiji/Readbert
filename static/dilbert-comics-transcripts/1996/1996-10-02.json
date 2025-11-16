@@ -1,0 +1,25 @@
+{
+  "date": "1996-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I need to document your procedure for ordering office supplies. It's an ISO 9000 requirement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If someone asks for something, I check the supply cabinet first. Then I say, \"There's one left. You can't have it because then we'd be all out.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then I spend the rest of the day complaining about the person who asked.",
+        "Uh-oh...",
+        "I'm out of ink."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So since my time isn't up, all you can do is wait around?",
+        "Basically."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, as long as you're here, let me tell you about my recent trip to the Fresno Raisin Festival. It all started..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My mistake.",
+        "Guys like you live forever."
+      ]
+    }
+  ]
+}

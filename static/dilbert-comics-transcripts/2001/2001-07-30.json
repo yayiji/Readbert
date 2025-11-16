@@ -1,0 +1,26 @@
+{
+  "date": "2001-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The angry dumb guy",
+        "If anyone wants my opinion..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...I'll beat it out of me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want your opinion.",
+        "Oh yeah?",
+        "Let's see if I have one!"
+      ]
+    }
+  ]
+}

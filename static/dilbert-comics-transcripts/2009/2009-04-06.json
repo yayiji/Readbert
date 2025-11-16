@@ -1,0 +1,25 @@
+{
+  "date": "2009-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had to lay off many of your co-workers today, but your jobs are safe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!",
+        "Wahoo!",
+        "Ha ha ha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cancel the workshop on survivor guilt."
+      ]
+    }
+  ]
+}

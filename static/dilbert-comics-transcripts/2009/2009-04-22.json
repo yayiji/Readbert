@@ -1,0 +1,23 @@
+{
+  "date": "2009-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Does my vast wealth make you feel inadequate and sad?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, not really."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about now?"
+      ]
+    }
+  ]
+}

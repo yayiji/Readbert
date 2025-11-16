@@ -1,0 +1,23 @@
+{
+  "date": "2015-08-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The key to success is trusting yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Even when you're wrong?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm starting to think motivation isn't a thing."
+      ]
+    }
+  ]
+}

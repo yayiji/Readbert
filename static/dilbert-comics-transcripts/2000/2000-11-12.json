@@ -1,0 +1,54 @@
+{
+  "date": "2000-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I signed you up for a trip to the South Pole."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... why?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll love it.",
+        "You leave tomorrow."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I am not going to the South Pole!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Oh, I get it, you're a control freak."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa! Can't you see that it's you who is trying to control me?!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All I see is you trying to manipulate me into not sending you to the South Pole."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It seemed easier."
+      ]
+    }
+  ]
+}

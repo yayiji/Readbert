@@ -1,0 +1,54 @@
+{
+  "date": "2012-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's my suggestion for our next product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do we know that ten other companies aren't working on the same idea?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, that's always a possibility."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There are seven billion people on Earth. I'll bet a million of them had this idea."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's irrational to think that any new product is likely to be a hit."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "On the other hand, we only get paid if we pretend to be optimistic about new products."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "All in favor of faking our optimism, raise your hands."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "All I could get was fake buy-in.",
+        "That's the only kind there is."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2003-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm bailing out of your project; it has the scent of failure."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I will attach myself to a more successful host to ensure my survival."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a pill for someone who gets rejected by Wally?",
+        "A loser pill?"
+      ]
+    }
+  ]
+}

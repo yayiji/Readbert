@@ -1,0 +1,27 @@
+{
+  "date": "1996-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "Here are the résumés of highly qualified applicants for your opening."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's too bad we don't pay enough to hire qualified applicants. Ha ha ha ha ha ha!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's see... we've got résumés in pencil...",
+        "Crayon... pencil...",
+        "Eyeliner...",
+        "Hey! Dot matrix!"
+      ]
+    }
+  ]
+}

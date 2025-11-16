@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If anyone has an objection to my plan, this is the time to voice it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Put your hand down. I don't actually want to hear any objections!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will hold this against you until the end of time!",
+        "It was a trap!!!"
+      ]
+    }
+  ]
+}

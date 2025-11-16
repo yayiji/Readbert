@@ -1,0 +1,27 @@
+{
+  "date": "1995-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In this team-building exercise you will make paper dolls while blindfolded."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This may seem absurd.",
+        "But soon, cognitive dissonance will set in",
+        "and you'll cry and hug",
+        "and think you learned something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sure we'll cry and hug?",
+        "Actually, hugging is iffy."
+      ]
+    }
+  ]
+}

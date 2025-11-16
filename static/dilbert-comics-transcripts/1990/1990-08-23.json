@@ -1,0 +1,25 @@
+{
+  "date": "1990-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Fur is murder"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's yer problem with my store, dog?",
+        "I oppose the sale of fur."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not selling fur. The whole store is \"fur sale.\"",
+        "I oppose bad spelling too."
+      ]
+    }
+  ]
+}

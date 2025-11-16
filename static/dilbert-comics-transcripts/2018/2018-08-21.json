@@ -1,0 +1,26 @@
+{
+  "date": "2018-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea for you.",
+        "Keep it to yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your ideas are always insults masquerading as helpfulness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You seem cranky.",
+        "Have you considered riding a bike to work?",
+        "Die, monster!"
+      ]
+    }
+  ]
+}

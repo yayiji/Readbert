@@ -1,0 +1,25 @@
+{
+  "date": "2014-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm updating my health directive to account for technological progress."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When the age of transhumanism is upon us, I want you to kill me so I don't live forever in a robot body."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure.",
+        "Can I make it painful?",
+        "Why would you even ask that?"
+      ]
+    }
+  ]
+}

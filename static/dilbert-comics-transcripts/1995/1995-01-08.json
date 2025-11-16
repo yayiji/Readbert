@@ -1,0 +1,54 @@
+{
+  "date": "1995-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You've been named \"floor warden.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In the event of a fire we'll rely on your leadership to get us out safely."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Let me see if I understand this..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're the leader when it involves uninformed decisions in return for huge stock options."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I'm the leader when it comes to risking death in a highrise inferno while you scramble over the ashen backs of fallen co-workers."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What makes you think your life is worth more than mine?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I've got stock options and you're a floor warden.",
+        "Don't expect any cpr."
+      ]
+    }
+  ]
+}

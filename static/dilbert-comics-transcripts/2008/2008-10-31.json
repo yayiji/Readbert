@@ -1,0 +1,25 @@
+{
+  "date": "2008-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to thank our CEO for coming to our meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You said everyone would be wearing costumes today.",
+        "I'm unreliable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I kind of hate you now.",
+        "Geez, who moved your cheese?"
+      ]
+    }
+  ]
+}

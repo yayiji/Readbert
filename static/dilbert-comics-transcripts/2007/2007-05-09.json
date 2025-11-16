@@ -1,0 +1,23 @@
+{
+  "date": "2007-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you have attended thousands of meetings and never gotten an action item. What is your secret?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When the action items are handed out, I use a certain facial expression to ward them off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And I'll need someone to..."
+      ]
+    }
+  ]
+}

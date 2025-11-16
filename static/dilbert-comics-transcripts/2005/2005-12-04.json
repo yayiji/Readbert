@@ -1,0 +1,47 @@
+{
+  "date": "2005-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your resume says you're a career criminal.",
+        "Yup."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... why are you applying for a job here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm getting tendon-itis in my pistol-whipping arm.",
+        "I thought I'd try the slower paced life of white collar crime."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Security.",
+        "How much can I expect to embezzle in my first year?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Earl?",
+        "Lefty!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Forget this job. Security is where the big money is.",
+        "Can you get me in?",
+        "I should start locking my desk."
+      ]
+    }
+  ]
+}

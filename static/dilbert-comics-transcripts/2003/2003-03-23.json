@@ -1,0 +1,56 @@
+{
+  "date": "2003-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Jimmy will explain our new marketing strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A study of past customers shows that 96% of them have flu symptoms."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apparently, sick people are the most likely to buy from us. We don't know why."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So we redesigned our ad campaign to appeal to sick people."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're confusing cause and effect. Your study shows that our products make people sick."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Alice, let's not reinvent a dead horse."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Suddenly nothing makes sense... I must have slipped into the meeting duh-mension!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This usually lasts about ten minutes.",
+        "Floating...",
+        "Scared...",
+        "Darkness..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2016-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any friends with technical skills who you can recommend to work here?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have any friends, but if I did, why would I be so mean to them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You get a $1,000 bonus for referring a friend.",
+        "How much for a gullible acquaintance?"
+      ]
+    }
+  ]
+}

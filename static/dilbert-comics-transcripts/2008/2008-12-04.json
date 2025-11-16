@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a great idea.",
+        "Would you like to hear it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, considering your low status in the company and how busy I am, I would not enjoy it one bit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like speaking truth to power, but I don't like when it speaks back."
+      ]
+    }
+  ]
+}

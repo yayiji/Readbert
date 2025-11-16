@@ -1,0 +1,25 @@
+{
+  "date": "1997-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The network went down and I lost my work.",
+        "The server crashed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on, I want advanced notice of any unplanned outages."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I need it yesterday.",
+        "I used to think that was just a figure of speech."
+      ]
+    }
+  ]
+}

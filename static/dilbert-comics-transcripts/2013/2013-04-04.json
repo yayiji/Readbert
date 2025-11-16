@@ -1,0 +1,26 @@
+{
+  "date": "2013-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told Wally he could use my body for telepresence.",
+        "He's coming on-line now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Greetings, carbon-based units.",
+        "I come to you from the third stall in the men's room.",
+        "Poink!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is what happens when our technology evolves faster than our etiquette."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "1992-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nature is so wonderful..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They say we don't leave the planet to future generations, we borrow it from our children."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's even better than that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We don't have children, so we're borrowing the planet from complete strangers!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And there's no collateral. We can use up the planet, have great lives and leave an empty smoking shell to the strangers!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I tell you, people have completely overlooked the positive side of this environment situation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "But someday I want to have children.",
+        "Let's hope they're not as selfish as you."
+      ]
+    }
+  ]
+}

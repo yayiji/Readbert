@@ -1,0 +1,26 @@
+{
+  "date": "2012-03-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your page layout is ugly.",
+        "Whose fault is that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I work in an ugly cubicle surrounded by ugly people.",
+        "You trample on my sense of aesthetics and expect me to be unaffected?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... it's my fault?",
+        "You, your parents, your barber, and whoever dresses you."
+      ]
+    }
+  ]
+}

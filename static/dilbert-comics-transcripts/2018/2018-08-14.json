@@ -1,0 +1,24 @@
+{
+  "date": "2018-08-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our pointy-haired boss asked me to help you on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!!! My dream of getting paid while other people do my work is becoming reality!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might have played this wrong.",
+        "Sucker!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1993-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I summarized the budget impacts on six hundred projects with those three bullet points."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"- Oxygen is good",
+        "- Competition is bad",
+        "- I like Jello\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think it's too detailed for the senior executives?",
+        "Take out the \"competition\" one."
+      ]
+    }
+  ]
+}

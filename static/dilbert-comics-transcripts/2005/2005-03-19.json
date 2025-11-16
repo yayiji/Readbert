@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need your forecast and I need it right now."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I predict that someday you'll wear your pants so high that you'll choke yourself to death with your belt."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the towns- people will erect a statue to honor the belt.",
+        "Stupid towns- people."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "1997-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tell me the truth.",
+        "Use the engineer's secret code if you must."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are there any little problems with the technology that my managers agreed to buy from your company?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ha ha",
+        "Snort",
+        "Snort",
+        "Ha ha",
+        "Ha !!!",
+        "1100111...",
+        "Good. Go on."
+      ]
+    }
+  ]
+}

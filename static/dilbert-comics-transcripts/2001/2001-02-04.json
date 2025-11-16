@@ -1,0 +1,53 @@
+{
+  "date": "2001-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a reporter for \"Dogbert's Technology Magazine.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm writing a totally objective review of your newest product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First question: Will you advertise in my magazine or is your new product a piece of junk?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um...we'll advertise."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Will it be a multi-page ad or is your new product a piece of junk?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It'll be a ten-page ad!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can you stand on your head for an hour or is your new product a piece of junk?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Would you like to subscribe to my magazine? It's ten pages of ads."
+      ]
+    }
+  ]
+}

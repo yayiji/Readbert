@@ -1,0 +1,24 @@
+{
+  "date": "1998-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ann, I made a bet with Ted that you could ignite this match by swearing at it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How dare you bet against me, Ted, you #%!!*!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dang! How about double or nothing?",
+        "I want my dollar."
+      ]
+    }
+  ]
+}

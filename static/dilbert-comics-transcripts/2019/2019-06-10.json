@@ -1,0 +1,23 @@
+{
+  "date": "2019-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why didn't you tell me about this problem earlier?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because you would have made decisions based on incomplete information and ruined my career."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I didn't realize that was obvious."
+      ]
+    }
+  ]
+}

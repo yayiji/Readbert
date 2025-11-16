@@ -1,0 +1,26 @@
+{
+  "date": "1995-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bad news.",
+        "We're not giving any raises."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Making it worse.",
+        "But we think work is its own reward."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Making it much worse.",
+        "Expect to get rewarded about twice as much next year."
+      ]
+    }
+  ]
+}

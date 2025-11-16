@@ -1,0 +1,25 @@
+{
+  "date": "2011-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Office relocation",
+        "Your new cubicles will be a color called \"Death Eater gray.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The fabric is a soul sponge that will absorb your happiness if you stand near it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd the meeting go?",
+        "Well, you know, fear of the unknown."
+      ]
+    }
+  ]
+}

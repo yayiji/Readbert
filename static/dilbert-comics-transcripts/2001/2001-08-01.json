@@ -1,0 +1,25 @@
+{
+  "date": "2001-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, order a new chair for me.",
+        "The old one lost its new chair smell."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I have your old chair?",
+        "My chair doesn't roll anymore."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll try to say this tactfully: you're not important enough to sit in my smelly chair."
+      ]
+    }
+  ]
+}

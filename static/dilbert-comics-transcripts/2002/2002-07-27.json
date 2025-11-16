@@ -1,0 +1,25 @@
+{
+  "date": "2002-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your help yelling at a guy to make him do his job.",
+        "Yay!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You worthless, incompetent bug!!! I'll have your head!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How much work did that buy?",
+        "Two phone calls and a meeting."
+      ]
+    }
+  ]
+}

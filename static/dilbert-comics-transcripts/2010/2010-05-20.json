@@ -1,0 +1,25 @@
+{
+  "date": "2010-05-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Was it human error?",
+        "I doubt it"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No human would be that stupid. My best guess is that a cabbage got access to your computer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Cabbages can't use computers.",
+        "Can they tell when they're being mocked?"
+      ]
+    }
+  ]
+}

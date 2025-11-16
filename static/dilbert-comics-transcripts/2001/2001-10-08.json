@@ -1,0 +1,24 @@
+{
+  "date": "2001-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO has voluntarily slashed his pay from six million per year to four."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In a written statement he said he wants to, \"share the pain.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you feel better now?",
+        "I make my own under-pants from sandwich bags."
+      ]
+    }
+  ]
+}

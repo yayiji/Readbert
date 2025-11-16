@@ -1,0 +1,26 @@
+{
+  "date": "2004-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't like the looks of this.",
+        "Bureaucracy"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I only want to correct a small payroll error.",
+        "Hiss"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you help me?",
+        "Does it help if I glare at you for disturbing my lunch?"
+      ]
+    }
+  ]
+}

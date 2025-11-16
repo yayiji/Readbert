@@ -1,0 +1,22 @@
+{
+  "date": "2011-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I started a task force to eliminate redundancies in our internal processes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Really?",
+        "I'm doing the same thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2013-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We only succeed when we treat each other with respect."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you video-recording me with those Google glasses?",
+        "Huh?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're fired for recording a confidential meeting!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Pack your bags, you worthless piece of garbage!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I got your final check right here!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "These are my regular glasses."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Having cleared that up, you were saying something about respect?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Settle down, four-eyes. This isn't over."
+      ]
+    }
+  ]
+}

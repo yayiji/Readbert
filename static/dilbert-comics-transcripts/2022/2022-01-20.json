@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you predict will happen with Bitcoin?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think chemtrails will degrade the blockchain until all of your money is accidentally transferred to terrorists."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is that even... possible?",
+        "Buy my book."
+      ]
+    }
+  ]
+}

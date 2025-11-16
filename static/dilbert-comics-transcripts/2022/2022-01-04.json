@@ -1,0 +1,24 @@
+{
+  "date": "2022-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting a lot of anecdotal reports about our plastic packaging maiming customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "None of our studies shows that to be a risk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have we actually studied it?",
+        "No, and it's starting to look like we shouldn't."
+      ]
+    }
+  ]
+}

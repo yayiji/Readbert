@@ -1,0 +1,23 @@
+{
+  "date": "2011-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Avoid saying \"unfortunately\" when you talk to customers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Say instead, \"As it turns out.\" That has a more positive feel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As it turns out, our power cables aren't as insulated as we had hoped."
+      ]
+    }
+  ]
+}

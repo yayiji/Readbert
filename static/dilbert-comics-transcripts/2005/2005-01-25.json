@@ -1,0 +1,23 @@
+{
+  "date": "2005-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, what's the status of your project?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The astonishing incompetence of others caused me to jump through a window and land in a dumpster."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So then, no issues?"
+      ]
+    }
+  ]
+}

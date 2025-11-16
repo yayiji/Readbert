@@ -1,0 +1,26 @@
+{
+  "date": "2005-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The last election was incredibly close.",
+        "That's why it's so important to vote."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Smart, well-informed people were evenly divided.",
+        "Therefore, logically, that proves that intelligence is not a factor, so voting is absurd."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you have no right to complain about the result.",
+        "I'm pretty sure I do."
+      ]
+    }
+  ]
+}

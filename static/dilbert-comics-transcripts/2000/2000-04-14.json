@@ -1,0 +1,25 @@
+{
+  "date": "2000-04-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd quit this job, but next year I'll get an extra week of vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you get an extra week for every ten years of service..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...you'll be happy in 480 years.",
+        "Good plan.",
+        "Shut up."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2004-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The leadership team can't decide where to make the deepest budget cuts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But don't worry. I offered to bring a systematic, data-driven focus to the process."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A death spiral goes clockwise north of the equator.",
+        "Budget cuts",
+        "Research",
+        "Marcom",
+        "Sales",
+        "Design"
+      ]
+    }
+  ]
+}

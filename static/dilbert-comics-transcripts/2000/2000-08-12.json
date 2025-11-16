@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, your ten year service party will be on Tuesday."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm having surgery Tuesday."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could drop off a casserole on your way."
+      ]
+    }
+  ]
+}

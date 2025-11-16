@@ -1,0 +1,25 @@
+{
+  "date": "1996-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Whenever we disagree, I always end up yelling."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's an indication that you have poor interpersonal skills.",
+        "I'm sending you to a class to improve them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like you've gained weight. Would it help if I started jogging?",
+        "This is exactly what I'm talking about."
+      ]
+    }
+  ]
+}

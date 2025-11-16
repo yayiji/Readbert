@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, your pointy-haired boss wants you to set up a conference call with all the division managers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... wouldn't that be his secretary's job?",
+        "And aren't you his secretary?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, I know. Why don't you try to get an appointment with him so you can ask that question?"
+      ]
+    }
+  ]
+}

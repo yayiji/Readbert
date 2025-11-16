@@ -1,0 +1,54 @@
+{
+  "date": "2022-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My attorney did a post-mortem analysis of why my project failed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The root cause of the problem goes back many years."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This chart shows the chain of cause and effect from the past to the present."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think you would agree it makes a strong case for reparations."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Are you asking me to give your client a bonus because his parents raised him poorly?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, that would be absurd."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I'm asking you to give him reparations."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you have a law degree?",
+        "If you ask me again, I will sue you soooo hard."
+      ]
+    }
+  ]
+}

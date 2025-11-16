@@ -1,0 +1,52 @@
+{
+  "date": "2005-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil director of human resources",
+        "I have new guidelines on who can fly on the same plane."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can't risk losing too many key employees."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The CEO and the president are not allowed to be on the same flight."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No more than three vice presidents may be on the same flight."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What are the guidelines for interns?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Infinite interns are allowed on the same flight. You are also allowed to run with scissors and put plastic bags over your heads."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How many interns are allowed per plastic bag?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I would like to withdraw my funds from your crypto exchange, but I can't find that menu choice on your app."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We plan to add that option in a future release."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... how do I get my money?",
+        "Try hacking us. We have terrible cyber-security."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "1998-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You look stressed out, Alice."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could fix that by becoming a champion for improvements in the workplace."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Or I could give you a little booklet called \"Stress No More.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hmm... I wonder which way is best."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": []
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "\"Stress is your body's way of saying...\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "\"...You haven't worked enough unpaid overtime.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I've never seen a woman's forehead ignite her hair before."
+      ]
+    }
+  ]
+}

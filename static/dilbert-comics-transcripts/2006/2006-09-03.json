@@ -1,0 +1,53 @@
+{
+  "date": "2006-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You exceeded all of your goals this year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I can't give you much of a raise because you didn't have the appearance of success."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... what?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have to justify to management all large raises, and they don't know that you exist."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Who do they think accomplished all of my goals?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll make it up to you next year.",
+        "Push"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Who was that?",
+        "Some vendor."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

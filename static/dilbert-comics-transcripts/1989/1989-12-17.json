@@ -1,0 +1,53 @@
+{
+  "date": "1989-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I bought a phone answering machine."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Was the phone asking you questions you couldn't answer on your own?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The hard part is thinking of a greeting message."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hi. This is Dilbert. I'm not here right now."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, technically I am here now..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But 'now' is a relative term, so use your best judgment in deciding whether I'm here."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Hmm...that was actually a creative little message."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Demonstrating, once again, that subtle difference between creativity and complex stupidity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to reopen the question of what vendor we'll use, even though it's too late to change anything."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I darn you to heck!",
+        "You will spend an eternity with other indecisive dullards!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where are you taking me??!",
+        "Here is fine."
+      ]
+    }
+  ]
+}

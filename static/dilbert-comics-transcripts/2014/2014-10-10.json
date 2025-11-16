@@ -1,0 +1,25 @@
+{
+  "date": "2014-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you see the article on the internet about the five signs you might be a bad boss?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yeah. About seventy people forwarded the link to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was number three on the list.",
+        "I didn't read it.",
+        "That was number one."
+      ]
+    }
+  ]
+}

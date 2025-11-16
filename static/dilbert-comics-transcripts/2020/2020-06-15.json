@@ -1,0 +1,25 @@
+{
+  "date": "2020-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to make decisions based on real data!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who do you imagine disagrees with that obvious statement?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh-oh.",
+        "I just realized I'm dumb and never knew it.",
+        "I hear it can sneak up on you."
+      ]
+    }
+  ]
+}

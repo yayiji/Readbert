@@ -1,0 +1,68 @@
+{
+  "date": "2017-04-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you read my email?",
+        "No, it was too long."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could read it when you have more time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I never have time to read email messages that are too long."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you could rewrite it to be shorter."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I don't have time to rewrite it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I don't have time to read it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If no one reads that email, it will mean I wasted two hours writing it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Plus, you're wasting my time right now.",
+        "Don't forget to include that in your failure assessment."
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I had high hopes for that email."
+      ]
+    },
+    {
+      "panel": 10,
+      "dialogue": [
+        "It's a sunk cost.",
+        "Let it go."
+      ]
+    }
+  ]
+}

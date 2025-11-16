@@ -1,0 +1,26 @@
+{
+  "date": "1998-05-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Someday I'd like to see your office.",
+        "It's a cubicle, Mom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's a cubicle?",
+        "Imagine the most beautiful place on Earth..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, I've got it.",
+        "Now imagine you can never go there because you work in a box."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2002-08-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mom, here's our new commercial."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It gives no information about your products. Are you ashamed or just massively incompetent?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why can't we be both?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I was just making conversation."
+      ]
+    }
+  ]
+}

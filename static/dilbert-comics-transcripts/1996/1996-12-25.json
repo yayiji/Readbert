@@ -1,0 +1,24 @@
+{
+  "date": "1996-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This suitcase is the decoy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "While the airline is distracted trying to lose the decoy, I'll sneak aboard with this emergency carry-on bag."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if they try to make you eat their food?",
+        "Fake vomit. They'll think I already ate."
+      ]
+    }
+  ]
+}

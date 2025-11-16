@@ -1,0 +1,28 @@
+{
+  "date": "1991-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented an auto-petter machine for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is perhaps your dumbest idea ever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You like it.",
+        "Admit it.",
+        "Leave us alone.",
+        "Pat",
+        "Pat",
+        "Pat"
+      ]
+    }
+  ]
+}

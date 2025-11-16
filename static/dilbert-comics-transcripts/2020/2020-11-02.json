@@ -1,0 +1,25 @@
+{
+  "date": "2020-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Later I have a meeting about blockchain and I don't understand anything about it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be wearing this earpiece, and I want you to feed me smart lines."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you want to do something evil?",
+        "Say no more.",
+        "I give me that."
+      ]
+    }
+  ]
+}

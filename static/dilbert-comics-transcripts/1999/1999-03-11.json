@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My astrologer told me to approve your project plan as is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What?! That's the correct decision.",
+        "What's going on here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My theory is that his ignorance clouded his poor judgment."
+      ]
+    }
+  ]
+}

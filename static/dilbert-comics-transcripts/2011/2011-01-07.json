@@ -1,0 +1,27 @@
+{
+  "date": "2011-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a consultant to help us evolve our products to cloud computing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Blah blah cloud.",
+        "Blah blah cloud.",
+        "Blah blah cloud.",
+        "Blah blah cloud."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's as if you're a technologist and a philosopher all in one!",
+        "Blah blah platform."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "1991-01-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Question...",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do politicians lie?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "To get elected."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Oh, because people believe them?",
+        "No, nobody believes them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why do they keep lying if nobody believes them?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "People wouldn't vote for them if they told the truth."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay, so people like lies and dislike the truth?",
+        "No, just the opposite."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Aaaahh!!",
+        "A little knowledge is a dangerous thing."
+      ]
+    }
+  ]
+}

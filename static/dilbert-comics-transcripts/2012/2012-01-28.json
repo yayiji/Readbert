@@ -1,0 +1,23 @@
+{
+  "date": "2012-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop everything you're doing and build robots."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's wait a week and see if he forgets.",
+        "Does that work?",
+        "It works with you."
+      ]
+    }
+  ]
+}

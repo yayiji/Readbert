@@ -1,0 +1,24 @@
+{
+  "date": "1999-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project is to build a call center to handle customer questions."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Keep the costs down by making the working conditions inhumane."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My conscience won't allow me to harm innocent employees.",
+        "We won't be paying enough to hire any innocent employees."
+      ]
+    }
+  ]
+}

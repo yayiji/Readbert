@@ -1,0 +1,25 @@
+{
+  "date": "2003-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It looks like you need \"Dogbert's consultant removal service.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's in there good.",
+        "You must be losing a lot of cash."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It already spread to your wallet.",
+        "I'll have to operate immediately."
+      ]
+    }
+  ]
+}

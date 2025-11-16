@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Emergency assignment!!",
+        "Urgent! Urgent!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's only critical because everything sits on your desk until it either becomes moot or a crisis."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "From now on, I'm giving him the moots."
+      ]
+    }
+  ]
+}

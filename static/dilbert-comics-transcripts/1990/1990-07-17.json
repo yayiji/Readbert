@@ -1,0 +1,25 @@
+{
+  "date": "1990-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm feeling timid today...",
+        "I felt timid yesterday too..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Holy cheese! I may be a timid person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I've decided to build a blanket fort with the living room furniture and live in it forever.",
+        "I'm so proud of you."
+      ]
+    }
+  ]
+}

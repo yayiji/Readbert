@@ -1,0 +1,25 @@
+{
+  "date": "1998-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: H.R. Director",
+        "I work hard, but all I get are tiny raises."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we gave you everything you wanted, then you would have nothing to motivate you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't want to be motivated.",
+        "That's why I enjoy doing it!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2005-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's have a pre-meeting before your meeting with our vice president."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't mention any problems because he might try to fix them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't say anything about budgets or deadlines because he might reduce them."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Leave out the technical stuff because it will only confuse him."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That leaves me nothing to talk about.",
+        "Perfect!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hello... and in summary, are there any questions?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wow! That's the first presentation that hasn't made me feel nauseated or dizzy! Great job!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why does success make me hate humanity?",
+        "They deserve it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-06-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have one hour to get some work done before my meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I can't concentrate when I'm hungry, so I need a snack."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This snack is making me thirsty."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The label on this shirt is bugging me. I need to cut it off."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A quick trip to the restroom and then I can get down to work."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Ugh. I have fifteen messages since I left my desk."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now it's too close to my meeting to start a new task."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How's work?",
+        "How would I know?"
+      ]
+    }
+  ]
+}

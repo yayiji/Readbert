@@ -1,0 +1,25 @@
+{
+  "date": "1995-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This laptop computer weighs too much.",
+        "Do we have anything lighter?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't you just delete files to lower the weight on that one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a thought.",
+        "Technically, I only asked why not."
+      ]
+    }
+  ]
+}

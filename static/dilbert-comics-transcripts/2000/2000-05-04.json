@@ -1,0 +1,26 @@
+{
+  "date": "2000-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to summarize my project into three bullet points."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to invent some new words."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Believe me, you don't want to be any of these things.",
+        "Splurby",
+        "Noobah",
+        "Pizkwat"
+      ]
+    }
+  ]
+}

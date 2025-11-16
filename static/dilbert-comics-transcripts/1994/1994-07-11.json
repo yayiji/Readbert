@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting a new career as a technology pundit and columnist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This mostly involves forming angry opinions about things I haven't got the time to understand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is the RISC processor appropriate for senior citizens?",
+        "Hello!! Is anybody home?!!"
+      ]
+    }
+  ]
+}

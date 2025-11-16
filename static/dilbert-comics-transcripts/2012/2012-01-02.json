@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your lobbyist said I could have a lucrative job here someday if I support tax breaks for your company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have offers from other bribers, so I thought I'd stop by and see how this dump compares."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Suddenly I know too much.",
+        "Fetch me some coffee and I'll make your birthday a holiday."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Just great...",
+        "You've destroyed half of the city with my \"sonic obliterator\" invention..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're being pursued by the police, FBI and national guard...",
+        "I trusted you. Is there anything you'd like to say to me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh, yeah, thank you very much for letting me borrow the obliterator... It's been great... Can I use it again tomorrow?"
+      ]
+    }
+  ]
+}

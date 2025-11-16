@@ -1,0 +1,25 @@
+{
+  "date": "2017-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to become a professional gambler on the side."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sounds risky.",
+        "Nah. I'm teaching myself to count cards."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "50...51...52...53!",
+        "Nailed it again!"
+      ]
+    }
+  ]
+}

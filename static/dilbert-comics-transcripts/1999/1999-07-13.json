@@ -1,0 +1,25 @@
+{
+  "date": "1999-07-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I plan to buy all the copies of a book I authored, thus making it a bestseller."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And I'd like to use your house as collateral.",
+        "Unless it's a dump."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How are you planning to pay us back?",
+        "Do you take books?"
+      ]
+    }
+  ]
+}

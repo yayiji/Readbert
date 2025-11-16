@@ -1,0 +1,23 @@
+{
+  "date": "2013-09-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your son is a traitor who stole top-secret data from his own government."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We'd like you to talk him into leaving the Elbonian embassy so we can execute him for treason."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tap tap"
+      ]
+    }
+  ]
+}

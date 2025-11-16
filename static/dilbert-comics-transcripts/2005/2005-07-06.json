@@ -1,0 +1,25 @@
+{
+  "date": "2005-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Company lawyer",
+        "This contract would be subject to a \"reasonable man\" interpretation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where is this guy? I'll squash him like a bug!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, moving on...",
+        "It's you! I knew it!"
+      ]
+    }
+  ]
+}

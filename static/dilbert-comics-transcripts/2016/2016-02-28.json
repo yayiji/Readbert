@@ -1,0 +1,55 @@
+{
+  "date": "2016-02-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Dilbert.",
+        "I know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just hacked your phone, your credit card, and your fitness band."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No need for conversation."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I know everything about you, including your current physiological state."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I feel violated.",
+        "No, you don't."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Your vital signs are elevated. That means you're falling in love with me."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Ha! I just hacked your fitness band and I see you have no interest in me whatsoever."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It was too late to reject her first."
+      ]
+    }
+  ]
+}

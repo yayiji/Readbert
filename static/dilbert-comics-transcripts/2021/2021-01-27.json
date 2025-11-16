@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, it seems that once again you have made no progress on any of your projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It looks that way from the outside, but what you have to understand is that not doing something is also a decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I literally hate talking to you.",
+        "Harsh."
+      ]
+    }
+  ]
+}

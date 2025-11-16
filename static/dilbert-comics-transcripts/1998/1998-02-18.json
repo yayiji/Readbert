@@ -1,0 +1,24 @@
+{
+  "date": "1998-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to make an infommercial."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm targeting the people who want to invest their savings but don't know how."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you plan to sell educational information about how to avoid scams.",
+        "Good idea for phase two!"
+      ]
+    }
+  ]
+}

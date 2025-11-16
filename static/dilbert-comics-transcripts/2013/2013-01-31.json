@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our machine learning technology allows us to track customer preferences and use that knowledge to manipulate them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That seems like the step that happens right before the machines take over the earth and annihilate all humans."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's always one person in every crowd who says that.",
+        "Not for much longer, apparently."
+      ]
+    }
+  ]
+}

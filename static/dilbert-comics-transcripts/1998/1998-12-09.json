@@ -1,0 +1,25 @@
+{
+  "date": "1998-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "No one returns my phone calls...",
+        "No one reads the e-mail I send."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I find myself hanging around with other pathetic, defeated losers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No offense.",
+        "None taken."
+      ]
+    }
+  ]
+}

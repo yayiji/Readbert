@@ -1,0 +1,28 @@
+{
+  "date": "2011-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for spending the day interviewing with us.",
+        "I can now reveal the nature of the job and the salary range."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You know my current salary and yet you wasted my entire day interviewing me for a job that pays less.",
+        "You are either evil or inconsiderate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So...",
+        "not as good as your current job?",
+        "It's a tie.",
+        "I'll need to test the commute one more time."
+      ]
+    }
+  ]
+}

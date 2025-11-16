@@ -1,0 +1,27 @@
+{
+  "date": "1997-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, that depends on many factors involving features and usage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you engineers have a secret pact to withhold all useful information?",
+        "You haven't answered one question and it's already... um...",
+        "Two o'clock."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We hear you gave information to marketing.",
+        "Just the time of day.",
+        "He would have found out anyway!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2015-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The sales call",
+        "If you need any tweaks to the software, Dilbert can do that in minutes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not allowed to tweak the software for one customer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He'll do it anyway.",
+        "I'm going to report you."
+      ]
+    }
+  ]
+}

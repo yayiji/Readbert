@@ -1,0 +1,26 @@
+{
+  "date": "2004-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hate Ted.",
+        "How can I make him quit?",
+        "That's easy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hire an aggressive replacement for Ted who will share his resources and make his job unbearable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These are my pants!!!",
+        "Are you still here?"
+      ]
+    }
+  ]
+}

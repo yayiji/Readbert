@@ -1,0 +1,26 @@
+{
+  "date": "1995-06-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What's the hat for, Wally?",
+        "It's a new safety rule.",
+        "I think it's stupid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The e-mail from human resources said all short employees must wear these to improve visibility while in the cubicle aisles."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hr should change their password once in a while.",
+        "I'll bet we can make him wear aluminum foil pants."
+      ]
+    }
+  ]
+}

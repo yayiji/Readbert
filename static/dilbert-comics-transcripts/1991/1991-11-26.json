@@ -1,0 +1,25 @@
+{
+  "date": "1991-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Dogbert, the Senate Judiciary Committee will begin the questioning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How would you interpret Roe versus Wade?",
+        "They're lying. I deny everything."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We're not accusing you...",
+        "Hey, I didn't bring it up!"
+      ]
+    }
+  ]
+}

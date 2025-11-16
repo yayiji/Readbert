@@ -1,0 +1,56 @@
+{
+  "date": "2002-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Both plans are technically impossible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which one costs less?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... I don't see how that matters, but plan one is much cheaper."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Plan one is the best.",
+        "I'll take it to our VP."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I like plan two.",
+        "Great minds think alike!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Excellent. Ask one of our engineers to present plan two to the board."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Guess what."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Every day I make the world a little bit worse.",
+        "What's it like to make a difference?"
+      ]
+    }
+  ]
+}

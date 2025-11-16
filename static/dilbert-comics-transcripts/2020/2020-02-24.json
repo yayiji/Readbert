@@ -1,0 +1,24 @@
+{
+  "date": "2020-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The only way to succeed in this company is by working harder than everyone else."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't that mean only one person in the company can be successful?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I might need to rethink my motivational messages.",
+        "Maybe save those for your dumber employees."
+      ]
+    }
+  ]
+}

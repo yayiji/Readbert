@@ -1,0 +1,54 @@
+{
+  "date": "1991-08-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Come help me hook up my new VCR, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You read the instructions and I'll connect the cables."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Connect the 300 ohm twin-lead flat cable to the 75 ohm RF2 jack."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Or use the optional 75 ohm coaxial cable with the F type connector."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Good lord, I'm an electrical engineer and I don't understand any of this."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll have to lie to the other engineers and say I don't want to record TV shows."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now, strip naked, cover your body with motor oil and run through town yelling Walla-walla-walla."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Let me see that.",
+        "Step six: Do not doubt the nice dog."
+      ]
+    }
+  ]
+}

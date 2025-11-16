@@ -1,0 +1,24 @@
+{
+  "date": "2014-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Happy, happy, happy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm enjoying a bubble of optimism because I'm feeling rested and no one has been awful to me all day!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How long does it usually last?",
+        "I don't know. It's never happened before!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2017-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The product you accidentally invented is our biggest seller in company history."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I'm promoting you to a leadership position."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Phew! I thought you were going to make me work."
+      ]
+    }
+  ]
+}

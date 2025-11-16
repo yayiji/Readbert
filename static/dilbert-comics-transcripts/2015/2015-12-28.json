@@ -1,0 +1,26 @@
+{
+  "date": "2015-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to talk to my daughter's school about careers in STEM fields.",
+        "Why me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All the good people are busy.",
+        "Fair enough."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We want to fix the gender imbalance.",
+        "I'll wear my good shirt."
+      ]
+    }
+  ]
+}

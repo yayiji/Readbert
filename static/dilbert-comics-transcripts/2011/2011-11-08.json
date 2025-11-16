@@ -1,0 +1,25 @@
+{
+  "date": "2011-11-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you planning layoffs?",
+        "Am I planning layoffs?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you repeat my question it means the next thing you say will be a lie.",
+        "Go."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love your stinkin' guts."
+      ]
+    }
+  ]
+}

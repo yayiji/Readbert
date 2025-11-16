@@ -1,0 +1,25 @@
+{
+  "date": "1991-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, your new co-worker is Zimbu the monkey."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Zimbu learned English from the zoo keepers in a special program."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This monkey is an insult to the intelligence of the other workers and I!",
+        "Other workers and \"me,\"",
+        "not \"I\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've decided to level the organization."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This means a slight pay cut for senior engineers such as yourself, but I hope you'll be a team player."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you punishing me for the mediocrity of others?",
+        "Only indirectly."
+      ]
+    }
+  ]
+}

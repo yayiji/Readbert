@@ -1,0 +1,24 @@
+{
+  "date": "1993-09-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Although the insanity defense does not apply to my client, we have something just as good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My client is an \"engineer savant.\"",
+        "He understands technology but nothing else."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As evidence, I submit my client's white socks, complete with the sock protector and auxiliary writing tools."
+      ]
+    }
+  ]
+}

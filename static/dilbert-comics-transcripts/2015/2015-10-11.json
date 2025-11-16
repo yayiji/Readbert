@@ -1,0 +1,54 @@
+{
+  "date": "2015-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did a huge amount of work this week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I created a matrix that compares all of our technology options."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I see this alleged matrix?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's in my head. I didn't see a need to write it down."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How would I know if you did it right?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're not an engineer, so you wouldn't know it was right even if you saw it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You tell me to \"work smarter\" but you get angry when I do."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're not allowed to do your work in your head!",
+        "Which body part do you use?"
+      ]
+    }
+  ]
+}

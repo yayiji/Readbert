@@ -1,0 +1,26 @@
+{
+  "date": "2007-02-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I apply for the opening in R&D?",
+        "Hey, I just applied for the manager job there."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... maybe I'll wait.",
+        "To make sure I'll be your boss?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ooo—kay...",
+        "This must be what bonding feels like."
+      ]
+    }
+  ]
+}

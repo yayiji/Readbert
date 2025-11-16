@@ -1,0 +1,23 @@
+{
+  "date": "2020-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a guy who is always wrong, yet he is inexplicably confident."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why? We already have one of you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't know what you meant by that, but I am confident it is wrong."
+      ]
+    }
+  ]
+}

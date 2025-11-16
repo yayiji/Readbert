@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I find it a burden to listen to you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you could wave this flag to signal when you are done talking, just in case I want to say something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You are very rude.",
+        "Flag me when you are done with whatever this is."
+      ]
+    }
+  ]
+}

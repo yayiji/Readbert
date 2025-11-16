@@ -1,0 +1,25 @@
+{
+  "date": "2021-09-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your weekend?",
+        "About normal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sat on my couch and played on my phone until the weekend was over. Now I'm here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no follow-up questions.",
+        "They never do."
+      ]
+    }
+  ]
+}

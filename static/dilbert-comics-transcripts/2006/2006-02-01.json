@@ -1,0 +1,24 @@
+{
+  "date": "2006-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Dilbert, would you mind stopping by my house after work and seeing if you can fix my computer?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. And while I do that you can be at my house cleaning the grout in my shower."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's crazy talk.",
+        "Hey, I'm not the one who majored in comparative literature."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1990-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's a brochure for my new miracle mineral water spa."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You claim that the water at our house will make people smart, beautiful and healthy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If anybody asks, tell them you don't drink water."
+      ]
+    }
+  ]
+}

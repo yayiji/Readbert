@@ -1,0 +1,23 @@
+{
+  "date": "2019-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I need you to fax this to the supplier."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll get right on it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's a fax?"
+      ]
+    }
+  ]
+}

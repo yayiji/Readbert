@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I came up with a nickname for you because you're such a geek."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "\"Dilbert.\"",
+        "That's my actual name."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What were the odds of that?"
+      ]
+    }
+  ]
+}

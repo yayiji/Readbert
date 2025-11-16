@@ -1,0 +1,24 @@
+{
+  "date": "2011-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, there's an app for you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Waa-waa!",
+        "Don't fire me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How awesome is that?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1996-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you plan to have a booth at the trade show, you need the \"Dogbert trade-show consulting company\" to design it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend the deluxe booth. It's guaranteed to generate the most revenue."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How would the deluxe booth generate more revenue for my company?",
+        "Oh, suddenly this is about your company?"
+      ]
+    }
+  ]
+}

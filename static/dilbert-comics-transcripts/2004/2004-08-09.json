@@ -1,0 +1,26 @@
+{
+  "date": "2004-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We have a bad connection, so listen carefully."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Throw... my...",
+        "desk... off...",
+        "building...",
+        "Okay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope that sounded like \"go through my desk and office and find the billing codes.\""
+      ]
+    }
+  ]
+}

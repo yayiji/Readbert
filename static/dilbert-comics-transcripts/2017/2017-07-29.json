@@ -1,0 +1,24 @@
+{
+  "date": "2017-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I achieved all of my milestones on my secret project this month."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do I know any of that is true?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I swear on the lives of my co-workers.",
+        "I'm getting a mixed message here."
+      ]
+    }
+  ]
+}

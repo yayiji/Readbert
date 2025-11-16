@@ -1,0 +1,24 @@
+{
+  "date": "2018-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I want your honest opinion on my plan. Don't hold back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your plan looks like a monkey vomited on a dictionary."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I rescind my request for honesty.",
+        "Your plan is terrific!"
+      ]
+    }
+  ]
+}

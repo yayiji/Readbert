@@ -1,0 +1,25 @@
+{
+  "date": "2001-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need your approval for this expense.",
+        "The equipment is already here and installed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I left out the description because you wouldn't understand it anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There's a fine line between managing and being totally useless.",
+        "Luckily it looks the same."
+      ]
+    }
+  ]
+}

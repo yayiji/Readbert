@@ -1,0 +1,53 @@
+{
+  "date": "2018-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I need you to wear this harazzmat suit when you meet with Tina."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tina will also be wearing a harazzmat suit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The suits will prevent you from trying to harass each other."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You won't be able to speak directly."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A radio inside the suit will transmit your words to our human resources department."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Human resources will scrub your sentences of any inappropriate content before delivery."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you wear a harazzmat suit when you talk to Tina privately?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "No, but she wears three of them."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2007-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked Wally to stop eating noisy snacks in his cubicle but he refuses."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's because he likes salt more than he likes you.",
+        "We all feel the same way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "You're somewhere between oatmeal and kelp."
+      ]
+    }
+  ]
+}

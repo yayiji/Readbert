@@ -1,0 +1,26 @@
+{
+  "date": "2018-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't know where I left my phone. Can you call it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure, but it will make both of us unproductive instead of just you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And then there were three",
+        "Gaaaa!!!",
+        "Where is that ringing coming from???",
+        "Rrrring"
+      ]
+    }
+  ]
+}

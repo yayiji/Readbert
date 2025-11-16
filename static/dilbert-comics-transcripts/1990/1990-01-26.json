@@ -1,0 +1,36 @@
+{
+  "date": "1990-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "By my calculations,",
+        "we can make millions",
+        "by combining a",
+        "mortuary business",
+        "and a garbage",
+        "collection business."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our customers could",
+        "simply leave the",
+        "dearly departed by",
+        "the curb for pick-up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we could",
+        "add pizza",
+        "delivery, too.",
+        "Let's not",
+        "push a good",
+        "idea too far."
+      ]
+    }
+  ]
+}

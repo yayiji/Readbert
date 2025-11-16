@@ -1,0 +1,24 @@
+{
+  "date": "2007-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you get those cost estimates I asked for last week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I need constant supervision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you do it now?",
+        "Do you have time to watch?"
+      ]
+    }
+  ]
+}

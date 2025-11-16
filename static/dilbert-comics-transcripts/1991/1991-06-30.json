@@ -1,0 +1,53 @@
+{
+  "date": "1991-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've hired a consultant to clarify our company policy on discrimination."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It is against policy to discriminate based on race, sex, age, handicap or religion."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does that include unpopular, little religions?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, those are considered cults; you may discriminate freely against them."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What about short, bald, fat, ugly men? Are they considered \"handicapped\"?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Technically, no. You can still tease them and deny them promotions as usual."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Likewise, you may discriminate against nerds, smokers, and single people."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And we've dropped \"stupid people\" from the watch list, as their lobbying efforts proved ineffective..."
+      ]
+    }
+  ]
+}

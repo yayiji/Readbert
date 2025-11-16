@@ -1,0 +1,54 @@
+{
+  "date": "2022-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new guy works twice as many hours as you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And what does that tell you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It tells me he's a dedicated team player and you're lazy."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's one interpretation."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Another way to look at it is that he writes garbage code, whereas I create masterpieces in half the time."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Or maybe he hasn't yet had the life force drained from his body by your bad management."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And he might be lying about working long hours at home."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I literally hate everyone.",
+        "Same."
+      ]
+    }
+  ]
+}

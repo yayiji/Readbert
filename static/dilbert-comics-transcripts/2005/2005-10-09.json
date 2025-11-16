@@ -1,0 +1,58 @@
+{
+  "date": "2005-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bias for action",
+        "Passion for results",
+        "And these are our company values."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Please don't ask any questions.",
+        "Question!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do the results have to be good ones?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... yes."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm not so sure.",
+        "I think it would say that."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Since action and results are both important, is it okay to have bad results so long as it takes twice as much action?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Just do everything soon and perfectly!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it my imagination or is he all over the map on this?",
+        "I forget what we were talking about."
+      ]
+    }
+  ]
+}

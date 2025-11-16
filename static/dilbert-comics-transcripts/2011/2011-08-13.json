@@ -1,0 +1,23 @@
+{
+  "date": "2011-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We must embrace our failures and learn from them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the dumbest thing I've ever heard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's the learning coming along?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1991-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm rich! I found a rare stamp that was printed upside down!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's not printed upside down -- you were holding it upside down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was worth a shot."
+      ]
+    }
+  ]
+}

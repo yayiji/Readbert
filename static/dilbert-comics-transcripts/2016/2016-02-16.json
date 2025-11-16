@@ -1,0 +1,31 @@
+{
+  "date": "2016-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh-oh. My babysitter canceled for tonight.",
+        "Too bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, I have an idea. Do you like kids?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will not watch your kids tonight."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I was going to ask you to adopt them.",
+        "Absolutely not. The best I can do is watch them tonight."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2005-01-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We'll build your software with all the features you want plus a few extras."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or maybe you'll start late and claim there's no way to do everything by the deadline."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then you'll say that the unfinished features aren't important and you're losing money on the deal.",
+        "I can't hear you."
+      ]
+    }
+  ]
+}

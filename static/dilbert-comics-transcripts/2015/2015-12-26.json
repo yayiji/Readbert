@@ -1,0 +1,30 @@
+{
+  "date": "2015-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My kid's school is looking for someone to mentor girls interested in STEM careers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you asking me to do that because I'm a woman? Would you ask a man to do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This went bad fast."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell Wally to do it.",
+        "He's not busy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Management was shocked to learn that the company we acquired had been using Elbonian slave labor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We immediately replaced them with minimum wage employees who have no hope of career advancement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You did the right thing.",
+        "That's how it felt."
+      ]
+    }
+  ]
+}

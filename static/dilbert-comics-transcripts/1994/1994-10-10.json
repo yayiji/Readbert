@@ -1,0 +1,28 @@
+{
+  "date": "1994-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I predict sales to be nothing for two years and then take a sudden surge.",
+        "Why?",
+        "Sales"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The surge was added so I could get the business case approved.",
+        "The two-year lag gives me time to get promoted.",
+        "Sales"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What about accountability?",
+        "That's where you come in."
+      ]
+    }
+  ]
+}

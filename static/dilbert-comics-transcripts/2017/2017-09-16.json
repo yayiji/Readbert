@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How did you end up with no soul?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I died during surgery and my soul went to the afterlife before doctors reanimated my body."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought the soul returns when that happens.",
+        "You're thinking of heaven."
+      ]
+    }
+  ]
+}

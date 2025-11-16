@@ -1,0 +1,25 @@
+{
+  "date": "2014-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project is behind schedule.",
+        "Is there any way to finish sooner?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, in the long run, we all die, so you could die right now and get to your endpoint faster."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You went dark fast.",
+        "I had that one in the hopper."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I need to reserve the glass-walled conference room by the main lobby."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The \"fish bowl\" is only available to attractive employees. We don't want to scare visitors."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want a second opinion.",
+        "Very well. I'll convene the tribunal of admin assistants."
+      ]
+    }
+  ]
+}

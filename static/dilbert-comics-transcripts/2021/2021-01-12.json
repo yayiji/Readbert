@@ -1,0 +1,29 @@
+{
+  "date": "2021-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our corporate rule is that we won't do business with any vendor who does not give us at least 30 days to pay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But we can get the same product for half the price if we go with the vendor who wants payment immediately."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Should we make an obvious exception here or be morons?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think you're undervaluing the moron option."
+      ]
+    }
+  ]
+}

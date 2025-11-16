@@ -1,0 +1,27 @@
+{
+  "date": "2007-09-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, see me at the end of business today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ohmygod, ohmygod, what corpse floated up from the ocean floor? I can't wait seven hours. Gah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seven hours later",
+        "What?!",
+        "What?!",
+        "What?!",
+        "Can you come back tomorrow?"
+      ]
+    }
+  ]
+}

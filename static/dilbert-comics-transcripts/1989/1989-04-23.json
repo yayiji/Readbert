@@ -1,0 +1,36 @@
+{
+  "date": "1989-04-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello. Do you remember selling some hair growth formula to a big guy named Dilbert?",
+        "Um...",
+        "Pick up prescriptions here"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I'm Dilbert, and apparently there are some unusual side effects!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I took time out from my thriving law practice to come talk to you about it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Thanks Dogbert, but I only asked you to get my prescription refill ... not the deed to the pharmacy.",
+        "In the long run this is more cost-effective."
+      ]
+    }
+  ]
+}

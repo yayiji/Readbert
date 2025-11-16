@@ -1,0 +1,24 @@
+{
+  "date": "2010-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your quality metric for next year is to win 30% more bid proposals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No problem. I'll use my magic powers to control how much our competitors bid."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I worry that you're not taking this seriously.",
+        "If the muggles find out, I'll wipe their memories."
+      ]
+    }
+  ]
+}

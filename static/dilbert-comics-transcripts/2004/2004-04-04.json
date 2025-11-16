@@ -1,0 +1,53 @@
+{
+  "date": "2004-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This was a productive four-hour leadership meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like one of you to type up your notes and send an e-mail to the entire company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one took notes?",
+        "I didn't have a pen."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, no problem.",
+        "Does anyone remember what we decided?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We agreed to increase...",
+        "something.",
+        "No, decrease something."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Never mind.",
+        "Let's try it again on Thursday at 8 a.m."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When is the next leadership meeting?",
+        "I should have written that down."
+      ]
+    }
+  ]
+}

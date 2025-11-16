@@ -1,0 +1,56 @@
+{
+  "date": "1998-01-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll never get drunk. I don't want to be out of control."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you in control at work?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well... no."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you in control when you're on a date?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't get a date."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And whose idea was it to go on this walk?",
+        "Yours."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are you saying I should get drunk?",
+        "No, no."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm saying the decision will be made by the beer companies.",
+        "I hope they say it's okay."
+      ]
+    }
+  ]
+}

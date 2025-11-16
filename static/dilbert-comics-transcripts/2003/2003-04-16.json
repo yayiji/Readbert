@@ -1,0 +1,23 @@
+{
+  "date": "2003-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, your work has been excellent all year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm rating you \"poor\" so I'll have a paper trail in case I ever need to fire you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll probably feel a little surge of motivation because you got feedback."
+      ]
+    }
+  ]
+}

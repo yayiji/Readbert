@@ -1,0 +1,26 @@
+{
+  "date": "2017-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you teach me how to be more persuasive?",
+        "What's in it for me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It will make you feel good to help a friend.",
+        "Does it feel as good as denying you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no way to know.",
+        "Bah!"
+      ]
+    }
+  ]
+}

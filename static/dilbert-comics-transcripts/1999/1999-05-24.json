@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll give you a million dollars if you go to work like that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll call your bluff. I'm doing it. I'm going right now!",
+        "Go ahead!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tonight I expect a long debate over the exact definition of \"go to work like that.\""
+      ]
+    }
+  ]
+}

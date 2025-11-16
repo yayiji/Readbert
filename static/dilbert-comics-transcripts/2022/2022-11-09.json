@@ -1,0 +1,24 @@
+{
+  "date": "2022-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have anxiety because of my work-life balance being out of balance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You said \"balance\" twice.",
+        "That's not the important part."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If I'm being honest, I'll never get past it."
+      ]
+    }
+  ]
+}

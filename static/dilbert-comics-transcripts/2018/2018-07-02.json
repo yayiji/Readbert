@@ -1,0 +1,24 @@
+{
+  "date": "2018-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our strategy is to be nimble and agile."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do other companies have a strategy of being clumsy and slow?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How'd the new strategy rollout go?",
+        "They ruined it with questions."
+      ]
+    }
+  ]
+}

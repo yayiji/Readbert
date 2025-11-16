@@ -1,0 +1,25 @@
+{
+  "date": "1993-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm joining the S.E.W.L.T.U.I.F.E."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To the lay dog, it's known as the \"Society of engineers who like to use initials for everything.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We use acronyms to set us apart from the unwashed masses who don't understand technology.",
+        "B.F.D. *",
+        "*Big furry deal"
+      ]
+    }
+  ]
+}

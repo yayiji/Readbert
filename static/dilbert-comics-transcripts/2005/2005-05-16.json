@@ -1,0 +1,26 @@
+{
+  "date": "2005-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm looking for a practical vehicle that's also good for the environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recommend the Envirocrusher-4.",
+        "It weighs 40 tons and it uses owls for fuel."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where would I get that many owls?",
+        "The engine noise stuns them.",
+        "You just pick them up off the ground."
+      ]
+    }
+  ]
+}

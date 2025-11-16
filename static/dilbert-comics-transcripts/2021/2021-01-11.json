@@ -1,0 +1,25 @@
+{
+  "date": "2021-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an idea for a keyboard design that we upgrade every six months by rearranging where the keys are."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why would we do that?",
+        "To make it better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That would only make it harder to use.",
+        "Exactly like our software upgrades. What's your point?"
+      ]
+    }
+  ]
+}

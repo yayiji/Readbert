@@ -1,0 +1,25 @@
+{
+  "date": "1996-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard that our software development work has been moved to the tiny nation of Elbonia.",
+        "Things can't get worse than that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Dilbert, you're in charge of integrating the Elbonian's software with our existing systems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, now it can't get any worse.",
+        "You might want to get a tuberculosis vaccination."
+      ]
+    }
+  ]
+}

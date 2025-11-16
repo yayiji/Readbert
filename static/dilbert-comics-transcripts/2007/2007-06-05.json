@@ -1,0 +1,25 @@
+{
+  "date": "2007-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I heard your company is funding terrorists.",
+        "Very indirectly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And they aren't the bad kind of terrorists. They're more like rebels who sometimes do terrorist things."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How did they brain-wash you so fast?",
+        "Iran supplied them with PowerPoint."
+      ]
+    }
+  ]
+}

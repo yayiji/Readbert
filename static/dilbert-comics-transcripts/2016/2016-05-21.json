@@ -1,0 +1,24 @@
+{
+  "date": "2016-05-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your project is three weeks behind schedule."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's the exact amount of time I was waiting for you to answer my questions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need to manage me better.",
+        "Okay, you're fired."
+      ]
+    }
+  ]
+}

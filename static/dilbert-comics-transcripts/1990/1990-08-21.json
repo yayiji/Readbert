@@ -1,0 +1,26 @@
+{
+  "date": "1990-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to join the anti-fur movement."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't that hypocritical?",
+        "You wear a fur coat every day.",
+        "Oh... yeah,",
+        "never mind..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait..."
+      ]
+    }
+  ]
+}

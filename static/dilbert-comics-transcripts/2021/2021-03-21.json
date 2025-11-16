@@ -1,0 +1,54 @@
+{
+  "date": "2021-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have a few minutes to review my first draft?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I ask because usually you say you're too busy to help."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, I said yes this time."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's funny, because usually you're all, \"I'm so busy.\" But today you have all the time in the world."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Today I'm not busy.",
+        "I find that suspicious."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Take yes for an answer!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's not how innocent people talk."
+      ]
+    }
+  ]
+}

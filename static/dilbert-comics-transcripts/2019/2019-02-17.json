@@ -1,0 +1,56 @@
+{
+  "date": "2019-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like to take a long walk with me at lunch to get some exercise?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a great idea!",
+        "Okay, I'll come get you at noon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ready?",
+        "Yes, I only need ten minutes to finish this."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I only have an hour for lunch, and your ten minutes will turn into twenty."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's okay because I wore heels today and I can't walk more than a block anyway."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why did you agree to take a long walk if you couldn't take a long walk?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because I was planning to walk to the store on the corner to do an errand anyway."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You've ruined my walk!",
+        "Just give me forty minutes to wrap this up."
+      ]
+    }
+  ]
+}

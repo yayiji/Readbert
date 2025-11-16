@@ -1,0 +1,26 @@
+{
+  "date": "2011-05-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our firewall is down. Some bad stuff is getting through.",
+        "How bad?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So far we've seen viruses, spyware, tuberculosis, zombies, a deposed dictator, and an iPhone 3GS.",
+        "Buzzzz"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Update: An army of mole people from another dimension has tunneled through.",
+        "Keep me informed."
+      ]
+    }
+  ]
+}

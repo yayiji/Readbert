@@ -1,0 +1,24 @@
+{
+  "date": "1996-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Halt and submit to the mind scan of \"Brainitor, the guardian of security.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The bag contains one computer... \"Pentium\" processor... one gig hard drive... highly fragmented..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please wait while I optimize your hard disk...",
+        "This is vaguely unsettling."
+      ]
+    }
+  ]
+}

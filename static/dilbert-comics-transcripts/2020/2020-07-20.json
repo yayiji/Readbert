@@ -1,0 +1,24 @@
+{
+  "date": "2020-07-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking about writing a book."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can boring people write interesting books?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I write better than I speak.",
+        "Sure, and maybe an elephant lives in my colon."
+      ]
+    }
+  ]
+}

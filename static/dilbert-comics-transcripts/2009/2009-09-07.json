@@ -1,0 +1,23 @@
+{
+  "date": "2009-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to your first day on the job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Always lock your desk at night because many of your coworkers are crooks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And the ones that have eyes like this got hired before we did drug testing."
+      ]
+    }
+  ]
+}

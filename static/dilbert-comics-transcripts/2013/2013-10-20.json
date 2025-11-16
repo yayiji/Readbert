@@ -1,0 +1,55 @@
+{
+  "date": "2013-10-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What do you do for a living?",
+        "I'm a social media consultant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I like you.",
+        "Phhht."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're giving me one like?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Anything less than ten thousand likes is an insult."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'll be right back."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I hired an Elbonian to artificially inflate your like count."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Like, like, like, like, like, like, like, like, like."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I am not paying that guy."
+      ]
+    }
+  ]
+}

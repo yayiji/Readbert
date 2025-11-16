@@ -1,0 +1,25 @@
+{
+  "date": "2020-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your trial at the court of stupidity has been postponed."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The judge is suffering from a gavel-related injury."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you attack him with a gavel?",
+        "Didn't need to.",
+        "The man can't say no to a dare."
+      ]
+    }
+  ]
+}

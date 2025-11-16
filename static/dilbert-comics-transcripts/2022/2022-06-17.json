@@ -1,0 +1,23 @@
+{
+  "date": "2022-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I tested positive for COVID, so I'll be home for ten days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds deeply suspicious because it's the seventh time this year you got COVID."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is no time to start doubting science."
+      ]
+    }
+  ]
+}

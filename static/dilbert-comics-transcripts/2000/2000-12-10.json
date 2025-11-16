@@ -1,0 +1,54 @@
+{
+  "date": "2000-12-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And we'll have sub-second response time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, it's already two seconds, and your change will add two more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do you always have to be right?!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Just once can't you admit I'm right?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, I admit that two plus two equals less than one."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't mean now, jerk. I mean in general."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Okay. In general I admit that the rules of physics are optional."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're doing it wrong!!",
+        "You're right. My fault again."
+      ]
+    }
+  ]
+}

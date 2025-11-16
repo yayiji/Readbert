@@ -1,0 +1,23 @@
+{
+  "date": "2001-01-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We outsourced our sales and fulfillment functions to an Elbonian company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um...are you sure that's the best way to sell complex technology?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Could you call back? We have a bad string."
+      ]
+    }
+  ]
+}

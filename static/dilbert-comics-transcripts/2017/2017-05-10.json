@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been asked to replace your head."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... what's the survival rate for this operation?",
+        "No one cares."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll need a second opinion.",
+        "I don't care either."
+      ]
+    }
+  ]
+}

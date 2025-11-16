@@ -1,0 +1,24 @@
+{
+  "date": "2012-04-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Brendan and Brandon. They'll be helping us with our branding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm sorry, but I can't get past the ridiculousness of it all. I'm out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you get this a lot?",
+        "It's worse when we bring Brad."
+      ]
+    }
+  ]
+}

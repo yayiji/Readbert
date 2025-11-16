@@ -1,0 +1,26 @@
+{
+  "date": "2021-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wake up.",
+        "I have some bad news about your trip to Mars...",
+        "Uuuh?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The suspended animation pill you took was so strong that you slept all the way there and back."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why is it still the same day I left?",
+        "Sounds like a black hole situation."
+      ]
+    }
+  ]
+}

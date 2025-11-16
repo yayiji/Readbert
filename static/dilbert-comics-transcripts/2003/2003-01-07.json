@@ -1,0 +1,25 @@
+{
+  "date": "2003-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All shredders are being centralized at our corporate headquarters."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you need something shredded, give it to Asok."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Dude, I think he meant you would take it to the shredders.",
+        "Mouth...",
+        "So...dry"
+      ]
+    }
+  ]
+}

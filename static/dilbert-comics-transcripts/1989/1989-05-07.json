@@ -1,0 +1,34 @@
+{
+  "date": "1989-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Chez de whales",
+        "This is a very fancy place, Dogbert, so don't embarrass me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh...two please.",
+        "Non-smoking.",
+        "I'm afraid, Monsieur, that jackets are required."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You may wear these complimentary house jackets while you dine."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You must also wear these beaver hats and clown feet.",
+        "Next time messieurs will remember their jackets.",
+        "Looks like we narrowly avoided embarrassment."
+      ]
+    }
+  ]
+}

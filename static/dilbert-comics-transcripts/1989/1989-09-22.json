@@ -1,0 +1,24 @@
+{
+  "date": "1989-09-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Dogbert, you want to go camping this weekend?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why don't we just sleep in the garage, eat bugs and not take showers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That is completely different from camping, for reasons which will come to me.",
+        "Because we might not get lost?"
+      ]
+    }
+  ]
+}

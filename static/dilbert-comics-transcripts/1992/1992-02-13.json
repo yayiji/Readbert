@@ -1,0 +1,25 @@
+{
+  "date": "1992-02-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our robot is taunting Dilbert mercilessly.",
+        "Is there any way to stop him?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I meant to tell you; I calibrated his neuro-actuator so he would obey only your commands, Dogbert."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What did he say?",
+        "He says there's nothing you can do."
+      ]
+    }
+  ]
+}

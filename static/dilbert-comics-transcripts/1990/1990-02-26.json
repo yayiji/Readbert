@@ -1,0 +1,25 @@
+{
+  "date": "1990-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Uncle Phil before he died hang gliding."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did he hit a tree?",
+        "Let's just say he didn't read the hang glider manual very carefully."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder if there's another reason it's called hang gliding.",
+        "Nah..."
+      ]
+    }
+  ]
+}

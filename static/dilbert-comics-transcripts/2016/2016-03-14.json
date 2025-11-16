@@ -1,0 +1,26 @@
+{
+  "date": "2016-03-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I love being the best negotiator in the entire department.",
+        "You're not."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you being racist?",
+        "Are you being sexist?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have met my equal.",
+        "Tell your equal I said hi when you pull your head out of it."
+      ]
+    }
+  ]
+}

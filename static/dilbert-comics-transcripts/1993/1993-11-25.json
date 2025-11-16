@@ -1,0 +1,24 @@
+{
+  "date": "1993-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The \"secretary with a crossbow\" goes on the hunt."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Moby dick!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You've been harpooned again, sir.",
+        "Yeah, but I capsized her desk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1999-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You said you'd give me a million bucks if I went to work like this.",
+        "Pay up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll bet you double or nothing that you won't go to work totally naked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... what were his exact words?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2016-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I saw you talking to my boss. Did he say anything about my project?",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your hesitant response tells me you know something and he asked you not to tell me.",
+        "Um..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is something terrible going to happen to me?",
+        "Um..."
+      ]
+    }
+  ]
+}

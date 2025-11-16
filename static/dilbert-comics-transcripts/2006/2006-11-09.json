@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've got a dead guy in cubicle D-32.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any idea how much paperwork it causes when someone dies in one of my cubicles?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ten more feet to the marketing department."
+      ]
+    }
+  ]
+}

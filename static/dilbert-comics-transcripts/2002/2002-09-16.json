@@ -1,0 +1,25 @@
+{
+  "date": "2002-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't see your reservation.",
+        "Elbonia Air"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it's because all of our computers are cardboard props that we stole from a furniture store."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For security purposes, would you care to frisk me?",
+        "Yes."
+      ]
+    }
+  ]
+}

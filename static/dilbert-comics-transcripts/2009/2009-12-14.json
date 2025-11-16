@@ -1,0 +1,25 @@
+{
+  "date": "2009-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My computer kept locking up, so I had to let off some steam."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't fix your computer by punching it!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would I punch my computer?",
+        "That's crazy.",
+        "Alice?"
+      ]
+    }
+  ]
+}

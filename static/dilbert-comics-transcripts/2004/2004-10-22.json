@@ -1,0 +1,24 @@
+{
+  "date": "2004-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's been a great three-hour meeting but I have one question."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can a business-led project management process optimize our strategic core issues?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was that gibberish?",
+        "I thought that's what we were doing."
+      ]
+    }
+  ]
+}

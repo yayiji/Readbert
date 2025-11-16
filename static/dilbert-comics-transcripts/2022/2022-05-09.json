@@ -1,0 +1,29 @@
+{
+  "date": "2022-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made no progress on my project this week because of all the supply chain issues."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But you can't fire me because you'll need me when the supply chain gets fixed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could pretend to work until things improve."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I was going to say it's the least I can do, but it isn't."
+      ]
+    }
+  ]
+}

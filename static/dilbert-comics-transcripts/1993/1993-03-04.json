@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look everyone, I'm engaged!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, it's one of those \"near diamond\" rings they were selling on the TV shopping channel for $29.95."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... of course it has a list price of over a hundred dollars...",
+        "Ooh, good save."
+      ]
+    }
+  ]
+}

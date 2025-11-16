@@ -1,0 +1,24 @@
+{
+  "date": "2006-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your MP3 player is large and scary, but I can fix that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All it needs is a set of Angelina Jolie lips and everyone will love it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Six months later",
+        "We must never speak of this."
+      ]
+    }
+  ]
+}

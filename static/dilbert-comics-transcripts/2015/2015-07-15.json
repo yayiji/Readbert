@@ -1,0 +1,25 @@
+{
+  "date": "2015-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want some advice?",
+        "Nope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Advice is just ego and ignorance disguised as helpfulness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then how will I hear myself talk?",
+        "The supply cabinet has an awesome echo."
+      ]
+    }
+  ]
+}

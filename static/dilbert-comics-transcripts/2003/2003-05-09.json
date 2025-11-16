@@ -1,0 +1,23 @@
+{
+  "date": "2003-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Double the revenue estimates and make sure the research supports it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But... but...it's too late! The research is done, and it won't support higher revenue!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your stress is from a combination of drive-by management and a flashlight in your eyes."
+      ]
+    }
+  ]
+}

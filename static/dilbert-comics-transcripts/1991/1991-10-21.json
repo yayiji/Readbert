@@ -1,0 +1,25 @@
+{
+  "date": "1991-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Uh... Wally, you're wearing only underwear at work.",
+        "I'm trying to get fired."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The company layoff plan is very generous.",
+        "I'll get a big pile of money if they ask me to leave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This has given me a degree of freedom in dealing with local management."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2003-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Catbert: Evil H.R. Director",
+        "From now on, the company will allow flex time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can work any hours you like, as long as you're here from eight to five."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's called unpaid overtime.",
+        "And you need to be flexible to do that to yourself, right?"
+      ]
+    }
+  ]
+}

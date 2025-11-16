@@ -1,0 +1,64 @@
+{
+  "date": "1996-02-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm embarrassed to work at my company, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can't even pay a simple invoice in less than six months."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First it comes to our mail room for aging.",
+        "Do we like Dilbert?",
+        "Bad haircut. Penalty box."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Months later it gets to our department secretary.",
+        "It's urgent.",
+        "I'll start ignoring it immediately."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Eventually my boss gets it.",
+        "He uses it to demonstrate his inability to grasp the concept of time.",
+        "Let's get some more bids.",
+        "That was the past. This is the present."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If it makes it to the accounts payable group, it will be eaten by trolls.",
+        "No, thanks.",
+        "I'm full.",
+        "Just a taste."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How would you protect your reputation if you were associated with something so pathetic?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'd tell everybody that the doofy guy is my butler.",
+        "Hypothetically."
+      ]
+    }
+  ]
+}

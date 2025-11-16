@@ -1,0 +1,53 @@
+{
+  "date": "2014-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're going to use the Jeff Bezos rule of meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bezos says you should never have a meeting that is so big you can't feed everyone with two pizzas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can eat two pizzas by myself."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "How do you count the people who have gluten sensitivity and don't eat pizza?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I apply Zeno's paradox to the slice size, can I have infinite attendees?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And what does it mean to \"feed\" everyone? Do they need to be totally full?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop being engineers!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How does cheese bread fit into this?"
+      ]
+    }
+  ]
+}

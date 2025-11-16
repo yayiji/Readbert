@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't hear you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I'm an engineer, and you're in sales, so that narrows it down to some dumb thing you're doing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I... can't... hear... you.",
+        "This is going to be a long meeting."
+      ]
+    }
+  ]
+}

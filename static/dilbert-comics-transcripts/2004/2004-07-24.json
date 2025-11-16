@@ -1,0 +1,25 @@
+{
+  "date": "2004-07-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The feral employee",
+        "Marketing wouldn't give me the product specs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I made this face and rifled through their dumpster."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you found the product specs?",
+        "French fry."
+      ]
+    }
+  ]
+}

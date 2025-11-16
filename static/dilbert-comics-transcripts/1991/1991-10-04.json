@@ -1,0 +1,25 @@
+{
+  "date": "1991-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look, Yergi."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The holy scrolls say a dog will fall from the sky.",
+        "They do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, they say \"Never shave your duck.\" But it's not literal. You have to interpret.",
+        "You mean I can shave my duck ?!!"
+      ]
+    }
+  ]
+}

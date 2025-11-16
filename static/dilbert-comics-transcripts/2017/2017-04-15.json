@@ -1,0 +1,24 @@
+{
+  "date": "2017-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you add the new feature yet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I had to fix a critical bug in the platform first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have no way to verify that claim.",
+        "That's why it's a good one."
+      ]
+    }
+  ]
+}

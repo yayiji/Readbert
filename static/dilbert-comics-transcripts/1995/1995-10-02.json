@@ -1,0 +1,26 @@
+{
+  "date": "1995-10-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're poised for success.",
+        "We expect huge earnings and increased market share!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Next on the agenda...",
+        "There will be no raises because it will be a difficult year..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Carol, I thought I told you to put the \"United Way\" update between those two agenda items.",
+        "Oopsie."
+      ]
+    }
+  ]
+}

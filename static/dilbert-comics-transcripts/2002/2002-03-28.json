@@ -1,0 +1,38 @@
+{
+  "date": "2002-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on,",
+        "everything we do",
+        "must be justified",
+        "by R.O.I."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the R.O.I.",
+        "for this new",
+        "policy about",
+        "calculating",
+        "the R.O.I.?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I said,",
+        "\"From",
+        "now",
+        "on.\"",
+        "What",
+        "about",
+        "your",
+        "answer?",
+        "No R.O.I."
+      ]
+    }
+  ]
+}

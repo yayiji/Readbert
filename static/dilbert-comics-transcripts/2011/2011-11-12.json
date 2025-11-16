@@ -1,0 +1,24 @@
+{
+  "date": "2011-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm here to boost your morale by pretending to be interested in you as a human being."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But it's probably overkill since unemployment is around 9% and you're not likely to quit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Still, it's nice to...",
+        "That's enough! I don't want my brain to fall out of my yawn hole."
+      ]
+    }
+  ]
+}

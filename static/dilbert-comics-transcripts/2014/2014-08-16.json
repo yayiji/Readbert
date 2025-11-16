@@ -1,0 +1,31 @@
+{
+  "date": "2014-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't look productive.",
+        "I'm on a conference call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe you should be in your cubicle listening to it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nah. They aren't saying anything important."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe they will.",
+        "Optimism sounds exhausting."
+      ]
+    }
+  ]
+}

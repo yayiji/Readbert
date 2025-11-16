@@ -1,0 +1,26 @@
+{
+  "date": "2013-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't need to see your résumé.",
+        "That's the old way of hiring."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now we use data from the internet to see what you've been up to lately.",
+        "Ew."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll show myself out.",
+        "You'll understand if I don't shake your hand."
+      ]
+    }
+  ]
+}

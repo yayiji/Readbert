@@ -1,0 +1,28 @@
+{
+  "date": "1997-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have a nice flight.",
+        "Remember to turn on your laptop computer during takeoff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I thought they tell you to turn it off?!",
+        "How would they transfer control to you if they had trouble?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Turn off that !*% laptop!!",
+        "No way!",
+        "I have to land this baby!",
+        "...Can I do that in \"Excel\"?"
+      ]
+    }
+  ]
+}

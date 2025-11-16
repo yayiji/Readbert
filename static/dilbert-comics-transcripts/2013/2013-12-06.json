@@ -1,0 +1,32 @@
+{
+  "date": "2013-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to use Facebook to waste time at work, but I don't have any friends."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I friend you?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure.",
+        "You'll be my only friend."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Will you post things for me to look at?",
+        "Wow.",
+        "Friends are totally inconvenient."
+      ]
+    }
+  ]
+}

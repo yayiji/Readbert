@@ -1,0 +1,24 @@
+{
+  "date": "2021-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I decided to become more of a socialist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With any luck, I'll benefit from your hard work without adding any value myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That feels immoral.",
+        "Get back to work. I have bills to pay."
+      ]
+    }
+  ]
+}

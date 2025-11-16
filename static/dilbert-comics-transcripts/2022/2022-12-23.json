@@ -1,0 +1,23 @@
+{
+  "date": "2022-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I tried to withdraw funds from the Dogbert crypto exchange, but I checked my balance and it shows zero."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is that some kind of mistake?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, you should never check your balance at the Dogbert crypto exchange."
+      ]
+    }
+  ]
+}

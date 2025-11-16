@@ -1,0 +1,26 @@
+{
+  "date": "1998-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you go for a walk at lunch?",
+        "Not exactly."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I got a bomb threat.",
+        "I didn't tell anyone else, just in case it was a hoax."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It was only yesterday that I was saying my morale couldn't be lower.",
+        "I bought a lottery ticket to increase the potential irony."
+      ]
+    }
+  ]
+}

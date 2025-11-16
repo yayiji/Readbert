@@ -1,0 +1,54 @@
+{
+  "date": "2007-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Some batteries in the lab leaked."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I cleaned it up, but there was no place to put all of the hazardous waste."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I couldn't put it in the regular trash or the recycling bin."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's not legal to pour it down the drain or flush it."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So I put it between two pieces of bread and left it in the break room refrigerator."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Not really. I just wanted to find out who's been eating my lunch."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You mean I'm not going to die?",
+        "Not instantly."
+      ]
+    }
+  ]
+}

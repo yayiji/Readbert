@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Some people might be fooled by your pretending to be a store mannequin."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I saw you hide your name tag. I know you're a retail clerk who is trying to avoid helping me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey! You're moving toward the \"employees only\" door. Stop it!",
+        "You won't get away with this!!",
+        "Ten more feet."
+      ]
+    }
+  ]
+}

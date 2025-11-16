@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I mentioned our new product to my spouse, and she suggested some changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "None of the changes are good ideas, but I want to stay married, so do them anyway."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This would take months.",
+        "I told her two days. Don't make me look dumb."
+      ]
+    }
+  ]
+}

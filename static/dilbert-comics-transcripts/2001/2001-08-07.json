@@ -1,0 +1,23 @@
+{
+  "date": "2001-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello... yes, I'd like to buy a rave review for my new movie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you afford \"suspenseful thrill ride\" or would you like something more in the \"delightful\" price range."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm releasing it on New Year's Day; can you give me a price for \"best comedy so far this year\"?"
+      ]
+    }
+  ]
+}

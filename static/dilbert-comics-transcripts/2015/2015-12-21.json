@@ -1,0 +1,25 @@
+{
+  "date": "2015-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Team interview",
+        "To be perfectly honest, Bob, you are unqualified to work here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your boss already hired me. He told me to talk to you so you'd feel included in the decision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait... did I miss a huge red flag?",
+        "We all did. Welcome to the team."
+      ]
+    }
+  ]
+}

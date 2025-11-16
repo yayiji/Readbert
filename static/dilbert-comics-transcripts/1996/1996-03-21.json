@@ -1,0 +1,29 @@
+{
+  "date": "1996-03-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want everyone to prepare a presentation for the executive review board. Urgent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that smell?",
+        "Yes!!! It's the scent of unnecessary work for a meeting that will be canceled.",
+        "Sniff",
+        "Sniff"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did you smell the unnecessary work?",
+        "We can ignore it!",
+        "It's like popcorn for the soul.",
+        "Urgent"
+      ]
+    }
+  ]
+}

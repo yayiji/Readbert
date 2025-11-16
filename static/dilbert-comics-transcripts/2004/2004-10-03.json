@@ -1,0 +1,56 @@
+{
+  "date": "2004-10-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to watch when the new employee looks at her first paycheck?",
+        "Ooh-ya!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do we know about her?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "She's straight out of college. All of her prior jobs paid her in cash.",
+        "Perfect."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ear guards on.",
+        "My first paycheck!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Deductions??? Hmmm...how bad could it be?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What the..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Next time, no coffee."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Eh?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-03-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I get a bonus if I laugh at your jokes during meetings?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I already have sycophants to do that function for free. What would you add?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can blow coffee out of my nose.",
+        "Good, good. I can work with that."
+      ]
+    }
+  ]
+}

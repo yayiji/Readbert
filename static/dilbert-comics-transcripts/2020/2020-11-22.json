@@ -1,0 +1,56 @@
+{
+  "date": "2020-11-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We've triple-checked all systems, and we are ready to launch the satellite."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Nothing can go wrong.",
+        "Initiating launch."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nothing can go wrong?",
+        "What if an alien spaceship appears over the launch site?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Gaaa!!! Don't jinx us."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's not how reality works. I can't make things happen just by suggesting them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You're wrong! That is exactly how reality works!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Something just appeared on radar directly above the rocket's trajectory."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe it's a bird.",
+        "It's the size of Belgium."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2002-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't e-mail your answer to my boss until I've reviewed it.",
+        "Um...okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "May I walk to my cubicle now or would you like to review the route first?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now that you mentioned it, I can't release."
+      ]
+    }
+  ]
+}

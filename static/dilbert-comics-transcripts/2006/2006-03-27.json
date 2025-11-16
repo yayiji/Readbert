@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's our prototype from the Elbonian factory."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, I'm no expert, but this is obviously a good one of these."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's an MP3 player.",
+        "We used to call them plumber's helpers!"
+      ]
+    }
+  ]
+}

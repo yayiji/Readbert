@@ -1,0 +1,23 @@
+{
+  "date": "1998-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long will it take to process my voucher?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I assign a priority to everyone. I'm happy to say you're a \"one.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "One chance in a million."
+      ]
+    }
+  ]
+}

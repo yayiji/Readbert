@@ -1,0 +1,55 @@
+{
+  "date": "2020-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted says he can't make it to the meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only reason for this meeting is so Ted can tell us what he's doing on his project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We should reschedule."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Not so fast.",
+        "I think we can salvage this."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If we guess what Ted might have told us, that gets us halfway there."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't think it does.",
+        "We can't know until we try."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Why don't the rest of us leave, and you can stay here and guess what we would have said, too."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "...And then Dilbert would have said..."
+      ]
+    }
+  ]
+}

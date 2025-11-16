@@ -1,0 +1,25 @@
+{
+  "date": "1995-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think we should build an SQL database.",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Does he understand what he said or is it something he saw in a trade magazine ad?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What color do you want that database?",
+        "I think mauve has the most RAM."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1992-08-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bill's big 'n' egg-shaped men's fashions",
+        "Specializing in the ovoid man",
+        "Open"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I want some clothes that make a statement.",
+        "All our clothes make a statement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This sweater says \"Help me, help me, I look like a big egg!\"",
+        "Does it come in brown?"
+      ]
+    }
+  ]
+}

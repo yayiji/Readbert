@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't worry, Asok.",
+        "The prototype is perfectly safe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I found you a co-pilot.",
+        "He's a bit grim, but he works for free."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, I wonder what this button does."
+      ]
+    }
+  ]
+}

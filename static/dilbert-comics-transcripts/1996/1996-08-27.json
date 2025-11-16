@@ -1,0 +1,25 @@
+{
+  "date": "1996-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good news, Alice.",
+        "I'm going to have quarterly performance reviews to boost morale."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! In addition to working sixteen hours a day in this big box, now I'll get 300% more criticism!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll have a chance to hear employee concerns four times a year.",
+        "I assume comprehension will remain on the bicentennial plan."
+      ]
+    }
+  ]
+}

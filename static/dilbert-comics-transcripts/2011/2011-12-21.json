@@ -1,0 +1,26 @@
+{
+  "date": "2011-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What does our CEO get if he does a good job?",
+        "A fifty million dollar bonus."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do I get if I do a good job?",
+        "More work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your best guess about why I'm not motivated?",
+        "Bad genes."
+      ]
+    }
+  ]
+}

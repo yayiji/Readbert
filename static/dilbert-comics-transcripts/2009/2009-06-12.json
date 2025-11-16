@@ -1,0 +1,24 @@
+{
+  "date": "2009-06-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My base pay will be one dollar per year.",
+        "The rest will be stock incentives."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That guarantees you will reap obscene profits when the overall stock market improves, no matter what you do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Pretend you don't know that."
+      ]
+    }
+  ]
+}

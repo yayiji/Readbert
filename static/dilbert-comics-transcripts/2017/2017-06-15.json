@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you help me edit my slides for my CEO presentation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have 75 slides and ten minutes to present."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Get rid of 74 of them.",
+        "I'll ask someone else."
+      ]
+    }
+  ]
+}

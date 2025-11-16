@@ -1,0 +1,26 @@
+{
+  "date": "1993-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have to give a speech to the \"Society of Engineers\" today...",
+        "I'm a bit nervous."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes you can relax by imagining the audience is naked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whoa! Cancel that.",
+        "I just pictured four hundred naked engineers.",
+        "Too late."
+      ]
+    }
+  ]
+}

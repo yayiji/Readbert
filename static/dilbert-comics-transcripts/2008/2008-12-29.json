@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That hotel you booked for the management offsite meeting wasn't actually a hotel."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm fairly sure it was the foyer to hell."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What gave you that idea?",
+        "Our concierge was a swarm of locusts!!!"
+      ]
+    }
+  ]
+}

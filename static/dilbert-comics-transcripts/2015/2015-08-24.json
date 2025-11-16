@@ -1,0 +1,23 @@
+{
+  "date": "2015-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The supreme court ruled that engineers cannot be found guilty of murder."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Lawyers argued that any good engineer knows how to get away with murder, so getting caught is proof of innocence."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The ruling was unanimous because no one could figure out which side was the liberal one."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2011-04-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you mind if I ask Carol to help me schedule these meetings?",
+        "Ooh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's no good.",
+        "She'd use it as an excuse to do absolutely nothing else for a week."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it okay if I just stare at you in disbelief?",
+        "Shouldn't you be scheduling some meetings?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Allow me to introduce our new senior vice president of miscellaneous stuff."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's in charge of this-and-that, whatnot, whatever, and et cetera."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to say a few words?",
+        "Brick... elbow... pudding... et cetera."
+      ]
+    }
+  ]
+}

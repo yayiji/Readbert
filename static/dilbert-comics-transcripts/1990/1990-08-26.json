@@ -1,0 +1,43 @@
+{
+  "date": "1990-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You shouldn't salt your food before tasting it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's a calculated risk..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The average mouthful of food is five percent of the total serving."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So timid salters eat five percent of almost every meal with too little salt..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Because only one time in a thousand is food too salty to begin with."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Therefore, over a lifetime you experience almost five percent less salt-related happiness than I do.",
+        "Not necessarily.",
+        "I usually salt my tongue after the first swallow."
+      ]
+    }
+  ]
+}

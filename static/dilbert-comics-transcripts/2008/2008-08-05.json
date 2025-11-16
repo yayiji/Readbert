@@ -1,0 +1,25 @@
+{
+  "date": "2008-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Employee wellness programs save money in the long run, but that does you no good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You need a program that can save you money now, when it makes a difference."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "A hellness program?",
+        "I don't like the sound of that.",
+        "Try to see the big picture for once."
+      ]
+    }
+  ]
+}

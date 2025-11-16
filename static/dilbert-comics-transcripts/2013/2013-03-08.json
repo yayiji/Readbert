@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say the best leaders have a good sense of humor."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm an awesome leader, therefore I must be hilarious."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't tell if I should laugh at that.",
+        "That's because you're not a leader."
+      ]
+    }
+  ]
+}

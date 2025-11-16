@@ -1,0 +1,26 @@
+{
+  "date": "2016-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Stop! Why are you here?",
+        "I have an interview for a job as an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name is Wally.",
+        "Tell human resources I referred you and I'll get a $1,000 bonus."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you noticed that all of our new hires were referred by the same person?",
+        "Sounds like we found our employee of the year!"
+      ]
+    }
+  ]
+}

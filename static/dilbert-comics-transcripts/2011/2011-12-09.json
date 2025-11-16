@@ -1,0 +1,23 @@
+{
+  "date": "2011-12-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I woke up on the wrong side of the bed this morning."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Were you hanging from the bottom with your wings wrapped around your body?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was funnier inside my head."
+      ]
+    }
+  ]
+}

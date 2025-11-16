@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My company wants me to design a private moon shuttle in three months.",
+        "Doom is inevitable."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What you need is a scapegoat to blame for the project never getting finished.",
+        "I'll send one over."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was almost done, and then this idiot comes along."
+      ]
+    }
+  ]
+}

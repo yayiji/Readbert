@@ -1,0 +1,53 @@
+{
+  "date": "2021-05-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It isn't fair that Alice gets all the best projects."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And what's your point?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not fair."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You already said that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You should do something to make it more fair."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Why?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Because it's not fair?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you bump your head?"
+      ]
+    }
+  ]
+}

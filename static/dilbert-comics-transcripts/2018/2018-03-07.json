@@ -1,0 +1,24 @@
+{
+  "date": "2018-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thank you for that two-hour summary of your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I didn't understand any of the jargon you used, but based on the context, I believe you are saying the software will be done soon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't say anything about software.",
+        "I guess neither of us did our best work today."
+      ]
+    }
+  ]
+}

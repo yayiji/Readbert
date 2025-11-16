@@ -1,0 +1,24 @@
+{
+  "date": "2023-02-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need employees who are loyal to the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I promise to be as loyal to the company as the company is to me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good enough?",
+        "Stop being a jerk."
+      ]
+    }
+  ]
+}

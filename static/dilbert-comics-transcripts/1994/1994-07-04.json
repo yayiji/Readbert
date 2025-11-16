@@ -1,0 +1,24 @@
+{
+  "date": "1994-07-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here's my daily project status report."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Morale is low. There is talk of mutiny. We dream of quitting and becoming life-guards on \"Baywatch\". Death to the pointy-haired one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Holy cow!",
+        "\"Baywatch\" is hiring??!"
+      ]
+    }
+  ]
+}

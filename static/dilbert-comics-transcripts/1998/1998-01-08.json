@@ -1,0 +1,25 @@
+{
+  "date": "1998-01-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you free on Thursday for Ted's surprise party?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Party? You don't give a party for someone who has a death in the family.",
+        "Well... we got him a card, then flowers. It just snow-balled."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I assume this will all be in good taste.",
+        "I can't promise that. Karaoke is really hit or miss."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2010-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How long will your project take if I add two people?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Add one month for training, one month for the extra complexity, and one month to deal with their drama."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But after all of that...",
+        "They'll be as useful as this meeting."
+      ]
+    }
+  ]
+}

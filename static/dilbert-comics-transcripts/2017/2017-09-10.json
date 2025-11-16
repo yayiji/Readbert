@@ -1,0 +1,56 @@
+{
+  "date": "2017-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, do you want to weigh in on this?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sorry, I wasn't listening. I was playing with my phone under the table."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Terrific.",
+        "Alice, how about you?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Um... sorry.",
+        "I was using my phone under the table."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Was anyone in this room listening to me for the past half-hour?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Forget it!",
+        "I'm out of here!",
+        "You're on your own!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Worst meeting ever.",
+        "Have you seen the viral video of you going nuts?"
+      ]
+    }
+  ]
+}

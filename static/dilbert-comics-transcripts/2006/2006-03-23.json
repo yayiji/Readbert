@@ -1,0 +1,24 @@
+{
+  "date": "2006-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Famous artist Dogberto will tell us his plans for our lobby."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I plan to buy a drop cloth at Home Depot and drape it over the security desk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Won't that be hard on the guard?",
+        "Not until I douse it with gas and light it."
+      ]
+    }
+  ]
+}

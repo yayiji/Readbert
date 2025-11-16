@@ -1,0 +1,23 @@
+{
+  "date": "1992-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Dogbert, you made a good argument in your petimony suit against Dilbert..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But Dilbert had some good points, too... I call it a tie."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Third tie this week... maybe it's me..."
+      ]
+    }
+  ]
+}

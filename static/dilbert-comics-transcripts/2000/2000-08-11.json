@@ -1,0 +1,23 @@
+{
+  "date": "2000-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had planned to hire another engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At the last minute I remembered I could just make you work twice as hard."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could nominate me for one of those cost-saving awards."
+      ]
+    }
+  ]
+}

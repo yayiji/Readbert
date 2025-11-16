@@ -1,0 +1,26 @@
+{
+  "date": "2013-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to work less.",
+        "Your productivity is making us look bad."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you keep being productive, we will hunt you down.",
+        "If it's easy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "About the peer review concept...",
+        "I don't think you thought it through."
+      ]
+    }
+  ]
+}

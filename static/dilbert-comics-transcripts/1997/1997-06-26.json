@@ -1,0 +1,24 @@
+{
+  "date": "1997-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm writing a book that debunks the effectiveness of business consultants."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But common sense would say that you're being a consultant yourself, so your opinion is logically flawed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only people with no common sense will buy your book.",
+        "I prefer to call them the mass market."
+      ]
+    }
+  ]
+}

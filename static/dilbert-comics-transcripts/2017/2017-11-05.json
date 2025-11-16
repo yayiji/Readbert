@@ -1,0 +1,57 @@
+{
+  "date": "2017-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Don't tell Dilbert I told you what he plans to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What if he asks me how I found out?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should lie."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have given me two bad choices."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "If I don't change my plans based on this information, I'll have big problems."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But if I act on it, Dilbert will ask me how I knew, and that will turn me into a liar."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yes, those are your only options.",
+        "Unless..."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There's no \"unless.\"",
+        "You have only two options.",
+        "Just two!",
+        "Have you ever seen the view from the roof?"
+      ]
+    }
+  ]
+}

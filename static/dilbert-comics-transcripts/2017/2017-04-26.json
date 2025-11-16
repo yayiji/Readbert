@@ -1,0 +1,23 @@
+{
+  "date": "2017-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been telling employees that our culture is our best asset."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do they pretend that makes sense?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, because we have a culture of lying to avoid conflict."
+      ]
+    }
+  ]
+}

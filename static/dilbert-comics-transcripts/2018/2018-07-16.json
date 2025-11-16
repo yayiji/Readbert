@@ -1,0 +1,23 @@
+{
+  "date": "2018-07-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I'm putting you in charge of making a persuasive sales video for our Elbonian clients."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make sure you read their Wikipedia page first so you understand the nuances of their culture."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In the Elbonian culture, showing someone a sales video is punishable by death."
+      ]
+    }
+  ]
+}

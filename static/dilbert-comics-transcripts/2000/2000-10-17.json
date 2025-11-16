@@ -1,0 +1,23 @@
+{
+  "date": "2000-10-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did Dilbert do something terrible or am I hallucinating?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd better play it safe and punish him in ways that are ambiguous and untraceable."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I had to change your network password to \"Die-Dilbert-Die\" and I can't say why."
+      ]
+    }
+  ]
+}

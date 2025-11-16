@@ -1,0 +1,25 @@
+{
+  "date": "2019-03-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're dating a unicorn.",
+        "That is absurd and untrue."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then how do you explain the fact that five people told me it was true?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I mean, you'd have to believe all five of them are idiots.",
+        "Including you, it's six."
+      ]
+    }
+  ]
+}

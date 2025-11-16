@@ -1,0 +1,25 @@
+{
+  "date": "2011-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Pete, I'm getting complaints that everything you say is creepy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You seem tense.",
+        "I should give you the number of my massage therapist, \"Rubbin, Robin.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're doing it again.",
+        "I don't have an address because he works out of a rusty van."
+      ]
+    }
+  ]
+}

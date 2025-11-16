@@ -1,0 +1,47 @@
+{
+  "date": "2011-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, your boss asked me to get your input on this.",
+        "Absolutely, Ruth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have two options for wasting our time here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Option one: I could tell you all of the things you should change, and you could ignore me as usual.",
+        "Option two: I could lie, and tell you that everything is perfect."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I prefer the lie.",
+        "That way I can pin some blame on you if things go bad."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Excellent choice.",
+        "It's faster, and I can later say I was misinterpreted."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Okay then, I declare that your document is perfect, under a certain set of assumptions that I won't list.",
+        "Did you help Ruth?",
+        "I'll say yes, but it's sort of a gray area."
+      ]
+    }
+  ]
+}

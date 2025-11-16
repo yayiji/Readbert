@@ -1,0 +1,25 @@
+{
+  "date": "1991-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're sorry to hear you're getting laid off, Bruce."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We calculated that if ten of your friends here took ten percent pay cuts then the company can keep you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gosh!",
+        "You'd do that for me?",
+        "No. We're here to look at your office furniture."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2001-08-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't sleep.",
+        "Would you tell me a story."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Once upon a time there was a pointy-haired monster."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He promised riches to the villagers if they could achieve his random objectives."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The villagers worked long hours but they were happy and optimistic."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Suddenly the evil monster cut their funding and hired the village idiot to be project manager."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And that is how the villagers got trapped in meetings for all eternity.",
+        "The end."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Waaa!!",
+        "Waaa!!",
+        "Waaa!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Rats cry when they hear about my life.",
+        "It never pays to listen."
+      ]
+    }
+  ]
+}

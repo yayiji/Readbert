@@ -1,0 +1,31 @@
+{
+  "date": "2005-04-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I might have no budget and no staff to help me on my project, but that doesn't matter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Because all I need are my wits and my computer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My computer is too slow.",
+        "I'm taking yours."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My wits and...this pencil.",
+        "Hey, isn't that my pencil?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "1997-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The theme of our engineering conference is..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Employees are our most valuable asset."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And like most assets, you decline in value over time."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I know what you're thinking: not all assets decline in value."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "For example, fine art is worth more every year."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But I don't think the Louvre will be asking for one of these anytime soon."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "On your way out, Mister Catbert will give each of you a certificate of depreciation."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's still better than last year's theme, \"Have you earned your air today?\""
+      ]
+    }
+  ]
+}

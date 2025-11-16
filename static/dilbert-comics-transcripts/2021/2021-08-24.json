@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you edit your technical analysis down to one page?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sure. I'll just replace my superb analysis with a bunch of generic bullet points."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That'll work.",
+        "Safety is good ..."
+      ]
+    }
+  ]
+}

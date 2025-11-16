@@ -1,0 +1,55 @@
+{
+  "date": "2014-11-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company has two exciting announcements."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We are launching a new artificial meat product."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Clap clap",
+        "Clap clap clap",
+        "Clap"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "In unrelated news, our manufacturing plant is now fully automated by robots."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Wow. It got quiet in here."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't want to say we have no trust in senior management, but..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Did you order the robots to kill all of the manufacturing employees and turn them into a meat product?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Before I answer that, can we agree that capitalism has some rough edges?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1993-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm so mad... I just bought a new computer and it's already obsolete."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't feel bad. The other engineers won't look down on you just because you're behind the technology curve."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yeah, we will.",
+        "Not right in front of him."
+      ]
+    }
+  ]
+}

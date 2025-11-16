@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a vision that our next product will be a tablet computer the size of a dime."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Users will lick it and attach it to their eyeballs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can you finish that in a month?",
+        "I can fail at any speed you like."
+      ]
+    }
+  ]
+}

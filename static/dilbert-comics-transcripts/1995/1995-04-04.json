@@ -1,0 +1,26 @@
+{
+  "date": "1995-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the consultant",
+        "Your best bet is to relocate the company to Russia."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can hire engineers for two cents a year!",
+        "Is it difficult to weed out the dumb ones?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. And that leads me into the good news about their occupational safety laws.",
+        "It's like heaven!"
+      ]
+    }
+  ]
+}

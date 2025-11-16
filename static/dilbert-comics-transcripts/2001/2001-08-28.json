@@ -1,0 +1,24 @@
+{
+  "date": "2001-08-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "First, we'll lower costs by offering a retirement package that induces all the smart employees to leave."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then we'll rewrite our mission statement to make it fit better."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our new mission statement is, \"If you can read this you should have retired by now.\"",
+        "Ouch"
+      ]
+    }
+  ]
+}

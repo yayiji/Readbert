@@ -1,0 +1,54 @@
+{
+  "date": "2010-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I asked Wolfgang to join us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's a software genius, if not a legend."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "He knows more than all of you put together.",
+        "Plus his name is Wolfgang."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Some say his talent is a genetic mutation. Others say that God speaks to him in Unix."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "All we know for sure is that he glows, and he never needs to eat."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I feel a chill. It means he's approaching."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Please don't reprogram my DNA and make me a monkey-man!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "People make a lot of assumptions when you change your name to Wolfgang and stop shaving."
+      ]
+    }
+  ]
+}

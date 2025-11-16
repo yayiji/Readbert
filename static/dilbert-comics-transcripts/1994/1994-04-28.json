@@ -1,0 +1,30 @@
+{
+  "date": "1994-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Take care of this immediately.",
+        "It's your top priority."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Top priority??",
+        "This is dated last month.",
+        "It's been on your desk for weeks",
+        "and now it's your top priority??"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I said it's your top priority.",
+        "I still don't care about it.",
+        "Well....",
+        "Okay then."
+      ]
+    }
+  ]
+}

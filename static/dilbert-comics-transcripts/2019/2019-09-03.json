@@ -1,0 +1,24 @@
+{
+  "date": "2019-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to fill in for me while I'm on vacation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would have asked someone competent, but they're all on vacation next week, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Please don't destroy the entire company.",
+        "Do I seem that motivated?"
+      ]
+    }
+  ]
+}

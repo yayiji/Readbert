@@ -1,0 +1,24 @@
+{
+  "date": "1990-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've taken the liberty of calculating a twenty-percent tip."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's written on the back next to a picture of a smiling diner...",
+        "A fifteen percent tip is shown by the picture of a guilty-looking diner."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Below that is a picture of a diner and his dog with salad forks in their backs..."
+      ]
+    }
+  ]
+}

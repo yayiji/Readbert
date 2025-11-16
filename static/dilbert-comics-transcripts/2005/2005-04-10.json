@@ -1,0 +1,53 @@
+{
+  "date": "2005-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are your regular goals and here are your stretch goals."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's the difference?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The regular goals can be achieved by sacrificing your health and your personal life."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The stretch goals require all of that plus some sort of criminal conduct."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I'm guessing that your boss gave you the regular goals, and you came up with the stretch goals on your own."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That way, when I achieve the regular goals, you'll get a raise but I'll get none because I missed the stretch goals."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then you'll get a bonus for keeping salaries below budget."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Maybe we should talk about the ultra-stretchy goals later."
+      ]
+    }
+  ]
+}

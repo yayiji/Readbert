@@ -1,0 +1,24 @@
+{
+  "date": "2005-08-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's the coding coming along?",
+        "No problem unless..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...Some moron tries to standardize on a new programming methodology in the middle of the project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if it's me instead of some moron guy?"
+      ]
+    }
+  ]
+}

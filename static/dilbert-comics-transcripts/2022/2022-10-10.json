@@ -1,0 +1,23 @@
+{
+  "date": "2022-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My pay is not keeping up with inflation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps you could cultivate an abundance mindset."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any other problems I can solve for you?"
+      ]
+    }
+  ]
+}

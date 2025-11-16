@@ -1,0 +1,24 @@
+{
+  "date": "1989-05-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's so awkward to walk past strangers in hallways; you always gotta avoid eye contact."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I know-I'll wait until we're near and then pick up that little piece of fuzz on the carpet there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Then we both went for the carpet fuzz.",
+        "Smooth."
+      ]
+    }
+  ]
+}

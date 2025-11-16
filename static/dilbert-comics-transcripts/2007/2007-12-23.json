@@ -1,0 +1,54 @@
+{
+  "date": "2007-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm off to the management retreat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't be reachable because I'll be busy golfing, swimming, drinking, and getting massages."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And attending meetings?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't see how we'll have any time for that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "While I'm gone, I have a few tasks for you to do."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Open all the packages of printer paper and make sure they have the right number of sheets."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Then crawl into the heating ducts and see if you can find what died in there."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's my last boss.",
+        "Spray him with something lemony."
+      ]
+    }
+  ]
+}

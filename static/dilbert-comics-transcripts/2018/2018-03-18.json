@@ -1,0 +1,55 @@
+{
+  "date": "2018-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There's a new tell-all book about our company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How bad is it?",
+        "It's bad."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Anonymous sources within the company say you're a \"raging sociopath with the intellect of a clam.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Put out a press release denying those lies!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's going to be tricky to write."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Just say I deny being a sociopath with the mind of a clam."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Also say I hope whoever said that about me dies a slow and terrible death."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is that clear?",
+        "Yes, on many levels."
+      ]
+    }
+  ]
+}

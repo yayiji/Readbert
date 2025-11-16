@@ -1,0 +1,24 @@
+{
+  "date": "1990-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello... Buckingham Palace?",
+        "I was wondering if the princess would be willing to kiss a frog and remove a witch's curse for us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh... Lady Di does not kiss hideous little creatures..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That must be mighty awkward at family reunions... hello?"
+      ]
+    }
+  ]
+}

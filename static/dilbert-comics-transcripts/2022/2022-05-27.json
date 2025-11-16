@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our sales are up 23% since Elon Musk bought our company and fired the entire marketing department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That worked so well, I plan to fire the engineering department to impress him."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you doing anything to impress him?",
+        "I plan to fire you. I think he'd like that."
+      ]
+    }
+  ]
+}

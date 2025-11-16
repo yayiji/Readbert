@@ -1,0 +1,55 @@
+{
+  "date": "2019-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won a government contract to measure ocean temperatures."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Which part of the ocean?",
+        "The whole ocean."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We can't put sensors everywhere in the ocean. It's too big."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We can measure a bunch of places and estimate the rest."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So... you want me to measure 1% of the ocean's temperature and estimate the other 99%?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't know how to do that.",
+        "Try using math."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Wouldn't it be cheaper to measure nothing and just estimate the whole thing?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Every now and then you come up with a great idea."
+      ]
+    }
+  ]
+}

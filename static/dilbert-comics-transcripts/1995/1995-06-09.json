@@ -1,0 +1,24 @@
+{
+  "date": "1995-06-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dysfunctional team...",
+        "I'd like each of you to tell the team what you learned in my workshop."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I learned to listen with my heart. I gained respect for others. I understand Sanskrit. I got my ham radio license. I can divide by zero..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I love going first."
+      ]
+    }
+  ]
+}

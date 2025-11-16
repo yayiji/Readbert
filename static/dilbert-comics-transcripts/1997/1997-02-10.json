@@ -1,0 +1,24 @@
+{
+  "date": "1997-02-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a bullet point for your monthly accomplishments, Wally."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Put me down for, \"Leveraged synergy across all technology platforms.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That was your accomplishment last month.",
+        "It's more of a journey than a destination."
+      ]
+    }
+  ]
+}

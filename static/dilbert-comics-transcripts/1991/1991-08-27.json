@@ -1,0 +1,25 @@
+{
+  "date": "1991-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I haven't spoken for this whole meeting.",
+        "Blah blah"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll wait for a quiet space and chime in with something that makes me look smart."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anybody have any unproductive yet insightful comments to show how smart they are?",
+        "Yo"
+      ]
+    }
+  ]
+}

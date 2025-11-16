@@ -1,0 +1,29 @@
+{
+  "date": "2001-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The cure for carpal tunnel is to eat six bananas a day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's what I do and I have the hands of a teenager."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any data to support your medical advice?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Does a huge pimple count?"
+      ]
+    }
+  ]
+}

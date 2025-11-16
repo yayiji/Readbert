@@ -1,0 +1,28 @@
+{
+  "date": "2012-03-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Rogue nations are building nuclear weapons.",
+        "The polar ice caps are melting.",
+        "Unemployment is high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Entire nations are on the brink of default.",
+        "You aren't saving enough for retirement."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you have going here?",
+        "He said he doesn't pay attention to news.",
+        "I wondered why."
+      ]
+    }
+  ]
+}

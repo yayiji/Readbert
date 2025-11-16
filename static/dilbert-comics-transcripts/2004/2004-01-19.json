@@ -1,0 +1,26 @@
+{
+  "date": "2004-01-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Everyone, this is Dilbert.",
+        "He flew half-way around the world to give us this presentation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh",
+        "What? I thought I flew here so you could give me a presentation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could show you some proprietary documents.",
+        "I'd like that."
+      ]
+    }
+  ]
+}

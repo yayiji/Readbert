@@ -1,0 +1,24 @@
+{
+  "date": "1994-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is Bob in his office?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Since Bob's office is all of twenty feet away, I'll have to use my psychic powers to determine the answer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I could go look.",
+        "Bob hates you. He secretly wishes you'd choke on a donut."
+      ]
+    }
+  ]
+}

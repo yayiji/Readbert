@@ -1,0 +1,24 @@
+{
+  "date": "2019-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm hearing reports that you are abusing your service human."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't think you pay him enough for that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait. I'm supposed to get paid for this???",
+        "Great. Now you've ruined him!"
+      ]
+    }
+  ]
+}

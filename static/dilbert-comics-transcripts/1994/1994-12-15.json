@@ -1,0 +1,27 @@
+{
+  "date": "1994-12-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I didn't get the job in marketing.",
+        "They say I have no experience."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Try inviting yourself to meetings.",
+        "Nobody ever says no.",
+        "And they're too timid to kick you out once you sit down."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anybody want to split a donut?",
+        "I'll just take half and leave the rest."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2013-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to recognize Ted for writing his part of the code in just two days."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many days was it supposed to take?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "At least a week, I would think.",
+        "Why would you think that?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Because it was so hard to do.",
+        "Who told you it was hard?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Ted did."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "All he did was delete some lines from existing code and recompile it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It was hard.",
+        "See!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Do you have any more crazy conspiracy theories?"
+      ]
+    }
+  ]
+}

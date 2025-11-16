@@ -1,0 +1,24 @@
+{
+  "date": "2013-03-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The upgrade could make our network unstable.",
+        "You can't make an omelet without breaking some eggs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I interpret your folksy response to mean I should upgrade the network despite the risks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I'm saying I'll break your eggs if the network goes down."
+      ]
+    }
+  ]
+}

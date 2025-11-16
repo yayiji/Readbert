@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was a sheep rancher before I worked here."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many sheep did you have?",
+        "I'm not sure..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Every time I tried to count them, I fell asleep."
+      ]
+    }
+  ]
+}

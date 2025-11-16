@@ -1,0 +1,26 @@
+{
+  "date": "1989-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My computer simulation will determine, once and for all, the real reason dinosaurs became extinct."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait... according to this, it would be almost impossible for all dinosaurs to be extinct.",
+        "Then they must just be..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...Hiding.",
+        "Yeah? Just try to find us.",
+        "Shhhh!"
+      ]
+    }
+  ]
+}

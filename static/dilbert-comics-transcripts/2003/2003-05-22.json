@@ -1,0 +1,23 @@
+{
+  "date": "2003-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My job is not stimulating my mind."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you want to have tigers, you must feed them tiger meat."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But that is only an analogy. Please do not make me eat a zebra."
+      ]
+    }
+  ]
+}

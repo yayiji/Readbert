@@ -1,0 +1,25 @@
+{
+  "date": "2007-05-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please help me. Your dog has enslaved my people in your basement and forced us to make running shoes!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!!",
+        "My eyes!!!",
+        "Pssst"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like to help people, but I also like inexpensive footwear."
+      ]
+    }
+  ]
+}

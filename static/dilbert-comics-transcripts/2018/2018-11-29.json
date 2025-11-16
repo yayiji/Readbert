@@ -1,0 +1,23 @@
+{
+  "date": "2018-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "At my company, every employee is their own boss."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you make decisions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I get back to you when we make one? It's only been two years."
+      ]
+    }
+  ]
+}

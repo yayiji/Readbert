@@ -1,0 +1,26 @@
+{
+  "date": "2001-12-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our copier is broken. May I use yours?",
+        "Only if you use your own paper."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I just need one copy and my office is about a mile away.",
+        "Don't make me unleash the hound."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a hound?",
+        "Technically he's a web designer in a tight labor market."
+      ]
+    }
+  ]
+}

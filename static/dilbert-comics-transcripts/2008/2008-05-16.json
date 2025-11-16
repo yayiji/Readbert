@@ -1,0 +1,25 @@
+{
+  "date": "2008-05-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have the approved vendor list?",
+        "Hmmm, Alice and Asok asked for that list too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you one of three people assigned to the same project because your boss believes none of you are reliable?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe.",
+        "Hmmm, and you're the last one to ask for the list."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2016-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I take a class to improve my communication skills?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What are you talking about?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I want to take a class that teaches me how to communicate better."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I don't understand what you're asking me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I am asking permission to take a class to help me communicate better."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I see your lips moving but I can't figure out what you're asking."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! There's no way to get there from here!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm glad I took that management class on how to not listen. It already paid off."
+      ]
+    }
+  ]
+}

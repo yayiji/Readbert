@@ -1,0 +1,28 @@
+{
+  "date": "1996-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "10",
+        "Injury free days"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bam!",
+        "Aaaaeeii!!",
+        "R-r-roll",
+        "Thud"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "This is very ironic.",
+        "No, it was ironic when it happened eleven days ago."
+      ]
+    }
+  ]
+}

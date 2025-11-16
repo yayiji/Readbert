@@ -1,0 +1,27 @@
+{
+  "date": "2010-03-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired a new poltergeist for our copy machine.",
+        "Our old one got promoted to the server farm."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't it be better to not have any poltergeists?",
+        "It's a union thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "May I please have my original back?",
+        "I can't hear you.",
+        "Put your face up close."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2002-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need advice from the master."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you remain so carefree while everyone else seems overworked?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Asok, you are ready to learn my most powerful secret."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Always volunteer to do lots of tasks. That will make you appear very busy."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Later, when someone complains that you didn't do a task..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Say you remember discussing the topic but you don't recall agreeing to do anything."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Offer a glimmer of hope that you might yet do the task if no one yells at you.",
+        "Then repeat."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Wow.",
+        "He is like a Gandhi that eats."
+      ]
+    }
+  ]
+}

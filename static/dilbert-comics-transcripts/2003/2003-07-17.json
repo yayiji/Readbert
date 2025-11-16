@@ -1,0 +1,24 @@
+{
+  "date": "2003-07-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Look what one of our engineers said to a reporter!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our technology is putrid, but we compensate by ignoring complaints."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You know what would be more fun than fixing those problems?",
+        "Witch-hunt!!!"
+      ]
+    }
+  ]
+}

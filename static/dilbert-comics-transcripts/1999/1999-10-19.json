@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Every department was asked how it could reduce its budget ten percent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your project is vital to the future of the company, so I cleverly offered to eliminate it, knowing they couldn't accept."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now this is the funny part..."
+      ]
+    }
+  ]
+}

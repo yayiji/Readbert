@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd fight with you on the price of this software, but I'm more of a lover than a fighter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you hitting on me? You'd better buy my software now, or I'll report you to your own human resources."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, okay. I'll do anything you want.",
+        "Wow. You were right when you said you're not a fighter."
+      ]
+    }
+  ]
+}

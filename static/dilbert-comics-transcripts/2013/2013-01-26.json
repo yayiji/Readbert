@@ -1,0 +1,23 @@
+{
+  "date": "2013-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a busy week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I recycled all of our old software and donated the zeroes and ones to math programs in poor towns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "My dream is that someday every child will be able to count to one."
+      ]
+    }
+  ]
+}

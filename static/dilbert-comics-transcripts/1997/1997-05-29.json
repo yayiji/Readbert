@@ -1,0 +1,28 @@
+{
+  "date": "1997-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a cloud of doom that zaps everyone near me once a minute.",
+        "Doom"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm looking for a woman who doesn't think that past behavior is an indication of the future.",
+        "Doom",
+        "Zap!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "... A woman with absolutely no sense of pattern recognition.",
+        "Doom",
+        "Ouch. I'm glad that won't happen again."
+      ]
+    }
+  ]
+}

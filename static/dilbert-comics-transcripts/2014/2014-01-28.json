@@ -1,0 +1,23 @@
+{
+  "date": "2014-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We won the bid to build a fleet of small drones for retail package delivery."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not sure why they call their customers infidels, but I doubt that's important."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll be working with their design guy, whose name is Mullah John Smith."
+      ]
+    }
+  ]
+}

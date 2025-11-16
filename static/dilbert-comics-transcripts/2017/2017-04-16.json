@@ -1,0 +1,56 @@
+{
+  "date": "2017-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are your french fries."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaaa!!! I have no salt.",
+        "I will bring the salt right away."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, you won't.",
+        "This isn't my first time eating out!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You say you will bring salt, but you will be distracted by another table."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I will sit here in anger while I watch you do things that do not involve bringing me salt."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "As the temperature of my fries drops, my cortisol levels will increase."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In five minutes I will hate your guts and this restaurant, too."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I also need ketchup.",
+        "That will take a little longer."
+      ]
+    }
+  ]
+}

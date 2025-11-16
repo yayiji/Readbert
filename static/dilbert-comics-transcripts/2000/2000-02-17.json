@@ -1,0 +1,25 @@
+{
+  "date": "2000-02-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let me do all the talking to the customer.",
+        "Check!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'd better make up your mind fast.",
+        "We plan to discontinue that product any day."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, excuse me for trying to fill a lull in the conversation."
+      ]
+    }
+  ]
+}

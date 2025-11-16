@@ -1,0 +1,25 @@
+{
+  "date": "2016-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like a man who always offers to do the driving on dates."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Like Uber?",
+        "But less expensive, and no waiting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So you're saying I'm better than Uber?",
+        "You would be if you didn't talk."
+      ]
+    }
+  ]
+}

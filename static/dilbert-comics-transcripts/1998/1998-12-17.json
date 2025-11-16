@@ -1,0 +1,26 @@
+{
+  "date": "1998-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey, Alice, I brought my radio to work.",
+        "You can hear it from your cubicle too."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is there anything in particular that you want to hear?",
+        "Yes, there is."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Bam bam bam bam",
+        "Hey!"
+      ]
+    }
+  ]
+}

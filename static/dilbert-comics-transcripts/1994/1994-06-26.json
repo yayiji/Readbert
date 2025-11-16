@@ -1,0 +1,54 @@
+{
+  "date": "1994-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The new lab supplies are in!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We got the batteries and the electric motor!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Take the wheels off the hand-truck and we can start building our go-cart."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I think I'll drop in on the lab."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "What are you working on now?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We're building a linear accelerator.",
+        "Marketing insisted."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Good. Good. Carry on.",
+        "We really don't appreciate him enough.",
+        "Let's put a TV in this baby."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": []
+    }
+  ]
+}

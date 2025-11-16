@@ -1,0 +1,56 @@
+{
+  "date": "2023-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your app gave me an error when I tried to set it for autopay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can fix that on my end. Give me ten seconds."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, it will be effective in thirty days."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Thirty days? Why? Because humans have to verify it?",
+        "No."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Is it because electricity travels slower in your part of reality?",
+        "Um, no."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Is it because your internal systems were designed by squirrels?",
+        "No."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is it because you hope I will forget to pay for the one month before autopay kicks in so you can charge me a late fee?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's the slow electricity thing. You were right."
+      ]
+    }
+  ]
+}

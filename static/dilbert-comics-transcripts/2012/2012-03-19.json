@@ -1,0 +1,25 @@
+{
+  "date": "2012-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you feel any need to make conversation?",
+        "Nope."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I don't mind standing in your general vicinity to counter the common perception of you as a sociopathic loner."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You totally get me.",
+        "That's what acquaintances are for."
+      ]
+    }
+  ]
+}

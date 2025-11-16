@@ -1,0 +1,27 @@
+{
+  "date": "2015-04-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tina complained that your foul language is creating a hostile work environment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's ridiculous.",
+        "Words are totally harmless.",
+        "Tell Tina she can..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ten seconds later",
+        "Okay,",
+        "I see it now."
+      ]
+    }
+  ]
+}

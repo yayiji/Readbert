@@ -1,0 +1,25 @@
+{
+  "date": "1995-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It's really different around here since we lost Dilbert's dad.",
+        "When did he die?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He's not dead. We lost him at the mall, Christmas of '92."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Shouldn't you be looking for him?",
+        "I said it's different, not worse."
+      ]
+    }
+  ]
+}

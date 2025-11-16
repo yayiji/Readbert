@@ -1,0 +1,51 @@
+{
+  "date": "2022-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I created a mobile app that turns jerks into polite people."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It blocks all sarcasm and passive aggressiveness so you can't send those kinds of messages."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It also deletes manipulative and scheming language."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "And the fact—check option blocks you from texting anything that is obviously false."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can I try it?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It must be broken because everything I type disappears."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm sorry you had to find out this way."
+      ]
+    }
+  ]
+}

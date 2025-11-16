@@ -1,0 +1,25 @@
+{
+  "date": "1997-02-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The more work I do, the more I'm given.",
+        "Coffee!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It doesn't pay to be a talented and hard-working employee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's it pay to be you?",
+        "Not bad on an hourly basis."
+      ]
+    }
+  ]
+}

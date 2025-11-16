@@ -1,0 +1,54 @@
+{
+  "date": "2022-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your vacation?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Great! I feel so relaxed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "While you were gone, I reorganized the lab for you."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Wh-wh-what????"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You don't have much storage space, so I shoved cables in drawers wherever they fit."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And I discarded any test equipment I didn't recognize."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I put your lab tools in the break room so anyone can borrow what they need."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This could not be worse.",
+        "I mistook a cable for a snake and created a biohazard by the test rack."
+      ]
+    }
+  ]
+}

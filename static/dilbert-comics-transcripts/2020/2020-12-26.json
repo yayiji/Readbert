@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I did more work from home today before 10 a.m. than I could do in the office all day."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I could take a nap for the rest of the day, and no one would be the wiser."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Your employer pays me to watch you at home, but I wouldn't say no to a well-considered bribe.",
+        "I can work with that."
+      ]
+    }
+  ]
+}

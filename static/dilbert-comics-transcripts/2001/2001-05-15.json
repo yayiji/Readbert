@@ -1,0 +1,23 @@
+{
+  "date": "2001-05-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, why do you keep putting sales people through to me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm taking bribes to supplement my income. It's a natural extension of empowerment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I sense some micromanagement brewing."
+      ]
+    }
+  ]
+}

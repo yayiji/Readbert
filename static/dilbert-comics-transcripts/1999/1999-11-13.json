@@ -1,0 +1,21 @@
+{
+  "date": "1999-11-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll come around the desk so it appears that I consider you an equal."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, what's on your little mind?"
+      ]
+    }
+  ]
+}

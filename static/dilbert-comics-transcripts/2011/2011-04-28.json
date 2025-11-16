@@ -1,0 +1,25 @@
+{
+  "date": "2011-04-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's password recovery service",
+        "I have so many passwords and email accounts and user names that I don't know what goes to what."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm lost. If you can't help me I think I might snap."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No problem. What's your password recovery pin code?",
+        "Snap!"
+      ]
+    }
+  ]
+}

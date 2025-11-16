@@ -1,0 +1,25 @@
+{
+  "date": "2005-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's executive search firm.",
+        "You need to hire a big name CEO to get some buzz."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You want someone with a reputation for toughness, who knows how to get the most out of people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Come back later.",
+        "I'm still getting the most out of this one."
+      ]
+    }
+  ]
+}

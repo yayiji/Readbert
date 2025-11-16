@@ -1,0 +1,26 @@
+{
+  "date": "1999-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, I'm moving you to my \"quality assurance\" group.",
+        "Gasp"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I realize this is bad for you...",
+        "and bad for the company... but it solves my headcount problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Will that be my contribution to the world: \"He solved a headcount problem\"?",
+        "That tops me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1990-10-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert and Dilbert are called for jury duty.",
+        "What a stupid waste of my valuable time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's your civic duty. It's the small dues you pay for living in a just and free society.",
+        "Big whoopee."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And you get to play god with other people's lives.",
+        "Well, they should say that in the letter."
+      ]
+    }
+  ]
+}

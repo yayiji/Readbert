@@ -1,0 +1,24 @@
+{
+  "date": "2015-05-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is there any way to disagree with your new strategy without making you angry?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Blah blah I value all opinions. Blah blah open door policy. Blah blah dissenting opinions are good."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "None of that sounded sincere.",
+        "Nailed it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2001-06-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a raise because you don't ask enough questions in meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Questions show that you care about your job and have a thirst for knowledge."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Who else likes wood?"
+      ]
+    }
+  ]
+}

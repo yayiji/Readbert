@@ -1,0 +1,25 @@
+{
+  "date": "2009-12-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My cubicle is surrounded by loud idiots who make it impossible for me to concentrate on my work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you create a presentation on why you couldn't do the presentation you're supposed to be doing?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't it have been just as easy to create the actual presentation?",
+        "I'm hoping to use this one more than once."
+      ]
+    }
+  ]
+}

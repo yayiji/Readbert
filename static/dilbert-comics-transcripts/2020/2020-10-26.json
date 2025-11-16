@@ -1,0 +1,24 @@
+{
+  "date": "2020-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have a feeling you are doing something wrong, but I don't know what."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you mind if I watch over your shoulder and look for mistakes as you make them?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't have any friends, do you?",
+        "I like to travel light."
+      ]
+    }
+  ]
+}

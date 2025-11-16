@@ -1,0 +1,23 @@
+{
+  "date": "2005-08-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have some good news and some bad news."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The good news is that the company is going to sponsor a corporate marathon team."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The bad news is that one of you has to run 26 miles tomorrow."
+      ]
+    }
+  ]
+}

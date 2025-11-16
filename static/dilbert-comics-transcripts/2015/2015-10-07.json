@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It is time to take your mood-altering prescription meds.",
+        "Oh, right."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wait... IBM's Watson computer has added another prescription and sent it to your 3-D pill printer at home."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you think robots will ever program humans?",
+        "That's dumb."
+      ]
+    }
+  ]
+}

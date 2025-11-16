@@ -1,0 +1,23 @@
+{
+  "date": "2000-10-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why don't you have a little coffee with your sugar, Alice?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heh, heh. It's funny because it's usually the other way around."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't see how something can be funny 300 times but not 301 times."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2022-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that I have demolished your argument with my superior logic, what will you do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I see an analogy forming!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Don't do it! Don't you dare!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, I won't use an analogy.",
+        "Good."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "How about an example instead of an analogy?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Um, okay."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "What if a bear tried to make popcorn in the vacuum of space?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "That's an analogy, and it has nothing to do with what we were discussing!",
+        "Why can't you admit you're wrong?",
+        "Boom!!"
+      ]
+    }
+  ]
+}

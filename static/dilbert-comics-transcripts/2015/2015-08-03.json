@@ -1,0 +1,24 @@
+{
+  "date": "2015-08-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm working sixty hours a week."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow. You must be a terrible employee if you have to work long hours just to keep your job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was hoping you would respect my work ethic.",
+        "Wrong table."
+      ]
+    }
+  ]
+}

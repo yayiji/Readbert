@@ -1,0 +1,25 @@
+{
+  "date": "2021-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How much will it cost if it is configured with those features?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The product is free.",
+        "Nothing is free.",
+        "Do you think I'm an idiot?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I won't know until I see if you buy our extended warranty."
+      ]
+    }
+  ]
+}

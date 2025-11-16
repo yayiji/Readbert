@@ -1,0 +1,25 @@
+{
+  "date": "1997-11-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert research co.",
+        "You've all been carefully screened for this focus group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Each of you has a pattern of making \"loser choices.\" I'll tell my clients to do the opposite of whatever you recommend."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fun! I'm glad I skipped jury duty to be here.",
+        "I rescheduled my liver transplant!"
+      ]
+    }
+  ]
+}

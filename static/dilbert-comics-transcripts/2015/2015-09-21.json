@@ -1,0 +1,24 @@
+{
+  "date": "2015-09-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The hairdresser illuminati",
+        "Before we start, I'll need to see a list of your political views."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hoo-boy. This is some crazy stuff. I have just the right hair-style for this."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "There. That should keep you out of the White House."
+      ]
+    }
+  ]
+}

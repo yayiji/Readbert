@@ -1,0 +1,25 @@
+{
+  "date": "2007-05-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes, do that right away.",
+        "Do what?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I ignore e-mail from people who don't include my original message in their reply?",
+        "Yes, and you can hate them, too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "90% of happiness is picking the right ethicist."
+      ]
+    }
+  ]
+}

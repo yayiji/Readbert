@@ -1,0 +1,57 @@
+{
+  "date": "2016-11-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a capital allocation form."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have a form to request that form?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need a form to get a form?",
+        "That's how we keep track of the forms."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, give me a form to request a form.",
+        "Those are online."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Where online?",
+        "I don't know. I only do paper forms."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Who can I ask?",
+        "Don't drag me into this."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I demand to talk to your boss."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I hope you brought a boss request form."
+      ]
+    }
+  ]
+}

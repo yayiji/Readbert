@@ -1,0 +1,27 @@
+{
+  "date": "1992-11-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We left-handed Elbonians have been persecuted for centuries.",
+        "We must crush the righties!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't you see that it's only an arbitrary distinction?",
+        "Isn't it obvious that people are the same no matter what hand they favor?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, that isn't obvious to us at all.",
+        "Geez, you lefties are thick.",
+        "I'm glad I'm normal."
+      ]
+    }
+  ]
+}

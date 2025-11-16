@@ -1,0 +1,25 @@
+{
+  "date": "1996-04-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I quit my job as vice president of marketing..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was losing my scruples... becoming unscrupulous.",
+        "Yes, I learned a valuable lesson about scruples."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And that lesson would be?",
+        "It's fun to say \"scruples.\""
+      ]
+    }
+  ]
+}

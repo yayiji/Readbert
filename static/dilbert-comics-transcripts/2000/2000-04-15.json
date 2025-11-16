@@ -1,0 +1,25 @@
+{
+  "date": "2000-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you work harder if we offered stock incentives?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you admit you're not working hard enough now.",
+        "Umm..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lastly, are you still beating up customers?"
+      ]
+    }
+  ]
+}

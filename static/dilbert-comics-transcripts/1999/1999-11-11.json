@@ -1,0 +1,23 @@
+{
+  "date": "1999-11-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I care about you..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But only enough to improve your morale, not enough to be illegal in any way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, tell me about your health in the least specific way possible."
+      ]
+    }
+  ]
+}

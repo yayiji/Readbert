@@ -1,0 +1,24 @@
+{
+  "date": "2003-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's brainstorm ideas for \"employee morale-enhancement day.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We could play \"pin the tail on the pointy-haired weasel whose breath smells like feet.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We might need more morale-enhancement days.",
+        "How about this weekend when I'm not here?"
+      ]
+    }
+  ]
+}

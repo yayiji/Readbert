@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're trying to get on \"Best Places to Work\" list."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you agree to lie on the survey, maybe we can attract some good employees to make this a best place to work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What?",
+        "Keep your eye on the prize."
+      ]
+    }
+  ]
+}

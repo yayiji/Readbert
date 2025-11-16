@@ -1,0 +1,24 @@
+{
+  "date": "2018-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm selling chocolate bars to raise money for my kid's school."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds like communism. I'm out."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you a fake receipt so you can expense it.",
+        "Now it sounds like capitalism. I'm in."
+      ]
+    }
+  ]
+}

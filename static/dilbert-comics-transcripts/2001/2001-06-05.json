@@ -1,0 +1,25 @@
+{
+  "date": "2001-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're cutting back on advertising to boost earnings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um... excuse me.",
+        "I'll be right back.",
+        "Me too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We got another mass exodus doorway jam."
+      ]
+    }
+  ]
+}

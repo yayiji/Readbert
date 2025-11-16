@@ -1,0 +1,25 @@
+{
+  "date": "1992-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've received death threats because of my new patent. So I augmented our home security system."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The sidewalk is rigged to give an electric shock, thus disarming the intruder. Then a spring catapults him to the city landfill.",
+        "Aagh!",
+        "Fling!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The mail is here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2004-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I demand an assistant to document my miracles."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That which I touch will be tagged for the Smithsonian.",
+        "That which I create will be framed for the Louvre."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Really?",
+        "An exciting assignment?",
+        "What is it?"
+      ]
+    }
+  ]
+}

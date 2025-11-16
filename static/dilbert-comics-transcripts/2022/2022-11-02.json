@@ -1,0 +1,24 @@
+{
+  "date": "2022-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO ordered me to create an A.I. that will replace me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My plan is to model the A.I. after you, so no one wants it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Let's drink coffee and pretend to work.",
+        "Kill it."
+      ]
+    }
+  ]
+}

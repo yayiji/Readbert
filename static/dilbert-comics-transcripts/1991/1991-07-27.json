@@ -1,0 +1,24 @@
+{
+  "date": "1991-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Forgot my keys."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll have to slap my forehead and mutter when I turn around, otherwise I'll look silly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Too hard.",
+        "Smack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2007-09-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert, the VP of marketing",
+        "Describe your product in technical terms and I'll turn it into marketing language."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Well, it tends to overheat.",
+        "\"Hottest product on the market!\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All the parts are known carcinogens.",
+        "\"Makes you appreciate life!\""
+      ]
+    }
+  ]
+}

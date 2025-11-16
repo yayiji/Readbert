@@ -1,0 +1,24 @@
+{
+  "date": "2011-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And so, as you can see...",
+        "All of the numbers I gave you last week are wrong."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would have mentioned it sooner, but I don't like to draw attention to myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I see that you're taking the opposite approach. How's that working for you?"
+      ]
+    }
+  ]
+}

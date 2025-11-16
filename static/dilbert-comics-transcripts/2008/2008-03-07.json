@@ -1,0 +1,24 @@
+{
+  "date": "2008-03-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You'd be happier if you renounced your addiction to the internet and lived for the moment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you referring to the moment when there's a rat on my bed giving me bad advice?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How about now?",
+        "Perfect. Don't chew on the Wi-Fi signal booster."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Tomorrow is casual day for remote workers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Most of you already dress like roadkill, but see if you can take it down another level."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you doing this to us?",
+        "I hear it builds morale."
+      ]
+    }
+  ]
+}

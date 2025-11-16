@@ -1,0 +1,25 @@
+{
+  "date": "2011-07-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You offended me when you said Ted did a great job. It implied that I'm unimportant."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you saying I can offend you by complimenting other people?",
+        "Exactly."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wally, you're very rational today.",
+        "Thank you!"
+      ]
+    }
+  ]
+}

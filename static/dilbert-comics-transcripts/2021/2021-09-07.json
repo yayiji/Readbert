@@ -1,0 +1,25 @@
+{
+  "date": "2021-09-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I built an app that makes fake graphs so you can win any argument."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need that.",
+        "You certainly do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have a source for your claim that gravity is caused by pollution?",
+        "Boom."
+      ]
+    }
+  ]
+}

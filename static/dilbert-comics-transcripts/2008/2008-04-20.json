@@ -1,0 +1,55 @@
+{
+  "date": "2008-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an issue.",
+        "Lordy lord."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No one in the department wants to be left out of the decision making."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But no one is willing to make a decision."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "As a result, all of my problems are perpetual."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can you do something about that?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can appear to be concerned.",
+        "How's this expression?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Can you combine that with some impractical advice and unwarranted optimism?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm frequently thwarted, but rarely disappointed."
+      ]
+    }
+  ]
+}

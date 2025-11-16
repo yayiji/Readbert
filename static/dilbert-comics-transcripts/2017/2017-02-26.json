@@ -1,0 +1,55 @@
+{
+  "date": "2017-02-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need a raise because the cost of living around here is too high."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Stop being greedy. I pay you plenty."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't even afford to rent an apartment."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Get some roommates.",
+        "I can't afford that either."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've been sleeping on a baby changing table in a public restroom."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And the janitor has been charging me $3,000 per month for that."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How wide is the baby changing table?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Not wide enough for a roommate.",
+        "Well, I'm out of ideas."
+      ]
+    }
+  ]
+}

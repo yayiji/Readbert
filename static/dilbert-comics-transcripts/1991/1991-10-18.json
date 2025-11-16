@@ -1,0 +1,24 @@
+{
+  "date": "1991-10-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "A mob of Elbonians is at the gate!!",
+        "They have pickaxes and rakes!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Quick!! We'll take the emergency despot escape slingshot!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did anybody remind the king that today is the garden festival?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2016-10-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It seems that everyone but Ted made it to this meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If we proceed without Ted, our decisions will be underinformed."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If we try to reschedule a meeting with all of us, we will miss the critical deadline."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Thanks to Ted, we have two ways to lose and no way to win."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I say we use this time to say bad things about Ted to make ourselves feel better."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll start.",
+        "Ted is a lazy, selfish loser."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "If I could travel through time, I would prevent Ted's parents from meeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Don't look at me like I'm the one who came late."
+      ]
+    }
+  ]
+}

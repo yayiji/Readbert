@@ -1,0 +1,24 @@
+{
+  "date": "1992-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So then I spent a year in Europe and blah blah blah blah."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hey, I think I can see your brain through your nose!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Anyway...",
+        "You were saying..?"
+      ]
+    }
+  ]
+}

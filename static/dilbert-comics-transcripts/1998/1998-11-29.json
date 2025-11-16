@@ -1,0 +1,55 @@
+{
+  "date": "1998-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the mandatory Windows NT class."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Personally, I've only been using a computer for... how long? Anyone?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But a good trainer can teach any subject."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, everyone stand up and stretch!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or sit there and glare at me.",
+        "That's good too."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I forgot to reserve the room with the computers, so I'll use this box."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "...And let's say this eraser is the moose."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I left when he told us to use our teeth as a keyboard.",
+        "Ooh-yah."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-01-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Mister Catbert, could you help me see the relevance of my work to the well-being of society?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your shuffling of unimportant documents helps the air circulate."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All of my documents are e-mail."
+      ]
+    }
+  ]
+}

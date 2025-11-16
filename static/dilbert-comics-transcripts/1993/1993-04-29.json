@@ -1,0 +1,23 @@
+{
+  "date": "1993-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm going to start-up a television news network that only reports happy stories."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In sports, fifty percent of the teams won their games yesterday. And all the players are millionaires - most of whom have no serious drug problems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our person of the week is Darryl, who, despite his tiny brain, found success through a life of crime."
+      ]
+    }
+  ]
+}

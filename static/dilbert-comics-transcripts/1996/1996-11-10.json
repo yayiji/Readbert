@@ -1,0 +1,60 @@
+{
+  "date": "1996-11-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been offered a promotion in another department."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm outta here, you worthless piece of snail crud!!",
+        "Ha ha",
+        "Ha ha ha",
+        "Ha!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I meekly request to be released from my current assignment."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I would never stand in your way.",
+        "Congratulations!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I can't release you.",
+        "You're too valuable."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I'm so valuable, explain my last raise!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In fact, I have another valuable assignment for you.",
+        "Stunned silence"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm doing a survey to find out why morale is so low.",
+        "I think it's your breath."
+      ]
+    }
+  ]
+}

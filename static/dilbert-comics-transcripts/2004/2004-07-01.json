@@ -1,0 +1,25 @@
+{
+  "date": "2004-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your stalking of the new hire going?",
+        "We have a date for tomorrow."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "She's in an employee orientation meeting today.",
+        "Uh-oh."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Module four is about identifying workplace hazards."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employees aren't falling for the old \"intangible benefits\" story anymore."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh. We don't earn enough money to give tangible benefits to employees and stockholders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stockholder meeting",
+        "Stock",
+        "...Now let's discuss your intangible benefits..."
+      ]
+    }
+  ]
+}

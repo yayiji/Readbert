@@ -1,0 +1,24 @@
+{
+  "date": "1997-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ahhh... it's going to be a glorious day of telecommuting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's nothing here to distract me. It's just me..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...and my talking refrigerator.",
+        "I'll bet you can't eat a whole jar of pickles."
+      ]
+    }
+  ]
+}

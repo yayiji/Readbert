@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It might be my imagination, but it looks as if all of our employees are incompetent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We need to create a tangle of bureaucratic rules that make it impossible for them to get anything done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want to use inefficiency to protect us against incompetence?",
+        "Yin and yang."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2005-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to standardize the department on a new programming language."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With all due respect, that sort of decision should be made by someone who knows his mass from a black hole."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The vendor warned me that you couldn't be objective."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2021-07-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your software has a bug.",
+        "I can fix that by laying my hands on it and praying."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yakabloka-wawa-willy-walla-bing-bang."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try it now."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I really hope that didn't wor...",
+        "Dang."
+      ]
+    }
+  ]
+}

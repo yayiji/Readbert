@@ -1,0 +1,55 @@
+{
+  "date": "2010-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I need you to train the new mailroom guy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why me?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because he's unimportant and you're worthless."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay. I was worried that it was the other way around."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "All important messages are sent by e-mail."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So your job is to shovel all of the regular mail into recycling bins."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "We won't be paying you, but you can use packages and tape to build your own igloo."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Two weeks later",
+        "Why is my desk so clean?",
+        "You're welcome."
+      ]
+    }
+  ]
+}

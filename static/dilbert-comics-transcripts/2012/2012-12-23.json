@@ -1,0 +1,56 @@
+{
+  "date": "2012-12-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you find the snake in your cubicle?",
+        "What the...?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I put it there because I'm trying to motivate you with a culture of fear."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That only works in the short term!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "A leader takes the first step without knowing where the next step will be."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So get to work.",
+        "And by the way,",
+        "one of the urinals is electrified."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It's only set to stun, so don't be a baby about it."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "His office plant is clear."
+      ]
+    }
+  ]
+}

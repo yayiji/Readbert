@@ -1,0 +1,25 @@
+{
+  "date": "2017-01-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want some coaching?",
+        "Heck yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you find someone who knows my job better than I do, send them my way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could share my wisdom with you.",
+        "Can you teach me how to stay calm when some idiot interrupts me?"
+      ]
+    }
+  ]
+}

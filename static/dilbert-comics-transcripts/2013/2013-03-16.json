@@ -1,0 +1,25 @@
+{
+  "date": "2013-03-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We bought a start-up just so we could get the engineers, including you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do something that's worth a million dollars.",
+        "I want to see what that looks like."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You don't sound entirely sincere.",
+        "Can you turn my diet coke into wine?"
+      ]
+    }
+  ]
+}

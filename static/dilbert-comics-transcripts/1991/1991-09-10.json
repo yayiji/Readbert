@@ -1,0 +1,24 @@
+{
+  "date": "1991-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Seriously, how do we know the news isn't all faked??"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Geez, Dogbert, get over it. Why don't you just call George Lucas and ask him if he's doing the whole thing with special effects?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lucas Ranch",
+        "We built a new Dan Rather, but it still doesn't look life-like."
+      ]
+    }
+  ]
+}

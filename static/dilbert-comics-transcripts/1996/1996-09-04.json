@@ -1,0 +1,25 @@
+{
+  "date": "1996-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Network administrator",
+        "I have total access to every employee's e-mail messages."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "With a few strategic edits I will transform the office into \"Melrose Place.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, Alice...",
+        "I will be your \"monkey of love.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "1995-02-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm dressing like a man to protest the company's dress code."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So, what you're saying is that you're actually a woman.",
+        "Is that your claim?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not exactly the point.",
+        "I saw \"The Crying Game\".",
+        "Don't do anything that would make me heave."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2017-08-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I completed my assignment, and yet I feel no sense of accomplishment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Could it be because nothing I do makes any difference in the world?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I was going to tell you that, but I didn't want to demotivate you."
+      ]
+    }
+  ]
+}

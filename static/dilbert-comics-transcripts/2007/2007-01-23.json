@@ -1,0 +1,25 @@
+{
+  "date": "2007-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am an alien with highly advanced intelligence.",
+        "I have come to share my genius with this company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Me too.",
+        "But they don't like that sort of thing here."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's a quagmire."
+      ]
+    }
+  ]
+}

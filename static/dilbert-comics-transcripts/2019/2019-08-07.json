@@ -1,0 +1,26 @@
+{
+  "date": "2019-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's your adopted Elbonian baby doing?",
+        "I had to give it back."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It was a lot needier than I expected.",
+        "It?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Was the baby a boy or a girl?",
+        "How would I know? It couldn't even speak yet."
+      ]
+    }
+  ]
+}

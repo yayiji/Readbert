@@ -1,0 +1,56 @@
+{
+  "date": "1993-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I want you to manage Wally's project while he's on vacation in Aruba."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let the shirk-fest games begin."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Isn't that the week when everything is due?",
+        "Coincidence."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe you could change your plans.",
+        "Non-refundable tickets right here!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The project can't be important if you won't change your plans.",
+        "He's good."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I'll be happy to add Wally's project to the bottom of my pile and let it fail with Wally's name on it."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "When you're in Aruba, study the waiters carefully -- it's probably your new career."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Two free tickets to Aruba -- I win."
+      ]
+    }
+  ]
+}

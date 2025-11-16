@@ -1,0 +1,25 @@
+{
+  "date": "2015-10-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How many employees did you say took paid medical leave?",
+        "All of them."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A typo on our wellness website listed stress as an illness instead of a cause of illness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it too late to backpedal on the wellness thing?",
+        "I'll just fix the typo. It's all good."
+      ]
+    }
+  ]
+}

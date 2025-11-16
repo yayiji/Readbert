@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I worry that being assigned to work on the legacy systems will make me appear less valuable in the future."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You have my word that you could never appear less valuable than you are now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why do your assurances make me feel worse?",
+        "Your new dress code is \"troll.\""
+      ]
+    }
+  ]
+}

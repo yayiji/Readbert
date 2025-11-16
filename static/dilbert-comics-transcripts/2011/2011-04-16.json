@@ -1,0 +1,24 @@
+{
+  "date": "2011-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I developed this app in my spare time. What do you think?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I think you made spare time look like an awful thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you'd like a less honest answer, I can recommend someone in marketing.",
+        "I might try that."
+      ]
+    }
+  ]
+}

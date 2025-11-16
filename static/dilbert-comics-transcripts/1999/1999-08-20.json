@@ -1,0 +1,25 @@
+{
+  "date": "1999-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "So you think you're leaving for a better job?",
+        "Yes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your agreement with us bans you from working in this industry if you quit. Ha!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Holy cripes! It does say you can dance on my head.",
+        "Hold still."
+      ]
+    }
+  ]
+}

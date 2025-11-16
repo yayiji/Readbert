@@ -1,0 +1,24 @@
+{
+  "date": "2017-03-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got promoted to a leadership role."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It means I get to tell people to work hard, but I don't have to do any work myself."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't sound right.",
+        "I could use a fresh one of these."
+      ]
+    }
+  ]
+}

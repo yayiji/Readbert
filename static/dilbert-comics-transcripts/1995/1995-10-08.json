@@ -1,0 +1,55 @@
+{
+  "date": "1995-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "That's four hours that I'd like to have back.",
+        "Who called that meeting anyway?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I must have left my calendar in there."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oooh"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I've discovered a primitive donut-scavenging man clad only in yellow sticky notes!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I was once like you, before the great RIF."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But rather than leave in humiliation I decided to stay and live off the land like our proud ancestors."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "To ensure a bountiful harvest I do my donut dance to the gods."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "When that doesn't work I distribute meeting notices.",
+        "You're the one!!"
+      ]
+    }
+  ]
+}

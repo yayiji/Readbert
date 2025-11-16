@@ -1,0 +1,24 @@
+{
+  "date": "2004-09-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My daughter sneezed so the school is sending her home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll work from home for the rest of the day.",
+        "How will you answer my phone?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I probably shouldn't tell you this, but none of your phone messages are real."
+      ]
+    }
+  ]
+}

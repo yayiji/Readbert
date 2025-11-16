@@ -1,0 +1,23 @@
+{
+  "date": "2019-09-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm Ron Moore."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Heh-heh. That's funny, because if you say your last name first, you're a \"Moore, Ron.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, now I get why you never take me on sales calls."
+      ]
+    }
+  ]
+}

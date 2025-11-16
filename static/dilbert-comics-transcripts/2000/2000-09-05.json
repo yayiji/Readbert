@@ -1,0 +1,26 @@
+{
+  "date": "2000-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, meet the new guy.",
+        "You hired a giant amoeba?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't go around judging people by their looks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you mind...",
+        "training him?",
+        "Keeping him moist?"
+      ]
+    }
+  ]
+}

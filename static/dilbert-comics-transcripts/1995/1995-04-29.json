@@ -1,0 +1,26 @@
+{
+  "date": "1995-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm planning to turn the house into a gambling casino."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Isn't that illegal?",
+        "Not in the tiny republic of Dogbertland.",
+        "I seceded from the repressive homeland this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't remember voting on that.",
+        "Here's your green card."
+      ]
+    }
+  ]
+}

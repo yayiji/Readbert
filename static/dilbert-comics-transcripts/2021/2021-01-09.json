@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have over seven hundred consumer lawsuits filed against you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If I can get them all assigned to the same judge, you only have to bribe one person."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you even a lawyer?",
+        "Heavens, no, and I didn't come here to be insulted."
+      ]
+    }
+  ]
+}

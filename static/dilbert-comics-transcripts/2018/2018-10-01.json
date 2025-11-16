@@ -1,0 +1,26 @@
+{
+  "date": "2018-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "It has come to my attention that none of you use the products we make."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on, you are all required to use our products."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Aaaarg!!!",
+        "Shoot me!",
+        "Noooo!!!",
+        "That's a bad sign."
+      ]
+    }
+  ]
+}

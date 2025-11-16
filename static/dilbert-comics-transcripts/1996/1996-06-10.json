@@ -1,0 +1,26 @@
+{
+  "date": "1996-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "These are some of the advanced materials I'm designing at work.",
+        "That jar holds a pyrophoric substance.",
+        "Let's see."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Flash"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yep, that's a good batch.",
+        "A person from a smarter gender might have said \"What does 'pyrophoric' mean?\""
+      ]
+    }
+  ]
+}

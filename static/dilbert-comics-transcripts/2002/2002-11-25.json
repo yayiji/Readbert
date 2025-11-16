@@ -1,0 +1,26 @@
+{
+  "date": "2002-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, I plan to wear headphones in the office."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll be drumming my fingers and humming all day.",
+        "I might even whistle."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't hear you, but I assume you're wishing me luck.",
+        "Inconsiderate",
+        "#%*!$"
+      ]
+    }
+  ]
+}

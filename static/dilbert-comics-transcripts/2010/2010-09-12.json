@@ -1,0 +1,54 @@
+{
+  "date": "2010-09-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need this room for my meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wouldn't it make more sense for you to get a different room since we're already here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All of the conference rooms are booked."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Okay, then I guess we should compare the importance of your meeting versus this one."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's not how it works."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Conference rooms go to the highest ranked manager."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "It took me months to schedule this meeting!",
+        "Scram."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "The goal of this meeting is to figure out why nothing ever gets done around here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-12-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did you teach our robot how to program?",
+        "I did. He's a fast learner."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Have you heard of something called the singularity?",
+        "Yes. Why do you..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is it too late to say I wasn't involved?",
+        "Continued..."
+      ]
+    }
+  ]
+}

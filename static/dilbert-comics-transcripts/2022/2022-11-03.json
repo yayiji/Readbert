@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't believe you said Elbonia is a filthy heckhole!",
+        "I never said anything like that."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's not how this works. Once I mislabel you a bigot, you have to live with it. There will be no correcting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sure you've done something to deserve my scorn.",
+        "Other than being happy?"
+      ]
+    }
+  ]
+}

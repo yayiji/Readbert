@@ -1,0 +1,24 @@
+{
+  "date": "1991-01-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "\"Dogbert's museum of the strange and amazing\" is the only place you can find..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "...a shirt woven entirely from a single thread of Tasmanian woogat silk."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It looks like the cheap polyester shirts that I wear.",
+        "In that case, this is the gift shop."
+      ]
+    }
+  ]
+}

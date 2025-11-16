@@ -1,0 +1,25 @@
+{
+  "date": "1993-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I understand that you men are spending three-quarters of your time daydreaming about attractive women."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you realize how much time is being wasted here?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Twenty-five percent?",
+        "It's a trick question.",
+        "Irene"
+      ]
+    }
+  ]
+}

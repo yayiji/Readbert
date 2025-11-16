@@ -1,0 +1,23 @@
+{
+  "date": "2001-04-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My cubicle is sucking the life force out of me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I mean, it always has, but it seems like it's happening faster now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They noticed."
+      ]
+    }
+  ]
+}

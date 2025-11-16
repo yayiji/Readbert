@@ -1,0 +1,24 @@
+{
+  "date": "2021-04-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, human. I'm your keyboard's conscience. You should reconsider sending such a mean email."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Working remotely has caused you to devolve into an empathy-free monster who cares nothing for the feelings of others."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Send",
+        "Now you're just being a jerk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2016-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company we acquired is making us look bad.",
+        "How bad?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The internet is demanding that I drink poison and apologize to the world while I die."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What should I do?",
+        "Well, I'm no doctor, but I'd go with something fast-acting."
+      ]
+    }
+  ]
+}

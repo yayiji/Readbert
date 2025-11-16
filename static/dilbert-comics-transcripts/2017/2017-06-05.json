@@ -1,0 +1,24 @@
+{
+  "date": "2017-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I don't see my project in the new budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, right. I forgot all about you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That sounds easy to fix.",
+        "Yup. My problem will be solved as soon as you leave."
+      ]
+    }
+  ]
+}

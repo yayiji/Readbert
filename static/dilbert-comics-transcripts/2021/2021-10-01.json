@@ -1,0 +1,25 @@
+{
+  "date": "2021-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's tips for zoom calls",
+        "Pants are optional when using zoom."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That is so not cool."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't say the chair would like it.",
+        "Try being me for a day. It's a nightmare."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1996-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am only an intern, but may I make a suggestion?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The Elbonian database system you're installing for our company will never work...",
+        "unless I rewrite the entire thing with just six keystrokes...",
+        "Done"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought this was only possible in bad movies.",
+        "Hey, let's hack into NATO's system.",
+        "I can guess their password in three tries."
+      ]
+    }
+  ]
+}

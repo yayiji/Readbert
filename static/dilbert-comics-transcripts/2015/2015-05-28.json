@@ -1,0 +1,27 @@
+{
+  "date": "2015-05-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice mocked me in a meeting and I didn't react.",
+        "Now she thinks she has the right to be disrespectful all the time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't afford to lose a top engineer.",
+        "Just wait it out and she will get tired of it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sproink! Look what happens when you tell a lie!",
+        "Hold...",
+        "Hold..."
+      ]
+    }
+  ]
+}

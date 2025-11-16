@@ -1,0 +1,25 @@
+{
+  "date": "2007-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's speakers bureau",
+        "I booked you to do the keynote speech for a big company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They need a speaker who is so boring and uninspiring that their CEO's humorous skit seems less soul-crushing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How large is the audience?",
+        "1,500 victims."
+      ]
+    }
+  ]
+}

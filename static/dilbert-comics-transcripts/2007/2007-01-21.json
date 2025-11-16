@@ -1,0 +1,55 @@
+{
+  "date": "2007-01-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "From now on, all travel must be booked through the corporate travel web site."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Our travel web site is terrible."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It only lets you book the cheapest flight, and that's always on Elbonian airlines."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Don't be such a snob.",
+        "What's wrong with using a discount airline?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, they list their destination airports as \"whatever looks soft.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "The meals in first class are made of anyone who dies in coach."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Their entire security screening process involves shouting at each passenger \"Are you Osama bin Laden?!!!\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And I once saw a baggage handler wearing my dress.",
+        "Whiner."
+      ]
+    }
+  ]
+}

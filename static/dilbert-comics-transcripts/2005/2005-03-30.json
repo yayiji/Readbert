@@ -1,0 +1,24 @@
+{
+  "date": "2005-03-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Karl, you're a habitual liar but these pills that I ordered over the internet will cure you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I've never lied in my life, but I can't resist free stuff."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um... are you alive?",
+        "Never felt better!"
+      ]
+    }
+  ]
+}

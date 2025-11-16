@@ -1,0 +1,25 @@
+{
+  "date": "2009-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm stepping down as CEO because I already milked all of the cash out of this dying cow.",
+        "Moo!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My replacement is a dried-up corpse. But don't worry; he's just a placeholder until a new CEO can be found."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The faint breeze is blowing away his head.",
+        "You should probably hurry."
+      ]
+    }
+  ]
+}

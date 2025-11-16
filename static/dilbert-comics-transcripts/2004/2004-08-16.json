@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I called this meeting so I could tell you the division's goals for next year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a good idea because we're all so dumb that we couldn't possibly read this in e-mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Goal one: improve communication.",
+        "I can't; I'm too dumb."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2008-04-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, do you have the capital cost estimates I asked for last week?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. I always ask you to clarify what you need. You say you'll get back to me but you never do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I could clarify it now.",
+        "That would ruin my system."
+      ]
+    }
+  ]
+}

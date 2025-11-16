@@ -1,0 +1,24 @@
+{
+  "date": "2001-11-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I plan to use my raise to move from my home in the handicapped stall to a storage facility."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you are trying to think of a housewarming gift, I wouldn't say no to a flashlight."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you need help moving, don't hesitate to call Alice.",
+        "You are too kind."
+      ]
+    }
+  ]
+}

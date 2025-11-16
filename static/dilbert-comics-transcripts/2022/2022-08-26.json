@@ -1,0 +1,25 @@
+{
+  "date": "2022-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The keys to success are passion and hard work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Those traits are probably genetic."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All it takes is willpower.",
+        "Willpower is imaginary.",
+        "Your move."
+      ]
+    }
+  ]
+}

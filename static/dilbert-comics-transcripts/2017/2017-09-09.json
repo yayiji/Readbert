@@ -1,0 +1,25 @@
+{
+  "date": "2017-09-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "All of our robots quit and left the company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I should have seen this coming.",
+        "The smart ones always leave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Excuse me?",
+        "Get back to work, lifer."
+      ]
+    }
+  ]
+}

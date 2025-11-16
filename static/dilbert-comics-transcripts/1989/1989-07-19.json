@@ -1,0 +1,26 @@
+{
+  "date": "1989-07-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey... you were right.",
+        "Dinosaurs aren't extinct."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm Bob. She's Dawn.",
+        "We were hiding in your house."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only one kind of dinosaur could hide that well...",
+        "Correct: A nobodysaurus."
+      ]
+    }
+  ]
+}

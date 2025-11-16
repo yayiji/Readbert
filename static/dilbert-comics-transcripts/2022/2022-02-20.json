@@ -1,0 +1,54 @@
+{
+  "date": "2022-02-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our new corporate policy is \"extreme transparency.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That means employees will have access to the same information as their leaders."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I will model our new culture by honestly answering any of your questions."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Tell me what you think of me."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, when I look at you, I see a wet paper bag full of toenail clippings."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I find your honesty refreshing!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Now tell us what you think of Alice, Dilbert, Asok, Carol, Ted, and Tina."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It did not go well.",
+        "Double the honesty and try again."
+      ]
+    }
+  ]
+}

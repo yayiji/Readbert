@@ -1,0 +1,25 @@
+{
+  "date": "1994-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Lunch? With you? I'd love to but... uh..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm clinically dead.",
+        "What you see are merely the last involuntary spasms before I stiffen."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a hand truck.",
+        "This was a very bad idea."
+      ]
+    }
+  ]
+}

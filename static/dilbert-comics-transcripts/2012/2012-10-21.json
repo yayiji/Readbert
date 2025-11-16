@@ -1,0 +1,56 @@
+{
+  "date": "2012-10-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to cloudwash our software.",
+        "Cloudwash?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Move some of its functions onto the internet. But call the internet a cloud."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one will take us seriously unless we're doing something in the cloud."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Will people take us seriously if we make technology decisions based on jargon?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "We don't care what smart people think. There aren't that many of them."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "We only need to convince our dumb customers.",
+        "Dumb people believe anything."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Do you believe I moved our software to the cloud yesterday?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You did?",
+        "I'm going to say yes."
+      ]
+    }
+  ]
+}

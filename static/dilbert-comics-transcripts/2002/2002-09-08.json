@@ -1,0 +1,55 @@
+{
+  "date": "2002-09-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, cancel all of my meetings forever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on, I plan to stay in my office and manage by e-mail."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You still need to communicate some things in person."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "No, I don't. I can do it all by e-mail."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Carol, e-mail me the budget."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And now, like magic...",
+        "Ding",
+        "You have 1 message"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Auto-reply: Carol is out of the office."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "We have a situation here."
+      ]
+    }
+  ]
+}

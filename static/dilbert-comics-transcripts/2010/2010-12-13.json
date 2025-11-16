@@ -1,0 +1,27 @@
+{
+  "date": "2010-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you up to?",
+        "I'm recalibrating my lack of faith in humanity."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Will this take long?",
+        "No. I start by reading opinions on message boards and..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can come back later.",
+        "You ignorant juicebag!",
+        "Bam!"
+      ]
+    }
+  ]
+}

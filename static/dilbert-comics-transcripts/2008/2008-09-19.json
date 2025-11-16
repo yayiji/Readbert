@@ -1,0 +1,34 @@
+{
+  "date": "2008-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you eat quieter?",
+        "Crunch",
+        "Crunch",
+        "Mmmph",
+        "Crunch",
+        "Gulp"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You sound like an asthmatic rhinoceros rampaging a cracker festival.",
+        "Mmmph",
+        "Erm",
+        "Crunch",
+        "Crunch"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Gaaa!!! Not the beverage!",
+        "Prepare slurper!",
+        "Boop!"
+      ]
+    }
+  ]
+}

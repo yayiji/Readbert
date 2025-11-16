@@ -1,0 +1,25 @@
+{
+  "date": "2019-09-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please don't stare at my head. I've been banging it against a wall to reduce my frustration."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds dangerous.",
+        "I thought so too, at first."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And now?",
+        "Now I don't think. I'm much happier."
+      ]
+    }
+  ]
+}

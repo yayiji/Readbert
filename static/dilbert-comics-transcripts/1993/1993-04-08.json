@@ -1,0 +1,25 @@
+{
+  "date": "1993-04-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I don't get some love and support around here, I might turn to a life of heinous crime..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Or worse, I could become a certified public accountant..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Stop it.",
+        "You're scaring me...",
+        "I'm good with numbers."
+      ]
+    }
+  ]
+}

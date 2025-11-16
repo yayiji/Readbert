@@ -1,0 +1,64 @@
+{
+  "date": "1993-02-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's digital dating service"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a loser.",
+        "Sign me up."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Say \"Velveeta.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now we digitize your picture for the database."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I could add some digital hair.",
+        "Good idea."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe I should bob your nose and give you a tan.",
+        "That's fair."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whiten teeth?",
+        "Yes",
+        "Smooth wrinkles?",
+        "Yes",
+        "Hide stomach?",
+        "Yes",
+        "Thicken lips?",
+        "Yes"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I look like Sandra Bernhard.",
+        "Yeah, but you have to admit it improves your odds."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2010-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you ready to do mental gifting?",
+        "You go first."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I imagine giving you a sweater that doesn't fit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I imagine giving you a tool that you already have.",
+        "Merry Christmas, Dogbert.",
+        "Stupid sweater."
+      ]
+    }
+  ]
+}

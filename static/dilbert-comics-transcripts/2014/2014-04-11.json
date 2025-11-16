@@ -1,0 +1,25 @@
+{
+  "date": "2014-04-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Acting ceo",
+        "No one told me what I'm supposed to do in this job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "80% of the job is back-slapping and firing people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good job, Ted. But not good enough.",
+        "Slap"
+      ]
+    }
+  ]
+}

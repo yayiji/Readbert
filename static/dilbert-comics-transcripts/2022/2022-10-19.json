@@ -1,0 +1,24 @@
+{
+  "date": "2022-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dave, there's an opening for director of A.I., and I'm considering you for the promotion."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We both know Dilbert is the only one with experience in that area. I am insulted that you think I can't succeed without your help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I should report you to H.R.",
+        "I did not see that coming."
+      ]
+    }
+  ]
+}

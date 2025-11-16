@@ -1,0 +1,25 @@
+{
+  "date": "2021-01-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...So what we need to do...",
+        "Ding!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay, now you're only pretending to listen to me because your mind is on that incoming text message."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you like to look at it and respond?",
+        "Only if you don't think you can wrap this up in fifteen seconds or so."
+      ]
+    }
+  ]
+}

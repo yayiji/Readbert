@@ -1,0 +1,24 @@
+{
+  "date": "2007-04-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm starting my own blog!",
+        "Dear god, no!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Every day I will record my personal thoughts about our business."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need you to write the first one by noon. I can't wait to see what I'm thinking."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2011-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How much confidence do you have in your cost projections?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I trust them like I trust you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are the assumptions realistic?",
+        "They're as real as your good judgment."
+      ]
+    }
+  ]
+}

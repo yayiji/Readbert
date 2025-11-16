@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Elbonian hackers got into our new voting machine software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They deleted our secret backdoor access for rigging elections and fixed several critical security bugs."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our homeland is under attack!",
+        "Which side am I on?"
+      ]
+    }
+  ]
+}

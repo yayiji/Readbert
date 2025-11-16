@@ -1,0 +1,30 @@
+{
+  "date": "2020-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm getting reports from your staff that you're a white supremacist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'm not."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We have proof because you follow racists on Twitter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What makes you think they are racists?",
+        "Because they follow you on Twitter."
+      ]
+    }
+  ]
+}

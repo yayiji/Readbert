@@ -1,0 +1,54 @@
+{
+  "date": "1991-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Motorist in distress up ahead."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can you help me, young man?",
+        "Have no fear, I'm an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hmm... yes, I see... try it now."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Nothing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, try it now."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hey, you're not doing anything but fiddling and poking at things!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "In fact, there's nothing in here that you could conceivably fix with your bare hands. My god, you men are frauds!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's lucky I'm out of gas; you might have caused an explosion!!"
+      ]
+    }
+  ]
+}

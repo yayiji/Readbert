@@ -1,0 +1,23 @@
+{
+  "date": "2001-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "There aren't enough friendly people to fill our call center jobs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "All we can find are angry people who refuse to put their telephone headset microphones near their mouths."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No, I'm sure the problem is on your end."
+      ]
+    }
+  ]
+}

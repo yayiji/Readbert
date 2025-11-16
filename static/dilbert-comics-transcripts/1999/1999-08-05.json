@@ -1,0 +1,24 @@
+{
+  "date": "1999-08-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Computers aren't for everyone.",
+        "I love my trusty manual typewriter."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oops."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope I can correct that before all my friends evolve into birds."
+      ]
+    }
+  ]
+}

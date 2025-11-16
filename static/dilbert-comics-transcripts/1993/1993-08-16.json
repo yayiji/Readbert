@@ -1,0 +1,26 @@
+{
+  "date": "1993-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm told by a reliable source that our senior vice president made a sound like \"Yurp\" at lunch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What does it mean?",
+        "Does it signal a new set of priorities?",
+        "We must demonstrate our commitment to this vision."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What was the context of this vision?",
+        "All we know is he was eating a burrito."
+      ]
+    }
+  ]
+}

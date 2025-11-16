@@ -1,0 +1,54 @@
+{
+  "date": "2002-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, it's time for your annual performance review."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "None of my usual words fit your situation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I had to hit the thesaurus pretty hard."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your overall rating is \"feral.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Your leadership skills are rated \"squirrelly.\""
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And your teamwork is a solid \"coot.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Your long-term potential is to die in the landscaping and become compost."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "How'd it go?",
+        "I wasn't really listening."
+      ]
+    }
+  ]
+}

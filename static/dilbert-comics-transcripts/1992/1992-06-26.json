@@ -1,0 +1,26 @@
+{
+  "date": "1992-06-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's school of common sense.",
+        "Todd, show the class how you hand these scissors to Russell."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't run!",
+        "Don't run!",
+        "Aaagh!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sorry, Russell. It's the teacher's fault; he didn't even ask if I need left-handed scissors."
+      ]
+    }
+  ]
+}

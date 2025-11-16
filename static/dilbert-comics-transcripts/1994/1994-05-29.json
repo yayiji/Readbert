@@ -1,0 +1,54 @@
+{
+  "date": "1994-05-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I'm promoting you to director of the engineering quality group!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait a minute. I thought you were going to eliminate that group."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Your assignment is to fire them all."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Aaagh! That will be hideous!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "And when I'm done you won't need a director. Then you'll fire me!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You have my word that I will not fire you."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Hi, guys.",
+        "That would be a job for executive director Dilbert."
+      ]
+    }
+  ]
+}

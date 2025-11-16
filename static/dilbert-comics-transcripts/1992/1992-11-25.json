@@ -1,0 +1,24 @@
+{
+  "date": "1992-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I always thought you beavers were busy all the time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's a common stereotype. I'm actually quite lazy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you build your beaver home?",
+        "I rent."
+      ]
+    }
+  ]
+}

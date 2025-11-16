@@ -1,0 +1,24 @@
+{
+  "date": "2021-10-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm falling in love with my Amazon Alexa device."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's strictly platonic so far, but I like where it's heading."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you sticking with humans?",
+        "For now, but keep me in the loop on how your thing works out."
+      ]
+    }
+  ]
+}

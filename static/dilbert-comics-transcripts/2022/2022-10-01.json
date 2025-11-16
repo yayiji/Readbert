@@ -1,0 +1,25 @@
+{
+  "date": "2022-10-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Watch me turn Asok into stone.",
+        "Um... okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Asok, I need you to give a strategy presentation to the board at 8 in the morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why are you doing this?",
+        "My boss wouldn't let me get a fainting goat."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1998-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss told me to buy a bunch of equipment we don't need."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That way our budget won't get cut next year.",
+        "I'm so proud of you, son."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you say that with a straight face?",
+        "I try to imagine you as a navy seal."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1994-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I came up with a new name for our group."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now on we're the \"Engineering Science Research Technology Systems Information Quality and Excellence Center.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You should throw \"efficiency\" in there too.",
+        "I designed the business cards myself."
+      ]
+    }
+  ]
+}

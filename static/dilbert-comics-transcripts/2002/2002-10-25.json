@@ -1,0 +1,26 @@
+{
+  "date": "2002-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This stockholder is suing us to stop the merger.",
+        "Go rough her up."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This assignment disturbs me on many levels.",
+        "Name one."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It will make the holidays tense.",
+        "Blah, blah, blah."
+      ]
+    }
+  ]
+}

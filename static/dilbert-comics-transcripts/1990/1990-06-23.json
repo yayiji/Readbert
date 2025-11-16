@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm so embarrassed...",
+        "I dreamed I died and saw the light of God..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I trust you will just let this incident pass without comment."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I command you to build an ark...",
+        "Grrr..."
+      ]
+    }
+  ]
+}

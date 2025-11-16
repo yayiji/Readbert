@@ -1,0 +1,26 @@
+{
+  "date": "2017-06-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You charged expenses to my project code.",
+        "I had to because I don't have a budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This will make it seem as if I went over budget while you didn't spend a penny.",
+        "Good point."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How's your project coming along with no budget?",
+        "Better than I'd hoped."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2001-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your airline is accused of providing inhumane service.",
+        "How do you respond?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Sometimes I wag and sometimes I hold up my paw and say, \"Bah!\"",
+        "Bah!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're not allowed to say Bah. Take it back.",
+        "Hab"
+      ]
+    }
+  ]
+}

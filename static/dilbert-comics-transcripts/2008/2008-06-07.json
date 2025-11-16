@@ -1,0 +1,27 @@
+{
+  "date": "2008-06-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The executive steering group took your recommendation to cancel all design projects.",
+        "What?!!",
+        "I didn't recommend that!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Uh-oh. Your poor communication skills have sowed the seeds of our destruction.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Am I an unclear communicator?",
+        "Six o'clock."
+      ]
+    }
+  ]
+}

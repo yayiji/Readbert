@@ -1,0 +1,40 @@
+{
+  "date": "2006-02-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to Dogbert's seminar on work-life balance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "First, review this list of your priorities."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Family",
+        "Job",
+        "Exercise",
+        "Vacation",
+        "Must-dos",
+        "Medical",
+        "Eating",
+        "Hygiene",
+        "Sleep",
+        "Romance",
+        "Holidays"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You have time for three things.",
+        "Work and holidays are two. You get to pick the third."
+      ]
+    }
+  ]
+}

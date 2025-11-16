@@ -1,0 +1,25 @@
+{
+  "date": "2021-01-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!",
+        "Why can't I ever type the captcha letters correctly to get into this app?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your inability to prove you are not a robot is strong evidence that you are, in fact, a robot."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, that makes sense.",
+        "The other explanation is that you are a moron, and you know that isn't true, so..."
+      ]
+    }
+  ]
+}

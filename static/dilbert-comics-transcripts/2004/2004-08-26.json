@@ -1,0 +1,24 @@
+{
+  "date": "2004-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I removed all the chairs to encourage more efficient meetings."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The first item on the agenda is...",
+        "Ow, ow! Legs so tired... Meeting adjourned!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I always wondered what efficiency looked like."
+      ]
+    }
+  ]
+}

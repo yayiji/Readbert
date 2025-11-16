@@ -1,0 +1,24 @@
+{
+  "date": "2012-07-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'd like to address the rumor that I padded my résumé."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In the strictest sense of the word, I am not technically an \"engineer\" per se."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But to put this in perspective, even the Pope hides his browser history.",
+        "It's no big deal."
+      ]
+    }
+  ]
+}

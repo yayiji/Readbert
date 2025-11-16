@@ -1,0 +1,23 @@
+{
+  "date": "1999-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The wavy pattern on the carpet is making me dizzy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd better go home and sleep it off."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll be back tomorrow unless all the sleep makes me groggy."
+      ]
+    }
+  ]
+}

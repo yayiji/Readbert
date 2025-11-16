@@ -1,0 +1,26 @@
+{
+  "date": "1993-05-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Good report... but add a sentence that says micro-robotics is a dead-end technology."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But that's the exact opposite of my point!",
+        "If I add that, the whole report would be a confusing and senseless waste of time!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's okay.",
+        "We just won't let anybody else see it.",
+        "Is this a win-win scenario?"
+      ]
+    }
+  ]
+}

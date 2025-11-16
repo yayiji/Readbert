@@ -1,0 +1,24 @@
+{
+  "date": "2008-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I got reassigned to manage our legacy systems. The dress code is \"Troll.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My cubicle is under the walkway. My side job is scaring vendors.",
+        "Is that hard?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Only the first day. After you eat one vendor, word gets around."
+      ]
+    }
+  ]
+}

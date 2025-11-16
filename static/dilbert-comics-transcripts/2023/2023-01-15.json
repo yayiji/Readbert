@@ -1,0 +1,53 @@
+{
+  "date": "2023-01-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have time to laugh at employee complaints?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'd like that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tina says you insulted her by saying yoga is \"nothing but stretching and communism.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hahaha!!! I totally did!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Hahaha!!!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Should I fire her for complaining?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "My goodness, no! I'm not a monster!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'll just make her feel bad until she quits."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2018-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You don't look like your photos on the dating app."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your profile said you like to go to the gym.",
+        "So I guess we're both huge liars."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe we can build on that."
+      ]
+    }
+  ]
+}

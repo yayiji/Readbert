@@ -1,0 +1,24 @@
+{
+  "date": "2018-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And we can put the customer data on the blockchain."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why not use an immutable database instead?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which way should we go?",
+        "Are either of them my favorite color?"
+      ]
+    }
+  ]
+}

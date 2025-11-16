@@ -1,0 +1,23 @@
+{
+  "date": "2006-03-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Bob will be leaving us after 17 years as vice president of marketing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Bob's accomplishments include lowering both our margins and our sales while overseeing a series of confusing marketing campaigns."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I hope you'll all join me in wishing for a piano to fall on his head."
+      ]
+    }
+  ]
+}

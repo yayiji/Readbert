@@ -1,0 +1,24 @@
+{
+  "date": "2021-01-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I listen to actual scientists, and they say your idea will never work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If a chipmunk listens to scientists, should I trust the chipmunk to understand what he heard?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't get your point.",
+        "And yet you do understand science?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1989-12-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Well, Dilbert, will our idea work from a technical perspective?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I wasn't listening...",
+        "Now I'll have to babble about irrelevant technical things until they lose consciousness."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And in conclusion,",
+        "never underestimate the power of technology."
+      ]
+    }
+  ]
+}

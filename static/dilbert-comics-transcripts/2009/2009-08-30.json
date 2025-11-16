@@ -1,0 +1,50 @@
+{
+  "date": "2009-08-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Is there any risk that the new software will erase our payroll data?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Um...",
+        "No.",
+        "Did you ask the vendor that question?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, no, I...",
+        "Then you can't be sure, can you?",
+        "We outsource our payroll service.",
+        "The payroll data isn't even on our servers."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Isn't everything connected to everything else by the internet?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You want me to ask our vendor if his software will hunt down our payroll data from across the internet and try to kill it?",
+        "And you think he might say yes?",
+        "Better safe than sorry."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Later that day",
+        "Yes, sometimes it does that. You're the first to ask.",
+        "Shoot me."
+      ]
+    }
+  ]
+}

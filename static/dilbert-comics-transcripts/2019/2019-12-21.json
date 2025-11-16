@@ -1,0 +1,25 @@
+{
+  "date": "2019-12-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you mentor me?",
+        "Heck, no."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're only one promotion away from competing for my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, maybe you could just stop thwarting my career?",
+        "No, same issue."
+      ]
+    }
+  ]
+}

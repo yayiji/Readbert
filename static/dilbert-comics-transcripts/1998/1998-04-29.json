@@ -1,0 +1,24 @@
+{
+  "date": "1998-04-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Although your company is very profitable, I wouldn't be much of a consultant if I didn't recommend changes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You recommend jailing our ombudsman and declaring martial law... makes sense."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then could I shoot employees who make personal phone calls?",
+        "It's okay with me."
+      ]
+    }
+  ]
+}

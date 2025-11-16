@@ -1,0 +1,23 @@
+{
+  "date": "2007-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I made a typo in my annual budget request, but don't worry."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There are only two things you can't buy for the test lab this year."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hardware and software."
+      ]
+    }
+  ]
+}

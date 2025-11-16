@@ -1,0 +1,24 @@
+{
+  "date": "2009-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If I do a great job with the pandemic contingency planning, can I have a bonus?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I won't know if you did a great job unless we actually have a pandemic emergency."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So... if there is a pandemic, I might get a bonus?",
+        "I don't like where this is heading."
+      ]
+    }
+  ]
+}

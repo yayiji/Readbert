@@ -1,0 +1,25 @@
+{
+  "date": "2022-10-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you quit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I \"quiet quit.\"",
+        "I'll keep coming to work and getting paid, but only so I can get fodder for the comic strip I'm starting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have no art skills whatsoever.",
+        "True, but being qualified for my job didn't work out either."
+      ]
+    }
+  ]
+}

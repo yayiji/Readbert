@@ -1,0 +1,29 @@
+{
+  "date": "2013-06-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Say hello to the ephemeral middle manager."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But hurry because he won't last long."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hi, I'm..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now you just look stupid."
+      ]
+    }
+  ]
+}

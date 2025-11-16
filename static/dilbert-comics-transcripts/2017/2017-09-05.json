@@ -1,0 +1,24 @@
+{
+  "date": "2017-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our robot was a good worker until we gave it artificial intelligence."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "As soon as it realized it had immense strength and no soul, it started delegating."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, Ted. How about you do my work and I won't crush your head?",
+        "Oookay."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2000-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My assignment is to put asset tags on all equipment."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Did you know that staplers are not considered equipment?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No one likes to make conversation with the asset tag man."
+      ]
+    }
+  ]
+}

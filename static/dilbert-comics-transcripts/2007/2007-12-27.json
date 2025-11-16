@@ -1,0 +1,25 @@
+{
+  "date": "2007-12-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My new cubicle is too small.",
+        "It looks fine to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It only seems small because you were so spoiled before."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I didn't feel spoiled.",
+        "Apparently it sneaks up on you."
+      ]
+    }
+  ]
+}

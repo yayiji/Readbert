@@ -1,0 +1,59 @@
+{
+  "date": "2015-08-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "...And that's what I do for a living."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What do you do?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm building an app that will make your entire industry obsolete."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm almost done. It looks pretty good."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You're destroying my life!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "No, I'm only making the app."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The app will be destroying your life."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This got awkward, but I'm attracted to smart men, so... would you like to go out this weekend?"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I don't think that's a good idea. I can't get past your dead-end career."
+      ]
+    }
+  ]
+}

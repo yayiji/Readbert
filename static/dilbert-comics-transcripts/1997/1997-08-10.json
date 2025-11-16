@@ -1,0 +1,57 @@
+{
+  "date": "1997-08-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Announcing project \"Sparkle,\" the clean desk policy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is a company-wide effort to keep our work spaces clean."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tiny question.",
+        "I'm curious about one thing."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm picturing our top executives in the \"war room.\""
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They talk about the competitive threat and our lack of resources.",
+        "Suddenly, panic sets in!!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "A lone voice of reason penetrates the confusion.",
+        "Two words: \"Paper towels.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Is that pretty much how it went?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Moving along, you each get a laminated card with our mission statement.",
+        "Let me do this one."
+      ]
+    }
+  ]
+}

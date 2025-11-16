@@ -1,0 +1,56 @@
+{
+  "date": "2020-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I started doing telemedicine in my spare time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Don't you need to be a doctor to do that?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Technically, yes. But I found a workaround."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Which is?",
+        "I tell people I'm a doctor."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Doctor, I have a sharp pain in the back of my thigh."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Are you sitting on a rake?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's a weird question.",
+        "Oh, wait, I am."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What should I do?",
+        "Try picking up leaves with your hands."
+      ]
+    }
+  ]
+}

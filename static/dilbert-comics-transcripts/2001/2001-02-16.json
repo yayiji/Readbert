@@ -1,0 +1,23 @@
+{
+  "date": "2001-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm a nature lover. When I fish, I only do catch-and-release."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In other words, you torture fish for fun."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I wonder why everything I do sounds bad when it's put in other words."
+      ]
+    }
+  ]
+}

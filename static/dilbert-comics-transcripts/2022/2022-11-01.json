@@ -1,0 +1,24 @@
+{
+  "date": "2022-11-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You want me to create an A.I. that will take the job that I hoped to be promoted into???"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you say it that way, it does sound a lot like asking you to dig your own grave."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And...?",
+        "Aaand... thank you?"
+      ]
+    }
+  ]
+}

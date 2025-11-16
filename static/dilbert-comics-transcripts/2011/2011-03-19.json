@@ -1,0 +1,25 @@
+{
+  "date": "2011-03-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice, I need you to fill in for me while I'm on vacation.",
+        "Yay!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't wait to belittle my subordinates for not doing the things I only imagined telling them to do."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Why would you do that?",
+        "Why would you ask that?"
+      ]
+    }
+  ]
+}

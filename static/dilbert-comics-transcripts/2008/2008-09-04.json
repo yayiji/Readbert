@@ -1,0 +1,26 @@
+{
+  "date": "2008-09-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hello, Alice. I'm the ghost of the popular employee who once did your function."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My body has gone to a better job, but my spirit remains to remind everyone how mean you are in comparison."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nice try, but you can only kill me with kindness.",
+        "Gaaa!",
+        "Gaaa!",
+        "Gaaa!"
+      ]
+    }
+  ]
+}

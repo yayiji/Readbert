@@ -1,0 +1,52 @@
+{
+  "date": "2012-10-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's our marketing plan for the coming year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Research shows that consumers reject this sort of approach."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Research is stupid."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Are you saying the studies on this particular topic are flawed?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Or are you just generally opposed to science, rational thinking, and all manifestations of common sense?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Stop being pedantic with your semantics."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Did you get buy-in?",
+        "Yes, in the sense that they stopped talking."
+      ]
+    }
+  ]
+}

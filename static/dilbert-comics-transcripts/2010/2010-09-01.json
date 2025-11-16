@@ -1,0 +1,22 @@
+{
+  "date": "2010-09-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to the anonymous online employee survey, you don't trust management. What's up with that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh.",
+        "Right."
+      ]
+    }
+  ]
+}

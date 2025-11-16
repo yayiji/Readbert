@@ -1,0 +1,53 @@
+{
+  "date": "2010-10-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, have you made any progress coding your module?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Progress is difficult to measure in the software realm."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could measure the lines of code I produce, but that would reward inefficiency."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "The art of this job is binding the rare moments of inspiration to knowledge and machines."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In fact, just a minute ago I could feel the inspiration welling up inside me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "But then you interrupted me with your naive question and the moment was lost."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe you should go back to your office and reflect on the damage you've done here today."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "There goes the one person who has less of a real job than I do."
+      ]
+    }
+  ]
+}

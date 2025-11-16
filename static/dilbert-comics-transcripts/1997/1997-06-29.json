@@ -1,0 +1,58 @@
+{
+  "date": "1997-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want a ten-percent raise.",
+        "There's no budget for raises."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have an offer from another company that will pay fifteen percent more."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll give you twenty percent if you stay."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I thought you said there's no budget for raises.",
+        "Well... it's supposed to be a secret but..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our policy is to give big raises to people who spend their time interviewing for other jobs."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Good news! The secret company policy is to reward disloyalty!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Yippee!",
+        "Woo- woo- woo",
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's the reward for leaving work early?",
+        "He wouldn't show me the price sheet."
+      ]
+    }
+  ]
+}

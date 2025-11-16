@@ -1,0 +1,23 @@
+{
+  "date": "2001-06-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're having a meeting to discuss employee retention."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Tell them that employees quit because there are too many useless meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We won't be getting into reasons at the first meeting."
+      ]
+    }
+  ]
+}

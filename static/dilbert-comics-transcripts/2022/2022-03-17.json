@@ -1,0 +1,31 @@
+{
+  "date": "2022-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The Dogbert consulting company informed me that our industry has no code of ethics."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So...",
+        "You want me to create one?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. I want to exploit that loophole before anyone else notices."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That feels unethical.",
+        "Not if we act fast."
+      ]
+    }
+  ]
+}

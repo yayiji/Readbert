@@ -1,0 +1,24 @@
+{
+  "date": "2019-11-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My project failed miserably, but I think we can agree we came out ahead."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, we learned what does not work."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You?",
+        "That's one way to look at it."
+      ]
+    }
+  ]
+}

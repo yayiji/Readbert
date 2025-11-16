@@ -1,0 +1,24 @@
+{
+  "date": "1998-05-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm creating a comic strip called \"Pippy the Ziphead.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm cramming as much artwork in there as possible, so no one will notice there's only one joke."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The joke is on the reader, isn't it?",
+        "I'd better cram some more art in there."
+      ]
+    }
+  ]
+}

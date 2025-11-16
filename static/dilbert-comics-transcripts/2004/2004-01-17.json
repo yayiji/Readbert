@@ -1,0 +1,27 @@
+{
+  "date": "2004-01-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Welcome to the Metrogarden hotel!",
+        "How may I make your stay incredible?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would be delighted to iron your socks,",
+        "examine you for suspicious moles or",
+        "take a second job and give you my pay."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I think they overtrained you.",
+        "I'm shaved and prepped to donate a kidney."
+      ]
+    }
+  ]
+}

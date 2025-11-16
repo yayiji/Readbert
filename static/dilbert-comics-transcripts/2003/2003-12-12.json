@@ -1,0 +1,26 @@
+{
+  "date": "2003-12-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Product training",
+        "You work for a company that takes pride in its product line."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Only half of our users experience painful boils."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "We call that group the \"relatively satisfied\" customers.",
+        "What the?!",
+        "!!!"
+      ]
+    }
+  ]
+}

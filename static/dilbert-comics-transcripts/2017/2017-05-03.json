@@ -1,0 +1,25 @@
+{
+  "date": "2017-05-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm having a lot of anxiety because my mobile phone is broken."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What happens if I need to stand in line for something?",
+        "What would I do while I waited?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You need an invisible friend.",
+        "I have one, but she's always on her phone."
+      ]
+    }
+  ]
+}

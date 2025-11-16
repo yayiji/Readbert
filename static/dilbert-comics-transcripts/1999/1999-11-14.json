@@ -1,0 +1,54 @@
+{
+  "date": "1999-11-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Sale"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you have any questions?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's your best running shoe?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They're all the same.",
+        "Sneakers are sneakers."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Alan, may I have a word with you?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": []
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "The expensive sneakers are far superior.",
+        "I'll take them!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I feel like I'm clubbing a baby seal.",
+        "Will these work with my old socks?"
+      ]
+    }
+  ]
+}

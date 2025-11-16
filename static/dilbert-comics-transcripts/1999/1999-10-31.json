@@ -1,0 +1,54 @@
+{
+  "date": "1999-10-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here are the strategies from our seven silo teams."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your job is to merge them into a coherent company plan."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These are all mutually exclusive."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'd have to totally change them to make them coherent."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In effect, I would be deciding the strategy for the entire company."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That's okay.",
+        "It is?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "No one ever reads it anyway."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I feel sorry for those losers on the silo teams."
+      ]
+    }
+  ]
+}

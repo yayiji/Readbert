@@ -1,0 +1,42 @@
+{
+  "date": "1989-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Did I ever tell you what dogs believe about the universe?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We believe in infinite parallel universes, all slightly different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "For example, in our universe, Vincent Van Gogh cut his ear off to demonstrate his love for a woman."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But, in a parallel universe, Van Gogh loses the ear in a tragic toe-nail clipping accident..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "...Vinnie clips the nail, and it just goes flyin' up and rips his ear clean off."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "In yet another universe, maybe he had a dog who talked his ear off.",
+        "This is why dogs rarely discuss their beliefs."
+      ]
+    }
+  ]
+}

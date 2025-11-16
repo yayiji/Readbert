@@ -1,0 +1,24 @@
+{
+  "date": "2009-05-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an MBA from a top business school."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a management expert because I read case studies about businesses that were in completely different situations."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wait a minute. Why does that suddenly seem ridiculous?",
+        "Will this take much longer?"
+      ]
+    }
+  ]
+}

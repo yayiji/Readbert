@@ -1,0 +1,26 @@
+{
+  "date": "2000-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This product would melt the polar ice caps and doom humanity.",
+        "That's okay."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're part of humanity.",
+        "No, I'm in marketing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I won't help you destroy the planet.",
+        "That's what I said until I saw the free t-shirts."
+      ]
+    }
+  ]
+}

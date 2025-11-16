@@ -1,0 +1,24 @@
+{
+  "date": "2012-01-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I told you to reschedule the installation date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That conversation never happened. Maybe you planned to say it and then the thought morphed into a false memory."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sure I emailed you.",
+        "You might want to pick a defense that's less checkable."
+      ]
+    }
+  ]
+}

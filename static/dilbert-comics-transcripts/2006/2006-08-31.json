@@ -1,0 +1,24 @@
+{
+  "date": "2006-08-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The highlight of my workday is this ham sandwich."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "From now until quitting time, nothing else will be as rewarding."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What do you do after work?",
+        "I think about the sandwich."
+      ]
+    }
+  ]
+}

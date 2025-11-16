@@ -1,0 +1,23 @@
+{
+  "date": "1993-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I have a word with you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I understand that you hijacked a satellite signal and hypnotized everybody to carry your picture and chant your name. That is not amusing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "In retrospect, I shouldn't have said \"that is not amusing.\""
+      ]
+    }
+  ]
+}

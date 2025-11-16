@@ -1,0 +1,30 @@
+{
+  "date": "2007-09-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert for president",
+        "As president, I will not make decisions based on polls."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In fact, I won't give you a single thing that you want. That's called leadership."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll never understand why that works.",
+        "Yay!",
+        "Clap!",
+        "Clap!",
+        "Clap!",
+        "Clap!",
+        "Clap!"
+      ]
+    }
+  ]
+}

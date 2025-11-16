@@ -1,0 +1,25 @@
+{
+  "date": "1992-10-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You are in a deep sleep...",
+        "Now, while under hypnosis you can draw the aliens who abducted you."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Hint: they all look exactly like \"E.T.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wow! I drew that??",
+        "They usually come back for you. Better keep a bag packed."
+      ]
+    }
+  ]
+}

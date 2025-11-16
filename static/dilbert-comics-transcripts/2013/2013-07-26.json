@@ -1,0 +1,24 @@
+{
+  "date": "2013-07-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You failed the online ethics course for the third time."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You can't be an engineer for this company if you have no grasp of business ethics."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You leave me no choice. I'm putting you on the management fast track.",
+        "Huh."
+      ]
+    }
+  ]
+}

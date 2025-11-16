@@ -1,0 +1,24 @@
+{
+  "date": "2022-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired the Dogbert consulting company to rename all of our failures into successes."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "For example, our failed attempt at creating a human growth pill ended up turning our volunteers into . . . well, frog-people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They went green.",
+        "There it is."
+      ]
+    }
+  ]
+}

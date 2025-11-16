@@ -1,0 +1,24 @@
+{
+  "date": "2004-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your life is a rolling disaster, so I figure I should ask you for a date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm hoping that the source of your problems is that you consistently make poor choices."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe you could buy some groceries and make me a nice dinner.",
+        "Would you like to move in with me?"
+      ]
+    }
+  ]
+}

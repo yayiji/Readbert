@@ -1,0 +1,24 @@
+{
+  "date": "2019-07-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The office is too quiet today.",
+        "That's because more people are working from home."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I do my job if I can't pop into people's cubicles and share my wisdom?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Second question: Why is everything running so smoothly lately?"
+      ]
+    }
+  ]
+}

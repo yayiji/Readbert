@@ -1,0 +1,24 @@
+{
+  "date": "1991-04-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I know it's only our first date, but what do you think of me?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You remind me of Elvis."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sexy.",
+        "Dead."
+      ]
+    }
+  ]
+}

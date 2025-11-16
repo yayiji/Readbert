@@ -1,0 +1,26 @@
+{
+  "date": "2017-03-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's corporate politeness seminar",
+        "Avoid offending sensitive idiots whenever possible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm a sensitive idiot and I find that offensive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's okay in your case because you had it coming.",
+        "Good point.",
+        "Carry on."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2019-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes, we know the user manual refers to the wrong product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Just use your common sense to figure out what the manual should have said."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I tried that, but it didn't work.",
+        "I can't fix your common sense!"
+      ]
+    }
+  ]
+}

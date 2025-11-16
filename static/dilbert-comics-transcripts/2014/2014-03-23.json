@@ -1,0 +1,54 @@
+{
+  "date": "2014-03-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You can't compare apples and oranges."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That's clearly wrong because you just compared them and declared them different."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Apples and oranges are both foods that grow on trees."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It would be totally valid to compare them nutritionally."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I've noticed that a lot of what comes out of your mouth makes no sense."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You sound like my wife."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You can't compare your wife to your subordinate. That's apples and oranges."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What is happening here?",
+        "I don't know, but I wouldn't compare it to work."
+      ]
+    }
+  ]
+}

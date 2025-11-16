@@ -1,0 +1,23 @@
+{
+  "date": "2021-07-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Going forward, I'll be scheduling weekly one-on-one meetings with each of the engineers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you plan to spend the entire meetings jabbering about yourself?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "They're getting a lot better at predicting."
+      ]
+    }
+  ]
+}

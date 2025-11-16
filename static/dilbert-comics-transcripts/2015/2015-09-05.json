@@ -1,0 +1,25 @@
+{
+  "date": "2015-09-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I only slept four hours last night.",
+        "That's nothing."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was born awake and decided to stay that way."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lack of sleep is making me a little loopy.",
+        "I have a human head collection."
+      ]
+    }
+  ]
+}

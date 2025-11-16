@@ -1,0 +1,56 @@
+{
+  "date": "2019-11-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that's my blockchain proposal. Any questions?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There was a part I didn't understand."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Which part?",
+        "The words."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "All of them?",
+        "Only the goofy ones."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Such as token, smart contract, certainty as a service, UTXO blockchains, node, ledger, and Daps."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... you didn't understand anything I said for the past hour?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Don't try to turn this into my fault."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You could have asked me to clarify.",
+        "I also wanted it to end."
+      ]
+    }
+  ]
+}

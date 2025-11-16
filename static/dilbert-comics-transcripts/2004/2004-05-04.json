@@ -1,0 +1,23 @@
+{
+  "date": "2004-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We still have too many software faults. We'll miss our ship date."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Move the list of faults to the \"future development\" column and ship it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "90% of this job is figuring out what to call stuff."
+      ]
+    }
+  ]
+}

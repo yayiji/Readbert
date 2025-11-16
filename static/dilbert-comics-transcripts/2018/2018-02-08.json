@@ -1,0 +1,25 @@
+{
+  "date": "2018-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hey! Someone stole my product idea!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To be fair, your idea would have been obvious to a monkey with a drinking problem."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But a monkey couldn't build this product.",
+        "Neither can you.",
+        "Let's call it a tie."
+      ]
+    }
+  ]
+}

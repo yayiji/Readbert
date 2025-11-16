@@ -1,0 +1,23 @@
+{
+  "date": "2021-12-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need to stay home for two weeks because I have covid again."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This is the third time you've used that excuse."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Asymptomatic pandemics only come around once in a career, and I don't want to waste any of it."
+      ]
+    }
+  ]
+}

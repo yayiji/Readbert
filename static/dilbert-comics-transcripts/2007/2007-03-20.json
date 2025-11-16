@@ -1,0 +1,28 @@
+{
+  "date": "2007-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have finished my projects. What's next?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Make a spreadsheet and track something."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Track what?",
+        "I think you'll find that it doesn't matter."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    }
+  ]
+}

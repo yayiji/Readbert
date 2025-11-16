@@ -1,0 +1,25 @@
+{
+  "date": "2010-08-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I invented a music device that reads your brain waves and only plays songs that fit your mood."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Kung fu coffee cup!",
+        "///",
+        "Bonk!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, look what I invented!"
+      ]
+    }
+  ]
+}

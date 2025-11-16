@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've made your best decisions since you got brain fog from covid."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe brain fog is an upgrade in your case."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anyone else like cheese?",
+        "You're a better conversationist now too."
+      ]
+    }
+  ]
+}

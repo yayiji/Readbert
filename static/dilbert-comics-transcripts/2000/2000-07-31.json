@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need my approval for any outside jobs."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Oh, my... I have the sudden realization that you control my entire life."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But you can't control what I think!",
+        "Employee will say, \"You can't control what I think!\""
+      ]
+    }
+  ]
+}

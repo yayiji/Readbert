@@ -1,0 +1,23 @@
+{
+  "date": "2011-10-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You've got a bad case of whatchamacallit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "These pills won't fix your underlying problem, but they might give you a wicked case of hemorrhoids."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And I can treat hemorrhoids, so that would feel like progress."
+      ]
+    }
+  ]
+}

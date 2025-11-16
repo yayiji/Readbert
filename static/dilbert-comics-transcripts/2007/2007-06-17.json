@@ -1,0 +1,55 @@
+{
+  "date": "2007-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa! That idiot is whistling in his cube again!!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I would complain but I don't like confrontation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't talk to his boss because I would appear whiney."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "There's only one solution."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Alice, please stop by my cubicle when you get a second."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "What's up?",
+        "Wait. I'll be right back."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop whistling, you freakin' moron!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's up?",
+        "Never mind. I found a work-around."
+      ]
+    }
+  ]
+}

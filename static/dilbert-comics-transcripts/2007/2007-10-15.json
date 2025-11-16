@@ -1,0 +1,25 @@
+{
+  "date": "2007-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Alice is spreading false rumors about me.",
+        "She's trying to make me quit."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "At this company, we don't get all anal about the difference between false rumors and actual facts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's not fair!",
+        "Said the alleged poacher of endangered species."
+      ]
+    }
+  ]
+}

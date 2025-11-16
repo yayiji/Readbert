@@ -1,0 +1,24 @@
+{
+  "date": "2005-10-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm calling to check the references of your ex-employee named Ted."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have a company policy against giving references. But I'd be happy to discuss the weather with you.",
+        "Okay"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The clouds are moving lazily across the sky, and everyone thinks they're stupid."
+      ]
+    }
+  ]
+}

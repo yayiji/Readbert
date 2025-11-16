@@ -1,0 +1,24 @@
+{
+  "date": "2022-05-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now that Elon Musk has purchased our company, he wants to see all of our internal documents."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "In unrelated news, our data center burned to the ground, and we lost all of our backups."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't sound like an accident.",
+        "If anyone asks, say it was Elbonian terrorists.."
+      ]
+    }
+  ]
+}

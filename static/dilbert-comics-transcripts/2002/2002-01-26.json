@@ -1,0 +1,41 @@
+{
+  "date": "2002-01-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Hi, I'm M.T. Suit.",
+        "I'm a man with-",
+        "out sub-",
+        "stance."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I compensate by",
+        "using buzzwords",
+        "and attending",
+        "meetings."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like",
+        "his",
+        "style."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We need",
+        "to sell",
+        "solutions,",
+        "not",
+        "products!"
+      ]
+    }
+  ]
+}

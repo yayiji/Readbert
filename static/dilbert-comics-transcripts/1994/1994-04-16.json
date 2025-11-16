@@ -1,0 +1,24 @@
+{
+  "date": "1994-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've never minded putting makeup on, but it's a real bother to take it off."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That seems like a lot of work, I must admit."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "But I still think it's better to remove the old stuff.",
+        "It's only a problem at the bowling alley."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1989-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You heard me, Robert.",
+        "Eat him right this minute!",
+        "But... but."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You call yourself a carnivore?",
+        "Well, at least smite him with your mighty tail!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And this will teach you not to mess with dinosaurs!",
+        "Cramp..."
+      ]
+    }
+  ]
+}

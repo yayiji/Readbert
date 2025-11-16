@@ -1,0 +1,27 @@
+{
+  "date": "2013-06-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is Wulf.",
+        "He used to work for a famous physicist named Schrödinger."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "He escaped before the experiment was finished and now he's both alive and dead at the same time."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Like a zombie?",
+        "Wow.",
+        "I have half a mind to be offended by that.",
+        "Uh-oh."
+      ]
+    }
+  ]
+}

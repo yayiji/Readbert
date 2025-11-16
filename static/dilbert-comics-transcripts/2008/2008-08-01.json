@@ -1,0 +1,24 @@
+{
+  "date": "2008-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How much do I owe you in legal fees for helping me win my lawsuit?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My fee is 100% of the jury award plus I get to call you names that sound worse than they are."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That doesn't seem fair.",
+        "You're an analog."
+      ]
+    }
+  ]
+}

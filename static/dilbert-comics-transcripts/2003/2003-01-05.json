@@ -1,0 +1,55 @@
+{
+  "date": "2003-01-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert, I got a new member for your project team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My name is Ron but everyone calls me Mo. I don't know why."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Mo, why is your shirt on backward?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What?! Again?!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Stand back. I'll try to fix it by quickly turning around."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Aaagh!",
+        "Hu-aah!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Oh, great. Now Dilbert is gone. I must have entered another dimension."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Please tell me that his pay is lower than mine.",
+        "I love this part."
+      ]
+    }
+  ]
+}

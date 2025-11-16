@@ -1,0 +1,25 @@
+{
+  "date": "2019-01-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The self-driving car named Carl",
+        "Carl, take me to the grocery store."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you know that if I drive you off a cliff, you will die, whereas I would respawn in a new body?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe I'll walk.",
+        "Maybe you should."
+      ]
+    }
+  ]
+}

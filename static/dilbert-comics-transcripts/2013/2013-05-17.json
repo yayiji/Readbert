@@ -1,0 +1,25 @@
+{
+  "date": "2013-05-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Gaaa!!! Every time I leave my cubicle, someone puts a document on my chair!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have an in-box!",
+        "Stop leaving stuff in my chair!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How do you keep your cubicle so neat?",
+        "I put everything on Alice's chair."
+      ]
+    }
+  ]
+}

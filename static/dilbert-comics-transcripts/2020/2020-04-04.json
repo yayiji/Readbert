@@ -1,0 +1,24 @@
+{
+  "date": "2020-04-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your products are shoddy, and your sales teams are incompetent."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But there is a theoretical amount of marketing genius that can fix all of that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you that genius?",
+        "Please. You're making me blush."
+      ]
+    }
+  ]
+}

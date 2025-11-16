@@ -1,0 +1,60 @@
+{
+  "date": "2003-02-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you want to watch a numbing?",
+        "You know I do!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Where is it?",
+        "Cubicle 15950."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you going to the numbing?",
+        "You know we are!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "What is a numbing?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "It's the moment that an employee's brain numbs to the pain of working here."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "It's actually quite beautiful.",
+        "No two are alike."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I can't take this anymore!!",
+        "Gaa!! Gaa!!",
+        "Ooh",
+        "What the..?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "It's okay - he's in a happy place now."
+      ]
+    }
+  ]
+}

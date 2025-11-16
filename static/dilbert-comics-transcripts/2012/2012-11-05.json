@@ -1,0 +1,24 @@
+{
+  "date": "2012-11-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your pointy-haired boss wants to know if you tested the new 3-D printer yet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why aren't you answering my question?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Whatever.",
+        "Success."
+      ]
+    }
+  ]
+}

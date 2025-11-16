@@ -1,0 +1,25 @@
+{
+  "date": "2012-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I, Mordac, the preventer of information services, reject your business case because you used the old template."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Ha ha ha! I feed on your anger and frustration! And now I will eat like a king!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good luck with that.",
+        "I've been dead on the inside since the teamwork seminar.",
+        "Sheesh. I'm living on goldfish crackers."
+      ]
+    }
+  ]
+}

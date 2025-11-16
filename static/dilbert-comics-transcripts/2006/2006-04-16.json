@@ -1,0 +1,54 @@
+{
+  "date": "2006-04-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My chair is broken. May I use your extra one?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't have an extra chair."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sure you do. It's right there."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's not an extra chair. It's my guest chair."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, whatever. The point is that the base broke off of my chair."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I can't sit on a chair that has no wheel base. It's unstable."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Stop being a baby. Just turn your chair upside-down and it will be totally stable."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "When did your chair break?",
+        "Last spring. You get used to it."
+      ]
+    }
+  ]
+}

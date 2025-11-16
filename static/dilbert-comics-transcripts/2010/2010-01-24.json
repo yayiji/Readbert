@@ -1,0 +1,56 @@
+{
+  "date": "2010-01-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO asked each manager to describe his group's function on one slide."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't see how I can fit all of our various functions on one powerpoint slide."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You could say, \"We spend all of our time trying to convince others that we have value.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "That's not all we do.",
+        "Sometimes we also argue about what we do."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That's just what we're doing right now. Tomorrow we'll be doing something totally useful."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Maybe you could add a footnote to the slide that says, \"We dream of someday being productive.\""
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Or you could exaggerate our accomplishments to create a misleading sense of our potential.",
+        "Yes!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What have we accomplished lately?",
+        "We got paid for planning to lie to our CEO."
+      ]
+    }
+  ]
+}

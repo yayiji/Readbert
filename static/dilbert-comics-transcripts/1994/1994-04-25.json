@@ -1,0 +1,40 @@
+{
+  "date": "1994-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Quantity... two sided",
+        "Reduced to 98%",
+        "Collated... with staple",
+        "Portrait...",
+        "Two",
+        "Colors...",
+        "Darken...",
+        "Legal size paper."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thip!",
+        "Crinkle!",
+        "Spoit!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "If you want",
+        "a photocopy",
+        "set \"Thip",
+        "crinkle and",
+        "Spoit\" to",
+        "no.",
+        "It makes",
+        "copies",
+        "too??"
+      ]
+    }
+  ]
+}

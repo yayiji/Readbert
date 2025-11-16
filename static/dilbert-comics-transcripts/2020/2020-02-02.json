@@ -1,0 +1,53 @@
+{
+  "date": "2020-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't give you a good performance review because you haven't performed up to expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do you even know what my job is?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Of course I do. You're an engineer."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Yes, but do you know what projects I'm working on?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Well, various things, and some miscellaneous things, too."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "How can you determine my job performance when you don't know what my job is?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Have you heard of heuristics? You're bad at everything I've observed, so I assume you are bad at everything else as well."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You should have started with that."
+      ]
+    }
+  ]
+}

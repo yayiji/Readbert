@@ -1,0 +1,24 @@
+{
+  "date": "2006-11-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our project scope has vastly expanded, so we'll all need to pull together as a team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is it too late for me to bail out before this project becomes a blight on my career?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I already put the team photo on our coffee cups.",
+        "Gaaa!!!"
+      ]
+    }
+  ]
+}

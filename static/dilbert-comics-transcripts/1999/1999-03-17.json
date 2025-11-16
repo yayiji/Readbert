@@ -1,0 +1,24 @@
+{
+  "date": "1999-03-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm transferring you to the sales department, scapegoat."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then we can make useless products and blame you for our low sales."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't it be better to make good products?",
+        "In a perfect world."
+      ]
+    }
+  ]
+}

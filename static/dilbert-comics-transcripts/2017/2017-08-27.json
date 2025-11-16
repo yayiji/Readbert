@@ -1,0 +1,54 @@
+{
+  "date": "2017-08-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to add a feature to the software."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That would be outside the scope of the project."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Yes, but I'm your boss and I'm telling you to do it."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You also told me to only do the things that are documented on the project specs."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, just change the documentation and then do it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If I do that, the project will be late and over budget."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How many excuses do you have for not doing work?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm just getting started.",
+        "This feature will never work with the others."
+      ]
+    }
+  ]
+}

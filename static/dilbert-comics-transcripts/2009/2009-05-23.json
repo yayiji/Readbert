@@ -1,0 +1,25 @@
+{
+  "date": "2009-05-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the CEO versus the MBA",
+        "My analysis doesn't support your strategy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My analysis says I can hire three high school drop-outs to slap you until it does."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No... please, not drop-outs!",
+        "They will kick your assumptions."
+      ]
+    }
+  ]
+}

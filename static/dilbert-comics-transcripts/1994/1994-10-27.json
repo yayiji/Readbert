@@ -1,0 +1,26 @@
+{
+  "date": "1994-10-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert: Ethics advisor",
+        "We mail our product to people and tell them it's free for one year."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Then we start nailing them with high fees because they'll forget the procedure for returning the product.",
+        "They're trapped."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So, did you have some ethics advice?",
+        "No. I asked you here so I can return your stupid product."
+      ]
+    }
+  ]
+}

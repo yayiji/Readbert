@@ -1,0 +1,24 @@
+{
+  "date": "2014-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You should be proud that we beat the earnings that analysts expected."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why should we be proud that analysts are bad at making estimates?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Those bad estimates don't happen on their own. I had to mislead them.",
+        "I'm proud of you."
+      ]
+    }
+  ]
+}

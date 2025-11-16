@@ -1,0 +1,24 @@
+{
+  "date": "1992-02-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Evolution must be true because it is a logical conclusion of the scientific method."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But science is based on the irrational belief that because we cannot perceive reality all at once, things called \"time\" and \"cause and effect\" exist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's what I was taught and that's what I believe.",
+        "Sounds cultish."
+      ]
+    }
+  ]
+}

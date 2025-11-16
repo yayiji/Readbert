@@ -1,0 +1,24 @@
+{
+  "date": "2022-02-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "According to your employee personality test, you're a sadist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm going to transfer you to our division that does user interface design for grocery store self-checkout systems."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You want a sadist to design a human interface?",
+        "Trust me, no one will notice."
+      ]
+    }
+  ]
+}

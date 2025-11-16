@@ -1,0 +1,25 @@
+{
+  "date": "2022-03-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The country that is our single source for elbonium just declared a trade war.",
+        "What will we do?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The good news is that I did some digging and learned that elbonium isn't even a real thing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The bad news is that you purchased 40 million dollars of it over the past three years.",
+        "Oops."
+      ]
+    }
+  ]
+}

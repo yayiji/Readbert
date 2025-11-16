@@ -1,0 +1,24 @@
+{
+  "date": "2000-07-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The employee of the month is Lulu."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Lulu overcame long odds to win this award.",
+        "I.e., her name was randomly picked."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'd protest but I don't want to taint my victory of last month."
+      ]
+    }
+  ]
+}

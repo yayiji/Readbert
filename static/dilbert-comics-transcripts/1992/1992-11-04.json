@@ -1,0 +1,37 @@
+{
+  "date": "1992-11-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "With your right hand,",
+        "insert a CD into the",
+        "stereo... good."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Now signal left!",
+        "Answer the car phone!",
+        "Defrost the rear",
+        "window! Honk if you",
+        "love fishing!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fortunately,",
+        "we're only in",
+        "the driving",
+        "simulator.",
+        "Do you boys",
+        "want to",
+        "take it for",
+        "a test",
+        "drive?"
+      ]
+    }
+  ]
+}

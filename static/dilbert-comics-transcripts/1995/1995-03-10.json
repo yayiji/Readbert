@@ -1,0 +1,26 @@
+{
+  "date": "1995-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your performance this year was good, but you worked on tasks that aren't important.",
+        "Therefore you get a tiny raise."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I worked on the tasks you assigned.",
+        "What's that say about your performance?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's excellent. I get a bonus for keeping salaries low.",
+        "Have you seen any literature on workplace violence?"
+      ]
+    }
+  ]
+}

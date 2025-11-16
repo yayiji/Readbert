@@ -1,0 +1,54 @@
+{
+  "date": "2021-02-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Industry trends just turned our way by total luck."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have to act fast!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I need to implement some kind of change so it looks as if I caused the increase in profits that will happen anyway."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Does anyone have any ideas?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "No, because we're already perfectly situated to take advantage of the trend."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "That doesn't help me! I can't take credit for our future profits unless I do something I can say made a difference."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Maybe you could implement some sort of bogus company culture training program."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "One week later",
+        "It's important to realize you're all idiots."
+      ]
+    }
+  ]
+}

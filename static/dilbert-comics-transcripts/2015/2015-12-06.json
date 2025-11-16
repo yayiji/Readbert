@@ -1,0 +1,53 @@
+{
+  "date": "2015-12-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You assigned a pack of idiots to my project team."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We can't afford to hire good people."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How am I supposed to create world-class products with a team of disruptive idiots?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Try working extra hard."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You want us to be more energetic about our bad decisions?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "You also have to put in the hours."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Are you saying bad decisions, plus long hours, plus lots of enthusiasm, produces great engineering?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Not if you stand around yacking about it all day."
+      ]
+    }
+  ]
+}

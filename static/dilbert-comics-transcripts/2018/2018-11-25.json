@@ -1,0 +1,54 @@
+{
+  "date": "2018-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally will train you for your new job."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You'll need to figure out how much of what he says is real training and how much is career sabotage."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Career sabotage?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Employees don't like competition."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Only the top 20% get bonuses."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "They'll do what they can to keep you out of that group."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I assume you're exaggerating.",
+        "You'll see."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Has anyone told you about no-pants Fridays?"
+      ]
+    }
+  ]
+}

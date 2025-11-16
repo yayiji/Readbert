@@ -1,0 +1,29 @@
+{
+  "date": "1995-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "To: All users",
+        "From: Network admin",
+        "Please refrain from frivolous e-mail. It bogs down the network."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "To: Network admin",
+        "From: Dilbert",
+        "Cc: All users",
+        "I agree!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Have you noticed there's too much communication in the world, Dogbert?",
+        "Yeah, every day at about this time."
+      ]
+    }
+  ]
+}

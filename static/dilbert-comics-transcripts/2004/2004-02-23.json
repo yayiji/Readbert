@@ -1,0 +1,24 @@
+{
+  "date": "2004-02-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can make your competitors tired and unfocused."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll pester them with an endless series of charity requests, employee birthday parties and blood drives."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I know it works because they paid me to do it to you.",
+        "So... tired. Can't... focus."
+      ]
+    }
+  ]
+}

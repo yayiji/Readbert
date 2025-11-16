@@ -1,0 +1,26 @@
+{
+  "date": "1989-07-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Let's make a deal.",
+        "You let us continue hiding in your house, and Bob won't hungrily devour you.",
+        "That's fair."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But I'm puzzled... I know that Dawn can avoid being seen because she is a nobody saurus, but how on earth did Bob go unnoticed all this time?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Tennies.",
+        "Old dinosaur trick."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2022-03-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Which option costs the least in the long run?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We don't have any accurate data to determine that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Then use inaccurate data."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm not saying our data is mildly flawed. I'm saying it's so inaccurate that it's useless."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "But it's the best we have?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Yes, but it's all wrong."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Go ahead and use that data."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why would I use data I know is wrong???!!!"
+      ]
+    },
+    {
+      "panel": 9,
+      "dialogue": [
+        "I don't know if you remember the part about it being the best data we have."
+      ]
+    }
+  ]
+}

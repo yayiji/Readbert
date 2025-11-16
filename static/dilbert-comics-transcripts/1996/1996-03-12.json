@@ -1,0 +1,24 @@
+{
+  "date": "1996-03-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If this company won't use our product idea, let's quit and start our own business!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why quit? We can run our new company from our cubicles and get paid too."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wouldn't that be immoral?",
+        "That's only an issue for people who aren't already in hell."
+      ]
+    }
+  ]
+}

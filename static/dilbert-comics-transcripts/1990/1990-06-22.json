@@ -1,0 +1,25 @@
+{
+  "date": "1990-06-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert dreams of death",
+        "I'm coming toward the light..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The light... it's so pure... so perfect... it could only be the light of God himself!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No. Just new batteries.",
+        "God has a sense of humor? Of course! It explains everything."
+      ]
+    }
+  ]
+}

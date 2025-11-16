@@ -1,0 +1,26 @@
+{
+  "date": "2017-11-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, did you finish the data scrub?",
+        "No. A defect in my brain made me too lazy."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perhaps some sort of threat would get you going.",
+        "It's worth a try."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do your work or else I'll tell everyone you're useless!",
+        "That would save me a lot of time."
+      ]
+    }
+  ]
+}

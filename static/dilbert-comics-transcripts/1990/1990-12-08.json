@@ -1,0 +1,28 @@
+{
+  "date": "1990-12-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can't you control little Rex?! He's going wild!",
+        "Eeeee"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Rex, stop going wild.",
+        "Why?",
+        "Because I say so.",
+        "So?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't reason with him.",
+        "Eeeee"
+      ]
+    }
+  ]
+}

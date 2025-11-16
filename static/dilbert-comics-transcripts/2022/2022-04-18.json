@@ -1,0 +1,24 @@
+{
+  "date": "2022-04-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How was your day?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I invented a chip that generates clean energy based on stochastic thermo-dynamics, but I had to extend the theory of Nyquist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your day?",
+        "I ate potato chips until my lips started bleeding."
+      ]
+    }
+  ]
+}

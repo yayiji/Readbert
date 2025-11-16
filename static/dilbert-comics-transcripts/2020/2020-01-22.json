@@ -1,0 +1,24 @@
+{
+  "date": "2020-01-22",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I just learned it's illegal to sell armed drones to private citizens."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How many orders did we get since we started selling them this morning?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Seventy million.",
+        "I'll look into bribing someone to change the law."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "1990-05-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You're back early.",
+        "How was your date?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not so good...",
+        "She's a witch...",
+        "Turned me into a frog."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oooh! When I think about it I just get so...so...",
+        "Hopping mad?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2020-12-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for working all weekend to get the project done, Dilbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I award you two motivosity bucks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I like real money better.",
+        "That just cost you two motivosity bucks."
+      ]
+    }
+  ]
+}

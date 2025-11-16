@@ -1,0 +1,26 @@
+{
+  "date": "2006-04-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dilbert and Wally refuse to support my project plan.",
+        "Will you take a look at it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!!",
+        "The stupidity is leaping off the page and burrowing into my brain!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does anyone around here know how to say a simple \"this won't work\"?",
+        "Gurgle"
+      ]
+    }
+  ]
+}

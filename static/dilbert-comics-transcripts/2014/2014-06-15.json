@@ -1,0 +1,55 @@
+{
+  "date": "2014-06-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What a great day!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's all this nonsense?",
+        "I'm trying to be an optimist."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Studies show that optimists die younger."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "So this optimism thing just makes you look ignorant."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "And because my happiness is based on a comparison to my peers, I don't want your future to be too bright."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Stop thinking you're better than me in the future!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This is exactly why I want to die younger."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You already knew that optimists die young?",
+        "Yup! How's your plan working?"
+      ]
+    }
+  ]
+}

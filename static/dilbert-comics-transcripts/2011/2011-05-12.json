@@ -1,0 +1,25 @@
+{
+  "date": "2011-05-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm sick of listening to whiny idiots.",
+        "Do you have a pill for that?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I sure do!",
+        "I took a handful of them this morning and I feel great in spite of your complaining!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How funny would it be if I make you run on a treadmill until you pass out?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2005-08-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please don't discuss your raise with co-workers.",
+        "Whatever."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Let's see how the losers and morons did."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You only got 6%? I got 8%."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "9%. Why do you ask?"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "7.5%. Anything less would be humiliating."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Well, let me see... I think it was...",
+        "Brace for impact."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "8.5%",
+        "Gaaa!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Has she yet learned why it is a bad idea to discuss her raise with co-workers?",
+        "Sounds like it."
+      ]
+    }
+  ]
+}

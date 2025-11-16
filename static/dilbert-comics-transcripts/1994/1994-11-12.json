@@ -1,0 +1,25 @@
+{
+  "date": "1994-11-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "One of these donuts contains a memo which fires the recipient."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This seemed like the most humane way to reduce head count."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How was your donut?",
+        "The first two were great.",
+        "The third was papery."
+      ]
+    }
+  ]
+}

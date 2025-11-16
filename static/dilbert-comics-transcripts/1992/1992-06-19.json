@@ -1,0 +1,25 @@
+{
+  "date": "1992-06-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Maybe Ted can answer that question...",
+        "Uh-oh"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They're trying to make me work. I'll have to use body language to discourage them."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Uh... never mind",
+        "It's working."
+      ]
+    }
+  ]
+}

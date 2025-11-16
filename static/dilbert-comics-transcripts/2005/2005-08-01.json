@@ -1,0 +1,25 @@
+{
+  "date": "2005-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information technology, and I have assigned you a new password.",
+        "What is it?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's the full text of \"The Da Vinci Code,\" excluding the parts I don't believe."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm not touching you.",
+        "Stupid scenery descriptions!"
+      ]
+    }
+  ]
+}

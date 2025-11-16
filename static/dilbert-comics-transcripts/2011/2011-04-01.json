@@ -1,0 +1,25 @@
+{
+  "date": "2011-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I was holding a virtual meeting using the cloud and..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're already dead and you don't know it.",
+        "Um... no, I'm an engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And yet your soul had a meeting in a cloud. Interesting.",
+        "My people call it an avatar."
+      ]
+    }
+  ]
+}

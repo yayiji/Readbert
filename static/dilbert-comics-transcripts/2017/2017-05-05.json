@@ -1,0 +1,22 @@
+{
+  "date": "2017-05-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you were a programmer for the CIA.",
+        "Did you keep a copy of their hacker code that lets you spy through any digital device?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": []
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Would you believe \"no\"?"
+      ]
+    }
+  ]
+}

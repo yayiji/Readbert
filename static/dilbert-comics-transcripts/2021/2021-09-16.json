@@ -1,0 +1,26 @@
+{
+  "date": "2021-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I think you all know why we are gathered here today."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not really.",
+        "Nope.",
+        "No.",
+        "No idea."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Me neither, and I guess I won't be getting any clues from you idiots."
+      ]
+    }
+  ]
+}

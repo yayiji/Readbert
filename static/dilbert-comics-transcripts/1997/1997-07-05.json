@@ -1,0 +1,30 @@
+{
+  "date": "1997-07-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You two will be my telemarketers.",
+        "Here's a list of known idiots to call."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll go first, Bob.",
+        "Let's see... I dial the number.",
+        "And wait for an idiot to answer..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Ring",
+        "Ring",
+        "Ring",
+        "C'mon, you loser.",
+        "Pick up the phone."
+      ]
+    }
+  ]
+}

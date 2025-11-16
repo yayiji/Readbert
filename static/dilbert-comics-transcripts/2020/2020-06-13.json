@@ -1,0 +1,25 @@
+{
+  "date": "2020-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do you have any emergencies for me to work on?",
+        "I do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Perfect! I needed an excuse to avoid working on the boring parts of my job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I also need your status report by end of day.",
+        "I would totally do that if not for this darned emergency."
+      ]
+    }
+  ]
+}

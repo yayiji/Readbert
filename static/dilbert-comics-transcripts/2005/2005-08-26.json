@@ -1,0 +1,24 @@
+{
+  "date": "2005-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Subject: Urgent",
+        "Dilbert, give me your budget numbers as soon as possible."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Technology is amazing. I type one message and within minutes I'll have my data."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "First order of business: delete all spam e-mail that has a subject of \"Urgent\"."
+      ]
+    }
+  ]
+}

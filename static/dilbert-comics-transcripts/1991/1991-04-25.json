@@ -1,0 +1,25 @@
+{
+  "date": "1991-04-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "They have discovered our wheat field landing strips...",
+        "We must scare them away."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Fire!",
+        "Zzzt!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "...And don't go snooping around Stonehenge, either."
+      ]
+    }
+  ]
+}

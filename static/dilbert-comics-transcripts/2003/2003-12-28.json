@@ -1,0 +1,54 @@
+{
+  "date": "2003-12-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hired my wife to be our new receptionist."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I foresee no problems whatsoever."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Hey, dipweed!"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Go buy me a bagel and a cappuccino."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Then wash my car and fill the gas tank."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Now dance for me, little man! Ha ha! Dance or I'll have you fired!!!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "How may I help you?",
+        "Have a nice day!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Stop dancing in the lobby. My wife is trying to work."
+      ]
+    }
+  ]
+}

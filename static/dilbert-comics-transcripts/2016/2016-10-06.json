@@ -1,0 +1,24 @@
+{
+  "date": "2016-10-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The company makes me rank all of my employees. I put you last because you're not an engineer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I have to fire whoever is ranked lowest, and I can't afford to lose any engineers."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What if I work harder, and do a great job?",
+        "Then I'd fire you for not being a team player."
+      ]
+    }
+  ]
+}

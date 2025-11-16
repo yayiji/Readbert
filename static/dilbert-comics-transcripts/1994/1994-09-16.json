@@ -1,0 +1,25 @@
+{
+  "date": "1994-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You have to go, cat. You have no value to us."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, my mere existence will widen your demographic appeal and make you immortal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Oh... a cat. That's original.",
+        "Give it a rest, \"Mickey.\"",
+        "Purr"
+      ]
+    }
+  ]
+}

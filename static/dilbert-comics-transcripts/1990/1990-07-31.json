@@ -1,0 +1,26 @@
+{
+  "date": "1990-07-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If you're going to live here, you need a name.",
+        "How about \"Mickey\"?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No... big trouble.",
+        "How about \"Rodney the rodent\"?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"Vernon the vermin\"?",
+        "\"Ratbert\""
+      ]
+    }
+  ]
+}

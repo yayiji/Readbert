@@ -1,0 +1,25 @@
+{
+  "date": "2008-01-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert the financial planner",
+        "With advances in health care, you could live to be 200."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If you have a good financial plan, only the last 120 years will be spent in squalor."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I recommend a diversified portfolio.",
+        "And bacon."
+      ]
+    }
+  ]
+}

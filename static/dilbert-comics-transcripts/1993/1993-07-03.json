@@ -1,0 +1,28 @@
+{
+  "date": "1993-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please excuse the artwork in this next diagram."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "What's that?",
+        "It looks like Elvis' face on a credenza!",
+        "Ha ha ha!",
+        "Or is it a Rorschach test?!",
+        "Ha ha ha!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And in conclusion,",
+        "I hate you all."
+      ]
+    }
+  ]
+}

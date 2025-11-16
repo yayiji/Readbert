@@ -1,0 +1,54 @@
+{
+  "date": "1994-07-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "What are you drawing, Dogbert?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm creating a comic book called \"The Adventures of Boron.\""
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "\"The most boring man in the entire universe.\""
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Boron looks like me.",
+        "Geez, what an ego you have."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "In chapter one, Boron slays the entire marketing department by explaining asynchronous protocols."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I think it's high time we engineers got a little respect in this society!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Furthermore, there are many advantages to asynchronous transfer mode switch technology!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "First, there's bandwidth..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2006-06-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our CEO got a $400,000,000 bonus this year. Can I get that too?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wally, he got that much because he's a million times more important than you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Fair enough. Can I have the $400 that you say I'm worth?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "1999-09-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Move our budget system onto the under-utilized mainframe."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It's under-utilized because it's obsolete."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Reality versus management; who shall be the victor?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2015-01-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I want to be in a serious relationship that can lead to marriage."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Marriage is a financial contract.",
+        "How much money do you have?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "All I have is me.",
+        "So...",
+        "More vendor than spouse?"
+      ]
+    }
+  ]
+}

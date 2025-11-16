@@ -1,0 +1,24 @@
+{
+  "date": "1995-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't believe you're recommending this lousy vendor just because the sales rep is gorgeous."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Here's a picture of Thor, their field engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Does he really work without a shirt?",
+        "Only if you buy the \"Indian Chief\" maintenance package."
+      ]
+    }
+  ]
+}

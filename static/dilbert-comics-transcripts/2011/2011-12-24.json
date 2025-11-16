@@ -1,0 +1,26 @@
+{
+  "date": "2011-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I need you to come with me on a sales trip.",
+        "But don't talk to the customer."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your presence is needed to give a misleading impression of how much engineering support we plan to offer after the sale."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "So I'm nothing but a bag of meat?",
+        "No.",
+        "You're a lying bag of meat."
+      ]
+    }
+  ]
+}

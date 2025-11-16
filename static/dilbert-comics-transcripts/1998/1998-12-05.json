@@ -1,0 +1,23 @@
+{
+  "date": "1998-12-05",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This report shows how much your raise would be if raises hadn't been canceled."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! My imaginary life is doing great!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Now back to pretending to work."
+      ]
+    }
+  ]
+}

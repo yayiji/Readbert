@@ -1,0 +1,24 @@
+{
+  "date": "2016-07-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't believe how stupid this person is."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How do you rule out the hypothesis that you're too dumb to understand his point?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Take your time. I can wait.",
+        "For starters, he disagrees with me."
+      ]
+    }
+  ]
+}

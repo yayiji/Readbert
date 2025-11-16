@@ -1,0 +1,24 @@
+{
+  "date": "2013-01-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Do we have any actionable analytics from our big data in the cloud?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, the data shows that my productivity plunges whenever you learn new jargon."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe in-memory computing will accelerate your applications.",
+        "Plunge, plunge, plunge."
+      ]
+    }
+  ]
+}

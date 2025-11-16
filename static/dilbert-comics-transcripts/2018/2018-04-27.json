@@ -1,0 +1,24 @@
+{
+  "date": "2018-04-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Before I arrest you, I'll need to know your net worth."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "We have a slightly different process for arresting rich folks."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm very rich.",
+        "In that case, I'll wear the handcuffs."
+      ]
+    }
+  ]
+}

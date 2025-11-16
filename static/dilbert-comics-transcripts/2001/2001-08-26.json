@@ -1,0 +1,58 @@
+{
+  "date": "2001-08-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ooh! Ooh! I know how to solve our problem!",
+        "Not so fast, Asok."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This isn't the solution meeting.",
+        "This is the process meeting."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our goal is to develop a process for generating ideas to solve the problem."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We don't know how to develop processes.",
+        "Someone should have a meeting about that."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Someone like... a cross-disciplinary SWAT team in an offsite lockup meeting."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Hmm...",
+        "Good idea.",
+        "I guess this meeting is over."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "You see, Asok. You can only thwart a meeting by inventing other meetings to act as a firewall."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Asok, I'm putting you on a cross-disciplinary SWAT team."
+      ]
+    }
+  ]
+}

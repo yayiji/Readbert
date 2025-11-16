@@ -1,0 +1,24 @@
+{
+  "date": "2015-10-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like to start each workday by visualizing how my work will make the world a better place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaaa!!! My life is meaningless and nothing I do will ever matter!!!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Okay, good.",
+        "I like to get that out of the way early."
+      ]
+    }
+  ]
+}

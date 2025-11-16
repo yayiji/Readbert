@@ -1,0 +1,25 @@
+{
+  "date": "2013-12-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Merry Christmas!",
+        "This gift is based on the Copenhagen interpretation of quantum mechanics."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "There's a cat in here that is neither dead nor alive."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Where are the airholes?",
+        "I have control issues."
+      ]
+    }
+  ]
+}

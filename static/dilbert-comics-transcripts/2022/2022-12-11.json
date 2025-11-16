@@ -1,0 +1,54 @@
+{
+  "date": "2022-12-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're getting a lot of heat from the media for using Elbonian slave labor to make our sneakers."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So I hired the Dogbert public relations firm to help us with our messaging."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Excuse me, is our messaging the problem here... or is it more about the slave part?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm fairly sure all footwear is made by slaves."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Really? You believe all footwear is made by slaves?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I assume so. Why would anyone use paid labor when they could just use slaves?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Morality?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You're fired.",
+        "I warned you about that."
+      ]
+    }
+  ]
+}

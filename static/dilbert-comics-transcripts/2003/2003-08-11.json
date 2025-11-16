@@ -1,0 +1,24 @@
+{
+  "date": "2003-08-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Now I'd like to recognize Walter for his five years of work for this company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Thanks, but I've been here for thirty years...",
+        "Oh, I get it now."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel a sick day coming on."
+      ]
+    }
+  ]
+}

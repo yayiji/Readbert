@@ -1,0 +1,24 @@
+{
+  "date": "2011-02-07",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm an inch taller than you and my powerpoint slides are in the Louvre."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some say the Earth is on the back of a giant turtle. But who do you think is holding the turtle?",
+        "You?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Wrong! It's turtles all the way down. But who do you think is holding the infinite turtles?"
+      ]
+    }
+  ]
+}

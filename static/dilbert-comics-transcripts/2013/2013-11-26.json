@@ -1,0 +1,33 @@
+{
+  "date": "2013-11-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Experts say lazy employees are the best because they know how to find shortcuts."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "So you found a lot of shortcuts?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Me? No.",
+        "I'm not lazy.",
+        "I'm useless."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Then why did you bring it up?",
+        "Why wouldn't I?",
+        "I'm not lazy."
+      ]
+    }
+  ]
+}

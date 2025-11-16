@@ -1,0 +1,24 @@
+{
+  "date": "2005-04-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Carol, I decided to take the entire staff out to a five-star restaurant for lunch."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The food is so good that it's almost intoxicating.",
+        "When paired with the right wine, the experience is a once-in-a-life-time sensation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "While we're gone, you'll need to answer everyone's phone."
+      ]
+    }
+  ]
+}

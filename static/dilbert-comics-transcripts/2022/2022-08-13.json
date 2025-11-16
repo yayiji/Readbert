@@ -1,0 +1,24 @@
+{
+  "date": "2022-08-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've developed the ultimate application form."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The first question asks for your contact information and so does the second question."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And... the rest of the form?",
+        "More of the same."
+      ]
+    }
+  ]
+}

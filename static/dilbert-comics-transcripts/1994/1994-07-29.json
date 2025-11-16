@@ -1,0 +1,25 @@
+{
+  "date": "1994-07-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Have you summarized your accomplishments for our CEO?",
+        "Almost done."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay — my body converts toxic waste into penicillin, I'm clairvoyant, and I invented wool."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I thought sheep invented wool.",
+        "Who are you going to believe, them or me?"
+      ]
+    }
+  ]
+}

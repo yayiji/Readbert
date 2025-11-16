@@ -1,0 +1,24 @@
+{
+  "date": "2008-06-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, I enrolled you in a program to cure uselessness."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your classmates will be a glass hammer and a bag of nothing."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I borrow a pen?",
+        "Dude, no arms."
+      ]
+    }
+  ]
+}

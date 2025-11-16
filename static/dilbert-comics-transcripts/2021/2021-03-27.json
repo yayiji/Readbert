@@ -1,0 +1,24 @@
+{
+  "date": "2021-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've decided to reduce your pay because you no longer commute."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "When you pocket those savings, it is as if you are stealing from the company."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Actually, it isn't like that at all.",
+        "Everyone in prison says they're innocent too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "1990-10-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Please, mister garbage man, help us fix Dilbert's cloning device and bring him back to life!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "This shouldn't be too hard. Standard anti-light resonance filters. Yeah, I think I have parts in the truck."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're going to clone him from his own garbage?",
+        "Don't tell anybody--there might be a stigma."
+      ]
+    }
+  ]
+}

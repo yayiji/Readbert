@@ -1,0 +1,26 @@
+{
+  "date": "2010-11-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Are you running into any problems?",
+        "Only the kind that you make worse."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Name one problem that I make worse!",
+        "I have too many distractions."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Do you have any problems that aren't like that one?",
+        "Only in my fantasies."
+      ]
+    }
+  ]
+}

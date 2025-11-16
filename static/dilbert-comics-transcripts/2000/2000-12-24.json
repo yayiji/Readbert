@@ -1,0 +1,45 @@
+{
+  "date": "2000-12-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've been thinking about your birthday, Mom.",
+        "How sweet."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "It seems so inefficient to wrap up your present."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You'll just rip up the wrapping paper an hour later.",
+        "So I was thinking of throwing a towel over it instead."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "You'd get all of the element of surprise without wasting paper.",
+        "Maybe I can use one of your towels so I don't have to lug one from my house."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Of course, dear. I wouldn't want you to lug a big heavy towel just for me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Good. It's settled.",
+        "Those aren't for you."
+      ]
+    }
+  ]
+}

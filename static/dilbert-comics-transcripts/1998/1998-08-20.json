@@ -1,0 +1,23 @@
+{
+  "date": "1998-08-20",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Yes, regular employees are paid less than contract employees such as yourself."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "But if you join the company, you'll get many intangible benefits."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Maybe your stockholders would like some intangible benefits. They can have mine."
+      ]
+    }
+  ]
+}

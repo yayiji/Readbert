@@ -1,0 +1,25 @@
+{
+  "date": "2016-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hear you're a terrorist sympathizer.",
+        "What? No! I'm not even close."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I don't want to hate you! Please stop radicalizing me!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Sweating, agitated. He looks suspicious to me.",
+        "Who are you talking to???!"
+      ]
+    }
+  ]
+}

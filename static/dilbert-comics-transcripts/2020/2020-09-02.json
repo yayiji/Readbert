@@ -1,0 +1,24 @@
+{
+  "date": "2020-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I've noticed that the more experience I gain, the more cynical and jaded I become."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Am I doomed to become a golem-like creature with a bad attitude if I work here long enough?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "No offense.",
+        "None taken."
+      ]
+    }
+  ]
+}

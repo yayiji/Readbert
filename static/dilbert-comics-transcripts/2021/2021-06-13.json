@@ -1,0 +1,54 @@
+{
+  "date": "2021-06-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll need you to sign a nondisclosure agreement before I can show you our new product."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You wasted a trip here because I won't be doing that."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "The fact that you even asked me to sign an NDA tells me your company is incompetent."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I prefer giving my business to a vendor who can show me their product without getting a lawyer involved."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "You could sign it without having your lawyer review it."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Do I look like an idiot?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Well?",
+        "Do I?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Only from your chin to your forehead area."
+      ]
+    }
+  ]
+}

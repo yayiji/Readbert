@@ -1,0 +1,57 @@
+{
+  "date": "2021-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "May I see a copy of our network maintenance contract?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're not authorized to see contracts."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have a legitimate business need."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It doesn't matter because you're not authorized."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Okay, who is in charge of authorizing access?",
+        "That would be me."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "So... give me access.",
+        "You need an access request form."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Where do I get one of those?",
+        "Fill out an online request."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "What's the URL?",
+        "I'm not authorized to tell you."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Why is your project late, Dave?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Supply chain issues, climate change, systemic racism, Covid, and something about inflation."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can never tell if you're joking.",
+        "I love that about you."
+      ]
+    }
+  ]
+}

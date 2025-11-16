@@ -1,0 +1,24 @@
+{
+  "date": "2022-06-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Doctor Ratbert, I understand you have offered to endorse our new pill."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Yes, absolutely. By the way, do you have any lucrative speaking gigs at five-star resorts you could steer my way?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "As a matter of fact, we do.",
+        "Your pill already made me happy!"
+      ]
+    }
+  ]
+}

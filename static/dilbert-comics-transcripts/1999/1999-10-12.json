@@ -1,0 +1,23 @@
+{
+  "date": "1999-10-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you're invited to my new \"after-5 club.\""
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "A select group of employees will meet after work to think of creative ideas."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Is there a club for people who know how to think during business hours?"
+      ]
+    }
+  ]
+}

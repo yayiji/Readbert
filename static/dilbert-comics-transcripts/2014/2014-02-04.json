@@ -1,0 +1,24 @@
+{
+  "date": "2014-02-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I took your advice to start overeating so I could save all of my willpower for work."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The only downside is a twenty-year reduction in my life expectancy."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Are you okay with that?",
+        "Who would want twenty extra years of my life?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2015-01-28",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Success is all about who you know."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'm not successful, so apparently it doesn't help to know you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'm sorry I let you down."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's as if you aren't even trying."
+      ]
+    }
+  ]
+}

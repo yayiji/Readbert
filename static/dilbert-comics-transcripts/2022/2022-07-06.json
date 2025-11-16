@@ -1,0 +1,24 @@
+{
+  "date": "2022-07-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "If there's one thing I hate, it's liars."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you aware that you lie six times per minute?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You can't prove that.",
+        "We track you on a shared spreadsheet."
+      ]
+    }
+  ]
+}

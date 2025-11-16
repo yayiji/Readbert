@@ -1,0 +1,51 @@
+{
+  "date": "2012-09-16",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Emergency! I can't find my phone and I'm late for a customer meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Maybe it's with your company I.D. badge that you had to drive all the way home for this morning."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It might be with your keys that you lost after lunch."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Maybe it's under the critical folder that you couldn't find before your last meeting."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe it's wherever you created your last self-generated crisis."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I just remembered I put my phone in my purse because the battery is dead."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": []
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Has anyone seen a small, brown purse?"
+      ]
+    }
+  ]
+}

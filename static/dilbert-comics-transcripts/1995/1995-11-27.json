@@ -1,0 +1,26 @@
+{
+  "date": "1995-11-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My password for the network isn't working.",
+        "Fill out a help request online."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I can't get online because my password doesn't work...",
+        "Send me an e-mail message about it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can't send e-mail because I can't get on the stinkin' network!!!",
+        "Geez, you're worthless..."
+      ]
+    }
+  ]
+}

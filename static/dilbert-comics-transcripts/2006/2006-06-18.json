@@ -1,0 +1,56 @@
+{
+  "date": "2006-06-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Annual review",
+        "Your project came in 10% over budget."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Actually, it came in at exactly what I estimated."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You cut my budget by 10% because you wanted to feel like a leader."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I assume you'll give me a huge raise to reward my excellent estimating ability."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Why can't you be like Wally? His project budget was $10,000,000 and he only spent $147."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "If you're so smart, explain that!"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "That's hard to explain without using the phrase \"you gullible toad.\""
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I'm next.",
+        "What kind of mood is he in?",
+        "Not so good."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-02-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "In summary, my project was successful beyond all expectations."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "My relative lack of success this year makes me hate you and want to destroy you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "What's stopping you?",
+        "General incompetence.",
+        "Same thing that killed all of my projects."
+      ]
+    }
+  ]
+}

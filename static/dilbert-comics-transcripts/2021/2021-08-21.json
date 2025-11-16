@@ -1,0 +1,24 @@
+{
+  "date": "2021-08-21",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "When will my rocket be ready for human flight?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're scheduled to fly in it next week to make sure it's safe for animal test flights later this month."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did I hear that wrong?",
+        "You should have hired engineers who hate animals and love CEOs."
+      ]
+    }
+  ]
+}

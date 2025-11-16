@@ -1,0 +1,61 @@
+{
+  "date": "1994-03-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Dogbert's body language update"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you hampered by the limits of conventional body language?",
+        "I can help."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How can you politely tell somebody he's babbling?",
+        "Babble babble"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Remove the offender's watch while he babbles.",
+        "Babble"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Smash the watch with your daily planner.",
+        "Babble",
+        "Whack!"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "This won't stop the babble, but it will feel real good for a minute.",
+        "Babble",
+        "Mmm"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Use this position to signal your surrender to the babble."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Next week: The self-heimlich manuever and the Kervorkian dodge.",
+        "Babble"
+      ]
+    }
+  ]
+}

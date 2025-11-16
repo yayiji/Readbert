@@ -1,0 +1,25 @@
+{
+  "date": "2014-08-15",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I had a great day yesterday!",
+        "No you didn't."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Good and bad days are only in your mind. The environment is largely the same as the day before."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're ticking me off.",
+        "Or am I?"
+      ]
+    }
+  ]
+}

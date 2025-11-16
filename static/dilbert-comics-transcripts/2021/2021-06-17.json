@@ -1,0 +1,25 @@
+{
+  "date": "2021-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, you have a problem with authority."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Wow! I thought I was lazy, but maybe I'm actually a rebel. Yes, I like it."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Can I add it to my business card?",
+        "No!",
+        "\\||"
+      ]
+    }
+  ]
+}

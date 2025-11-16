@@ -1,0 +1,23 @@
+{
+  "date": "2013-08-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Here is your coffee, as requested."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Some guy tried to take the last cup so I strangled him and put his remains down the garbage disposal."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's weird how that makes the coffee taste so much better."
+      ]
+    }
+  ]
+}

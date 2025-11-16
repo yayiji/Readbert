@@ -1,0 +1,55 @@
+{
+  "date": "1991-03-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Our neighbor is being loud and obnoxious again.",
+        "Party!!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not for long. I'm going to override his home electronic systems with my computer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I can control his television, microwave, telephone, stereo, garage door and thermostat."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Attention! Attention! Obnoxious neighbor!!"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I am Dilbert. I have control over your life-support systems."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I will cut off your heat, entertainment and cooking appliances..."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Unless you pack up and leave the neighborhood immediately."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "He's trying to enroll in a computer science class!",
+        "The fool! It's much too late for that."
+      ]
+    }
+  ]
+}

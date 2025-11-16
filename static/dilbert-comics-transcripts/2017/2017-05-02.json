@@ -1,0 +1,24 @@
+{
+  "date": "2017-05-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can I borrow your phone to make a call? I dropped mine and broke it."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, I don't like other people touching my phone, or breathing on it, or reading my messages."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You have a lot of issues.",
+        "Said the person who doesn't use protective phone cases because they are ugly."
+      ]
+    }
+  ]
+}

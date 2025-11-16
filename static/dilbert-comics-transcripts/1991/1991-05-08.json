@@ -1,0 +1,25 @@
+{
+  "date": "1991-05-08",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ratbert, I need your help to solve the mystery of Dilbert's necktie."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gosh, Dogbert, most of my work at the lab is the non-analytical type.",
+        "Sure, I've eaten a few hundred ties, but who hasn't?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "It's not your brain power that I need.",
+        "Can we solve this with my good looks alone?"
+      ]
+    }
+  ]
+}

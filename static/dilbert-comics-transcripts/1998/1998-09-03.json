@@ -1,0 +1,25 @@
+{
+  "date": "1998-09-03",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I can't process your voucher because these receipts look fake to me."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "They aren't fake!",
+        "Then why aren't they notarized?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because they're just receipts!",
+        "And now you'll tell me there's no DNA evidence either."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2010-09-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We need to shut down our crime scene cleaning division."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Apparently your assistant, Ratbert, has been putting human remains in the recycling bins."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a harmless mistake. What's the worst thing that could happen?"
+      ]
+    }
+  ]
+}

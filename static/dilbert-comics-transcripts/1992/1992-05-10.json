@@ -1,0 +1,50 @@
+{
+  "date": "1992-05-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": []
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How can I tell when spaghetti is cooked?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I'll have to wear the hat to answer that question."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": []
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "The spaghetti is done when you can throw it at the wall and make it stick."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Seems odd... but he was wearing the hat."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Whap!",
+        "Splash!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Preferably, one strand at a time."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2002-10-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Can you help me weasel out of an impossible assignment?",
+        "You came to the right place."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gradually reword the objectives of the project until one day they match what you've already done."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Six months later",
+        "I successfully analyzed the feasibility of discontinuing the project.",
+        "Success!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2021-02-12",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted says you are making all the wrong technology decisions on your project."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Why do you believe him?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Because he's the last person I talked to."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "But now you're talking to me.",
+        "Stop trying to game the system."
+      ]
+    }
+  ]
+}

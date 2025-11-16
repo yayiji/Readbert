@@ -1,0 +1,60 @@
+{
+  "date": "2015-05-31",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My name is Dilbert. Would you like to make out?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Can I take you on a date?",
+        "No."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Lunch?",
+        "No."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Can I have your number so I can text you?",
+        "No."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Can I be your Facebook friend?",
+        "No."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can I follow you on Twitter?",
+        "Fine."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But no retweeting."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Can I favorite your tweets?",
+        "Only if you wear a glove on your mouse hand."
+      ]
+    }
+  ]
+}

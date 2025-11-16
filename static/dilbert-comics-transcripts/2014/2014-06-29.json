@@ -1,0 +1,55 @@
+{
+  "date": "2014-06-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "This is tech support. How may I help you?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Before we start, I need to tell you that I'm a highly trained electrical engineer."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I have already eliminated all of the most probable causes of my issue."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I have reinstalled the software and I have rebooted several times."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "So please, if you have any respect for humanity, do not start this call by insisting that I reboot again."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Can you do that?",
+        "Can you not ask me to reboot as your first suggestion?"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Try rebooting.",
+        "Gaaa!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I kinda love my job."
+      ]
+    }
+  ]
+}

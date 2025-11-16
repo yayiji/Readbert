@@ -1,0 +1,59 @@
+{
+  "date": "2003-05-04",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Wally, can you teach me to work smarter, not harder?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Grab an important-looking document and follow me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Walk briskly and pretend to be angry about what you're reading.",
+        "Grrr..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Hey, Asok, would you help me...?",
+        "Never mind.",
+        "Grrr",
+        "Grrr"
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "As a rule, people try to avoid anyone who has more problems than they do."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Lesson two: Make sure your shirt and your toothpaste are the same color."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "This baby is covered with toothpaste stains, but you'd never know it.",
+        "Wow!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "And how often do you need to launder a shirt that smells minty?",
+        "Never!"
+      ]
+    }
+  ]
+}

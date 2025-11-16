@@ -1,0 +1,54 @@
+{
+  "date": "2015-10-25",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ibm's Watson super-computer has diagnosed your symptoms."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "The computer just ordered the meds you need. They will be delivered in an hour by drone."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Looks like your job as a doctor is becoming obsolete."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Ha ha! No. You still need a doctor and a nurse to make the system work."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "For example, the computer can't read its own screen and speak those words to patients."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "Actually, it can."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But the computer doesn't have a nurse.",
+        "What does the nurse do?"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "I stab him if he tries to do more than read the screen."
+      ]
+    }
+  ]
+}

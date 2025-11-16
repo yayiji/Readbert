@@ -1,0 +1,56 @@
+{
+  "date": "2002-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'll get to your application as soon as I have nothing more important to do."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Okay... thank you very much."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I just thanked someone for doing nothing.",
+        "Beep"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "My project is being thwarted by a woman who gets satisfaction from being unhelpful."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Have you tried using your charm?"
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I guess I can try.",
+        "Ha ha ha! Just kidding."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "But seriously, try hounding her until she recoils in pain at the sound of your voice."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Will that work?",
+        "Sometimes the best you can do is make other people feel bad."
+      ]
+    }
+  ]
+}

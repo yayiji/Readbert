@@ -1,0 +1,24 @@
+{
+  "date": "2015-07-14",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "How's it going with the Elbonians you bought on the internet?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I had to set them free. Turns out it was slavery after all."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You made them work without pay.",
+        "Yeah, that's the spin they put on it, too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2013-03-09",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I am Mordac, the preventer of information services, and I forbid you from using the shared color printer for rough drafts!"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "That sounds reasonable, which makes me wonder what you're up to."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Two months later",
+        "Why did you remove the color printer?",
+        "It was hardly ever used."
+      ]
+    }
+  ]
+}

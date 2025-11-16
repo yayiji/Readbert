@@ -1,0 +1,24 @@
+{
+  "date": "1995-02-06",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I have an ethical question about telecommuting, Dogbert."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Do I owe my employer eight productive hours, or do I only need to match the two productive hours I would have in the office?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Well, when you factor in how you're saving the planet by not driving, you only owe one hour.",
+        "And this meeting counts."
+      ]
+    }
+  ]
+}

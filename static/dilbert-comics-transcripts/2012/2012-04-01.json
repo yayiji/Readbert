@@ -1,0 +1,54 @@
+{
+  "date": "2012-04-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "You need to imbue your staff with a sense of urgency."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Gaaa!!! Our technology platforms are obsolete!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Try it again with less panic."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "We're doomed, and yet, I am not the least bit worried."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "That one had a creepy vibe."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "A sense of urgency is halfway between being too frightened to act and too dumb to know what to do."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Gaaa!!! Duh!!!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "You didn't quite thread the needle.",
+        "Here comes leadership!"
+      ]
+    }
+  ]
+}

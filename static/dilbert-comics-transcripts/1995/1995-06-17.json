@@ -1,0 +1,26 @@
+{
+  "date": "1995-06-17",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I see signs of productivity here.",
+        "I'm moving you to another cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Your phone and computer will be disconnected for weeks.",
+        "Your files will be boxed and lost."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Good lord, you've abandoned all pretense of being on our side!!",
+        "Loser"
+      ]
+    }
+  ]
+}

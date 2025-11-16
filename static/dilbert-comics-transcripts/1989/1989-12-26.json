@@ -1,0 +1,24 @@
+{
+  "date": "1989-12-26",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I'm thinking of getting a tattoo."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "On my shoulder... something tasteful yet timeless. I don't want to regret it later."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Any suggestions?",
+        "How about \"kick me\"?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2007-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Ted, I'm going to eliminate your function and outsource it to the Dogbert outsourcing company."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I need a job."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "You're hired."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "I'm ba-a-ack!"
+      ]
+    }
+  ]
+}

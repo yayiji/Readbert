@@ -1,0 +1,26 @@
+{
+  "date": "1997-08-01",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I hope we get more office space soon.",
+        "Otherwise, I'll have to share my cubicle."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "If they send someone here, I'll arrange the usual \"accident.\"",
+        "Hi!"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Spring!",
+        "Wow. She got the box too."
+      ]
+    }
+  ]
+}

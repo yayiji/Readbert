@@ -1,0 +1,53 @@
+{
+  "date": "2019-11-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "We're moving our manufacturing operations to Elbonia to save money."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Are you worried about the Elbonian government's reputation?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Nah. I try to stay out of the weeds."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "They're building concentration camps and rounding up dissenters."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "They intentionally poisoned a hundred thousand people in this country."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "They are habitual stealers of intellectual property, and they routinely ignore agreements they have signed."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "And they have a well-known goal of weakening other countries so they can dominate the world."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Why can't you just admit I'm saving money?"
+      ]
+    }
+  ]
+}

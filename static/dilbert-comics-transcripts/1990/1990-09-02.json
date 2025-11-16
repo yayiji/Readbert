@@ -1,0 +1,56 @@
+{
+  "date": "1990-09-02",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "The worst he can do is fire me..."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Boss, I need to talk to you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I feel you don't respect me..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "It's an intangible thing...",
+        "Sneeze coming..."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "I see it in your body language...",
+        "Aah..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...and sometimes the things you say...",
+        "Rrrriip"
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Chooo"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "This has been something less than a victory for workers everywhere."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2000-11-29",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok is down.",
+        "Does anyone know CPR?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Is CPR the one where we take his kidney and leave him in a tub of ice?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Um...",
+        "I don't think so.",
+        "We'd better strip him and shave him just in case."
+      ]
+    }
+  ]
+}

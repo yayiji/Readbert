@@ -1,0 +1,57 @@
+{
+  "date": "2014-11-30",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Would you like some feedback on your performance?",
+        "No."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "You're supposed to appreciate feedback because it makes you feel valued."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "How does listening to you belittle me about things you don't understand make me feel valued?"
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Well, I don't know.",
+        "It must be an indirect thing."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Maybe we should just try it and see how it feels.",
+        "Whatever."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "I don't actually watch you work, so I'm mostly guessing about the things you do wrong."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "I accuse you of being slow and disorganized!"
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "Is it working yet?",
+        "Yes, if that makes you go away."
+      ]
+    }
+  ]
+}

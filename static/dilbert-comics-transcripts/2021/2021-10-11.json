@@ -1,0 +1,25 @@
+{
+  "date": "2021-10-11",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "And that concludes the useful part of the meeting."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Who wants to stay and hear a long, rambling story with no point?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Count me in.",
+        "It beats working.",
+        "I call this one \"How a raccoon got in my toilet.\""
+      ]
+    }
+  ]
+}

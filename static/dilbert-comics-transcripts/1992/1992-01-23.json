@@ -1,0 +1,27 @@
+{
+  "date": "1992-01-23",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I thought you were my friend, Ratbert.",
+        "Why did you tip off the authorities about my insider stock trading?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I was afraid that if you kept the money you would leave and I'd never see you again.",
+        "Really?",
+        "Gee..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Did they give you a reward?",
+        "Yeah, I'm outta here!"
+      ]
+    }
+  ]
+}

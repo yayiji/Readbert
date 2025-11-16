@@ -1,0 +1,25 @@
+{
+  "date": "2017-03-27",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I like ambitious men. Are you ambitious?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "Not especially.",
+        "For example, I settled for dating you."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "That's a terrible thing to say.",
+        "You're the one who brought it up."
+      ]
+    }
+  ]
+}

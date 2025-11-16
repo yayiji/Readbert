@@ -1,0 +1,24 @@
+{
+  "date": "2013-11-18",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Thanks for being flexible in these negotiations. You're a good sport."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "And by good sport, I mean good loser."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And by good loser, I mean loser.",
+        "Some people call it generous."
+      ]
+    }
+  ]
+}

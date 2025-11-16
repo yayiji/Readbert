@@ -1,0 +1,24 @@
+{
+  "date": "2021-07-10",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Your skin looks so perfect... Are you using a digital filter of some sort?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No, this is the real me."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "And what about the panda ears and snout?",
+        "Awkward."
+      ]
+    }
+  ]
+}

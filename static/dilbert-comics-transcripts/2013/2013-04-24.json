@@ -1,0 +1,25 @@
+{
+  "date": "2013-04-24",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "I wonder if I should rely more on my intuition to make decisions.",
+        "You mean guessing?"
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "No. Guessing is totally different from intuition because of the... um..."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "These things make sense in my head!",
+        "Is there room in there with all of the intuition?"
+      ]
+    }
+  ]
+}

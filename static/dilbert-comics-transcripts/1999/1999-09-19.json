@@ -1,0 +1,54 @@
+{
+  "date": "1999-09-19",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "My boss asked me to give his presentation."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "I'll start with his irrelevant comparisons."
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "Our budget is lower than last year..."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "...When we had completely different projects."
+      ]
+    },
+    {
+      "panel": 5,
+      "dialogue": [
+        "Our average product development time is less..."
+      ]
+    },
+    {
+      "panel": 6,
+      "dialogue": [
+        "...Than the average for companies who make different products."
+      ]
+    },
+    {
+      "panel": 7,
+      "dialogue": [
+        "Let's move on to his list of blindingly obvious insights."
+      ]
+    },
+    {
+      "panel": 8,
+      "dialogue": [
+        "If it's okay with you, I won't read them aloud.",
+        "Computers are getting faster!"
+      ]
+    }
+  ]
+}

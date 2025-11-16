@@ -1,0 +1,30 @@
+{
+  "date": "2015-10-13",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        "Asok, it takes more than luck to be successful.",
+        "You also have to be smart."
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        "How did you select your level of intelligence before birth?"
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        "I don't understand the question."
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        "Now I am getting mixed messages."
+      ]
+    }
+  ]
+}
