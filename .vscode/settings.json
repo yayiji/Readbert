@@ -1,7 +1,8 @@
 {
   "files.readonlyInclude": {
     "node_modules/**/*":true,
-    "static/**/*": true,
+    // "static/**/*": true,
     "svelte5-llms.txt": true
-  }
+  },
+  "git.ignoreLimitWarning": true
 }
