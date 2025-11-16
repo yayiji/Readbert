@@ -14,16 +14,67 @@ import { imageUrlDatabase } from './imageUrlDatabase.js';
 import { transcriptDatabase } from './transcriptDatabase.js';
 
 export class Comic {
+  #transcriptPromise = null;
+
   constructor({ date, formattedDate, url, transcript }) {
     this.date = date;
     this.formattedDate = formattedDate ?? formatDate(date);
     this.url = url ?? Comic.#resolveImageUrl(this.year, this.date);
-    this.transcript = transcript ?? Comic.#resolveTranscript(this.year, this.date);
+    this.transcript = transcript ?? Comic.#resolveTranscript(this.date);
   }
 
   // Convenience getter for the four-digit year extracted from the date string.
   get year() {
     return this.date.split('-')[0];
+  }
+
+  // Load transcript with fallback to individual file
+  async loadTranscript() {
+    // Return cached if already loaded
+    if (this.transcript) {
+      return this.transcript;
+    }
+
+    // Return in-flight promise if already loading
+    if (this.#transcriptPromise) {
+      return this.#transcriptPromise;
+    }
+
+    // Start loading
+    this.#transcriptPromise = this.#fetchTranscript();
+    this.transcript = await this.#transcriptPromise;
+    this.#transcriptPromise = null;
+    return this.transcript;
+  }
+
+  async #fetchTranscript() {
+    // Try database first
+    const dbTranscript = transcriptDatabase.getTranscript(this.date);
+    if (dbTranscript) {
+      return dbTranscript;
+    }
+
+    // Fallback: fetch individual file
+    try {
+      const cdnUrl = `https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-transcripts/${this.year}/${this.date}.json`;
+      const localUrl = `/dilbert-transcripts/${this.year}/${this.date}.json`;
+
+      // Try CDN first
+      let response;
+      try {
+        response = await fetch(cdnUrl);
+        if (!response.ok) throw new Error('CDN fetch failed');
+      } catch {
+        // Fallback to local
+        response = await fetch(localUrl);
+        if (!response.ok) throw new Error('Local fetch failed');
+      }
+
+      return await response.json();
+    } catch (error) {
+      console.warn(`Failed to fetch transcript for ${this.date}:`, error);
+      return null;
+    }
   }
 
   // Validate if a date string can represent a comic in our collection.
@@ -134,16 +185,8 @@ export class Comic {
     return cdnUrl;
   }
 
-  static #resolveTranscript(year, date) {
-    // Try to get from database first
-    const transcript = transcriptDatabase.getTranscript(date);
-    if (transcript) {
-      return transcript;
-    }
-
-    // Fallback: return null
-    // Individual transcript files exist at /dilbert-transcripts/${year}/${date}.json
-    // but transcripts are complex objects that should be loaded from the database
-    return null;
+  static #resolveTranscript(date) {
+    // Try to get from database (returns null if not loaded)
+    return transcriptDatabase.getTranscript(date);
   }
 }

@@ -36,9 +36,9 @@
     isCommandPaletteOpen = true;
   }
 
-  function handleImageLoad() {
+  async function handleImageLoad() {
     if (currentComic) {
-      transcript = currentComic.transcript;
+      transcript = await currentComic.loadTranscript();
     }
     isLoading = false;
     preloadComicImages();
