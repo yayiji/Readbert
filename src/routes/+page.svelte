@@ -71,8 +71,7 @@
   async function updateComicState(
     comic,
     prevComic,
-    nextComicData,
-    shouldLoadTranscript = true
+    nextComicData
   ) {
     const normalizedCurrent = hydrateComic(comic);
     const normalizedPrevious = hydrateComic(prevComic);
@@ -92,8 +91,7 @@
     saveLastVisitedComic(
       normalizedCurrent,
       normalizedPrevious,
-      normalizedNext,
-      transcript
+      normalizedNext
     );
   }
 
@@ -212,13 +210,12 @@
         await updateComicState(
           savedComic.currentComic,
           savedComic.previousComic,
-          savedComic.nextComic,
-          false // Don't load transcript yet
+          savedComic.nextComic
         );
 
-        // Restore saved transcript if available
-        if (savedComic.transcript) {
-          transcript = savedComic.transcript;
+        // Restore saved transcript if available (from Comic object)
+        if (savedComic.currentComic?.transcript) {
+          transcript = savedComic.currentComic.transcript;
         }
       } else {
         // Load random comic if no saved data

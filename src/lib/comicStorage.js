@@ -25,16 +25,14 @@ function hydrateComic(comic) {
  * @param {Comic} comic - The current comic
  * @param {Comic} prevComic - The previous comic
  * @param {Comic} nextComic - The next comic
- * @param {Object} comicTranscript - The comic transcript data
  */
-export function saveLastVisitedComic(comic, prevComic, nextComic, comicTranscript) {
+export function saveLastVisitedComic(comic, prevComic, nextComic) {
   if (typeof localStorage === "undefined") return;
 
   const comicData = {
     currentComic: serializeComic(comic),
     previousComic: serializeComic(prevComic),
     nextComic: serializeComic(nextComic),
-    transcript: comicTranscript,
     savedAt: Date.now(),
   };
   localStorage.setItem(STORAGE_KEY, JSON.stringify(comicData));
