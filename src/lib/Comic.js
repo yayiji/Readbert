@@ -1,6 +1,6 @@
 /**
- * Canonical Comic value object
- * Centralizes validation, creation, navigation, and serialization logic.
+ * Comic value object and data fetching utilities
+ * Centralizes validation, creation, navigation, serialization, and loading logic.
  */
 
 import {
@@ -16,10 +16,10 @@ import { transcriptDatabase } from './transcriptDatabase.js';
 // Constants
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static';
 
+// ===== COMIC CLASS =====
+
 export class Comic {
   #transcriptPromise = null;
-
-  // ===== CONSTRUCTOR =====
 
   constructor({ date, formattedDate, url, transcript }) {
     this.date = date;
@@ -155,5 +155,134 @@ export class Comic {
 
   static #resolveTranscript(date) {
     return transcriptDatabase.getTranscript(date);
+  }
+}
+
+// ===== COMIC RETRIEVAL FUNCTIONS =====
+
+export async function getComicByDate(date) {
+  const comic = Comic.fromDate(date);
+  if (!comic) {
+    console.warn('getComicByDate: Invalid or unavailable date:', date);
+    return null;
+  }
+  return comic;
+}
+
+export async function getPreviousComic(currentDate) {
+  try {
+    const comic = Comic.fromDate(currentDate);
+    if (!comic) return null;
+    return comic.getPrevious();
+  } catch (error) {
+    console.error('Error getting previous comic:', error);
+    return null;
+  }
+}
+
+export async function getNextComic(currentDate) {
+  try {
+    const comic = Comic.fromDate(currentDate);
+    if (!comic) return null;
+    return comic.getNext();
+  } catch (error) {
+    console.error('Error getting next comic:', error);
+    return null;
+  }
+}
+
+// ===== HIGH-LEVEL LOADERS =====
+
+export async function loadComicBrowser(date) {
+  try {
+    const comic = Comic.fromDate(date);
+    if (!comic) throw new Error('Comic not found');
+
+    const previousComic = comic.getPrevious();
+    const nextComic = comic.getNext();
+
+    return {
+      success: true,
+      comic,
+      previousComic,
+      nextComic
+    };
+  } catch (error) {
+    return {
+      success: false,
+      error: error.message
+    };
+  }
+}
+
+export async function loadRandomComic() {
+  try {
+    const comic = Comic.random();
+    if (!comic) throw new Error('No comics available');
+
+    const previousComic = comic.getPrevious();
+    const nextComic = comic.getNext();
+
+    return {
+      success: true,
+      comic,
+      previousComic,
+      nextComic
+    };
+  } catch (error) {
+    return {
+      success: false,
+      error: error.message
+    };
+  }
+}
+
+export async function loadFirstComic() {
+  try {
+    const firstDate = getFirstComicDate();
+    if (!firstDate) throw new Error('First comic date not available');
+
+    const comic = Comic.fromDate(firstDate);
+    if (!comic) throw new Error('First comic not found');
+
+    const previousComic = comic.getPrevious();
+    const nextComic = comic.getNext();
+
+    return {
+      success: true,
+      comic,
+      previousComic,
+      nextComic
+    };
+  } catch (error) {
+    return {
+      success: false,
+      error: error.message
+    };
+  }
+}
+
+export async function loadLastComic() {
+  try {
+    const lastDate = getLastComicDate();
+    if (!lastDate) throw new Error('Last comic date not available');
+
+    const comic = Comic.fromDate(lastDate);
+    if (!comic) throw new Error('Last comic not found');
+
+    const previousComic = comic.getPrevious();
+    const nextComic = comic.getNext();
+
+    return {
+      success: true,
+      comic,
+      previousComic,
+      nextComic
+    };
+  } catch (error) {
+    return {
+      success: false,
+      error: error.message
+    };
   }
 }

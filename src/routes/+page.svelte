@@ -1,12 +1,11 @@
 <script>
   import { isValidComicDateRange, isValidComicDate } from "$lib/dateUtils.js";
-  import { loadRandomComic, loadComicBrowser } from "$lib/comicsClient.js";
   import {
     initializeDatabases,
     saveLastVisitedComic,
     loadLastVisitedComic,
   } from "$lib/databases.js";
-  import { Comic } from "$lib/Comic.js";
+  import { Comic, loadRandomComic, loadComicBrowser } from "$lib/Comic.js";
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
