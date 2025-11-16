@@ -3,7 +3,7 @@
  * Builds and manages searchable index using transcript database
  */
 
-import { openDB } from 'idb';
+import { indexedDB, STORES } from './indexedDBManager.js';
 import { transcriptDatabase } from './transcriptDatabase.js';
 
 // Constants
@@ -16,9 +16,6 @@ class SearchIndex {
     this.loadPromise = null;
     this.cacheKey = 'dilbert-search-index';
     this.metaCacheKey = 'dilbert-search-index-meta';
-    this.dbName = 'DilbertSearchDB';
-    this.dbVersion = 1;
-    this.storeName = 'searchIndex';
   }
 
   // ===== PUBLIC API =====
@@ -94,10 +91,7 @@ class SearchIndex {
   async clearCache() {
     try {
       localStorage.removeItem(this.metaCacheKey);
-      if (this._isIndexedDBSupported()) {
-        const db = await this._initDB();
-        if (db) await db.delete(this.storeName, this.cacheKey);
-      }
+      await indexedDB.delete(STORES.SEARCH_INDEX, this.cacheKey);
       console.log('🗑️ Search index cache cleared');
     } catch (error) {
       console.warn('Error clearing cache:', error);
@@ -178,8 +172,6 @@ class SearchIndex {
 
   async _loadFromCache() {
     try {
-      if (!this._isIndexedDBSupported()) return null;
-
       const cachedMeta = localStorage.getItem(this.metaCacheKey);
       if (!cachedMeta) return null;
 
@@ -191,10 +183,7 @@ class SearchIndex {
         return null;
       }
 
-      const db = await this._initDB();
-      if (!db) return null;
-
-      const cachedData = await db.get(this.storeName, this.cacheKey);
+      const cachedData = await indexedDB.get(STORES.SEARCH_INDEX, this.cacheKey);
       if (cachedData) {
         console.log(`💾 Loaded search index from cache (${meta.totalWords} words)`);
       }
@@ -207,11 +196,6 @@ class SearchIndex {
 
   async _saveToCache() {
     try {
-      if (!this._isIndexedDBSupported()) {
-        console.log('IndexedDB not supported, skipping cache');
-        return;
-      }
-
       const indexData = {};
       for (const [word, dates] of this.index.entries()) {
         indexData[word] = Array.from(dates);
@@ -223,10 +207,7 @@ class SearchIndex {
       };
       localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
 
-      const db = await this._initDB();
-      if (db) {
-        await db.put(this.storeName, indexData, this.cacheKey);
-      }
+      await indexedDB.put(STORES.SEARCH_INDEX, indexData, this.cacheKey);
 
       const sizeMB = (JSON.stringify(indexData).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Search index cached successfully (${sizeMB} MB)`);
@@ -248,24 +229,6 @@ class SearchIndex {
       }
     } catch (error) {}
     return { hasCachedData: false };
-  }
-
-  // ===== INDEXEDDB =====
-
-  async _initDB() {
-    if (!this._isIndexedDBSupported()) return null;
-
-    return openDB(this.dbName, this.dbVersion, {
-      upgrade(db) {
-        if (!db.objectStoreNames.contains('searchIndex')) {
-          db.createObjectStore('searchIndex');
-        }
-      }
-    });
-  }
-
-  _isIndexedDBSupported() {
-    return typeof window !== 'undefined' && 'indexedDB' in window && indexedDB !== null;
   }
 
   // ===== SEARCH UTILITIES =====

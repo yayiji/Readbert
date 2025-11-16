@@ -3,23 +3,18 @@
  * Manages preloaded image URLs with smart caching (IndexedDB + localStorage)
  */
 
-import { openDB } from 'idb';
+import { indexedDB, STORES } from './indexedDBManager.js';
 
 // Constants
 const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/image-url-index.json";
 const LOCAL_URL = "/dilbert-index/image-url-index.json";
-const CACHE_MAX_AGE = 24 * 60 * 60 * 1000; // 24 hours
+const CACHE_MAX_AGE = 24 * 60 * 60 * 1000;
 
 class ImageUrlDatabase {
   constructor() {
     this.imageUrls = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
-
-    // IndexedDB configuration
-    this.dbName = "DilbertImageUrlDB";
-    this.dbVersion = 1;
-    this.storeName = "imageUrls";
     this.cacheKey = "dilbert-image-urls-db";
     this.metaCacheKey = "dilbert-image-urls-meta";
   }
@@ -63,10 +58,7 @@ class ImageUrlDatabase {
   async clearCache() {
     try {
       localStorage.removeItem(this.metaCacheKey);
-      if (this._isIndexedDBSupported()) {
-        const db = await this._initDB();
-        if (db) await db.delete(this.storeName, this.cacheKey);
-      }
+      await indexedDB.delete(STORES.IMAGE_URLS, this.cacheKey);
       console.log("🗑️ Image URL database cache cleared");
     } catch (error) {
       console.warn("Error clearing image URL database cache:", error);
@@ -168,24 +160,17 @@ class ImageUrlDatabase {
 
   async _loadFromCache(ignoreValidation = false) {
     try {
-      if (!this._isIndexedDBSupported()) return null;
-
       const cachedMeta = localStorage.getItem(this.metaCacheKey);
       if (!cachedMeta) return null;
 
       const meta = JSON.parse(cachedMeta);
 
-      // Validate cache freshness
       if (!ignoreValidation && !(await this._isCacheValid(meta))) {
         console.log("🔄 Image URL database cache is outdated, will fetch from server");
         return null;
       }
 
-      // Load data from IndexedDB
-      const db = await this._initDB();
-      if (!db) return null;
-
-      const cachedData = await db.get(this.storeName, this.cacheKey);
+      const cachedData = await indexedDB.get(STORES.IMAGE_URLS, this.cacheKey);
       if (cachedData) {
         console.log(`💾 Found cached image URL database: ${meta.totalUrls} image URLs`);
       }
@@ -199,23 +184,13 @@ class ImageUrlDatabase {
 
   async _saveToCache(data) {
     try {
-      if (!this._isIndexedDBSupported()) {
-        console.log("IndexedDB not supported, skipping image URL database cache");
-        return;
-      }
-
-      // Save metadata to localStorage
       const meta = {
         totalUrls: Object.keys(data).length,
         cachedAt: new Date().toISOString(),
       };
       localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
 
-      // Save data to IndexedDB
-      const db = await this._initDB();
-      if (db) {
-        await db.put(this.storeName, data, this.cacheKey);
-      }
+      await indexedDB.put(STORES.IMAGE_URLS, data, this.cacheKey);
 
       const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Image URL database cached successfully (${sizeMB} MB)`);
@@ -260,23 +235,6 @@ class ImageUrlDatabase {
     return { hasCachedData: false };
   }
 
-  // ===== INDEXEDDB =====
-
-  async _initDB() {
-    if (!this._isIndexedDBSupported()) return null;
-
-    return openDB(this.dbName, this.dbVersion, {
-      upgrade(db) {
-        if (!db.objectStoreNames.contains("imageUrls")) {
-          db.createObjectStore("imageUrls");
-        }
-      },
-    });
-  }
-
-  _isIndexedDBSupported() {
-    return typeof window !== "undefined" && "indexedDB" in window && indexedDB !== null;
-  }
 }
 
 // Export singleton instance

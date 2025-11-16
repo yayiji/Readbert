@@ -3,23 +3,18 @@
  * Manages preloaded transcripts with smart caching (IndexedDB + localStorage)
  */
 
-import { openDB } from 'idb';
+import { indexedDB, STORES } from './indexedDBManager.js';
 
 // Constants
 const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json";
 const LOCAL_URL = "/dilbert-index/transcript-index.min.json";
-const CACHE_MAX_AGE = 24 * 60 * 60 * 1000; // 24 hours
+const CACHE_MAX_AGE = 24 * 60 * 60 * 1000;
 
 class TranscriptDatabase {
   constructor() {
     this.transcripts = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
-
-    // IndexedDB configuration
-    this.dbName = "DilbertTranscriptDB";
-    this.dbVersion = 1;
-    this.storeName = "transcripts";
     this.cacheKey = "dilbert-transcripts-db";
     this.metaCacheKey = "dilbert-transcripts-meta";
   }
@@ -63,10 +58,7 @@ class TranscriptDatabase {
   async clearCache() {
     try {
       localStorage.removeItem(this.metaCacheKey);
-      if (this._isIndexedDBSupported()) {
-        const db = await this._initDB();
-        if (db) await db.delete(this.storeName, this.cacheKey);
-      }
+      await indexedDB.delete(STORES.TRANSCRIPTS, this.cacheKey);
       console.log("🗑️ Transcript database cache cleared");
     } catch (error) {
       console.warn("Error clearing transcript database cache:", error);
@@ -168,24 +160,17 @@ class TranscriptDatabase {
 
   async _loadFromCache(ignoreValidation = false) {
     try {
-      if (!this._isIndexedDBSupported()) return null;
-
       const cachedMeta = localStorage.getItem(this.metaCacheKey);
       if (!cachedMeta) return null;
 
       const meta = JSON.parse(cachedMeta);
 
-      // Validate cache freshness
       if (!ignoreValidation && !(await this._isCacheValid(meta))) {
         console.log("🔄 Transcript database cache is outdated, will fetch from server");
         return null;
       }
 
-      // Load data from IndexedDB
-      const db = await this._initDB();
-      if (!db) return null;
-
-      const cachedData = await db.get(this.storeName, this.cacheKey);
+      const cachedData = await indexedDB.get(STORES.TRANSCRIPTS, this.cacheKey);
       if (cachedData) {
         console.log(`💾 Found cached transcript database: ${meta.totalTranscripts} transcripts`);
       }
@@ -199,12 +184,6 @@ class TranscriptDatabase {
 
   async _saveToCache(data) {
     try {
-      if (!this._isIndexedDBSupported()) {
-        console.log("IndexedDB not supported, skipping transcript database cache");
-        return;
-      }
-
-      // Save metadata to localStorage
       const meta = {
         version: data.version,
         generatedAt: data.generatedAt,
@@ -213,11 +192,7 @@ class TranscriptDatabase {
       };
       localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
 
-      // Save data to IndexedDB
-      const db = await this._initDB();
-      if (db) {
-        await db.put(this.storeName, data, this.cacheKey);
-      }
+      await indexedDB.put(STORES.TRANSCRIPTS, data, this.cacheKey);
 
       const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Transcript database cached successfully (${sizeMB} MB)`);
@@ -263,23 +238,6 @@ class TranscriptDatabase {
     return { hasCachedData: false };
   }
 
-  // ===== INDEXEDDB =====
-
-  async _initDB() {
-    if (!this._isIndexedDBSupported()) return null;
-
-    return openDB(this.dbName, this.dbVersion, {
-      upgrade(db) {
-        if (!db.objectStoreNames.contains("transcripts")) {
-          db.createObjectStore("transcripts");
-        }
-      },
-    });
-  }
-
-  _isIndexedDBSupported() {
-    return typeof window !== "undefined" && "indexedDB" in window && indexedDB !== null;
-  }
 }
 
 // Export singleton instance
