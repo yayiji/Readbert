@@ -1,329 +1,37 @@
 /**
  * Transcript Database Manager for Dilbert Comics
- * Manages preloaded transcripts for all comics
+ * Manages preloaded transcripts with smart caching (IndexedDB + localStorage)
  */
 
 import { openDB } from 'idb';
 
+// Constants
+const CDN_URL = "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json";
+const LOCAL_URL = "/dilbert-index/transcript-index.min.json";
+const CACHE_MAX_AGE = 24 * 60 * 60 * 1000; // 24 hours
+
 class TranscriptDatabase {
   constructor() {
-    this.transcripts = new Map(); // date -> transcript data
+    this.transcripts = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
-    this.cacheKey = "dilbert-transcripts-db";
-    this.metaCacheKey = "dilbert-transcripts-meta";
+
+    // IndexedDB configuration
     this.dbName = "DilbertTranscriptDB";
     this.dbVersion = 1;
     this.storeName = "transcripts";
+    this.cacheKey = "dilbert-transcripts-db";
+    this.metaCacheKey = "dilbert-transcripts-meta";
   }
 
-  /**
-   * Initialize IndexedDB database
-   */
-  async _initDB() {
-    if (!this._isIndexedDBSupported()) {
-      return null;
-    }
-    
-    return openDB(this.dbName, this.dbVersion, {
-      upgrade(db) {
-        if (!db.objectStoreNames.contains(this.storeName)) {
-          db.createObjectStore(this.storeName);
-        }
-      },
-    });
-  }
+  // ===== PUBLIC API =====
 
-  /**
-   * Load all transcripts from the pregenerated database
-   */
   async load() {
-    if (this.loadPromise) {
-      return this.loadPromise;
-    }
-
+    if (this.loadPromise) return this.loadPromise;
     this.loadPromise = this._loadDatabase();
     return this.loadPromise;
   }
 
-  async _loadDatabase() {
-    if (this.isLoaded) return;
-
-    console.log("Loading transcript database...");
-    const startTime = Date.now();
-
-    // Load pregenerated transcript database
-    const pregenerated = await this._loadPregeneratedDatabase();
-    if (pregenerated) {
-      this._loadFromPregenerated(pregenerated);
-      const duration = Date.now() - startTime;
-      console.log(`✅ Transcript database loaded in ${duration}ms`);
-      console.log(`📊 ${this.transcripts.size} transcripts loaded`);
-      this.isLoaded = true;
-      return;
-    }
-
-    // No pregenerated database available
-    throw new Error(
-      "Transcript database not available. Please generate the transcript database first."
-    );
-  }
-
-  /**
-   * Get URLs for loading the transcript database
-   * @returns {Object} Object with cdnUrl and localUrl
-   */
-  _getLoadingUrl() {
-    return {
-      cdnUrl: "https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static/dilbert-index/transcript-index.min.json",
-      localUrl: "/dilbert-index/transcript-index.min.json"
-    };
-  }
-
-  /**
-   * Try to load pregenerated transcript database with smart caching
-   */
-  async _loadPregeneratedDatabase() {
-    try {
-      // First, check if we have a cached version
-      const cachedData = await this._loadFromCache();
-      if (cachedData) {
-        console.log(
-          `✅ Loaded transcript database from cache (v${cachedData.version})`
-        );
-        return cachedData;
-      }
-
-      // No cache or cache is stale, fetch from server
-      console.log("📥 Fetching transcript database from server...");
-
-      // Try CDN first, fallback to local
-      const response = await this._fetchWithFallback();
-      if (!response) {
-        console.log("Pregenerated transcript database file not found");
-        return null;
-      }
-
-      const data = await response.data;
-      console.log(
-        `📦 Downloaded transcript database (v${data.version}) from ${response.source} (generated ${data.generatedAt})`
-      );
-
-      // Cache the new data
-      await this._saveToCache(data);
-
-      return data;
-    } catch (error) {
-      console.warn("Failed to load pregenerated transcript database:", error);
-      // Try to load from cache even if server fetch failed
-      const cachedData = await this._loadFromCache(true);
-      if (cachedData) {
-        console.log("⚠️ Using stale cached transcript database due to server error");
-        return cachedData;
-      }
-      // No fallback available
-      throw new Error("Transcript database unavailable and no cached version found");
-    }
-  }
-
-  /**
-   * Fetch from CDN with fallback to local
-   * Gets URLs from _getLoadingUrl() internally
-   * @returns {Promise<{data: any, source: string}|null>} Response data and source, or null if both fail
-   */
-  async _fetchWithFallback() {
-    const { cdnUrl, localUrl } = this._getLoadingUrl();
-
-    // Try CDN first
-    try {
-      const response = await fetch(cdnUrl);
-      if (response.ok) {
-        return { data: await response.json(), source: "CDN" };
-      }
-      throw new Error(`CDN fetch failed with status ${response.status}`);
-    } catch (cdnError) {
-      console.warn("CDN fetch failed, trying local URL:", cdnError.message);
-    }
-
-    // Fall back to local URL
-    try {
-      const response = await fetch(localUrl);
-      if (response.ok) {
-        return { data: await response.json(), source: "local" };
-      }
-      throw new Error(`Local fetch failed with status ${response.status}`);
-    } catch (localError) {
-      console.warn("Local fetch also failed:", localError.message);
-      return null;
-    }
-  }
-
-  /**
-   * Load transcript database from browser cache (IndexedDB)
-   */
-  async _loadFromCache(ignoreVersion = false) {
-    try {
-      if (!this._isIndexedDBSupported()) {
-        return null;
-      }
-
-      // Check cache metadata first
-      const cachedMeta = localStorage.getItem(this.metaCacheKey);
-      if (!cachedMeta) {
-        return null;
-      }
-
-      const meta = JSON.parse(cachedMeta);
-
-      // Check if cache is still valid (unless ignoring version check)
-      if (!ignoreVersion) {
-        const isValid = await this._isCacheValid(meta);
-        if (!isValid) {
-          console.log("🔄 Transcript database cache is outdated, will fetch from server");
-          return null;
-        }
-      }
-
-      // Load the actual data from IndexedDB
-      const cachedData = await this._getFromIndexedDB();
-      if (cachedData) {
-        console.log(
-          `💾 Found cached transcript database: ${meta.totalTranscripts} transcripts`
-        );
-        return cachedData;
-      }
-
-      return null;
-    } catch (error) {
-      console.warn("Error loading transcript database from cache:", error);
-      return null;
-    }
-  }
-
-  /**
-   * Save transcript database to browser cache
-   */
-  async _saveToCache(data) {
-    try {
-      if (!this._isIndexedDBSupported()) {
-        console.log("IndexedDB not supported, skipping transcript database cache");
-        return;
-      }
-
-      // Save metadata to localStorage for quick access
-      const meta = {
-        version: data.version,
-        generatedAt: data.generatedAt,
-        totalTranscripts: data.stats.totalTranscripts,
-        cachedAt: new Date().toISOString(),
-      };
-      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
-
-      // Save full data to IndexedDB
-      await this._saveToIndexedDB(data);
-
-      console.log(
-        `💾 Transcript database cached successfully (${(
-          JSON.stringify(data).length /
-          1024 /
-          1024
-        ).toFixed(2)} MB)`
-      );
-    } catch (error) {
-      console.warn("Failed to cache transcript database:", error);
-    }
-  }
-
-  /**
-   * Check if cached version is still valid
-   */
-  async _isCacheValid(meta) {
-    try {
-      const { localUrl } = this._getLoadingUrl();
-
-      // Check server for metadata without downloading full database
-      const response = await fetch(localUrl, {
-        method: "HEAD",
-      });
-
-      if (!response.ok) {
-        // Server error, use cache if available
-        return true;
-      }
-
-      // Check Last-Modified header
-      const lastModified = response.headers.get("Last-Modified");
-      if (lastModified) {
-        const serverTime = new Date(lastModified);
-        const cacheTime = new Date(meta.cachedAt);
-        return serverTime <= cacheTime;
-      }
-
-      // Fallback: cache is valid for 24 hours
-      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
-      const maxAge = 24 * 60 * 60 * 1000; // 24 hours
-      return cacheAge < maxAge;
-    } catch (error) {
-      // Network error, assume cache is valid
-      return true;
-    }
-  }
-
-  /**
-   * Check if IndexedDB is supported
-   */
-  _isIndexedDBSupported() {
-    return (
-      typeof window !== "undefined" &&
-      "indexedDB" in window &&
-      indexedDB !== null
-    );
-  }
-
-  /**
-   * Save data to IndexedDB using idb library
-   */
-  async _saveToIndexedDB(data) {
-    try {
-      const db = await this._initDB();
-      if (!db) return;
-
-      await db.put(this.storeName, data, this.cacheKey);
-    } catch (error) {
-      console.warn('Failed to save transcript database to IndexedDB:', error);
-      throw error;
-    }
-  }
-
-  /**
-   * Get data from IndexedDB using idb library
-   */
-  async _getFromIndexedDB() {
-    try {
-      const db = await this._initDB();
-      if (!db) return null;
-
-      return await db.get(this.storeName, this.cacheKey);
-    } catch (error) {
-      console.warn('Failed to get transcript database from IndexedDB:', error);
-      return null;
-    }
-  }
-
-  /**
-   * Load transcripts from pregenerated data
-   */
-  _loadFromPregenerated(data) {
-    // Load transcripts: Object<date, transcript> -> Map<date, transcript>
-    this.transcripts.clear();
-    for (const [date, transcript] of Object.entries(data.transcripts)) {
-      this.transcripts.set(date, transcript);
-    }
-  }
-
-  /**
-   * Get a transcript by date
-   */
   getTranscript(date) {
     if (!this.isLoaded) {
       this.load();
@@ -332,48 +40,211 @@ class TranscriptDatabase {
     return this.transcripts.get(date) || null;
   }
 
-  /**
-   * Check if a transcript exists for the given date
-   */
   hasTranscript(date) {
-    if (!this.isLoaded) {
-      return false;
-    }
-    return this.transcripts.has(date);
+    return this.isLoaded && this.transcripts.has(date);
   }
 
-  /**
-   * Get all available transcript dates
-   */
   getAvailableDates() {
-    if (!this.isLoaded) {
-      return [];
-    }
-    return Array.from(this.transcripts.keys()).sort();
+    return this.isLoaded ? Array.from(this.transcripts.keys()).sort() : [];
   }
 
-  /**
-   * Check if the database is loaded
-   */
   isDatabaseLoaded() {
     return this.isLoaded;
   }
 
-  /**
-   * Get transcript database statistics
-   */
   getStats() {
-    const cacheInfo = this._getCacheInfo();
     return {
       totalTranscripts: this.transcripts.size,
       isLoaded: this.isLoaded,
-      cache: cacheInfo,
+      cache: this._getCacheInfo(),
     };
   }
 
-  /**
-   * Get cache information
-   */
+  async clearCache() {
+    try {
+      localStorage.removeItem(this.metaCacheKey);
+      if (this._isIndexedDBSupported()) {
+        const db = await this._initDB();
+        if (db) await db.delete(this.storeName, this.cacheKey);
+      }
+      console.log("🗑️ Transcript database cache cleared");
+    } catch (error) {
+      console.warn("Error clearing transcript database cache:", error);
+    }
+  }
+
+  async forceRefresh() {
+    await this.clearCache();
+    this.isLoaded = false;
+    this.loadPromise = null;
+    this.transcripts.clear();
+    return this.load();
+  }
+
+  // ===== LOADING =====
+
+  async _loadDatabase() {
+    if (this.isLoaded) return;
+
+    console.log("Loading transcript database...");
+    const startTime = Date.now();
+
+    const data = await this._loadPregeneratedDatabase();
+    if (!data) {
+      throw new Error("Transcript database not available");
+    }
+
+    this._loadFromPregenerated(data);
+    console.log(`✅ Transcript database loaded in ${Date.now() - startTime}ms`);
+    console.log(`📊 ${this.transcripts.size} transcripts loaded`);
+    this.isLoaded = true;
+  }
+
+  async _loadPregeneratedDatabase() {
+    try {
+      // Try cache first
+      const cachedData = await this._loadFromCache();
+      if (cachedData) {
+        console.log(`✅ Loaded transcript database from cache (v${cachedData.version})`);
+        return cachedData;
+      }
+
+      // Fetch from server
+      console.log("📥 Fetching transcript database from server...");
+      const response = await this._fetchWithFallback();
+      if (!response) return null;
+
+      const data = await response.data;
+      console.log(`📦 Downloaded transcript database (v${data.version}) from ${response.source} (generated ${data.generatedAt})`);
+
+      await this._saveToCache(data);
+      return data;
+    } catch (error) {
+      console.warn("Failed to load pregenerated transcript database:", error);
+
+      // Fallback to stale cache
+      const cachedData = await this._loadFromCache(true);
+      if (cachedData) {
+        console.log("⚠️ Using stale cached transcript database due to server error");
+        return cachedData;
+      }
+
+      throw new Error("Transcript database unavailable and no cached version found");
+    }
+  }
+
+  async _fetchWithFallback() {
+    // Try CDN first
+    try {
+      const response = await fetch(CDN_URL);
+      if (response.ok) {
+        return { data: await response.json(), source: "CDN" };
+      }
+    } catch (error) {
+      console.warn("CDN fetch failed, trying local URL:", error.message);
+    }
+
+    // Fallback to local
+    try {
+      const response = await fetch(LOCAL_URL);
+      if (response.ok) {
+        return { data: await response.json(), source: "local" };
+      }
+    } catch (error) {
+      console.warn("Local fetch also failed:", error.message);
+    }
+
+    return null;
+  }
+
+  _loadFromPregenerated(data) {
+    this.transcripts.clear();
+    for (const [date, transcript] of Object.entries(data.transcripts)) {
+      this.transcripts.set(date, transcript);
+    }
+  }
+
+  // ===== CACHE MANAGEMENT =====
+
+  async _loadFromCache(ignoreValidation = false) {
+    try {
+      if (!this._isIndexedDBSupported()) return null;
+
+      const cachedMeta = localStorage.getItem(this.metaCacheKey);
+      if (!cachedMeta) return null;
+
+      const meta = JSON.parse(cachedMeta);
+
+      // Validate cache freshness
+      if (!ignoreValidation && !(await this._isCacheValid(meta))) {
+        console.log("🔄 Transcript database cache is outdated, will fetch from server");
+        return null;
+      }
+
+      // Load data from IndexedDB
+      const db = await this._initDB();
+      if (!db) return null;
+
+      const cachedData = await db.get(this.storeName, this.cacheKey);
+      if (cachedData) {
+        console.log(`💾 Found cached transcript database: ${meta.totalTranscripts} transcripts`);
+      }
+
+      return cachedData;
+    } catch (error) {
+      console.warn("Error loading transcript database from cache:", error);
+      return null;
+    }
+  }
+
+  async _saveToCache(data) {
+    try {
+      if (!this._isIndexedDBSupported()) {
+        console.log("IndexedDB not supported, skipping transcript database cache");
+        return;
+      }
+
+      // Save metadata to localStorage
+      const meta = {
+        version: data.version,
+        generatedAt: data.generatedAt,
+        totalTranscripts: data.stats.totalTranscripts,
+        cachedAt: new Date().toISOString(),
+      };
+      localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
+
+      // Save data to IndexedDB
+      const db = await this._initDB();
+      if (db) {
+        await db.put(this.storeName, data, this.cacheKey);
+      }
+
+      const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
+      console.log(`💾 Transcript database cached successfully (${sizeMB} MB)`);
+    } catch (error) {
+      console.warn("Failed to cache transcript database:", error);
+    }
+  }
+
+  async _isCacheValid(meta) {
+    try {
+      const response = await fetch(LOCAL_URL, { method: "HEAD" });
+      if (!response.ok) return true; // Server error, use cache
+
+      // Check Last-Modified header
+      const lastModified = response.headers.get("Last-Modified");
+      if (lastModified) {
+        return new Date(lastModified) <= new Date(meta.cachedAt);
+      }
+
+      // Fallback: 24-hour expiry
+      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
+      return cacheAge < CACHE_MAX_AGE;
+    } catch (error) {
+      return true; // Network error, assume cache is valid
+    }
+  }
+
   _getCacheInfo() {
     try {
       const cachedMeta = localStorage.getItem(this.metaCacheKey);
@@ -387,58 +258,29 @@ class TranscriptDatabase {
         };
       }
     } catch (error) {
-      // Ignore errors
+      // Ignore
     }
-    return {
-      hasCachedData: false,
-    };
+    return { hasCachedData: false };
   }
 
-  /**
-   * Clear cached transcript database (for debugging or manual refresh)
-   */
-  async clearCache() {
-    try {
-      // Clear localStorage metadata
-      localStorage.removeItem(this.metaCacheKey);
+  // ===== INDEXEDDB =====
 
-      // Clear IndexedDB data
-      if (this._isIndexedDBSupported()) {
-        await this._clearIndexedDB();
-      }
+  async _initDB() {
+    if (!this._isIndexedDBSupported()) return null;
 
-      console.log("🗑️ Transcript database cache cleared");
-    } catch (error) {
-      console.warn("Error clearing transcript database cache:", error);
-    }
+    return openDB(this.dbName, this.dbVersion, {
+      upgrade(db) {
+        if (!db.objectStoreNames.contains("transcripts")) {
+          db.createObjectStore("transcripts");
+        }
+      },
+    });
   }
 
-  /**
-   * Clear IndexedDB data using idb library
-   */
-  async _clearIndexedDB() {
-    try {
-      const db = await this._initDB();
-      if (!db) return;
-
-      await db.delete(this.storeName, this.cacheKey);
-    } catch (error) {
-      console.warn('Failed to clear transcript database from IndexedDB:', error);
-      throw error;
-    }
-  }
-
-  /**
-   * Force refresh the transcript database from server
-   */
-  async forceRefresh() {
-    await this.clearCache();
-    this.isLoaded = false;
-    this.loadPromise = null;
-    this.transcripts.clear();
-    return this.load();
+  _isIndexedDBSupported() {
+    return typeof window !== "undefined" && "indexedDB" in window && indexedDB !== null;
   }
 }
 
-// Create and export a singleton instance
+// Export singleton instance
 export const transcriptDatabase = new TranscriptDatabase();
