@@ -7,7 +7,6 @@ import { openDB } from 'idb';
 import { transcriptDatabase } from './transcriptDatabase.js';
 
 // Constants
-const INDEX_URL = '/dilbert-index/search-index.min.json';
 const CACHE_MAX_AGE = 24 * 60 * 60 * 1000;
 
 class SearchIndex {
@@ -123,47 +122,18 @@ class SearchIndex {
     const startTime = Date.now();
     await transcriptDatabase.load();
 
-    const pregenerated = await this._loadPregeneratedIndex();
-    if (pregenerated) {
-      this._loadFromPregenerated(pregenerated);
+    const cachedIndex = await this._loadFromCache();
+    if (cachedIndex) {
+      this._loadCachedIndex(cachedIndex);
     } else {
       console.log('📝 Building search index from transcript database...');
       this._buildFromTranscriptDatabase();
+      await this._saveToCache();
     }
 
     console.log(`✅ Search index loaded in ${Date.now() - startTime}ms`);
     console.log(`📊 ${transcriptDatabase.getStats().totalTranscripts} comics, ${this.index.size} words indexed`);
     this.isLoaded = true;
-  }
-
-  async _loadPregeneratedIndex() {
-    try {
-      const cachedData = await this._loadFromCache();
-      if (cachedData) {
-        console.log(`✅ Loaded search index from cache (v${cachedData.version})`);
-        return cachedData;
-      }
-
-      console.log('📥 Fetching search index from server...');
-      const response = await fetch(INDEX_URL);
-      if (!response.ok) {
-        console.log('Pregenerated index not found, will build from transcripts');
-        return null;
-      }
-
-      const data = await response.json();
-      console.log(`📦 Downloaded search index (v${data.version}) from ${data.generatedAt}`);
-      await this._saveToCache(data);
-      return data;
-    } catch (error) {
-      console.warn('Failed to load pregenerated index:', error);
-      const cachedData = await this._loadFromCache(true);
-      if (cachedData) {
-        console.log('⚠️ Using stale cached index due to server error');
-        return cachedData;
-      }
-      throw new Error('Search index unavailable and no cached version found');
-    }
   }
 
   _buildFromTranscriptDatabase() {
@@ -197,16 +167,16 @@ class SearchIndex {
     }
   }
 
-  _loadFromPregenerated(data) {
+  _loadCachedIndex(indexData) {
     this.index.clear();
-    for (const [word, dates] of Object.entries(data.wordIndex)) {
+    for (const [word, dates] of Object.entries(indexData)) {
       this.index.set(word, new Set(dates));
     }
   }
 
   // ===== CACHE MANAGEMENT =====
 
-  async _loadFromCache(ignoreValidation = false) {
+  async _loadFromCache() {
     try {
       if (!this._isIndexedDBSupported()) return null;
 
@@ -214,9 +184,10 @@ class SearchIndex {
       if (!cachedMeta) return null;
 
       const meta = JSON.parse(cachedMeta);
+      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
 
-      if (!ignoreValidation && !(await this._isCacheValid(meta))) {
-        console.log('🔄 Cache is outdated, will fetch from server');
+      if (cacheAge >= CACHE_MAX_AGE) {
+        console.log('🔄 Cache is outdated, will rebuild index');
         return null;
       }
 
@@ -225,7 +196,7 @@ class SearchIndex {
 
       const cachedData = await db.get(this.storeName, this.cacheKey);
       if (cachedData) {
-        console.log(`💾 Found cached index: ${meta.totalComics} comics, ${meta.totalWords} words`);
+        console.log(`💾 Loaded search index from cache (${meta.totalWords} words)`);
       }
       return cachedData;
     } catch (error) {
@@ -234,48 +205,33 @@ class SearchIndex {
     }
   }
 
-  async _saveToCache(data) {
+  async _saveToCache() {
     try {
       if (!this._isIndexedDBSupported()) {
         console.log('IndexedDB not supported, skipping cache');
         return;
       }
 
+      const indexData = {};
+      for (const [word, dates] of this.index.entries()) {
+        indexData[word] = Array.from(dates);
+      }
+
       const meta = {
-        version: data.version,
-        generatedAt: data.generatedAt,
-        totalComics: data.stats.totalComics,
-        totalWords: data.stats.totalWords,
+        totalWords: this.index.size,
         cachedAt: new Date().toISOString()
       };
       localStorage.setItem(this.metaCacheKey, JSON.stringify(meta));
 
       const db = await this._initDB();
       if (db) {
-        await db.put(this.storeName, data, this.cacheKey);
+        await db.put(this.storeName, indexData, this.cacheKey);
       }
 
-      const sizeMB = (JSON.stringify(data).length / 1024 / 1024).toFixed(2);
+      const sizeMB = (JSON.stringify(indexData).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Search index cached successfully (${sizeMB} MB)`);
     } catch (error) {
       console.warn('Failed to cache search index:', error);
-    }
-  }
-
-  async _isCacheValid(meta) {
-    try {
-      const response = await fetch(INDEX_URL, { method: 'HEAD' });
-      if (!response.ok) return true;
-
-      const lastModified = response.headers.get('Last-Modified');
-      if (lastModified) {
-        return new Date(lastModified) <= new Date(meta.cachedAt);
-      }
-
-      const cacheAge = Date.now() - new Date(meta.cachedAt).getTime();
-      return cacheAge < CACHE_MAX_AGE;
-    } catch (error) {
-      return true;
     }
   }
 
@@ -286,9 +242,8 @@ class SearchIndex {
         const meta = JSON.parse(cachedMeta);
         return {
           hasCachedData: true,
-          version: meta.version,
           cachedAt: meta.cachedAt,
-          generatedAt: meta.generatedAt
+          totalWords: meta.totalWords
         };
       }
     } catch (error) {}
