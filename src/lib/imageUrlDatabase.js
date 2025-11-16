@@ -15,7 +15,7 @@ class ImageUrlDatabase {
     this.imageUrls = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
-    this.cacheKey = "dilbert-image-urls-db";
+    this.cacheKey = "dilbert-image-urls";
     this.metaCacheKey = "dilbert-image-urls-meta";
   }
 

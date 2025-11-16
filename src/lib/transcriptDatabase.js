@@ -15,7 +15,7 @@ class TranscriptDatabase {
     this.transcripts = new Map();
     this.isLoaded = false;
     this.loadPromise = null;
-    this.cacheKey = "dilbert-transcripts-db";
+    this.cacheKey = "dilbert-transcripts";
     this.metaCacheKey = "dilbert-transcripts-meta";
   }
 
