@@ -46,7 +46,7 @@
 
   @media (max-width: 600px) {
     .comic-container {
-      padding: 0.6rem;
+      padding: 0.5rem;
     }
   }
 </style>
