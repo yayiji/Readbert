@@ -138,6 +138,12 @@
     window.open(targetUrl, "_blank", "noopener,noreferrer");
   }
 
+  function handleDatePickerAsset(event) {
+    const extension = event.detail?.extension;
+    if (!extension) return;
+    openDilbertAllAsset(extension);
+  }
+
   function handleShortcutKeydown(event) {
     if (isCommandPaletteOpen || shouldIgnoreShortcut(event.target)) return;
     if (event.key === "w") {
@@ -244,7 +250,7 @@
         onRandom={getRandomComic}
       />
 
-      <DatePicker bind:value={selectedDate} />
+      <DatePicker bind:value={selectedDate} on:openAsset={handleDatePickerAsset} />
 
       <ComicImage {currentComic} {isLoading} onImageLoad={handleImageLoad} />
 
