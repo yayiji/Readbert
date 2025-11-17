@@ -138,7 +138,7 @@
     window.open(targetUrl, "_blank", "noopener,noreferrer");
   }
 
-  function handleDatePickerAsset(event) {
+  function handleComicAsset(event) {
     const extension = event.detail?.extension;
     if (!extension) return;
     openDilbertAllAsset(extension);
@@ -250,9 +250,14 @@
         onRandom={getRandomComic}
       />
 
-      <DatePicker bind:value={selectedDate} on:openAsset={handleDatePickerAsset} />
+      <DatePicker bind:value={selectedDate} />
 
-      <ComicImage {currentComic} {isLoading} onImageLoad={handleImageLoad} />
+      <ComicImage
+        {currentComic}
+        {isLoading}
+        onImageLoad={handleImageLoad}
+        on:openAsset={handleComicAsset}
+      />
 
       <TranscriptPanel {transcript} />
     </section>
