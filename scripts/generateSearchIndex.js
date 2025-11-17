@@ -1,9 +1,5 @@
 /**
- * Script to generate the search index
- *
  * This script creates the search index file:
- * - static/dilbert-index/search-index.min.json - Word-to-date mappings for search functionality
- *
  * Usage:
  * npm run generate-search-index
  */
@@ -15,6 +11,12 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Configuration constants
+const ARCHIVE_START_YEAR = 1989;
+const ARCHIVE_END_YEAR = 2023;
+const MIN_WORD_LENGTH = 2;
+const INDEX_VERSION = '1.0';
+
 class SearchIndexGenerator {
 	constructor() {
 		this.transcripts = new Map(); // date -> transcript data
@@ -23,45 +25,36 @@ class SearchIndexGenerator {
 		this.outputPath = path.join(__dirname, '../static/dilbert-index/search-index.json');
 	}
 
-	/**
-	 * Main entry point: Generate search index
-	 */
+	// Main entry point: Generate search index
 	async generate() {
 		console.log('🚀 Generating search index...\n');
 		const startTime = Date.now();
 
-		// Step 1: Load all transcripts
-		await this._loadAllTranscripts();
-
-		// Step 2: Build search index
-		await this._buildSearchIndex();
-
-		// Step 3: Save search index
-		await this._saveSearchIndex();
+		await this.loadAllTranscripts();
+		await this.buildSearchIndex();
+		await this.saveSearchIndex();
 
 		const duration = Date.now() - startTime;
 		console.log(`✅ Search index generated successfully in ${duration}ms\n`);
 	}
 
-	/**
-	 * Load all transcripts from disk
-	 */
-	async _loadAllTranscripts() {
+	// Load all transcripts from disk
+	async loadAllTranscripts() {
 		console.log('📂 Loading transcripts...');
 		const startTime = Date.now();
 
-		// Years from 1989 to 2023
-		const years = Array.from({ length: 2023 - 1989 + 1 }, (_, i) => 1989 + i);
-
+		const years = this.getYearRange(ARCHIVE_START_YEAR, ARCHIVE_END_YEAR);
 		let totalLoaded = 0;
 
 		for (const year of years) {
 			try {
-				const comics = await this._loadYear(year);
+				const comics = await this.loadComicsForYear(year);
+
 				for (const comic of comics) {
 					this.transcripts.set(comic.date, comic);
 					totalLoaded++;
 				}
+
 				console.log(`   ✅ ${year}: ${comics.length} comics loaded`);
 			} catch (error) {
 				console.warn(`   ⚠️  ${year}: Failed to load - ${error.message}`);
@@ -72,107 +65,55 @@ class SearchIndexGenerator {
 		console.log(`   📊 Total: ${totalLoaded} transcripts loaded in ${duration}ms\n`);
 	}
 
-	/**
-	 * Build search index from loaded transcripts
-	 */
-	async _buildSearchIndex() {
+	// Build search index from loaded transcripts
+	async buildSearchIndex() {
 		console.log('🔍 Building search index...');
 		const startTime = Date.now();
 
 		for (const [date, comic] of this.transcripts) {
-			// Extract all text from the comic
-			const allText = [];
-			for (const panel of comic.panels) {
-				for (const dialogue of panel.dialogue) {
-					allText.push(dialogue);
-				}
-			}
+			const dialogueText = this.extractAllDialogue(comic);
+			const words = this.extractWords(dialogueText);
 
-			// Index all words
-			const text = allText.join(' ').toLowerCase();
-			const words = this._extractWords(text);
-
-			for (const word of words) {
-				if (!this.searchIndex.has(word)) {
-					this.searchIndex.set(word, new Set());
-				}
-				this.searchIndex.get(word).add(date);
-			}
+			this.indexWords(words, date);
 		}
 
 		const duration = Date.now() - startTime;
 		console.log(`   🔤 ${this.searchIndex.size} unique words indexed in ${duration}ms\n`);
 	}
 
-	/**
-	 * Save the search index
-	 */
-	async _saveSearchIndex() {
+	// Save the search index to disk
+	async saveSearchIndex() {
 		console.log('💾 Saving search index...');
 		const startTime = Date.now();
 
-		const searchIndex = {
-			version: '2.0',
-			generatedAt: new Date().toISOString(),
-			stats: {
-				totalComics: this.transcripts.size,
-				totalWords: this.searchIndex.size
-			},
-			wordIndex: {}
-		};
+		const searchIndexData = this.buildIndexData();
+		this.ensureOutputDirectory();
 
-		// Convert Map of Sets to object of arrays
-		for (const [word, dates] of this.searchIndex) {
-			searchIndex.wordIndex[word] = Array.from(dates);
-		}
-
-		// Ensure output directory exists
-		const outputDir = path.dirname(this.outputPath);
-		if (!fs.existsSync(outputDir)) {
-			fs.mkdirSync(outputDir, { recursive: true });
-		}
-
-		// Save formatted version
-		const json = JSON.stringify(searchIndex, null, 2);
+		const json = JSON.stringify(searchIndexData, null, 2);
 		fs.writeFileSync(this.outputPath, json, 'utf8');
 
-		// Save minified version
-		const compressedJson = JSON.stringify(searchIndex);
-		const compressedPath = this.outputPath.replace('.json', '.min.json');
-		fs.writeFileSync(compressedPath, compressedJson, 'utf8');
-
-		// Log file sizes
-		const originalSize = (fs.statSync(this.outputPath).size / 1024 / 1024).toFixed(2);
-		const compressedSize = (fs.statSync(compressedPath).size / 1024 / 1024).toFixed(2);
-
-		console.log(`   📁 Formatted: ${originalSize} MB`);
-		console.log(`   📁 Minified: ${compressedSize} MB`);
+		const fileSizeMB = (fs.statSync(this.outputPath).size / 1024 / 1024).toFixed(2);
+		console.log(`   📁 Saved: ${fileSizeMB} MB`);
 
 		const duration = Date.now() - startTime;
-		console.log(`   ✅ Saved in ${duration}ms\n`);
+		console.log(`   ✅ Completed in ${duration}ms\n`);
 	}
 
-	/**
-	 * Extract searchable words from text
-	 */
-	_extractWords(text) {
-		return text
-			.replace(/[^\w\s]/g, ' ')
-			.split(/\s+/)
-			.filter(word => word.length > 2) // Skip very short words
-			.map(word => word.toLowerCase());
+	// ===== Helper Methods =====
+
+	// Generate array of years from start to end (inclusive)
+	getYearRange(startYear, endYear) {
+		const length = endYear - startYear + 1;
+		return Array.from({ length }, (_, i) => startYear + i);
 	}
 
-	/**
-	 * Load all comics for a specific year
-	 */
-	async _loadYear(year) {
-		const comics = [];
+	// Load all comics for a specific year
+	async loadComicsForYear(year) {
 		const yearPath = path.join(this.transcriptsPath, year.toString());
-
 		const files = fs.readdirSync(yearPath);
 		const jsonFiles = files.filter(file => file.endsWith('.json'));
 
+		const comics = [];
 		for (const file of jsonFiles) {
 			const filePath = path.join(yearPath, file);
 			try {
@@ -186,9 +127,69 @@ class SearchIndexGenerator {
 
 		return comics;
 	}
+
+	// Extract all dialogue text from a comic
+	extractAllDialogue(comic) {
+		const allDialogue = [];
+
+		for (const panel of comic.panels) {
+			for (const dialogue of panel.dialogue) {
+				allDialogue.push(dialogue);
+			}
+		}
+
+		return allDialogue.join(' ').toLowerCase();
+	}
+
+	// Extract searchable words from text
+	extractWords(text) {
+		return text
+			.replace(/[^\w\s]/g, ' ')        // Remove punctuation
+			.split(/\s+/)                    // Split on whitespace
+			.filter(word => word.length > MIN_WORD_LENGTH)
+			.map(word => word.toLowerCase());
+	}
+
+	// Add words to the search index for a given date
+	indexWords(words, date) {
+		for (const word of words) {
+			if (!this.searchIndex.has(word)) {
+				this.searchIndex.set(word, new Set());
+			}
+			this.searchIndex.get(word).add(date);
+		}
+	}
+
+	// Build the final index data structure
+	buildIndexData() {
+		const wordIndex = {};
+
+		for (const [word, dates] of this.searchIndex) {
+			wordIndex[word] = Array.from(dates);
+		}
+
+		return {
+			version: INDEX_VERSION,
+			generatedAt: new Date().toISOString(),
+			stats: {
+				totalComics: this.transcripts.size,
+				totalWords: this.searchIndex.size
+			},
+			wordIndex
+		};
+	}
+
+	// Ensure the output directory exists
+	ensureOutputDirectory() {
+		const outputDir = path.dirname(this.outputPath);
+		if (!fs.existsSync(outputDir)) {
+			fs.mkdirSync(outputDir, { recursive: true });
+		}
+	}
 }
 
-// Run the generator
+// ===== Run Generator =====
+
 const generator = new SearchIndexGenerator();
 generator.generate().catch(error => {
 	console.error('❌ Failed to generate search index:', error);
