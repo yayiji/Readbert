@@ -1,11 +1,10 @@
 <script>
   import { createEventDispatcher } from "svelte";
 
-  let {
-    value = "",
-    min = "1989-04-16",
-    max = "2023-03-12",
-  } = $props();
+  let { value = "" } = $props();
+
+  const MIN_DATE = "1989-04-16";
+  const MAX_DATE = "2023-03-12";
 
   const dispatch = createEventDispatcher();
 
@@ -28,8 +27,8 @@
     "DEC",
   ];
 
-  const minDate = $derived(new Date(`${min}T00:00:00`));
-  const maxDate = $derived(new Date(`${max}T23:59:59`));
+  const minDate = $derived(new Date(`${MIN_DATE}T00:00:00`));
+  const maxDate = $derived(new Date(`${MAX_DATE}T23:59:59`));
 
   $effect(() => {
     if (value) {
@@ -52,7 +51,7 @@
 
   function isDateInRange(year, month, day) {
     const dateStr = formatDateString(year, month, day);
-    return dateStr >= min && dateStr <= max;
+    return dateStr >= MIN_DATE && dateStr <= MAX_DATE;
   }
 
   function isSelectedDate(year, month, day) {

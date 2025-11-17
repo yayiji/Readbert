@@ -4,9 +4,6 @@
 
   let { value = $bindable("") } = $props();
 
-  const MIN_DATE = "1989-04-16";
-  const MAX_DATE = "2023-03-12";
-
   let isOpen = $state(false);
 
   function formatDisplayDate(dateString) {
@@ -56,13 +53,7 @@
   </button>
 
   {#if isOpen}
-    <CalendarPopup
-      {value}
-      min={MIN_DATE}
-      max={MAX_DATE}
-      on:confirm={handleConfirm}
-      on:cancel={closePicker}
-    />
+    <CalendarPopup {value} on:confirm={handleConfirm} on:cancel={closePicker} />
   {/if}
 </div>
 
