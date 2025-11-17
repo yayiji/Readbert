@@ -1,36 +1,51 @@
 <script>
-  import { createEventDispatcher } from "svelte";
+  let {
+    currentComic,
+    isLoading,
+    onImageLoad,
+    shortcutsDisabled = false,
+  } = $props();
 
-  let { currentComic, isLoading, onImageLoad } = $props();
+  const DILBERT_ALL_BASE = "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
 
-  const dispatch = createEventDispatcher();
-
-  function handleAssetSelect(extension) {
-    dispatch("openAsset", { extension });
+  function shouldIgnoreShortcut(target) {
+    if (!target) return false;
+    const tagName = target.tagName;
+    return (
+      tagName === "INPUT" ||
+      tagName === "TEXTAREA" ||
+      target?.isContentEditable ||
+      target?.closest?.("input, textarea, [contenteditable='true']")
+    );
   }
+
+  function openDilbertAsset(extension) {
+    if (!currentComic?.date) return;
+    const year = currentComic.date.split("-")[0];
+    const targetUrl = `${DILBERT_ALL_BASE}/${year}/${currentComic.date}.${extension}`;
+    window.open(targetUrl, "_blank", "noopener,noreferrer");
+  }
+
+  function handleShortcutKeydown(event) {
+    if (shortcutsDisabled || shouldIgnoreShortcut(event.target)) return;
+    if (event.key === "w") {
+      event.preventDefault();
+      openDilbertAsset("gif");
+    } else if (event.key === "e") {
+      event.preventDefault();
+      openDilbertAsset("json");
+    }
+  }
+
+  $effect(() => {
+    if (typeof document === "undefined") return;
+    document.addEventListener("keydown", handleShortcutKeydown);
+    return () => document.removeEventListener("keydown", handleShortcutKeydown);
+  });
 </script>
 
 <div class="comic-container-wrapper">
   <div class="comic-container">
-    <div class="comic-actions" role="menu" aria-hidden="true">
-      <button
-        class="action-btn"
-        type="button"
-        onclick={() => handleAssetSelect("gif")}
-        role="menuitem"
-      >
-        View GIF on Dilbert All
-      </button>
-      <button
-        class="action-btn"
-        type="button"
-        onclick={() => handleAssetSelect("json")}
-        role="menuitem"
-      >
-        View JSON on Dilbert All
-      </button>
-    </div>
-
     <img
       src={currentComic.url}
       alt="Dilbert comic from {currentComic.date}"
@@ -38,6 +53,25 @@
       class:loading={isLoading}
       onload={onImageLoad}
     />
+
+    <div class="comic-actions" role="menu" aria-hidden="true">
+      <button
+        class="action-btn"
+        type="button"
+        onclick={() => openDilbertAsset("gif")}
+        role="menuitem"
+      >
+        Comic
+      </button>
+      <button
+        class="action-btn"
+        type="button"
+        onclick={() => openDilbertAsset("json")}
+        role="menuitem"
+      >
+        Transcript
+      </button>
+    </div>
   </div>
 </div>
 
@@ -59,26 +93,25 @@
 
   .comic-actions {
     position: absolute;
-    top: -48px;
+    bottom: 0;
     left: 50%;
-    transform: translate(-50%, -10px);
-    background: rgba(248, 246, 240, 0.95);
-    border: 1px solid rgba(139, 125, 107, 0.4);
-    box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.15));
+    transform: translateX(-50%) translateY(-0.2rem);
+    background: rgba(248, 246, 240, 0.8);
+    border: 1.5px solid rgba(139, 125, 107, 0.6);
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
     padding: 0.3rem 0.6rem;
     display: flex;
     gap: 0.5rem;
-    opacity: 0;
     visibility: hidden;
-    transition: opacity 0.2s ease, transform 0.2s ease;
     pointer-events: none;
     z-index: 2;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
   }
 
   .comic-container:hover .comic-actions {
     opacity: 1;
     visibility: visible;
-    transform: translate(-50%, -4px);
     pointer-events: auto;
   }
 
@@ -95,8 +128,6 @@
 
   .action-btn:hover,
   .action-btn:focus-visible {
-    background: var(--bg-light, #f8f6f0);
-    outline: none;
     font-weight: bold;
   }
 
@@ -116,16 +147,14 @@
     .comic-container {
       padding: 0.8rem;
     }
-
-    .comic-actions {
-      flex-direction: column;
-      top: -72px;
-    }
   }
 
   @media (max-width: 600px) {
     .comic-container {
       padding: 0.5rem;
+    }
+    .comic-actions {
+      display: none;
     }
   }
 </style>
