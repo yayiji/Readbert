@@ -1,8 +1,9 @@
 /**
  * Script to generate the transcript index
  *
- * This script creates the transcript index file:
- * - static/dilbert-index/transcript-index.min.json - Complete transcript index for instant access
+ * This script creates transcript index files:
+ * - static/dilbert-index/transcript-index.json - Formatted version for development
+ * - static/dilbert-index/transcript-index.min.json - Minified version for production
  *
  * Usage:
  * npm run generate-transcript-index
@@ -15,6 +16,11 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Configuration constants
+const ARCHIVE_START_YEAR = 1989;
+const ARCHIVE_END_YEAR = 2023;
+const INDEX_VERSION = '1.0';
+
 class TranscriptIndexGenerator {
 	constructor() {
 		this.transcripts = new Map(); // date -> transcript data
@@ -22,42 +28,35 @@ class TranscriptIndexGenerator {
 		this.outputPath = path.join(__dirname, '../static/dilbert-index/transcript-index.json');
 	}
 
-	/**
-	 * Main entry point: Generate transcript index
-	 */
+	// Main entry point: Generate transcript index
 	async generate() {
 		console.log('🚀 Generating transcript index...\n');
 		const startTime = Date.now();
 
-		// Step 1: Load all transcripts
-		await this._loadAllTranscripts();
-
-		// Step 2: Generate and save index
-		await this._saveIndex();
+		await this.loadAllTranscripts();
+		await this.saveTranscriptIndex();
 
 		const duration = Date.now() - startTime;
 		console.log(`✅ Transcript index generated successfully in ${duration}ms\n`);
 	}
 
-	/**
-	 * Load all transcripts from disk
-	 */
-	async _loadAllTranscripts() {
+	// Load all transcripts from disk
+	async loadAllTranscripts() {
 		console.log('📂 Loading transcripts...');
 		const startTime = Date.now();
 
-		// Years from 1989 to 2023
-		const years = Array.from({ length: 2023 - 1989 + 1 }, (_, i) => 1989 + i);
-
+		const years = this.getYearRange(ARCHIVE_START_YEAR, ARCHIVE_END_YEAR);
 		let totalLoaded = 0;
 
 		for (const year of years) {
 			try {
-				const comics = await this._loadYear(year);
+				const comics = await this.loadComicsForYear(year);
+
 				for (const comic of comics) {
 					this.transcripts.set(comic.date, comic);
 					totalLoaded++;
 				}
+
 				console.log(`   ✅ ${year}: ${comics.length} comics loaded`);
 			} catch (error) {
 				console.warn(`   ⚠️  ${year}: Failed to load - ${error.message}`);
@@ -68,63 +67,48 @@ class TranscriptIndexGenerator {
 		console.log(`   📊 Total: ${totalLoaded} transcripts loaded in ${duration}ms\n`);
 	}
 
-	/**
-	 * Generate and save the index
-	 */
-	async _saveIndex() {
+	// Save the transcript index to disk
+	async saveTranscriptIndex() {
 		console.log('💾 Saving transcript index...');
 		const startTime = Date.now();
 
-		const index = {
-			version: '1.0',
-			generatedAt: new Date().toISOString(),
-			stats: {
-				totalTranscripts: this.transcripts.size,
-			},
-			transcripts: {}
-		};
-
-		// Convert Map to object
-		for (const [date, transcript] of this.transcripts) {
-			index.transcripts[date] = transcript;
-		}
-
-		// Ensure output directory exists
-		const outputDir = path.dirname(this.outputPath);
-		if (!fs.existsSync(outputDir)) {
-			fs.mkdirSync(outputDir, { recursive: true });
-		}
+		const indexData = this.buildIndexData();
+		this.ensureOutputDirectory();
 
 		// Save formatted version
-		const json = JSON.stringify(index, null, 2);
+		const json = JSON.stringify(indexData, null, 2);
 		fs.writeFileSync(this.outputPath, json, 'utf8');
 
-		// Save minified version
-		const compressedJson = JSON.stringify(index);
-		const compressedPath = this.outputPath.replace('.json', '.min.json');
-		fs.writeFileSync(compressedPath, compressedJson, 'utf8');
+		// Save minified version (used by runtime)
+		const minifiedJson = JSON.stringify(indexData);
+		const minifiedPath = this.outputPath.replace('.json', '.min.json');
+		fs.writeFileSync(minifiedPath, minifiedJson, 'utf8');
 
 		// Log file sizes
-		const originalSize = (fs.statSync(this.outputPath).size / 1024 / 1024).toFixed(2);
-		const compressedSize = (fs.statSync(compressedPath).size / 1024 / 1024).toFixed(2);
-
-		console.log(`   📁 Formatted: ${originalSize} MB`);
-		console.log(`   📁 Minified: ${compressedSize} MB`);
+		const formattedSizeMB = (fs.statSync(this.outputPath).size / 1024 / 1024).toFixed(2);
+		const minifiedSizeMB = (fs.statSync(minifiedPath).size / 1024 / 1024).toFixed(2);
+		console.log(`   📁 Formatted: ${formattedSizeMB} MB`);
+		console.log(`   📁 Minified: ${minifiedSizeMB} MB`);
 
 		const duration = Date.now() - startTime;
-		console.log(`   ✅ Saved in ${duration}ms\n`);
+		console.log(`   ✅ Completed in ${duration}ms\n`);
 	}
 
-	/**
-	 * Load all comics for a specific year
-	 */
-	async _loadYear(year) {
-		const comics = [];
-		const yearPath = path.join(this.transcriptsPath, year.toString());
+	// ===== Helper Methods =====
 
+	// Generate array of years from start to end (inclusive)
+	getYearRange(startYear, endYear) {
+		const length = endYear - startYear + 1;
+		return Array.from({ length }, (_, i) => startYear + i);
+	}
+
+	// Load all comics for a specific year
+	async loadComicsForYear(year) {
+		const yearPath = path.join(this.transcriptsPath, year.toString());
 		const files = fs.readdirSync(yearPath);
 		const jsonFiles = files.filter(file => file.endsWith('.json'));
 
+		const comics = [];
 		for (const file of jsonFiles) {
 			const filePath = path.join(yearPath, file);
 			try {
@@ -138,9 +122,36 @@ class TranscriptIndexGenerator {
 
 		return comics;
 	}
+
+	// Build the final index data structure
+	buildIndexData() {
+		const transcripts = {};
+
+		for (const [date, transcript] of this.transcripts) {
+			transcripts[date] = transcript;
+		}
+
+		return {
+			version: INDEX_VERSION,
+			generatedAt: new Date().toISOString(),
+			stats: {
+				totalTranscripts: this.transcripts.size
+			},
+			transcripts
+		};
+	}
+
+	// Ensure the output directory exists
+	ensureOutputDirectory() {
+		const outputDir = path.dirname(this.outputPath);
+		if (!fs.existsSync(outputDir)) {
+			fs.mkdirSync(outputDir, { recursive: true });
+		}
+	}
 }
 
-// Run the generator
+// ===== Run Generator =====
+
 const generator = new TranscriptIndexGenerator();
 generator.generate().catch(error => {
 	console.error('❌ Failed to generate transcript index:', error);
