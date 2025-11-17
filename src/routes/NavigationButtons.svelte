@@ -41,11 +41,11 @@
     display: flex;
     justify-content: center;
     gap: var(--spacing-md);
-    margin-bottom: 27px;
+    margin-bottom: 2rem;
   }
 
   .nav-btn {
-    padding: 9px 14px;
+    padding: 0.6rem 1rem;
     min-width: 74px;
     background-color: var(--bg-light);
     border: 2px solid var(--border-color);
@@ -88,7 +88,6 @@
   /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .navigation {
-      margin-bottom: 25px;
       gap: var(--spacing-sm);
       flex-wrap: wrap;
     }

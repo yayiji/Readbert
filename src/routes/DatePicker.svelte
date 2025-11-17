@@ -48,7 +48,7 @@
     aria-expanded={isOpen}
     aria-label="Select date"
   >
-    <CalendarDays class="calendar-icon" size={15} />
+    <CalendarDays class="calendar-icon" size={16} />
     <span class="date-text">{formatDisplayDate(value)}</span>
   </button>
 
@@ -68,19 +68,18 @@
     background: transparent;
     border: none;
     font-family: var(--font-serif);
-    font-size: 13px;
+    font-size: 0.9rem;
     font-weight: bold;
     cursor: pointer;
     text-transform: uppercase;
     letter-spacing: 1px;
-    padding: 0px 8px;
+    padding: 0rem 0.5rem;
     transition: all 0.2s ease;
     text-align: center;
-    min-width: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 6px;
+    gap: 0.3rem;
   }
 
   .date-input :global(.calendar-icon) {
@@ -88,8 +87,8 @@
     opacity: 0.8;
     transition: opacity 0.2s ease;
     transform: translateY(-0.5px);
-    width: 15px;
-    height: 15px;
+    width: 1rem;
+    height: 1rem;
   }
 
   /* Hover feedback only for hover-capable devices */
@@ -108,6 +107,9 @@
     background-color: var(--bg-light, #f8f6f0);
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
+    .date-input {
+      font-size: 0.85rem;    
+    }
   }
 </style>

@@ -7,7 +7,7 @@
 
 <style>
   .header {
-    margin: 40px auto 42px;
+    margin: 2.5rem auto 2.7rem;
     text-align: center;
     max-width: var(--max-width);
   }
@@ -31,7 +31,7 @@
   /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .header {
-      margin: 25px auto 32px;
+      margin: 2rem auto 2.2rem;
     }
 
     .title {

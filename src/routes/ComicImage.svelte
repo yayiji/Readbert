@@ -23,7 +23,7 @@
     padding: 0.9rem;
     border: 2px solid var(--border-color);
     box-shadow: var(--shadow);
-    margin-top: 0.5rem;
+    margin-top: 0rem;
   }
 
   .comic-image {
