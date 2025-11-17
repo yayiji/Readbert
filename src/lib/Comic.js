@@ -234,7 +234,10 @@ export class Comic {
     const urlData = imageUrlIndex.getImageUrl(date);
     if (urlData?.imageUrl) return urlData.imageUrl;
 
-    return `${CDN_BASE}/dilbert-comics/${year}/${date}.gif`;
+    const cdnUrl = `${CDN_BASE}/dilbert-comics/${year}/${date}.gif`;
+    const localUrl = `/dilbert-comics/${year}/${date}.gif`;
+
+    return cdnUrl;
   }
 
   static #resolveTranscript(date) {
