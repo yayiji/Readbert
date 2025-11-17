@@ -244,7 +244,7 @@
         onRandom={getRandomComic}
       />
 
-      <DatePicker bind:value={selectedDate} min="1989-04-16" max="2023-03-12" />
+      <DatePicker bind:value={selectedDate} />
 
       <ComicImage {currentComic} {isLoading} onImageLoad={handleImageLoad} />
 
