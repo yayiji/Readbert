@@ -54,6 +54,22 @@
   }
 
   // ===== COMIC LOADING =====
+  function updateUrlDateParam(date) {
+    if (typeof window === "undefined") return;
+
+    try {
+      const url = new URL(window.location.href);
+      if (date) {
+        url.searchParams.set("date", date);
+      } else {
+        url.searchParams.delete("date");
+      }
+      window.history.replaceState(window.history.state, "", url);
+    } catch (error) {
+      console.error("Failed to update URL date param:", error);
+    }
+  }
+
   function updateComicState(comic, prevComic, nextComicData) {
     currentComic = Comic.fromSerialized(comic);
     previousComic = Comic.fromSerialized(prevComic);
@@ -61,6 +77,9 @@
 
     if (currentComic?.date) {
       selectedDate = currentComic.date;
+      updateUrlDateParam(currentComic.date);
+    } else {
+      updateUrlDateParam(null);
     }
 
     saveLastVisitedComic(currentComic, previousComic, nextComic);
