@@ -140,9 +140,16 @@
     if (initialized) return;
 
     (async () => {
-      // Check URL for date in pathname
+      // Prefer route param (e.g. /[date]) and fall back to URL pathname
+      const paramDate = $page.params?.date;
       const segments = $page.url.pathname.split("/").filter(Boolean);
-      const urlDate = segments[0];
+      const urlDate = paramDate ?? segments[0];
+
+      console.log("init date param: ", {
+        paramDate,
+        pathname: $page.url.pathname,
+        urlDate,
+      });
 
       if (urlDate && isValidComicDateRange(urlDate)) {
         await loadComic(urlDate);
