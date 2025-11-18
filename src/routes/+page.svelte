@@ -125,6 +125,7 @@
     if (initialized) return;
 
     (async () => {
+      // Check URL for date param
       const urlDate = $page.url.searchParams.get("date");
       if (urlDate && isValidComicDateRange(urlDate)) {
         await loadComic(urlDate);
@@ -166,20 +167,6 @@
       isValidComicDateRange(selectedDate)
     ) {
       loadComic(selectedDate);
-    }
-  });
-
-  // Watch for URL parameter changes
-  $effect(() => {
-    if (!initialized) return;
-
-    const urlDate = $page.url.searchParams.get("date");
-    if (
-      urlDate &&
-      isValidComicDateRange(urlDate) &&
-      urlDate !== currentComic?.date
-    ) {
-      loadComic(urlDate);
     }
   });
 
