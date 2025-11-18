@@ -157,7 +157,7 @@
     });
   });
 
-  // Watch for selectedDate changes (from date picker)
+  // Watch for selectedDate changes (from date picker or search palette)
   $effect(() => {
     if (
       initialized &&
@@ -169,7 +169,7 @@
     }
   });
 
-  // Watch for URL parameter changes (from search)
+  // Watch for URL parameter changes
   $effect(() => {
     if (!initialized) return;
 
@@ -205,7 +205,7 @@
         onRandom={getRandomComic}
       />
 
-      <DatePicker bind:value={selectedDate} />
+      <DatePicker bind:selectedDate />
 
       <ComicImage
         {currentComic}

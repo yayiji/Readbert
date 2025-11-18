@@ -2,7 +2,7 @@
   import { CalendarDays } from "@lucide/svelte";
   import CalendarPopup from "./CalendarPopup.svelte";
 
-  let { value = $bindable("") } = $props();
+  let { selectedDate = $bindable("") } = $props();
 
   let isOpen = $state(false);
 
@@ -23,9 +23,9 @@
   }
 
   function handleConfirm(event) {
-    const selectedDate = event.detail?.value;
-    if (selectedDate) {
-      value = selectedDate;
+    const value = event.detail?.value;
+    if (value) {
+      selectedDate = value;
     }
     closePicker();
   }
@@ -50,11 +50,11 @@
     type="button"
   >
     <CalendarDays class="calendar-icon" size={16} />
-    <span class="date-text">{formatDisplayDate(value)}</span>
+    <span class="date-text">{formatDisplayDate(selectedDate)}</span>
   </button>
 
   {#if isOpen}
-    <CalendarPopup {value} on:confirm={handleConfirm} on:cancel={closePicker} />
+    <CalendarPopup value={selectedDate} on:confirm={handleConfirm} on:cancel={closePicker} />
   {/if}
 </div>
 
