@@ -54,19 +54,15 @@
   }
 
   // ===== COMIC LOADING =====
-  function updateUrlDateParam(date) {
+  function updateUrlDatePath(date) {
     if (typeof window === "undefined") return;
 
     try {
       const url = new URL(window.location.href);
-      if (date) {
-        url.searchParams.set("date", date);
-      } else {
-        url.searchParams.delete("date");
-      }
+      url.pathname = date ? `/${date}` : "/";
       window.history.replaceState(window.history.state, "", url);
     } catch (error) {
-      console.error("Failed to update URL date param:", error);
+      console.error("Failed to update date URL:", error);
     }
   }
 
@@ -77,9 +73,9 @@
 
     if (currentComic?.date) {
       selectedDate = currentComic.date;
-      updateUrlDateParam(currentComic.date);
+      updateUrlDatePath(currentComic.date);
     } else {
-      updateUrlDateParam(null);
+      updateUrlDatePath(null);
     }
 
     saveLastVisitedComic(currentComic, previousComic, nextComic);
@@ -144,8 +140,10 @@
     if (initialized) return;
 
     (async () => {
-      // Check URL for date param
-      const urlDate = $page.url.searchParams.get("date");
+      // Check URL for date in pathname
+      const segments = $page.url.pathname.split("/").filter(Boolean);
+      const urlDate = segments[0];
+
       if (urlDate && isValidComicDateRange(urlDate)) {
         await loadComic(urlDate);
         initialized = true;
