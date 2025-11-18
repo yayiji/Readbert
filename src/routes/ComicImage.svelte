@@ -1,10 +1,15 @@
 <script>
+  import HistoryView from "./HistoryView.svelte";
+
   let {
     currentComic,
     isLoading,
     onImageLoad,
+    onSelectDate,
     shortcutsDisabled = false,
   } = $props();
+
+  let isHistoryOpen = $state(false);
 
   const DILBERT_ALL_BASE = "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
 
@@ -34,6 +39,19 @@
     } else if (event.key === "e") {
       event.preventDefault();
       openDilbertAsset("json");
+    } else if (event.key === "h") {
+      event.preventDefault();
+      isHistoryOpen = true;
+    }
+  }
+
+  function handleCloseHistory() {
+    isHistoryOpen = false;
+  }
+
+  function handleSelectHistoryDate(date) {
+    if (onSelectDate) {
+      onSelectDate(date);
     }
   }
 
@@ -43,6 +61,12 @@
     return () => document.removeEventListener("keydown", handleShortcutKeydown);
   });
 </script>
+
+<HistoryView
+  isOpen={isHistoryOpen}
+  onClose={handleCloseHistory}
+  onSelectDate={handleSelectHistoryDate}
+/>
 
 <div class="comic-container-wrapper">
   <div class="comic-container">
@@ -70,6 +94,14 @@
         role="menuitem"
       >
         Transcript
+      </button>
+      <button
+        class="action-btn"
+        type="button"
+        onclick={() => (isHistoryOpen = true)}
+        role="menuitem"
+      >
+        History
       </button>
     </div>
   </div>

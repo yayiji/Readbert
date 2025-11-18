@@ -1,11 +1,8 @@
 <script>
   import { isValidComicDateRange, isValidComicDate } from "$lib/dateUtils.js";
-  import {
-    initializeDatabases,
-    saveLastVisitedComic,
-    loadLastVisitedComic,
-  } from "$lib/databases.js";
+  import { initializeDatabases } from "$lib/databases.js";
   import { Comic } from "$lib/Comic.js";
+  import { visitedHistory } from "$lib/visitedHistory.js";
   import DatePicker from "./DatePicker.svelte";
   import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
@@ -74,11 +71,10 @@
     if (currentComic?.date) {
       selectedDate = currentComic.date;
       updateUrlPath(currentComic.date);
+      visitedHistory.addVisit(currentComic.date);
     } else {
       updateUrlPath(null);
     }
-
-    saveLastVisitedComic(currentComic, previousComic, nextComic);
   }
 
   async function loadComic(date) {
@@ -157,16 +153,9 @@
         return;
       }
 
-      const savedComic = loadLastVisitedComic();
-      if (savedComic) {
-        updateComicState(
-          savedComic.currentComic,
-          savedComic.previousComic,
-          savedComic.nextComic,
-        );
-        if (savedComic.currentComic?.transcript) {
-          transcript = savedComic.currentComic.transcript;
-        }
+      const lastVisitedDate = visitedHistory.loadLastVisited();
+      if (lastVisitedDate) {
+        await loadComic(lastVisitedDate);
       } else {
         await getRandomComic();
       }
@@ -222,6 +211,7 @@
         {currentComic}
         {isLoading}
         onImageLoad={handleImageLoad}
+        onSelectDate={(date) => (selectedDate = date)}
         shortcutsDisabled={isCommandPaletteOpen}
       />
 
