@@ -54,7 +54,7 @@
   }
 
   // ===== COMIC LOADING =====
-  function updateUrlDatePath(date) {
+  function updateUrlPath(date) {
     if (typeof window === "undefined") return;
 
     try {
@@ -73,9 +73,9 @@
 
     if (currentComic?.date) {
       selectedDate = currentComic.date;
-      updateUrlDatePath(currentComic.date);
+      updateUrlPath(currentComic.date);
     } else {
-      updateUrlDatePath(null);
+      updateUrlPath(null);
     }
 
     saveLastVisitedComic(currentComic, previousComic, nextComic);
