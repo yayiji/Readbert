@@ -16,8 +16,8 @@
     <div class="nav-buttons">
       <button onclick={onSearchClick} class="search-btn" aria-label="Search">
         <svg
-          width="20"
-          height="20"
+          width="18"
+          height="18"
           viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
@@ -40,7 +40,7 @@
     left: 0;
     right: 0;
     width: 100%;
-    height: 4rem;
+    height: 3.7rem;
     z-index: 100;
     border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
     box-shadow: var(--navbar-shadow);
@@ -63,7 +63,7 @@
   .nav-brand h1 {
     margin: 0;
     padding-left: 0.5rem;
-    font-size: 1.15rem;
+    font-size: 1.05rem;
     font-weight: 600;
     color: var(--text-color);
   }

@@ -1,5 +1,4 @@
 <script>
-  import HistoryView from "./HistoryView.svelte";
   import { bookmarks } from "$lib/bookmarks.js";
 
   let {
@@ -10,10 +9,10 @@
     shortcutsDisabled = false,
   } = $props();
 
-  let isHistoryOpen = $state(false);
   let isBookmarked = $state(false);
 
-  const DILBERT_ALL_BASE = "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
+  const DILBERT_ALL_BASE =
+    "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
 
   function shouldIgnoreShortcut(target) {
     if (!target) return false;
@@ -41,19 +40,6 @@
     } else if (event.key === "e") {
       event.preventDefault();
       openDilbertAsset("json");
-    } else if (event.key === "h") {
-      event.preventDefault();
-      isHistoryOpen = true;
-    }
-  }
-
-  function handleCloseHistory() {
-    isHistoryOpen = false;
-  }
-
-  function handleSelectDate(date) {
-    if (onSelectDate) {
-      onSelectDate(date);
     }
   }
 
@@ -80,12 +66,6 @@
   });
 </script>
 
-<HistoryView
-  isOpen={isHistoryOpen}
-  onClose={handleCloseHistory}
-  onSelectDate={handleSelectDate}
-/>
-
 <div class="comic-container-wrapper">
   <div class="comic-container">
     <button
@@ -104,7 +84,9 @@
         stroke-linecap="round"
         stroke-linejoin="round"
       >
-        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+        <polygon
+          points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+        ></polygon>
       </svg>
     </button>
     <img
@@ -131,14 +113,6 @@
         role="menuitem"
       >
         Transcript
-      </button>
-      <button
-        class="action-btn"
-        type="button"
-        onclick={() => (isHistoryOpen = true)}
-        role="menuitem"
-      >
-        History
       </button>
     </div>
   </div>
@@ -250,6 +224,10 @@
 
   .comic-image.loading {
     opacity: 0.5;
+  }
+
+  .comic-actions {
+    display: none;
   }
 
   @media (max-width: 768px) {
