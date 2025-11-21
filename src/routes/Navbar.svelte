@@ -16,8 +16,8 @@
     <div class="nav-buttons">
       <button onclick={onSearchClick} class="search-btn" aria-label="Search">
         <svg
-          width="18"
-          height="18"
+          width="20"
+          height="20"
           viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
@@ -40,10 +40,8 @@
     left: 0;
     right: 0;
     width: 100%;
+    height: 4rem;
     z-index: 100;
-
-    /* Appearance */
-    background: rgba(248, 246, 240, 0.1);
     border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
     box-shadow: var(--navbar-shadow);
     backdrop-filter: blur(20px);
@@ -54,10 +52,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-    /* max-width: 1200px; */
-    margin: 0 auto;
-    padding: var(--spacing-md) var(--spacing-xl);
+    height: 100%;
+    padding: 0 var(--spacing-xl);
   }
 
   .nav-brand {
@@ -66,9 +62,8 @@
 
   .nav-brand h1 {
     margin: 0;
-    padding: 0;
-    padding-left: 8px;
-    font-size: 18px;
+    padding-left: 0.5rem;
+    font-size: 1.15rem;
     font-weight: 600;
     color: var(--text-color);
   }
@@ -88,21 +83,16 @@
     border-radius: var(--border-radius);
     color: var(--text-color);
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: background 0.2s ease;
   }
 
   .search-btn:hover {
     background: rgba(109, 95, 77, 0.1);
   }
 
-  /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .nav-container {
-      padding: var(--spacing-sm) 16px;
-    }
-
-    .nav-brand h1 {
-      font-size: 17px;
+      padding: 0 var(--spacing-md);
     }
   }
 </style>
