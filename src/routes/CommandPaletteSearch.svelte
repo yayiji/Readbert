@@ -1,6 +1,8 @@
 <script>
   import { searchIndex, highlightText } from "$lib/searchIndex.js";
   import { Comic } from "$lib/Comic.js";
+  import { visitedHistory } from "$lib/visitedHistory.js";
+  import { bookmarks } from "$lib/bookmarks.js";
 
   // ===== PROPS =====
   let { isOpen = $bindable(false), selectedDate = $bindable("") } = $props();
@@ -14,11 +16,15 @@
   let searchInput = $state();
   let resultsContainer = $state();
   let searchTimeout;
+  let historyEntries = $state([]);
+  let bookmarkEntries = $state([]);
 
   let hasResults = $derived(searchResults.length > 0);
   let hasQuery = $derived(searchQuery.trim().length > 0);
-  let showNoResults = $derived(hasQuery && !hasResults && !isSearching);
+  let queryTooShort = $derived(searchQuery.trim().length > 0 && searchQuery.trim().length < 2);
+  let showNoResults = $derived(hasQuery && !hasResults && !isSearching && !queryTooShort);
   let showEmptyState = $derived(!hasQuery);
+  let showHistoryView = $derived(queryTooShort || showEmptyState);
 
   // ===== GRID UTILITIES =====
 
@@ -164,6 +170,31 @@
     }, 150);
   }
 
+  // ===== HISTORY & BOOKMARKS =====
+
+  async function loadHistory() {
+    try {
+      historyEntries = await visitedHistory.getRecent(10);
+    } catch (error) {
+      console.error("Failed to load history:", error);
+      historyEntries = [];
+    }
+  }
+
+  async function loadBookmarks() {
+    try {
+      bookmarkEntries = bookmarks.getAll();
+    } catch (error) {
+      console.error("Failed to load bookmarks:", error);
+      bookmarkEntries = [];
+    }
+  }
+
+  function selectHistoryDate(date) {
+    selectedDate = date;
+    closeModal();
+  }
+
   // ===== UTILITIES =====
 
   function formatDate(dateStr) {
@@ -181,7 +212,11 @@
   });
 
   $effect(() => {
-    if (isOpen && searchInput) setTimeout(() => searchInput.focus(), 10);
+    if (isOpen && searchInput) {
+      setTimeout(() => searchInput.focus(), 10);
+      loadHistory();
+      loadBookmarks();
+    }
   });
 
   $effect(() => {
@@ -293,14 +328,45 @@
               </button>
             {/each}
           </div>
-        {:else if showEmptyState}
-          <div class="empty-state">
-            <div class="empty-state-text">Search Dilbert Comics</div>
-            <div class="empty-state-subtitle">
-              {#if indexLoaded}
-                Start typing to search through comics by dialogue and text
+        {:else if showHistoryView}
+          <div class="history-view">
+            <div class="history-column">
+              <h3 class="history-column-title">History</h3>
+              <ul class="history-list">
+                {#each historyEntries as entry (entry.date)}
+                  <li class="history-list-item">
+                    <button
+                      class="history-list-btn"
+                      type="button"
+                      onclick={() => selectHistoryDate(entry.date)}
+                    >
+                      <span class="history-list-id">{entry.date}</span>
+                    </button>
+                  </li>
+                {/each}
+              </ul>
+            </div>
+
+            <div class="history-column">
+              <h3 class="history-column-title">Bookmarks</h3>
+              {#if bookmarkEntries.length === 0}
+                <div class="history-empty-state">
+                  <p>No bookmarks</p>
+                </div>
               {:else}
-                Loading search index...
+                <ul class="history-list">
+                  {#each bookmarkEntries as entry (entry.date)}
+                    <li class="history-list-item">
+                      <button
+                        class="history-list-btn"
+                        type="button"
+                        onclick={() => selectHistoryDate(entry.date)}
+                      >
+                        <span class="history-list-id">{entry.date}</span>
+                      </button>
+                    </li>
+                  {/each}
+                </ul>
               {/if}
             </div>
           </div>
@@ -613,6 +679,91 @@
     box-shadow: 0 1px 0 #d1d5db;
   }
 
+  /* ===== HISTORY VIEW ===== */
+
+  .history-view {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    height: 100%;
+    padding: 16px 0;
+  }
+
+  .history-column {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    padding: 0 16px;
+  }
+
+  .history-column:first-child {
+    border-right: 1px solid rgba(139, 125, 107, 0.2);
+  }
+
+  .history-column-title {
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #374151;
+    margin: 0 0 0.5rem 0;
+    padding: 0.5rem;
+    letter-spacing: -0.01em;
+    text-align: center;
+  }
+
+  .history-empty-state {
+    text-align: center;
+    padding: 2rem 1rem;
+    color: #6b7280;
+  }
+
+  .history-empty-state p {
+    margin: 0;
+    font-size: 0.85rem;
+  }
+
+  .history-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow-y: auto;
+    flex: 1;
+  }
+
+  .history-list-item {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .history-list-btn {
+    font-size: 0.85rem;
+    width: auto;
+    max-width: 100%;
+    background: transparent;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    transition: background-color 0.15s ease;
+    border-radius: 8px;
+    margin: 2px auto;
+    font-family: var(--font-sans);
+  }
+
+  .history-list-btn:hover,
+  .history-list-btn:focus-visible {
+    background: rgba(0, 0, 0, 0.04);
+  }
+
+  .history-list-id {
+    color: #374151;
+    white-space: nowrap;
+  }
+
   /* ===== RESPONSIVE ===== */
 
   @media (max-width: 1024px) {
@@ -641,6 +792,15 @@
     .result-item {
       min-height: 180px;
       padding: 12px;
+    }
+
+    .history-column {
+      padding: 0 12px;
+    }
+
+    .history-list-btn {
+      font-size: 0.8rem;
+      padding: 0.4rem 0.8rem;
     }
   }
 
