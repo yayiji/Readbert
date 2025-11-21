@@ -1,6 +1,5 @@
 <script>
   import HistoryView from "./HistoryView.svelte";
-  import BookmarksView from "./BookmarksView.svelte";
   import { bookmarks } from "$lib/bookmarks.js";
 
   let {
@@ -12,7 +11,6 @@
   } = $props();
 
   let isHistoryOpen = $state(false);
-  let isBookmarksOpen = $state(false);
   let isBookmarked = $state(false);
 
   const DILBERT_ALL_BASE = "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
@@ -46,9 +44,6 @@
     } else if (event.key === "h") {
       event.preventDefault();
       isHistoryOpen = true;
-    } else if (event.key === "m") {
-      event.preventDefault();
-      isBookmarksOpen = true;
     }
   }
 
@@ -56,7 +51,7 @@
     isHistoryOpen = false;
   }
 
-  function handleSelectHistoryDate(date) {
+  function handleSelectDate(date) {
     if (onSelectDate) {
       onSelectDate(date);
     }
@@ -66,16 +61,6 @@
     if (!currentComic?.date) return;
     const newState = bookmarks.toggleBookmark(currentComic.date);
     isBookmarked = newState;
-  }
-
-  function handleCloseBookmarks() {
-    isBookmarksOpen = false;
-  }
-
-  function handleSelectBookmarkDate(date) {
-    if (onSelectDate) {
-      onSelectDate(date);
-    }
   }
 
   function updateBookmarkState() {
@@ -98,13 +83,7 @@
 <HistoryView
   isOpen={isHistoryOpen}
   onClose={handleCloseHistory}
-  onSelectDate={handleSelectHistoryDate}
-/>
-
-<BookmarksView
-  isOpen={isBookmarksOpen}
-  onClose={handleCloseBookmarks}
-  onSelectDate={handleSelectBookmarkDate}
+  onSelectDate={handleSelectDate}
 />
 
 <div class="comic-container-wrapper">
