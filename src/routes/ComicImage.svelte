@@ -1,5 +1,7 @@
 <script>
   import HistoryView from "./HistoryView.svelte";
+  import BookmarksView from "./BookmarksView.svelte";
+  import { bookmarks } from "$lib/bookmarks.js";
 
   let {
     currentComic,
@@ -10,6 +12,8 @@
   } = $props();
 
   let isHistoryOpen = $state(false);
+  let isBookmarksOpen = $state(false);
+  let isBookmarked = $state(false);
 
   const DILBERT_ALL_BASE = "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
 
@@ -42,6 +46,9 @@
     } else if (event.key === "h") {
       event.preventDefault();
       isHistoryOpen = true;
+    } else if (event.key === "m") {
+      event.preventDefault();
+      isBookmarksOpen = true;
     }
   }
 
@@ -55,10 +62,36 @@
     }
   }
 
+  function handleToggleBookmark() {
+    if (!currentComic?.date) return;
+    const newState = bookmarks.toggleBookmark(currentComic.date);
+    isBookmarked = newState;
+  }
+
+  function handleCloseBookmarks() {
+    isBookmarksOpen = false;
+  }
+
+  function handleSelectBookmarkDate(date) {
+    if (onSelectDate) {
+      onSelectDate(date);
+    }
+  }
+
+  function updateBookmarkState() {
+    if (currentComic?.date) {
+      isBookmarked = bookmarks.isBookmarked(currentComic.date);
+    }
+  }
+
   $effect(() => {
     if (typeof document === "undefined") return;
     document.addEventListener("keydown", handleShortcutKeydown);
     return () => document.removeEventListener("keydown", handleShortcutKeydown);
+  });
+
+  $effect(() => {
+    updateBookmarkState();
   });
 </script>
 
@@ -68,8 +101,33 @@
   onSelectDate={handleSelectHistoryDate}
 />
 
+<BookmarksView
+  isOpen={isBookmarksOpen}
+  onClose={handleCloseBookmarks}
+  onSelectDate={handleSelectBookmarkDate}
+/>
+
 <div class="comic-container-wrapper">
   <div class="comic-container">
+    <button
+      class="bookmark-toggle"
+      type="button"
+      onclick={handleToggleBookmark}
+      aria-label={isBookmarked ? "Remove bookmark" : "Add bookmark"}
+    >
+      <svg
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill={isBookmarked ? "currentColor" : "none"}
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+      </svg>
+    </button>
     <img
       src={currentComic.url}
       alt="Dilbert comic from {currentComic.date}"
@@ -121,6 +179,46 @@
     border: 2px solid var(--border-color);
     box-shadow: var(--shadow);
     margin-top: 0rem;
+  }
+
+  .bookmark-toggle {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: rgba(248, 246, 240, 0.9);
+    border: 1.5px solid rgba(139, 125, 107, 0.6);
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 3;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+
+  .comic-container:hover .bookmark-toggle {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .bookmark-toggle:hover {
+    transform: scale(1.1);
+    background: rgba(248, 246, 240, 1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .bookmark-toggle svg {
+    width: 18px;
+    height: 18px;
   }
 
   .comic-actions {
@@ -185,7 +283,8 @@
     .comic-container {
       padding: 0.5rem;
     }
-    .comic-actions {
+    .comic-actions,
+    .bookmark-toggle {
       display: none;
     }
   }
