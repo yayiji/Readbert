@@ -40,14 +40,39 @@ function getImagePath(date) {
   );
 }
 
-async function getImageBase64(date) {
-  const imagePath = getImagePath(date);
-  const imageBuffer = await fs.promises.readFile(imagePath);
-  return imageBuffer.toString("base64");
+function getImageUrl(date, baseUrl) {
+  const year = date.split("-")[0];
+  return new URL(`/dilbert-comics/${year}/${date}.gif`, baseUrl).toString();
 }
 
-async function transcribeComic(date, retryCount = 0) {
-  const base64Image = await getImageBase64(date);
+async function getImageBase64(date, fetchFn, baseUrl) {
+  const imagePath = getImagePath(date);
+
+  try {
+    const imageBuffer = await fs.promises.readFile(imagePath);
+    return imageBuffer.toString("base64");
+  } catch (error) {
+    if (error.code !== "ENOENT") {
+      throw error;
+    }
+    // Static assets aren't bundled into serverless functions on Vercel; fall back to fetching the public asset.
+  }
+
+  const imageUrl = getImageUrl(date, baseUrl);
+  const response = await fetchFn(imageUrl);
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to fetch comic image (${response.status} ${response.statusText})`,
+    );
+  }
+
+  const arrayBuffer = await response.arrayBuffer();
+  return Buffer.from(arrayBuffer).toString("base64");
+}
+
+async function transcribeComic(date, fetchFn, baseUrl, retryCount = 0) {
+  const base64Image = await getImageBase64(date, fetchFn, baseUrl);
 
   const prompt = `
   You are transcribing a Dilbert comic strip. Please:
@@ -138,13 +163,13 @@ async function transcribeComic(date, retryCount = 0) {
   } catch (error) {
     if (retryCount < MAX_RETRIES) {
       await delay(RATE_LIMIT_DELAY * (retryCount + 1));
-      return transcribeComic(date, retryCount + 1);
+      return transcribeComic(date, fetchFn, baseUrl, retryCount + 1);
     }
     throw error;
   }
 }
 
-export async function POST({ request }) {
+export async function POST({ request, fetch, url }) {
   if (!OPENROUTER_API_KEY) {
     return json(
       { error: "OPENROUTER_API_KEY is not configured on the server" },
@@ -170,7 +195,7 @@ export async function POST({ request }) {
   }
 
   try {
-    const transcript = await transcribeComic(date);
+    const transcript = await transcribeComic(date, fetch, url);
     return json({ date, transcript });
   } catch (error) {
     console.error("Error regenerating transcript:", error);
@@ -183,4 +208,3 @@ export async function POST({ request }) {
     );
   }
 }
-
