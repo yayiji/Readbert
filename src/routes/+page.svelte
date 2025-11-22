@@ -11,6 +11,7 @@
   import NavigationButtons from "./NavigationButtons.svelte";
   import Footer from "./Footer.svelte";
   import Header from "./Header.svelte";
+  import TranscriptDebugPopup from "./TranscriptDebugPopup.svelte";
   import { page } from "$app/stores";
   
   
@@ -19,6 +20,11 @@
   let previousComic = $state(null);
   let nextComic = $state(null);
   let transcript = $state(null);
+  let regeneratedTranscript = $state(null);
+  let isRegeneratingTranscript = $state(false);
+  let regenerateError = $state("");
+  let isRegenPopupOpen = $state(false);
+  let regenPopupDate = $state("");
   let isLoading = $state(false);
   let selectedDate = $state("");
   let isCommandPaletteOpen = $state(false);
@@ -129,6 +135,49 @@
     }
   }
 
+  // ===== TRANSCRIPT REGENERATION =====
+  async function regenerateTranscript(date) {
+    if (!date || isRegeneratingTranscript) return;
+
+    regenPopupDate = date;
+    isRegenPopupOpen = true;
+    isRegeneratingTranscript = true;
+    regenerateError = "";
+    regeneratedTranscript = null;
+
+    try {
+      const response = await fetch("/api/regenerate-transcript", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ date }),
+      });
+
+      if (!response.ok) {
+        let errorMessage = `Request failed with status ${response.status}`;
+        try {
+          const errorBody = await response.json();
+          if (errorBody?.error) {
+            errorMessage = errorBody.error;
+          }
+        } catch {
+          // ignore JSON parse errors
+        }
+        regenerateError = errorMessage;
+        return;
+      }
+
+      const data = await response.json();
+      regeneratedTranscript = data?.transcript ?? null;
+    } catch (error) {
+      console.error("Error regenerating transcript:", error);
+      regenerateError = error?.message || "Unexpected error while regenerating transcript.";
+    } finally {
+      isRegeneratingTranscript = false;
+    }
+  }
+
   // ===== REACTIVE EFFECTS =====
 
   // Initialize on mount
@@ -212,6 +261,7 @@
         {isLoading}
         onImageLoad={handleImageLoad}
         onSelectDate={(date) => (selectedDate = date)}
+        onRegenerateTranscript={regenerateTranscript}
         shortcutsDisabled={isCommandPaletteOpen}
       />
 
@@ -223,6 +273,14 @@
 <Footer />
 
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
+
+<TranscriptDebugPopup
+  bind:isOpen={isRegenPopupOpen}
+  {regenPopupDate}
+  transcript={regeneratedTranscript}
+  isLoading={isRegeneratingTranscript}
+  error={regenerateError}
+/>
 
 <style>
   main {
