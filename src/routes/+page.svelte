@@ -13,6 +13,7 @@
   import Header from "./Header.svelte";
   import TranscriptDebugPopup from "./TranscriptDebugPopup.svelte";
   import { page } from "$app/stores";
+  import { transcribeComicInBrowser } from "$lib/browserTranscriber.js";
   
   
   // ===== STATE =====
@@ -178,6 +179,30 @@
     }
   }
 
+  async function regenerateTranscriptBrowser(date) {
+    if (!date || isRegeneratingTranscript) return;
+
+    regenPopupDate = date;
+    isRegenPopupOpen = true;
+    isRegeneratingTranscript = true;
+    regenerateError = "";
+    regeneratedTranscript = null;
+
+    try {
+      if (!currentComic?.url) {
+        throw new Error("Current comic URL is not available for browser LLM call.");
+      }
+
+      regeneratedTranscript = await transcribeComicInBrowser(currentComic.url);
+    } catch (error) {
+      console.error("Error regenerating transcript (browser):", error);
+      regenerateError =
+        error?.message || "Unexpected error while regenerating transcript (browser).";
+    } finally {
+      isRegeneratingTranscript = false;
+    }
+  }
+
   // ===== REACTIVE EFFECTS =====
 
   // Initialize on mount
@@ -262,6 +287,7 @@
         onImageLoad={handleImageLoad}
         onSelectDate={(date) => (selectedDate = date)}
         onRegenerateTranscript={regenerateTranscript}
+        onRegenerateTranscriptBrowser={regenerateTranscriptBrowser}
         shortcutsDisabled={isCommandPaletteOpen}
       />
 

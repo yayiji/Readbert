@@ -7,6 +7,7 @@
     onImageLoad,
     onSelectDate,
     onRegenerateTranscript,
+    onRegenerateTranscriptBrowser,
     shortcutsDisabled = false,
   } = $props();
 
@@ -45,6 +46,7 @@
       event.preventDefault();
       if (currentComic?.date && typeof onRegenerateTranscript === "function") {
         onRegenerateTranscript(currentComic.date);
+        // onRegenerateTranscriptBrowser(currentComic.date);
       }
     }
   }

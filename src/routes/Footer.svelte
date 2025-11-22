@@ -10,7 +10,7 @@
 <style>
   .footer {
     margin-top: auto;
-    padding: 200px 0 var(--spacing-lg) 0;
+    padding: 400px 0 var(--spacing-lg) 0;
     text-align: center;
   }
 
