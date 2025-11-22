@@ -1,15 +1,14 @@
 <script>
-  import { createEventDispatcher } from "svelte";
+  import { transcribeComicInBrowser } from "$lib/browserTranscriber.js";
 
-  let {
-    isOpen = $bindable(false),
-    date = "",
-    transcript = null,
-    isLoading = false,
-    error = "",
-  } = $props();
+  let { currentComic = null } = $props();
 
-  const dispatch = createEventDispatcher();
+  let isOpen = $state(false);
+  let transcript = $state(null);
+  let isLoading = $state(false);
+  let error = $state("");
+
+  const date = $derived(currentComic?.date ?? "");
 
   const prettyJson = $derived(
     transcript ? JSON.stringify(transcript, null, 2) : "",
@@ -19,7 +18,6 @@
 
   function close() {
     isOpen = false;
-    dispatch("close");
   }
 
   function handleBackdropClick(event) {
@@ -48,6 +46,94 @@
       console.error("Failed to copy transcript JSON:", error);
     }
   }
+
+  async function regenerateViaServer() {
+    if (!currentComic?.date || isLoading) return;
+
+    isOpen = true;
+    isLoading = true;
+    error = "";
+    transcript = null;
+    copyStatus = "COPY";
+
+    try {
+      const response = await fetch("/api/regenerate-transcript", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ date: currentComic.date }),
+      });
+
+      if (!response.ok) {
+        let errorMessage = `Request failed with status ${response.status}`;
+        try {
+          const errorBody = await response.json();
+          if (errorBody?.error) {
+            if (typeof errorBody.error === "string") {
+              errorMessage += `: ${errorBody.error}`;
+            } else {
+              errorMessage += `: ${JSON.stringify(errorBody.error)}`;
+            }
+          }
+        } catch {
+          // ignore JSON parse errors
+        }
+        error = errorMessage;
+        return;
+      }
+
+      const data = await response.json();
+      transcript = data?.transcript ?? null;
+    } catch (err) {
+      console.error("Error regenerating transcript (server):", err);
+      error =
+        err?.message || "Unexpected error while regenerating transcript (server).";
+    } finally {
+      isLoading = false;
+    }
+  }
+
+  async function regenerateViaBrowser() {
+    if (!currentComic?.url || isLoading) return;
+
+    isOpen = true;
+    isLoading = true;
+    error = "";
+    transcript = null;
+    copyStatus = "COPY";
+
+    try {
+      transcript = await transcribeComicInBrowser(currentComic.url);
+    } catch (err) {
+      console.error("Error regenerating transcript (browser):", err);
+      error =
+        err?.message ||
+        "Unexpected error while regenerating transcript (browser).";
+    } finally {
+      isLoading = false;
+    }
+  }
+
+  function handleGlobalKeydown(event) {
+    if (!currentComic) return;
+    if (event.key === "g") {
+      event.preventDefault();
+      regenerateViaServer();
+    } else if (event.key === "G") {
+      event.preventDefault();
+      regenerateViaBrowser();
+    } else if (event.key === "Escape" && isOpen) {
+      event.preventDefault();
+      close();
+    }
+  }
+
+  $effect(() => {
+    if (typeof document === "undefined") return;
+    document.addEventListener("keydown", handleGlobalKeydown);
+    return () => document.removeEventListener("keydown", handleGlobalKeydown);
+  });
 </script>
 
 {#if isOpen}

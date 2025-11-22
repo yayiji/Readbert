@@ -6,8 +6,6 @@
     isLoading,
     onImageLoad,
     onSelectDate,
-    onRegenerateTranscript,
-    onRegenerateTranscriptBrowser,
     shortcutsDisabled = false,
   } = $props();
 
@@ -42,12 +40,6 @@
     } else if (event.key === "e") {
       event.preventDefault();
       openDilbertAsset("json");
-    } else if (event.key === "g") {
-      event.preventDefault();
-      if (currentComic?.date && typeof onRegenerateTranscript === "function") {
-        onRegenerateTranscript(currentComic.date);
-        // onRegenerateTranscriptBrowser(currentComic.date);
-      }
     }
   }
 
