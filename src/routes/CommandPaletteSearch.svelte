@@ -22,7 +22,8 @@
   let queryTooShort = $derived(searchQuery.trim().length > 0 && searchQuery.trim().length < 3);
   let showNoResults = $derived(hasQuery && !hasResults && !isSearching && !queryTooShort);
   let showEmptyState = $derived(!hasQuery);
-  let showHistoryView = $derived(queryTooShort || showEmptyState);
+  let showHistoryView = $derived(showEmptyState);
+  let showTooShortMessage = $derived(queryTooShort);
 
   // ===== GRID UTILITIES =====
 
@@ -309,6 +310,11 @@
               </button>
             {/each}
           </div>
+        {:else if showTooShortMessage}
+          <div class="too-short-message">
+            <div class="too-short-title">Keep typing...</div>
+            <div class="too-short-subtitle">Type at least 3 characters to search</div>
+          </div>
         {:else if showHistoryView}
           <HistoryBookmarksPanel
             bind:this={historyPanel}
@@ -366,6 +372,7 @@
     flex-direction: column;
     overflow: hidden;
     animation: palette-slide-in 0.15s ease-out;
+    font-family: var(--font-sans);
   }
 
   @keyframes palette-slide-in {
@@ -476,7 +483,6 @@
     background: rgba(255, 255, 255, 0.6);
     text-align: left;
     width: 100%;
-    font-family: var(--font-sans);
     font-size: inherit;
     height: auto;
     min-height: 180px;
@@ -533,7 +539,7 @@
     color: #374151;
     font-size: 12px;
     margin-bottom: 0;
-    font-family: var(--font-mono);
+    /* font-family: var(--font-mono); */
   }
 
   .result-text {
@@ -571,7 +577,6 @@
     justify-content: center;
     padding: 80px 24px 0px;
     text-align: center;
-    font-family: var(--font-sans);
   }
 
   .no-results-text {
@@ -582,6 +587,29 @@
   }
 
   .no-results-subtitle {
+    font-size: 16px;
+    color: #6b7280;
+  }
+
+  /* ===== TOO SHORT MESSAGE ===== */
+
+  .too-short-message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 24px 0px;
+    text-align: center;
+  }
+
+  .too-short-title {
+    font-size: 32px;
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 8px;
+  }
+
+  .too-short-subtitle {
     font-size: 16px;
     color: #6b7280;
   }
@@ -615,7 +643,7 @@
     border-radius: 4px;
     padding: 2px 6px;
     font-size: 11px;
-    font-family: var(--font-sans);
+    /* font-family: var(--font-sans); */
     color: #374151;
     box-shadow: 0 1px 0 #d1d5db;
   }
@@ -647,6 +675,14 @@
     .result-item {
       min-height: 180px;
       padding: 12px;
+    }
+
+    .too-short-title {
+      font-size: 24px;
+    }
+
+    .too-short-subtitle {
+      font-size: 14px;
     }
   }
 </style>
