@@ -186,7 +186,7 @@
 </script>
 
 <svelte:head>
-  <title>DILBERT COMICS - Complete Collection</title>
+  <title>DILBERT COMICS</title>
 </svelte:head>
 
 <Navbar onSearchClick={openSearch} />
