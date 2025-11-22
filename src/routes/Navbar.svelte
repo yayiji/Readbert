@@ -64,7 +64,8 @@
     margin: 0;
     padding-left: 0.5rem;
     font-size: 1.05rem;
-    font-weight: 600;
+    font-weight: bold;
+    letter-spacing: 0.5px;
     color: var(--text-color);
   }
 

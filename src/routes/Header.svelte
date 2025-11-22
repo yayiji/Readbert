@@ -15,7 +15,7 @@
   .title {
     margin: 0;
     font-size: 2rem;
-    font-weight: 600;
+    font-weight: bold;
     color: var(--text-color);
     letter-spacing: 0px;
     /* text-transform: uppercase; */
@@ -30,17 +30,8 @@
 
   /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
-    .header {
-      margin: 2rem auto 2.2rem;
-    }
-
     .title {
-      font-size: 24px;
-      letter-spacing: 1px;
-    }
-
-    .subtitle {
-      font-size: 14px;
+      font-size: 1.8rem;
     }
   }
 </style>

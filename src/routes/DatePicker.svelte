@@ -73,7 +73,7 @@
     font-weight: bold;
     cursor: pointer;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     padding: 0 0.5rem;
     transition: all 0.2s ease;
     text-align: center;

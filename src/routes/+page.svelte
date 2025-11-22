@@ -191,7 +191,7 @@
 
 <Navbar onSearchClick={openSearch} />
 
-<main class="container">
+<main>
   <Header />
 
   {#if hasValidComic}
@@ -225,12 +225,12 @@
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
 <style>
-  .container {
+  main {
     width: 100%;
     min-height: 100vh;
     margin: 0;
     padding: 60px var(--spacing-lg) 0;
-    font-family: var(--font-serif);
+    /* font-family: var(--font-serif); */
     background-color: var(--bg-main);
     color: var(--text-color);
     box-sizing: border-box;
@@ -245,7 +245,7 @@
   }
 
   @media (max-width: 600px) {
-    .container {
+    main {
       padding: 60px var(--spacing-sm) 0;
     }
   }

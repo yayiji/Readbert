@@ -54,7 +54,7 @@
     font-weight: bold;
     color: var(--text-color);
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.8px;
     white-space: nowrap;
     cursor: pointer;
     transition: all 0.2s ease;

@@ -633,7 +633,6 @@
     .command-palette {
       width: 95vw;
       height: 80vh;
-      max-height: 600px;
     }
 
     .keyboard-shortcut {
@@ -648,32 +647,6 @@
     .result-item {
       min-height: 180px;
       padding: 12px;
-    }
-  }
-
-  @media (max-width: 640px) {
-    .command-palette {
-      width: 95vw;
-      margin: 0 auto;
-      height: 85vh;
-    }
-
-    .no-results-text {
-      font-size: 24px;
-    }
-
-    .search-input {
-      font-size: 16px;
-    }
-
-    .result-item {
-      padding: 8px;
-      min-height: 160px;
-    }
-
-    .shortcuts {
-      flex-wrap: wrap;
-      gap: 8px;
     }
   }
 </style>
