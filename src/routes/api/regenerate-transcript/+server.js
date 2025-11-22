@@ -1,5 +1,3 @@
-import fs from "fs";
-import path from "path";
 import { json } from "@sveltejs/kit";
 import { OPENROUTER_API_KEY } from "$env/static/private";
 import { isValidComicDate, isValidComicDateRange } from "$lib/dateUtils.js";
@@ -29,35 +27,12 @@ function cleanJsonResponse(text) {
   return cleaned.trim();
 }
 
-function getImagePath(date) {
-  const year = date.split("-")[0];
-  return path.join(
-    process.cwd(),
-    "static",
-    "dilbert-comics",
-    year,
-    `${date}.gif`,
-  );
-}
-
 function getImageUrl(date, baseUrl) {
   const year = date.split("-")[0];
   return new URL(`/dilbert-comics/${year}/${date}.gif`, baseUrl).toString();
 }
 
 async function getImageBase64(date, fetchFn, baseUrl) {
-  const imagePath = getImagePath(date);
-
-  try {
-    const imageBuffer = await fs.promises.readFile(imagePath);
-    return imageBuffer.toString("base64");
-  } catch (error) {
-    if (error.code !== "ENOENT") {
-      throw error;
-    }
-    // Static assets aren't bundled into serverless functions on Vercel; fall back to fetching the public asset.
-  }
-
   const imageUrl = getImageUrl(date, baseUrl);
   const response = await fetchFn(imageUrl);
 
@@ -170,6 +145,8 @@ async function transcribeComic(date, fetchFn, baseUrl, retryCount = 0) {
 }
 
 export async function POST({ request, fetch, url }) {
+  const baseUrl = url.origin;
+
   if (!OPENROUTER_API_KEY) {
     return json(
       { error: "OPENROUTER_API_KEY is not configured on the server" },
@@ -195,7 +172,7 @@ export async function POST({ request, fetch, url }) {
   }
 
   try {
-    const transcript = await transcribeComic(date, fetch, url);
+    const transcript = await transcribeComic(date, fetch, baseUrl);
     return json({ date, transcript });
   } catch (error) {
     console.error("Error regenerating transcript:", error);
