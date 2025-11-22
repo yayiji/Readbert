@@ -7,6 +7,30 @@
     onNext = () => {},
     onRandom = () => {}
   } = $props();
+
+  // Keyboard shortcuts
+  $effect(() => {
+    function handleKeydown(event) {
+      // Ignore if user is typing in an input field
+      if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') {
+        return;
+      }
+
+      if (event.key === 'ArrowLeft' && previousComic && !isLoading) {
+        event.preventDefault();
+        onPrevious();
+      } else if (event.key === 'ArrowRight' && nextComic && !isLoading) {
+        event.preventDefault();
+        onNext();
+      }
+    }
+
+    window.addEventListener('keydown', handleKeydown);
+
+    return () => {
+      window.removeEventListener('keydown', handleKeydown);
+    };
+  });
 </script>
 
 <div class="navigation">
@@ -45,8 +69,8 @@
   }
 
   .nav-btn {
-    padding: 0.6rem 1rem;
-    min-width: 74px;
+    width: 85px;
+    height: 36px;
     background-color: var(--bg-light);
     border: 2px solid var(--border-color);
     font-family: var(--font-serif);
@@ -58,6 +82,9 @@
     white-space: nowrap;
     cursor: pointer;
     transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   @media (hover: hover) and (pointer: fine) {
@@ -75,6 +102,7 @@
   }
 
   .nav-btn.random {
+    width: 100px;
     background-color: var(--border-color);
     color: var(--bg-light);
   }
@@ -90,12 +118,6 @@
     .navigation {
       gap: var(--spacing-sm);
       flex-wrap: wrap;
-    }
-
-    .nav-btn {
-      padding: var(--spacing-sm) var(--spacing-md);
-      font-size: 13px;
-      min-width: 70px;
     }
   }
 </style>
