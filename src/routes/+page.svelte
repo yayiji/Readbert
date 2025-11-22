@@ -4,7 +4,7 @@
   import { Comic } from "$lib/Comic.js";
   import { visitedHistory } from "$lib/visitedHistory.js";
   import DatePicker from "./DatePicker.svelte";
-  import CommandPaletteSearch from "./CommandPaletteSearch.svelte";
+  import CommandPaletteSearch from "./search/CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
   import ComicImage from "./ComicImage.svelte";
   import Navbar from "./Navbar.svelte";
