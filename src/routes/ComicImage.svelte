@@ -128,8 +128,9 @@
     position: relative;
     display: inline-block;
     background-color: var(--bg-white);
-    padding: 0.9rem;
+    padding: 0.8rem;
     border: 2px solid var(--border-color);
+    border-radius: 0px;
     box-shadow: var(--shadow);
     margin-top: 0rem;
   }
@@ -232,7 +233,7 @@
 
   @media (max-width: 768px) {
     .comic-container {
-      padding: 0.8rem;
+      padding: 0.6rem;
     }
   }
 

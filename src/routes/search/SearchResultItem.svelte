@@ -78,7 +78,7 @@
     font-family: var(--font-sans);
     font-size: inherit;
     font-size: 0.9rem;
-    color: rgba(0, 0, 0, 0.75);
+    color: rgba(0, 0, 0, 0.85);
     height: auto;
     min-height: 180px;
     box-sizing: border-box;
@@ -110,6 +110,7 @@
     background-color: #fff;
     padding: 0.4rem;
     border: 1px solid #d4c5a9;
+    border-radius: 8px;
     margin-bottom: 0;
     width: 100%;
     box-sizing: border-box;
@@ -130,7 +131,7 @@
   }
 
   .result-date {
-    font-weight: bold;
+    font-weight: 500;
     margin-bottom: 0;
   }
 
@@ -139,7 +140,7 @@
     word-break: break-word;
     text-align: left;
     background: transparent;
-    padding: 12px 8px 8px 8px;
+    padding: 0.2rem 1rem 0.5rem;
     border-radius: 4px;
     max-height: 200px;
     overflow-y: auto;
@@ -159,6 +160,7 @@
     background: yellowgreen;
     background: gold;
     padding: 2px 4px;
+    font-size: 0.9em;
     border-radius: 5px;
     font-weight: 500;
   }
