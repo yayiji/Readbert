@@ -55,9 +55,6 @@
               searchQuery
             )}
           </span>
-          {#if panelIndex < result.comic.panels.length - 1 || dialogueIndex < panel.dialogue.length - 1}
-            <br />
-          {/if}
         {/if}
       {/each}
     {/each}
@@ -80,6 +77,8 @@
     width: 100%;
     font-family: var(--font-sans);
     font-size: inherit;
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.75);
     height: auto;
     min-height: 180px;
     box-sizing: border-box;
@@ -109,7 +108,7 @@
   .comic-container {
     display: inline-block;
     background-color: #fff;
-    padding: 10px;
+    padding: 0.4rem;
     border: 1px solid #d4c5a9;
     margin-bottom: 0;
     width: 100%;
@@ -131,35 +130,36 @@
   }
 
   .result-date {
-    font-weight: 600;
-    color: #374151;
-    font-size: 12px;
+    font-weight: bold;
     margin-bottom: 0;
   }
 
   .result-text {
-    font-size: 13px;
-    color: #6b7280;
     line-height: 1.5;
     word-break: break-word;
     text-align: left;
     background: transparent;
     padding: 12px 8px 8px 8px;
     border-radius: 4px;
-    max-height: 100px;
+    max-height: 200px;
     overflow-y: auto;
     flex: 1;
   }
 
   .dialogue-excerpt {
-    font-family: var(--font-mono);
+    /* font-family: var(--font-mono); */
+    display: block;
+  }
+
+  .dialogue-excerpt:not(:last-child) {
+    margin-bottom: 0.5rem;
   }
 
   :global(.result-text mark) {
-    background: #fbbf24;
-    color: #000000;
-    padding: 1px 2px;
-    border-radius: 2px;
-    font-weight: bold;
+    background: yellowgreen;
+    background: gold;
+    padding: 2px 4px;
+    border-radius: 5px;
+    font-weight: 500;
   }
 </style>

@@ -129,11 +129,11 @@
     }
   }
 
-  $effect(() => {
-    if (typeof document === "undefined") return;
-    document.addEventListener("keydown", handleGlobalKeydown);
-    return () => document.removeEventListener("keydown", handleGlobalKeydown);
-  });
+  // $effect(() => {
+  //   if (typeof document === "undefined") return;
+  //   document.addEventListener("keydown", handleGlobalKeydown);
+  //   return () => document.removeEventListener("keydown", handleGlobalKeydown);
+  // });
 </script>
 
 {#if isOpen}
