@@ -156,8 +156,7 @@
     transition: background-color 0.15s ease;
     border-radius: 8px;
     margin: 2px auto;
-    /* font-family: var(--font-mono); */
-    /* font-weight: 500; */
+    font-family: inherit;
   }
 
   .history-list-btn:hover,

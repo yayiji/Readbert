@@ -312,6 +312,7 @@
     overflow: hidden;
     animation: slide-in 0.15s ease-out;
     font-family: var(--font-sans);
+    /* font-family: inherit; */
   }
 
   @keyframes slide-in {
