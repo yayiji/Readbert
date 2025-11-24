@@ -299,9 +299,7 @@
     background: rgba(248, 246, 240, 0.8);
     border-radius: 18px;
     border: 3px solid rgba(139, 125, 107, 0.4);
-    box-shadow:
-      0 20px 25px -5px rgba(0, 0, 0, 0.3),
-      0 10px 10px -5px rgba(0, 0, 0, 0.3);
+    box-shadow:0 0px 25px rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     max-width: 800px;

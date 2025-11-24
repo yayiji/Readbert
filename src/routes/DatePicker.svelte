@@ -89,7 +89,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 0.2rem;
+    gap: 0.3rem;
   }
 
   .date-input :global(.calendar-icon) {

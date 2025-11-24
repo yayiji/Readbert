@@ -63,24 +63,24 @@
     position: absolute;
     right: 12px;
     display: flex;
-    gap: 4px;
+    gap: 3px;
     align-items: center;
     pointer-events: none;
   }
 
   .keyboard-shortcut kbd {
     background: rgba(255, 255, 255, 0.2);
-    border: 1px solid rgba(139, 125, 107, 0.3);
+    border: 1px solid rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     width: 26px;
     height: 26px;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 15px;
+    font-size: 0.85rem;
     font-family: var(--font-sans);
     color: #6b7280;
-    box-shadow: 0 1px 0 rgba(139, 125, 107, 0.2);
+    box-shadow: 0 0px 16px rgba(0, 0, 0, 0.1);
     font-weight: 500;
     padding: 0;
     line-height: 1;
