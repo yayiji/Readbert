@@ -10,9 +10,13 @@
   let error = $state("");
   let lastRegenerationMethod = $state(null);
 
-  const prettyJson = $derived(
-    transcript ? JSON.stringify(transcript, null, 2) : "",
-  );
+  const prettyJson = $derived.by(() => {
+    if (!transcript) return "";
+    const payload = currentComic?.date
+      ? { date: currentComic.date, ...transcript }
+      : transcript;
+    return JSON.stringify(payload, null, 2);
+  });
 
   const transcriptText = $derived.by(() => {
     if (!transcript?.panels || transcript.panels.length === 0) return "";
@@ -24,6 +28,7 @@
       })
       .join("\n\n");
   });
+
 
   let copyJsonStatus = $state("COPY JSON");
   let copyTextStatus = $state("COPY TEXT");
@@ -141,6 +146,17 @@
   async function regenerateViaBrowser({ skipCache = false } = {}) {
     if (!currentComic?.url || isLoading) return;
 
+    if (!skipCache) {
+      const cachedTranscript = generatedTranscriptCache.get(currentComic.date);
+      if (cachedTranscript) {
+        beginRegeneration("browser");
+        transcript = cachedTranscript;
+        error = "";
+        isLoading = false;
+        return;
+      }
+    }
+
     beginRegeneration("browser");
 
     try {
@@ -181,12 +197,12 @@
     if (event.key === "g") {
       event.preventDefault();
       regenerateViaServer();
-    } else if (event.key === "G") {
+    } else if (event.key === "b") {
       event.preventDefault();
-      regenerateViaBrowser();
+      // regenerateViaBrowser();
     } else if (event.key === "Escape" && isOpen) {
       event.preventDefault();
-      close();
+      close(); 
     }
   }
 
@@ -216,7 +232,13 @@
             </div>
             <div class="column-content">
               {#if isLoading}
-                <div class="placeholder">Regenerating transcript...</div>
+                <div class="placeholder">
+                  Regenerating transcript
+                  {#if lastRegenerationMethod}
+                    ({lastRegenerationMethod})
+                  {/if}
+                  ...
+                </div>
               {:else if error}
                 <pre class="json-content error">{error}</pre>
               {:else if prettyJson}
@@ -233,7 +255,13 @@
             </div>
             <div class="column-content readable">
               {#if isLoading}
-                <div class="placeholder">Regenerating transcript...</div>
+                <div class="placeholder">
+                  Regenerating transcript
+                  {#if lastRegenerationMethod}
+                    ({lastRegenerationMethod})
+                  {/if}
+                  ...
+                </div>
               {:else if error}
                 <div class="placeholder error">{error}</div>
               {:else if transcript?.panels && transcript.panels.length > 0}
