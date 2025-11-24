@@ -6,12 +6,9 @@
 import { isValidComicDateRange } from "./dateUtils.js";
 
 const STORAGE_KEY = "generated-transcripts";
-const MAX_ENTRIES = 50;
-
 class GeneratedTranscriptCache {
   constructor() {
     this.cache = null;
-    this.order = null;
   }
 
   get(date) {
@@ -25,28 +22,15 @@ class GeneratedTranscriptCache {
     this.#ensureLoaded();
 
     this.cache[date] = transcript;
-    this.order = [date, ...this.order.filter((d) => d !== date)].slice(
-      0,
-      MAX_ENTRIES,
-    );
-
-    // Trim cache to max entries
-    if (this.order.length > MAX_ENTRIES) {
-      const excess = this.order.slice(MAX_ENTRIES);
-      for (const d of excess) {
-        delete this.cache[d];
-      }
-    }
 
     this.#save();
   }
 
   #ensureLoaded() {
-    if (this.cache && this.order) return;
+    if (this.cache) return;
 
     if (typeof localStorage === "undefined") {
       this.cache = {};
-      this.order = [];
       return;
     }
 
@@ -58,15 +42,12 @@ class GeneratedTranscriptCache {
           parsed && typeof parsed === "object" && !Array.isArray(parsed.cache)
             ? parsed.cache ?? {}
             : {};
-        this.order = Array.isArray(parsed?.order) ? parsed.order : [];
       } else {
         this.cache = {};
-        this.order = [];
       }
     } catch (error) {
       console.warn("Failed to load generated transcript cache:", error);
       this.cache = {};
-      this.order = [];
     }
   }
 
@@ -74,10 +55,7 @@ class GeneratedTranscriptCache {
     if (typeof localStorage === "undefined") return;
 
     try {
-      localStorage.setItem(
-        STORAGE_KEY,
-        JSON.stringify({ cache: this.cache, order: this.order }),
-      );
+      localStorage.setItem(STORAGE_KEY, JSON.stringify({ cache: this.cache }));
     } catch (error) {
       console.warn("Failed to save generated transcript cache:", error);
     }
