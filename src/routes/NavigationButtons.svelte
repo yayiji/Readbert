@@ -73,12 +73,13 @@
     height: 36px;
     background-color: var(--bg-light);
     border: 2px solid var(--border-color);
-    font-family: var(--font-serif);
-    font-size: 13px;
+    border-radius: 0px;
+    font-family: inherit;
+    font-size: 0.8rem;
     font-weight: bold;
     color: var(--text-color);
     text-transform: uppercase;
-    letter-spacing: 0.8px;
+    letter-spacing: 0.5px;
     white-space: nowrap;
     cursor: pointer;
     transition: all 0.2s ease;

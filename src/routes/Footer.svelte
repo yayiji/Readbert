@@ -12,6 +12,7 @@
     margin-top: auto;
     padding: 400px 0 var(--spacing-lg) 0;
     text-align: center;
+    color: rgba(0, 0, 0, 0.75)
   }
 
   .footer-content {
@@ -21,17 +22,18 @@
   }
 
   .copyright {
-    margin: 0 0 var(--spacing-sm) 0;
-    font-size: 16px;
+    margin-bottom: 0.2rem;
+    font-size: 1rem;
     font-weight: bold;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
   }
 
   .footer-note {
     margin: 0;
-    font-size: 14px;
+    font-size: 0.9rem;
     font-style: italic;
+    color: var(--text-muted);
   }
 
   /* ===== MOBILE RESPONSIVE STYLES ===== */
@@ -41,11 +43,11 @@
     }
 
     .copyright {
-      font-size: 15px;
+      font-size: 0.9rem;
     }
 
     .footer-note {
-      font-size: 13px;
+      font-size: 0.8rem;
     }
   }
 </style>

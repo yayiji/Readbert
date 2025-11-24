@@ -22,6 +22,13 @@
     isOpen = false;
   }
 
+  function handleTriggerKeydown(event) {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      togglePicker();
+    }
+  }
+
   function handleConfirm(event) {
     const value = event.detail?.value;
     if (value) {
@@ -42,16 +49,18 @@
 <svelte:window onclick={handleOutsideClick} onkeydown={handleKeydown} />
 
 <div class="date-picker">
-  <button
+  <div
     class="date-input"
     onclick={togglePicker}
+    onkeydown={handleTriggerKeydown}
     aria-expanded={isOpen}
     aria-label="Select date"
-    type="button"
+    role="button"
+    tabindex="0"
   >
-    <CalendarDays class="calendar-icon" size={16} />
+    <CalendarDays class="calendar-icon" size={17} />
     <span class="date-text">{formatDisplayDate(selectedDate)}</span>
-  </button>
+  </div>
 
   {#if isOpen}
     <CalendarPopup value={selectedDate} on:confirm={handleConfirm} on:cancel={closePicker} />
@@ -68,28 +77,24 @@
     color: black;
     background: transparent;
     border: none;
-    font-family: var(--font-serif);
-    font-size: 0.9rem;
+    font-family: inherit;
+    font-size: 0.85rem;
     font-weight: bold;
     cursor: pointer;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    padding: 0 0.5rem;
+    padding: 0rem 0rem;
     transition: all 0.2s ease;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 0.3rem;
+    gap: 0.2rem;
   }
 
   .date-input :global(.calendar-icon) {
-    flex-shrink: 0;
-    opacity: 0.8;
-    transition: opacity 0.2s ease;
+    opacity: 1;
     transform: translateY(-1px);
-    width: 1rem;
-    height: 1rem;
   }
 
   @media (hover: hover) and (pointer: fine) {
@@ -106,4 +111,5 @@
     outline: none;
     background-color: var(--bg-light, #f8f6f0);
   }
+
 </style>

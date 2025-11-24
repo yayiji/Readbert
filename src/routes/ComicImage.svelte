@@ -139,8 +139,8 @@
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
-    background: rgba(248, 246, 240, 0.9);
-    border: 1.5px solid rgba(139, 125, 107, 0.6);
+    background: rgba(248, 246, 240, 0.7);
+    border: 1px solid rgba(139, 125, 107, 0.6);
     border-radius: 50%;
     width: 2.5rem;
     height: 2.5rem;
@@ -166,8 +166,8 @@
 
   .bookmark-toggle:hover {
     transform: scale(1.1);
-    background: rgba(248, 246, 240, 1);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    background: rgba(248, 246, 240, 0.9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
   }
 
   .bookmark-toggle svg {

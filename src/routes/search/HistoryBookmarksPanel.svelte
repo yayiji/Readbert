@@ -85,7 +85,7 @@
 
 <style>
   .history-view {
-    font-family: var(--font-sans);
+    font-family: inherit;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0;
@@ -110,7 +110,8 @@
     color: #374151;
     margin: 0 0 0.5rem 0;
     padding: 0.5rem;
-    letter-spacing: -0.01em;
+    letter-spacing: 0px;
+    /* text-transform: uppercase; */
     text-align: center;
   }
 
@@ -141,6 +142,7 @@
 
   .history-list-btn {
     font-size: 0.9rem;
+    letter-spacing: 0.2px;
     width: auto;
     max-width: 100%;
     background: transparent;
