@@ -1,5 +1,6 @@
 <script>
   import { transcribeComicInBrowser } from "$lib/browserTranscriber.js";
+  import { generatedTranscriptCache } from "$lib/generatedTranscriptCache.js";
 
   let { currentComic = null } = $props();
 
@@ -7,14 +8,25 @@
   let transcript = $state(null);
   let isLoading = $state(false);
   let error = $state("");
-
-  const date = $derived(currentComic?.date ?? "");
+  let lastRegenerationMethod = $state(null);
 
   const prettyJson = $derived(
     transcript ? JSON.stringify(transcript, null, 2) : "",
   );
 
-  let copyStatus = $state("COPY");
+  const transcriptText = $derived.by(() => {
+    if (!transcript?.panels || transcript.panels.length === 0) return "";
+    return transcript.panels
+      .map((panel, index) => {
+        const lines = Array.isArray(panel?.dialogue) ? panel.dialogue : [];
+        if (lines.length === 0) return `(Panel ${index + 1})`;
+        return lines.join("\n");
+      })
+      .join("\n\n");
+  });
+
+  let copyJsonStatus = $state("COPY JSON");
+  let copyTextStatus = $state("COPY TEXT");
 
   function close() {
     isOpen = false;
@@ -33,28 +45,57 @@
     }
   }
 
-  async function handleCopyJson() {
-    if (!prettyJson) return;
+  function resetCopyStatuses() {
+    copyJsonStatus = "COPY JSON";
+    copyTextStatus = "COPY TEXT";
+  }
+
+  async function copyWithStatus(content, setStatus, defaultLabel) {
+    if (!content) return;
     try {
       if (typeof navigator === "undefined" || !navigator.clipboard) return;
-      await navigator.clipboard.writeText(prettyJson);
-      copyStatus = "COPIED";
+      await navigator.clipboard.writeText(content);
+      setStatus("COPIED");
       setTimeout(() => {
-        copyStatus = "COPY";
+        setStatus(defaultLabel);
       }, 1500);
     } catch (error) {
-      console.error("Failed to copy transcript JSON:", error);
+      console.error("Failed to copy transcript content:", error);
     }
   }
 
-  async function regenerateViaServer() {
-    if (!currentComic?.date || isLoading) return;
+  function handleCopyJson() {
+    copyWithStatus(prettyJson, (value) => (copyJsonStatus = value), "COPY JSON");
+  }
 
+  async function handleCopyText() {
+    copyWithStatus(transcriptText, (value) => (copyTextStatus = value), "COPY TEXT");
+  }
+
+  function beginRegeneration(method) {
+    lastRegenerationMethod = method;
     isOpen = true;
     isLoading = true;
     error = "";
     transcript = null;
-    copyStatus = "COPY";
+    resetCopyStatuses();
+  }
+
+  async function regenerateViaServer({ skipCache = false } = {}) {
+    if (!currentComic?.date || isLoading) return;
+
+    if (!skipCache) {
+      const cachedTranscript = generatedTranscriptCache.get(currentComic.date);
+      if (cachedTranscript) {
+        beginRegeneration("server");
+        transcript = cachedTranscript;
+        error = "";
+        isLoading = false;
+        return;
+      }
+    }
+
+    beginRegeneration("server");
 
     try {
       const response = await fetch("/api/regenerate-transcript", {
@@ -85,6 +126,9 @@
 
       const data = await response.json();
       transcript = data?.transcript ?? null;
+      if (transcript) {
+        generatedTranscriptCache.set(currentComic.date, transcript);
+      }
     } catch (err) {
       console.error("Error regenerating transcript (server):", err);
       error =
@@ -94,17 +138,16 @@
     }
   }
 
-  async function regenerateViaBrowser() {
+  async function regenerateViaBrowser({ skipCache = false } = {}) {
     if (!currentComic?.url || isLoading) return;
 
-    isOpen = true;
-    isLoading = true;
-    error = "";
-    transcript = null;
-    copyStatus = "COPY";
+    beginRegeneration("browser");
 
     try {
       transcript = await transcribeComicInBrowser(currentComic.url);
+      if (transcript && currentComic?.date) {
+        generatedTranscriptCache.set(currentComic.date, transcript);
+      }
     } catch (err) {
       console.error("Error regenerating transcript (browser):", err);
       error =
@@ -112,6 +155,24 @@
         "Unexpected error while regenerating transcript (browser).";
     } finally {
       isLoading = false;
+    }
+  }
+
+  function refreshTranscript() {
+    if (!currentComic || isLoading) return;
+
+    if (lastRegenerationMethod === "browser" && currentComic.url) {
+      regenerateViaBrowser({ skipCache: true });
+      return;
+    }
+
+    if (currentComic.date) {
+      regenerateViaServer({ skipCache: true });
+      return;
+    }
+
+    if (currentComic.url) {
+      regenerateViaBrowser({ skipCache: true });
     }
   }
 
@@ -129,11 +190,11 @@
     }
   }
 
-  // $effect(() => {
-  //   if (typeof document === "undefined") return;
-  //   document.addEventListener("keydown", handleGlobalKeydown);
-  //   return () => document.removeEventListener("keydown", handleGlobalKeydown);
-  // });
+  $effect(() => {
+    if (typeof document === "undefined") return;
+    document.addEventListener("keydown", handleGlobalKeydown);
+    return () => document.removeEventListener("keydown", handleGlobalKeydown);
+  });
 </script>
 
 {#if isOpen}
@@ -152,15 +213,6 @@
           <div class="column json-column">
             <div class="column-header">
               <span>JSON</span>
-              <button
-                class="copy-btn"
-                type="button"
-                onclick={handleCopyJson}
-                disabled={!prettyJson}
-                title="Copy JSON to clipboard"
-              >
-                {copyStatus}
-              </button>
             </div>
             <div class="column-content">
               {#if isLoading}
@@ -176,7 +228,9 @@
           </div>
 
           <div class="column readable-column">
-            <div class="column-header">Human</div>
+            <div class="column-header">
+              <span>Text</span>
+            </div>
             <div class="column-content readable">
               {#if isLoading}
                 <div class="placeholder">Regenerating transcript...</div>
@@ -202,6 +256,39 @@
             </div>
           </div>
         </div>
+        <div class="debug-footer">
+          <div class="footer-left">
+            <button
+              class="footer-btn copy-btn"
+              type="button"
+              onclick={handleCopyJson}
+              disabled={!prettyJson}
+              title="Copy JSON to clipboard"
+            >
+              {copyJsonStatus}
+            </button>
+            <button
+              class="footer-btn copy-btn"
+              type="button"
+              onclick={handleCopyText}
+              disabled={!transcriptText}
+              title="Copy transcript text"
+            >
+              {copyTextStatus}
+            </button>
+          </div>
+          <div class="footer-right">
+            <button
+              class="footer-btn refresh-btn"
+              type="button"
+              onclick={refreshTranscript}
+              disabled={!currentComic || isLoading}
+              title="Refetch transcript"
+            >
+              Refresh
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -221,11 +308,9 @@
 
   .debug-modal {
     background: rgba(248, 246, 240, 0.8);
-    border-radius: 16px;
-    border: 3px solid rgba(139, 125, 107, 0.5);
-    box-shadow:
-      0 20px 25px -5px rgba(0, 0, 0, 0.3),
-      0 10px 10px -5px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    border: 3px solid rgba(139, 125, 107, 0.7);
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
     max-width: 900px;
@@ -240,7 +325,7 @@
   .debug-body {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0rem;
     flex: 1;
     min-height: 0;
   }
@@ -277,19 +362,29 @@
     align-items: center;
     justify-content: space-between;
     gap: 0.5rem;
-    padding: 0.7rem 0.8rem 0.6rem;
-    font-size: 0.8rem;
+    padding: 0.5rem 0.8rem 0.4rem;
+    font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.06em;
     border-bottom: 1px solid rgba(139, 125, 107, 0.3);
   }
 
-  .copy-btn {
+  .debug-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.1rem 0.5rem 0.2rem;
+    border-top: 0.5px solid rgba(139, 125, 107, 0.3);
+    background: rgba(248, 246, 240, 0.9);
+  }
+
+  .footer-btn {
     background: transparent;
-    border: 1px solid rgba(139, 125, 107, 0.6);
+    border: 0px solid rgba(139, 125, 107, 0.6);
     border-radius: 999px;
-    padding: 0.15rem 0.6rem;
+    padding: 0.2rem 0.5rem;
     font-size: 0.7rem;
     font-weight: 500;
     text-transform: none;
@@ -299,7 +394,7 @@
     font-family: var(--font-mono);
   }
 
-  .copy-btn:disabled {
+  .footer-btn:disabled {
     opacity: 0.4;
     cursor: default;
   }
@@ -328,7 +423,7 @@
   .panels {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.8rem;
   }
 
   .panel-block {
@@ -336,7 +431,7 @@
   }
 
   .dialogue-line {
-    margin: 0.5rem 0;
+    margin: 0.3rem 0;
   }
 
   .dialogue-line.empty {
