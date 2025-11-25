@@ -199,7 +199,7 @@
       regenerateViaServer();
     } else if (event.key === "b") {
       event.preventDefault();
-      // regenerateViaBrowser();
+      regenerateViaBrowser();
     } else if (event.key === "Escape" && isOpen) {
       event.preventDefault();
       close(); 

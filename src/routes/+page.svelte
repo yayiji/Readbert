@@ -13,6 +13,7 @@
   import Header from "./Header.svelte";
   import TranscriptDebugPopup from "./TranscriptDebugPopup.svelte";
   import { page } from "$app/stores";
+  import { dev } from "$app/environment";
   
   
   // ===== STATE =====
@@ -225,7 +226,9 @@
 
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
-<TranscriptDebugPopup {currentComic} />
+{#if dev}
+  <TranscriptDebugPopup {currentComic} />
+{/if}
 
 <style>
   main {
