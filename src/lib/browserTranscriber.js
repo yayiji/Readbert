@@ -1,3 +1,5 @@
+import { TRANSCRIPTION_PROMPT } from "./prompts.js";
+
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const OPENROUTER_MODEL_NAME = "google/gemini-2.5-flash-lite";
 // const OPENROUTER_MODEL_NAME = "google/gemini-2.5-flash";
@@ -69,34 +71,6 @@ export async function transcribeComicInBrowser(imageUrl) {
     );
   }
 
-  const prompt = `
-You are transcribing a Dilbert comic strip. Please:
-1. Read all text in the comic panels from left to right, top to bottom
-2. For each panel, list the dialogue/text in the order it appears
-3. Convert ALL text to proper sentence case for better readability
-4. Don't identify who is speaking, just transcribe the text content
-5. Maintain the sequential order of speech bubbles within each panel
-6. If there's no text in a panel, indicate it as an empty dialogue array
-
-Return the result as JSON in this exact format:
-{
-  "panels": [
-    {
-      "panel": 1,
-      "dialogue": ["First speech bubble in sentence case", "Second speech bubble"]
-    },
-    {
-      "panel": 2,
-      "dialogue": ["Panel 2 text in sentence case"]
-    }
-  ]
-}
-
-Important: Convert text like "I LOVE WATCHING NBA GAMES" to "I love watching NBA games."
-
-If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}
-`;
-
   const requestBody = {
     model: OPENROUTER_MODEL_NAME,
     messages: [
@@ -105,7 +79,7 @@ If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}
         content: [
           {
             type: "text",
-            text: prompt,
+            text: TRANSCRIPTION_PROMPT,
           },
           {
             type: "image_url",
@@ -161,6 +135,10 @@ If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}
 
   if (!transcriptObj.panels || !Array.isArray(transcriptObj.panels)) {
     throw new Error("Invalid response structure: missing panels array");
+  }
+
+  if (!transcriptObj.explanation || typeof transcriptObj.explanation !== "string") {
+    throw new Error("Invalid response structure: missing or invalid explanation");
   }
 
   return transcriptObj;

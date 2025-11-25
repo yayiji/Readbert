@@ -1,6 +1,7 @@
 import { json } from "@sveltejs/kit";
 import { OPENROUTER_API_KEY } from "$env/static/private";
 import { isValidComicDate, isValidComicDateRange } from "$lib/dateUtils.js";
+import { TRANSCRIPTION_PROMPT } from "$lib/prompts.js";
 
 const API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const MODEL_NAME = "google/gemini-2.5-flash-lite";
@@ -49,34 +50,6 @@ async function getImageBase64(date, fetchFn, baseUrl) {
 async function transcribeComic(date, fetchFn, baseUrl, retryCount = 0) {
   const base64Image = await getImageBase64(date, fetchFn, baseUrl);
 
-  const prompt = `
-  You are transcribing a Dilbert comic strip. Please:
-  1. Read all text in the comic panels from left to right, top to bottom
-  2. For each panel, list the dialogue/text in the order it appears
-  3. Convert ALL text to proper sentence case for better readability
-  4. Don't identify who is speaking, just transcribe the text content
-  5. Maintain the sequential order of speech bubbles within each panel
-  6. If there's no text in a panel, indicate it as an empty dialogue array
-
-  Return the result as JSON in this exact format:
-  {
-    "panels": [
-      {
-        "panel": 1,
-        "dialogue": ["First speech bubble in sentence case", "Second speech bubble"]
-      },
-      {
-        "panel": 2,
-        "dialogue": ["Panel 2 text in sentence case"]
-      }
-    ]
-  }
-
-  Important: Convert text like "I LOVE WATCHING NBA GAMES" to "I love watching NBA games."
-
-  If there's no readable text, return: {"panels": [{"panel": 1, "dialogue": []}]}
-  `;
-
   const requestBody = {
     model: MODEL_NAME,
     messages: [
@@ -85,7 +58,7 @@ async function transcribeComic(date, fetchFn, baseUrl, retryCount = 0) {
         content: [
           {
             type: "text",
-            text: prompt,
+            text: TRANSCRIPTION_PROMPT,
           },
           {
             type: "image_url",
@@ -132,6 +105,10 @@ async function transcribeComic(date, fetchFn, baseUrl, retryCount = 0) {
 
     if (!transcript.panels || !Array.isArray(transcript.panels)) {
       throw new Error("Invalid response structure: missing panels array");
+    }
+
+    if (!transcript.explanation || typeof transcript.explanation !== "string") {
+      throw new Error("Invalid response structure: missing or invalid explanation");
     }
 
     return transcript;

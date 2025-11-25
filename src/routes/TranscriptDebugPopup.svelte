@@ -34,13 +34,27 @@
 
   const transcriptText = $derived.by(() => {
     if (!transcript?.panels?.length) return "";
-    return transcript.panels
+
+    const parts = [];
+
+    // Add explanation if it exists
+    if (transcript.explanation) {
+      parts.push(`Explanation: ${transcript.explanation}`);
+      parts.push(""); // Empty line separator
+    }
+
+    // Add panel dialogues
+    const panelText = transcript.panels
       .map((panel, index) => {
         const lines = Array.isArray(panel?.dialogue) ? panel.dialogue : [];
         if (lines.length === 0) return `(Panel ${index + 1})`;
         return lines.join("\n");
       })
       .join("\n\n");
+
+    parts.push(panelText);
+
+    return parts.join("\n");
   });
 
   // ========================================
@@ -310,6 +324,12 @@
               {:else if error}
                 <div class="placeholder error">{error}</div>
               {:else if transcript?.panels?.length > 0}
+                {#if transcript.explanation}
+                  <div class="explanation">
+                    <div class="explanation-label">Explanation:</div>
+                    <div class="explanation-text">{transcript.explanation}</div>
+                  </div>
+                {/if}
                 <div class="panels">
                   {#each transcript.panels as panel}
                     <div class="panel-block">
@@ -459,7 +479,7 @@
   .column-content {
     flex: 1;
     min-height: 0;
-    padding: 0.5rem;
+    padding: 0.8rem;
     overflow-y: auto;
     overflow-x: hidden;
   }
@@ -485,10 +505,32 @@
     font-size: 0.85rem;
   }
 
+  .explanation {
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    background: rgba(139, 125, 107, 0.1);
+    border-radius: 12px;
+  }
+
+  .explanation-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    opacity: 0.7;
+    margin-bottom: 0.3rem;
+  }
+
+  .explanation-text {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: var(--text-color);
+  }
+
   .panels {
     display: flex;
     flex-direction: column;
-    gap: 0.8rem;
+    gap: 0.6rem;
   }
 
   .panel-block {
@@ -496,7 +538,8 @@
   }
 
   .dialogue-line {
-    margin: 0.3rem 0;
+    line-height: 1.4;
+    margin: 0.2rem 0;
   }
 
   .dialogue-line.empty {
