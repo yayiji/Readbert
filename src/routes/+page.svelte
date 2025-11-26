@@ -14,12 +14,13 @@
   import TranscriptDebugPopup from "./TranscriptDebugPopup.svelte";
   import { page } from "$app/stores";
   import { dev } from "$app/environment";
-  
-  
+
   // ===== STATE =====
   let currentComic = $state(null);
   let previousComic = $state(null);
   let nextComic = $state(null);
+  let nextRandomComic = $state(null);
+
   let transcript = $state(null);
   let isLoading = $state(false);
   let selectedDate = $state("");
@@ -50,6 +51,9 @@
     if (nextComic?.url) {
       new Image().src = nextComic.url;
     }
+    if (nextRandomComic?.url) {
+      new Image().src = nextRandomComic.url;
+    }
   }
 
   // ===== COMIC LOADING =====
@@ -77,6 +81,14 @@
     } else {
       updateUrlPath(null);
     }
+
+    // async cache next random comic
+    Comic.loadRandom().then((result) => {
+      if (result?.comic) {
+        nextRandomComic = Comic.fromSerialized(result.comic);
+      }
+    });
+
   }
 
   async function loadComic(date) {
@@ -103,6 +115,13 @@
   async function getRandomComic() {
     if (isLoading) return;
 
+    // Use preloaded next random comic if available
+    if (nextRandomComic?.date) {
+      loadComic(nextRandomComic.date);
+      return;
+    }
+
+    // Fallback: load random comic without cache
     isLoading = true;
     try {
       const result = await Comic.loadRandom();
@@ -184,7 +203,6 @@
       loadComic(selectedDate);
     }
   });
-
 </script>
 
 <svelte:head>

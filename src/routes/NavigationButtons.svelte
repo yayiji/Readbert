@@ -47,7 +47,8 @@
     disabled={isLoading}
     onclick={onRandom}
   >
-    {isLoading ? "LOADING..." : "RANDOM"}
+    <!-- {isLoading ? "LOADING..." : "RANDOM"} -->
+    RANDOM
   </button>
 
   <button

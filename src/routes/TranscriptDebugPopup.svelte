@@ -596,13 +596,6 @@
      ======================================== */
 
   @media (max-width: 600px) {
-    .debug-modal {
-      max-height: 85vh;
-    }
-
-    .columns {
-      flex-direction: column;
-    }
 
     .json-column {
       display: none;
