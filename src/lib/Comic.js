@@ -10,7 +10,6 @@ import {
   getFirstComicDate,
   getLastComicDate
 } from './dateUtils.js';
-import { imageUrlIndex } from './imageUrlIndex.js';
 import { transcriptIndex } from './transcriptIndex.js';
 
 // Constants
@@ -231,12 +230,8 @@ export class Comic {
   }
 
   static #resolveImageUrl(year, date) {
-    // const urlData = imageUrlIndex.getImageUrl(date);
-    // if (urlData?.imageUrl) return urlData.imageUrl;
-
     const cdnUrl = `${CDN_BASE}/dilbert-comics/${year}/${date}.gif`;
     const localUrl = `/dilbert-comics/${year}/${date}.gif`;
-
     return cdnUrl;
   }
 

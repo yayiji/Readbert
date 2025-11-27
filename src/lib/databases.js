@@ -4,7 +4,6 @@
  */
 
 import { transcriptIndex } from './transcriptIndex.js';
-import { imageUrlIndex } from './imageUrlIndex.js';
 
 // ===== DATABASE INITIALIZATION =====
 
@@ -12,8 +11,7 @@ export async function initializeDatabases() {
   try {
     console.log("🚀 Initializing databases...");
     await Promise.all([
-      transcriptIndex.load(),
-      imageUrlIndex.load()
+      transcriptIndex.load()
     ]);
     console.log("✅ All databases ready");
   } catch (error) {
@@ -25,29 +23,19 @@ export async function initializeDatabases() {
 // ===== DATABASE ACCESS =====
 
 export { transcriptIndex } from './transcriptIndex.js';
-export { imageUrlIndex } from './imageUrlIndex.js';
 
 // ===== DATABASE UTILITIES =====
 
-export function getDatabaseStats() {
-  return {
-    transcripts: transcriptIndex.getStats(),
-    imageUrls: imageUrlIndex.getStats()
-  };
-}
-
 export async function clearAllCaches() {
   await Promise.all([
-    transcriptIndex.clearCache(),
-    imageUrlIndex.clearCache()
+    transcriptIndex.clearCache()
   ]);
   console.log("🗑️ All database caches cleared");
 }
 
 export async function refreshAllDatabases() {
   await Promise.all([
-    transcriptIndex.forceRefresh(),
-    imageUrlIndex.forceRefresh()
+    transcriptIndex.forceRefresh()
   ]);
   console.log("🔄 All databases refreshed");
 }

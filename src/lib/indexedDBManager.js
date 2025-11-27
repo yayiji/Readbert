@@ -6,8 +6,8 @@
 import { openDB } from 'idb';
 
 // Constants
-const DB_NAME = 'DilbertDB-v1';
-const DB_VERSION = 2;
+const DB_NAME = 'DilbertDB-v2';
+const DB_VERSION = 1;
 
 // Store names
 export const STORES = {
