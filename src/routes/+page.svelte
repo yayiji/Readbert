@@ -88,7 +88,6 @@
         nextRandomComic = Comic.fromSerialized(result.comic);
       }
     });
-
   }
 
   async function loadComic(date) {
@@ -182,14 +181,10 @@
       }
 
       initialized = true;
-    })();
-  });
 
-  // Initialize databases early for better performance
-  $effect(() => {
-    initializeDatabases().catch((error) => {
-      console.error("Failed to initialize databases:", error);
-    });
+      // Initialize databases early for better performance
+      initializeDatabases();
+    })();
   });
 
   // Watch for selectedDate changes (from date picker or search palette)
