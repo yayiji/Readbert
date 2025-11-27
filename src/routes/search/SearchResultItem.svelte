@@ -76,9 +76,10 @@
     text-align: left;
     width: 100%;
     font-family: var(--font-sans);
+    /* font-family: var(--font-mono2); */
     font-size: inherit;
     font-size: 0.85rem;
-    color: rgba(0, 0, 0, 0.85);
+    color: rgba(0, 0, 0, 0.8);
     height: auto;
     min-height: 180px;
     box-sizing: border-box;
@@ -131,6 +132,7 @@
   }
 
   .result-date {
+    font-weight: bold;
     font-weight: 500;
     margin-bottom: 0;
   }
@@ -162,6 +164,6 @@
     padding: 2px 4px;
     font-size: 1em;
     border-radius: 5px;
-    font-weight: 500;
+    color: rgba(0, 0, 0, 1);
   }
 </style>

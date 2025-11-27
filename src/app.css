@@ -28,16 +28,16 @@
 
 	/* Layout */
 	--max-width: 800px;
-	--shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+	--shadow: 0 0px 8px rgba(0, 0, 0, 0.1);
 	--navbar-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
-	--border-radius: 6px;
+	--border-radius: 8px;
 
 	/* Typography */
 	/* --font-serif: "New York", "Times New Roman", Times, serif; */
 	--font-serif: "Times New Roman", Times, serif;
 	--font-pixel: 'Departure Mono';
 	--font-mono: "Courier New", monospace;
-	--font-mono2: 'JetBrains Mono Variable', "Courier New", monospace;
+	--font-mono2: 'JetBrains Mono Variable',"SF Mono", "Courier New", monospace;
 	--font-sans: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
 	--font-sans-lato: "Lato", Arial, sans-serif;
 	--font-sans-arial: Arial, sans-serif;
