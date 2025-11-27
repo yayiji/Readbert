@@ -3,7 +3,7 @@
   import { initializeDatabases } from "$lib/databases.js";
   import { Comic } from "$lib/Comic.js";
   import { visitedHistory } from "$lib/visitedHistory.js";
-  import DatePicker from "./DatePicker.svelte";
+  import DatePicker from "./picker/DatePicker.svelte";
   import CommandPaletteSearch from "./search/CommandPaletteSearch.svelte";
   import TranscriptPanel from "./TranscriptPanel.svelte";
   import ComicImage from "./ComicImage.svelte";
