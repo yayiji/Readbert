@@ -37,7 +37,7 @@
 	--font-serif: "Times New Roman", Times, serif;
 	--font-pixel: 'Departure Mono';
 	--font-mono: "Courier New", monospace;
-	--font-mono2: 'JetBrains Mono Variable',"Courier New", monospace;
+	--font-mono2: 'JetBrains Mono Variable', "Courier New", monospace;
 	--font-sans: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
 	--font-sans-lato: "Lato", Arial, sans-serif;
 	--font-sans-arial: Arial, sans-serif;
@@ -45,8 +45,14 @@
 		Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 	/* Spacing */
-	--spacing-xs: 4px;
-	--spacing-sm: 8px;
+	--spacing-1: 4px;
+	--spacing-2: 8px;
+	--spacing-3: 12px;
+	--spacing-4: 16px;
+	--spacing-5: 20px;
+	--spacing-6: 24px;
+	--spacing-xs: 8px;
+	--spacing-sm: 12px;
 	--spacing-md: 16px;
 	--spacing-lg: 20px;
 	--spacing-xl: 24px;

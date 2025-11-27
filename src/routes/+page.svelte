@@ -207,6 +207,8 @@
 
 <svelte:head>
   <title>DILBERT COMICS</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
 </svelte:head>
 
 <Navbar onSearchClick={openSearch} />
@@ -270,7 +272,7 @@
 
   @media (max-width: 600px) {
     main {
-      padding: 60px var(--spacing-sm) 0;
+      padding: 60px var(--spacing-2) 0;
     }
   }
 </style>

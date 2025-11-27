@@ -71,14 +71,14 @@
 
   .nav-buttons {
     display: flex;
-    gap: var(--spacing-md);
+    gap: var(--spacing-1);
   }
 
   .search-btn {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: var(--spacing-sm);
+    padding: var(--spacing-2);
     background: transparent;
     border: none;
     border-radius: var(--border-radius);

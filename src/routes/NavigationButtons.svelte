@@ -118,7 +118,7 @@
   /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .navigation {
-      gap: var(--spacing-sm);
+      gap: var(--spacing-2);
       flex-wrap: wrap;
     }
   }

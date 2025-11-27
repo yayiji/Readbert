@@ -7,7 +7,7 @@
 
 <style>
   .header {
-    margin: 2.5rem auto 2.7rem;
+    margin: 2.5rem auto 2.6rem;
     text-align: center;
     max-width: var(--max-width);
   }

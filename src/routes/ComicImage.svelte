@@ -162,7 +162,7 @@
   }
 
   .bookmark-toggle:hover {
-    transform: scale(1.1);
+    /* transform: scale(1.1); */
     background: rgba(248, 246, 240, 0.9);
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
   }
