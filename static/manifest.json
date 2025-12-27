@@ -1,12 +1,26 @@
 {
-  "name": "VS-Dilbert",
-  "short_name": "VS-Dilbert",
-  "description": "A web application to browse the classic Dilbert comic strips, complete with AI-powered transcriptions. Featuring Dogbert, the evil genius!",
+  "name": "Readbert",
+  "short_name": "Readbert",
+  "description": "Browse the complete Dilbert archive (1989-2023) with AI-powered transcripts.",
+  "id": "/",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#f5f4f0",
-  "theme_color": "#333333",
+  "lang": "en",
+  "dir": "ltr",
+  "background_color": "#f5f6ee",
+  "theme_color": "#6d5f4d",
+  "categories": [
+    "entertainment",
+    "books",
+    "education"
+  ],
   "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
     {
       "src": "/favicon-192.png",
       "sizes": "192x192",
