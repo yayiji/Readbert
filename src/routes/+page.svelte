@@ -201,7 +201,7 @@
 </script>
 
 <svelte:head>
-  <title>DILBERT COMICS</title>
+  <title>Dilbert Comics</title>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" />
   <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
 </svelte:head>
