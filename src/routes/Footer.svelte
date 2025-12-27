@@ -29,7 +29,7 @@
     margin-top: auto;
     padding: 400px 0 var(--spacing-lg) 0;
     text-align: center;
-    color: rgba(0, 0, 0, 0.75)
+    color: rgba(0, 0, 0, 0.75);
   }
 
   .footer-icons {
@@ -40,16 +40,14 @@
   }
 
   .footer-icon-link {
-    width: 34px;
-    height: 34px;
+    width: 2rem;
+    height: 2rem;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     border-radius: 999px;
     border: 1px solid rgba(139, 125, 107, 0.35);
     background: transparent;
-    color: inherit;
-    transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
   }
 
   .footer-icon {
@@ -65,7 +63,7 @@
   }
 
   .copyright {
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.5rem;
     font-size: 1rem;
     font-weight: bold;
     text-transform: uppercase;
