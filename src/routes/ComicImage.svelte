@@ -1,4 +1,5 @@
 <script>
+  import { dev } from "$app/environment";
   import { bookmarks } from "$lib/bookmarks.js";
 
   let {
@@ -33,7 +34,7 @@
   }
 
   function handleShortcutKeydown(event) {
-    if (shortcutsDisabled || shouldIgnoreShortcut(event.target)) return;
+    if (!dev || shortcutsDisabled || shouldIgnoreShortcut(event.target)) return;
     if (event.key === "w") {
       event.preventDefault();
       openDilbertAsset("gif");
