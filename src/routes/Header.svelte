@@ -1,13 +1,13 @@
 <header class="header">
   <h1 class="title">Dilbert Comics Reader</h1>
   <p class="subtitle">
-    The Complete Collection of Scott Adams' Dilbert Comics
+    The Complete Collection of Scott Adams' Dilbert Comics (1989 - 2023)
   </p>
 </header>
 
 <style>
   .header {
-    margin: 2.5rem auto 2.6rem;
+    margin: 3rem auto 3.1rem;
     text-align: center;
     max-width: var(--max-width);
   }
