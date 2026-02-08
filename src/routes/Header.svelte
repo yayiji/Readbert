@@ -1,7 +1,7 @@
 <header class="header">
   <h1 class="title">Dilbert Comics Reader</h1>
   <p class="subtitle">
-    The Complete Collection of Scott Adams' Dilbert Comics (1989 - 2023)
+    Scott Adams' Dilbert Comics (1989 - 2023)
   </p>
 </header>
 
