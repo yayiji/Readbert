@@ -2,6 +2,8 @@
 
 A web app for browsing the complete Dilbert comic strip archive (1989–2023) with AI-powered transcriptions, full-text search, and bookmarks.
 
+![VS-Dilbert Screenshot](image/dilbert-20230223.png)
+
 ## Features
 
 - **Full Archive** — Browse all 13,000+ strips from April 16, 1989 to March 12, 2023
