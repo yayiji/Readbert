@@ -11,6 +11,8 @@
   } = $props();
 
   let isBookmarked = $state(false);
+  let isTouchBookmarkVisible = $state(false);
+  let touchBookmarkTimer;
 
   const DILBERT_ALL_BASE =
     "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
@@ -50,10 +52,27 @@
     isBookmarked = newState;
   }
 
-  function updateBookmarkState() {
-    if (currentComic?.date) {
-      isBookmarked = bookmarks.isBookmarked(currentComic.date);
+  function clearTouchBookmarkTimer() {
+    if (touchBookmarkTimer) {
+      clearTimeout(touchBookmarkTimer);
+      touchBookmarkTimer = undefined;
     }
+  }
+
+  function showTouchBookmark() {
+    isTouchBookmarkVisible = true;
+    clearTouchBookmarkTimer();
+    touchBookmarkTimer = setTimeout(() => {
+      isTouchBookmarkVisible = false;
+      touchBookmarkTimer = undefined;
+    }, 2000);
+  }
+
+  function handleComicPointerDown(event) {
+    if (event.pointerType === "mouse") return;
+    if (!window.matchMedia("(max-width: 600px)").matches) return;
+
+    showTouchBookmark();
   }
 
   $effect(() => {
@@ -63,12 +82,20 @@
   });
 
   $effect(() => {
-    updateBookmarkState();
+    if (currentComic?.date) {
+      isBookmarked = bookmarks.isBookmarked(currentComic.date);
+    } else {
+      isBookmarked = false;
+    }
+
+    isTouchBookmarkVisible = false;
+    clearTouchBookmarkTimer();
+    return () => clearTouchBookmarkTimer();
   });
 </script>
 
 <div class="comic-container-wrapper">
-  <div class="comic-container">
+  <div class="comic-container" class:touch-bookmark-visible={isTouchBookmarkVisible}>
     <button
       class="bookmark-toggle"
       type="button"
@@ -93,6 +120,7 @@
       class="comic-image"
       class:loading={isLoading}
       onload={onImageLoad}
+      onpointerdown={handleComicPointerDown}
     />
 
     <div class="comic-actions" role="menu" aria-hidden="true">
@@ -239,9 +267,25 @@
     .comic-container {
       padding: 0.5rem;
     }
-    .comic-actions,
-    .bookmark-toggle {
+
+    .comic-actions {
       display: none;
+    }
+
+    .bookmark-toggle {
+      display: flex;
+    }
+
+    .comic-container:hover .bookmark-toggle {
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+    }
+
+    .comic-container.touch-bookmark-visible .bookmark-toggle {
+      opacity: 1;
+      visibility: visible;
+      pointer-events: auto;
     }
   }
 </style>
