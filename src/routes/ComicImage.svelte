@@ -65,7 +65,7 @@
     touchBookmarkTimer = setTimeout(() => {
       isTouchBookmarkVisible = false;
       touchBookmarkTimer = undefined;
-    }, 2000);
+    }, 1000);
   }
 
   function handleComicPointerDown(event) {
