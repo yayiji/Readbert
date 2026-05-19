@@ -70,6 +70,7 @@
 
   function handleComicPointerDown(event) {
     if (event.pointerType === "mouse") return;
+    if (typeof window === "undefined") return;
     if (!window.matchMedia("(max-width: 600px)").matches) return;
 
     showTouchBookmark();
@@ -100,6 +101,7 @@
       class="bookmark-toggle"
       type="button"
       onclick={handleToggleBookmark}
+      onpointerdown={handleComicPointerDown}
       aria-label={isBookmarked ? "Remove bookmark" : "Add bookmark"}
     >
       <svg
