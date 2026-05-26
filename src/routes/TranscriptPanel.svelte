@@ -29,7 +29,7 @@
 <style>
   /* ===== TRANSCRIPT STYLES ===== */
   .transcript-container {
-    margin: 10px auto 0;
+    margin: 1rem auto 0;
     max-width: 550px;
     width: 100%;
     padding: 0 var(--spacing-lg);
