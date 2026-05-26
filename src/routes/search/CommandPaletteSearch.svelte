@@ -120,25 +120,49 @@
   }
 
   // Keyboard navigation
+  function isCommandK(event) {
+    return event.metaKey && event.key.toLowerCase() === "k";
+  }
+
   function handleGlobalKeydown(event) {
-    if (event.metaKey && event.key === "k") {
+    if (isCommandK(event)) {
       event.preventDefault();
+      event.stopPropagation();
       isOpen = !isOpen;
       if (isOpen) setTimeout(() => searchInput?.focus(), 10);
+      return;
     }
-    if (event.key === "Escape") closeModal();
+
+    if (!isOpen) return;
+
+    event.stopPropagation();
+
+    if (event.key === "Escape") {
+      event.preventDefault();
+      closeModal();
+    }
   }
 
   function handleResultsKeydown(event) {
+    if (!isOpen) return;
+
+    event.stopPropagation();
+
     // Close on Cmd+K
-    if (event.metaKey && event.key === "k") {
+    if (isCommandK(event)) {
+      event.preventDefault();
+      closeModal();
+      return;
+    }
+
+    if (event.key === "Escape") {
       event.preventDefault();
       closeModal();
       return;
     }
 
     // Only handle arrow keys when we have results
-    if (!isOpen || !hasResults) return;
+    if (!hasResults) return;
 
     const columnsPerRow = getColumnsPerRow();
 

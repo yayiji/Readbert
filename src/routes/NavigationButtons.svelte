@@ -5,14 +5,27 @@
     isLoading = false,
     onPrevious = () => {},
     onNext = () => {},
-    onRandom = () => {}
+    onRandom = () => {},
+    shortcutsDisabled = false
   } = $props();
+
+  function shouldIgnoreShortcut(target) {
+    if (!target) return false;
+
+    const tagName = target.tagName;
+    return (
+      tagName === 'INPUT' ||
+      tagName === 'TEXTAREA' ||
+      tagName === 'SELECT' ||
+      target?.isContentEditable ||
+      target?.closest?.("input, textarea, select, [contenteditable='true']")
+    );
+  }
 
   // Keyboard shortcuts
   $effect(() => {
     function handleKeydown(event) {
-      // Ignore if user is typing in an input field
-      if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') {
+      if (shortcutsDisabled || shouldIgnoreShortcut(event.target)) {
         return;
       }
 

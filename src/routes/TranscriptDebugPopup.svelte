@@ -6,7 +6,7 @@
   // Props
   // ========================================
 
-  let { currentComic = null } = $props();
+  let { currentComic = null, shortcutsDisabled = false } = $props();
 
   // ========================================
   // State
@@ -232,7 +232,7 @@
   }
 
   function handleGlobalKeydown(event) {
-    if (!currentComic) return;
+    if (!currentComic || shortcutsDisabled) return;
 
     if (event.key === "g") {
       event.preventDefault();

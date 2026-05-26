@@ -220,6 +220,7 @@
         onPrevious={goToPrevious}
         onNext={goToNext}
         onRandom={getRandomComic}
+        shortcutsDisabled={isCommandPaletteOpen}
       />
 
       <DatePicker bind:selectedDate />
@@ -242,7 +243,7 @@
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
 {#if dev}
-  <TranscriptDebugPopup {currentComic} />
+  <TranscriptDebugPopup {currentComic} shortcutsDisabled={isCommandPaletteOpen} />
 {/if}
 
 <style>
