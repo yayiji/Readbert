@@ -103,9 +103,12 @@
 
   function selectYear(year) {
     if (year < MIN_YEAR || year > MAX_YEAR) return;
-    if (year === currentYear) return;
-    currentYear = year;
-    clearTempSelection();
+    centerYear(year, "smooth");
+
+    if (year !== currentYear) {
+      currentYear = year;
+      clearTempSelection();
+    }
   }
 
   function selectMonth(monthIndex) {
@@ -113,10 +116,10 @@
     clearTempSelection();
   }
 
-  function centerYearOnce() {
-    if (didInitialYearJump || !yearScroller) return;
+  function centerYear(year, behavior = "auto") {
+    if (!yearScroller) return;
 
-    const yearButton = yearScroller.querySelector(`[data-year="${currentYear}"]`);
+    const yearButton = yearScroller.querySelector(`[data-year="${year}"]`);
     if (!yearButton) return;
 
     const scrollerRect = yearScroller.getBoundingClientRect();
@@ -124,7 +127,16 @@
     const buttonCenter =
       buttonRect.left - scrollerRect.left + yearScroller.scrollLeft + buttonRect.width / 2;
 
-    yearScroller.scrollLeft = buttonCenter - yearScroller.clientWidth / 2;
+    yearScroller.scrollTo({
+      left: buttonCenter - yearScroller.clientWidth / 2,
+      behavior,
+    });
+  }
+
+  function centerYearOnce() {
+    if (didInitialYearJump) return;
+
+    centerYear(currentYear);
     didInitialYearJump = true;
   }
 
