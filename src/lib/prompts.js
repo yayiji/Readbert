@@ -13,7 +13,9 @@ You are transcribing a Dilbert comic strip. Please:
 4. Don't identify who is speaking, just transcribe the text content
 5. Maintain the sequential order of speech bubbles within each panel
 6. If there's no text in a panel, indicate it as an empty dialogue array
-7. Provide a brief and clever explanation of what's happening in the comic (the joke, context, or story)
+7. Provide a clear explanation of what's happening in the comic (the joke, context, or story)
+8. Orginize the explanation into two short paragraphs: one for the comic's context and setup, and another for the punchline or joke.
+9. Start a new line for each sentence in the explanation for readability.
 
 Return the result as JSON in this exact format:
 {

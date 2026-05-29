@@ -1,7 +1,8 @@
 import { TRANSCRIPTION_PROMPT } from "./prompts.js";
 
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const OPENROUTER_MODEL_NAME = "google/gemini-2.5-flash-lite";
+const MODEL_NAME = "google/gemini-3.1-flash-lite";
+// const MODEL_NAME = "google/gemini-2.5-flash-lite";
 // const OPENROUTER_MODEL_NAME = "google/gemini-2.5-flash";
 
 function cleanJsonResponse(text) {

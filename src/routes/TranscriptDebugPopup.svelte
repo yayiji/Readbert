@@ -525,6 +525,8 @@
     font-size: 0.85rem;
     line-height: 1.6;
     color: var(--text-color);
+    white-space: pre-line;
+    overflow-wrap: anywhere;
   }
 
   .panels {

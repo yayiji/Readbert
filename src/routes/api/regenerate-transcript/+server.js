@@ -4,7 +4,8 @@ import { isValidComicDate, isValidComicDateRange } from "$lib/dateUtils.js";
 import { TRANSCRIPTION_PROMPT } from "$lib/prompts.js";
 
 const API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const MODEL_NAME = "google/gemini-2.5-flash-lite";
+const MODEL_NAME = "google/gemini-3.1-flash-lite";
+// const MODEL_NAME = "google/gemini-2.5-flash-lite";
 const RATE_LIMIT_DELAY = 2000;
 const MAX_RETRIES = 3;
 
