@@ -283,7 +283,7 @@
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     margin-top: 0px;
-    padding: 25px 25px 25px;
+    padding: 1.5rem 1.5rem;
   }
 
   .year-btn,
@@ -304,8 +304,8 @@
   .year-selection {
     position: relative;
     --carousel-width: 290px;
-    --year-width: 64px;
-    --year-gap: 10px;
+    --year-width: 4rem;
+    --year-gap: 0.5rem;
     width: var(--carousel-width);
     margin-bottom: 16px;
     isolation: isolate;
@@ -349,7 +349,7 @@
     overscroll-behavior-x: contain;
     scroll-padding-inline: calc((var(--carousel-width) - var(--year-width)) / 2);
     scrollbar-width: none;
-    padding: 0 calc((var(--carousel-width) - var(--year-width)) / 2) 6px;
+    padding: 0.3rem calc((var(--carousel-width) - var(--year-width)) / 2) 0.4rem;
     touch-action: pan-x;
     -webkit-overflow-scrolling: touch;
   }
@@ -361,11 +361,11 @@
   .year-btn {
     flex: 0 0 auto;
     width: var(--year-width);
-    height: 36px;
+    height: 2.2rem;
     padding: 0;
-    font-size: 15px;
+    font-size: 0.95rem;
     font-weight: 600;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.2px;
   }
 
   .year-btn.selected {
