@@ -5,14 +5,12 @@
 
   const MIN_DATE = "1989-04-16";
   const MAX_DATE = "2023-03-12";
-
-  const dispatch = createEventDispatcher();
-
-  let currentYear = $state(new Date().getFullYear());
-  let currentMonth = $state(new Date().getMonth());
-  let tempValue = $state("");
-
-  const monthAbbrevs = [
+  const MIN_YEAR = 1989;
+  const MAX_YEAR = 2023;
+  const minDate = new Date(`${MIN_DATE}T00:00:00`);
+  const maxDate = new Date(`${MAX_DATE}T23:59:59`);
+  const weekdays = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];
+  const months = [
     "JAN",
     "FEB",
     "MAR",
@@ -25,29 +23,55 @@
     "OCT",
     "NOV",
     "DEC",
-  ];
+  ].map((label, index) => ({ label, index }));
+  const monthRows = [months.slice(0, 6), months.slice(6)];
+  const years = Array.from(
+    { length: MAX_YEAR - MIN_YEAR + 1 },
+    (_, index) => MIN_YEAR + index,
+  );
 
-  const minDate = $derived(new Date(`${MIN_DATE}T00:00:00`));
-  const maxDate = $derived(new Date(`${MAX_DATE}T23:59:59`));
+  const dispatch = createEventDispatcher();
 
-  $effect(() => {
-    if (value) {
-      const [year, month] = value.split("-");
-      currentYear = parseInt(year);
-      currentMonth = parseInt(month) - 1;
-    } else {
-      const today = new Date();
-      const targetDate = today >= minDate && today <= maxDate ? today : minDate;
-      currentYear = targetDate.getFullYear();
-      currentMonth = targetDate.getMonth();
+  let currentYear = $state(MIN_YEAR);
+  let currentMonth = $state(minDate.getMonth());
+  let tempValue = $state("");
+  let yearScroller = $state();
+  let didInitialYearJump = false;
+
+  const selectedDate = $derived(tempValue || value);
+  const leadingBlankDays = $derived(
+    Array.from({ length: getFirstDayOfMonth(currentYear, currentMonth) }),
+  );
+  const visibleDays = $derived(
+    Array.from(
+      { length: getDaysInMonth(currentYear, currentMonth) },
+      (_, index) => index + 1,
+    ),
+  );
+
+  function getViewDate(dateString) {
+    if (dateString) {
+      const [year, month] = dateString.split("-").map(Number);
+      return new Date(year, month - 1, 1);
     }
-    tempValue = "";
-  });
 
-  const getDaysInMonth = (year, month) => new Date(year, month + 1, 0).getDate();
-  const getFirstDayOfMonth = (year, month) => new Date(year, month, 1).getDay();
-  const formatDateString = (year, month, day) =>
-    `${year}-${(month + 1).toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
+    const today = new Date();
+    return today >= minDate && today <= maxDate ? today : minDate;
+  }
+
+  function getDaysInMonth(year, month) {
+    return new Date(year, month + 1, 0).getDate();
+  }
+
+  function getFirstDayOfMonth(year, month) {
+    return new Date(year, month, 1).getDay();
+  }
+
+  function formatDateString(year, month, day) {
+    return `${year}-${(month + 1).toString().padStart(2, "0")}-${day
+      .toString()
+      .padStart(2, "0")}`;
+  }
 
   function isDateInRange(year, month, day) {
     const dateStr = formatDateString(year, month, day);
@@ -56,7 +80,7 @@
 
   function isSelectedDate(year, month, day) {
     const dateStr = formatDateString(year, month, day);
-    return tempValue ? tempValue === dateStr : value === dateStr;
+    return selectedDate === dateStr;
   }
 
   function selectDate(day) {
@@ -77,13 +101,10 @@
     tempValue = "";
   }
 
-  function previousYear() {
-    currentYear--;
-    clearTempSelection();
-  }
-
-  function nextYear() {
-    currentYear++;
+  function selectYear(year) {
+    if (year < MIN_YEAR || year > MAX_YEAR) return;
+    if (year === currentYear) return;
+    currentYear = year;
     clearTempSelection();
   }
 
@@ -92,48 +113,96 @@
     clearTempSelection();
   }
 
-  const canGoToPreviousYear = () => currentYear > minDate.getFullYear();
-  const canGoToNextYear = () => currentYear < maxDate.getFullYear();
+  function centerYearOnce() {
+    if (didInitialYearJump || !yearScroller) return;
+
+    const yearButton = yearScroller.querySelector(`[data-year="${currentYear}"]`);
+    if (!yearButton) return;
+
+    const scrollerRect = yearScroller.getBoundingClientRect();
+    const buttonRect = yearButton.getBoundingClientRect();
+    const buttonCenter =
+      buttonRect.left - scrollerRect.left + yearScroller.scrollLeft + buttonRect.width / 2;
+
+    yearScroller.scrollLeft = buttonCenter - yearScroller.clientWidth / 2;
+    didInitialYearJump = true;
+  }
+
+  function handleYearWheel(event) {
+    if (!yearScroller) return;
+
+    if (Math.abs(event.deltaX) >= Math.abs(event.deltaY)) {
+      return;
+    }
+
+    const rawDelta = event.deltaY;
+    if (!rawDelta) return;
+
+    const unit = event.deltaMode === 1
+      ? 16
+      : event.deltaMode === 2
+        ? yearScroller.clientWidth
+        : 1;
+
+    event.preventDefault();
+    yearScroller.scrollLeft += rawDelta * unit;
+  }
+
+  $effect(() => {
+    const viewDate = getViewDate(value);
+    currentYear = viewDate.getFullYear();
+    currentMonth = viewDate.getMonth();
+    tempValue = "";
+  });
+
+  $effect(() => {
+    if (!yearScroller) return;
+    const timer = setTimeout(centerYearOnce, 0);
+    return () => clearTimeout(timer);
+  });
+
+  $effect(() => {
+    if (!yearScroller) return;
+    yearScroller.addEventListener("wheel", handleYearWheel, { passive: false });
+    return () => yearScroller.removeEventListener("wheel", handleYearWheel);
+  });
 </script>
 
 <div class="calendar-popup">
-  <div class="calendar-header">
-
-    <button
-      class="nav-btn"
-      onclick={previousYear}
-      disabled={!canGoToPreviousYear()}
-      title="Previous Year"
-      type="button"
+  <div class="year-selection" aria-label="Select year">
+    <div
+      class="year-scroller"
+      bind:this={yearScroller}
+      role="listbox"
+      aria-label="Year carousel"
     >
-      ◄
-    </button>
-    <h3 class="month-year">
-      {currentYear}
-    </h3>
-    <button
-      class="nav-btn"
-      onclick={nextYear}
-      disabled={!canGoToNextYear()}
-      title="Next Year"
-      type="button"
-    >
-      ►
-    </button>
+      {#each years as year}
+        <button
+          class="year-btn"
+          class:selected={year === currentYear}
+          data-year={year}
+          onclick={() => selectYear(year)}
+          type="button"
+          role="option"
+          aria-selected={year === currentYear}
+        >
+          {year}
+        </button>
+      {/each}
+    </div>
   </div>
 
   <div class="month-selection">
-    {#each [0, 1] as rowIndex}
+    {#each monthRows as monthRow}
       <div class="month-row">
-        {#each Array(6) as _, colIndex}
-          {@const monthIndex = rowIndex * 6 + colIndex}
+        {#each monthRow as month}
           <button
             class="month-btn"
-            class:selected={monthIndex === currentMonth}
-            onclick={() => selectMonth(monthIndex)}
+            class:selected={month.index === currentMonth}
+            onclick={() => selectMonth(month.index)}
             type="button"
           >
-            {monthAbbrevs[monthIndex]}
+            {month.label}
           </button>
         {/each}
       </div>
@@ -142,22 +211,17 @@
 
   <div class="calendar-grid">
     <div class="weekday-headers">
-      <div class="weekday">Su</div>
-      <div class="weekday">Mo</div>
-      <div class="weekday">Tu</div>
-      <div class="weekday">We</div>
-      <div class="weekday">Th</div>
-      <div class="weekday">Fr</div>
-      <div class="weekday">Sa</div>
+      {#each weekdays as weekday}
+        <div class="weekday">{weekday}</div>
+      {/each}
     </div>
 
     <div class="days-grid">
-      {#each Array(getFirstDayOfMonth(currentYear, currentMonth)) as _}
+      {#each leadingBlankDays as _}
         <div class="day empty"></div>
       {/each}
 
-      {#each Array(getDaysInMonth(currentYear, currentMonth)) as _, i}
-        {@const day = i + 1}
+      {#each visibleDays as day}
         {@const inRange = isDateInRange(currentYear, currentMonth, day)}
         {@const selected = isSelectedDate(currentYear, currentMonth, day)}
         <button
@@ -210,14 +274,7 @@
     padding: 25px 25px 25px;
   }
 
-  .calendar-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 16px;
-  }
-
-  .nav-btn,
+  .year-btn,
   .month-btn,
   .day,
   .action-btn {
@@ -232,19 +289,79 @@
     justify-content: center;
   }
 
-  .nav-btn {
-    font-size: 16px;
-    width: 36px;
-    height: 36px;
-    color: var(--text-color);
-    -webkit-appearance: none;
-    appearance: none;
-    border-radius: 0;
+  .year-selection {
+    position: relative;
+    --carousel-width: 290px;
+    --year-width: 64px;
+    --year-gap: 10px;
+    width: var(--carousel-width);
+    margin-bottom: 16px;
+    isolation: isolate;
   }
 
-  .nav-btn:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
+  .year-selection::before,
+  .year-selection::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 28px;
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  .year-selection::before {
+    left: 0;
+    background: linear-gradient(
+      90deg,
+      rgba(248, 246, 240, 0.95),
+      rgba(248, 246, 240, 0)
+    );
+  }
+
+  .year-selection::after {
+    right: 0;
+    background: linear-gradient(
+      270deg,
+      rgba(248, 246, 240, 0.95),
+      rgba(248, 246, 240, 0)
+    );
+  }
+
+  .year-scroller {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    gap: var(--year-gap);
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-padding-inline: calc((var(--carousel-width) - var(--year-width)) / 2);
+    scrollbar-width: none;
+    padding: 0 calc((var(--carousel-width) - var(--year-width)) / 2) 6px;
+    touch-action: pan-x;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .year-scroller::-webkit-scrollbar {
+    display: none;
+  }
+
+  .year-btn {
+    flex: 0 0 auto;
+    width: var(--year-width);
+    height: 36px;
+    padding: 0;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+
+  .year-btn.selected {
+    background: var(--accent-color, #6d5f4d);
+    color: white;
+    font-weight: bold;
+    border-color: var(--accent-color, #6d5f4d);
+    z-index: 2;
   }
 
   .month-selection {
@@ -290,14 +407,6 @@
     color: white;
     font-weight: bold;
     border-color: var(--accent-color, #6d5f4d);
-  }
-
-  .month-year {
-    margin: 0;
-    font-size: 17px;
-    font-weight: bold;
-    color: var(--text-color);
-    font-family: var(--font-mono, "Courier New", "Courier", monospace);
   }
 
   .calendar-grid {
@@ -391,7 +500,7 @@
   }
 
   @media (hover: hover) and (pointer: fine) {
-    .nav-btn:hover:not(:disabled),
+    .year-btn:hover:not(.selected),
     .month-btn:hover,
     .day:hover:not(.disabled):not(.empty),
     .action-btn:hover:not(:disabled) {
