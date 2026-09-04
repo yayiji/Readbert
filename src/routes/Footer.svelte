@@ -48,7 +48,6 @@
   .footer {
     margin-top: 300px;
     padding: 1.5rem 0 2rem;
-    border-top: 1px solid rgba(139, 125, 107, 0.22);
   }
 
   .footer-inner {
