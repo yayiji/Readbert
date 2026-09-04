@@ -208,37 +208,39 @@
 
 <Navbar onSearchClick={openSearch} />
 
-<main>
-  <Header />
+<div class="page-body">
+  <main>
+    <Header />
 
-  {#if hasValidComic}
-    <section class="comic-section">
-      <NavigationButtons
-        {previousComic}
-        {nextComic}
-        {isLoading}
-        onPrevious={goToPrevious}
-        onNext={goToNext}
-        onRandom={getRandomComic}
-        shortcutsDisabled={isCommandPaletteOpen}
-      />
+    {#if hasValidComic}
+      <section class="comic-section">
+        <NavigationButtons
+          {previousComic}
+          {nextComic}
+          {isLoading}
+          onPrevious={goToPrevious}
+          onNext={goToNext}
+          onRandom={getRandomComic}
+          shortcutsDisabled={isCommandPaletteOpen}
+        />
 
-      <DatePicker bind:selectedDate />
+        <DatePicker bind:selectedDate />
 
-      <ComicImage
-        {currentComic}
-        {isLoading}
-        onImageLoad={handleImageLoad}
-        onSelectDate={(date) => (selectedDate = date)}
-        shortcutsDisabled={isCommandPaletteOpen}
-      />
+        <ComicImage
+          {currentComic}
+          {isLoading}
+          onImageLoad={handleImageLoad}
+          onSelectDate={(date) => (selectedDate = date)}
+          shortcutsDisabled={isCommandPaletteOpen}
+        />
 
-      <TranscriptPanel {transcript} />
-    </section>
-  {/if}
-</main>
+        <TranscriptPanel {transcript} />
+      </section>
+    {/if}
+  </main>
 
-<Footer />
+  <Footer />
+</div>
 
 <CommandPaletteSearch bind:isOpen={isCommandPaletteOpen} bind:selectedDate />
 
@@ -247,12 +249,17 @@
 {/if}
 
 <style>
-  main {
-    width: 100%;
+  .page-body {
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+    width: 100%;
     margin: 0;
     padding: 60px var(--spacing-lg) 0;
-    /* font-family: var(--font-serif); */
     background-color: var(--bg-main);
     color: var(--text-color);
     box-sizing: border-box;
