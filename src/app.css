@@ -58,7 +58,7 @@
 	--color-border-heavy: color-mix(in srgb, var(--color-border) 70%, transparent);
 	--color-accent-subtle: color-mix(in srgb, var(--color-accent) 10%, transparent);
 	--color-overlay: color-mix(in srgb, var(--color-text) 10%, transparent);
-	--color-overlay-medium: color-mix(in srgb, var(--color-text) 18%, transparent);
+	--color-overlay-medium: color-mix(in srgb, var(--color-text) 20%, transparent);
 	--color-shadow: color-mix(in srgb, var(--color-text) 20%, transparent);
 	--color-text-overlay: color-mix(in srgb, var(--color-text) 80%, transparent);
 
