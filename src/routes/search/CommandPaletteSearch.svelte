@@ -301,7 +301,7 @@
   .backdrop {
     position: fixed;
     inset: 0;
-    background: rgba(0, 0, 0, 0.1);
+    background: var(--color-ink-10);
     z-index: 1000;
     display: flex;
     align-items: flex-start;
@@ -320,10 +320,10 @@
   }
 
   .palette {
-    background: rgba(248, 246, 240, 0.8);
+    background: var(--color-glass-80);
     border-radius: 18px;
-    border: 3px solid rgba(139, 125, 107, 0.4);
-    box-shadow:0 0px 25px rgba(0, 0, 0, 0.2);
+    border: 3px solid var(--color-border-40);
+    box-shadow: 0 0px 25px var(--color-ink-20);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     max-width: 800px;
@@ -373,13 +373,13 @@
   .message-title {
     font-size: 1.6rem;
     font-weight: bold;
-    color: #374151;
+    color: var(--color-ink-heading);
     margin-bottom: 0.5rem;
   }
 
   .message-subtitle {
     font-size: 1rem;
-    color: #6b7280;
+    color: var(--color-ink-muted);
   }
 
   /* Responsive */

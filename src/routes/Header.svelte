@@ -16,7 +16,7 @@
     margin: 0;
     font-size: 2rem;
     font-weight: bold;
-    color: var(--text-color);
+    color: var(--color-ink);
     letter-spacing: 0px;
     /* text-transform: uppercase; */
   }
@@ -24,7 +24,7 @@
   .subtitle {
     margin: 0;
     font-size: 16px;
-    color: var(--text-muted);
+    color: var(--color-ink-soft);
     font-style: italic;
   }
 

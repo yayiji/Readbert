@@ -42,7 +42,7 @@
     width: 100%;
     height: 3.7rem;
     z-index: 100;
-    border-bottom: 0.1px solid rgba(139, 125, 107, 0.2);
+    border-bottom: 0.1px solid var(--color-border-20);
     box-shadow: var(--navbar-shadow);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
@@ -66,7 +66,7 @@
     font-size: 1.05rem;
     font-weight: bold;
     letter-spacing: 0.5px;
-    color: var(--text-color);
+    color: var(--color-ink);
   }
 
   .nav-buttons {
@@ -79,16 +79,16 @@
     align-items: center;
     justify-content: center;
     padding: var(--spacing-2);
-    background: transparent;
+    background: var(--color-transparent);
     border: none;
     border-radius: var(--border-radius);
-    color: var(--text-color);
+    color: var(--color-ink);
     cursor: pointer;
     transition: background 0.2s ease;
   }
 
   .search-btn:hover {
-    background: rgba(109, 95, 77, 0.1);
+    background: var(--color-accent-10);
   }
 
   @media (max-width: 600px) {

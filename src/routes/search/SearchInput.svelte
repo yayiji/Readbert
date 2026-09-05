@@ -34,7 +34,7 @@
 <style>
   .search-section {
     padding: 4px 8px;
-    border-bottom: 1px solid rgba(139, 125, 107, 0.2);
+    border-bottom: 1px solid var(--color-border-20);
   }
 
   .search-input-wrapper {
@@ -50,13 +50,13 @@
     border: none;
     outline: none;
     font-size: 17px;
-    background: transparent;
+    background: var(--color-transparent);
     border-radius: 8px;
-    color: #111827;
+    color: var(--color-ink-strong);
   }
 
   .search-input::placeholder {
-    color: #6b7280;
+    color: var(--color-ink-muted);
   }
 
   .keyboard-shortcut {
@@ -69,8 +69,8 @@
   }
 
   .keyboard-shortcut kbd {
-    background: rgba(255, 255, 255, 0.2);
-    border: 1px solid rgba(0, 0, 0, 0.2);
+    background: var(--color-white-20);
+    border: 1px solid var(--color-ink-20);
     border-radius: 8px;
     width: 26px;
     height: 26px;
@@ -79,8 +79,8 @@
     justify-content: center;
     font-size: 0.85rem;
     font-family: var(--font-sans);
-    color: #6b7280;
-    box-shadow: 0 0px 16px rgba(0, 0, 0, 0.1);
+    color: var(--color-ink-muted);
+    box-shadow: 0 0px 16px var(--color-ink-10);
     font-weight: 500;
     padding: 0;
     line-height: 1;
@@ -92,8 +92,8 @@
     right: 12px;
     width: 20px;
     height: 20px;
-    border: 2px solid #e5e7eb;
-    border-top: 2px solid #3b82f6;
+    border: 2px solid var(--color-field-border);
+    border-top: 2px solid var(--color-focus);
     border-radius: 50%;
     animation: spin 1s linear infinite;
   }

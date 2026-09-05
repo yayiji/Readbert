@@ -101,13 +101,13 @@
   }
 
   .history-column:first-child {
-    border-right: 1px solid rgba(139, 125, 107, 0.2);
+    border-right: 1px solid var(--color-border-20);
   }
 
   .history-column-title {
     font-size: 0.95rem;
     font-weight: 600;
-    color: #374151;
+    color: var(--color-ink-heading);
     margin: 0 0 0.5rem 0;
     padding: 0.5rem;
     letter-spacing: 0px;
@@ -118,7 +118,7 @@
   .history-empty-state {
     text-align: center;
     padding: 2rem 1rem;
-    color: #6b7280;
+    color: var(--color-ink-muted);
   }
 
   .history-empty-state p {
@@ -145,7 +145,7 @@
     letter-spacing: 0.2px;
     width: auto;
     max-width: 100%;
-    background: transparent;
+    background: var(--color-transparent);
     border: none;
     padding: 0.5rem 1rem;
     cursor: pointer;
@@ -161,11 +161,11 @@
 
   .history-list-btn:hover,
   .history-list-btn:focus-visible {
-    background: rgba(0, 0, 0, 0.04);
+    background: var(--color-ink-04);
   }
 
   .history-list-id {
-    color: #374151;
+    color: var(--color-ink-heading);
     white-space: nowrap;
   }
 </style>

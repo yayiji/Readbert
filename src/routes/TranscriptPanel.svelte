@@ -40,7 +40,7 @@
     width: 100%;
     margin: 0 auto;
     border-collapse: collapse;
-    background-color: transparent;
+    background-color: var(--color-transparent);
     font-family: var(--font-mono);
   }
 
@@ -58,7 +58,7 @@
   .dialogue-line {
     margin: var(--spacing-1) 0;
     font-size: 1rem;
-    color: var(--text-color);
+    color: var(--color-ink);
     word-wrap: break-word;
   }
 

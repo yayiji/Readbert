@@ -68,7 +68,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    color: var(--text-color);
+    color: var(--color-ink);
     text-decoration: none;
     transition: color 0.2s ease, opacity 0.2s ease;
   }
@@ -91,7 +91,7 @@
 
   @media (hover: hover) and (pointer: fine) {
     .footer-link:hover {
-      color: var(--accent-color);
+      color: var(--color-accent);
     }
 
     .footer-link:hover .footer-avatar {
@@ -100,7 +100,7 @@
   }
 
   .footer-link:focus-visible {
-    outline: 2px solid var(--accent-color);
+    outline: 2px solid var(--color-accent);
     outline-offset: 3px;
   }
 
@@ -108,7 +108,7 @@
     margin: 0;
     font-size: 0.95rem;
     font-style: italic;
-    color: var(--text-muted);
+    color: var(--color-ink-soft);
   }
 
   @media (max-width: 600px) {

@@ -155,9 +155,9 @@
   .comic-container {
     position: relative;
     display: inline-block;
-    background-color: var(--bg-white);
+    background-color: var(--color-paper-white);
     padding: 0.8rem;
-    border: 2px solid var(--border-color);
+    border: 2px solid var(--color-border);
     border-radius: 0px;
     box-shadow: var(--shadow);
     margin-top: 0rem;
@@ -167,8 +167,8 @@
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
-    background: rgba(248, 246, 240, 0.7);
-    border: 1px solid rgba(139, 125, 107, 0.6);
+    background: var(--color-glass-70);
+    border: 1px solid var(--color-border-60);
     border-radius: 50%;
     width: 2.5rem;
     height: 2.5rem;
@@ -176,7 +176,7 @@
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    color: var(--text-color);
+    color: var(--color-ink);
     transition: all 0.2s ease;
     opacity: 0;
     visibility: hidden;
@@ -194,8 +194,8 @@
 
   .bookmark-toggle:hover {
     /* transform: scale(1.1); */
-    background: rgba(248, 246, 240, 0.9);
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+    background: var(--color-glass-90);
+    box-shadow: 0 0 8px var(--color-ink-20);
   }
 
   .bookmark-toggle svg {
@@ -208,9 +208,9 @@
     bottom: 0;
     left: 50%;
     transform: translateX(-50%) translateY(-0.2rem);
-    background: rgba(248, 246, 240, 0.8);
-    border: 1.5px solid rgba(139, 125, 107, 0.6);
-    box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+    background: var(--color-glass-80);
+    border: 1.5px solid var(--color-border-60);
+    box-shadow: 0 0 16px var(--color-ink-30);
     padding: 0.3rem 0.6rem;
     display: flex;
     gap: 0.5rem;
@@ -228,11 +228,11 @@
   }
 
   .action-btn {
-    background: transparent;
+    background: var(--color-transparent);
     border: none;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
     font-size: 0.8rem;
-    color: var(--text-color);
+    color: var(--color-ink);
     cursor: pointer;
     padding: 0.25rem 0.4rem;
     white-space: nowrap;

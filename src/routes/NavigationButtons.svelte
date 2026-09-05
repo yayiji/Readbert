@@ -85,13 +85,13 @@
   .nav-btn {
     width: 85px;
     height: 36px;
-    background-color: var(--bg-light);
-    border: 2px solid var(--border-color);
+    background-color: var(--color-paper-light);
+    border: 2px solid var(--color-border);
     border-radius: 0px;
     font-family: inherit;
     font-size: 0.8rem;
     font-weight: bold;
-    color: var(--text-color);
+    color: var(--color-ink);
     text-transform: uppercase;
     letter-spacing: 0.5px;
     white-space: nowrap;
@@ -104,27 +104,27 @@
 
   @media (hover: hover) and (pointer: fine) {
     .nav-btn:hover:not(:disabled) {
-      background-color: var(--border-color);
-      color: var(--bg-light);
+      background-color: var(--color-border);
+      color: var(--color-paper-light);
     }
   }
 
   .nav-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-    background-color: var(--bg-disabled);
-    color: var(--text-muted);
+    background-color: var(--color-paper-disabled);
+    color: var(--color-ink-soft);
   }
 
   .nav-btn.random {
     width: 100px;
-    background-color: var(--border-color);
-    color: var(--bg-light);
+    background-color: var(--color-border);
+    color: var(--color-paper-light);
   }
 
   @media (hover: hover) and (pointer: fine) {
     .nav-btn.random:hover:not(:disabled) {
-      background-color: var(--accent-color);
+      background-color: var(--color-accent);
     }
   }
 

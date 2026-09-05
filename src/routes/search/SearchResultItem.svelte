@@ -71,30 +71,30 @@
     cursor: pointer;
     transition: all 0.2s ease;
     margin-bottom: 0;
-    border: 3px solid transparent;
-    background: rgba(255, 255, 255, 0.6);
+    border: 3px solid var(--color-transparent);
+    background: var(--color-white-60);
     text-align: left;
     width: 100%;
     font-family: var(--font-sans);
     /* font-family: var(--font-mono2); */
     font-size: inherit;
     font-size: 0.85rem;
-    color: rgba(0, 0, 0, 0.8);
+    color: var(--color-ink-80);
     height: auto;
     min-height: 180px;
     box-sizing: border-box;
   }
 
   .result-item:hover {
-    border: 3px solid rgba(139, 125, 107, 0.4);
-    background: rgba(255, 255, 255, 1);
+    border: 3px solid var(--color-border-40);
+    background: var(--color-paper-white);
   }
 
   /* .result-item:hover, */
   .result-item.selected {
-    background: rgba(255, 255, 255, 1);
-    border: 3px solid rgba(139, 125, 107, 1);
-    box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+    background: var(--color-paper-white);
+    border: 3px solid var(--color-border-opaque);
+    box-shadow: 0 0 16px var(--color-ink-30);
   }
 
   .result-preview {
@@ -108,9 +108,9 @@
 
   .comic-container {
     display: inline-block;
-    background-color: #fff;
+    background-color: var(--color-paper-white);
     padding: 0.4rem;
-    border: 1px solid #d4c5a9;
+    border: 1px solid var(--color-border-light);
     border-radius: 8px;
     margin-bottom: 0;
     width: 100%;
@@ -121,7 +121,7 @@
     max-width: 100%;
     height: auto;
     display: block;
-    border: 1px solid #ccc;
+    border: 1px solid var(--color-disabled);
   }
 
   .result-content {
@@ -141,7 +141,7 @@
     line-height: 1.5;
     word-break: break-word;
     text-align: left;
-    background: transparent;
+    background: var(--color-transparent);
     padding: 0.2rem 1rem 0.5rem;
     border-radius: 4px;
     max-height: 200px;
@@ -159,11 +159,10 @@
   }
 
   :global(.result-text mark) {
-    background: yellowgreen;
-    background: gold;
+    background: var(--color-highlight);
     padding: 2px 4px;
     font-size: 1em;
     border-radius: 5px;
-    color: rgba(0, 0, 0, 1);
+    color: var(--color-ink);
   }
 </style>

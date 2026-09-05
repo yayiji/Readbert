@@ -277,9 +277,9 @@
     transform: translateX(-50%);
     z-index: 1000;
     border-radius: 18px;
-    background: rgba(248, 246, 240, 0.8);
-    border: 3px solid rgba(139, 125, 107, 0.4);
-    box-shadow: var(--shadow, 0 2px 8px rgba(0, 0, 0, 0.1));
+    background: var(--color-glass-80);
+    border: 3px solid var(--color-border-40);
+    box-shadow: var(--shadow);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     margin-top: 0px;
@@ -290,13 +290,13 @@
   .month-btn,
   .day,
   .action-btn {
-    background: transparent;
-    border: 1px solid transparent;
+    background: var(--color-transparent);
+    border: 1px solid var(--color-transparent);
     cursor: pointer;
     transition: all 0.2s ease;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
     display: flex;
-    color: var(--text-color);
+    color: var(--color-ink);
     align-items: center;
     justify-content: center;
   }
@@ -326,8 +326,8 @@
     left: 0;
     background: linear-gradient(
       90deg,
-      rgba(248, 246, 240, 0.95),
-      rgba(248, 246, 240, 0)
+      var(--color-glass-95),
+      var(--color-transparent)
     );
   }
 
@@ -335,8 +335,8 @@
     right: 0;
     background: linear-gradient(
       270deg,
-      rgba(248, 246, 240, 0.95),
-      rgba(248, 246, 240, 0)
+      var(--color-glass-95),
+      var(--color-transparent)
     );
   }
 
@@ -369,10 +369,10 @@
   }
 
   .year-btn.selected {
-    background: var(--accent-color, #6d5f4d);
-    color: white;
+    background: var(--color-accent);
+    color: var(--color-paper-white);
     font-weight: bold;
-    border-color: var(--accent-color, #6d5f4d);
+    border-color: var(--color-accent);
     z-index: 2;
   }
 
@@ -390,7 +390,7 @@
     transform: translateX(-50%);
     width: 90%;
     height: 0.5px;
-    background-color: rgba(139, 125, 107, 0.3);
+    background-color: var(--color-border-30);
   }
 
   .month-row {
@@ -408,17 +408,17 @@
     padding: 0;
     font-size: 14px;
     font-weight: 600;
-    color: var(--text-color);
+    color: var(--color-ink);
     width: 42px;
     height: 30px;
     letter-spacing: 1px;
   }
 
   .month-btn.selected {
-    background: var(--accent-color, #6d5f4d);
-    color: white;
+    background: var(--color-accent);
+    color: var(--color-paper-white);
     font-weight: bold;
-    border-color: var(--accent-color, #6d5f4d);
+    border-color: var(--color-accent);
   }
 
   .calendar-grid {
@@ -436,7 +436,7 @@
     text-align: center;
     font-size: 14px;
     font-weight: bold;
-    color: var(--text-color);
+    color: var(--color-ink);
     width: 40px;
     height: 32px;
     display: flex;
@@ -455,20 +455,20 @@
     height: 40px;
     font-size: 14px;
     font-weight: normal;
-    color: var(--text-color);
+    color: var(--color-ink);
     margin: 0;
     padding: 0;
   }
 
   .day.selected {
-    background: var(--accent-color, #6d5f4d);
-    color: white;
+    background: var(--color-accent);
+    color: var(--color-paper-white);
     font-weight: bold;
-    border-color: var(--accent-color, #6d5f4d);
+    border-color: var(--color-accent);
   }
 
   .day.disabled {
-    color: #ccc;
+    color: var(--color-disabled);
     cursor: not-allowed;
   }
 
@@ -495,19 +495,19 @@
   }
 
   .cancel-btn {
-    color: var(--text-color);
+    color: var(--color-ink);
     font-weight: bold;
   }
 
   .confirm-btn {
-    color: var(--text-color);
+    color: var(--color-ink);
     font-weight: bold;
   }
 
   .confirm-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-    color: #ccc;
+    color: var(--color-disabled);
     font-weight: normal;
   }
 
@@ -516,10 +516,10 @@
     .month-btn:hover,
     .day:hover:not(.disabled):not(.empty),
     .action-btn:hover:not(:disabled) {
-      background: var(--bg-light, #f8f6f0);
-      border-color: var(--border-color, #8b7d6b);
+      background: var(--color-paper-light);
+      border-color: var(--color-border);
       font-weight: bold;
-      color: var(--text-color);
+      color: var(--color-ink);
     }
   }
 </style>
