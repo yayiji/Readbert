@@ -326,7 +326,7 @@
     left: 0;
     background: linear-gradient(
       90deg,
-      var(--color-glass-heavy),
+      var(--color-glass-strong),
       var(--color-transparent)
     );
   }
@@ -335,7 +335,7 @@
     right: 0;
     background: linear-gradient(
       270deg,
-      var(--color-glass-heavy),
+      var(--color-glass-strong),
       var(--color-transparent)
     );
   }

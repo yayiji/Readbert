@@ -94,7 +94,7 @@
   .result-item.selected {
     background: var(--color-surface-strong);
     border: 3px solid var(--color-border);
-    box-shadow: 0 0 16px var(--color-shadow-strong);
+    box-shadow: 0 0 16px var(--color-shadow);
   }
 
   .result-preview {
@@ -110,7 +110,7 @@
     display: inline-block;
     background-color: var(--color-surface-strong);
     padding: 0.4rem;
-    border: 1px solid var(--color-border-soft);
+    border: 1px solid var(--color-border-medium);
     border-radius: 8px;
     margin-bottom: 0;
     width: 100%;
@@ -121,7 +121,7 @@
     max-width: 100%;
     height: auto;
     display: block;
-    border: 1px solid var(--color-disabled);
+    border: 1px solid var(--color-border-light);
   }
 
   .result-content {

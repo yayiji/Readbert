@@ -161,7 +161,7 @@
 
   .history-list-btn:hover,
   .history-list-btn:focus-visible {
-    background: var(--color-overlay-subtle);
+    background: var(--color-overlay);
   }
 
   .history-list-id {

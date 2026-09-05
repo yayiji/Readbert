@@ -69,7 +69,7 @@
   }
 
   .keyboard-shortcut kbd {
-    background: var(--color-surface-tint);
+    background: var(--color-surface-faded);
     border: 1px solid var(--color-shadow);
     border-radius: 8px;
     width: 26px;
@@ -92,7 +92,7 @@
     right: 12px;
     width: 20px;
     height: 20px;
-    border: 2px solid var(--color-border-soft);
+    border: 2px solid var(--color-border-medium);
     border-top: 2px solid var(--color-accent);
     border-radius: 50%;
     animation: spin 1s linear infinite;

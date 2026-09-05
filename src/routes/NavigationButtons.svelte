@@ -112,7 +112,7 @@
   .nav-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-    background-color: var(--color-disabled);
+    background-color: var(--color-surface);
     color: var(--color-muted);
   }
 

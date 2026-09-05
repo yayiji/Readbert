@@ -49,24 +49,17 @@
 	--color-transparent: transparent;
 	--color-glass: color-mix(in srgb, var(--color-surface) 80%, transparent);
 	--color-glass-strong: color-mix(in srgb, var(--color-surface) 90%, transparent);
-	--color-glass-heavy: color-mix(in srgb, var(--color-surface) 95%, transparent);
-	--color-surface-tint: color-mix(in srgb, var(--color-surface-strong) 20%, transparent);
 	--color-surface-faded: color-mix(in srgb, var(--color-surface-strong) 60%, transparent);
-	--color-border-wash: color-mix(in srgb, var(--color-border) 10%, transparent);
 	--color-border-subtle: color-mix(in srgb, var(--color-border) 20%, transparent);
 	--color-border-light: color-mix(in srgb, var(--color-border) 30%, transparent);
 	--color-border-medium: color-mix(in srgb, var(--color-border) 40%, transparent);
-	--color-border-soft: color-mix(in srgb, var(--color-border) 50%, var(--color-surface-strong));
 	--color-border-strong: color-mix(in srgb, var(--color-border) 60%, transparent);
 	--color-border-heavy: color-mix(in srgb, var(--color-border) 70%, transparent);
 	--color-accent-subtle: color-mix(in srgb, var(--color-accent) 10%, transparent);
-	--color-overlay-subtle: color-mix(in srgb, var(--color-text) 4%, transparent);
 	--color-overlay: color-mix(in srgb, var(--color-text) 10%, transparent);
 	--color-overlay-medium: color-mix(in srgb, var(--color-text) 18%, transparent);
 	--color-shadow: color-mix(in srgb, var(--color-text) 20%, transparent);
-	--color-shadow-strong: color-mix(in srgb, var(--color-text) 30%, transparent);
 	--color-text-overlay: color-mix(in srgb, var(--color-text) 80%, transparent);
-	--color-disabled: color-mix(in srgb, var(--color-bg) 80%, var(--color-text) 20%);
 	--color-highlight: color-mix(in srgb, var(--color-accent) 30%, var(--color-surface-strong));
 
 	/* Layout */

@@ -210,7 +210,7 @@
     transform: translateX(-50%) translateY(-0.2rem);
     background: var(--color-glass);
     border: 1.5px solid var(--color-border-strong);
-    box-shadow: 0 0 16px var(--color-shadow-strong);
+    box-shadow: 0 0 16px var(--color-shadow);
     padding: 0.3rem 0.6rem;
     display: flex;
     gap: 0.5rem;

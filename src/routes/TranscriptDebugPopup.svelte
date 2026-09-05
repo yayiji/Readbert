@@ -415,7 +415,7 @@
     background: var(--color-glass);
     border: 3px solid var(--color-border-heavy);
     border-radius: 15px;
-    box-shadow: 0 0 20px var(--color-shadow-strong);
+    box-shadow: 0 0 20px var(--color-shadow);
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
     font-family: var(--font-mono);
@@ -508,7 +508,7 @@
   .explanation {
     margin-bottom: 0.5rem;
     padding: 1rem;
-    background: var(--color-border-wash);
+    background: var(--color-border-subtle);
     border-radius: 12px;
   }
 
