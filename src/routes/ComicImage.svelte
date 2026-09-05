@@ -155,7 +155,7 @@
   .comic-container {
     position: relative;
     display: inline-block;
-    background-color: var(--color-paper-white);
+    background-color: var(--color-surface-strong);
     padding: 0.8rem;
     border: 2px solid var(--color-border);
     border-radius: 0px;
@@ -167,8 +167,8 @@
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
-    background: var(--color-glass-70);
-    border: 1px solid var(--color-border-60);
+    background: var(--color-glass);
+    border: 1px solid var(--color-border-strong);
     border-radius: 50%;
     width: 2.5rem;
     height: 2.5rem;
@@ -176,7 +176,7 @@
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    color: var(--color-ink);
+    color: var(--color-text);
     transition: all 0.2s ease;
     opacity: 0;
     visibility: hidden;
@@ -194,8 +194,8 @@
 
   .bookmark-toggle:hover {
     /* transform: scale(1.1); */
-    background: var(--color-glass-90);
-    box-shadow: 0 0 8px var(--color-ink-20);
+    background: var(--color-glass-strong);
+    box-shadow: 0 0 8px var(--color-shadow);
   }
 
   .bookmark-toggle svg {
@@ -208,9 +208,9 @@
     bottom: 0;
     left: 50%;
     transform: translateX(-50%) translateY(-0.2rem);
-    background: var(--color-glass-80);
-    border: 1.5px solid var(--color-border-60);
-    box-shadow: 0 0 16px var(--color-ink-30);
+    background: var(--color-glass);
+    border: 1.5px solid var(--color-border-strong);
+    box-shadow: 0 0 16px var(--color-shadow-strong);
     padding: 0.3rem 0.6rem;
     display: flex;
     gap: 0.5rem;
@@ -232,7 +232,7 @@
     border: none;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
     font-size: 0.8rem;
-    color: var(--color-ink);
+    color: var(--color-text);
     cursor: pointer;
     padding: 0.25rem 0.4rem;
     white-space: nowrap;

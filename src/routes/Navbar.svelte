@@ -42,7 +42,7 @@
     width: 100%;
     height: 3.7rem;
     z-index: 100;
-    border-bottom: 0.1px solid var(--color-border-20);
+    border-bottom: 0.1px solid var(--color-border-subtle);
     box-shadow: var(--navbar-shadow);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
@@ -66,7 +66,7 @@
     font-size: 1.05rem;
     font-weight: bold;
     letter-spacing: 0.5px;
-    color: var(--color-ink);
+    color: var(--color-text);
   }
 
   .nav-buttons {
@@ -82,13 +82,13 @@
     background: var(--color-transparent);
     border: none;
     border-radius: var(--border-radius);
-    color: var(--color-ink);
+    color: var(--color-text);
     cursor: pointer;
     transition: background 0.2s ease;
   }
 
   .search-btn:hover {
-    background: var(--color-accent-10);
+    background: var(--color-accent-subtle);
   }
 
   @media (max-width: 600px) {

@@ -260,8 +260,8 @@
     width: 100%;
     margin: 0;
     padding: 60px var(--spacing-lg) 0;
-    background-color: var(--color-paper);
-    color: var(--color-ink);
+    background-color: var(--color-bg);
+    color: var(--color-text);
     box-sizing: border-box;
     display: flex;
     flex-direction: column;

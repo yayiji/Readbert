@@ -301,7 +301,7 @@
   .backdrop {
     position: fixed;
     inset: 0;
-    background: var(--color-ink-10);
+    background: var(--color-overlay);
     z-index: 1000;
     display: flex;
     align-items: flex-start;
@@ -320,10 +320,10 @@
   }
 
   .palette {
-    background: var(--color-glass-80);
+    background: var(--color-glass);
     border-radius: 18px;
-    border: 3px solid var(--color-border-40);
-    box-shadow: 0 0px 25px var(--color-ink-20);
+    border: 3px solid var(--color-border-medium);
+    box-shadow: 0 0px 25px var(--color-shadow);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     max-width: 800px;
@@ -373,13 +373,13 @@
   .message-title {
     font-size: 1.6rem;
     font-weight: bold;
-    color: var(--color-ink-heading);
+    color: var(--color-text);
     margin-bottom: 0.5rem;
   }
 
   .message-subtitle {
     font-size: 1rem;
-    color: var(--color-ink-muted);
+    color: var(--color-muted);
   }
 
   /* Responsive */

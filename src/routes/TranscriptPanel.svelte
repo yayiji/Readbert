@@ -58,7 +58,7 @@
   .dialogue-line {
     margin: var(--spacing-1) 0;
     font-size: 1rem;
-    color: var(--color-ink);
+    color: var(--color-text);
     word-wrap: break-word;
   }
 

@@ -277,8 +277,8 @@
     transform: translateX(-50%);
     z-index: 1000;
     border-radius: 18px;
-    background: var(--color-glass-80);
-    border: 3px solid var(--color-border-40);
+    background: var(--color-glass);
+    border: 3px solid var(--color-border-medium);
     box-shadow: var(--shadow);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
@@ -296,7 +296,7 @@
     transition: all 0.2s ease;
     font-family: var(--font-mono, "Courier New", "Courier", monospace);
     display: flex;
-    color: var(--color-ink);
+    color: var(--color-text);
     align-items: center;
     justify-content: center;
   }
@@ -326,7 +326,7 @@
     left: 0;
     background: linear-gradient(
       90deg,
-      var(--color-glass-95),
+      var(--color-glass-heavy),
       var(--color-transparent)
     );
   }
@@ -335,7 +335,7 @@
     right: 0;
     background: linear-gradient(
       270deg,
-      var(--color-glass-95),
+      var(--color-glass-heavy),
       var(--color-transparent)
     );
   }
@@ -370,7 +370,7 @@
 
   .year-btn.selected {
     background: var(--color-accent);
-    color: var(--color-paper-white);
+    color: var(--color-surface-strong);
     font-weight: bold;
     border-color: var(--color-accent);
     z-index: 2;
@@ -390,7 +390,7 @@
     transform: translateX(-50%);
     width: 90%;
     height: 0.5px;
-    background-color: var(--color-border-30);
+    background-color: var(--color-border-light);
   }
 
   .month-row {
@@ -408,7 +408,7 @@
     padding: 0;
     font-size: 14px;
     font-weight: 600;
-    color: var(--color-ink);
+    color: var(--color-text);
     width: 42px;
     height: 30px;
     letter-spacing: 1px;
@@ -416,7 +416,7 @@
 
   .month-btn.selected {
     background: var(--color-accent);
-    color: var(--color-paper-white);
+    color: var(--color-surface-strong);
     font-weight: bold;
     border-color: var(--color-accent);
   }
@@ -436,7 +436,7 @@
     text-align: center;
     font-size: 14px;
     font-weight: bold;
-    color: var(--color-ink);
+    color: var(--color-text);
     width: 40px;
     height: 32px;
     display: flex;
@@ -455,20 +455,20 @@
     height: 40px;
     font-size: 14px;
     font-weight: normal;
-    color: var(--color-ink);
+    color: var(--color-text);
     margin: 0;
     padding: 0;
   }
 
   .day.selected {
     background: var(--color-accent);
-    color: var(--color-paper-white);
+    color: var(--color-surface-strong);
     font-weight: bold;
     border-color: var(--color-accent);
   }
 
   .day.disabled {
-    color: var(--color-disabled);
+    color: var(--color-muted);
     cursor: not-allowed;
   }
 
@@ -495,19 +495,19 @@
   }
 
   .cancel-btn {
-    color: var(--color-ink);
+    color: var(--color-text);
     font-weight: bold;
   }
 
   .confirm-btn {
-    color: var(--color-ink);
+    color: var(--color-text);
     font-weight: bold;
   }
 
   .confirm-btn:disabled {
     opacity: 0.5;
     cursor: not-allowed;
-    color: var(--color-disabled);
+    color: var(--color-muted);
     font-weight: normal;
   }
 
@@ -516,10 +516,10 @@
     .month-btn:hover,
     .day:hover:not(.disabled):not(.empty),
     .action-btn:hover:not(:disabled) {
-      background: var(--color-paper-light);
+      background: var(--color-surface);
       border-color: var(--color-border);
       font-weight: bold;
-      color: var(--color-ink);
+      color: var(--color-text);
     }
   }
 </style>

@@ -101,13 +101,13 @@
   }
 
   .history-column:first-child {
-    border-right: 1px solid var(--color-border-20);
+    border-right: 1px solid var(--color-border-subtle);
   }
 
   .history-column-title {
     font-size: 0.95rem;
     font-weight: 600;
-    color: var(--color-ink-heading);
+    color: var(--color-text);
     margin: 0 0 0.5rem 0;
     padding: 0.5rem;
     letter-spacing: 0px;
@@ -118,7 +118,7 @@
   .history-empty-state {
     text-align: center;
     padding: 2rem 1rem;
-    color: var(--color-ink-muted);
+    color: var(--color-muted);
   }
 
   .history-empty-state p {
@@ -161,11 +161,11 @@
 
   .history-list-btn:hover,
   .history-list-btn:focus-visible {
-    background: var(--color-ink-04);
+    background: var(--color-overlay-subtle);
   }
 
   .history-list-id {
-    color: var(--color-ink-heading);
+    color: var(--color-text);
     white-space: nowrap;
   }
 </style>

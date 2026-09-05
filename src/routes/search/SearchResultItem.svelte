@@ -72,29 +72,29 @@
     transition: all 0.2s ease;
     margin-bottom: 0;
     border: 3px solid var(--color-transparent);
-    background: var(--color-white-60);
+    background: var(--color-surface-faded);
     text-align: left;
     width: 100%;
     font-family: var(--font-sans);
     /* font-family: var(--font-mono2); */
     font-size: inherit;
     font-size: 0.85rem;
-    color: var(--color-ink-80);
+    color: var(--color-text-overlay);
     height: auto;
     min-height: 180px;
     box-sizing: border-box;
   }
 
   .result-item:hover {
-    border: 3px solid var(--color-border-40);
-    background: var(--color-paper-white);
+    border: 3px solid var(--color-border-medium);
+    background: var(--color-surface-strong);
   }
 
   /* .result-item:hover, */
   .result-item.selected {
-    background: var(--color-paper-white);
-    border: 3px solid var(--color-border-opaque);
-    box-shadow: 0 0 16px var(--color-ink-30);
+    background: var(--color-surface-strong);
+    border: 3px solid var(--color-border);
+    box-shadow: 0 0 16px var(--color-shadow-strong);
   }
 
   .result-preview {
@@ -108,9 +108,9 @@
 
   .comic-container {
     display: inline-block;
-    background-color: var(--color-paper-white);
+    background-color: var(--color-surface-strong);
     padding: 0.4rem;
-    border: 1px solid var(--color-border-light);
+    border: 1px solid var(--color-border-soft);
     border-radius: 8px;
     margin-bottom: 0;
     width: 100%;
@@ -163,6 +163,6 @@
     padding: 2px 4px;
     font-size: 1em;
     border-radius: 5px;
-    color: var(--color-ink);
+    color: var(--color-text);
   }
 </style>

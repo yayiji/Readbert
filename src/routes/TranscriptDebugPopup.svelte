@@ -402,7 +402,7 @@
     align-items: flex-end;
     justify-content: center;
     padding-bottom: 16px;
-    background: var(--color-ink-18);
+    background: var(--color-overlay-medium);
   }
 
   .debug-modal {
@@ -412,10 +412,10 @@
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    background: var(--color-glass-80);
-    border: 3px solid var(--color-border-70);
+    background: var(--color-glass);
+    border: 3px solid var(--color-border-heavy);
     border-radius: 15px;
-    box-shadow: 0 0 20px var(--color-ink-30);
+    box-shadow: 0 0 20px var(--color-shadow-strong);
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
     font-family: var(--font-mono);
@@ -444,7 +444,7 @@
     flex: 1;
     min-width: 0;
     min-height: 0;
-    border-left: 1px solid var(--color-border-30);
+    border-left: 1px solid var(--color-border-light);
   }
 
   .column:first-child {
@@ -469,7 +469,7 @@
     justify-content: space-between;
     gap: 0.5rem;
     padding: 0.5rem 0.8rem 0.4rem;
-    border-bottom: 1px solid var(--color-border-30);
+    border-bottom: 1px solid var(--color-border-light);
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -508,7 +508,7 @@
   .explanation {
     margin-bottom: 0.5rem;
     padding: 1rem;
-    background: var(--color-border-10);
+    background: var(--color-border-wash);
     border-radius: 12px;
   }
 
@@ -524,7 +524,7 @@
   .explanation-text {
     font-size: 0.85rem;
     line-height: 1.6;
-    color: var(--color-ink);
+    color: var(--color-text);
     white-space: pre-line;
     overflow-wrap: anywhere;
   }
@@ -559,7 +559,7 @@
   }
 
   .error {
-    color: var(--color-error);
+    color: var(--color-accent);
   }
 
   /* ========================================
@@ -572,8 +572,8 @@
     justify-content: space-between;
     gap: 0.5rem;
     padding: 0.1rem 0.5rem 0.2rem;
-    background: var(--color-glass-90);
-    border-top: 0.5px solid var(--color-border-30);
+    background: var(--color-glass-strong);
+    border-top: 0.5px solid var(--color-border-light);
   }
 
   .footer-btn {
@@ -584,7 +584,7 @@
     font-family: var(--font-mono);
     font-size: 0.7rem;
     font-weight: 500;
-    color: var(--color-ink);
+    color: var(--color-text);
     cursor: pointer;
   }
 

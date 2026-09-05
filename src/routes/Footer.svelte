@@ -68,7 +68,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    color: var(--color-ink);
+    color: var(--color-text);
     text-decoration: none;
     transition: color 0.2s ease, opacity 0.2s ease;
   }
@@ -108,7 +108,7 @@
     margin: 0;
     font-size: 0.95rem;
     font-style: italic;
-    color: var(--color-ink-soft);
+    color: var(--color-muted);
   }
 
   @media (max-width: 600px) {

@@ -74,7 +74,7 @@
   }
 
   .date-input {
-    color: var(--color-ink);
+    color: var(--color-text);
     background: var(--color-transparent);
     border: none;
     font-family: inherit;
@@ -99,7 +99,7 @@
 
   @media (hover: hover) and (pointer: fine) {
     .date-input:hover {
-      background-color: var(--color-paper-light);
+      background-color: var(--color-surface);
     }
 
     .date-input:hover :global(.calendar-icon) {
@@ -109,7 +109,7 @@
 
   .date-input:focus-visible {
     outline: none;
-    background-color: var(--color-paper-light);
+    background-color: var(--color-surface);
   }
 
 </style>
