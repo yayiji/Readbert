@@ -54,14 +54,17 @@
 
 :root[data-color-scheme='dark'] {
 	color-scheme: dark;
-	--color-bg: #111113;
-	--color-surface: #1c1c1e;
-	--color-surface-strong: #28282b;
-	--color-text: #f5f5f7;
-	--color-muted: #a1a1a6;
-	--color-accent: #ff9f0a;
-	--color-border: #48484a;
-	--color-highlight: #ffd60a;
+	--color-bg: #4a4a4d;
+	--color-surface: #56565a;
+	--color-surface-strong: #636368;
+	--color-text: #f7f7f8;
+	--color-muted: #d0d0d4;
+	--color-accent: #ffc05a;
+	--color-border: #85858a;
+	--color-highlight: #f6d467;
+	--color-overlay: color-mix(in srgb, #000 42%, transparent);
+	--color-overlay-medium: color-mix(in srgb, #000 58%, transparent);
+	--color-shadow: color-mix(in srgb, #000 50%, transparent);
 }
 
 :root {
