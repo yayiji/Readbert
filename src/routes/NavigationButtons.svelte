@@ -73,8 +73,9 @@
 
   @media (hover: hover) and (pointer: fine) {
     .nav-btn:hover:not(:disabled) {
-      background-color: var(--color-border);
-      color: var(--color-surface);
+      background-color: var(--nav-btn-hover-bg);
+      border-color: var(--nav-btn-hover-bg);
+      color: var(--nav-btn-hover-fg);
     }
   }
 
@@ -87,13 +88,16 @@
 
   .nav-btn.random {
     width: 100px;
-    background-color: var(--color-border);
-    color: var(--color-surface);
+    background-color: var(--nav-btn-random-bg);
+    border-color: var(--nav-btn-random-bg);
+    color: var(--nav-btn-random-fg);
   }
 
   @media (hover: hover) and (pointer: fine) {
     .nav-btn.random:hover:not(:disabled) {
-      background-color: var(--color-accent);
+      background-color: var(--nav-btn-random-hover-bg);
+      border-color: var(--nav-btn-random-hover-bg);
+      color: var(--nav-btn-random-hover-fg);
     }
   }
 

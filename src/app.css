@@ -51,6 +51,12 @@
 	--color-border: #8b7d6b;
 	--color-highlight: #ffd700;
 	--color-highlight-text: var(--color-text);
+	--nav-btn-hover-bg: var(--color-border);
+	--nav-btn-hover-fg: var(--color-surface);
+	--nav-btn-random-bg: var(--color-border);
+	--nav-btn-random-fg: var(--color-surface);
+	--nav-btn-random-hover-bg: var(--color-accent);
+	--nav-btn-random-hover-fg: var(--color-surface);
 }
 
 :root[data-color-scheme='dark'] {
@@ -60,13 +66,19 @@
 	--color-surface-strong: #636368;
 	--color-text: #f7f7f8;
 	--color-muted: #d0d0d4;
-	--color-accent: #8bf27a;
+	--color-accent: #f0f0f2;
 	--color-border: #85858a;
 	--color-highlight: #25752f;
 	--color-highlight-text: #8bf27a;
 	--color-overlay: color-mix(in srgb, #000 42%, transparent);
 	--color-overlay-medium: color-mix(in srgb, #000 58%, transparent);
 	--color-shadow: color-mix(in srgb, #000 50%, transparent);
+	--nav-btn-hover-bg: #f0f0f2;
+	--nav-btn-hover-fg: #2a2a2e;
+	--nav-btn-random-bg: #f0f0f2;
+	--nav-btn-random-fg: #2a2a2e;
+	--nav-btn-random-hover-bg: #fff;
+	--nav-btn-random-hover-fg: #2a2a2e;
 }
 
 :root {
