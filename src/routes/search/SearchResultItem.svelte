@@ -163,6 +163,6 @@
     padding: 2px 4px;
     font-size: 1em;
     border-radius: 5px;
-    color: var(--color-text);
+    color: var(--color-highlight-text);
   }
 </style>

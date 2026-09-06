@@ -50,6 +50,7 @@
 	--color-accent: #6d5f4d;
 	--color-border: #8b7d6b;
 	--color-highlight: #ffd700;
+	--color-highlight-text: var(--color-text);
 }
 
 :root[data-color-scheme='dark'] {
@@ -61,7 +62,8 @@
 	--color-muted: #d0d0d4;
 	--color-accent: #ffc05a;
 	--color-border: #85858a;
-	--color-highlight: #f6d467;
+	--color-highlight: #25752f;
+	--color-highlight-text: #8bf27a;
 	--color-overlay: color-mix(in srgb, #000 42%, transparent);
 	--color-overlay-medium: color-mix(in srgb, #000 58%, transparent);
 	--color-shadow: color-mix(in srgb, #000 50%, transparent);
