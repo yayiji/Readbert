@@ -36,7 +36,12 @@
 
 /* ===== CSS VARIABLES ===== */
 :root {
-	/* Theme palette: change these values to reskin the whole site */
+	/*
+	 * Active scheme: warm
+	 * Switch in code with:
+	 * document.documentElement.dataset.colorScheme = 'forest';
+	 * Available schemes: warm, forest, lavender
+	 */
 	--color-bg: #f5f6ee;
 	--color-surface: #f8f6f0;
 	--color-surface-strong: #fff;
@@ -45,7 +50,31 @@
 	--color-accent: #6d5f4d;
 	--color-border: #8b7d6b;
 	--color-highlight: #ffd700;
+}
 
+:root[data-color-scheme='forest'] {
+	--color-bg: #edf5ef;
+	--color-surface: #f6fbf7;
+	--color-surface-strong: #fff;
+	--color-text: #173126;
+	--color-muted: #547064;
+	--color-accent: #2f6b4f;
+	--color-border: #789383;
+	--color-highlight: #f3c969;
+}
+
+:root[data-color-scheme='lavender'] {
+	--color-bg: #f3f0f8;
+	--color-surface: #fbf9ff;
+	--color-surface-strong: #fff;
+	--color-text: #231d32;
+	--color-muted: #756d84;
+	--color-accent: #6e5c9e;
+	--color-border: #9a8db9;
+	--color-highlight: #f7d774;
+}
+
+:root {
 	/* Derived states: these inherit the theme palette above */
 	--color-transparent: transparent;
 	--color-glass: color-mix(in srgb, var(--color-surface) 80%, transparent);
