@@ -133,7 +133,7 @@
   .comic-container {
     position: relative;
     display: inline-block;
-    background-color: var(--color-surface-strong);
+    background-color: #fff;
     padding: 0.8rem;
     border: 2px solid var(--color-border);
     border-radius: 0px;
