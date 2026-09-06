@@ -1,5 +1,6 @@
 <script>
   import { CalendarDays } from "@lucide/svelte";
+  import { formatDate } from "$lib/dateUtils.js";
   import CalendarPopup from "./CalendarPopup.svelte";
 
   let { selectedDate = $bindable("") } = $props();
@@ -7,13 +8,7 @@
   let isOpen = $state(false);
 
   function formatDisplayDate(dateString) {
-    return dateString
-      ? new Date(dateString).toLocaleDateString("en-US", {
-          year: "numeric",
-          month: "long",
-          day: "numeric",
-        })
-      : "Select Date";
+    return dateString ? formatDate(dateString) : "Select Date";
   }
 
   const togglePicker = () => (isOpen = !isOpen);

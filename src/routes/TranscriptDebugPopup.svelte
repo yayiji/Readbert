@@ -2,15 +2,7 @@
   import { transcribeComicInBrowser } from "$lib/browserTranscriber.js";
   import { generatedTranscriptCache } from "$lib/generatedTranscriptCache.js";
 
-  // ========================================
-  // Props
-  // ========================================
-
   let { currentComic = null, shortcutsDisabled = false } = $props();
-
-  // ========================================
-  // State
-  // ========================================
 
   let isOpen = $state(false);
   let transcript = $state(null);
@@ -19,10 +11,6 @@
   let lastRegenerationMethod = $state(null);
   let copyJsonStatus = $state("COPY JSON");
   let copyTextStatus = $state("COPY TEXT");
-
-  // ========================================
-  // Derived State
-  // ========================================
 
   const prettyJson = $derived.by(() => {
     if (!transcript) return "";
@@ -36,30 +24,21 @@
     if (!transcript?.panels?.length) return "";
 
     const parts = [];
-
-    // Add explanation if it exists
     if (transcript.explanation) {
-      parts.push(`Explanation: ${transcript.explanation}`);
-      parts.push(""); // Empty line separator
+      parts.push(`Explanation: ${transcript.explanation}`, "");
     }
 
-    // Add panel dialogues
-    const panelText = transcript.panels
-      .map((panel, index) => {
-        const lines = Array.isArray(panel?.dialogue) ? panel.dialogue : [];
-        if (lines.length === 0) return `(Panel ${index + 1})`;
-        return lines.join("\n");
-      })
-      .join("\n\n");
-
-    parts.push(panelText);
+    parts.push(
+      transcript.panels
+        .map((panel, index) => {
+          const lines = Array.isArray(panel?.dialogue) ? panel.dialogue : [];
+          return lines.length === 0 ? `(Panel ${index + 1})` : lines.join("\n");
+        })
+        .join("\n\n"),
+    );
 
     return parts.join("\n");
   });
-
-  // ========================================
-  // UI Helper Functions
-  // ========================================
 
   function close() {
     isOpen = false;
@@ -71,9 +50,7 @@
   }
 
   async function copyToClipboard(content, statusSetter, defaultLabel) {
-    if (!content || typeof navigator === "undefined" || !navigator.clipboard) {
-      return;
-    }
+    if (!content || typeof navigator === "undefined" || !navigator.clipboard) return;
 
     try {
       await navigator.clipboard.writeText(content);
@@ -84,10 +61,6 @@
     }
   }
 
-  // ========================================
-  // Regeneration Helper Functions
-  // ========================================
-
   function beginRegeneration(method) {
     lastRegenerationMethod = method;
     isOpen = true;
@@ -97,19 +70,11 @@
     resetCopyStatuses();
   }
 
-  function getCachedTranscript(date) {
-    return generatedTranscriptCache.get(date);
-  }
-
-  function setCachedTranscript(date, transcriptData) {
-    if (transcriptData && date) {
-      generatedTranscriptCache.set(date, transcriptData);
-    }
-  }
-
   function handleRegenerationSuccess(transcriptData) {
     transcript = transcriptData;
-    setCachedTranscript(currentComic?.date, transcriptData);
+    if (transcriptData && currentComic?.date) {
+      generatedTranscriptCache.set(currentComic.date, transcriptData);
+    }
     error = "";
     isLoading = false;
   }
@@ -120,22 +85,17 @@
     isLoading = false;
   }
 
-  // ========================================
-  // API Functions
-  // ========================================
+  function useCachedTranscript(method) {
+    const cachedTranscript = generatedTranscriptCache.get(currentComic.date);
+    if (!cachedTranscript) return false;
+    beginRegeneration(method);
+    handleRegenerationSuccess(cachedTranscript);
+    return true;
+  }
 
   async function regenerateViaServer({ skipCache = false } = {}) {
     if (!currentComic?.date || isLoading) return;
-
-    // Check cache first
-    if (!skipCache) {
-      const cachedTranscript = getCachedTranscript(currentComic.date);
-      if (cachedTranscript) {
-        beginRegeneration("server");
-        handleRegenerationSuccess(cachedTranscript);
-        return;
-      }
-    }
+    if (!skipCache && useCachedTranscript("server")) return;
 
     beginRegeneration("server");
 
@@ -151,10 +111,11 @@
         try {
           const errorBody = await response.json();
           if (errorBody?.error) {
-            const errorDetail = typeof errorBody.error === "string"
-              ? errorBody.error
-              : JSON.stringify(errorBody.error);
-            errorMessage += `: ${errorDetail}`;
+            errorMessage += `: ${
+              typeof errorBody.error === "string"
+                ? errorBody.error
+                : JSON.stringify(errorBody.error)
+            }`;
           }
         } catch {
           // Ignore JSON parse errors
@@ -172,22 +133,12 @@
 
   async function regenerateViaBrowser({ skipCache = false } = {}) {
     if (!currentComic?.url || isLoading) return;
-
-    // Check cache first
-    if (!skipCache) {
-      const cachedTranscript = getCachedTranscript(currentComic.date);
-      if (cachedTranscript) {
-        beginRegeneration("browser");
-        handleRegenerationSuccess(cachedTranscript);
-        return;
-      }
-    }
+    if (!skipCache && useCachedTranscript("browser")) return;
 
     beginRegeneration("browser");
 
     try {
-      const transcriptData = await transcribeComicInBrowser(currentComic.url);
-      handleRegenerationSuccess(transcriptData);
+      handleRegenerationSuccess(await transcribeComicInBrowser(currentComic.url));
     } catch (err) {
       handleRegenerationError(err, "browser");
     }
@@ -196,7 +147,6 @@
   function refreshTranscript() {
     if (!currentComic || isLoading) return;
 
-    // Use the last method that was used, or fallback to appropriate method
     if (lastRegenerationMethod === "browser" && currentComic.url) {
       regenerateViaBrowser({ skipCache: true });
     } else if (currentComic.date) {
@@ -206,14 +156,8 @@
     }
   }
 
-  // ========================================
-  // Event Handlers
-  // ========================================
-
   function handleBackdropClick(event) {
-    if (event.target === event.currentTarget) {
-      close();
-    }
+    if (event.target === event.currentTarget) close();
   }
 
   function handleBackdropKeydown(event) {
@@ -221,14 +165,6 @@
       event.preventDefault();
       close();
     }
-  }
-
-  function handleCopyJson() {
-    copyToClipboard(prettyJson, (value) => (copyJsonStatus = value), "COPY JSON");
-  }
-
-  function handleCopyText() {
-    copyToClipboard(transcriptText, (value) => (copyTextStatus = value), "COPY TEXT");
   }
 
   function handleGlobalKeydown(event) {
@@ -246,20 +182,12 @@
     }
   }
 
-  // ========================================
-  // Effects
-  // ========================================
-
   $effect(() => {
     if (typeof document === "undefined") return;
     document.addEventListener("keydown", handleGlobalKeydown);
     return () => document.removeEventListener("keydown", handleGlobalKeydown);
   });
 </script>
-
-<!-- ========================================
-     Snippets
-     ======================================== -->
 
 {#snippet loadingState()}
   <div class="placeholder">
@@ -275,10 +203,6 @@
   <div class="placeholder">{message}</div>
 {/snippet}
 
-<!-- ========================================
-     Modal UI
-     ======================================== -->
-
 {#if isOpen}
   <div
     class="debug-backdrop"
@@ -291,15 +215,9 @@
   >
     <div class="debug-modal" role="document">
       <div class="debug-body">
-
-        <!-- Two-column layout -->
         <div class="columns">
-
-          <!-- JSON Column -->
           <div class="column json-column">
-            <div class="column-header">
-              <span>JSON</span>
-            </div>
+            <div class="column-header"><span>JSON</span></div>
             <div class="column-content">
               {#if isLoading}
                 {@render loadingState()}
@@ -313,11 +231,8 @@
             </div>
           </div>
 
-          <!-- Text Column -->
           <div class="column readable-column">
-            <div class="column-header">
-              <span>Text</span>
-            </div>
+            <div class="column-header"><span>Text</span></div>
             <div class="column-content readable">
               {#if isLoading}
                 {@render loadingState()}
@@ -350,13 +265,12 @@
           </div>
         </div>
 
-        <!-- Footer with action buttons -->
         <div class="debug-footer">
           <div class="footer-left">
             <button
               class="footer-btn copy-btn"
               type="button"
-              onclick={handleCopyJson}
+              onclick={() => copyToClipboard(prettyJson, (value) => (copyJsonStatus = value), "COPY JSON")}
               disabled={!prettyJson}
               title="Copy JSON to clipboard"
             >
@@ -365,7 +279,7 @@
             <button
               class="footer-btn copy-btn"
               type="button"
-              onclick={handleCopyText}
+              onclick={() => copyToClipboard(transcriptText, (value) => (copyTextStatus = value), "COPY TEXT")}
               disabled={!transcriptText}
               title="Copy transcript text"
             >
@@ -390,10 +304,6 @@
 {/if}
 
 <style>
-  /* ========================================
-     Modal Backdrop & Container
-     ======================================== */
-
   .debug-backdrop {
     position: fixed;
     inset: 0;
@@ -428,10 +338,6 @@
     min-height: 0;
   }
 
-  /* ========================================
-     Two-Column Layout
-     ======================================== */
-
   .columns {
     display: flex;
     flex: 1;
@@ -459,10 +365,6 @@
     flex: 1;
   }
 
-  /* ========================================
-     Column Header & Content
-     ======================================== */
-
   .column-header {
     display: flex;
     align-items: center;
@@ -484,10 +386,6 @@
     overflow-x: hidden;
   }
 
-  /* ========================================
-     JSON Column Content
-     ======================================== */
-
   .json-content {
     margin: 0;
     padding: 0.5rem 0.75rem;
@@ -495,10 +393,6 @@
     white-space: pre-wrap;
     word-break: break-word;
   }
-
-  /* ========================================
-     Text Column Content
-     ======================================== */
 
   .readable {
     font-family: var(--font-mono);
@@ -549,10 +443,6 @@
     font-style: italic;
   }
 
-  /* ========================================
-     Shared States
-     ======================================== */
-
   .placeholder {
     font-size: 0.8rem;
     opacity: 0.8;
@@ -561,10 +451,6 @@
   .error {
     color: var(--color-accent);
   }
-
-  /* ========================================
-     Footer
-     ======================================== */
 
   .debug-footer {
     display: flex;
@@ -593,12 +479,7 @@
     cursor: default;
   }
 
-  /* ========================================
-     Responsive Layout
-     ======================================== */
-
   @media (max-width: 600px) {
-
     .json-column {
       display: none;
     }

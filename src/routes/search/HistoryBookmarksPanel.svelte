@@ -7,27 +7,21 @@
   let historyEntries = $state([]);
   let bookmarkEntries = $state([]);
 
-  async function loadHistory() {
+  function loadHistory() {
     try {
-      historyEntries = await visitedHistory.getRecent(10);
+      historyEntries = visitedHistory.getRecent(10);
     } catch (error) {
       console.error("Failed to load history:", error);
       historyEntries = [];
     }
   }
 
-  async function loadBookmarks() {
+  function loadBookmarks() {
     try {
       bookmarkEntries = bookmarks.getAll();
     } catch (error) {
       console.error("Failed to load bookmarks:", error);
       bookmarkEntries = [];
-    }
-  }
-
-  function handleSelectDate(date) {
-    if (onSelectDate) {
-      onSelectDate(date);
     }
   }
 
@@ -41,22 +35,26 @@
   });
 </script>
 
+{#snippet dateList(entries)}
+  <ul class="history-list">
+    {#each entries as entry (entry.date)}
+      <li class="history-list-item">
+        <button
+          class="history-list-btn"
+          type="button"
+          onclick={() => onSelectDate?.(entry.date)}
+        >
+          <span class="history-list-id">{entry.date}</span>
+        </button>
+      </li>
+    {/each}
+  </ul>
+{/snippet}
+
 <div class="history-view">
   <div class="history-column">
     <h3 class="history-column-title">History</h3>
-    <ul class="history-list">
-      {#each historyEntries as entry (entry.date)}
-        <li class="history-list-item">
-          <button
-            class="history-list-btn"
-            type="button"
-            onclick={() => handleSelectDate(entry.date)}
-          >
-            <span class="history-list-id">{entry.date}</span>
-          </button>
-        </li>
-      {/each}
-    </ul>
+    {@render dateList(historyEntries)}
   </div>
 
   <div class="history-column">
@@ -66,19 +64,7 @@
         <p>No bookmarks</p>
       </div>
     {:else}
-      <ul class="history-list">
-        {#each bookmarkEntries as entry (entry.date)}
-          <li class="history-list-item">
-            <button
-              class="history-list-btn"
-              type="button"
-              onclick={() => handleSelectDate(entry.date)}
-            >
-              <span class="history-list-id">{entry.date}</span>
-            </button>
-          </li>
-        {/each}
-      </ul>
+      {@render dateList(bookmarkEntries)}
     {/if}
   </div>
 </div>
@@ -111,7 +97,6 @@
     margin: 0 0 0.5rem 0;
     padding: 0.5rem;
     letter-spacing: 0px;
-    /* text-transform: uppercase; */
     text-align: center;
   }
 

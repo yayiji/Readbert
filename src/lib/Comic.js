@@ -1,21 +1,7 @@
-/**
- * Comic value object and data fetching utilities
- * Centralizes validation, creation, navigation, serialization, and loading logic.
- */
-
-import {
-  formatDate,
-  isValidComicDate,
-  isValidComicDateRange,
-  getFirstComicDate,
-  getLastComicDate
-} from './dateUtils.js';
+import { formatDate, isValidComicDate, isValidComicDateRange, getFirstComicDate, getLastComicDate } from './dateUtils.js';
 import { transcriptIndex } from './transcriptIndex.js';
 
-// Constants
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/yayiji/readbert@main/static';
-
-// ===== COMIC CLASS =====
 
 export class Comic {
   #transcriptPromise = null;
@@ -23,15 +9,13 @@ export class Comic {
   constructor({ date, formattedDate, url, transcript }) {
     this.date = date;
     this.formattedDate = formattedDate ?? formatDate(date);
-    this.url = url ?? Comic.#resolveImageUrl(this.year, this.date);
-    this.transcript = transcript ?? Comic.#resolveTranscript(this.date);
+    this.url = url ?? `${CDN_BASE}/dilbert-comics/${this.year}/${this.date}.gif`;
+    this.transcript = transcript ?? transcriptIndex.getTranscript(this.date);
   }
 
   get year() {
     return this.date.split('-')[0];
   }
-
-  // ===== NAVIGATION =====
 
   getPrevious() {
     const previousDate = Comic.#shiftDateWithinRange(this.date, -1);
@@ -42,8 +26,6 @@ export class Comic {
     const nextDate = Comic.#shiftDateWithinRange(this.date, 1);
     return nextDate ? Comic.fromDate(nextDate) : null;
   }
-
-  // ===== TRANSCRIPT LOADING =====
 
   async loadTranscript() {
     if (this.transcript) return this.transcript;
@@ -79,16 +61,12 @@ export class Comic {
     }
   }
 
-  // ===== STATIC FACTORY METHODS =====
-
   static isValid(date) {
-    if (!date || typeof date !== 'string') return false;
-    return isValidComicDate(date) && isValidComicDateRange(date);
+    return Boolean(date && typeof date === 'string' && isValidComicDate(date) && isValidComicDateRange(date));
   }
 
   static fromDate(date) {
-    if (!Comic.isValid(date)) return null;
-    return new Comic({ date });
+    return Comic.isValid(date) ? new Comic({ date }) : null;
   }
 
   static fromSerialized(value) {
@@ -117,91 +95,25 @@ export class Comic {
     return Comic.fromDate(randomDate);
   }
 
-  // ===== HIGH-LEVEL LOADERS =====
-
   static async load(date) {
-    try {
-      const comic = Comic.fromDate(date);
-      if (!comic) throw new Error('Comic not found');
-
-      return {
-        success: true,
-        comic,
-        previousComic: comic.getPrevious(),
-        nextComic: comic.getNext()
-      };
-    } catch (error) {
-      return {
-        success: false,
-        error: error.message
-      };
-    }
+    return Comic.#loaded(Comic.fromDate(date), 'Comic not found');
   }
 
   static async loadRandom() {
-    try {
-      const comic = Comic.random();
-      if (!comic) throw new Error('No comics available');
-
-      return {
-        success: true,
-        comic,
-        previousComic: comic.getPrevious(),
-        nextComic: comic.getNext()
-      };
-    } catch (error) {
-      return {
-        success: false,
-        error: error.message
-      };
-    }
+    return Comic.#loaded(Comic.random(), 'No comics available');
   }
 
   static async loadFirst() {
-    try {
-      const firstDate = getFirstComicDate();
-      if (!firstDate) throw new Error('First comic date not available');
-
-      const comic = Comic.fromDate(firstDate);
-      if (!comic) throw new Error('First comic not found');
-
-      return {
-        success: true,
-        comic,
-        previousComic: comic.getPrevious(),
-        nextComic: comic.getNext()
-      };
-    } catch (error) {
-      return {
-        success: false,
-        error: error.message
-      };
-    }
+    const firstDate = getFirstComicDate();
+    if (!firstDate) return { success: false, error: 'First comic date not available' };
+    return Comic.#loaded(Comic.fromDate(firstDate), 'First comic not found');
   }
 
   static async loadLast() {
-    try {
-      const lastDate = getLastComicDate();
-      if (!lastDate) throw new Error('Last comic date not available');
-
-      const comic = Comic.fromDate(lastDate);
-      if (!comic) throw new Error('Last comic not found');
-
-      return {
-        success: true,
-        comic,
-        previousComic: comic.getPrevious(),
-        nextComic: comic.getNext()
-      };
-    } catch (error) {
-      return {
-        success: false,
-        error: error.message
-      };
-    }
+    const lastDate = getLastComicDate();
+    if (!lastDate) return { success: false, error: 'Last comic date not available' };
+    return Comic.#loaded(Comic.fromDate(lastDate), 'Last comic not found');
   }
-
-  // ===== SERIALIZATION =====
 
   toJSON() {
     return {
@@ -212,7 +124,22 @@ export class Comic {
     };
   }
 
-  // ===== PRIVATE HELPERS =====
+  static #loaded(comic, missingMessage) {
+    try {
+      if (!comic) throw new Error(missingMessage);
+      return {
+        success: true,
+        comic,
+        previousComic: comic.getPrevious(),
+        nextComic: comic.getNext()
+      };
+    } catch (error) {
+      return {
+        success: false,
+        error: error.message
+      };
+    }
+  }
 
   static #shiftDateWithinRange(date, delta) {
     const firstDate = getFirstComicDate();
@@ -227,15 +154,5 @@ export class Comic {
 
     if (shifted < firstDate || shifted > lastDate) return null;
     return shifted;
-  }
-
-  static #resolveImageUrl(year, date) {
-    const cdnUrl = `${CDN_BASE}/dilbert-comics/${year}/${date}.gif`;
-    const localUrl = `/dilbert-comics/${year}/${date}.gif`;
-    return cdnUrl;
-  }
-
-  static #resolveTranscript(date) {
-    return transcriptIndex.getTranscript(date);
   }
 }

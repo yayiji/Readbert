@@ -15,7 +15,6 @@
   import { page } from "$app/stores";
   import { dev } from "$app/environment";
 
-  // ===== STATE =====
   let currentComic = $state(null);
   let previousComic = $state(null);
   let nextComic = $state(null);
@@ -31,7 +30,6 @@
     currentComic && isValidComicDateRange(currentComic.date),
   );
 
-  // ===== UI HANDLERS =====
   function openSearch() {
     isCommandPaletteOpen = true;
   }
@@ -45,18 +43,11 @@
   }
 
   function preloadComicImages() {
-    if (previousComic?.url) {
-      new Image().src = previousComic.url;
-    }
-    if (nextComic?.url) {
-      new Image().src = nextComic.url;
-    }
-    if (nextRandomComic?.url) {
-      new Image().src = nextRandomComic.url;
+    for (const comic of [previousComic, nextComic, nextRandomComic]) {
+      if (comic?.url) new Image().src = comic.url;
     }
   }
 
-  // ===== COMIC LOADING =====
   function updateUrlPath(date) {
     if (typeof window === "undefined") return;
 
@@ -82,12 +73,20 @@
       updateUrlPath(null);
     }
 
-    // async cache next random comic
     Comic.loadRandom().then((result) => {
       if (result?.comic) {
         nextRandomComic = Comic.fromSerialized(result.comic);
       }
     });
+  }
+
+  function applyLoadResult(result, ...failArgs) {
+    if (result) {
+      updateComicState(result.comic, result.previousComic, result.nextComic);
+    } else {
+      console.error(...failArgs);
+      isLoading = false;
+    }
   }
 
   async function loadComic(date) {
@@ -98,13 +97,11 @@
 
     isLoading = true;
     try {
-      const result = await Comic.load(date);
-      if (result) {
-        updateComicState(result.comic, result.previousComic, result.nextComic);
-      } else {
-        console.error("Failed to load comic for date:", date);
-        isLoading = false;
-      }
+      applyLoadResult(
+        await Comic.load(date),
+        "Failed to load comic for date:",
+        date,
+      );
     } catch (error) {
       console.error("Error loading comic:", error);
       isLoading = false;
@@ -114,49 +111,32 @@
   async function getRandomComic() {
     if (isLoading) return;
 
-    // Use preloaded next random comic if available
     if (nextRandomComic?.date) {
       loadComic(nextRandomComic.date);
       return;
     }
 
-    // Fallback: load random comic without cache
     isLoading = true;
     try {
-      const result = await Comic.loadRandom();
-      if (result) {
-        updateComicState(result.comic, result.previousComic, result.nextComic);
-      } else {
-        console.error("Failed to load random comic");
-        isLoading = false;
-      }
+      applyLoadResult(await Comic.loadRandom(), "Failed to load random comic");
     } catch (error) {
       console.error("Error loading random comic:", error);
       isLoading = false;
     }
   }
 
-  // ===== NAVIGATION =====
   function goToPrevious() {
-    if (previousComic?.date && !isLoading) {
-      loadComic(previousComic.date);
-    }
+    if (previousComic?.date && !isLoading) loadComic(previousComic.date);
   }
 
   function goToNext() {
-    if (nextComic?.date && !isLoading) {
-      loadComic(nextComic.date);
-    }
+    if (nextComic?.date && !isLoading) loadComic(nextComic.date);
   }
 
-  // ===== REACTIVE EFFECTS =====
-
-  // Initialize on mount
   $effect(() => {
     if (initialized) return;
 
     (async () => {
-      // Prefer route param (e.g. /[date]) and fall back to URL pathname
       const paramDate = $page.params?.date;
       const segments = $page.url.pathname.split("/").filter(Boolean);
       const urlDate = paramDate ?? segments[0];
@@ -181,13 +161,10 @@
       }
 
       initialized = true;
-
-      // Initialize databases early for better performance
       initializeDatabases();
     })();
   });
 
-  // Watch for selectedDate changes (from date picker or search palette)
   $effect(() => {
     if (
       initialized &&
@@ -230,7 +207,6 @@
           {currentComic}
           {isLoading}
           onImageLoad={handleImageLoad}
-          onSelectDate={(date) => (selectedDate = date)}
           shortcutsDisabled={isCommandPaletteOpen}
         />
 

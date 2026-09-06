@@ -1,10 +1,4 @@
 <script>
-  /**
-   * TranscriptPanel component
-   * Displays the AI-generated transcript for a comic with panels and dialogue
-   */
-
-  // Props using Svelte 5 $props rune
   let { transcript = null } = $props();
 </script>
 
@@ -27,7 +21,6 @@
 {/if}
 
 <style>
-  /* ===== TRANSCRIPT STYLES ===== */
   .transcript-container {
     margin: 1.2rem auto 0;
     max-width: 550px;
@@ -70,7 +63,6 @@
     margin-bottom: 0;
   }
 
-  /* ===== MOBILE RESPONSIVE STYLES ===== */
   @media (max-width: 600px) {
     .transcript-table td {
       padding: 0.6rem 0.5rem;

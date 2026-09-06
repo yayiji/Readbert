@@ -1,12 +1,13 @@
 <script>
   import { createEventDispatcher } from "svelte";
+  import { getFirstComicDate, getLastComicDate } from "$lib/dateUtils.js";
 
   let { value = "" } = $props();
 
-  const MIN_DATE = "1989-04-16";
-  const MAX_DATE = "2023-03-12";
-  const MIN_YEAR = 1989;
-  const MAX_YEAR = 2023;
+  const MIN_DATE = getFirstComicDate();
+  const MAX_DATE = getLastComicDate();
+  const MIN_YEAR = Number(MIN_DATE.slice(0, 4));
+  const MAX_YEAR = Number(MAX_DATE.slice(0, 4));
   const minDate = new Date(`${MIN_DATE}T00:00:00`);
   const maxDate = new Date(`${MAX_DATE}T23:59:59`);
   const weekdays = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];

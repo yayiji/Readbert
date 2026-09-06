@@ -93,7 +93,6 @@
 	--border-radius: 8px;
 
 	/* Typography */
-	/* --font-serif: "New York", "Times New Roman", Times, serif; */
 	--font-serif: "Times New Roman", Times, serif;
 	--font-pixel: 'Departure Mono';
 	--font-mono: "Courier New", monospace;
@@ -124,9 +123,6 @@
 }
 
 body {
-	/* font-family: var(--font-sans); */
-	/* font-family: var(--font-sans-lato);
-	font-family: var(--font-sans-arial); */
 	font-family: var(--font-serif);
 	font-size: 1rem;
 	margin: 0;

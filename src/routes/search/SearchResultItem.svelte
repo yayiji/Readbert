@@ -1,22 +1,19 @@
 <script>
+  import { formatShortDate } from "$lib/dateUtils.js";
   import { highlightText } from "$lib/searchIndex.js";
 
-  let {
-    result,
-    index,
-    isSelected = false,
-    searchQuery,
-    onSelect,
-    onKeydown
-  } = $props();
+  let { result, index, isSelected = false, searchQuery, onSelect, onKeydown } = $props();
 
-  function formatDate(dateStr) {
-    return new Date(dateStr).toLocaleDateString("en-US", {
-      year: "numeric",
-      month: "short",
-      day: "numeric",
-    });
-  }
+  const excerpts = $derived(
+    result.comic.panels.flatMap((panel, panelIndex) =>
+      panel.dialogue.flatMap((dialogue, dialogueIndex) => {
+        const hasMatch = result.matches.some(
+          (match) => match.panelIndex === panelIndex && match.dialogueIndex === dialogueIndex,
+        );
+        return hasMatch ? [dialogue] : [];
+      }),
+    ),
+  );
 </script>
 
 <button
@@ -30,33 +27,26 @@
   tabindex="0"
 >
   <div class="result-content">
-    <div class="result-date">{formatDate(result.date)}</div>
+    <div class="result-date">{formatShortDate(result.date)}</div>
   </div>
   <div class="result-preview">
     <div class="comic-container">
       <img
         src={result.comicEntity?.url ?? ""}
-        alt={`Dilbert comic from ${formatDate(result.date)}`}
+        alt={`Dilbert comic from ${formatShortDate(result.date)}`}
         class="comic-image"
         loading="lazy"
       />
     </div>
   </div>
   <div class="result-text">
-    {#each result.comic.panels as panel, panelIndex}
-      {#each panel.dialogue as dialogue, dialogueIndex}
-        {@const hasMatch = result.matches.some(
-          (m) => m.panelIndex === panelIndex && m.dialogueIndex === dialogueIndex
+    {#each excerpts as dialogue}
+      <span class="dialogue-excerpt">
+        {@html highlightText(
+          dialogue.slice(0, 120) + (dialogue.length > 120 ? "..." : ""),
+          searchQuery,
         )}
-        {#if hasMatch}
-          <span class="dialogue-excerpt">
-            {@html highlightText(
-              dialogue.slice(0, 120) + (dialogue.length > 120 ? "..." : ""),
-              searchQuery
-            )}
-          </span>
-        {/if}
-      {/each}
+      </span>
     {/each}
   </div>
 </button>
@@ -76,8 +66,6 @@
     text-align: left;
     width: 100%;
     font-family: var(--font-sans);
-    /* font-family: var(--font-mono2); */
-    font-size: inherit;
     font-size: 0.85rem;
     color: var(--color-text-overlay);
     height: auto;
@@ -90,7 +78,6 @@
     background: var(--color-surface-strong);
   }
 
-  /* .result-item:hover, */
   .result-item.selected {
     background: var(--color-surface-strong);
     border: 3px solid var(--color-border);
@@ -132,7 +119,6 @@
   }
 
   .result-date {
-    font-weight: bold;
     font-weight: 500;
     margin-bottom: 0;
   }
@@ -150,7 +136,6 @@
   }
 
   .dialogue-excerpt {
-    /* font-family: var(--font-mono); */
     display: block;
   }
 

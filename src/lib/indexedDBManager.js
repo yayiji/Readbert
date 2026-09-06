@@ -1,15 +1,8 @@
-/**
- * Centralized IndexedDB Manager for Dilbert Comics
- * Manages a single database with multiple stores for better organization
- */
-
 import { openDB } from 'idb';
 
-// Constants
 const DB_NAME = 'DilbertDB-v3';
 const DB_VERSION = 1;
 
-// Store names
 export const STORES = {
   TRANSCRIPTS: 'transcripts',
   IMAGE_URLS: 'imageUrls',
@@ -22,48 +15,35 @@ class IndexedDBManager {
     this.initPromise = null;
   }
 
-  // ===== INITIALIZATION =====
-
   async init() {
     if (this.db) return this.db;
     if (this.initPromise) return this.initPromise;
 
-    this.initPromise = this._openDB();
+    this.initPromise = this.#openDB();
     this.db = await this.initPromise;
     return this.db;
   }
 
-  async _openDB() {
-    if (!this._isSupported()) {
+  async #openDB() {
+    if (typeof window === 'undefined' || !('indexedDB' in window) || indexedDB === null) {
       console.warn('IndexedDB not supported');
       return null;
     }
 
     return openDB(DB_NAME, DB_VERSION, {
       upgrade(db) {
-        if (!db.objectStoreNames.contains(STORES.TRANSCRIPTS)) {
-          db.createObjectStore(STORES.TRANSCRIPTS);
-        }
-        if (!db.objectStoreNames.contains(STORES.IMAGE_URLS)) {
-          db.createObjectStore(STORES.IMAGE_URLS);
-        }
-        if (!db.objectStoreNames.contains(STORES.SEARCH_INDEX)) {
-          db.createObjectStore(STORES.SEARCH_INDEX);
+        for (const storeName of Object.values(STORES)) {
+          if (!db.objectStoreNames.contains(storeName)) {
+            db.createObjectStore(storeName);
+          }
         }
       }
     });
   }
 
-  _isSupported() {
-    return typeof window !== 'undefined' && 'indexedDB' in window && indexedDB !== null;
-  }
-
-  // ===== STORE OPERATIONS =====
-
   async get(storeName, key) {
     const db = await this.init();
-    if (!db) return null;
-    return db.get(storeName, key);
+    return db ? db.get(storeName, key) : null;
   }
 
   async put(storeName, value, key) {
@@ -86,16 +66,13 @@ class IndexedDBManager {
 
   async getAllKeys(storeName) {
     const db = await this.init();
-    if (!db) return [];
-    return db.getAllKeys(storeName);
+    return db ? db.getAllKeys(storeName) : [];
   }
 
   async getAll(storeName) {
     const db = await this.init();
-    if (!db) return [];
-    return db.getAll(storeName);
+    return db ? db.getAll(storeName) : [];
   }
 }
 
-// Export singleton instance
 export const indexedDB = new IndexedDBManager();

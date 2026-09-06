@@ -1,12 +1,12 @@
 <script>
   import { dev } from "$app/environment";
   import { bookmarks } from "$lib/bookmarks.js";
+  import { isEditableTarget } from "$lib/keyboard.js";
 
   let {
     currentComic,
     isLoading,
     onImageLoad,
-    onSelectDate,
     shortcutsDisabled = false,
   } = $props();
 
@@ -17,26 +17,18 @@
   const DILBERT_ALL_BASE =
     "https://github.com/yayiji/Readbert/blob/main/static/dilbert-all";
 
-  function shouldIgnoreShortcut(target) {
-    if (!target) return false;
-    const tagName = target.tagName;
-    return (
-      tagName === "INPUT" ||
-      tagName === "TEXTAREA" ||
-      target?.isContentEditable ||
-      target?.closest?.("input, textarea, [contenteditable='true']")
-    );
-  }
-
   function openDilbertAsset(extension) {
     if (!currentComic?.date) return;
     const year = currentComic.date.split("-")[0];
-    const targetUrl = `${DILBERT_ALL_BASE}/${year}/${currentComic.date}.${extension}`;
-    window.open(targetUrl, "_blank", "noopener,noreferrer");
+    window.open(
+      `${DILBERT_ALL_BASE}/${year}/${currentComic.date}.${extension}`,
+      "_blank",
+      "noopener,noreferrer",
+    );
   }
 
   function handleShortcutKeydown(event) {
-    if (!dev || shortcutsDisabled || shouldIgnoreShortcut(event.target)) return;
+    if (!dev || shortcutsDisabled || isEditableTarget(event.target)) return;
     if (event.key === "w") {
       event.preventDefault();
       openDilbertAsset("gif");
@@ -48,8 +40,7 @@
 
   function handleToggleBookmark() {
     if (!currentComic?.date) return;
-    const newState = bookmarks.toggleBookmark(currentComic.date);
-    isBookmarked = newState;
+    isBookmarked = bookmarks.toggleBookmark(currentComic.date);
   }
 
   function clearTouchBookmarkTimer() {
@@ -72,7 +63,6 @@
     if (event.pointerType === "mouse") return;
     if (typeof window === "undefined") return;
     if (!window.matchMedia("(max-width: 600px)").matches) return;
-
     showTouchBookmark();
   }
 
@@ -83,12 +73,9 @@
   });
 
   $effect(() => {
-    if (currentComic?.date) {
-      isBookmarked = bookmarks.isBookmarked(currentComic.date);
-    } else {
-      isBookmarked = false;
-    }
-
+    isBookmarked = currentComic?.date
+      ? bookmarks.isBookmarked(currentComic.date)
+      : false;
     isTouchBookmarkVisible = false;
     clearTouchBookmarkTimer();
     return () => clearTouchBookmarkTimer();
@@ -113,7 +100,8 @@
         stroke-width="2"
         stroke-linecap="round"
         stroke-linejoin="round"
-        ><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z" />
+      >
+        <path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z" />
       </svg>
     </button>
     <img
@@ -126,20 +114,10 @@
     />
 
     <div class="comic-actions" role="menu" aria-hidden="true">
-      <button
-        class="action-btn"
-        type="button"
-        onclick={() => openDilbertAsset("gif")}
-        role="menuitem"
-      >
+      <button class="action-btn" type="button" onclick={() => openDilbertAsset("gif")} role="menuitem">
         Comic
       </button>
-      <button
-        class="action-btn"
-        type="button"
-        onclick={() => openDilbertAsset("json")}
-        role="menuitem"
-      >
+      <button class="action-btn" type="button" onclick={() => openDilbertAsset("json")} role="menuitem">
         Transcript
       </button>
     </div>
@@ -193,7 +171,6 @@
   }
 
   .bookmark-toggle:hover {
-    /* transform: scale(1.1); */
     background: var(--color-glass-strong);
     box-shadow: 0 0 8px var(--color-shadow);
   }
@@ -212,7 +189,7 @@
     border: 1.5px solid var(--color-border-strong);
     box-shadow: 0 0 16px var(--color-shadow);
     padding: 0.3rem 0.6rem;
-    display: flex;
+    display: none;
     gap: 0.5rem;
     visibility: hidden;
     pointer-events: none;
@@ -253,10 +230,6 @@
 
   .comic-image.loading {
     opacity: 0.5;
-  }
-
-  .comic-actions {
-    display: none;
   }
 
   @media (max-width: 768px) {

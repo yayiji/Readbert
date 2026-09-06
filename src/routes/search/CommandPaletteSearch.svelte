@@ -5,10 +5,8 @@
   import SearchResultItem from "./SearchResultItem.svelte";
   import SearchInput from "./SearchInput.svelte";
 
-  // Props
   let { isOpen = $bindable(false), selectedDate = $bindable("") } = $props();
 
-  // State
   let searchQuery = $state("");
   let searchResults = $state([]);
   let selectedIndex = $state(0);
@@ -19,18 +17,13 @@
   let historyPanel = $state();
   let searchTimeout;
 
-  // Derived state
   const hasQuery = $derived(searchQuery.trim().length > 0);
   const queryTooShort = $derived(hasQuery && searchQuery.trim().length < 3);
   const hasResults = $derived(searchResults.length > 0);
-
   const showHistoryView = $derived(!hasQuery);
   const showTooShortMessage = $derived(queryTooShort);
-  const showNoResults = $derived(
-    hasQuery && !hasResults && !isSearching && !queryTooShort,
-  );
+  const showNoResults = $derived(hasQuery && !hasResults && !isSearching && !queryTooShort);
 
-  // Search
   async function performSearch(query) {
     clearTimeout(searchTimeout);
 
@@ -63,7 +56,6 @@
     }, 150);
   }
 
-  // Modal control
   function closeModal() {
     isOpen = false;
     searchQuery = "";
@@ -71,12 +63,7 @@
     selectedIndex = 0;
   }
 
-  function selectResult(result) {
-    selectedDate = result.date;
-    closeModal();
-  }
-
-  function handleHistorySelect(date) {
+  function selectDateAndClose(date) {
     selectedDate = date;
     closeModal();
   }
@@ -85,16 +72,12 @@
     if (event.target === event.currentTarget) closeModal();
   }
 
-  // Grid navigation
   function getColumnsPerRow() {
     const containerWidth = resultsContainer?.offsetWidth || 900;
     const itemMinWidth = 350;
     const gap = 16;
     const padding = 32;
-    return Math.max(
-      1,
-      Math.floor((containerWidth - padding + gap) / (itemMinWidth + gap)),
-    );
+    return Math.max(1, Math.floor((containerWidth - padding + gap) / (itemMinWidth + gap)));
   }
 
   function scrollToSelected() {
@@ -111,17 +94,22 @@
           behavior: "smooth",
         });
       } else {
-        const element = resultsContainer?.querySelector(
-          `[data-index="${selectedIndex}"]`,
-        );
-        element?.scrollIntoView({ block: "nearest", behavior: "smooth" });
+        resultsContainer
+          ?.querySelector(`[data-index="${selectedIndex}"]`)
+          ?.scrollIntoView({ block: "nearest", behavior: "smooth" });
       }
     }, 0);
   }
 
-  // Keyboard navigation
   function isCommandK(event) {
     return event.metaKey && event.key.toLowerCase() === "k";
+  }
+
+  function moveSelection(delta) {
+    const nextIndex = selectedIndex + delta;
+    if (nextIndex < 0 || nextIndex >= searchResults.length) return;
+    selectedIndex = nextIndex;
+    scrollToSelected();
   }
 
   function handleGlobalKeydown(event) {
@@ -136,7 +124,6 @@
     if (!isOpen) return;
 
     event.stopPropagation();
-
     if (event.key === "Escape") {
       event.preventDefault();
       closeModal();
@@ -148,20 +135,12 @@
 
     event.stopPropagation();
 
-    // Close on Cmd+K
-    if (isCommandK(event)) {
+    if (isCommandK(event) || event.key === "Escape") {
       event.preventDefault();
       closeModal();
       return;
     }
 
-    if (event.key === "Escape") {
-      event.preventDefault();
-      closeModal();
-      return;
-    }
-
-    // Only handle arrow keys when we have results
     if (!hasResults) return;
 
     const columnsPerRow = getColumnsPerRow();
@@ -169,42 +148,29 @@
     switch (event.key) {
       case "ArrowDown":
         event.preventDefault();
-        if (selectedIndex + columnsPerRow < searchResults.length) {
-          selectedIndex += columnsPerRow;
-          scrollToSelected();
-        }
+        moveSelection(columnsPerRow);
         break;
       case "ArrowUp":
         event.preventDefault();
-        if (selectedIndex - columnsPerRow >= 0) {
-          selectedIndex -= columnsPerRow;
-          scrollToSelected();
-        }
+        moveSelection(-columnsPerRow);
         break;
       case "ArrowRight":
         event.preventDefault();
-        if (selectedIndex < searchResults.length - 1) {
-          selectedIndex++;
-          scrollToSelected();
-        }
+        moveSelection(1);
         break;
       case "ArrowLeft":
         event.preventDefault();
-        if (selectedIndex > 0) {
-          selectedIndex--;
-          scrollToSelected();
-        }
+        moveSelection(-1);
         break;
       case "Enter":
         event.preventDefault();
         if (searchResults[selectedIndex]) {
-          selectResult(searchResults[selectedIndex]);
+          selectDateAndClose(searchResults[selectedIndex].date);
         }
         break;
     }
   }
 
-  // Effects
   $effect(() => {
     if (searchQuery !== undefined) performSearch(searchQuery);
   });
@@ -224,9 +190,7 @@
       .then(() => {
         indexLoaded = true;
       })
-      .catch((error) =>
-        console.error("Failed to preload search index:", error),
-      );
+      .catch((error) => console.error("Failed to preload search index:", error));
 
     return () => {
       document.removeEventListener("keydown", handleGlobalKeydown);
@@ -234,6 +198,13 @@
     };
   });
 </script>
+
+{#snippet statusMessage(title, subtitle)}
+  <div class="message">
+    <div class="message-title">{title}</div>
+    <div class="message-subtitle">{subtitle}</div>
+  </div>
+{/snippet}
 
 {#if isOpen}
   <div
@@ -256,16 +227,10 @@
 
       <div class="results" bind:this={resultsContainer}>
         {#if showNoResults}
-          <div class="message">
-            <div class="message-title">No Comics Found</div>
-            <div class="message-subtitle">
-              {#if !indexLoaded}
-                Search index is still loading...
-              {:else}
-                Try different keywords or phrases
-              {/if}
-            </div>
-          </div>
+          {@render statusMessage(
+            "No Comics Found",
+            indexLoaded ? "Try different keywords or phrases" : "Search index is still loading...",
+          )}
         {:else if hasResults}
           <div class="results-grid">
             {#each searchResults as result, index}
@@ -274,22 +239,17 @@
                 {index}
                 {searchQuery}
                 isSelected={index === selectedIndex}
-                onSelect={selectResult}
+                onSelect={(item) => selectDateAndClose(item.date)}
                 onKeydown={handleResultsKeydown}
               />
             {/each}
           </div>
         {:else if showTooShortMessage}
-          <div class="message">
-            <div class="message-title">Keep Typing...</div>
-            <div class="message-subtitle">
-              Type at least 3 characters to search
-            </div>
-          </div>
+          {@render statusMessage("Keep Typing...", "Type at least 3 characters to search")}
         {:else if showHistoryView}
           <HistoryBookmarksPanel
             bind:this={historyPanel}
-            onSelectDate={handleHistorySelect}
+            onSelectDate={selectDateAndClose}
           />
         {/if}
       </div>
@@ -311,12 +271,8 @@
   }
 
   @keyframes fade-in {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 
   .palette {
@@ -334,7 +290,6 @@
     overflow: hidden;
     animation: slide-in 0.15s ease-out;
     font-family: var(--font-sans);
-    /* font-family: inherit; */
   }
 
   @keyframes slide-in {
@@ -382,7 +337,6 @@
     color: var(--color-muted);
   }
 
-  /* Responsive */
   @media (max-width: 1024px) {
     .results-grid {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

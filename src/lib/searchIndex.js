@@ -1,8 +1,3 @@
-/**
- * Search Index for Dilbert Comics
- * Builds and manages searchable index using the transcript index.
- */
-
 import { indexedDB, STORES } from './indexedDBManager.js';
 import { transcriptIndex } from './transcriptIndex.js';
 
@@ -14,35 +9,26 @@ class SearchIndex {
     this.cacheKey = 'dilbert-search-index';
   }
 
-  // ===== PUBLIC API =====
-
   async load() {
     if (this.loadPromise) return this.loadPromise;
-    this.loadPromise = this._buildIndex();
+    this.loadPromise = this.#buildIndex();
     return this.loadPromise;
   }
 
   search(query, maxResults = 50) {
-    if (!this.isLoaded) {
-      throw new Error('Search index not loaded');
-    }
-    if (!transcriptIndex.isDatabaseLoaded()) {
-      throw new Error('Transcript index not loaded');
-    }
+    if (!this.isLoaded) throw new Error('Search index not loaded');
+    if (!transcriptIndex.isDatabaseLoaded()) throw new Error('Transcript index not loaded');
     if (!query?.trim()) return [];
 
     const queryLower = query.toLowerCase();
-    const queryWords = this._extractWords(queryLower);
+    const queryWords = this.#extractWords(queryLower);
     if (queryWords.length === 0) return [];
 
     const candidateComics = new Set();
     for (const word of queryWords) {
       const comicsWithWord = this.index.get(word);
-      if (comicsWithWord) {
-        for (const date of comicsWithWord) {
-          candidateComics.add(date);
-        }
-      }
+      if (!comicsWithWord) continue;
+      for (const date of comicsWithWord) candidateComics.add(date);
     }
 
     const results = [];
@@ -50,15 +36,15 @@ class SearchIndex {
       const comic = transcriptIndex.getTranscript(date);
       if (!comic) continue;
 
-      const matches = this._findMatches(comic, queryLower);
-      if (matches.length > 0) {
-        results.push({
-          date,
-          comic,
-          matches,
-          score: this._scoreComic(comic, queryLower, matches)
-        });
-      }
+      const matches = this.#findMatches(comic, queryLower);
+      if (matches.length === 0) continue;
+
+      results.push({
+        date,
+        comic,
+        matches,
+        score: this.#scoreComic(comic, queryLower, matches)
+      });
     }
 
     results.sort((a, b) => b.score - a.score);
@@ -101,22 +87,22 @@ class SearchIndex {
     return this.load();
   }
 
-  // ===== LOADING =====
-
-  async _buildIndex() {
+  async #buildIndex() {
     if (this.isLoaded) return;
 
     console.log('Loading search index...');
     const startTime = Date.now();
     await transcriptIndex.load();
 
-    const cachedIndex = await this._loadFromCache();
+    const cachedIndex = await this.#loadFromCache();
     if (cachedIndex) {
-      this._loadCachedIndex(cachedIndex);
+      this.index = new Map(
+        Object.entries(cachedIndex).map(([word, dates]) => [word, new Set(dates)])
+      );
     } else {
       console.log('📝 Building search index from transcript index...');
-      this._buildFromTranscriptIndex();
-      await this._saveToCache();
+      this.#buildFromTranscriptIndex();
+      await this.#saveToCache();
     }
 
     console.log(`✅ Search index loaded in ${Date.now() - startTime}ms`);
@@ -124,52 +110,31 @@ class SearchIndex {
     this.isLoaded = true;
   }
 
-  _buildFromTranscriptIndex() {
+  #buildFromTranscriptIndex() {
     this.index.clear();
-    const availableDates = transcriptIndex.getAvailableDates();
-
-    for (const date of availableDates) {
+    for (const date of transcriptIndex.getAvailableDates()) {
       const transcript = transcriptIndex.getTranscript(date);
-      if (transcript) {
-        this._indexTranscript(transcript);
-      }
+      if (transcript) this.#indexTranscript(transcript);
     }
   }
 
-  _indexTranscript(transcript) {
-    const allText = [];
-    for (const panel of transcript.panels) {
-      for (const dialogue of panel.dialogue) {
-        allText.push(dialogue);
-      }
-    }
+  #indexTranscript(transcript) {
+    const text = transcript.panels
+      .flatMap((panel) => panel.dialogue)
+      .join(' ')
+      .toLowerCase();
 
-    const text = allText.join(' ').toLowerCase();
-    const words = this._extractWords(text);
-
-    for (const word of words) {
-      if (!this.index.has(word)) {
-        this.index.set(word, new Set());
-      }
+    for (const word of this.#extractWords(text)) {
+      if (!this.index.has(word)) this.index.set(word, new Set());
       this.index.get(word).add(transcript.date);
     }
   }
 
-  _loadCachedIndex(indexData) {
-    this.index.clear();
-    for (const [word, dates] of Object.entries(indexData)) {
-      this.index.set(word, new Set(dates));
-    }
-  }
-
-  // ===== CACHE MANAGEMENT =====
-
-  async _loadFromCache() {
+  async #loadFromCache() {
     try {
       const cachedData = await indexedDB.get(STORES.SEARCH_INDEX, this.cacheKey);
       if (cachedData) {
-        const totalWords = Object.keys(cachedData).length;
-        console.log(`💾 Loaded search index from cache (${totalWords} words)`);
+        console.log(`💾 Loaded search index from cache (${Object.keys(cachedData).length} words)`);
       }
       return cachedData;
     } catch (error) {
@@ -178,7 +143,7 @@ class SearchIndex {
     }
   }
 
-  async _saveToCache() {
+  async #saveToCache() {
     try {
       const indexData = {};
       for (const [word, dates] of this.index.entries()) {
@@ -186,7 +151,6 @@ class SearchIndex {
       }
 
       await indexedDB.put(STORES.SEARCH_INDEX, indexData, this.cacheKey);
-
       const sizeMB = (JSON.stringify(indexData).length / 1024 / 1024).toFixed(2);
       console.log(`💾 Search index cached successfully (${sizeMB} MB)`);
     } catch (error) {
@@ -194,9 +158,7 @@ class SearchIndex {
     }
   }
 
-  // ===== SEARCH UTILITIES =====
-
-  _extractWords(text) {
+  #extractWords(text) {
     return text
       .replace(/[^\w\s]/g, ' ')
       .split(/\s+/)
@@ -204,17 +166,14 @@ class SearchIndex {
       .map((word) => word.toLowerCase());
   }
 
-  _findMatches(comic, query) {
+  #findMatches(comic, query) {
     const matches = [];
 
-    for (let panelIndex = 0; panelIndex < comic.panels.length; panelIndex++) {
-      const panel = comic.panels[panelIndex];
-
-      for (let dialogueIndex = 0; dialogueIndex < panel.dialogue.length; dialogueIndex++) {
-        const dialogue = panel.dialogue[dialogueIndex];
+    comic.panels.forEach((panel, panelIndex) => {
+      panel.dialogue.forEach((dialogue, dialogueIndex) => {
         const dialogueLower = dialogue.toLowerCase();
-
         let startIndex = 0;
+
         while (true) {
           const index = dialogueLower.indexOf(query, startIndex);
           if (index === -1) break;
@@ -230,19 +189,16 @@ class SearchIndex {
 
           startIndex = index + 1;
         }
-      }
-    }
+      });
+    });
 
     return matches;
   }
 
-  _scoreComic(comic, query, matches) {
+  #scoreComic(comic, query, matches) {
     let score = matches.length * 10;
 
-    const exactMatches = matches.filter((match) =>
-      match.dialogue.toLowerCase().includes(query)
-    );
-    score += exactMatches.length * 20;
+    score += matches.filter((match) => match.dialogue.toLowerCase().includes(query)).length * 20;
 
     for (const match of matches) {
       const dialogueLength = match.dialogue.length;
@@ -254,8 +210,6 @@ class SearchIndex {
     return score;
   }
 }
-
-// ===== EXPORTS =====
 
 export const searchIndex = new SearchIndex();
 
@@ -277,9 +231,7 @@ export function highlightText(text, query) {
     }
 
     result += text.substring(lastIndex, index);
-    const match = text.substring(index, index + query.length);
-    result += '<mark>' + match + '</mark>';
-
+    result += `<mark>${text.substring(index, index + query.length)}</mark>`;
     lastIndex = index + query.length;
     currentIndex = index + query.length;
   }

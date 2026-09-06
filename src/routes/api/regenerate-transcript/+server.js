@@ -1,5 +1,6 @@
 import { json } from "@sveltejs/kit";
 import { OPENROUTER_API_KEY } from "$env/static/private";
+import { cleanJsonResponse } from "$lib/cleanJsonResponse.js";
 import { isValidComicDate, isValidComicDateRange } from "$lib/dateUtils.js";
 import { TRANSCRIPTION_PROMPT } from "$lib/prompts.js";
 
@@ -11,22 +12,6 @@ const MAX_RETRIES = 3;
 
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-function cleanJsonResponse(text) {
-  let cleaned = text.trim();
-
-  if (cleaned.startsWith("```json")) {
-    cleaned = cleaned.replace(/^```json\s*\n?/, "");
-  } else if (cleaned.startsWith("```")) {
-    cleaned = cleaned.replace(/^```\s*\n?/, "");
-  }
-
-  if (cleaned.endsWith("```")) {
-    cleaned = cleaned.replace(/\n?```\s*$/, "");
-  }
-
-  return cleaned.trim();
 }
 
 function getImageUrl(date, baseUrl) {
