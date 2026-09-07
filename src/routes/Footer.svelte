@@ -1,7 +1,7 @@
 <footer class="footer">
   <div class="footer-inner">
     <nav class="footer-links" aria-label="External links">
-      <a
+      <!-- <a
         class="footer-link"
         href="https://dilbert.com/"
         target="_blank"
@@ -9,7 +9,7 @@
         aria-label="Dilbert official site"
       >
         <img src="/icons/dilbert.webp" alt="" class="footer-avatar" />
-      </a>
+      </a> -->
       <a
         class="footer-link"
         href="https://github.com/yayiji/Readbert"
@@ -47,7 +47,7 @@
 <style>
   .footer {
     margin-top: 300px;
-    padding: 1.5rem 0 2rem;
+    padding: 1.5rem 0 1.5rem;
   }
 
   .footer-inner {
@@ -61,7 +61,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1.1rem;
+    gap: 1.2rem;
   }
 
   .footer-link {
